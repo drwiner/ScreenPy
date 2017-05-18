@@ -51,7 +51,7 @@ test_text = 'THIS IS A PARSABLE STRING (in 1985), and there\'s more (that meets 
 print('\t{}'.format(test_text))
 for result, start, end in MODIFIER.scanString(test_text):
 	print("\tFound \"{}\" at [{}:{}]".format(result, start, end))
-	print('\tresult[\'paren\'][\'words\']: {}'.format(result['paren']['words']))
+	print('\tresult[\'paren\'][\'words\']: {}'.format(result['modifier']))
 
 # Test Time of Day
 # ToD = pp.Combine(pp.OneOrMore(pp.Word(ALPHANUMS)).addCondition(lambda tokens: is_time(tokens)) + OPT_M, joinString=' ', adjacent=False).setResultsName('ToD')
@@ -60,6 +60,7 @@ for i, ti in enumerate(t):
 	print('\tt{}'.format(str(i + 1)))
 	for result, start, end in ToD.scanString(ti):
 		print("\t\tFound \"{}\" at [{}:{}]".format(result, start, end))
+		print('\tresult[\'paren\'][\'words\']: {}'.format(result['ToD']))
 
 # test SUBJ
 # ST = SHOT_TYPES + OPT_M
@@ -71,7 +72,7 @@ for i, ti in enumerate(t):
 	print('\tt{}'.format(str(i + 1)))
 	for result, start, end in SUBJ.scanString(ti):
 		print("\t\tFound \"{}\" at [{}:{}]".format(result, start, end))
-
+		print('\tresult[\'paren\'][\'words\']: {}'.format(result['Setting']))
 
 # test SHOT
 # SHOT = SHOT_TYPES + OPT_P + SUB
