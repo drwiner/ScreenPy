@@ -82,12 +82,10 @@ for i, ti in enumerate(t):
 	for result, start, end in SUBJ.scanString(ti):
 		print("\t\tFound \"{}\" at [{}:{}]".format(result, start, end))
 
-
 # test setting
 # old SEG
 # SEG = HYPHEN + pp.Combine(pp.OneOrMore(~EOL + pp.Word(ALPHANUMS), stopOn=HYPHEN | EOL), joinString=' ', adjacent=False)
 setting = TERIOR + CAPS + pp.ZeroOrMore(pp.Optional(HYPHEN + CAPS))
-
 for i, ti in enumerate(t):
 	# print(ti)
 	print('\tt{}'.format(str(i+1)))

@@ -57,39 +57,40 @@ OPT_M = pp.Optional(MODIFIER)
 # ToD
 ToD = pp.Combine(pp.OneOrMore(pp.Word(ALPHANUMS)).addCondition(lambda tokens: is_time(tokens)) + OPT_M, joinString=' ', adjacent=False).setResultsName('ToD')
 # Opt-ToD
-OPT_ToD = pp.Optional(HYPHEN + ToD)
+OPT_ToD = pp.Optional(pp.Combine(HYPHEN + ToD, joinString=' ', adjacent=False))
 
 
 # preposition for camera transitions
 prep = pp.oneOf(['ON', 'WITH', 'TO', 'TOWARDS', 'FROM', 'IN', 'UNDER', 'OVER', 'ABOVE', 'AROUND', 'INTO'])
 # Opt-P
-OPT_P = OPT_H | prep
+OPT_P = pp.Combine(OPT_H | prep, joinString=' ', adjacent=False)
 
 
 # ST
-ST = SHOT_TYPES + OPT_M
+ST = pp.Combine(SHOT_TYPES + OPT_M, joinString=' ', adjacent=False)
 # Subj
-SUBJ = pp.OneOrMore(CAPS.copy().addCondition(lambda token: not is_date(token)) + OPT_M,
-                     stopOn=EOL | pp.Empty.addCondition(lambda x: is_date(x)))
+SUBJ = pp.Combine(pp.OneOrMore(CAPS.copy().addCondition(lambda token: not is_date(token)) + OPT_M,
+                     stopOn=EOL | pp.Empty.addCondition(lambda x: is_date(x))), joinString=' ', adjacent=False)
 # SUB
-SUB = SUBJ + OPT_ToD
+SUB = pp.Combine(SUBJ + OPT_ToD, joinString=' ', adjacent=False)
 
 
 # T
 TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.'])
 # Loc
-LOC = pp.OneOrMore(HYPHEN + CAPS.copy().addCondition(lambda token: not is_shot(token)) + OPT_M)
+LOC = pp.Combine(pp.OneOrMore(HYPHEN + CAPS.copy().addCondition(lambda token: not is_shot(token)) + OPT_M),
+                 joinString=' ', adjacent=False)
 # setting
 SETTING = pp.Combine(TERIOR + OPT_H + CAPS.copy().addCondition(lambda tokens: not SHOT_TYPES(tokens))
                      + pp.Optional(LOC), joinString=" ", adjacent=False).setResultsName('Setting')
 
 # Shot
-SHOT = SHOT_TYPES + OPT_P + SUB
+SHOT = pp.Combine(SHOT_TYPES + OPT_P + SUB, joinString=' ', adjacent=False)
 # Scene
-SCENE = SETTING + pp.Optional(SHOT)
+SCENE = pp.Combine(SETTING + pp.Optional(SHOT), joinString=' ', adjacent=False)
 
 # alpha
-alpha = pp.Or(SCENE | SHOT | SUB | (SHOT_TYPES + OPT_M + OPT_ToD))
+alpha = pp.Or(SCENE | SHOT | SUB | pp.Combine(SHOT_TYPES + OPT_M + OPT_ToD, joinString=' ', adjacent=False))
 
 
 # A class object to host operations currently being constructed
