@@ -266,21 +266,42 @@ if DO_TEST:
 	assert(SETTING.parseString('EXT./INT. WHERE SHOULD - I GO - NIGHT')[0] == 'EXT./INT. - WHERE SHOULD - I GO')
 
 # Shot
-SHOT = pp.Group(ST + pp.Optional((prep | (pp.Literal('-').suppress() + WH)).suppress() + SUB))
+SHOT = ST + pp.Optional((prep | (pp.Literal('-').suppress() + WH)).suppress() + SUB)
 
 if DO_TEST:
-	assert(SHOT.parseString('WIDE SHOT (MOD TEST) - CNN CORRESPONDENT')[0][1] == 'CNN CORRESPONDENT')
-	assert(SHOT.parseString('TRACKING SHOT ON CNN CORRESPONDENT - 4 AM \n')[0][2] == '4 AM')
-	assert(SHOT.parseString('CLOSE ANGLE WITH CNN')[0][0] == 'CLOSE ANGLE')
-	assert(SHOT.parseString('ZOOM TO CNN')[0][0] == 'ZOOM')
+	assert(SHOT.parseString('WIDE SHOT (MOD TEST) - CNN CORRESPONDENT')[1] == 'CNN CORRESPONDENT')
+	assert(SHOT.parseString('TRACKING SHOT ON CNN CORRESPONDENT - 4 AM \n')[2] == '4 AM')
+	assert(SHOT.parseString('CLOSE ANGLE WITH CNN')[0] == 'CLOSE ANGLE')
+	assert(SHOT.parseString('ZOOM TO CNN')[0] == 'ZOOM')
+	assert(SHOT.parseString('WIDE SHOT')[0] == 'WIDE SHOT')
 
 # Scene
-SCENE = pp.Group(SETTING) + pp.Optional(SHOT)
-if DO_TEST:
+SCENE = SETTING + (SHOT | ToD | pp.Empty())
 
+if DO_TEST:
+	SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION')
+	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM')[1] == '4 AM')
+	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')[1] == '4 AM')
+	assert(len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')) == 3)
+	assert (len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT - 4 AM')) == 4)
+	try:
+		SCENE.parseString('EXT. WIDE SHOT')
+		print('bad')
+	except pp.ParseException:
+		print('good')
 
 # alpha
-alpha = pp.MatchFirst([SCENE | SETTING + SHOT | pp.Group(SHOT_TYPES + OPT_M + OPT_ToD) | SHOT | SUB | ToD])
+alpha = pp.MatchFirst([SCENE | SHOT | SUB | ToD])
+
+if DO_TEST:
+	assert(len(alpha.parseString('CNN - 4 AM')) == 2)
+	assert(len(alpha.parseString('CNN')) == 1)
+	assert(len(alpha.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM')) == 2)
+	assert(len(alpha.parseString('4 AM')) == 1)
+	assert(len(alpha.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION')) == 1)
+	assert(len(alpha.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT - 4 AM')) == 4)
+	# throw in some new line noise
+	assert(len(alpha.parseString('EXT. THIS IS A \nLOCATION - MORE SPECIFIC  \n LOCATION - WIDE SHOT - \n SUBJECT - 4 AM')) == 4)
 
 
 # A class object to host operations currently being constructed
