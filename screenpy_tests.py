@@ -72,7 +72,7 @@ for i, ti in enumerate(t):
 	print('\tt{}'.format(str(i + 1)))
 	for result, start, end in SUBJ.scanString(ti):
 		print("\t\tFound \"{}\" at [{}:{}]".format(result, start, end))
-		print('\tresult[\'paren\'][\'words\']: {}'.format(result['Setting']))
+		# print('\tresult[\'paren\'][\'words\']: {}'.format(result['Setting']))
 
 # test SHOT
 # SHOT = SHOT_TYPES + OPT_P + SUB

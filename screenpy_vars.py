@@ -1,7 +1,7 @@
 import pyparsing as pp
 
 # basic vars
-HYPHEN = pp.Literal('-').suppress()
+
 EOL = pp.Or(pp.LineEnd().suppress(), pp.Literal('\n'))
 caps = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lower = caps.lower()
@@ -9,8 +9,9 @@ digits = "0123456789"
 ALPHANUMS = caps + digits + '\'' + ',' + '\"'
 ALL_CHARS = ALPHANUMS + lower
 WH = pp.White().suppress()
-LP = pp.Literal('(').suppress()
-RP = pp.Literal(')').suppress()
+HYPHEN = WH + pp.Literal('-').suppress() + WH
+LP = pp.Literal('(')
+RP = pp.Literal(')')
 BASIC_VARS = [HYPHEN, EOL, caps, lower, digits, ALPHANUMS, WH, LP, RP]
 
 
@@ -31,8 +32,8 @@ PAN = pp.Literal('PAN')
 MOVING_SHOT = pp.Or([PAN, CRANE, TILT, MOVING_CAM, PAN])
 
 # POV
-WHATXSEES = pp.Combine(pp.Literal('WHAT') + pp.Word(pp.alphas) + pp.Literal('SEES'), joinString=' ', adjacent=False)
-XPOV = pp.Combine(pp.Word(pp.alphas) + pp.Literal('\'s POV'), joinString='', adjacent=False)
+WHATXSEES = pp.Combine(pp.Literal('WHAT') + pp.Word(ALPHANUMS) + pp.Literal('SEES'), joinString=' ', adjacent=False)
+XPOV = pp.Combine(pp.Word(ALPHANUMS) + pp.Literal('\'s POV'), joinString='', adjacent=False)
 POV = pp.Or([pp.Literal('POV'), pp.Literal('MYSTERY POV'), pp.Literal('ANONYMOUS POV'), pp.Literal('THROUGH SNIPER SCOPE'), pp.Literal('POV SHOT'), pp.Literal('BINOCULAR POV'), pp.Literal('MICROSCOPIC POV'), pp.Literal('UPSIDE-DOWN POV'), pp.Literal('WATCHER\'s POV'), pp.Literal('SUBJECTIVE CAMERA'), WHATXSEES, XPOV]).setResultsName('pov')
 
 # misc
@@ -45,13 +46,15 @@ UNDERWATER = pp.Literal('UNDERWATER SHOT').setResultsName('underwater')
 IS_SHOT = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=pp.Literal('SHOT')) + pp.Word(ALPHANUMS) + pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=EOL | HYPHEN)
 MISC = pp.Combine(pp.Or([BTS, INLINE, HANDHELD, AERIAL, UNDERWATER, INSERT, IS_SHOT]).setResultsName('misc'), joinString=' ', adjacent=False)
 
-# A shot is one of these, but group together
-SHOT_TYPES = pp.Group(pp.Or([CLOSE, XCLOSE, WIDE, MED, PAN, TWOSHOT, THREESHOT, EST, MOVING_CAM, ANGLE, REV, POV, MISC])).setResultsName('shot')
 
 # segment of caps
 in_caps = pp.OneOrMore(pp.Word(ALPHANUMS), stopOn=pp.Or(HYPHEN, EOL))
 in_caps_w_condition = in_caps.addCondition(lambda toks: len(toks) > 1 or len(toks[0]) > 1)
 CAPS = pp.Combine(in_caps_w_condition, joinString=" ", adjacent=False)
+
+# A shot is one of these, but group together
+SHOT_TYPES = pp.Or([CLOSE, XCLOSE, WIDE, MED, PAN, TWOSHOT, THREESHOT, EST, MOVING_CAM, ANGLE, REV, POV, MISC]).setResultsName('shot')
+SHOT_TYPES = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=SHOT_TYPES) + SHOT_TYPES
 
 # Transition
 CUT = pp.Literal('CUT')
@@ -60,3 +63,15 @@ FADE = pp.Literal('FADE')
 WIPE = pp.Literal('WIPE')
 MISC_TRANS = pp.oneOf('LATER', 'SAME SCENE')
 TRANSITIONS = pp.Combine(pp.Optional(CAPS) + pp.Or([CUT, DISSOLVE, FADE, WIPE, MISC_TRANS]) + pp.Optional(pp.Word(ALPHANUMS)) + pp.Optional(pp.Literal(':').suppress()), joinString=' ', adjacent=False).setResultsName('transition')
+
+
+#misc
+mid_x = pp.Literal('mid').suppress() + pp.Word(pp.alphanums)
+continuous_action = pp.Literal('continuous action')
+
+enumerated_time_word = pp.oneOf(['sunrise', 'sunset', 'present', 'later', 'before', 'breakfast', 'lunch', 'dinner', 'past', 'spring', 'summer', 'fall', 'winter', 'easter', 'christmas', 'passover', 'eve', 'dusk', 'ramadan', 'birthday', 'purim', 'holi', 'equinox', 'kwanzaa', 'recent', 'annual', 'sundown', 'sun-down', 'sun-up']) + ~(~WH + pp.Word(pp.alphanums))
+
+stop_words = ~pp.oneOf(['is', 'this', 'that', 'there', 'are', 'were', 'be', 'for', 'with', 'was', 'won\'t', 'aren\'t', 'ain\'t', 'isn\'t', 'not', 'on', 'above', 'into', 'around', 'over', 'in', 'number', 'another', 'third', 'fourth', 'anything', 'hear', 'wife', 'run', 'me', 'case', 'everyone'])
+
+
+prep = pp.oneOf(['ON', 'WITH', 'TO', 'TOWARDS', 'FROM', 'IN', 'UNDER', 'OVER', 'ABOVE', 'AROUND', 'INTO'])
