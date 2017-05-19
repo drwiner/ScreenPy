@@ -6,7 +6,7 @@ EOL = pp.Or(pp.LineEnd().suppress(), pp.Literal('\n'))
 caps = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lower = caps.lower()
 digits = "0123456789"
-ALPHANUMS = caps + digits + '\'' + ',' + '\"'
+ALPHANUMS = caps + digits + '\'' + ',' + '\"' + '_'
 ALL_CHARS = ALPHANUMS + lower
 WH = pp.White().suppress()
 HYPHEN = WH + pp.Literal('-').suppress() + WH
@@ -29,12 +29,16 @@ REV = pp.Literal('REVERSE ANGLE').setResultsName('rev-shot')
 CRANE = pp.Literal('CRANE')
 TILT = pp.Literal('TILT')
 PAN = pp.Literal('PAN')
-MOVING_SHOT = pp.Or([PAN, CRANE, TILT, MOVING_CAM, PAN])
+ZOOM = pp.Literal('ZOOM')
+MOVING_SHOT = pp.Or([ZOOM, PAN, CRANE, TILT, MOVING_CAM, PAN])
 
 # POV
 WHATXSEES = pp.Combine(pp.Literal('WHAT') + pp.Word(ALPHANUMS) + pp.Literal('SEES'), joinString=' ', adjacent=False)
 XPOV = pp.Combine(pp.Word(ALPHANUMS) + pp.Literal('\'s POV'), joinString='', adjacent=False)
 POV = pp.Or([pp.Literal('POV'), pp.Literal('MYSTERY POV'), pp.Literal('ANONYMOUS POV'), pp.Literal('THROUGH SNIPER SCOPE'), pp.Literal('POV SHOT'), pp.Literal('BINOCULAR POV'), pp.Literal('MICROSCOPIC POV'), pp.Literal('UPSIDE-DOWN POV'), pp.Literal('WATCHER\'s POV'), pp.Literal('SUBJECTIVE CAMERA'), WHATXSEES, XPOV]).setResultsName('pov')
+
+
+prep = pp.oneOf(['ON', 'WITH', 'TO', 'TOWARDS', 'FROM', 'IN', 'UNDER', 'OVER', 'ABOVE', 'AROUND', 'INTO'])
 
 # misc
 INSERT = pp.Literal('INSERT').setResultsName('insert')
@@ -43,7 +47,7 @@ INLINE = pp.Or([pp.Literal('FROM BEHIND'), pp.Literal('THROUGH WINDOW')]).setRes
 HANDHELD = pp.Or([pp.Literal('HANDHELD SHOT'), pp.Literal('(HANDHELD)')]).setResultsName('handheld')
 AERIAL = pp.Literal('AERIAL SHOT').setResultsName('aerial')
 UNDERWATER = pp.Literal('UNDERWATER SHOT').setResultsName('underwater')
-IS_SHOT = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=pp.Literal('SHOT')) + pp.Word(ALPHANUMS) + pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=EOL | HYPHEN)
+IS_SHOT = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=pp.Literal('SHOT')) + pp.Word(ALPHANUMS) + pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=prep | EOL | HYPHEN)
 MISC = pp.Combine(pp.Or([BTS, INLINE, HANDHELD, AERIAL, UNDERWATER, INSERT, IS_SHOT]).setResultsName('misc'), joinString=' ', adjacent=False)
 
 
@@ -69,9 +73,8 @@ TRANSITIONS = pp.Combine(pp.Optional(CAPS) + pp.Or([CUT, DISSOLVE, FADE, WIPE, M
 mid_x = pp.Literal('mid').suppress() + pp.Word(pp.alphanums)
 continuous_action = pp.Literal('continuous action')
 
-enumerated_time_word = pp.oneOf(['sunrise', 'sunset', 'present', 'later', 'before', 'breakfast', 'lunch', 'dinner', 'past', 'spring', 'summer', 'fall', 'winter', 'easter', 'christmas', 'passover', 'eve', 'dusk', 'ramadan', 'birthday', 'purim', 'holi', 'equinox', 'kwanzaa', 'recent', 'annual', 'sundown', 'sun-down', 'sun-up']) + ~(~WH + pp.Word(pp.alphanums))
+enumerated_time_word = pp.oneOf(['sunrise', 'sunset', 'present', 'later', 'before', 'breakfast', 'lunch', 'dinner', 'past', 'spring', 'summer', 'fall', 'winter', 'easter', 'christmas', 'passover', 'eve', 'dusk', 'ramadan', 'birthday', 'purim', 'holi', 'equinox', 'kwanzaa', 'recent', 'annual', 'sundown', 'sun-down', 'sun-up', 'tonight']) + ~(~WH + pp.Word(pp.alphanums))
 
 stop_words = ~pp.oneOf(['is', 'this', 'that', 'there', 'are', 'were', 'be', 'for', 'with', 'was', 'won\'t', 'aren\'t', 'ain\'t', 'isn\'t', 'not', 'on', 'above', 'into', 'around', 'over', 'in', 'number', 'another', 'third', 'fourth', 'anything', 'hear', 'wife', 'run', 'me', 'case', 'everyone'])
 
 
-prep = pp.oneOf(['ON', 'WITH', 'TO', 'TOWARDS', 'FROM', 'IN', 'UNDER', 'OVER', 'ABOVE', 'AROUND', 'INTO'])

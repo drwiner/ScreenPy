@@ -159,7 +159,7 @@ if DO_TEST:
 
 
 # preposition for camera transitions
-prep = pp.oneOf(['ON', 'WITH', 'TO', 'TOWARDS', 'FROM', 'IN', 'UNDER', 'OVER', 'ABOVE', 'AROUND', 'INTO'])
+# prep = pp.oneOf(['ON', 'WITH', 'TO', 'TOWARDS', 'FROM', 'IN', 'UNDER', 'OVER', 'ABOVE', 'AROUND', 'INTO'])
 # Opt-P
 OPT_P = pp.Combine(OPT_H | prep, joinString=' ', adjacent=False)
 
@@ -188,6 +188,7 @@ if DO_TEST:
 	assert(ST.parseString('WIDE SHOT - WITHOUT MOD')[0] == 'WIDE SHOT')
 	assert(ST.parseString('A WIDE SHOT (WITH MOD)')[0] == 'A WIDE SHOT, ( WITH MOD )')
 	assert(ST.parseString('THIS WIDE SHOT')[0] == 'THIS WIDE SHOT')
+	ST.parseString('WIDE SHOT WITH EXTRA WORDS')
 
 
 # Subj
@@ -236,17 +237,47 @@ LOC = pp.OneOrMore(pp.Or([ONE_LOC, pp.Literal('-').suppress()]))
 	#.addCondition(lambda token: not is_time(token[0]))
 
 if DO_TEST:
+	assert (LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
+	assert (LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION')[1] == 'WHAT ABOUT THE LOCATION')
+	assert (LOC.parseString('HELLO DO I HAUNT YOU - 3 AM - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
+	try:
+		LOC.parseString('HELLO DO I HAUNT YOU - 3 AM - WHAT ABOUT THE LOCATION')[1]
+		print('bad')
+	except IndexError:
+		print('good')
 
+	assert (LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION - 3 AM')[0] == 'HELLO DO I HAUNT YOU')
+	assert (LOC.parseString('HELLO DO I HAUNT YOU - SPECIFIC LOCATION - WHAT ABOUT THE LOCATION 3 AM')[1] == 'SPECIFIC LOCATION')
+	assert(LOC.parseString('HELLO DO I HAUNT YOU - SPECIFIC LOCATION - WHAT ABOUT THE LOCATION 3 AM')[2] == 'WHAT ABOUT THE LOCATION 3 AM')
 
 # setting
 SETTING = pp.Combine(TERIOR + LOC, joinString=' - ', adjacent=False).setResultsName('Setting')
 # SETTING = pp.Combine(TERIOR + OPT_H + CAPS.copy().addCondition(lambda tokens: not SHOT_TYPES(tokens))
 #                      + pp.Optional(LOC), joinString=" ", adjacent=False).setResultsName('Setting')
 
+if DO_TEST:
+	assert(SETTING.parseString('INT. WHERE SHOULD I GO NOTTIME')[0] == 'INT. - WHERE SHOULD I GO NOTTIME')
+	try:
+		SETTING.parseString('INT. WHERE SHOULD I GO NIGHT')
+		print('bad')
+	except pp.ParseException:
+		print('good')
+	assert(SETTING.parseString('EXT./INT. WHERE SHOULD - I GO')[0] == 'EXT./INT. - WHERE SHOULD - I GO')
+	assert(SETTING.parseString('EXT./INT. WHERE SHOULD - I GO - NIGHT')[0] == 'EXT./INT. - WHERE SHOULD - I GO')
+
 # Shot
-SHOT = pp.Group(ST + OPT_P + SUB)
+SHOT = pp.Group(ST + pp.Optional((prep | (pp.Literal('-').suppress() + WH)).suppress() + SUB))
+
+if DO_TEST:
+	assert(SHOT.parseString('WIDE SHOT (MOD TEST) - CNN CORRESPONDENT')[0][1] == 'CNN CORRESPONDENT')
+	assert(SHOT.parseString('TRACKING SHOT ON CNN CORRESPONDENT - 4 AM \n')[0][2] == '4 AM')
+	assert(SHOT.parseString('CLOSE ANGLE WITH CNN')[0][0] == 'CLOSE ANGLE')
+	assert(SHOT.parseString('ZOOM TO CNN')[0][0] == 'ZOOM')
+
 # Scene
 SCENE = pp.Group(SETTING) + pp.Optional(SHOT)
+if DO_TEST:
+
 
 # alpha
 alpha = pp.MatchFirst([SCENE | SETTING + SHOT | pp.Group(SHOT_TYPES + OPT_M + OPT_ToD) | SHOT | SUB | ToD])
