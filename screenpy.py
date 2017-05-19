@@ -211,7 +211,7 @@ if DO_TEST:
 		print('good')
 
 # SUB
-SUB = SUBJ + OPT_ToD + EOL
+SUB = (SUBJ + OPT_ToD + EOL) | ToD
 if DO_TEST:
 	SUB.parseString('HELLO - 3 AM \n')
 	SUB.parseString('HELLO - 3 AM\n')
@@ -231,7 +231,7 @@ if DO_TEST:
 	assert(ONE_LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
 	assert (ONE_LOC.parseString('HELLO DO I HAUNT YOU - 3 AM - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
 	assert (ONE_LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION - 3 AM')[0] == 'HELLO DO I HAUNT YOU')
-	pass
+
 
 LOC = pp.OneOrMore(pp.Or([ONE_LOC, pp.Literal('-').suppress()]))
 	#.addCondition(lambda token: not is_time(token[0]))
@@ -282,13 +282,15 @@ if DO_TEST:
 	SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION')
 	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM')[1] == '4 AM')
 	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')[1] == '4 AM')
-	assert(len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')) == 3)
+	assert(len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')) == 2)
 	assert (len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT - 4 AM')) == 4)
 	try:
 		SCENE.parseString('EXT. WIDE SHOT')
 		print('bad')
 	except pp.ParseException:
 		print('good')
+	header = 'EXT. THE JUNGLE - INDY\'S RUN - VARIOUS SHOTS - DAY'
+	assert(len(SCENE.parseString(header)) == 3)
 
 # alpha
 alpha = pp.MatchFirst([SCENE | SHOT | SUB | ToD])
@@ -302,7 +304,7 @@ if DO_TEST:
 	assert(len(alpha.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT - 4 AM')) == 4)
 	# throw in some new line noise
 	assert(len(alpha.parseString('EXT. THIS IS A \nLOCATION - MORE SPECIFIC  \n LOCATION - WIDE SHOT - \n SUBJECT - 4 AM')) == 4)
-
+	assert(len(alpha.parseString('EXT. THE JUNGLE - INDY\'S RUN - VARIOUS SHOTS - DAY')) == 3)
 
 # A class object to host operations currently being constructed
 # class Line:
