@@ -91,6 +91,8 @@ def is_time(s):
 		return True
 	return False
 
+# TITLE = pp.Combine(pp.Word(ALPHANUMS, exact=1) + pp.Word(lower), joinString='', adjacent=True)
+
 # Opt-H
 OPT_H = pp.Optional(HYPHEN)
 
@@ -101,12 +103,13 @@ OPT_M = pp.Optional(MODIFIER)
 
 
 # ToD
-ToD = pp.Combine(pp.Combine(pp.OneOrMore(pp.Word(ALPHANUMS)), joinString=' ', adjacent=False).addCondition(lambda token: is_time(token[0])).setResultsName('ToD') + OPT_M, joinString=', ', adjacent=False)
+ToD = pp.Combine(pp.Combine(pp.OneOrMore(pp.Word(ALPHANUMS), stopOn=TITLE), joinString=' ', adjacent=False).addCondition(lambda token: is_time(token[0])).setResultsName('ToD') + OPT_M, joinString=', ', adjacent=False)
 # Opt-ToD
 OPT_ToD = pp.Optional(pp.Combine(pp.Literal('-').suppress() + WH + ToD, joinString=' ', adjacent=False))
 
 if DO_TEST:
 	assert(ToD.parseString('3 AM')[0] == '3 AM')
+	assert(ToD.parseString('3 AM Ambphibean')[0] == '3 AM')
 	assert(ToD.parseString('HELLO CHRISTMAS EVE')[0] == 'HELLO CHRISTMAS EVE')
 	assert(ToD.parseString('HELLO CHRISTMAS EVE.')[0] == 'HELLO CHRISTMAS EVE')
 	assert(ToD.parseString('CHRISTMAS EVE (1942)')[0] == 'CHRISTMAS EVE, (1942)')
@@ -169,7 +172,9 @@ if DO_TEST:
 	assert(ST.parseString('WIDE SHOT - WITHOUT MOD')[0] == 'WIDE SHOT')
 	assert(ST.parseString('A WIDE SHOT (WITH MOD)')[0] == 'A WIDE SHOT, (WITH MOD)')
 	assert(ST.parseString('THIS WIDE SHOT')[0] == 'THIS WIDE SHOT')
-	ST.parseString('WIDE SHOT WITH EXTRA WORDS')
+	assert(ST.parseString('WIDE SHOT WITH EXTRA WORDS')[0] == 'WIDE SHOT')
+	assert(ST.parseString('WIDE SHOT ANY EXTRA WORDS')[0] == 'WIDE SHOT ANY EXTRA WORDS')
+	assert(ST.parseString('WIDE SHOT Any EXTRA WORDS')[0] == 'WIDE SHOT')
 	assert(ST.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'ANY WIDE SHOT, (THE_MOD)')
 
 # Subj
@@ -199,35 +204,63 @@ if DO_TEST:
 		print('good')
 
 	assert(SUBJ.parseString('ANYWORD An amphibian plane sits in the water beneath a green cliff.')[0] == 'ANYWORD')
-	SUBJ.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')
-
+	assert(SUBJ.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'ANY WIDE SHOT, (THE_MOD)')
+	assert (SUBJ.parseString('ANY WIDE SHOT (THE_MOD) An CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'ANY WIDE SHOT, (THE_MOD)')
+	assert (SUBJ.parseString('SAMUEL (THE_MOD) An CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'SAMUEL, (THE_MOD)')
+	assert (SUBJ.parseString('SAMUEL - (THE_MOD) - An CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'SAMUEL')
+	assert (SUBJ.parseString('SAMUEL Amb (THE_MOD) - An CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'SAMUEL')
 	assert(SUBJ.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'ANY WIDE SHOT, (THE_MOD)')
 
 # SUB
-SUB = (SUBJ + OPT_ToD + EOL) | ToD
+SUB = (SUBJ + OPT_ToD) | ToD
 if DO_TEST:
 	SUB.parseString('HELLO - 3 AM \n')
 	SUB.parseString('HELLO (MOD) - 3 AM\n 5 AM')
+	assert(SUB.parseString('HELLO GOODBYE - 3 AM - HELLO - 3 AM \n')[1] == '3 AM')
+	assert (SUB.parseString('HELLO GOODBYE - 3 AM An - HELLO - 3 AM \n')[1] == '3 AM')
 	try:
-		SUB.parseString('HELLO GOODBYE - 3 AM - HELLO - 3 AM \n')
+		SUB.parseString('HELLO GOODBYE An - 3 AM An - HELLO - 3 AM \n')[1]
 		print('bad')
-	except pp.ParseException:
+	except IndexError:
 		print('good')
+	assert(SUB.parseString('HELLO GOODBYE An - 3 AM An - HELLO - 3 AM \n')[0] == 'HELLO GOODBYE')
+	assert (SUB.parseString('SAMUEL L JACKSON (CREEPY) Amb')[0] == 'SAMUEL L JACKSON, (CREEPY)')
 
 # T
 TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.', 'EXT./INT.'])
 
 # Loc
-Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=HYPHEN), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
+# TITLE = pp.Combine(pp.Word(ALPHANUMS, exact=1) + pp.Word(lower), joinString='', adjacent=True)
+Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([HYPHEN | TITLE])), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
 ONE_LOC = pp.Combine(Y + OPT_M, joinString=', ', adjacent=False)
 
 if DO_TEST:
 	assert(ONE_LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
+	assert (ONE_LOC.parseString('HELLO DO I HAUNT YOU Amphibean - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
 	assert (ONE_LOC.parseString('HELLO DO I HAUNT YOU - 3 AM - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
 	assert (ONE_LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION - 3 AM')[0] == 'HELLO DO I HAUNT YOU')
 
-	assert (ONE_LOC.parseString('HELLO DO I HAUNT YOU (EAST HALLWAY) - WHAT ABOUT THE LOCATION (WEST SIDE OF TOWN)')[0] == 'HELLO DO I HAUNT YOU, (EAST HALLWAY')
-LOC = pp.OneOrMore(pp.Or([ONE_LOC, pp.Literal('-').suppress() + WH]))
+	assert (ONE_LOC.parseString('HELLO DO I HAUNT YOU (EAST HALLWAY) - WHAT ABOUT THE LOCATION (WEST SIDE OF TOWN)')[0] == 'HELLO DO I HAUNT YOU, (EAST HALLWAY)')
+	t7 = """THE URUBAMBA RIVER - DUSK
+
+		           An amphibian plane sits in the water beneath a green cliff."""
+	assert (len(ONE_LOC.parseString(t7)) == 1)
+	t9 = """THE URUBAMBA RIVER - NOTATIME
+
+			           An amphibian plane sits in the water beneath a green cliff."""
+	assert (len(ONE_LOC.parseString(t9)) == 1)
+
+
+def not_is_title(tokens):
+	s = ' '.join(tokens)
+	print(s)
+	return not s.istitle()
+
+# TITLE = WH + pp.Combine(pp.Word(ALPHANUMS, exact=1) + pp.Word(lower), joinString='', adjacent=True)
+# LOC = pp.OneOrMore(pp.MatchFirst([ONE_LOC, pp.Literal('-').suppress() + WH, pp.FollowedBy(WH + TITLE)]), stopOn=pp.FollowedBy(ToD))
+# LOC = pp.OneOrMore(pp.MatchFirst([ONE_LOC, pp.Literal('-').suppress() + WH]), stopOn=pp.FollowedBy(ToD))
+LOC = pp.OneOrMore(pp.MatchFirst([ONE_LOC, pp.Literal('-').suppress() + WH]))
+                   # , stopOn=ToD | ST | TITLE)
 	#.addCondition(lambda token: not is_time(token[0]))
 
 if DO_TEST:
@@ -245,6 +278,15 @@ if DO_TEST:
 	assert(LOC.parseString('HELLO DO I HAUNT YOU - SPECIFIC LOCATION - WHAT ABOUT THE LOCATION 3 AM')[2] == 'WHAT ABOUT THE LOCATION 3 AM')
 
 	assert (LOC.parseString('HELLO DO I HAUNT YOU (EAST HALLWAY) - WHAT ABOUT THE LOCATION (WEST SIDE OF TOWN)')[1] == 'WHAT ABOUT THE LOCATION, (WEST SIDE OF TOWN)')
+	t7 = """THE URUBAMBA RIVER - DUSK\n\n     An amphibian plane sits in the water beneath a green cliff."""
+	LOC.parseString(t7)
+	assert(len(LOC.parseString(t7)) == 1)
+	t9 = """THE URUBAMBA RIVER - NOTATIME
+
+			           An amphibian plane sits in the water beneath a green cliff."""
+	assert(len(LOC.parseString(t9)) == 2)
+	assert(len(LOC.parseString('AN ELEPHANT rumbles')) == 1)
+	assert(len(LOC.parseString('AN ELEPHANT Drumbles')) == 1)
 
 # setting
 SETTING = TERIOR + pp.Group(LOC)
@@ -265,6 +307,14 @@ if DO_TEST:
 	except IndexError:
 		print('good')
 	SETTING.parseString('EXT. FIRST LOCATION (AND ITS MOD) - SECOND LOCATION (AND ITS ALSO MOD) - 1 AM')
+	t7 = """EXT. THE URUBAMBA RIVER - DUSK
+
+	           An amphibian plane sits in the water beneath a green cliff."""
+	assert(len(SETTING.parseString(t7)[1]) == 1)
+	t9 = """EXT. THE URUBAMBA RIVER - NOTEATIME
+
+	           An amphibian plane sits in the water beneath a green cliff."""
+	assert(len(SETTING.parseString(t9)[1]) == 2)
 
 # Shot
 SHOT = ST + pp.Optional((prep | (pp.Literal('-').suppress() + WH)).suppress() + SUB)
@@ -276,14 +326,25 @@ if DO_TEST:
 	assert(SHOT.parseString('ZOOM TO CNN')[0] == 'ZOOM')
 	assert(SHOT.parseString('WIDE SHOT')[0] == 'WIDE SHOT')
 	assert(SHOT.parseString('WIDE SHOT (SNEAKY)')[0] == 'WIDE SHOT, (SNEAKY)')
+	assert(SHOT.parseString('WIDE SHOT (SNEAKY) Amb')[0] == 'WIDE SHOT, (SNEAKY)')
+	assert(SHOT.parseString('WIDE SHOT Amb(SNEAKY) Amb')[0] == 'WIDE SHOT')
+	assert(SHOT.parseString('THIS IS A SHOT (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT, (SNEAKY RIGHT)')
+	assert(SHOT.parseString('THIS IS A SHOT Amb (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'THIS IS A SHOT')
+	assert(SHOT.parseString('THIS IS A SHOT (KINDA) Amb - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'THIS IS A SHOT, (KINDA)')
+	assert(SHOT.parseString('THIS IS A SHOT (KINDA) - AND HERE IS THE SUBJECT Amb (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT')
+
 
 # Scene
-SCENE = SETTING + (OPT_M + SHOT | ToD | pp.Empty())
+# SCENE = SETTING + (SHOT | ToD | pp.Empty())
+SCENE = SETTING + pp.MatchFirst([SHOT | ToD | pp.Empty()])
 
 if DO_TEST:
 	SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION')
+	assert (len(SCENE.parseString('EXT. RIVER - DUSK')) == 3)
 	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM')[2] == '4 AM')
+	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM \nAn ambibean')[2] == '4 AM')
 	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')[2] == '4 AM')
+	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT An ambibean')[2] == '4 AM')
 	assert(len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')) == 3)
 	assert (len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT - 4 AM')) == 5)
 	assert (len(SCENE.parseString('EXT. THIS ONE - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT (ALMOST) - 4 AM (EVERYWHERE)')) == 5)
@@ -297,7 +358,22 @@ if DO_TEST:
 		print('good')
 	header = 'EXT. THE JUNGLE - INDY\'S RUN - VARIOUS SHOTS - DAY'
 	assert(len(SCENE.parseString(header)) == 4)
+	assert (len(SCENE.parseString('EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) Ambphean - 4 AM (EVERYWHERE) Ambphean')) == 4)
+	assert (len(SCENE.parseString(
+		'EXT. THIS ONE (A MOD HERE) amb - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) - 4 AM (EVERYWHERE) Ambphean')) == 2)
+	assert (len(SCENE.parseString(
+		'EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) Amb- WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) - 4 AM (EVERYWHERE) Ambphean')) == 2)
+	assert (len(SCENE.parseString(
+		'EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) - 4 AM (EVERYWHERE) Amb')) == 5)
+	assert (len(SCENE.parseString(
+		'EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) Ambphean - 4 AM (EVERYWHERE) Ambphean')) == 4)
+	assert(len(SCENE.parseString(t7)) == 3)
+	assert(len(SCENE.parseString(t9)[1]) == 2)
+	t8 = """EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
+	           An amphibian plane sits in the water beneath a green cliff."""
+	assert(len(SCENE.parseString(t8)) == 4)
+	assert(len(SCENE.parseString('EXT. THE URUBAMBA RIVER - NOTEATIME - DAY An')) == 3)
 # alpha
 alpha = pp.MatchFirst([SCENE | SHOT | SUB | ToD])
 
@@ -311,7 +387,25 @@ if DO_TEST:
 	# throw in some new line noise
 	assert(len(alpha.parseString('EXT. THIS IS A \nLOCATION - MORE SPECIFIC  \n LOCATION - WIDE SHOT - \n SUBJECT - 4 AM')) == 5)
 	assert(len(alpha.parseString('EXT. THE JUNGLE - INDY\'S RUN - VARIOUS SHOTS - DAY')) == 4)
+	assert(len(alpha.parseString(t7)[1]) == 1)
+	assert(len(alpha.parseString(t9)[1]) == 2)
+	assert(len(alpha.parseString(header)) == 4)
+	assert (len(alpha.parseString('EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) Ambphean - 4 AM (EVERYWHERE) Ambphean')) == 4)
+	assert (len(alpha.parseString(
+		'EXT. THIS ONE (A MOD HERE) amb - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) - 4 AM (EVERYWHERE) Ambphean')) == 2)
+	assert (len(alpha.parseString(
+		'EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) Amb- WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) - 4 AM (EVERYWHERE) Ambphean')) == 2)
+	assert (len(alpha.parseString(
+		'EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) - 4 AM (EVERYWHERE) Amb')) == 5)
+	assert (len(alpha.parseString(
+		'EXT. THIS ONE (A MOD HERE) - MORE SPECIFIC LOCATION (A MOD THERE) - WIDE SHOT (THERE\'S A MOD) - SUBJECT (ALMOST) Ambphean - 4 AM (EVERYWHERE) Ambphean')) == 4)
+	assert(len(alpha.parseString(t7)) == 3)
+	assert(len(alpha.parseString(t9)[1]) == 2)
+	t8 = """EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
+	           An amphibian plane sits in the water beneath a green cliff."""
+	assert(len(alpha.parseString(t8)) == 4)
+	assert(len(alpha.parseString('EXT. THE URUBAMBA RIVER - NOTEATIME - DAY An')) == 3)
 # A class object to host operations currently being constructed
 # class Line:
 # 	def __init__(self, str_line):

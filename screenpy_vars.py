@@ -47,7 +47,8 @@ INLINE = pp.Or([pp.Literal('FROM BEHIND'), pp.Literal('THROUGH WINDOW')]).setRes
 HANDHELD = pp.Or([pp.Literal('HANDHELD SHOT'), pp.Literal('(HANDHELD)')]).setResultsName('handheld')
 AERIAL = pp.Literal('AERIAL SHOT').setResultsName('aerial')
 UNDERWATER = pp.Literal('UNDERWATER SHOT').setResultsName('underwater')
-IS_SHOT = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=pp.Literal('SHOT')) + pp.OneOrMore(pp.Word(ALPHANUMS), stopOn=prep | EOL | HYPHEN)
+TITLE = pp.Combine(pp.Word(ALPHANUMS, exact=1) + pp.Word(lower), joinString='', adjacent=True)
+IS_SHOT = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=pp.Literal('SHOT')) + pp.OneOrMore(pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([TITLE, prep, HYPHEN]))
 MISC = pp.Combine(pp.Or([BTS, INLINE, HANDHELD, AERIAL, UNDERWATER, INSERT, IS_SHOT]).setResultsName('misc'), joinString=' ', adjacent=False)
 
 
@@ -73,7 +74,7 @@ TRANSITIONS = pp.Combine(pp.Optional(CAPS) + pp.Or([CUT, DISSOLVE, FADE, WIPE, M
 mid_x = pp.Literal('mid').suppress() + pp.Word(pp.alphanums)
 continuous_action = pp.Literal('continuous action')
 
-enumerated_time_word = pp.oneOf(['sunrise', 'sunset', 'present', 'later', 'before', 'breakfast', 'lunch', 'dinner', 'past', 'spring', 'summer', 'fall', 'winter', 'easter', 'christmas', 'passover', 'eve', 'dusk', 'ramadan', 'birthday', 'purim', 'holi', 'equinox', 'kwanzaa', 'recent', 'annual', 'sundown', 'sun-down', 'sun-up', 'tonight']) + ~(~WH + pp.Word(pp.alphanums))
+enumerated_time_word = pp.oneOf(['sunrise', 'sunset', 'present', 'later', 'before', 'breakfast', 'lunch', 'dinner', 'past', 'spring', 'summer', 'fall', 'winter', 'easter', 'christmas', 'passover', 'eve', 'dusk', 'ramadan', 'birthday', 'purim', 'holi', 'equinox', 'kwanzaa', 'recent', 'annual', 'sundown', 'sun-down', 'sun-up', 'tonight', 'dawn']) + ~(~WH + pp.Word(pp.alphanums))
 
 stop_words = ~pp.oneOf(['is', 'this', 'that', 'there', 'are', 'were', 'be', 'for', 'with', 'was', 'won\'t', 'aren\'t', 'ain\'t', 'isn\'t', 'not', 'on', 'above', 'into', 'around', 'over', 'in', 'number', 'another', 'third', 'fourth', 'anything', 'hear', 'wife', 'run', 'me', 'case', 'everyone'])
 
