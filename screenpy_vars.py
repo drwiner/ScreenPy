@@ -47,7 +47,7 @@ INLINE = pp.Or([pp.Literal('FROM BEHIND'), pp.Literal('THROUGH WINDOW')]).setRes
 HANDHELD = pp.Or([pp.Literal('HANDHELD SHOT'), pp.Literal('(HANDHELD)')]).setResultsName('handheld')
 AERIAL = pp.Literal('AERIAL SHOT').setResultsName('aerial')
 UNDERWATER = pp.Literal('UNDERWATER SHOT').setResultsName('underwater')
-IS_SHOT = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=pp.Literal('SHOT')) + pp.Word(ALPHANUMS) + pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=prep | EOL | HYPHEN)
+IS_SHOT = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=pp.Literal('SHOT')) + pp.OneOrMore(pp.Word(ALPHANUMS), stopOn=prep | EOL | HYPHEN)
 MISC = pp.Combine(pp.Or([BTS, INLINE, HANDHELD, AERIAL, UNDERWATER, INSERT, IS_SHOT]).setResultsName('misc'), joinString=' ', adjacent=False)
 
 
@@ -57,7 +57,7 @@ in_caps_w_condition = in_caps.addCondition(lambda toks: len(toks) > 1 or len(tok
 CAPS = pp.Combine(in_caps_w_condition, joinString=" ", adjacent=False)
 
 # A shot is one of these, but group together
-SHOT_TYPES = pp.Or([CLOSE, XCLOSE, WIDE, MED, PAN, TWOSHOT, THREESHOT, EST, MOVING_CAM, ANGLE, REV, POV, MISC]).setResultsName('shot')
+SHOT_TYPES = pp.Or([CLOSE, XCLOSE, WIDE, MED, MOVING_SHOT, TWOSHOT, THREESHOT, EST, MOVING_CAM, ANGLE, REV, POV, MISC]).setResultsName('shot')
 SHOT_TYPES = pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=SHOT_TYPES) + SHOT_TYPES
 
 # Transition
