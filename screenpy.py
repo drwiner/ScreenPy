@@ -1,8 +1,8 @@
 from dateutil.parser import parse as dateparse
 from screenpy_vars import *
 import sys
-DO_TEST = 1
-DO_PRINT = 1
+DO_TEST = 0
+DO_PRINT = 0
 
 
 def Log(message):
@@ -10,11 +10,12 @@ def Log(message):
 		print(message)
 
 
-if 'sense2vec' not in sys.modules:
-	import sense2vec
-	print('loading sense2vec')
-s2v_model = sense2vec.load()
+# if 'sense2vec' not in sys.modules:
+import sense2vec
+print('loading sense2vec')
 
+s2v_model = sense2vec.load()
+print('done loading')
 
 def loadSpacy():
 	import spacy
@@ -68,7 +69,6 @@ def is_time(s):
 	elif ' - ' in s:
 		return False
 
-
 	# check if noun_phrase is a temporal expression
 	split_tokens = s.split()
 	if len(split_tokens) > 1:
@@ -97,7 +97,7 @@ def is_time(s):
 OPT_H = pp.Optional(HYPHEN)
 
 # MODIFIER
-MODIFIER = pp.Group(LP + pp.Combine(pp.OneOrMore(pp.Word(ALL_CHARS)), joinString=' ', adjacent=False) + RP).setResultsName('modifier')
+MODIFIER = pp.Group(LP + pp.Combine(pp.OneOrMore(pp.Word(ALPHANUMS)), joinString=' ', adjacent=False) + RP).setResultsName('modifier')
 # Opt-M
 OPT_M = pp.Optional(MODIFIER)
 
@@ -141,14 +141,13 @@ if DO_TEST:
 
 
 # preposition for camera transitions
-# prep = pp.oneOf(['ON', 'WITH', 'TO', 'TOWARDS', 'FROM', 'IN', 'UNDER', 'OVER', 'ABOVE', 'AROUND', 'INTO'])
 # Opt-P
 OPT_P = pp.Combine(OPT_H | prep, joinString=' ', adjacent=False)
 
 
 # ST
 ST = pp.Combine(SHOT_TYPES + OPT_M, joinString=', ', adjacent=False)
-     # + (EOL | WH | ~pp.Word(lower)).suppress()
+
 if DO_TEST:
 	try:
 		ST.parseString('HELP ME')
@@ -173,16 +172,22 @@ if DO_TEST:
 	assert(ST.parseString('A WIDE SHOT (WITH MOD)')[0] == 'A WIDE SHOT, (WITH MOD)')
 	assert(ST.parseString('THIS WIDE SHOT')[0] == 'THIS WIDE SHOT')
 	assert(ST.parseString('WIDE SHOT WITH EXTRA WORDS')[0] == 'WIDE SHOT')
-	assert(ST.parseString('WIDE SHOT ANY EXTRA WORDS')[0] == 'WIDE SHOT ANY EXTRA WORDS')
+	assert(ST.parseString('WIDE SHOT ANY EXTRA WORDS')[0] == 'WIDE SHOT')
+	assert (ST.parseString('WIDE SHOT BECAUSE EXTRA WORDS')[0] == 'WIDE SHOT')
 	assert(ST.parseString('WIDE SHOT Any EXTRA WORDS')[0] == 'WIDE SHOT')
 	assert(ST.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'ANY WIDE SHOT, (THE_MOD)')
+	assert(ST.parseString('INTERCUT WITH INDY AND JONES')[0] == 'INTERCUT')
+	assert(ST.parseString("INTERCUTTING INDY AND SIMONE SAYS")[0] == 'INTERCUTTING')
+	assert(ST.parseString('MONTAGE THE BEES')[0] == 'MONTAGE')
+
+def is_single_cap(s):
+	return (len(s) == 1 and (s.isupper() or s == ',')) or s == ', I'
+
 
 # Subj
-# until_time = CAPS.copy().addCondition(lambda tokens: not is_time(' '.join(tokens)))
 X = pp.Combine(pp.OneOrMore(~HYPHEN + pp.Word(ALPHANUMS) + (WH | ~pp.Word(lower)), stopOn=pp.FollowedBy(HYPHEN)), joinString=' ', adjacent=False)
-SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False).addCondition(lambda token: not is_time(' '.join(token)))
-# SUBJ = pp.OneOrMore(until_time, HYPHEN]))
-# SUBJ.parseString('HELP ME - UNDERSTAND')
+SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False).addCondition(lambda token: not is_time(' '.join(token))).addCondition(lambda token: not is_single_cap(' '.join(token)))
+
 if DO_TEST:
 	# should just get first until HYPHEN
 	assert(SUBJ.parseString('HELP - ME UNDERSTAND')[0] == 'HELP')
@@ -210,6 +215,12 @@ if DO_TEST:
 	assert (SUBJ.parseString('SAMUEL - (THE_MOD) - An CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'SAMUEL')
 	assert (SUBJ.parseString('SAMUEL Amb (THE_MOD) - An CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'SAMUEL')
 	assert(SUBJ.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'ANY WIDE SHOT, (THE_MOD)')
+	assert(SUBJ.parseString('AMD Dn')[0] == 'AMD')
+	try:
+		SUBJ.parseString('DDDDn')
+		print('bad')
+	except pp.ParseException:
+		print('good')
 
 # SUB
 SUB = (SUBJ + OPT_ToD) | ToD
@@ -227,10 +238,9 @@ if DO_TEST:
 	assert (SUB.parseString('SAMUEL L JACKSON (CREEPY) Amb')[0] == 'SAMUEL L JACKSON, (CREEPY)')
 
 # T
-TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.', 'EXT./INT.'])
+TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.', 'EXT./INT.', 'EXT. / INT.', 'INT. / EXT.'])
 
-# Loc
-# TITLE = pp.Combine(pp.Word(ALPHANUMS, exact=1) + pp.Word(lower), joinString='', adjacent=True)
+# ONE_LOC
 Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([HYPHEN | TITLE])), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
 ONE_LOC = pp.Combine(Y + OPT_M, joinString=', ', adjacent=False)
 
@@ -251,17 +261,8 @@ if DO_TEST:
 	assert (len(ONE_LOC.parseString(t9)) == 1)
 
 
-def not_is_title(tokens):
-	s = ' '.join(tokens)
-	print(s)
-	return not s.istitle()
-
-# TITLE = WH + pp.Combine(pp.Word(ALPHANUMS, exact=1) + pp.Word(lower), joinString='', adjacent=True)
-# LOC = pp.OneOrMore(pp.MatchFirst([ONE_LOC, pp.Literal('-').suppress() + WH, pp.FollowedBy(WH + TITLE)]), stopOn=pp.FollowedBy(ToD))
-# LOC = pp.OneOrMore(pp.MatchFirst([ONE_LOC, pp.Literal('-').suppress() + WH]), stopOn=pp.FollowedBy(ToD))
+# LOC
 LOC = pp.OneOrMore(pp.MatchFirst([ONE_LOC, pp.Literal('-').suppress() + WH]))
-                   # , stopOn=ToD | ST | TITLE)
-	#.addCondition(lambda token: not is_time(token[0]))
 
 if DO_TEST:
 	assert (LOC.parseString('HELLO DO I HAUNT YOU - WHAT ABOUT THE LOCATION')[0] == 'HELLO DO I HAUNT YOU')
@@ -290,8 +291,6 @@ if DO_TEST:
 
 # setting
 SETTING = TERIOR + pp.Group(LOC)
-# SETTING = pp.Combine(TERIOR + OPT_H + CAPS.copy().addCondition(lambda tokens: not SHOT_TYPES(tokens))
-#                      + pp.Optional(LOC), joinString=" ", adjacent=False).setResultsName('Setting')
 
 if DO_TEST:
 	assert(SETTING.parseString('INT. WHERE SHOULD I GO NOTTIME')[1][0] == 'WHERE SHOULD I GO NOTTIME')
@@ -317,7 +316,9 @@ if DO_TEST:
 	assert(len(SETTING.parseString(t9)[1]) == 2)
 
 # Shot
-SHOT = ST + pp.Optional((prep | (pp.Literal('-').suppress() + WH)).suppress() + SUB)
+S1 = ST + pp.Optional((prep | (pp.Literal('-').suppress() + WH)).suppress() + SUB)
+S2 = OTHER_SHOT_SUBJ_TRANSITIONS + ~prep + SUB
+SHOT = pp.MatchFirst([S2, S1])
 
 if DO_TEST:
 	assert(SHOT.parseString('WIDE SHOT (MOD TEST) - CNN CORRESPONDENT')[1] == 'CNN CORRESPONDENT')
@@ -328,14 +329,17 @@ if DO_TEST:
 	assert(SHOT.parseString('WIDE SHOT (SNEAKY)')[0] == 'WIDE SHOT, (SNEAKY)')
 	assert(SHOT.parseString('WIDE SHOT (SNEAKY) Amb')[0] == 'WIDE SHOT, (SNEAKY)')
 	assert(SHOT.parseString('WIDE SHOT Amb(SNEAKY) Amb')[0] == 'WIDE SHOT')
-	assert(SHOT.parseString('THIS IS A SHOT (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT, (SNEAKY RIGHT)')
-	assert(SHOT.parseString('THIS IS A SHOT Amb (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'THIS IS A SHOT')
-	assert(SHOT.parseString('THIS IS A SHOT (KINDA) Amb - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'THIS IS A SHOT, (KINDA)')
-	assert(SHOT.parseString('THIS IS A SHOT (KINDA) - AND HERE IS THE SUBJECT Amb (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT')
+	assert(SHOT.parseString('CLOSE ANGLE (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT, (SNEAKY RIGHT)')
+	assert(SHOT.parseString('CLOSE ANGLE Amb (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'CLOSE ANGLE')
+	assert(SHOT.parseString('CLOSE ANGLE (KINDA) Amb - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'CLOSE ANGLE, (KINDA)')
+	assert(SHOT.parseString('CLOSE ANGLE (KINDA) - AND HERE IS THE SUBJECT Amb (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT')
+	assert(SHOT.parseString('INTERCUTTING INDY')[1] == 'INDY')
+	assert(SHOT.parseString('MONTAGE OF INDY AND MONSTERS')[1] == 'INDY AND MONSTERS')
+	assert(SHOT.parseString('MONTAGE INDY AND MONSTERS')[1] == 'INDY AND MONSTERS')
+
 
 
 # Scene
-# SCENE = SETTING + (SHOT | ToD | pp.Empty())
 SCENE = SETTING + pp.MatchFirst([SHOT | ToD | pp.Empty()])
 
 if DO_TEST:
@@ -374,6 +378,7 @@ if DO_TEST:
 	           An amphibian plane sits in the water beneath a green cliff."""
 	assert(len(SCENE.parseString(t8)) == 4)
 	assert(len(SCENE.parseString('EXT. THE URUBAMBA RIVER - NOTEATIME - DAY An')) == 3)
+
 # alpha
 alpha = pp.MatchFirst([SCENE | SHOT | SUB | ToD])
 
@@ -406,42 +411,42 @@ if DO_TEST:
 	           An amphibian plane sits in the water beneath a green cliff."""
 	assert(len(alpha.parseString(t8)) == 4)
 	assert(len(alpha.parseString('EXT. THE URUBAMBA RIVER - NOTEATIME - DAY An')) == 3)
-# A class object to host operations currently being constructed
-# class Line:
-# 	def __init__(self, str_line):
-# 		if str_line == '\n':
-# 			raise ValueError('Don\'t give me blank lines, doofus')
-# 		self._indent = str_line.index(str_line.strip()[0])
-# 		self._line = str_line.strip().split()
-# 	def __len__(self):
-# 		return len(self._line)
-# 	def __getitem__(self, item):
-# 		return self._line[item]
-# 	def __str__(self):
-# 		return ' '.join(item for item in self._line)
-# 	def __repr__(self):
-# 		return 'LINE{}'.format(self._line)
+	aquote = """EXT. THE FOOT CHASE - INTERCUTTING INDY AND THE MOVING
 
+               BASKET - DAY"""
+	alpha.parseString(aquote)
 
-# experimental method for adding Conditions : just returns the exception as a string
-def not_one_letter(toks):
-	# print('here')
-	if len(toks) == 1 and len(toks[0]) == 1:
-		return pp.ParseException
-	return toks
+# beta = alpha | wall
+# lower_case = pp.OneOrMore(~pp.Word(caps, min=2) + pp.Combine(pp.Optional(pp.Word(ALPHANUMS,max=1)) + pp.Word(lower + '\'' + '.' + '\"' + ',', min=1), joinString='', adjacent=True), stopOn=wall)
+# lower_case = pp.OneOrMore(~pp.Word(caps, min=2) + pp.Combine(pp.Optional(pp.Word(ALPHANUMS,max=1)) + pp.Optional(pp.White(' ',max=1)) + pp.Word(lower + '\'' + '.' + '\"' + ',', min=1), joinString='', adjacent=True), stopOn=wall)
+#
+def join_strings(tokens):
+	return ' '.join(tokens)
 
+# ignorable = pp.Word(caps, min=2) | pp.Group(pp.Literal('-') + WH)
+options = pp.Optional(pp.White(' ', max=1).suppress() + pp.Word(ALPHANUMS, max=1)) + pp.Optional(pp.White(' ', max=1))
+direction = pp.Word(lower + '\'' + '.' + '\"' + ',', min=1)
+# ignorable = pp.White(' ', min=1) + pp.Word(caps + '.', min=2)
+lower_case = pp.OneOrMore(~pp.Word(caps + '.', min=2) + pp.Combine(options + direction, joinString='', adjacent=True), stopOn=wall).addParseAction(join_strings)
+
+"""
+options = pp.Optional(pp.White(' ', max=1).suppress() + pp.Word(ALPHANUMS, max=1)) + pp.Optional(pp.White(' ', max=1))
+direction = pp.Word(lower + '\'' + '.' + '\"' + ',', min=1)
+# ignorable = pp.White(' ', min=1) + pp.Word(caps + '.', min=2)
+lower_case = pp.OneOrMore(~pp.Word(caps + '.', min=2) + pp.Combine(options + direction, joinString='', adjacent=True), stopOn=wall).addParseAction(join_strings)
+direction_attempt = list(lower_case.scanString(open(screenplay, 'r').read()))
+"""
 
 if __name__ == '__main__':
 	screenplay = 'indianajonesandtheraidersofthelostark.txt'
 	look_at_lines = []
+	print('reading indiana jones')
 	with open(screenplay) as fn:
-		for line in fn:
-			for result, s, e in CAPS.scanString(line):
-				look_at_lines.append(result)
-			# look_at_lines.append(alpha.parseString(line))
-		# doc = split_into_sentences(fn.read())
+		# for line in fn:
+		for result, s, e in alpha.scanString(fn.read()):
+			look_at_lines.append(result)
 
-	# with open('indianajonesandtheraidersofthelostark.txt', 'r') as ij:
-	# 	ij.read()
-	print("here")
+	with open('headings.txt', 'w') as head:
+		for line in look_at_lines:
+			head.write('{}\n'.format(line))
 
