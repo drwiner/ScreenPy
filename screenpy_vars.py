@@ -90,6 +90,11 @@ enumerated_time_word = pp.oneOf(['sunrise', 'sunset', 'present', 'later', 'befor
 stop_words = ~pp.oneOf(['is', 'this', 'that', 'there', 'are', 'were', 'be', 'for', 'with', 'was', 'won\'t', 'aren\'t', 'ain\'t', 'isn\'t', 'not', 'on', 'above', 'into', 'around', 'over', 'in', 'number', 'another', 'third', 'fourth', 'anything', 'hear', 'wife', 'run', 'me', 'case', 'everyone', 'friends'])
 
 
-spaces = pp.OneOrMore(pp.White(ws=' ', min=1))
+def num_spaces(tokens):
+	return len(tokens[0])
+
+spaces = pp.OneOrMore(pp.White(ws=' ', min=1)).addParseAction(num_spaces).setResultsName('indent')
 w = pp.OneOrMore(pp.White(ws='\t\r\n', min=1, max=0, exact=0))
 wall = w + spaces
+
+

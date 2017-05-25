@@ -146,7 +146,7 @@ OPT_P = pp.Combine(OPT_H | prep, joinString=' ', adjacent=False)
 
 
 # ST
-ST = pp.Combine(SHOT_TYPES + OPT_M, joinString=', ', adjacent=False)
+ST = pp.Combine(SHOT_TYPES + OPT_M, joinString=', ', adjacent=False).setResultsName('shot type')
 
 if DO_TEST:
 	try:
@@ -187,6 +187,7 @@ def is_single_cap(s):
 # Subj
 X = pp.Combine(pp.OneOrMore(~HYPHEN + pp.Word(ALPHANUMS) + (WH | ~pp.Word(lower)), stopOn=pp.FollowedBy(HYPHEN)), joinString=' ', adjacent=False)
 SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False).addCondition(lambda token: not is_time(' '.join(token))).addCondition(lambda token: not is_single_cap(' '.join(token)))
+SUBJ.setResultsName('subj')
 
 if DO_TEST:
 	# should just get first until HYPHEN
@@ -238,7 +239,7 @@ if DO_TEST:
 	assert (SUB.parseString('SAMUEL L JACKSON (CREEPY) Amb')[0] == 'SAMUEL L JACKSON, (CREEPY)')
 
 # T
-TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.', 'EXT./INT.', 'EXT. / INT.', 'INT. / EXT.'])
+TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.', 'EXT./INT.', 'EXT. / INT.', 'INT. / EXT.']).setResultsName('terior')
 
 # ONE_LOC
 Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([HYPHEN | TITLE])), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
@@ -290,7 +291,7 @@ if DO_TEST:
 	assert(len(LOC.parseString('AN ELEPHANT Drumbles')) == 1)
 
 # setting
-SETTING = TERIOR + pp.Group(LOC)
+SETTING = TERIOR + pp.Group(LOC).setResultsName('location')
 
 if DO_TEST:
 	assert(SETTING.parseString('INT. WHERE SHOULD I GO NOTTIME')[1][0] == 'WHERE SHOULD I GO NOTTIME')
@@ -380,7 +381,7 @@ if DO_TEST:
 	assert(len(SCENE.parseString('EXT. THE URUBAMBA RIVER - NOTEATIME - DAY An')) == 3)
 
 # alpha
-alpha = pp.MatchFirst([SCENE | SHOT | SUB | ToD])
+alpha = pp.MatchFirst([SCENE | SHOT | SUB | ToD]).setResultsName('heading')
 
 if DO_TEST:
 	assert(len(alpha.parseString('CNN - 4 AM')) == 2)
@@ -416,37 +417,106 @@ if DO_TEST:
                BASKET - DAY"""
 	alpha.parseString(aquote)
 
-# beta = alpha | wall
-# lower_case = pp.OneOrMore(~pp.Word(caps, min=2) + pp.Combine(pp.Optional(pp.Word(ALPHANUMS,max=1)) + pp.Word(lower + '\'' + '.' + '\"' + ',', min=1), joinString='', adjacent=True), stopOn=wall)
-# lower_case = pp.OneOrMore(~pp.Word(caps, min=2) + pp.Combine(pp.Optional(pp.Word(ALPHANUMS,max=1)) + pp.Optional(pp.White(' ',max=1)) + pp.Word(lower + '\'' + '.' + '\"' + ',', min=1), joinString='', adjacent=True), stopOn=wall)
+# beta = wall + alpha
 #
 def join_strings(tokens):
 	return ' '.join(tokens)
 
-# ignorable = pp.Word(caps, min=2) | pp.Group(pp.Literal('-') + WH)
-options = pp.Optional(pp.White(' ', max=1).suppress() + pp.Word(ALPHANUMS, max=1)) + pp.Optional(pp.White(' ', max=1))
-direction = pp.Word(lower + '\'' + '.' + '\"' + ',', min=1)
-# ignorable = pp.White(' ', min=1) + pp.Word(caps + '.', min=2)
-lower_case = pp.OneOrMore(~pp.Word(caps + '.', min=2) + pp.Combine(options + direction, joinString='', adjacent=True), stopOn=wall).addParseAction(join_strings)
+options = pp.Combine(pp.Optional(pp.White(' ', max=1).suppress() + pp.Word(ALPHANUMS, max=1)) + pp.Optional(pp.White(' ', max=1)), joinString='', adjacent=True)
+# direction = ~pp.Word('.' + ',' + '-', exact=1) + options + pp.Word(lower + '\'' + '.' + '\"' + ',' + '(' + ')', min=1)
+direction = ~pp.Word('.' + ',' + '-', exact=1) + options + pp.Word(lower + '\'' + '.' + '\"' + ',' + '(' + ')', min=1)
+no_new_line = pp.OneOrMore(~pp.White('\n') + pp.Or([TITLE, pp.Word(ALPHANUMS)]))
+# no_new_line = ~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS))
+after_caps = pp.Combine(~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS)), joinString='', adjacent=False)
+before_caps = pp.Combine(pp.Optional(no_new_line) + direction, joinString=' ', adjacent=False)
+# legal = pp.Combine(pp.Optional(no_new_line) + direction + pp.Optional(~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS))), joinString='', adjacent=False)
+legal = before_caps + pp.Optional(after_caps) # + pp.Optional(~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS))), joinString='', adjacent=False)
+# legal =legal_caps, joinString='', adjacent=True)
+# LOWER_CASE = ~pp.Word('.', exact=1) + pp.OneOrMore(~pp.Word(caps + '.', min=2) + legal, stopOn=wall).addParseAction(join_strings)
+LOWER_CASE = ~pp.Word('.' + '-' + ',', exact=1).suppress() + pp.OneOrMore(legal | TITLE, stopOn=wall).addParseAction(join_strings)
+# LOWER_CASE.addParseAction(lambda tokens: tokens[0])
+# LC = spaces + LOWER_CASE.setResultsName('text')
+if DO_TEST:
+	t8 = """EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
-"""
-options = pp.Optional(pp.White(' ', max=1).suppress() + pp.Word(ALPHANUMS, max=1)) + pp.Optional(pp.White(' ', max=1))
-direction = pp.Word(lower + '\'' + '.' + '\"' + ',', min=1)
-# ignorable = pp.White(' ', min=1) + pp.Word(caps + '.', min=2)
-lower_case = pp.OneOrMore(~pp.Word(caps + '.', min=2) + pp.Combine(options + direction, joinString='', adjacent=True), stopOn=wall).addParseAction(join_strings)
-direction_attempt = list(lower_case.scanString(open(screenplay, 'r').read()))
-"""
+		           An amphibian plane sits in the water beneath a green cliff."""
+	assert(list(LOWER_CASE.scanString(t8))[0][0][0] == 'An amphibian plane sits in the water beneath a green cliff.')
 
-if __name__ == '__main__':
-	screenplay = 'indianajonesandtheraidersofthelostark.txt'
-	look_at_lines = []
-	print('reading indiana jones')
-	with open(screenplay) as fn:
-		# for line in fn:
-		for result, s, e in alpha.scanString(fn.read()):
-			look_at_lines.append(result)
+	t11 = """EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
-	with open('headings.txt', 'w') as head:
-		for line in look_at_lines:
-			head.write('{}\n'.format(line))
+			           An amphibian plane sits in the water BENEATH a green cliff."""
+	assert(list(LOWER_CASE.scanString(t11))[0][0][0] == 'An amphibian plane sits in the water BENEATH a green cliff.')
+	list(LOWER_CASE.scanString("  Lawrence Kasdan"))
+
+
+LC = spaces + LOWER_CASE.setResultsName('text')
+
+in_line_caps = pp.Word(lower) | TITLE | pp.FollowedBy(pp.Word(lower) | TITLE) | pp.White('\n', min=1)
+# following
+old_lower_case =~pp.Word('.', exact=1) + pp.OneOrMore(~pp.Word(caps + '.', min=2) + legal, stopOn=wall).addParseAction(join_strings)
+# HEADINGS = pp.Group(spaces + pp.Each([~pp.Word(lower), ~TITLE, ~pp.White('\n', min=1)]) + alpha).setResultsName('heading')
+# HEADINGS = ~pp.Word(lower)+ spaces + alpha
+HEADINGS = pp.Group(spaces + ~LC + alpha).setResultsName('heading')
+if DO_TEST:
+	t11 = """  EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
+
+				           An amphibian plane sits in the water BENEATH a green cliff."""
+
+	t12 = """                 EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
+
+				           An amphibian plane sits in the water BENEATH a green cliff."""
+	d = list(HEADINGS.scanString(t11))[0][0].asDict()
+	assert(d['heading']['location'][1] == 'NOTEATIME')
+	assert(len(list(HEADINGS.scanString(t11))) == 1)
+	t13 = """  other stuff here\n\n               EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
+
+					           An amphibian plane sits in the water BENEATH a green cliff."""
+	assert(list(HEADINGS.scanString(t13))[0][0].asDict()['heading']['ToD'] == 'DAY')
+
+
+# headings_only = pp.White(ws='\n', min=1, max=0, exact=1) + spaces + alpha + pp.White(ws='\n', min=1, max=0, exact=1)
+# HEADINGS = ~LOWER_CASE + alpha + wall
+
+# all_direction = pp.OneOrMore(~pp.Word(caps + '.', min=2) + pp.Combine(options + direction + pp.Optional(pp.Word(ALPHANUMS)) + pp.Optional(direction), joinString='', adjacent=True), stopOn=wall).addParseAction(join_strings)
+
+screenplay = 'indianajonesandtheraidersofthelostark.txt'
+with open(screenplay, 'r') as fn:
+	play = fn.read()
+	play_headings = HEADINGS.scanString(play)
+	# 13:17 indent is new line
+	# > 17 is dialogue heading or central title
+	# < 13 i
+	# for heading heading of the form INT. EXT, or of indent size ~15:
+		# write heading begin
+		# write
+	play_text = LC.scanString(play)
+
+
+# headings_only_2 = ~lower_case + alpha + w
+# headings_only_attempt = list(headings_only_2.scanString(fn))
+
+# alpha_attempt = list(alpha.scanString(fn))
+
+# direction_attempt = list(lower_case.scanString(fn))
+
+# beta makes better headings than alpha cuz beta only accepts after new line + white space and gives indent number
+# should check if there is lowercase/title text on same line after heading, then we know
+
+# beta = wall + alpha
+# heading_attempt = list(beta.scanString(fn))
+
+
+# if __name__ == '__main__':
+# 	screenplay = 'indianajonesandtheraidersofthelostark.txt'
+#
+# 	look_at_lines = []
+# 	print('reading indiana jones')
+# 	with open(screenplay) as fn:
+# 		# for line in fn:
+# 		for result, s, e in alpha.scanString(fn.read()):
+# 			look_at_lines.append(result)
+#
+# 	with open('headings.txt', 'w') as head:
+# 		for line in look_at_lines:
+# 			head.write('{}\n'.format(line))
 
