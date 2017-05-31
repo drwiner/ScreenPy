@@ -93,7 +93,7 @@ stop_words = ~pp.oneOf(['is', 'this', 'that', 'there', 'are', 'were', 'be', 'for
 def num_spaces(tokens):
 	return len(tokens[0])
 
-spaces = pp.OneOrMore(pp.White(ws=' ', min=1)).addParseAction(num_spaces).setResultsName('indent')
+spaces = pp.OneOrMore(pp.White(ws=' ', min=2)).addParseAction(num_spaces).setResultsName('indent')
 w = pp.OneOrMore(pp.White(ws='\t\r\n', min=1, max=0, exact=0))
 wall = w + spaces
 

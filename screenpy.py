@@ -487,6 +487,15 @@ if DO_TEST:
 	assert (list(HEADINGS.scanString(t13))[0][0].asDict()['heading']['ToD'] == 'DAY')
 
 
+	# 13:17 indent is new line
+	# > 17 is dialogue heading or central title
+	# < 13 i
+	# for heading heading of the form INT. EXT, or of indent size ~15:
+		# write heading begin
+		# write
+# play_text = LC.scanString(play)
+
+
 if __name__ == '__main__':
 	pass
 # 	screenplay = 'indianajonesandtheraidersofthelostark.txt'
