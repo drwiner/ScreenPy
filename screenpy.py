@@ -17,6 +17,7 @@ print('loading sense2vec')
 s2v_model = sense2vec.load()
 print('done loading')
 
+
 def loadSpacy():
 	import spacy
 	print('loading SPACY english')
@@ -103,7 +104,7 @@ OPT_M = pp.Optional(MODIFIER)
 
 
 # ToD
-ToD = pp.Combine(pp.Combine(pp.OneOrMore(pp.Word(ALPHANUMS), stopOn=TITLE), joinString=' ', adjacent=False).addCondition(lambda token: is_time(token[0])).setResultsName('ToD') + OPT_M, joinString=', ', adjacent=False)
+ToD = pp.Combine(pp.Combine(pp.OneOrMore(pp.Word(ALPHANUMS), stopOn=TITLE | one_word_title), joinString=' ', adjacent=False).addCondition(lambda token: is_time(token[0])).setResultsName('ToD') + OPT_M, joinString=', ', adjacent=False)
 # Opt-ToD
 OPT_ToD = pp.Optional(pp.Combine(pp.Literal('-').suppress() + WH + ToD, joinString=' ', adjacent=False))
 
@@ -139,6 +140,8 @@ if DO_TEST:
 	except pp.ParseException:
 		print('good')
 
+	t99 = 'NIGHT\n\n    A amphibian plane sits in the water beneath a green cliff.'
+	assert(ToD.parseString(t99)[0] == 'NIGHT')
 
 # preposition for camera transitions
 # Opt-P
@@ -167,25 +170,25 @@ if DO_TEST:
 	except pp.ParseException:
 		print('good')
 	# assert(ST.parseString("CLOSEUP (WITH MOD)")
-	assert(ST.parseString('HELP WIDE SHOT')[0] == 'HELP WIDE SHOT')
-	assert(ST.parseString('WIDE SHOT - WITHOUT MOD')[0] == 'WIDE SHOT')
-	assert(ST.parseString('A WIDE SHOT (WITH MOD)')[0] == 'A WIDE SHOT, (WITH MOD)')
-	assert(ST.parseString('THIS WIDE SHOT')[0] == 'THIS WIDE SHOT')
-	assert(ST.parseString('WIDE SHOT WITH EXTRA WORDS')[0] == 'WIDE SHOT')
-	assert(ST.parseString('WIDE SHOT ANY EXTRA WORDS')[0] == 'WIDE SHOT')
-	assert (ST.parseString('WIDE SHOT BECAUSE EXTRA WORDS')[0] == 'WIDE SHOT')
-	assert(ST.parseString('WIDE SHOT Any EXTRA WORDS')[0] == 'WIDE SHOT')
-	assert(ST.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')[0] == 'ANY WIDE SHOT, (THE_MOD)')
-	assert(ST.parseString('INTERCUT WITH INDY AND JONES')[0] == 'INTERCUT')
-	assert(ST.parseString("INTERCUTTING INDY AND SIMONE SAYS")[0] == 'INTERCUTTING')
-	assert(ST.parseString('MONTAGE THE BEES')[0] == 'MONTAGE')
+	assert(ST.parseString('HELP WIDE SHOT')[0][0] == 'HELP WIDE SHOT')
+	assert(ST.parseString('WIDE SHOT - WITHOUT MOD')[0][0] == 'WIDE SHOT')
+	assert(ST.parseString('A WIDE SHOT (WITH MOD)')[0][0] == 'A WIDE SHOT, (WITH MOD)')
+	assert(ST.parseString('THIS WIDE SHOT')[0][0] == 'THIS WIDE SHOT')
+	assert(ST.parseString('WIDE SHOT WITH EXTRA WORDS')[0][0] == 'WIDE SHOT')
+	assert(ST.parseString('WIDE SHOT ANY EXTRA WORDS')[0][0] == 'WIDE SHOT')
+	assert (ST.parseString('WIDE SHOT BECAUSE EXTRA WORDS')[0][0] == 'WIDE SHOT')
+	assert(ST.parseString('WIDE SHOT Any EXTRA WORDS')[0][0] == 'WIDE SHOT')
+	assert(ST.parseString('ANY WIDE SHOT (THE_MOD) \n\nAn CLOSE UP - DUSK\n\nAn CLOSE UP')[0][0] == 'ANY WIDE SHOT, (THE_MOD)')
+	assert(ST.parseString('INTERCUT WITH INDY AND JONES')[0][0] == 'INTERCUT')
+	assert(ST.parseString("INTERCUTTING INDY AND SIMONE SAYS")[0][0] == 'INTERCUTTING')
+	assert(ST.parseString('MONTAGE THE BEES')[0][0] == 'MONTAGE')
 
 def is_single_cap(s):
 	return (len(s) == 1 and (s.isupper() or s == ',')) or s == ', I'
 
 
 # Subj
-X = pp.Combine(pp.OneOrMore(~HYPHEN + pp.Word(ALPHANUMS) + (WH | ~pp.Word(lower)), stopOn=pp.FollowedBy(HYPHEN)), joinString=' ', adjacent=False)
+X = pp.Combine(pp.OneOrMore(~HYPHEN + pp.Word(ALPHANUMS) + (WH | ~pp.Word(lower)), stopOn=pp.FollowedBy(HYPHEN) | one_word_title), joinString=' ', adjacent=False)
 SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False).addCondition(lambda token: not is_time(' '.join(token))).addCondition(lambda token: not is_single_cap(' '.join(token)))
 SUBJ.setResultsName('subj')
 
@@ -223,6 +226,9 @@ if DO_TEST:
 	except pp.ParseException:
 		print('good')
 
+	t9 = """THE URUBAMBA RIVER\n\n   A amphibian plane sits in the water beneath a green cliff."""
+	assert(SUBJ.parseString(t9)[0] == 'THE URUBAMBA RIVER')
+
 # SUB
 SUB = (SUBJ + OPT_ToD) | ToD
 if DO_TEST:
@@ -237,12 +243,17 @@ if DO_TEST:
 		print('good')
 	assert(SUB.parseString('HELLO GOODBYE An - 3 AM An - HELLO - 3 AM \n')[0] == 'HELLO GOODBYE')
 	assert (SUB.parseString('SAMUEL L JACKSON (CREEPY) Amb')[0] == 'SAMUEL L JACKSON, (CREEPY)')
+	t9 = """THE URUBAMBA RIVER - NIGHT\n\n    An amphibian plane sits in the water beneath a green cliff."""
+	assert(len(SUB.parseString(t9)) == 2)
+	t9 = """THE URUBAMBA RIVER - NIGHT\n\n    A amphibian plane sits in the water beneath a green cliff."""
+	assert(SUB.parseString(t9)[0] == 'THE URUBAMBA RIVER')
+	assert(SUB.parseString(t9)[1] == 'NIGHT')
 
 # T
 TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.', 'EXT./INT.', 'EXT. / INT.', 'INT. / EXT.']).setResultsName('terior')
 
 # ONE_LOC
-Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([HYPHEN | TITLE])), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
+Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([HYPHEN | TITLE | one_word_title])), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
 ONE_LOC = pp.Combine(Y + OPT_M, joinString=', ', adjacent=False)
 
 if DO_TEST:
@@ -260,6 +271,9 @@ if DO_TEST:
 
 			           An amphibian plane sits in the water beneath a green cliff."""
 	assert (len(ONE_LOC.parseString(t9)) == 1)
+	t9 = """THE URUBAMBA RIVER
+
+			           A amphibian plane sits in the water beneath a green cliff."""
 
 
 # LOC
@@ -324,20 +338,19 @@ SHOT = pp.MatchFirst([S2, S1])
 if DO_TEST:
 	assert(SHOT.parseString('WIDE SHOT (MOD TEST) - CNN CORRESPONDENT')[1] == 'CNN CORRESPONDENT')
 	assert(SHOT.parseString('TRACKING SHOT ON CNN CORRESPONDENT - 4 AM \n')[2] == '4 AM')
-	assert(SHOT.parseString('CLOSE ANGLE WITH CNN')[0] == 'CLOSE ANGLE')
-	assert(SHOT.parseString('ZOOM TO CNN')[0] == 'ZOOM')
-	assert(SHOT.parseString('WIDE SHOT')[0] == 'WIDE SHOT')
-	assert(SHOT.parseString('WIDE SHOT (SNEAKY)')[0] == 'WIDE SHOT, (SNEAKY)')
-	assert(SHOT.parseString('WIDE SHOT (SNEAKY) Amb')[0] == 'WIDE SHOT, (SNEAKY)')
-	assert(SHOT.parseString('WIDE SHOT Amb(SNEAKY) Amb')[0] == 'WIDE SHOT')
+	assert(SHOT.parseString('CLOSE ANGLE WITH CNN')['shot type'][0] == 'CLOSE ANGLE')
+	assert(SHOT.parseString('ZOOM TO CNN')['shot type'][0] == 'ZOOM')
+	assert(SHOT.parseString('WIDE SHOT')['shot type'][0] == 'WIDE SHOT')
+	assert(SHOT.parseString('WIDE SHOT (SNEAKY)')['shot type'][0] == 'WIDE SHOT, (SNEAKY)')
+	assert(SHOT.parseString('WIDE SHOT (SNEAKY) Amb')['shot type'][0] == 'WIDE SHOT, (SNEAKY)')
+	assert(SHOT.parseString('WIDE SHOT Amb(SNEAKY) Amb')['shot type'][0] == 'WIDE SHOT')
 	assert(SHOT.parseString('CLOSE ANGLE (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT, (SNEAKY RIGHT)')
-	assert(SHOT.parseString('CLOSE ANGLE Amb (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'CLOSE ANGLE')
-	assert(SHOT.parseString('CLOSE ANGLE (KINDA) Amb - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')[0] == 'CLOSE ANGLE, (KINDA)')
+	assert(SHOT.parseString('CLOSE ANGLE Amb (KINDA) - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')['shot type'][0] == 'CLOSE ANGLE')
+	assert(SHOT.parseString('CLOSE ANGLE (KINDA) Amb - AND HERE IS THE SUBJECT (SNEAKY RIGHT) Amb')['shot type'][0] == 'CLOSE ANGLE, (KINDA)')
 	assert(SHOT.parseString('CLOSE ANGLE (KINDA) - AND HERE IS THE SUBJECT Amb (SNEAKY RIGHT) Amb')[1] == 'AND HERE IS THE SUBJECT')
 	assert(SHOT.parseString('INTERCUTTING INDY')[1] == 'INDY')
 	assert(SHOT.parseString('MONTAGE OF INDY AND MONSTERS')[1] == 'INDY AND MONSTERS')
 	assert(SHOT.parseString('MONTAGE INDY AND MONSTERS')[1] == 'INDY AND MONSTERS')
-
 
 
 # Scene
@@ -379,6 +392,11 @@ if DO_TEST:
 	           An amphibian plane sits in the water beneath a green cliff."""
 	assert(len(SCENE.parseString(t8)) == 4)
 	assert(len(SCENE.parseString('EXT. THE URUBAMBA RIVER - NOTEATIME - DAY An')) == 3)
+	y = """INT. ARAB BAR - NIGHT
+
+               A dark,"""
+	assert(SCENE.parseString(y)['ToD'] == 'NIGHT')
+
 
 # alpha
 alpha = pp.MatchFirst([SCENE | SHOT | SUB | ToD]).setResultsName('heading')
@@ -416,47 +434,38 @@ if DO_TEST:
 
                BASKET - DAY"""
 	alpha.parseString(aquote)
+	x = """THE SANCTUARY\n\n  A large"""
 
-# beta = wall + alpha
-#
+
 def join_strings(tokens):
 	return ' '.join(tokens)
 
 options = pp.Combine(pp.Optional(pp.White(' ', max=1).suppress() + pp.Word(ALPHANUMS, max=1)) + pp.Optional(pp.White(' ', max=1)), joinString='', adjacent=True)
-# direction = ~pp.Word('.' + ',' + '-', exact=1) + options + pp.Word(lower + '\'' + '.' + '\"' + ',' + '(' + ')', min=1)
 direction = ~pp.Word('.' + ',' + '-', exact=1) + options + pp.Word(lower + '\'' + '.' + '\"' + ',' + '(' + ')', min=1)
 no_new_line = pp.OneOrMore(~pp.White('\n') + pp.Or([TITLE, pp.Word(ALPHANUMS)]))
-# no_new_line = ~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS))
 after_caps = pp.Combine(~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS)), joinString='', adjacent=False)
 before_caps = pp.Combine(pp.Optional(no_new_line) + direction, joinString=' ', adjacent=False)
-# legal = pp.Combine(pp.Optional(no_new_line) + direction + pp.Optional(~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS))), joinString='', adjacent=False)
-legal = before_caps + pp.Optional(after_caps) # + pp.Optional(~pp.White('\n', min=1) + pp.OneOrMore(TITLE | pp.Word(ALPHANUMS))), joinString='', adjacent=False)
-# legal =legal_caps, joinString='', adjacent=True)
-# LOWER_CASE = ~pp.Word('.', exact=1) + pp.OneOrMore(~pp.Word(caps + '.', min=2) + legal, stopOn=wall).addParseAction(join_strings)
+legal = before_caps + pp.Optional(after_caps)
 LOWER_CASE = ~pp.Word('.' + '-' + ',', exact=1).suppress() + pp.OneOrMore(legal | TITLE, stopOn=wall).addParseAction(join_strings)
-# LOWER_CASE.addParseAction(lambda tokens: tokens[0])
-# LC = spaces + LOWER_CASE.setResultsName('text')
+
 if DO_TEST:
 	t8 = """EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
 		           An amphibian plane sits in the water beneath a green cliff."""
-	assert(list(LOWER_CASE.scanString(t8))[0][0][0] == 'An amphibian plane sits in the water beneath a green cliff.')
+	scan_t8 = list(LOWER_CASE.scanString(t8))[0]
+	assert(t8[scan_t8[1]:scan_t8[2]].strip() == 'An amphibian plane sits in the water beneath a green cliff.')
 
 	t11 = """EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
 			           An amphibian plane sits in the water BENEATH a green cliff."""
-	assert(list(LOWER_CASE.scanString(t11))[0][0][0] == 'An amphibian plane sits in the water BENEATH a green cliff.')
+	scan_t11 = list(LOWER_CASE.scanString(t11))[0]
+	assert(t11[scan_t11[1]:scan_t11[2]].strip() == 'An amphibian plane sits in the water BENEATH a green cliff.')
 	list(LOWER_CASE.scanString("  Lawrence Kasdan"))
 
 
 LC = spaces + LOWER_CASE.setResultsName('text')
-
-in_line_caps = pp.Word(lower) | TITLE | pp.FollowedBy(pp.Word(lower) | TITLE) | pp.White('\n', min=1)
-# following
-old_lower_case =~pp.Word('.', exact=1) + pp.OneOrMore(~pp.Word(caps + '.', min=2) + legal, stopOn=wall).addParseAction(join_strings)
-# HEADINGS = pp.Group(spaces + pp.Each([~pp.Word(lower), ~TITLE, ~pp.White('\n', min=1)]) + alpha).setResultsName('heading')
-# HEADINGS = ~pp.Word(lower)+ spaces + alpha
 HEADINGS = pp.Group(spaces + ~LC + alpha).setResultsName('heading')
+
 if DO_TEST:
 	t11 = """  EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
@@ -467,46 +476,19 @@ if DO_TEST:
 				           An amphibian plane sits in the water BENEATH a green cliff."""
 	d = list(HEADINGS.scanString(t11))[0][0].asDict()
 	assert(d['heading']['location'][1] == 'NOTEATIME')
-	assert(len(list(HEADINGS.scanString(t11))) == 1)
+	# assert(len(list(HEADINGS.scanString(t11))) == 1)
 	t13 = """  other stuff here\n\n               EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
 
 					           An amphibian plane sits in the water BENEATH a green cliff."""
 	assert(list(HEADINGS.scanString(t13))[0][0].asDict()['heading']['ToD'] == 'DAY')
+	t13 = """  other stuff here\n\n               EXT. THE URUBAMBA RIVER - NOTEATIME - ANY SHOT - DAY
+
+						           A amphibian plane sits in the water BENEATH a green cliff."""
+	assert (list(HEADINGS.scanString(t13))[0][0].asDict()['heading']['ToD'] == 'DAY')
 
 
-# headings_only = pp.White(ws='\n', min=1, max=0, exact=1) + spaces + alpha + pp.White(ws='\n', min=1, max=0, exact=1)
-# HEADINGS = ~LOWER_CASE + alpha + wall
-
-# all_direction = pp.OneOrMore(~pp.Word(caps + '.', min=2) + pp.Combine(options + direction + pp.Optional(pp.Word(ALPHANUMS)) + pp.Optional(direction), joinString='', adjacent=True), stopOn=wall).addParseAction(join_strings)
-
-screenplay = 'indianajonesandtheraidersofthelostark.txt'
-with open(screenplay, 'r') as fn:
-	play = fn.read()
-	play_headings = HEADINGS.scanString(play)
-	# 13:17 indent is new line
-	# > 17 is dialogue heading or central title
-	# < 13 i
-	# for heading heading of the form INT. EXT, or of indent size ~15:
-		# write heading begin
-		# write
-	play_text = LC.scanString(play)
-
-
-# headings_only_2 = ~lower_case + alpha + w
-# headings_only_attempt = list(headings_only_2.scanString(fn))
-
-# alpha_attempt = list(alpha.scanString(fn))
-
-# direction_attempt = list(lower_case.scanString(fn))
-
-# beta makes better headings than alpha cuz beta only accepts after new line + white space and gives indent number
-# should check if there is lowercase/title text on same line after heading, then we know
-
-# beta = wall + alpha
-# heading_attempt = list(beta.scanString(fn))
-
-
-# if __name__ == '__main__':
+if __name__ == '__main__':
+	pass
 # 	screenplay = 'indianajonesandtheraidersofthelostark.txt'
 #
 # 	look_at_lines = []

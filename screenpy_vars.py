@@ -98,3 +98,4 @@ w = pp.OneOrMore(pp.White(ws='\t\r\n', min=1, max=0, exact=0))
 wall = w + spaces
 
 
+one_word_title = pp.Word(ALPHANUMS, max=1) & pp.FollowedBy(pp.Word(lower))
