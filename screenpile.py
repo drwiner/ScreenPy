@@ -5,13 +5,13 @@ import json
 import pickle
 
 class Heading:
-	def __init__(self, name_, result_, start_, stop_, indent_=None, raw_text=None):
+	def __init__(self, name_, result_, start_, stop_, indent_=None):
 		self.name = name_
 		self.result = result_
 		self.start = start_
 		self.stop = stop_
 		self.indent = indent_
-		self.raw_text = raw_text
+		# self.raw_text = raw_text
 		self.in_lines = []
 		self.transition = None
 		self.dialogue = []
@@ -20,6 +20,7 @@ class Heading:
 	def asDict(self):
 		if self.result is not None:
 			self.result = self.result.asDict()
+
 		if self.transition is not None:
 			self.transition = self.transition.asDict()
 
@@ -45,7 +46,7 @@ class TextSeg:
 		self.name = name_
 		self.start = start_
 		self.stop = stop_
-		self.raw_text = raw_text
+		self.raw_text = ' '.join([line.strip() for line in raw_text.split('\n\n')])
 
 
 	def asDict(self):
@@ -166,14 +167,13 @@ def screenpile_algorithm(headings, screenplay):
 
 
 def seg_to_json(seg, i):
-
-	heading_dict = seg[0].asDict()
-	heading_dict.update({'sub_heading': [item.asDict() for item in seg[1:]]})
+	heading_list = [seg[0].asDict(), [item.asDict() for item in seg[1:]]]
+	# heading_dict.update({'sub_heading': [item.asDict() for item in seg[1:]]})
 	# heading_dict.update(seg[0].\)
 	# heading_dict.update({'seg ' + str(i): {[item.asDict() for item in seg[1:]], })
 	# common roof over head
-	json_dict = {'seg ' + str(i): heading_dict}
-	return json_dict
+	# json_dict = heading_dict
+	return heading_list
 	# json.dumps(json_dict)
 	# return None
 
@@ -212,7 +212,7 @@ if __name__ == '__main__':
 	hsegs = separate_into_segs(segments)
 	print('ok')
 	with open('indianajonesandtheraidersofthelostark.json', 'w') as fp:
-		json.dump([seg_to_json(seg, i) for i, seg in enumerate(hsegs)], fp)
+		json.dump([seg_to_json(seg, i) for i, seg in enumerate(hsegs)], fp, indent=4)
 	# with open('segments.txt', 'w') as seg_file:
 	# 	for seg in segments:
 	# 		seg_file.write(json)
