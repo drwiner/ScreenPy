@@ -149,7 +149,7 @@ OPT_P = pp.Combine(OPT_H | prep, joinString=' ', adjacent=False)
 
 
 # ST
-ST = pp.Combine(SHOT_TYPES + OPT_M, joinString=', ', adjacent=False).setResultsName('shot type')
+ST = pp.Combine(~OHYPHEN + SHOT_TYPES + OPT_M, joinString=', ', adjacent=False).setResultsName('shot type')
 
 if DO_TEST:
 	try:
@@ -188,14 +188,15 @@ def is_single_cap(s):
 
 
 # Subj
-X = pp.Combine(pp.OneOrMore(~HYPHEN + pp.Word(ALPHANUMS) + (WH | ~pp.Word(lower)), stopOn=pp.FollowedBy(HYPHEN) | one_word_title), joinString=' ', adjacent=False)
+X = pp.Combine(pp.OneOrMore(~HYPHEN + pp.Word(ALPHANUMS) + (WH | ~pp.Word(lower)), stopOn=pp.FollowedBy(HYPHEN) | pp.FollowedBy(OHYPHEN) | one_word_title), joinString=' ', adjacent=False)
 SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False).addCondition(lambda token: not is_time(' '.join(token))).addCondition(lambda token: not is_single_cap(' '.join(token)))
 SUBJ.setResultsName('subj')
 
 if DO_TEST:
 	# should just get first until HYPHEN
 	assert(SUBJ.parseString('HELP - ME UNDERSTAND')[0] == 'HELP')
-	assert (SUBJ.parseString('HELP - ME UNDERSTAND')[0] == 'HELP')
+	assert (SUBJ.parseString('HELP-ME UNDERSTAND')[0] == 'HELP-ME UNDERSTAND')
+	assert (SUBJ.parseString('HELP-ME UNDERSTAND - 3 AM')[0] == 'HELP-ME UNDERSTAND')
 	assert (SUBJ.parseString('HELP 3 AM')[0] == 'HELP 3 AM')
 	assert(SUBJ.parseString('HELLO (MODIFIER) - 3 AM')[0] == 'HELLO, (MODIFIER)')
 	assert (SUBJ.parseString('HELLO ME UNDERSTAND (MODIFIER) - 3 AM')[0] == 'HELLO ME UNDERSTAND, (MODIFIER)')
@@ -234,8 +235,8 @@ SUB = (SUBJ + OPT_ToD) | ToD
 if DO_TEST:
 	SUB.parseString('HELLO - 3 AM \n')
 	SUB.parseString('HELLO (MOD) - 3 AM\n 5 AM')
-	assert(SUB.parseString('HELLO GOODBYE - 3 AM - HELLO - 3 AM \n')[1] == '3 AM')
-	assert (SUB.parseString('HELLO GOODBYE - 3 AM An - HELLO - 3 AM \n')[1] == '3 AM')
+	# assert(SUB.parseString('HELLO GOODBYE - 3 AM - HELLO - 3 AM \n')[1] == '3 AM')
+	# assert (SUB.parseString('HELLO GOODBYE - 3 AM An - HELLO - 3 AM \n')[1] == '3 AM')
 	try:
 		SUB.parseString('HELLO GOODBYE An - 3 AM An - HELLO - 3 AM \n')[1]
 		print('bad')
@@ -253,7 +254,7 @@ if DO_TEST:
 TERIOR = pp.oneOf(['INT.', 'EXT.', 'INT./EXT.', 'EXT./INT.', 'EXT. / INT.', 'INT. / EXT.']).setResultsName('terior')
 
 # ONE_LOC
-Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([HYPHEN | TITLE | one_word_title])), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
+Y = pp.Combine(pp.OneOrMore(~SHOT_TYPES + pp.Word(ALPHANUMS), stopOn=pp.MatchFirst([HYPHEN | OHYPHEN | TITLE | one_word_title])), joinString=' ', adjacent=False).addCondition(lambda token: not is_time(token[0]))
 ONE_LOC = pp.Combine(Y + OPT_M, joinString=', ', adjacent=False)
 
 if DO_TEST:
@@ -361,9 +362,9 @@ if DO_TEST:
 	assert (len(SCENE.parseString('EXT. RIVER - DUSK')) == 3)
 	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM')[2] == '4 AM')
 	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM \nAn ambibean')[2] == '4 AM')
-	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')[2] == '4 AM')
-	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT An ambibean')[2] == '4 AM')
-	assert(len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM - WIDE SHOT')) == 3)
+	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM \n\nOther- WIDE SHOT')[2] == '4 AM')
+	assert (SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - 4 AM \n\nd- WIDE SHOT An ambibean')[2] == '4 AM')
+	assert(len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - WIDE SHOT - 4 AM')) == 4)
 	assert (len(SCENE.parseString('EXT. THIS IS A LOCATION - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT - 4 AM')) == 5)
 	assert (len(SCENE.parseString('EXT. THIS ONE - MORE SPECIFIC LOCATION - WIDE SHOT - SUBJECT (ALMOST) - 4 AM (EVERYWHERE)')) == 5)
 	assert (len(SCENE.parseString('EXT. THIS ONE (WORK HERE) - MORE LOCATION - WIDE SHOT - SUBJECT (ALMOST) - 4 AM (EVERYWHERE)')) == 5)

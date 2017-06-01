@@ -6,10 +6,11 @@ EOL = pp.Or(pp.LineEnd().suppress(), pp.Literal('\n'))
 caps = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lower = caps.lower()
 digits = "0123456789"
-ALPHANUMS = caps + digits + '\'' + '\"' + '_' + ','
+ALPHANUMS = caps + digits + '\'' + '\\' + '/' + '\"' + '_' + ',' + '-'
 ALL_CHARS = ALPHANUMS + lower
 WH = pp.White().suppress()
 HYPHEN = WH + pp.Literal('-').suppress() + WH
+OHYPHEN = pp.Literal('-').suppress() + WH
 LP = pp.Literal('(')
 RP = pp.Literal(')')
 BASIC_VARS = [HYPHEN, EOL, caps, lower, digits, ALPHANUMS, WH, LP, RP]
@@ -66,7 +67,7 @@ not_prep_nor_title_nor_hyphen = ~pp.Group(HYPHEN | TITLE | basic_prep)
 # A shot is one of these, but group together
 SHOT_TYPES = pp.Or([CLOSE, XCLOSE, WIDE, MED, MOVING_SHOT, TWOSHOT, THREESHOT, EST, MOVING_CAM, ANGLE, REV, POV, MISC]).setResultsName('shot')
 # SHOT_TYPES = pp.Combine(pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=SHOT_TYPES) + SHOT_TYPES + pp.ZeroOrMore(~not_prep_nor_title_nor_hyphen + pp.Word(ALPHANUMS, min=3)), joinString=" ", adjacent=False)
-SHOT_TYPES = pp.Combine(pp.ZeroOrMore(pp.Word(ALPHANUMS), stopOn=SHOT_TYPES) + SHOT_TYPES, joinString=" ", adjacent=False)
+SHOT_TYPES = pp.Combine(pp.ZeroOrMore(~OHYPHEN + pp.Word(ALPHANUMS), stopOn=SHOT_TYPES) + SHOT_TYPES, joinString=" ", adjacent=False)
 # Transition
 CUT = pp.Literal('CUT')
 DISSOLVE = pp.Literal('DISSOLVE')
@@ -93,7 +94,8 @@ stop_words = ~pp.oneOf(['is', 'this', 'that', 'there', 'are', 'were', 'be', 'for
 def num_spaces(tokens):
 	return len(tokens[0])
 
-spaces = pp.OneOrMore(pp.White(ws=' ', min=2)).addParseAction(num_spaces).setResultsName('indent')
+spaces = pp.OneOrMore(pp.White(ws=' ', min=1)).addParseAction(num_spaces).setResultsName('indent')
+min_2_spaces = pp.OneOrMore(pp.White(ws=' ', min=2)).addParseAction(num_spaces).setResultsName('indent')
 w = pp.OneOrMore(pp.White(ws='\t\r\n', min=1, max=0, exact=0))
 wall = w + spaces
 
