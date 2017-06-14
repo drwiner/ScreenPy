@@ -2,15 +2,64 @@
 
 
 # import os
-from os import listdir
-from os.path import isfile, join
+from os import listdir, makedirs
+from os.path import isfile, join, exists
 # path = 'D:\\Documents\\NLP corpora\\imsdb_scenes_sep_2012\\imsdb_scenes_clean'
-path = 'D:\\Documents\\python\\screenpy\\imsdb_raw_nov_2015\\'
 from screenpile import *
 
+
+def extract_headings(play):
+	heads = []
+	for result, s, t in HEADINGS.scanString(play):
+		indent = result[0]['indent']
+
+		# if indent is a weird screenplay number at random spacing...
+		# don't extract this for now
+		if indent < 13:
+			heading_type = 'in_line'
+		elif indent > 50:
+			heading_type = 'transition'
+		elif indent < 18:
+			heading_type = 'heading'
+		else:
+			heading_type = 'speaker'
+
+		heads.append(Heading(heading_type, result[0], s, t, indent))
+	return heads
+
+
 if __name__ == '__main__':
-	movie_cats = listdir(path)
-	movie_paths = [join(path,f) for f in movie_cats if not isfile(join(path,f))]
+	# get this path from arguments in command line
+	path = 'D:\\Documents\\python\\screenpy\\imsdb_raw_nov_2015\\'
+
+	# find all folders at input path
+	movie_paths = [join(path,f) for f in listdir(path) if not isfile(join(path,f))]
+
+	# for each movie path, for each movie file, save in its genre folder
+	for mp in movie_paths:
+
+		# assemble all movie file .txt files
+		movie_files = [f for f in listdir(mp) if isfile(join(mp, f))]
+
+		# make folder in current directory if not exists
+		directory = mp.split('\\')[-1]
+		if not exists(directory):
+			makedirs(directory)
+
+		# convert each .txt file into a .json, and save in new folder (in current directory)
+		for mf in movie_files:
+
+			# the full path of the screenplay
+			screenplay = join(mp, mf)
+
+			# just the movie path part of the text file name
+			just_mf = mf[:-4]
+
+			screenplay_folder = screenplay[:-4]
+			with open(directory + just_mf + '.json', 'w') as mfjson:
+				play = mfjson.read()
+				headings = extract_headings(play)
+
 
 	RELOAD = 0
 	screenplay = 'indianajonesandtheraidersofthelostark.txt'
