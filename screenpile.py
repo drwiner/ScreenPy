@@ -86,12 +86,19 @@ def separate_into_segs(headings):
 			seg = [heading]
 
 		elif heading.name == 'in_line':
-			seg[-1].in_lines.append(heading)
+			try:
+				seg[-1].in_lines.append(heading)
+			except:
+				# this means there's a problem, ignore for now
+				continue
+				# print('here too')
 			# headings[i-1].append_inline(heading)
 
 		elif heading.name == 'transition':
 			if seg == []:
-				raise ValueError('2 consecutive transitions at {}:{}'.format(heading.start, heading.stop))
+				# 2 consecutive transitions
+				continue
+			# 	raise ValueError('2 consecutive transitions at {}:{}'.format(heading.start, heading.stop))
 			# seg[0].transition = heading
 			seg.append(heading)
 			# save ended seg and refresh seg
@@ -115,13 +122,20 @@ def screenpile_algorithm(headings, screenplay):
 	interseg_pairs = [(flat_heads[i-1], flat_heads[i]) for i in range(1, len(flat_heads))]
 
 	# interseg_pairs = [(segs[i-1][0].stop, segs[i][0].start) for i in range(1, len(segs))]
-	last_heading = flat_heads[0]
+	try:
+		last_heading = flat_heads[0]
+	except:
+		print('possibly no spaces on screenplay')
+		return None
 	for i, (head_s, head_t) in enumerate(interseg_pairs):
 
 		if head_s.name == 'speaker':
 			all_dialogue = True
 			# determine if first line is actually dialogue
-			first_spaces = list(min_2_spaces.scanString(screenplay[head_s.start:head_s.stop]))[-1]
+			try:
+				first_spaces = list(min_2_spaces.scanString(screenplay[head_s.start:head_s.stop]))[-1]
+			except:
+				print('here')
 			indent_ = first_spaces[0]['indent']
 			if indent_ > 5 and indent_ < 20:
 				# first line is direction

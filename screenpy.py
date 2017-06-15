@@ -79,8 +79,7 @@ def is_time(s):
 		x = check_hardcode(s)
 	else:
 		try:
-			if is_time(mid_x.parseString(s)[0]):
-				return True
+			return is_time(mid_x.parseString(s)[0])
 		except pp.ParseException:
 			x = check_hardcode(s)
 		except ValueError:

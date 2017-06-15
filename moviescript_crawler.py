@@ -15,7 +15,7 @@ def extract_headings(play):
 
 		# if indent is a weird screenplay number at random spacing... (
 			# add consequence here
-		if indent < 13:
+		if indent < 8:
 			heading_type = 'in_line'
 		elif indent > 50:
 			heading_type = 'transition'
@@ -31,6 +31,8 @@ def extract_headings(play):
 def extract_json(play, headings, output_name):
 	# all headings in one list
 	segments = screenpile_algorithm(headings, play)
+	if segments is None:
+		return
 
 	# nested list, composite are segments, primitive are headings
 	hsegs = separate_into_segs(segments)
@@ -49,7 +51,7 @@ if __name__ == '__main__':
 	path = 'D:\\Documents\\python\\screenpy\\imsdb_raw_nov_2015\\'
 
 	# get this boolean tag from argument in command line, default is to not reload (pkl dump headings)
-	DUMP_HEADINGS = 1
+	DUMP_HEADINGS = 0
 
 	# find all folders at input path
 	movie_paths = [join(path,f) for f in listdir(path) if not isfile(join(path,f))]
@@ -68,27 +70,34 @@ if __name__ == '__main__':
 		# convert each .txt file into a .json, and save in new folder (in current directory)
 		for mf in movie_files:
 
-			# the full path of the screenplay
-			screenplay = join(mp, mf)
+			print(mf)
+			try:
 
-			# just the movie path part of the text file name
-			just_mf = mf[:-4]
-			with open(directory + just_mf + '.json', 'w') as mfjson:
-				play = mfjson.read()
+				# the full path of the screenplay
+				screenplay = join(mp, mf)
 
-			pkl_file_name = directory + just_mf + '.pkl'
-			if DUMP_HEADINGS:
-				# extract headings
-				headings = extract_headings(play)
-				headings.sort(key=lambda y: y.start, reverse=False)
+				# just the movie path part of the text file name
+				just_mf = mf[:-4]
+				with open(screenplay, 'r') as screenplay_file:
+					play = screenplay_file.read()
+					play = play.replace('\t', '        ')
 
-				# dump for easy reload later
-				pickle.dump(heads, open(pkl_file_name, 'wb'))
-			else:
-				# assume the pkl exists
-				play = open(screenplay, 'r').read()
-				headings = pickle.load(open(pkl_file_name, 'rb'))
+				pkl_file_name = directory + "//" +  just_mf + '.pkl'
+				if exists(pkl_file_name) and not DUMP_HEADINGS:
+					play = open(screenplay, 'r').read()
+					headings = pickle.load(open(pkl_file_name, 'rb'))
+				else:
+					headings = extract_headings(play)
+					headings.sort(key=lambda y: y.start, reverse=False)
 
-			# convert to json and dump in new folder in current directory
-			json_output_name = directory + just_mf + '.json'
-			extract_json(play, headings, json_output_name)
+					# dump for easy reload later
+					pickle.dump(headings, open(pkl_file_name, 'wb'))
+
+				# convert to json and dump in new folder in current directory
+
+				json_output_name = directory + "//" + just_mf + '.json'
+				if not exists(json_output_name):
+					extract_json(play, headings, json_output_name)
+
+			except OverflowError:
+				continue
