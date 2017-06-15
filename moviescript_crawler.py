@@ -13,8 +13,8 @@ def extract_headings(play):
 	for result, s, t in HEADINGS.scanString(play):
 		indent = result[0]['indent']
 
-		# if indent is a weird screenplay number at random spacing...
-		# don't extract this for now
+		# if indent is a weird screenplay number at random spacing... (
+			# add consequence here
 		if indent < 13:
 			heading_type = 'in_line'
 		elif indent > 50:
@@ -28,9 +28,28 @@ def extract_headings(play):
 	return heads
 
 
+def extract_json(play, headings, output_name):
+	# all headings in one list
+	segments = screenpile_algorithm(headings, play)
+
+	# nested list, composite are segments, primitive are headings
+	hsegs = separate_into_segs(segments)
+
+	# convert segments into json objects, combine into list
+	json_list = [seg_to_json(seg, i) for i, seg in enumerate(hsegs)]
+
+	# dump json file
+	with open(output_name, 'w') as mf_json:
+		json.dump(json_list, mf_json, indent=4)
+
+
 if __name__ == '__main__':
+
 	# get this path from arguments in command line
 	path = 'D:\\Documents\\python\\screenpy\\imsdb_raw_nov_2015\\'
+
+	# get this boolean tag from argument in command line, default is to not reload (pkl dump headings)
+	DUMP_HEADINGS = 1
 
 	# find all folders at input path
 	movie_paths = [join(path,f) for f in listdir(path) if not isfile(join(path,f))]
@@ -54,43 +73,22 @@ if __name__ == '__main__':
 
 			# just the movie path part of the text file name
 			just_mf = mf[:-4]
-
-			screenplay_folder = screenplay[:-4]
 			with open(directory + just_mf + '.json', 'w') as mfjson:
 				play = mfjson.read()
+
+			pkl_file_name = directory + just_mf + '.pkl'
+			if DUMP_HEADINGS:
+				# extract headings
 				headings = extract_headings(play)
+				headings.sort(key=lambda y: y.start, reverse=False)
 
+				# dump for easy reload later
+				pickle.dump(heads, open(pkl_file_name, 'wb'))
+			else:
+				# assume the pkl exists
+				play = open(screenplay, 'r').read()
+				headings = pickle.load(open(pkl_file_name, 'rb'))
 
-	RELOAD = 0
-	screenplay = 'indianajonesandtheraidersofthelostark.txt'
-	if RELOAD:
-		heads = []
-		with open(screenplay, 'r') as fn:
-			play = fn.read()
-			for result, s, t in HEADINGS.scanString(play):
-				indent = result[0]['indent']
-
-				# if indent is a weird screenplay number at random spacing...
-				# don't extract this for now
-				if indent < 13:
-					heading_type = 'in_line'
-				elif indent > 50:
-					heading_type = 'transition'
-				elif indent < 18:
-					heading_type = 'heading'
-				else:
-					heading_type = 'speaker'
-
-				heads.append(Heading(heading_type, result[0], s, t, indent))
-
-		heads.sort(key=lambda y: y.start, reverse=False)
-		pickle.dump(heads, open('pickle_heads.pkl', 'wb'))
-	else:
-		play = open(screenplay, 'r').read()
-		heads = pickle.load(open('pickle_heads.pkl', 'rb'))
-
-	segments = screenpile_algorithm(heads, play)
-	hsegs = separate_into_segs(segments)
-	print('ok')
-	with open('indianajonesandtheraidersofthelostark.json', 'w') as fp:
-		json.dump([seg_to_json(seg, i) for i, seg in enumerate(hsegs)], fp, indent=4)
+			# convert to json and dump in new folder in current directory
+			json_output_name = directory + just_mf + '.json'
+			extract_json(play, headings, json_output_name)
