@@ -1,0 +1,330 @@
+[
+    [
+        {
+            "stop": 2537, 
+            "in_lines": [
+                {
+                    "stop": 2545, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "65", 
+                        "heading": "65", 
+                        "indent": 1
+                    }, 
+                    "start": 2541, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 3154, 
+                    "raw_text": "is a 65 year old medium. She has studied under some of the well known psychics of the times and is a regular contributor to the National Enquirer; this being the only accepting outlet for her communications with \"the other side.\" She is eccentric in her manner of dress and speech, but is sincere in her beliefs and very probably a true psychic. Why must all tales of ghosts and hauntings find their settings in gothic cobwebbed mansions, miles away from civilization? Where does an audience draw the line between what is real and what is fantastic?", 
+                    "start": 2537, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "TAGINA BARRINS", 
+                "indent": 10
+            }, 
+            "start": 2512, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 3175, 
+            "in_lines": [
+                {
+                    "stop": 3367, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "3443", 
+                        "heading": "3443", 
+                        "indent": 1
+                    }, 
+                    "start": 3361, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4288, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TV", 
+                        "indent": 1
+                    }, 
+                    "start": 4284, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4312, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "THE TONIGHT SHOW,", 
+                        "indent": 1
+                    }, 
+                    "start": 4293, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6164, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "14", 
+                        "heading": "14", 
+                        "indent": 1
+                    }, 
+                    "start": 6160, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6239, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "19", 
+                        "heading": "19", 
+                        "indent": 1
+                    }, 
+                    "start": 6236, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 9587, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "19", 
+                        "heading": "19", 
+                        "indent": 1
+                    }, 
+                    "start": 9584, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 10729, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "15", 
+                        "heading": "15", 
+                        "indent": 1
+                    }, 
+                    "start": 10725, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 15994, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "150", 
+                        "heading": "150", 
+                        "indent": 1
+                    }, 
+                    "start": 15989, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 16087, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "100", 
+                        "heading": "100", 
+                        "indent": 1
+                    }, 
+                    "start": 16082, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 16558, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1980'", 
+                        "heading": "1980'", 
+                        "indent": 1
+                    }, 
+                    "start": 16552, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 17671, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TAGINA BARRINS,", 
+                        "indent": 1
+                    }, 
+                    "start": 17654, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 18007, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TAGINA", 
+                        "indent": 1
+                    }, 
+                    "start": 17999, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 18740, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "400", 
+                        "heading": "400", 
+                        "indent": 1
+                    }, 
+                    "start": 18735, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 19648, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TV", 
+                        "indent": 1
+                    }, 
+                    "start": 19644, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 21167, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TV", 
+                        "indent": 1
+                    }, 
+                    "start": 21163, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 21638, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "NIGHT TIME", 
+                        "heading": "NIGHT TIME", 
+                        "indent": 1
+                    }, 
+                    "start": 21626, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 21829, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TV", 
+                        "indent": 1
+                    }, 
+                    "start": 21825, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 22004, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "31, 1980", 
+                        "indent": 1
+                    }, 
+                    "start": 21983, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 26110, 
+                    "raw_text": "is the story of a frightening occurence; not in a haunted house on a hill, but in the center of middle class suburbia. The Freelings, a middle class family, live at 3443 Wanda; a four bedroom, three and one half bath, ranch style house. It is a typical tract house located at the end of one of the several hundred cul-de-sacs in a shopping mall district called Vista. As its name implies, the center of activity is a large modern shopping center complex. This large, child infested community holds five schools: two elementary, two junior high, and one high school. On the neatly manicured rolling hill fringes of town are a well used, man-made lake and the community's \"rec-center.\" This Chicago suburb is one of many similar communities springing up every day. Its planners' goal: to bring families and the conveniences of life closer together. It is a quiet evening. The children have gone to bed allowing Nora and Steven their cherished hours alone. They go to their bedroom, turn the TV on to THE TONIGHT SHOW, (Something they do almost every night) and prepare for a well deserved evening of rest and relaxation. They are lulled to sleep by the voices on the television set. The rest of the evening's programming, the late-late movie, the broadcast of the local news, the sign-off consisting of the Blue Angels performing to strains of the Star Spangled Banner, color bars and test patterns, the local sign off....and finally, static, or white noise. It is through this blizzard of static snow, and beyond the slumbered breathing of Nora and Steven, that the first flash of paranormal communication occurs. The television moans something chillingly audible and the static non-picture rearranges into something indistinguishable. Steven turns over in his sleep, but does not awaken. The days that follow bring a stream of odd but not necessarily suspicious occurrences. Periodic phantom phone calls break the silence in the middle of the night. On the other end, nothing but static noise; similar to the static of the blank night television. Food disappears from the cupboards and refrigerator, and a special lemon meringue pie is marred by nibbling fingers. But with children in the house, and the children's friends, the blame is not easily fixed. The furniture, slightly at first, is rearranged. Just enough to annoy a meticulous mother; not enough to cause suspicion. Elmer, the family dog, begins wandering to a certain alcove in the house. He then sits there, facing the wall, occasionally whimpering toward it, reaching out his paw and scratching at the air. But, well, he's getting old, and if people can get senile, so can dogs. Angel, their 14 year old daughter, while cleaning out the garage, finds an old record of 19th century songs supposedly sung by pioneers as they crossed the country. It becomes her favorite album and is played all the time. She finds it soothing and somehow familiar. The songs become a part of her life; humming them as she studies, walks to school and does her daily chores. But then \"things\" start happening. Annoying things, inexplicable things, nerve fraying things. The television starts to change channels by itself; to news station and cartoons, specifically. The children, bright and inventive, are at first blamed for creating some gadget to \"annoy and frighten your mother.\" Having proven innocence or at least protested enough, Steven goes next door to see if the neighbors are playing tricks with their remote controls. But the neighbors aren't home. And a phone call to a friend assures Steven that a friend's remote control wouldn't work on his set anyhow. The Freelings are bird lovers. They have built a beautiful aviary which has become the home of many different kinds, colors and sizes of birds. The aviary is located on a patio that is attached to the house. Steven and Nora awaken one early morning to find birds flying all over the house. At first, angry at the children for not closing the cage, Steve wakes them and takes them all downstairs for a lecture on closing and locking the bird cage. But upon entering the porch, everyone is silenced by something: the sight of the aviary torn open, a feat accomplished by something beyond human strength. But no noise had awakened them...\"what is going on?\" Windows and doors open and close, seemingly by themselves. In the middle of the night someone has to go downstairs to re-bolt a window or re-lock a door. Furniture is being moved around more obviously now. Nora, preparing a meal in the kitchen, hears someone swimming in the pool. She calls outside for whoever it is to get out and get ready for dinner. Her calls are ignored. She goes outside to the sight of something invisible doing what looks like laps in the pool (Or perhaps we, the audience, see something doing laps, but when Nora gets out there, it is gone). This could make her even more nervous, thinking that there is something wrong with her, or that it is someone playing tricks. One evening, as Angel is getting ready for bed, she takes off her clothes and moves to the bed when she is startled and almost screams. There is a lump in her bed, a lump shaped like a body. Recovering, she starts to scold her sister for scaring her, and turns back the covers to discover that there is nothing there. She turns to her sister's bed across the room. She is fast asleep. The usual bluish of the household lights turn different colors and hues, both day and night. Sometimes not enough to cause any more than squinting, or rubbing of the viewing party's eyes. Steve and Nora prepare to leave for a dinner with their friends. They have called a babysitter because the older children are going to a movie. As Steven is shaving, the 19th Century Music album is turned on full volume. This startles him and causes him to cut himself. He storms out of the bedroom, goes to the stereo, takes off the album and breaks it. He then yells for Angel and reprimands her for turning it on so loud. She hasn't done it. The other children deny it also. Steven accuses one of them of lying. \"Record players don't just turn themselves on, you know.\" Angel, upset with her father for breaking her album, and for accusing her unjustly, goes to her room upset. She has to prepare for her date. She sits at her vanity looking at herself, and being angry with her father. She starts to put on lipstick. Looking into the mirror, she is putting her lipstick on someone else's face. She screams. This brings her image back to the mirror. She is frightened to look into mirrors from this point on. Anxious to get out of the house, Angel hurries her older brother, with whom she and several other friends are going to the movies, out of the house. The babysitter, a 15 year old teenager, arrives allowing Nora and Steven to be on their way. As she puts the children to bed, they talk her into telling them a story. She concedes, and tells them a ghost story. As she tells her story, actual events in the house upstage the fictional story she is telling them, adding to and punctuating the higher points. Terrified, the babysitter, negligent of her duties, runs screaming from the house into the night. Neighbors' lights go on, obviously disturbed by the screaming. The older children get home to find the little ones sitting together on the steps, no babysitter in sight. The parents return to a story of a deserting babysitter who says their house is haunted. The evening's events have everyone on edge, especially Steven and Nora. Nora sits at her vanity brushing out her long auburn tresses. As she brushes her hair somewhat mindlessly past her right shoulder, an invisible wind lifts her hair out from her brush and her hand. It arches her hair slowly over her head and lays it to rest on her left shoulder. She sits frozen, unable to speak, the empty brush in her hand, her wide eyes locked on her image in the mirror. At that moment, she feels something touching her cheek. We see two indentations, such as fingers would make, as her cheek gently caves in, opening her lips, and her face is tilted upward by an invisible hand. She then receives a \"ghost kiss,\" a long, forced, passionate kiss, from which she cannot free herself. As she is released, there is a noise from the living /dining area. Steven bolts from their bathroom, sees the wide-eyed, almost panicked, expression on his wife's face. He grabs her hand, and together they walk down the hall to check the house. The furniture in the dining room has been totally rearranged. The chairs are on top of the furniture. Some of the furniture has been moved from room to room. They wake the children, pack lightly, pick up the dog and leave to spend the night at the local Holiday Inn. They will stay there for the evening, then move into Nora's sister's house within a day or so. The next day, unable to work because of the events of his home life, and not knowing what to do, he calls the Parapsychological organization within the University of Chicago. They all decide that the best idea for the Freelings is to spend another night at the hotel, while some of their experts spend an evening at their home with test equipment. That evening in the hotel room, feeling things are getting better, Nora and Steven make love. However, something happens. A spirit enters Steven's body, causing his personality and actions to be altered a bit. He does and says things to her that are obviously not of his doing. Things which Nora would find baroque, to say the least. His manner of love-making is altered, but rather than Nora being turned off, she is somehow excited by this change. What in essence is happening, is that she is making love to two men at the same time. Steven, and another spirit. Some of the things which he says harp back to an old time, long, long ago. The next morning at breakfast, things are a bit strained. A normal breakfast conversation is changed into a frightening experience when the six-year-old, Carol Ann, is talking about what she is going to do at school when all of a sudden, for no more than three or four words, her voice changes, slips two octaves, and a man's voice continues telling the story in the child's own words, but only for a few seconds before the young girl's voice returns. The whole family stops eating, and stares. It is obvious that the child is not aware of what has just occurred. Nora gets up. Puts her hand over her mouth, stares at Steven with a realization of the night before, and runs back up to their room. They come to grips with the fact that it might not be the house, but themselves that are \"haunted.\" The desire for familiar surroundings, and the realization that no one's been hurt, causes them to go back home. On arriving home, they realize that their house has been invaded by an entourage of young, long-haired parapsychologists. Between their visit and the horrifying experience of the babysitter, the entire neighborhood realizes that something terrible is happening in their neighborhood. Also taking place at this time is a major archeological dig. This is going on not from from the Freeling's home (Perhaps instead of a dig, it should be just the building of some new homes in a tract, nearby). The excavators discover bones. Human bones. Thousands of them. It is discovered that what has been unearthed is an extremely large grave site. The results of a massive massacre of white settlers, perhaps 150 years ago. The bones had been shoveled into shallow graves in approximately a 100 acre perimeter. Children, babies, pioneer men and their women. Arrow heads, scalping knives-a horrible way to die. This discovery, along with the disclosure of the events at the Freeling household, cause experts to hypothesize that perhaps through a rift in the barrier between \"now\" and \"then,\" and through one of the members of the Freeling family, as a mortal host, the spirits have found a gateway into the 1980's and American suburbia. Some hypothesize that they are looking for help to the next world, the world that they belong in, and the world that has been denied them. The Freelings are instantly descended upon by professional, pseudo-professional and crack-pot ghost hunters who all want to spend an evening in the house with the ghosts and their new-fangled equipment for recording spirits on film and tape. A psychologist informs the family that perhaps the spirits are attracted to one member of the family, and that a battery of tests could be run to determine who it was. Not wanting to place any kind of \"blame\" or ostracization upon any member of the family , they refuse the testing. Besides, what would they do with the \"guilty\" party? As the Freelings and their house become unwitting celebrities, the children are saddled with a barrage of torment from schoolmates. They are avoided. They are \"the haunted people.\" One of the people who comes to help the Freelings is TAGINA BARRINS, a psychic, and regular contributor to the National Enquirer. She is a comic character who, though she comes off as a crazy old lady seeking attention, is probably the most helpful and authentic psychic of them all. She spends a lot of time just walking around talking to the house. At one point, TAGINA is awakened in the dead of night, and in a somnambulistic state, drives to the Freeling's home, is admitted by our unseen visitors, and walks into Nora and Steven's bedroom. They wake with a start, finding her talking to the television set static. The Freeling's neighbors, once very friendly, have been almost hostile. A petition has been started by the Eisenhowers to force them to leave the neighborhood. It is what Steven and his family want more than anything. They look for a home in the area in which Steven works, but are informed by his boss that if they think about bringing their bizarre ghostly rumors and cultist rituals to his 400 acres of suburban tranquility, he will be fired and will never work in real estate again. Within a short period of time, the Freeling neighbors have problems of their own. Screams and panic indicate that like a contagious virus, the haunting has spread: first to the Eisenhower home, then across the street to other neighbors; then down the block. Beyond causing frightened residents to harm themselves while fleeing ghostly manifestations, ghost fires are set. (A ghost fire is a phenomenon which can take place in any room of a house. Perhaps in the cold center of the haunting in that home. The fire will devastate everything in a specific area, but will not spread to other rooms or other floors.) Each haunting, in each home, is signaled by the television. Where there is a remote control device, the TV will flip on by itself in the early hours of the morning to a station that is broadcasting static noise. The manifestations originate there. Other items for possible incorporation would be: The manifestations love to materialize (not in humanoid form such as ghosts), and occasionally we will see ectoplasmic displays, perhaps emanating from the toaster in the house. (Ectoplasm is a spermatozoa-like substance that originates often from the fingers of mediums trying to contact spirits from the other side). But yet these ectoplasm manifestations could come from the family toaster, or from the microwave oven, or from anything naturally uncommon. Occasionally there is a manifestation of a whisp-like type of smoke in basic humanoid form that keeps changing shape and travels from one room to the next, until if finds the recipient is has been looking for. When found, the smoke will dissipate into the sleeping person. We will see their hair blow from their ear, as if a ghostly breath is whispering something privately, and chillingly. We might even hear mournful crying of \"help me, help me\" from perhaps a poltergeist. Beyond the toaster and the microwave oven, the ectoplasmic manifestations will finally develop first and foremost from the television sets that are on during static hours, as if a form is trying to climb out of the TV set and into your home to haunt you. This could be the climax of the story. Another aspect of the dog's being affected by the Haunting, could be for the family to see it roll over on its back, as if it is being tickled on the tummy; and without anything obviously petting it, he wags his right leg, the common reaction of most dogs when being tickled above the abdomen. One possible ending for NIGHT TIME could be the evacuation of the town by the townspeople. As we slowly pan through the empty town and its deserted homes, we see ghost fires being lit. The town burns, TV sets imploding; the burial ground has not been consecrated, and the souls are set to rest in peace. Addition to treatment dated July 31, 1980 A petition has been started by the Eisenhowers to force the Freelings to move from the neighborhood. Following various threatening telephone calls throughout dinner, Steven angrily calls the police and asks for someone to come out and investigate the situation. A call from the Freeling home or other families on this community suburb, protesting unusual occurrences. A policeman arrives approximately 8pm. He asks Steven and his family questions about recent threats, etc. And then falls into a serious discussion about the Freelings moving from the neighborhood all together. At least consider a temporary move. Growing hostility has been evident through periodic vandalism. Several windows over the last week with broken windows in their house and automobile along with other assorted mischief. Steven loses his temper at one point during their conversation and questions whether the local police department has really made a concerted effort to do anything to protect his family let alone control this mounting violence. As the conversation heightens almost to hysteria, an iron comes hurling through the living room plate glass window followed by the loud chanting of an angry mob outside, \"Free us from the Freelings.\" Steven grabs the police man and screams, \"What are you going to do about that?\" pointing hysterically out the window. Flustered, the policeman frees himself from Steven's grasp and takes control by ordering Nora and the children into the living room on the floor out of the way of the windows. Things settle for a bit and the policeman and Steven move toward the front door. He reaches over to pull it open, gun drawn, he jumps back just as a frying pan flies by catching the corner of the door jamb. Out of sight, but with the door still ajar, the policeman yells orders for the crowd to disperse. Footsteps and scurrying can now be heard on the roof, Nora attempting to calm the children. Lightheartedly (on the surface), she heads to the kitchen to get the children some milk and cookies. It's obvious the crowd, laden with guns, frying pans, kitchen knives, crow bars, etc., are paying little attention to the policeman's demands. He reaches over to shut the door, the chanting continues, several octaves higher now. As the door slams, he yells to Steven to get on the phone for some backup units. As he says this, a huge gush of water pours out of the fireplace, sending a cloud of ashes and soot into the living room. The children jump up running and screaming. Nora, in the kitchen, sends a glass pitcher crashing to the floor, she screams and runs to the living room. Steven, angry and frightened, grabs the phone to call for reinforcements but the phone lines have been cut and the phone is dead. Nora and the children begin bolting the doors and windows frantically. The chanting outside continues. The youngest of the Freelings, Carol Ann, silently sobs in the corner of the couch holding snugly to a white stuffed bunny rabbit. In the midst of the terror, she suddenly stands and makes her way toward the window, a very content look on her face as she gazes outside at the angry faces. Her bunny drops and dangles from her hand as she slowly looks toward the sky. Slowly at first, then like locusts, real rocks begin descending from the sky, pummeling the mob. People begin screaming and running in all directions. Slowly various members of the family stop what they're doing and move toward the living room window. Within a few minutes, the yard is cleared of people and rocks cover what was a lawn. The family, relieved but uncomfortable, stare silently at Carol Ann, who softly giggles and caresses her bunny-off in a world of her own.", 
+                    "start": 3175, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "ToD": "NIGHT TIME", 
+                "heading": "NIGHT TIME", 
+                "indent": 10
+            }, 
+            "start": 3154, 
+            "indent": 10
+        }, 
+        []
+    ]
+]

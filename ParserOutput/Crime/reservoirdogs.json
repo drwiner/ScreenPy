@@ -1,0 +1,3936 @@
+[
+    [
+        {
+            "stop": 120856, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 121159, 
+                    "raw_text": "know...I know...I know.\" Meanwhile his right hand is creepin towards his glove box.  So I scream at him, \"Asshole, you better fuckin freeze right now!\" And he's still lookin right at me, saying", 
+                    "start": 120856, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "\"I", 
+                "indent": 17
+            }, 
+            "start": 120836, 
+            "indent": 17
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 121179, 
+            "in_lines": [
+                {
+                    "stop": 121315, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": {
+                            "shot": "PAN"
+                        }, 
+                        "indent": 1, 
+                        "shot type": {
+                            "shot": "PAN"
+                        }
+                    }, 
+                    "start": 121304, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 121419, 
+                    "raw_text": "know...I know...I know.\"  And his right hand's still going for the glove box. The CAMERA PANS away from the sheriffs to Freddy, up against the urinal, playing possum, pretending to piss.", 
+                    "start": 121179, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 122276, 
+                    "raw_text": "I tell 'im, \"Buddy, I'm gonna shoot you in the face right now if you don't put your hands on the fuckin dash.\"  And the guy's girlfriend, a real sexy Oriental bitch, starts screamin at him, \"Chuck, are you out of your mind? Put your hands on the dash like the officer said.\"  And then like nothing, the guy snaps out of it and casually puts his hands on the dash. Freddy finishes his playing possum piss, and walks past the sheriffs over to the sink.  The CAMERA PANS with him. A sheriff is sitting on a sink.  He looks down and watches Freddy wash his hands.", 
+                    "start": 121485, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 122358, 
+                    "raw_text": "What was he goin for?", 
+                    "start": 122335, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 123242, 
+                    "raw_text": "His registration.  Stupid fuckin citizen, doesn't have the slightest idea how close he came to gettin shot. Freddy finishes washing his hands.  He goes to dry them, but there's only those hand drying machines.  Freddy turns on the drying machine.  He can't hear anything the sheriffs say now.  The sound of the machine dominates the sound track. These following shots are SLOW MOTION. CU OF FREDDY CU of his HANDS, rubbing each other getting blown dry SHOT OF SHERIFFS talking.  We can't hear them because of the machine. CU OF MACHINE MEDIUM OF SHERIFF ON SINK, smoking a cigarette, glancing over at Freddy. CU OF GERMAN SHEPHERD Machine turns off.", 
+                    "start": 122417, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 123627, 
+                    "raw_text": ": 35     INT. OFFICE - DAY CU MUG SHOT OF MR. WHITE FREDDY (OS) That's him, that's Mr. White. FULL SCENE An office upstairs in the undercover division of the police station. TWO SHOT OF FREDDY AND HOLDAWAY look at mug shot.", 
+                    "start": 123304, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 123921, 
+                    "raw_text": "Lawrence Dimick.  Let's see what we got on him. CU OF COMPUTER SCREEN the name DIMICK, LAWRENCE is typed in. C.U. ENTER BUTTON IS PRESSED C.U. OF FEMALE COMPUTER OPERATOR, JODIE SEIGEL.", 
+                    "start": 123684, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 124229, 
+                    "raw_text": "This is your life, Lawrence Dimick! C.U. OF COMPUTER PRINTER printing out sheet.  The noise of the printer plays loud over the soundtrack. Jodie's hand comes into FRAME and tears sheet from the printer.", 
+                    "start": 123975, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 124528, 
+                    "raw_text": ": 36     INT. HOLDAWAY'S OFFICE - DAY Holdaway sits behind his desk.  Freddy sits on the edge of the desk eating a Double-Double with cheese.  They look into the CAMERA. We hear Jodie's voice OFFSCREEN.", 
+                    "start": 124291, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 124909, 
+                    "raw_text": "Lawrence \"Larry\" Dimick.  Also known as Lawrence Jacobs and Alvin \"Al\" Jacobs.  This guy is Mr. Joe- Armed-Robbery.  He's a pro and he makes it a habit not to get caught. MEDIUM SHOT OF JODIE DOLLY slowly into C.U.", 
+                    "start": 124587, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 126171, 
+                    "raw_text": "He's only been convicted twice, which is pretty good for somebody living a life of crime.  Once for armed robbery, when he was twenty- one, in Milwaukee. C.U. FREDDY FREDDY What was it? JODIE JODIE Payroll office at a lumber yard. First offense - he got eighteen months.  He didn't get busted again until he was thirty-two. And then it was a backdoor bust. A routine vice squad roust.  They roust this bar, out buddy Lawrence is in there knocking down a few. He gets picked up.  He's wearing on his person an outlaw .45 automatic, apparently his weapon of choice.  Also, on his finger is a diamond ring from a jewelry store robbery a year earlier.  He got two years back inside for that. TWO SHOT OF HOLDAWAY AND FREDDY Freddy winces.", 
+                    "start": 124963, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 126768, 
+                    "raw_text": "Goddamn, that's hard time. JODIE JODIE So far, it's the only time he's ever done. CU HOLDAWAY HOLDAWAY Was this vice squad bullshit in Milwaukee? JODIE JODIE No.  The vice squad roust was in L.A.  He's been in Los Angeles since '77. DOLLY BEHIND HOLDAWAY'S DESK from left to right.", 
+                    "start": 126226, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 126850, 
+                    "raw_text": "When did he do this time?", 
+                    "start": 126823, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 127879, 
+                    "raw_text": "Back in '83, got out late '86.  I found something else out I think you two should be aware of. About a year and a half ago, up in Sacramento, an undercover cop, John Dolenz, worked his way into a bank job.  Apparently before the job they found out he was a cop. Now picture this:  It's Dolenz's birthday, a bunch of cops are waiting in his apartment for a surprise party.  The door opens, everyone yells \"Surprise!\", and standing in the doorway is Dolenz and this other guy sticking a gun in Dolenz's ribs.  Before anybody knows what's going on, this stranger shoots Dolenz dead and starts firing two .45 automatics into the crowd.", 
+                    "start": 126904, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 127990, 
+                    "raw_text": "What happened? The DOLLY moves behind Jodie.", 
+                    "start": 127936, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 128272, 
+                    "raw_text": "It was a mess.  Cops got hit, wives got hit, girlfriends got hit, his dog got hit.  People got glass in their faces.  Three were killed, six were wounded.", 
+                    "start": 128044, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 128404, 
+                    "raw_text": "They couldn't pin the killing on one of the bank robbers?", 
+                    "start": 128327, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 128902, 
+                    "raw_text": "They tried, but they didn't have a positive I.D. and all those guys had alibis.  Besides, we really didn't have anything on them.  We had the testimony of a dead man that they were talking about committing a robbery.  They never went ahead with the bank job. The DOLLY completes its circle.", 
+                    "start": 128458, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 129014, 
+                    "raw_text": "And Larry Dimick was one of the boys?", 
+                    "start": 128957, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 129260, 
+                    "raw_text": "He was probably the one. ON HOLDAWAY HOLDAWAY Just how sure are you with your cover? PAN to C.U. on Freddy.", 
+                    "start": 129068, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 129602, 
+                    "raw_text": "Today they may know something, tomorrow they may know something else.  But yesterday they didn't know anything. C.U. OF MR. WHITE'S MUG SHOT FREDDY (OS) What's the next step?", 
+                    "start": 129315, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 130032, 
+                    "raw_text": "Do what they told ya.  Sit in your apartment and wait for 'em to call you.  We'll have guys posted outside who'll follow you when they pick you up. 35     INT.  FREDDY'S APARTMENT - DAY C.U. TELEPHONE It RINGS.  Freddy answers it, we FOLLOW the receiver up to his face.", 
+                    "start": 129664, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 130095, 
+                    "raw_text": "Hello.", 
+                    "start": 130087, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 130346, 
+                    "raw_text": "It's time.  Grab your jacket-- 36     INT. NICE GUY EDDIE'S CAR (PARKED) - DAY C.U. of Nice Guy Eddie speaking into the car phone.", 
+                    "start": 130205, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 130425, 
+                    "raw_text": "--We're parked outside.", 
+                    "start": 130400, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 130671, 
+                    "raw_text": "I'll be right down. We hear the CLICK of Freddy hanging up through the phone. Nice Guy places the receiver back in its cradle.", 
+                    "start": 130527, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 131112, 
+                    "raw_text": "He'll be right down. 39     INT. FREDDY'S APARTMENT - DAY The CAMERA follows Freddy as he hops around the apartment getting everything he needs.  He puts on his jacket and slips on some sneakers. DOLLY fast toward the front door knob.  Freddy's hand comes into FRAME, grabs the knob, then lets go.  We MOVE UP to his face. Fear.", 
+                    "start": 130725, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 131810, 
+                    "raw_text": "Don't pussy out on me now.  They don't know.  They don't know shit. (pause) You're not gonna get hurt.  You're fucking Baretta and they believe every word, cuz you're super cool. He exits FRAME. We stay put and hear the door open and close OFF SCREEN. 40     EXT. FREDDY'S APARTMENT - DAY COPS' POV From inside an unmarked car across the street, the TWO COPS watching Freddy see him walk out of his building and up to Eddie's parked car.", 
+                    "start": 131206, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 131891, 
+                    "raw_text": "There goes our boy.", 
+                    "start": 131870, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 132075, 
+                    "raw_text": "I swear, a guy has to have rocks in his head the size of Gibraltar to work undercover.", 
+                    "start": 131951, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 132162, 
+                    "raw_text": "Do you want one of these?", 
+                    "start": 132135, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 132553, 
+                    "raw_text": "Yeah, gimme the bear claw. Freddy gets into the car and it pulls into traffic. Cop #1 starts the engine and follows. 41     INT. NICE GUY EDDIE'S CAR (MOVING) - DAY Nice Guy Eddie is behind the wheel.  Mr. Pink is in the passenger seat.  Freddy and Mr. White are in the backseat together.", 
+                    "start": 132222, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 132728, 
+                    "raw_text": "...Hey, I know what I'm talkin about, black women ain't the same as white women.", 
+                    "start": 132610, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 132882, 
+                    "raw_text": "There's a slight difference. The car laughs.", 
+                    "start": 132828, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 133214, 
+                    "raw_text": "Go ahead and laugh, you know what I mean.  What a while bitch will put up with, a black bitch won't put up with for a minute.  They got a line, and if you cross it, they fuck you up.", 
+                    "start": 132940, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 133349, 
+                    "raw_text": "I gotta go along with Mr. Pink on this.  I've seen it happen.", 
+                    "start": 133268, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 133574, 
+                    "raw_text": "Okay, Mr. Expert. If this is such a truism, how come every nigger I know treats his woman like a piece of shit?", 
+                    "start": 133407, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 133848, 
+                    "raw_text": "I'll make you a bet that those same damn niggers who were showin their ass in public, when their bitches get 'em home, they chill the fuck out.", 
+                    "start": 133631, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 133923, 
+                    "raw_text": "Not these guys.", 
+                    "start": 133906, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 134003, 
+                    "raw_text": "Yeah, those guys too.", 
+                    "start": 133980, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 134219, 
+                    "raw_text": "Let me tell you guys a story.  In one of daddy's clubs there was this black cocktail waitress named Elois.", 
+                    "start": 134057, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 134285, 
+                    "raw_text": "Elois?", 
+                    "start": 134277, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 134406, 
+                    "raw_text": "Yeah, Elois. E and Lois.  We called her Lady E.", 
+                    "start": 134339, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 134494, 
+                    "raw_text": "Where was she from, Compton?", 
+                    "start": 134464, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 134583, 
+                    "raw_text": "No.  She was from Ladora Heights.", 
+                    "start": 134548, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 134931, 
+                    "raw_text": "The black Beverly Hills.  I knew this lady from Ladora Heights once. (in a stuck up black female voice) \"Hi, I'm from Ladora Heights, it's the black Beverly Hills.\"", 
+                    "start": 134640, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 135525, 
+                    "raw_text": "It's not the black Beverly Hills, it's the black Palos Verdes. Anyway, this chick, Elois, was a man-eater-upper.  I bet every guy who's ever met her has jacked off to her at least once.  You know who she looked like?  Christie Love.  'Member that TV show \"Get Christie Love\"?  She was a black female cop.  She always used to say \"You're under arrest, sugar.\"", 
+                    "start": 134985, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 135788, 
+                    "raw_text": "I was in the sixth grade when that show was on.  I totally dug it. What the fuck was the name of the chick who played Christie Love?", 
+                    "start": 135582, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 135854, 
+                    "raw_text": "Pam Grier.", 
+                    "start": 135842, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 136130, 
+                    "raw_text": "No, it wasn't Pan Grier, Pan Grier was the other one.  Pan Grier made the movies.  Christie Love was like a Pam Grier TV show, without Pam Grier.", 
+                    "start": 135911, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 136318, 
+                    "raw_text": "What the fuck was that chick's name?  Oh this is just great, I'm totally fuckin tortured now.", 
+                    "start": 136187, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 136952, 
+                    "raw_text": "Well, whoever she was, Elois looked like her.  So one night I walk into the club, and no Elois. Now the bartender was a wetback, he was a friend of mine, his name was Carlos. So I asked him \"Hey, Carlos, where's Lady E tonight?\"  Well apparently Lady E was married to this real piece of dog shit.  I mean a real animal.  And apparently he would so things to her.", 
+                    "start": 136372, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 137084, 
+                    "raw_text": "Do things?  What would he do?  You mean like beat her up?", 
+                    "start": 137007, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 137710, 
+                    "raw_text": "Nobody knows for sure what he did. We just know he did something. Anyway, Elois plays it real cool. And waits for the next time this bag of shit gets drunk.  So one night the guy gets drunk and passes out on the couch.  So while the guy's inebriated, she strips him naked. Then she takes some crazy glue and glues his dick to his belly. The car reacts to how horrible that would be.", 
+                    "start": 137138, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 138011, 
+                    "raw_text": "I'm dead fuckin serious.  She put some on his dick and some on his belly, then stuck 'em together. The paramedics had to come and cut it loose. The car reacts badly.", 
+                    "start": 137764, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 138084, 
+                    "raw_text": "Jesus Christ!", 
+                    "start": 138069, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 138196, 
+                    "raw_text": "You can do some crazy things with it.", 
+                    "start": 138139, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 138320, 
+                    "raw_text": "I don't know what he did to her, but she got even.", 
+                    "start": 138250, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 138402, 
+                    "raw_text": "Was he all pissed off?", 
+                    "start": 138378, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 139000, 
+                    "raw_text": "How would you feel if you had to do a handstand every time you took a piss. The car laughs. 42     EXT. WAREHOUSE - DAY Nice Guy Eddie pulls up outside the warehouse. The four men climb out of the car and follow Eddie inside. 43     INT. WAREHOUSE - DAY The four men enter the building. At the other end of the warehouse, sitting in chairs, are Mr. Blonde, Mr. Brown, Mr. Blue and Joe Cabot. We shoot this from OVERHEAD, looking down on the men.", 
+                    "start": 138459, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 140249, 
+                    "raw_text": "...So they're talkin about how they get their wives off, and the French guys says: (in a bad French accent) \"All I gotta do is take my pinky and tickle my Fifi's little oo la la  and she rises a foot off the bed.\" Back to Joe. So the dago says: CU ON JOE JOE (in a good Brooklyn accent) \"That's nothin.  When I take the tip of my tongue and wiggle it against my Mary Louise's little fun pimple, she rises two feet off da bed.\"  Then our friend from Poland says: (in dumb voice) \"You guys ain't no cocksmen. When I get through fuckin my Sophie, I wipe my dick on the curtains and you know what?  She hits the roof!\" Joe laughs like a crazy man.", 
+                    "start": 139093, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 140372, 
+                    "raw_text": "Ha, ha, ha, ha, ha, ha! We hear a lot of laughing OFF SCREEN.", 
+                    "start": 140301, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 140583, 
+                    "raw_text": "Ain't that a masterpiece?  Stupid fuckin Polack, wipes his dick on the drapes. Joe's eyes greet the new arrivals.", 
+                    "start": 140424, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 140995, 
+                    "raw_text": "You're here, great! Joe EXITS C.U. We now have everybody from the Uncle Bob's Pancake House scene together again.  Some sit on folding chairs, some stand.  Joe sits in front of them on the edge of a table. A blackboard with a layout of the jewelry store is off to the right. We do a 360 around the men.", 
+                    "start": 140635, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 141162, 
+                    "raw_text": "We woulda gotten here sooner, but we got backed up around La Brea and Pico.", 
+                    "start": 141049, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 143237, 
+                    "raw_text": "No hurry. (to the boys) All right, let's get to know one another.  With the exception of Eddie and myself, who you already know, you'll be using aliases. Under no circumstances are you to tell one another your real name or anything else about yourself. That includes where you're from, your wife's name, where you might've done time, about a bank in St. Petersburg you might've robbed.  You guys don't say shit about who you are, where you been or what you've done.  Only thing you guys can talk about is what you're going to do.  This way the only ones who know who the members of the team are are Eddie and myself.  And that's the way I like it.  Because in the unlikely event of one of you getting apprehended by the cops, not that I expect that to happen - it most definitely should not happen - it hasn't happened, you don't have anything to deal with.  You don't know any names.  You know my name, you know Eddie's name.  That I don't care about.  You gotta prove it.  I ain't worried.  Besides, this way you gotta trust me.  I like that.  I set this up and picked the men I wanted for it. None of you came to me, I approached all of you.  I know you.  I know your work, I know your reputation.  I know you as men.  Except for this guy. Joe points a finger at Freddy. Freddy shits a brick.", 
+                    "start": 141214, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 144074, 
+                    "raw_text": "But he's OK.  If he wasn't OK, he wouldn't be here.  Okay, let me introduce everybody to everybody. But once again, at the risk of being redundant, if I even think I hear somebody telling or referring to somebody by their Christian name... (Joe searches for the right words) ...you won't want to be you. Okay, quickly. (pointing at the men as he gives them a name) Mr. Brown, Mr. White, Mr. Blonde, Mr. Blue, Mr. Orange, and Mr. Pink.", 
+                    "start": 143289, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 144151, 
+                    "raw_text": "Why am I Mr. Pink?", 
+                    "start": 144131, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 144253, 
+                    "raw_text": "Cause you're a faggot. Everybody laughs.", 
+                    "start": 144203, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 144367, 
+                    "raw_text": "Why can't we pick out our own colors?", 
+                    "start": 144310, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 144740, 
+                    "raw_text": "I tried that once, it don't work. You get four guys fighting over who's gonna be Mr. Black.  Since nobody knows anybody else, nobody wants to back down.  So forget it, I pick.  Be thankful you're not Mr. Yellow.", 
+                    "start": 144419, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 144895, 
+                    "raw_text": "Yeah, but Mr. Brown?  That's too close to Mr. Shit. Everybody laughs.", 
+                    "start": 144798, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 145124, 
+                    "raw_text": "Yeah, Mr. Pink sounds like Mr. Pussy.  Tell you what, let me be Mr. Purple.  That sounds good to me, I'm Mr. Purple.", 
+                    "start": 144952, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 145293, 
+                    "raw_text": "You're not Mr. Purple, somebody from another job's Mr. Purple. You're Mr. Pink.", 
+                    "start": 145176, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 145483, 
+                    "raw_text": "Who cares what your name is?  Who cares if you're Mr. Pink, Mr. Purple, Mr. Pussy, Mr. Piss...", 
+                    "start": 145351, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 145781, 
+                    "raw_text": "Oh that's really easy for you to say, you're Mr. White.  You gotta cool-sounding name.  So tell me, Mr. White, if you think \"Mr. Pink\" is no big deal, you wanna trade?", 
+                    "start": 145540, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 146166, 
+                    "raw_text": "Nobody's trading with anybody! Look, this ain't a goddamn fuckin city counsel meeting!  Listen up Mr. Pink.  We got two ways here, my way or the highway.  And you can go down either of 'em.  So what's it gonna be, Mr. Pink?", 
+                    "start": 145833, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 146459, 
+                    "raw_text": "Jesus Christ, Joe.  Fuckin forget it.  This is beneath me.  I'm Mr. Pink, let's move on. CAMERA leaves the team and goes to the blackboard with the layout of the jewelry store on it.", 
+                    "start": 146223, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 146551, 
+                    "raw_text": "Okay fellas, let's get into this.", 
+                    "start": 146516, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 146745, 
+                    "raw_text": ": 44     EXT. BLEACHERS - DAY Freddy and Holdaway sit on some bleachers in an empty little league baseball field.", 
+                    "start": 146613, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 147472, 
+                    "raw_text": "Okay, we're gonna station men across the street from Karina's Fine Jewelry.  But their orders will be not to move in unless the robbery gets out of control.  You gotta make sure they don't have to move in.  You're inside to make sure that everything goes according to Hoyle.  We have men set up a block away from the warehouse rendezvous.  They got complete visibility of the exterior.  So as soon as Joe Cabot shows up, we'll see it.", 
+                    "start": 146802, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 147586, 
+                    "raw_text": "What's your visibility of the interior?", 
+                    "start": 147527, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 147775, 
+                    "raw_text": "We can't see shit on the inside. And we can't risk gettin any closer for fear they'll spot us.", 
+                    "start": 147643, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 147998, 
+                    "raw_text": "This is bullshit, Jim.  I get all the fuckin danger of having you guys in my back pocket but none of the safety.", 
+                    "start": 147830, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 148243, 
+                    "raw_text": "What's the matter, Newendyke?  Job too tough for ya?  No one lied to you.  You always knew we'd hang back until Joe Cabot showed up.", 
+                    "start": 148055, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 148461, 
+                    "raw_text": "Oh this is great.  You ain't giving me no fuckin protection whatsoever.  But you are giving me an attitude.", 
+                    "start": 148298, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 148973, 
+                    "raw_text": "Since when does an undercover cop have protection?  Freddy, you came into this thing with your eyes wide open, so don't start screamin blind man now.  I understand you're nervous.  I wish the warehouse had more visible windows, but it doesn't.  We have to make do with the cards we're dealt.", 
+                    "start": 148518, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 149151, 
+                    "raw_text": "I didn't say I wasn't gonna do it. I'm just remarking on how shitty the situation is!", 
+                    "start": 149028, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 149665, 
+                    "raw_text": "I don't mean to be harsh with ya, but I've found tough love works best in these situations.  We have to get Joe Cabot in the company of the thieves and in the same vicinity as the loot. We don't care about these other bastards.  We're willing to offer them good deals to testify against Cabot.", 
+                    "start": 149208, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 149749, 
+                    "raw_text": "Isn't this risk unorthodox?", 
+                    "start": 149720, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 149813, 
+                    "raw_text": "What?", 
+                    "start": 149806, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 149927, 
+                    "raw_text": "Letting them go ahead with the robbery?", 
+                    "start": 149868, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 150615, 
+                    "raw_text": "The whole idea behind this operation is to catch Joe Cabot red-handed.  We bust these hired hands, we ain't accomplished shit. Letting them go through with the heist is a risk, but Cabot's jobs are very clean.  We got people surrounding the perimeter.  We got a guy and a gal on the inside posing as a couple shopping for rings.  We could replace the employees with cops, but we'd run the risk of tipping 'em off.", 
+                    "start": 149984, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 150747, 
+                    "raw_text": "That's out.  They know the faces of who works what shift.", 
+                    "start": 150670, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 151270, 
+                    "raw_text": "These guys are professionals. We're professionals.  It's a risk, but I think it's a calculated risk. 45     EXT. KARINA'S FINE JEWELRY - DAY We see MOS SHOTS of the outside of the jewelry store. CUSTOMERS coming and going.  STORE CLERKS waiting on customers through the windows. While we look at this we HEAR over the soundtrack Mr. White and Freddy talking OFF SCREEN.", 
+                    "start": 150804, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 151368, 
+                    "raw_text": "Let's go over it.  Where are you?", 
+                    "start": 151333, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 151541, 
+                    "raw_text": "I stand outside and guard the door.  I don't let anybody come in or go out.", 
+                    "start": 151428, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 151616, 
+                    "raw_text": "Mr. Brown?", 
+                    "start": 151604, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 151858, 
+                    "raw_text": "Mr. Brown stays in the car.  He's parked across the street till I give him the signal, then he pulls up in front of the store.", 
+                    "start": 151676, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 151947, 
+                    "raw_text": "Mr. Blonde and Mr. Blue?", 
+                    "start": 151921, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 152276, 
+                    "raw_text": "Crowd control.  They handle customers and employees in the display area. 46     INT. MR. WHITE'S CAR (PARKED) - DAY Mr. White and Freddy sit in a car parked across the street from the jewelry store, staking it out.", 
+                    "start": 152007, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 152356, 
+                    "raw_text": "Myself and Mr. Pink?", 
+                    "start": 152334, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 152866, 
+                    "raw_text": "You two take the manager in the back and make him give you the diamonds.  We're there for those stones, period.  Since no display cases are being fucked with, no alarms should go off.  We're out of there in two minutes, not one second longer.  What if the manager won't give up the diamonds?", 
+                    "start": 152411, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 154484, 
+                    "raw_text": "When you're dealing with a store like this, they're insured up the ass.  They're not supposed to give you and resistance whatsoever.  If you get a customer or an employee who thinks he's Charles Bronson, take the butt of your gun and smash their nose in. Drops 'em right to the floor. Everyone jumps, he falls down, screaming, blood squirts out his nose.  Freaks everybody out. Nobody says fuckin shit after that.  You might get some bitch talk shit to ya.  But give her a look, like you're gonna smash her in the face next.  Watch her shut the fuck up.  Now if it's a manager, that's a different story. The managers know better than to fuck around.  So if one's givin you static, he probably thinks he's a real cowboy.  So what you gotta do is break that son-of-a- bitch in two.  If you wanna know something and he won't tell you, cut off one of his fingers.  The little one.  Then you tell 'im his thumb's next.  After that he'll tell ya if he wears ladies underwear.  I'm hungry, let's get a taco.", 
+                    "start": 152924, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "\"I", 
+                "indent": 17
+            }, 
+            "start": 121159, 
+            "indent": 17
+        }, 
+        [
+            {
+                "stop": 121457, 
+                "in_lines": [
+                    {
+                        "stop": 122165, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "PAN"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "PAN"
+                            }
+                        }, 
+                        "start": 122154, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 121468, 
+                        "raw_text": "#2 (O.S.)", 
+                        "start": 121457, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "SHERIFF", 
+                    "indent": 30
+                }, 
+                "start": 121419, 
+                "indent": 30
+            }, 
+            {
+                "stop": 122314, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 122318, 
+                        "raw_text": "#1", 
+                        "start": 122314, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "SHERIFF", 
+                    "indent": 30
+                }, 
+                "start": 122276, 
+                "indent": 30
+            }, 
+            {
+                "stop": 122396, 
+                "in_lines": [
+                    {
+                        "stop": 122902, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SLOW MOTION", 
+                            "indent": 1
+                        }, 
+                        "start": 122890, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 122936, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CU OF FREDDY CU", 
+                            "indent": 7
+                        }, 
+                        "start": 122905, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 122950, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "HANDS,", 
+                            "indent": 1
+                        }, 
+                        "start": 122942, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 123012, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SHOT OF SHERIFFS", 
+                            "indent": 7
+                        }, 
+                        "start": 122988, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 123130, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CU OF MACHINE MEDIUM OF SHERIFF ON SINK,", 
+                            "indent": 7
+                        }, 
+                        "start": 123074, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 123222, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CU OF GERMAN SHEPHERD", 
+                            "indent": 7
+                        }, 
+                        "start": 123185, 
+                        "indent": 7
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 122400, 
+                        "raw_text": "#2", 
+                        "start": 122396, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "SHERIFF", 
+                    "indent": 30
+                }, 
+                "start": 122358, 
+                "indent": 30
+            }, 
+            {
+                "stop": 123304, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "transition", 
+                "transition": null, 
+                "result": {
+                    "heading": "CUT TO", 
+                    "indent": 56
+                }, 
+                "start": 123242, 
+                "indent": 56
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 123684, 
+            "in_lines": [
+                {
+                    "stop": 123788, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "CU OF COMPUTER SCREEN", 
+                        "indent": 7
+                    }, 
+                    "start": 123751, 
+                    "indent": 7
+                }, 
+                {
+                    "stop": 123814, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIMICK, LAWRENCE", 
+                        "indent": 1
+                    }, 
+                    "start": 123796, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 123873, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ENTER BUTTON IS PRESSED C", 
+                        "indent": 1
+                    }, 
+                    "start": 123839, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 123918, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "OF FEMALE COMPUTER OPERATOR, JODIE SEIGEL", 
+                        "indent": 1
+                    }, 
+                    "start": 123876, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [], 
+            "name": "title", 
+            "transition": null, 
+            "result": {
+                "heading": "HOLDAWAY", 
+                "indent": 30
+            }, 
+            "start": 123627, 
+            "indent": 30
+        }, 
+        [
+            {
+                "stop": 123975, 
+                "in_lines": [
+                    {
+                        "stop": 124070, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OF COMPUTER PRINTER", 
+                            "indent": 1
+                        }, 
+                        "start": 124041, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 124186, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FRAME", 
+                            "indent": 1
+                        }, 
+                        "start": 124179, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JODIE", 
+                    "indent": 30
+                }, 
+                "start": 123921, 
+                "indent": 30
+            }, 
+            {
+                "stop": 124291, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "transition", 
+                "transition": null, 
+                "result": {
+                    "heading": "CUT TO", 
+                    "indent": 56
+                }, 
+                "start": 124229, 
+                "indent": 56
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 124587, 
+            "in_lines": [
+                {
+                    "stop": 124891, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": {
+                            "shot": "MEDIUM SHOT", 
+                            "misc": "MEDIUM"
+                        }, 
+                        "indent": 7, 
+                        "shot type": {
+                            "shot": "MEDIUM SHOT", 
+                            "misc": "MEDIUM"
+                        }
+                    }, 
+                    "start": 124849, 
+                    "indent": 7
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [], 
+            "name": "title", 
+            "transition": null, 
+            "result": {
+                "heading": "JODIE, (OS)", 
+                "indent": 30, 
+                "modifier": [
+                    "(", 
+                    "OS", 
+                    ")"
+                ]
+            }, 
+            "start": 124528, 
+            "indent": 30
+        }, 
+        [
+            {
+                "stop": 124963, 
+                "in_lines": [
+                    {
+                        "stop": 125265, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FREDDY FREDDY", 
+                            "indent": 1
+                        }, 
+                        "start": 125201, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 125347, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "JODIE JODIE", 
+                            "indent": 7
+                        }, 
+                        "start": 125279, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 126155, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "TWO SHOT", 
+                                "2shot": "TWO SHOT"
+                            }, 
+                            "indent": 7, 
+                            "shot type": {
+                                "shot": "TWO SHOT", 
+                                "2shot": "TWO SHOT"
+                            }
+                        }, 
+                        "start": 126108, 
+                        "indent": 7
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JODIE", 
+                    "indent": 30
+                }, 
+                "start": 124909, 
+                "indent": 30
+            }, 
+            {
+                "stop": 126226, 
+                "in_lines": [
+                    {
+                        "stop": 126322, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "JODIE JODIE", 
+                            "indent": 7
+                        }, 
+                        "start": 126254, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 126461, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CU HOLDAWAY HOLDAWAY", 
+                            "indent": 7
+                        }, 
+                        "start": 126384, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 126591, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "JODIE JODIE", 
+                            "indent": 7
+                        }, 
+                        "start": 126523, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 126700, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "'77", 
+                            "heading": "'77", 
+                            "indent": 1
+                        }, 
+                        "start": 126696, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 126747, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DOLLY BEHIND HOLDAWAY'S DESK", 
+                            "indent": 7
+                        }, 
+                        "start": 126703, 
+                        "indent": 7
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 126171, 
+                "indent": 30
+            }, 
+            {
+                "stop": 126823, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 126768, 
+                "indent": 30
+            }, 
+            {
+                "stop": 126904, 
+                "in_lines": [
+                    {
+                        "stop": 126917, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "'83,", 
+                            "heading": "'83,", 
+                            "indent": 1
+                        }, 
+                        "start": 126911, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 126933, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "'86", 
+                            "heading": "'86", 
+                            "indent": 1
+                        }, 
+                        "start": 126929, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JODIE", 
+                    "indent": 30
+                }, 
+                "start": 126850, 
+                "indent": 30
+            }, 
+            {
+                "stop": 127936, 
+                "in_lines": [
+                    {
+                        "stop": 127969, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DOLLY", 
+                            "indent": 1
+                        }, 
+                        "start": 127962, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 127879, 
+                "indent": 30
+            }, 
+            {
+                "stop": 128044, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JODIE", 
+                    "indent": 30
+                }, 
+                "start": 127990, 
+                "indent": 30
+            }, 
+            {
+                "stop": 128327, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 128272, 
+                "indent": 30
+            }, 
+            {
+                "stop": 128458, 
+                "in_lines": [
+                    {
+                        "stop": 128879, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DOLLY", 
+                            "indent": 1
+                        }, 
+                        "start": 128872, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JODIE", 
+                    "indent": 30
+                }, 
+                "start": 128404, 
+                "indent": 30
+            }, 
+            {
+                "stop": 128957, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 128902, 
+                "indent": 30
+            }, 
+            {
+                "stop": 129068, 
+                "in_lines": [
+                    {
+                        "stop": 129171, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "ON HOLDAWAY HOLDAWAY", 
+                            "indent": 7
+                        }, 
+                        "start": 129094, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 129240, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "PAN"
+                            }, 
+                            "indent": 7, 
+                            "shot type": {
+                                "shot": "PAN"
+                            }
+                        }, 
+                        "start": 129229, 
+                        "indent": 7
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JODIE", 
+                    "indent": 30
+                }, 
+                "start": 129014, 
+                "indent": 30
+            }, 
+            {
+                "stop": 129315, 
+                "in_lines": [
+                    {
+                        "stop": 129499, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OF MR", 
+                            "indent": 1
+                        }, 
+                        "start": 129493, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 129549, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "MUG SHOT", 
+                                "misc": "MUG"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "MUG SHOT", 
+                                "misc": "MUG"
+                            }
+                        }, 
+                        "start": 129500, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 129260, 
+                "indent": 30
+            }, 
+            {
+                "stop": 129664, 
+                "in_lines": [
+                    {
+                        "stop": 129932, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "INT.", 
+                            "location": [
+                                "FREDDY'S APARTMENT", 
+                                "DAY C"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5
+                        }, 
+                        "start": 129887, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 129954, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TELEPHONE", 
+                            "indent": 1
+                        }, 
+                        "start": 129935, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 129962, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "RINGS", 
+                            "indent": 1
+                        }, 
+                        "start": 129956, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 129994, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FOLLOW", 
+                            "indent": 1
+                        }, 
+                        "start": 129986, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY, (OS)", 
+                    "indent": 30, 
+                    "modifier": [
+                        "(", 
+                        "OS", 
+                        ")"
+                    ]
+                }, 
+                "start": 129602, 
+                "indent": 30
+            }, 
+            {
+                "stop": 130087, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 130032, 
+                "indent": 30
+            }, 
+            {
+                "stop": 130171, 
+                "in_lines": [
+                    {
+                        "stop": 130294, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "INT.", 
+                            "location": {
+                                "modifier": [
+                                    "(", 
+                                    "PARKED", 
+                                    ")"
+                                ]
+                            }, 
+                            "terior": "INT.", 
+                            "indent": 5
+                        }, 
+                        "start": 130239, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 130188, 
+                        "raw_text": "(through phone)", 
+                        "start": 130171, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "NICE GUY EDDIE, (OS)", 
+                    "indent": 30, 
+                    "modifier": [
+                        "(", 
+                        "OS", 
+                        ")"
+                    ]
+                }, 
+                "start": 130095, 
+                "indent": 30
+            }, 
+            {
+                "stop": 130400, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 130346, 
+                "indent": 30
+            }, 
+            {
+                "stop": 130493, 
+                "in_lines": [
+                    {
+                        "stop": 130573, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CLICK", 
+                            "indent": 1
+                        }, 
+                        "start": 130566, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 130510, 
+                        "raw_text": "(through phone)", 
+                        "start": 130493, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY, (OS)", 
+                    "indent": 30, 
+                    "modifier": [
+                        "(", 
+                        "OS", 
+                        ")"
+                    ]
+                }, 
+                "start": 130425, 
+                "indent": 30
+            }, 
+            {
+                "stop": 130725, 
+                "in_lines": [
+                    {
+                        "stop": 130792, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "location": [
+                                "FREDDY'S APARTMENT"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5, 
+                            "heading": "INT."
+                        }, 
+                        "start": 130749, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 130803, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CAMERA", 
+                            "indent": 1
+                        }, 
+                        "start": 130795, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 130960, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DOLLY", 
+                            "indent": 7
+                        }, 
+                        "start": 130947, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 131034, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FRAME,", 
+                            "indent": 1
+                        }, 
+                        "start": 131026, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 131084, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MOVE UP", 
+                            "indent": 1
+                        }, 
+                        "start": 131067, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 130671, 
+                "indent": 30
+            }, 
+            {
+                "stop": 131175, 
+                "in_lines": [
+                    {
+                        "stop": 131523, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FRAME", 
+                            "indent": 1
+                        }, 
+                        "start": 131517, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 131588, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OFF SCREEN", 
+                            "indent": 1
+                        }, 
+                        "start": 131577, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 131654, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "EXT.", 
+                            "location": [
+                                "FREDDY'S APARTMENT"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5, 
+                            "shot type": {
+                                "shot": "POV", 
+                                "pov": "POV"
+                            }
+                        }, 
+                        "start": 131593, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 131722, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TWO COPS", 
+                            "indent": 1
+                        }, 
+                        "start": 131704, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 131189, 
+                        "raw_text": "(to himself)", 
+                        "start": 131175, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 131112, 
+                "indent": 30
+            }, 
+            {
+                "stop": 131844, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 131853, 
+                        "raw_text": "#1 (OS)", 
+                        "start": 131844, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "COP", 
+                    "indent": 30
+                }, 
+                "start": 131810, 
+                "indent": 30
+            }, 
+            {
+                "stop": 131925, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 131934, 
+                        "raw_text": "#2 (OS)", 
+                        "start": 131925, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "COP", 
+                    "indent": 30
+                }, 
+                "start": 131891, 
+                "indent": 30
+            }, 
+            {
+                "stop": 132109, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 132118, 
+                        "raw_text": "#1 (OS)", 
+                        "start": 132109, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "COP", 
+                    "indent": 30
+                }, 
+                "start": 132075, 
+                "indent": 30
+            }, 
+            {
+                "stop": 132196, 
+                "in_lines": [
+                    {
+                        "stop": 132412, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "location": {
+                                "modifier": [
+                                    "(", 
+                                    "MOVING", 
+                                    ")"
+                                ]
+                            }, 
+                            "terior": "INT.", 
+                            "indent": 5, 
+                            "heading": "INT."
+                        }, 
+                        "start": 132358, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 132205, 
+                        "raw_text": "#2 (OS)", 
+                        "start": 132196, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "COP", 
+                    "indent": 30
+                }, 
+                "start": 132162, 
+                "indent": 30
+            }, 
+            {
+                "stop": 132585, 
+                "in_lines": [
+                    {
+                        "stop": 132610, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 132586, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 132593, 
+                        "raw_text": ". PINK", 
+                        "start": 132585, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 132553, 
+                "indent": 30
+            }, 
+            {
+                "stop": 132760, 
+                "in_lines": [
+                    {
+                        "stop": 132794, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 132761, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 132811, 
+                        "raw_text": ". WHITE (sarcastically)", 
+                        "start": 132760, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 132728, 
+                "indent": 30
+            }, 
+            {
+                "stop": 132914, 
+                "in_lines": [
+                    {
+                        "stop": 132940, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 132915, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 132923, 
+                        "raw_text": ". PINK", 
+                        "start": 132914, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 132882, 
+                "indent": 30
+            }, 
+            {
+                "stop": 133268, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 133214, 
+                "indent": 30
+            }, 
+            {
+                "stop": 133381, 
+                "in_lines": [
+                    {
+                        "stop": 133407, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 133382, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 133390, 
+                        "raw_text": ". WHITE", 
+                        "start": 133381, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 133349, 
+                "indent": 30
+            }, 
+            {
+                "stop": 133606, 
+                "in_lines": [
+                    {
+                        "stop": 133631, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 133607, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 133614, 
+                        "raw_text": ". PINK", 
+                        "start": 133606, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 133574, 
+                "indent": 30
+            }, 
+            {
+                "stop": 133880, 
+                "in_lines": [
+                    {
+                        "stop": 133906, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 133881, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 133889, 
+                        "raw_text": ". WHITE", 
+                        "start": 133880, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 133848, 
+                "indent": 30
+            }, 
+            {
+                "stop": 133955, 
+                "in_lines": [
+                    {
+                        "stop": 133980, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 133956, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 133963, 
+                        "raw_text": ". PINK", 
+                        "start": 133955, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 133923, 
+                "indent": 30
+            }, 
+            {
+                "stop": 134057, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 134003, 
+                "indent": 30
+            }, 
+            {
+                "stop": 134251, 
+                "in_lines": [
+                    {
+                        "stop": 134277, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 134252, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 134260, 
+                        "raw_text": ". WHITE", 
+                        "start": 134251, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 134219, 
+                "indent": 30
+            }, 
+            {
+                "stop": 134339, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 134285, 
+                "indent": 30
+            }, 
+            {
+                "stop": 134438, 
+                "in_lines": [
+                    {
+                        "stop": 134464, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 134439, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 134447, 
+                        "raw_text": ". WHITE", 
+                        "start": 134438, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 134406, 
+                "indent": 30
+            }, 
+            {
+                "stop": 134548, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 134494, 
+                "indent": 30
+            }, 
+            {
+                "stop": 134615, 
+                "in_lines": [
+                    {
+                        "stop": 134640, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 134616, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 134623, 
+                        "raw_text": ". PINK", 
+                        "start": 134615, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 134583, 
+                "indent": 30
+            }, 
+            {
+                "stop": 134985, 
+                "in_lines": [
+                    {
+                        "stop": 135361, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TV", 
+                            "indent": 1
+                        }, 
+                        "start": 135357, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 134931, 
+                "indent": 30
+            }, 
+            {
+                "stop": 135557, 
+                "in_lines": [
+                    {
+                        "stop": 135582, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 135558, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 135565, 
+                        "raw_text": ". PINK", 
+                        "start": 135557, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 135525, 
+                "indent": 30
+            }, 
+            {
+                "stop": 135842, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 135788, 
+                "indent": 30
+            }, 
+            {
+                "stop": 135886, 
+                "in_lines": [
+                    {
+                        "stop": 135911, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 135887, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 136086, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TV", 
+                            "indent": 1
+                        }, 
+                        "start": 136082, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 135894, 
+                        "raw_text": ". PINK", 
+                        "start": 135886, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 135854, 
+                "indent": 30
+            }, 
+            {
+                "stop": 136162, 
+                "in_lines": [
+                    {
+                        "stop": 136187, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 136163, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 136170, 
+                        "raw_text": ". PINK", 
+                        "start": 136162, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 136130, 
+                "indent": 30
+            }, 
+            {
+                "stop": 136372, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 136318, 
+                "indent": 30
+            }, 
+            {
+                "stop": 137007, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 136952, 
+                "indent": 30
+            }, 
+            {
+                "stop": 137138, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 137084, 
+                "indent": 30
+            }, 
+            {
+                "stop": 137764, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 137710, 
+                "indent": 30
+            }, 
+            {
+                "stop": 138043, 
+                "in_lines": [
+                    {
+                        "stop": 138069, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 138044, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 138052, 
+                        "raw_text": ". WHITE", 
+                        "start": 138043, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 138011, 
+                "indent": 30
+            }, 
+            {
+                "stop": 138139, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 138084, 
+                "indent": 30
+            }, 
+            {
+                "stop": 138250, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 138196, 
+                "indent": 30
+            }, 
+            {
+                "stop": 138352, 
+                "in_lines": [
+                    {
+                        "stop": 138378, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 138353, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 138361, 
+                        "raw_text": ". WHITE", 
+                        "start": 138352, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 138320, 
+                "indent": 30
+            }, 
+            {
+                "stop": 138434, 
+                "in_lines": [
+                    {
+                        "stop": 138459, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 138435, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 138632, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "location": [
+                                "WAREHOUSE"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5, 
+                            "heading": "EXT."
+                        }, 
+                        "start": 138598, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 138783, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "location": [
+                                "WAREHOUSE"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5, 
+                            "heading": "INT."
+                        }, 
+                        "start": 138749, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 138974, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OVERHEAD,", 
+                            "indent": 1
+                        }, 
+                        "start": 138963, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 138442, 
+                        "raw_text": ". PINK", 
+                        "start": 138434, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 138402, 
+                "indent": 30
+            }, 
+            {
+                "stop": 139060, 
+                "in_lines": [
+                    {
+                        "stop": 139603, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CU ON JOE JOE", 
+                            "indent": 7
+                        }, 
+                        "start": 139524, 
+                        "indent": 7
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 139076, 
+                        "raw_text": "(to everybody)", 
+                        "start": 139060, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 139000, 
+                "indent": 30
+            }, 
+            {
+                "stop": 140301, 
+                "in_lines": [
+                    {
+                        "stop": 140369, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OFF SCREEN", 
+                            "indent": 1
+                        }, 
+                        "start": 140358, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 140249, 
+                "indent": 30
+            }, 
+            {
+                "stop": 140424, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 140372, 
+                "indent": 30
+            }, 
+            {
+                "stop": 140635, 
+                "in_lines": [
+                    {
+                        "stop": 140674, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "EXITS C", 
+                            "indent": 1
+                        }, 
+                        "start": 140666, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 140978, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "360", 
+                            "heading": "360", 
+                            "indent": 1
+                        }, 
+                        "start": 140973, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 140583, 
+                "indent": 30
+            }, 
+            {
+                "stop": 141049, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "EDDIE", 
+                    "indent": 30
+                }, 
+                "start": 140995, 
+                "indent": 30
+            }, 
+            {
+                "stop": 141214, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 141162, 
+                "indent": 30
+            }, 
+            {
+                "stop": 143289, 
+                "in_lines": [
+                    {
+                        "stop": 143300, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OK", 
+                            "indent": 1
+                        }, 
+                        "start": 143297, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 143320, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OK,", 
+                            "indent": 1
+                        }, 
+                        "start": 143315, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 143237, 
+                "indent": 30
+            }, 
+            {
+                "stop": 144106, 
+                "in_lines": [
+                    {
+                        "stop": 144131, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 144107, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 144114, 
+                        "raw_text": ". PINK", 
+                        "start": 144106, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 144074, 
+                "indent": 30
+            }, 
+            {
+                "stop": 144203, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 144151, 
+                "indent": 30
+            }, 
+            {
+                "stop": 144285, 
+                "in_lines": [
+                    {
+                        "stop": 144310, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 144286, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 144293, 
+                        "raw_text": ". PINK", 
+                        "start": 144285, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 144253, 
+                "indent": 30
+            }, 
+            {
+                "stop": 144419, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 144367, 
+                "indent": 30
+            }, 
+            {
+                "stop": 144772, 
+                "in_lines": [
+                    {
+                        "stop": 144798, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "BROWN", 
+                            "indent": 1
+                        }, 
+                        "start": 144773, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 144781, 
+                        "raw_text": ". BROWN", 
+                        "start": 144772, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 144740, 
+                "indent": 30
+            }, 
+            {
+                "stop": 144927, 
+                "in_lines": [
+                    {
+                        "stop": 144952, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 144928, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 144935, 
+                        "raw_text": ". PINK", 
+                        "start": 144927, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 144895, 
+                "indent": 30
+            }, 
+            {
+                "stop": 145176, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 145124, 
+                "indent": 30
+            }, 
+            {
+                "stop": 145325, 
+                "in_lines": [
+                    {
+                        "stop": 145351, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 145326, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 145334, 
+                        "raw_text": ". WHITE", 
+                        "start": 145325, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 145293, 
+                "indent": 30
+            }, 
+            {
+                "stop": 145515, 
+                "in_lines": [
+                    {
+                        "stop": 145540, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 145516, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 145523, 
+                        "raw_text": ". PINK", 
+                        "start": 145515, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 145483, 
+                "indent": 30
+            }, 
+            {
+                "stop": 145833, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE", 
+                    "indent": 30
+                }, 
+                "start": 145781, 
+                "indent": 30
+            }, 
+            {
+                "stop": 146198, 
+                "in_lines": [
+                    {
+                        "stop": 146223, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PINK", 
+                            "indent": 1
+                        }, 
+                        "start": 146199, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 146363, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CAMERA", 
+                            "indent": 7
+                        }, 
+                        "start": 146349, 
+                        "indent": 7
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 146206, 
+                        "raw_text": ". PINK", 
+                        "start": 146198, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 146166, 
+                "indent": 30
+            }, 
+            {
+                "stop": 146516, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JOE, (OS)", 
+                    "indent": 30, 
+                    "modifier": [
+                        "(", 
+                        "OS", 
+                        ")"
+                    ]
+                }, 
+                "start": 146459, 
+                "indent": 30
+            }, 
+            {
+                "stop": 146613, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "transition", 
+                "transition": null, 
+                "result": {
+                    "heading": "CUT TO", 
+                    "indent": 56
+                }, 
+                "start": 146551, 
+                "indent": 56
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 146802, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [], 
+            "name": "title", 
+            "transition": null, 
+            "result": {
+                "heading": "HOLDAWAY", 
+                "indent": 30
+            }, 
+            "start": 146745, 
+            "indent": 30
+        }, 
+        [
+            {
+                "stop": 147527, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 147472, 
+                "indent": 30
+            }, 
+            {
+                "stop": 147643, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 147586, 
+                "indent": 30
+            }, 
+            {
+                "stop": 147830, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 147775, 
+                "indent": 30
+            }, 
+            {
+                "stop": 148055, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 147998, 
+                "indent": 30
+            }, 
+            {
+                "stop": 148298, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 148243, 
+                "indent": 30
+            }, 
+            {
+                "stop": 148518, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 148461, 
+                "indent": 30
+            }, 
+            {
+                "stop": 149028, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 148973, 
+                "indent": 30
+            }, 
+            {
+                "stop": 149208, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 149151, 
+                "indent": 30
+            }, 
+            {
+                "stop": 149720, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 149665, 
+                "indent": 30
+            }, 
+            {
+                "stop": 149806, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 149749, 
+                "indent": 30
+            }, 
+            {
+                "stop": 149868, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 149813, 
+                "indent": 30
+            }, 
+            {
+                "stop": 149984, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 149927, 
+                "indent": 30
+            }, 
+            {
+                "stop": 150670, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 150615, 
+                "indent": 30
+            }, 
+            {
+                "stop": 150804, 
+                "in_lines": [
+                    {
+                        "stop": 151008, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "location": [
+                                "KARINA'S FINE JEWELRY"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5, 
+                            "heading": "EXT."
+                        }, 
+                        "start": 150962, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 151023, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "MOS SHOT", 
+                                "misc": "MOS"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "MOS SHOT", 
+                                "misc": "MOS"
+                            }
+                        }, 
+                        "start": 151014, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 151080, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CUSTOMERS", 
+                            "indent": 7
+                        }, 
+                        "start": 151063, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 151112, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "STORE CLERKS", 
+                            "indent": 2
+                        }, 
+                        "start": 151097, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 151200, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "HEAR", 
+                            "indent": 1
+                        }, 
+                        "start": 151194, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 151267, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OFF SCREEN", 
+                            "indent": 1
+                        }, 
+                        "start": 151256, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HOLDAWAY", 
+                    "indent": 30
+                }, 
+                "start": 150747, 
+                "indent": 30
+            }, 
+            {
+                "stop": 151302, 
+                "in_lines": [
+                    {
+                        "stop": 151333, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE, (VO)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "VO", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 151303, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 151316, 
+                        "raw_text": ". WHITE (VO)", 
+                        "start": 151302, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 151270, 
+                "indent": 30
+            }, 
+            {
+                "stop": 151428, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY, (VO)", 
+                    "indent": 30, 
+                    "modifier": [
+                        "(", 
+                        "VO", 
+                        ")"
+                    ]
+                }, 
+                "start": 151368, 
+                "indent": 30
+            }, 
+            {
+                "stop": 151573, 
+                "in_lines": [
+                    {
+                        "stop": 151604, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE, (VO)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "VO", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 151574, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 151587, 
+                        "raw_text": ". WHITE (VO)", 
+                        "start": 151573, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 151541, 
+                "indent": 30
+            }, 
+            {
+                "stop": 151676, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY, (VO)", 
+                    "indent": 30, 
+                    "modifier": [
+                        "(", 
+                        "VO", 
+                        ")"
+                    ]
+                }, 
+                "start": 151616, 
+                "indent": 30
+            }, 
+            {
+                "stop": 151890, 
+                "in_lines": [
+                    {
+                        "stop": 151921, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE, (VO)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "VO", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 151891, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 151904, 
+                        "raw_text": ". WHITE (VO)", 
+                        "start": 151890, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 151858, 
+                "indent": 30
+            }, 
+            {
+                "stop": 152007, 
+                "in_lines": [
+                    {
+                        "stop": 152131, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "INT.", 
+                            "location": [
+                                "MR"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5
+                        }, 
+                        "start": 152119, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 152168, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "modifier": [
+                                "(", 
+                                "PARKED", 
+                                ")"
+                            ], 
+                            "indent": 1, 
+                            "heading": "WHITE'S CAR, (PARKED)"
+                        }, 
+                        "start": 152132, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY, (VO)", 
+                    "indent": 30, 
+                    "modifier": [
+                        "(", 
+                        "VO", 
+                        ")"
+                    ]
+                }, 
+                "start": 151947, 
+                "indent": 30
+            }, 
+            {
+                "stop": 152308, 
+                "in_lines": [
+                    {
+                        "stop": 152334, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 152309, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 152317, 
+                        "raw_text": ". WHITE", 
+                        "start": 152308, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 152276, 
+                "indent": 30
+            }, 
+            {
+                "stop": 152411, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FREDDY", 
+                    "indent": 30
+                }, 
+                "start": 152356, 
+                "indent": 30
+            }, 
+            {
+                "stop": 152898, 
+                "in_lines": [
+                    {
+                        "stop": 152924, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHITE", 
+                            "indent": 1
+                        }, 
+                        "start": 152899, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 152907, 
+                        "raw_text": ". WHITE", 
+                        "start": 152898, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MR", 
+                    "indent": 30
+                }, 
+                "start": 152866, 
+                "indent": 30
+            }, 
+            {
+                "stop": 154546, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "transition", 
+                "transition": null, 
+                "result": {
+                    "heading": "CUT TO", 
+                    "indent": 56
+                }, 
+                "start": 154484, 
+                "indent": 56
+            }
+        ]
+    ]
+]

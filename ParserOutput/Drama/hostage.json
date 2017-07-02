@@ -1,0 +1,3807 @@
+[
+    [
+        {
+            "stop": 65298, 
+            "in_lines": [
+                {
+                    "stop": 65593, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "-- DENNIS", 
+                        "indent": 1
+                    }, 
+                    "start": 65544, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 65752, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "-- KEVIN", 
+                        "indent": 1
+                    }, 
+                    "start": 65708, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 65875, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DENNIS", 
+                        "indent": 1
+                    }, 
+                    "start": 65832, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 66053, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "--", 
+                        "indent": 1
+                    }, 
+                    "start": 66048, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 66172, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "-- JENNIFER", 
+                        "indent": 1
+                    }, 
+                    "start": 66125, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 66208, 
+                    "raw_text": "thought to be Dennis James Rooney. Rooney was recently released from the Antelope Valley Correctional Institute where he served time for robbery. Dennis spots himself on television and breaks into a big smile -- DENNIS (thrilled) Check me out!  I look like fuckin' Jon Bon Jovi. Kevin is anything but thrilled -- KEVIN Everyone knows what we look like, Dennis. We won't be able to hide. DENNIS Jesus, first Mars, now you.  You two need anti-depressants. Across the room, Walter Smith shudders and moans; his face is swollen and covered with clammy sweat -- Jennifer is sick with worry and can't stand seeing her father like this -- JENNIFER My father needs a doctor.  Please.", 
+                    "start": 65298, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 66322, 
+                    "raw_text": "Hey, I've got a situation here, in case you haven't noticed.", 
+                    "start": 66248, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 66406, 
+                    "raw_text": "All you're doing is watching yourself on", 
+                    "start": 66364, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "--", 
+                "indent": 11
+            }, 
+            "start": 65284, 
+            "indent": 11
+        }, 
+        [
+            {
+                "stop": 66248, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 66208, 
+                "indent": 21
+            }, 
+            {
+                "stop": 66364, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 66322, 
+                "indent": 21
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 66419, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 66436, 
+                    "raw_text": ".  Look at him.", 
+                    "start": 66419, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 66491, 
+                    "raw_text": "Use more ice.", 
+                    "start": 66476, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 67392, 
+                    "raw_text": "I'm getting a doctor! Jennifer lurches to her feet and runs toward the front door. Dennis catches her in two steps and backhands her exactly the way his old man used to smack his old lady, knocking her to the floor -- THOMAS Jen!!! Thomas charges into Dennis like an angry midget.  Kevin jumps between them -- KEVIN Stop it!  Stop it, Dennis!  Jesus! Mars steps forward and jerks Thomas into the air.  Mars' physical presence is suddenly so imposing that everyone stops fighting -- MARS (quietly) We should tie them.  We can put them upstairs out of the way. It takes Dennis a moment to come up to speed with that, but then he nods -- DENNIS That's right.  That's a good idea, Mars.", 
+                    "start": 66533, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 67546, 
+                    "raw_text": "(to Kevin) Find something:  Extension cords, rope, wire--we'll have to tie them tight.", 
+                    "start": 67434, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 68565, 
+                    "raw_text": "Find something, Kevin.  Don't just stand there. (waves at Walter) And tie this bastard, too.  I don't want him waking up and goin' Rambo on us. Mars nods his approval.  Subtly, there is the beginning of a shift in power -- INT. JENNIFER'S BEDROOM -- NIGHT Mars pushes Jennifer inside.  Kevin follows her with duct tape and a couple of extension cords.  Mars, holding Thomas, pauses in the hall -- MARS Tie her to the chair.  I'll take care of the windows when I finish with the boy. Mars disappears with Thomas down the hall.  Jennifer stands by the chair, arms once more crossed over her breasts. Kevin can see that she's scared.  He takes a T-shirt from where she's left it on the floor and hands it to her -- KEVIN Here.  Put this on. She pulls it over her head -- KEVIN (CONT'D) You gotta pee?", 
+                    "start": 67586, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 68697, 
+                    "raw_text": "I don't see why you can't just lock me in.  It's not like I can go anywhere.", 
+                    "start": 68607, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 69039, 
+                    "raw_text": "Either I'm going to tie you or Mars will tie you.  Which do you want? Jennifer sits.  Kevin pulls her hands behind the back of the chair.  As he ties her, Jennifer decides that if any of them can be reached, it's Kevin -- JENNIFER Thanks for the shirt.", 
+                    "start": 68736, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 69089, 
+                    "raw_text": "Whatever.", 
+                    "start": 69078, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 69165, 
+                    "raw_text": "Kevin, my father needs a doctor.", 
+                    "start": 69131, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 69264, 
+                    "raw_text": "He's just knocked out.  I've been knocked out.", 
+                    "start": 69204, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 71024, 
+                    "raw_text": "If my father dies they'll charge you with his murder.  Can't you make Dennis see that? Kevin leans back.  He knows she's right, but he doesn't believe he can do anything about it -- KEVIN I can't make Dennis see anything. A shadow moves behind Kevin.  It's Mars, standing in the door.  He holds up a wicked claw hammer -- MARS Look what I found. He enters and tests at Jennifer's binds -- MARS (CONT'D) You tied her like a pussy.  Make it tight. As Kevin reties the bindings, Mars rips the phone from the wall.  He smashes the phone jack with the hammer, crushing it.  Then he goes to the window and drives a heavy nail into the sill, nailing the window closed -- Mars returns to Jennifer and once more checks her binds -- MARS (CONT'D) Better. He tears off a strip of duct tape and presses it over her mouth -- KEVIN Make sure she can breathe. Mars rubs his fingers hard over the tape covering her mouth. He massages the tape into her skin, slow, sensual -- MARS Go downstairs, Kevin. Jennifer looks at Kevin, her eyes pleading that he not leave, but Kevin is cowed; he leaves -- Jennifer looks back at Mars -- Mars leans close to her.  She is terrified that he is going to kiss her, but, instead, he sniffs, smelling her -- MARS (CONT'D) I want to show you something. Mars hooks the claw hammer under his shirt and lifts to expose his chest.  A large tattoo in flowing script is lined across his body:  A Mother's Son.", 
+                    "start": 69306, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 73818, 
+                    "raw_text": "It cost two hundred forty dollars, but I was happy to spend it.  I love my mom. You see these? Mars points out hard gray knots that speckle his chest as if he were diseased.  He fingers the lumps sensuously as if touching them excites him -- MARS (CONT'D) My mom burned me with cigarettes. Jennifer is both disgusted and terrified.  Mars stares at her emptily for another moment, then lowers his shirt and leaves without another word. INT. THOMAS'S ROOM -- NIGHT The room is dark.  Thomas is tied firmly to the bed.  The cords cut into Thomas's wrists and Thomas can't reach the knots, but Mars made one mistake:  He tied Thomas to the headboard posts, and one of the newels has been loose for years -- Thomas stretches against the ropes to reach the newel, then twists it back and forth.  He works it harder and harder until the newel slides off its pin, and suddenly his hand is free, though still tied to the newel -- Thomas peels the tape from his mouth, then unties the remaining binds and frees himself from the newel.  He slips off his bed and crawls along the wall to his closet -- INT. THOMAS'S CLOSET -- NIGHT A service hatch that opens into the attic crawlspace is built into the wall beneath Thomas's clothes.  Thomas prys open the hatch, then reaches inside for a small flashlight.  He flicks it on, then climbs into the eaves of the roof -- INT. CRAWLSPACE -- NIGHT The crawlspace is a long triangular tunnel that follows the edge of the roof.  It was built for plumbers and air conditioning technicians, but Thomas has taken the space for his own:  Witness the stack of Penthouse, pictures of sports heroes tacked to the rafters, and old soda cans strewn between the joists -- Thomas scurries quietly through the tunnel, heading for -- INT. JENNIFER'S CLOSET -- NIGHT Thomas pushes through a hatch identical to the one in his own closet, then creeps to the door -- THOMAS (whispers) Jen! INT. JENNIFER'S ROOM -- NIGHT Jennifer twists around to see him, mumbling through the tape -- THOMAS Sit still!  If they're in the security room, they can see you on the monitors. Jennifer quiets.  Thomas slips out of the closet and creeps toward her along the wall -- THOMAS (CONT'D) I figured out what these cameras can see last year when Mom and Dad went to Lake Arrowhead.  It can't see me over here, but it's looking at you, so don't move! Thomas reaches up from behind Jennifer and jerks the tape off her mouth -- JENNIFER Ow!  Shit!", 
+                    "start": 71071, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 74010, 
+                    "raw_text": "Be quiet!  Listen! Thomas is hiding behind Jennifer so that the camera cannot see him -- JENNIFER No one's coming.", 
+                    "start": 73858, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 74088, 
+                    "raw_text": "That big asshole nailed my windows.", 
+                    "start": 74051, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 74142, 
+                    "raw_text": "Mine, too.", 
+                    "start": 74130, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 74265, 
+                    "raw_text": "We can use the crawlspace to get downstairs.  Then we can run for it.", 
+                    "start": 74182, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 74509, 
+                    "raw_text": "No!  I'm not going to leave Daddy with them! Thomas thinks about that and decides that he can't leave their father, either -- THOMAS We can't carry him.", 
+                    "start": 74307, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 74620, 
+                    "raw_text": "You go, Thomas.  You get out, and I'll stay with Daddy.", 
+                    "start": 74551, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 74686, 
+                    "raw_text": "I'm not gonna leave you!", 
+                    "start": 74660, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 75144, 
+                    "raw_text": "Go!  If you get out, maybe you can help the police! Thomas suddenly realizes what he has to do -- THOMAS We'll all go, Jennifer.  All of us or none of us.  I know where Daddy keeps a gun. Jennifer jerks so hard that she almost tips over the chair -- JENNIFER (loud) You leave that gun alone!", 
+                    "start": 74728, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 75208, 
+                    "raw_text": "Shh, they'll hear you!", 
+                    "start": 75184, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 76266, 
+                    "raw_text": "(louder) Better than you getting killed!  Don't touch that gun!  Daddy says -- Thomas slaps the tape back over her mouth.  Jennifer struggles helplessly as Thomas slips back into the closet, and is gone -- EXT. YORK ESTATES -- STREET -- NIGHT The Sheriff's Crisis Response Team rolls through the streets like an invading army:  A brown sedan leads a huge van known as the Mobile Command Post, which is followed by a Sheriff's SWAT support vehicle, two SWAT Suburbans, and four radio units. Pools of light from the helicopters follow their progress -- EXT. COMMAND STREET -- NIGHT Talley walks out to meet the lead vehicle as the convoy stops.  Up and down the row, uniformed Sheriffs pile out of their vehicles and off-load their gear -- Two people climb out of the lead car:  Will Maddox, a bespectacled African-American Sheriff's SWAT negotiator, and Captain Laura Martin, the CRT commander -- TALLEY I'm Talley.  Who's in charge?", 
+                    "start": 75254, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 76464, 
+                    "raw_text": "Laura Martin.  This is Will Maddox, the primary negotiator -- MADDOX Is the perimeter around the house secure?", 
+                    "start": 76306, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 76618, 
+                    "raw_text": "I've got fourteen officers on my department including me.  We're as secure as we can be.", 
+                    "start": 76504, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 76718, 
+                    "raw_text": "(to Martin) Permission to deploy the line?", 
+                    "start": 76662, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 76766, 
+                    "raw_text": "Do it.", 
+                    "start": 76758, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 77075, 
+                    "raw_text": "(to Maddox) Don't crowd the house.  The alpha's a kid named Rooney.  He's amped up and volatile. Maddox turns away to bark orders into his shoulder mike -- MARTIN Sounds like you know the job.", 
+                    "start": 76810, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 77277, 
+                    "raw_text": "I've done it once or twice.  I blocked their phones to incoming calls, so you'll have to cut in a hard line to talk to him.", 
+                    "start": 77115, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 77377, 
+                    "raw_text": "(over her shoulder) Maddox!  You got that?", 
+                    "start": 77321, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 77432, 
+                    "raw_text": "Doing it now!", 
+                    "start": 77417, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 77586, 
+                    "raw_text": "(back to Talley) I'd like you to brief my supervisors before we take over the scene.", 
+                    "start": 77476, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 77969, 
+                    "raw_text": "Whatever you want. Talley and Martin hurry toward her troops -- INT. THE SMITHS' GARAGE -- NIGHT The garage is dark, lit only by the light that comes from the kitchen's open door, as Dennis, Mars and a reluctant Kevin enter -- KEVIN Someone should stay with Mr. Smith.  What if he wakes up?", 
+                    "start": 77626, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 78426, 
+                    "raw_text": "(annoyed) That's why we tied him, dumbass.  Now come here and see this -- Dennis shows them a small casement window, and pushes open the window to reveal a thick hedge -- DENNIS (CONT'D) (excited) These bushes follow the wall into the neighbor's yard.  All we need is some kind of diversion and we're home free.", 
+                    "start": 78013, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 78523, 
+                    "raw_text": "That's crazy, Dennis.  The cops will see us.", 
+                    "start": 78465, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 78606, 
+                    "raw_text": "Not if they're looking at something else.", 
+                    "start": 78563, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 78657, 
+                    "raw_text": "Like what?", 
+                    "start": 78645, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 80255, 
+                    "raw_text": "Let's burn the house. Mars says it so simply that the moment is frozen.  Mars is holding the big claw hammer, kneading it as if it was a living thing.  His face is masked by shadows, but his eyes both glow as if already reflecting flame -- INT. CRAWLSPACE ABOVE THE LAUNDRY ROOM -- NIGHT We see Dennis, Kevin, and Mars through a slit overhead as they emerge from the garage and move back into the house -- Thomas is watching them.  He has cracked open the service hatch in the laundry room ceiling to make sure that his way is clear -- INT. LAUNDRY ROOM -- NIGHT The room is dark.  When Dennis and the others are gone, the ceiling hatch lifts, and Thomas lets himself down.  He slides onto the washing machine and then to the floor -- Thomas cups one hand over his flashlight and turns it on.  He lets light leak through his fingers so that he can see.  The beam cuts across a door to the garage, car keys on key hooks, and Jennifer's purse hanging from one of the hooks -- INT. HOBBY ROOM -- NIGHT This is a small room off the end of the laundry with a work bench, a stool, and shelves above the bench for Walter's hobby supplies -- Thomas shines the light over the shelves, spotting the hard plastic pistol case on the highest shelf.  That's the target; that's the goal -- Thomas uses the stool to climb onto the bench -- INT. MASTER BEDROOM -- NIGHT Dennis is in the doorway to the security closet, handing out one of the money bags to Kevin -- KEVIN We can't carry all this.  It's too heavy.", 
+                    "start": 78695, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81456, 
+                    "raw_text": "I've been carrying you our whole fuckin' lives. Kevin drops the bag and tries to reason with his brother -- KEVIN Everything we're doing is making it worse.  You can't let him burn this house. Dennis abruptly grabs Kevin by the throat, his face hard with fury -- DENNIS Nothing's worse than listening to you. I'm warning you, Kevin--stop holding me back.  Now you pick up that fuckin' money and get ready to go. Dennis glares at Kevin another moment, then lets go and steps back into the closet -- INT. THE CLOSET -- NIGHT Dennis lifts the second bag of cash when the monitors catch his eye:  The Sheriffs SWAT unit can be seen moving into position.  Dennis totally freaks -- DENNIS They're coming!  Kev, Mars, they're coming!!! Dennis drops the cash and bolts out of the closet -- INT. KITCHEN -- NIGHT Mars is placing two buckets of gasoline in the hall as Dennis and Kevin pound down the hall -- DENNIS The cops are comin'!", 
+                    "start": 80295, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 84412, 
+                    "raw_text": "I got the gasoline -- DENNIS We don't have time! Dennis runs to the French doors.  He sees lights at the rear of the property and SHOOTS through the glass -- DENNIS (CONT'D) Get the kids!  They're our only chance! Dennis FIRES AGAIN and runs for the stairs -- INT. HOBBY ROOM -- NIGHT Thomas is straining to reach the pistol which is a fraction of an inch beyond his grasp when he hears Dennis shouting -- Thomas glances helplessly at the gun case--so near, yet so far--then scrambles off the bench and -- INT. LAUNDRY ROOM -- NIGHT Thomas is climbing onto the washing machine when he once more sees Jennifer's purse hanging on a key hook -- Thomas jumps from the washer, grabs the purse, then scrambles into the ceiling as GUNSHOTS ECHO through the house -- EXT. COMMAND STREET -- NIGHT Martin, Maddox, and her supervisors are gathered around Talley when the gunshots crack across the neighborhood -- TALLEY (startled) Who's that shooting?  Martin, what's going on? Radio transmissions crackle over Martin's radio -- RADIO VOICES Shots fired!  We are taking fire on the back wall! Talley immediately knows what's happening, and he knows why -- TALLEY They're too close!  I told you not to crowd him!  Pull back your people; do not breach that house! Talley sprints toward the cul-de-sac -- INT. CRAWLSPACE -- NIGHT Thomas races through the narrow black tunnel.  He slips off the rafters and almost falls through the ceiling.  He's losing precious time -- INT. THE STAIRWELL -- NIGHT Dennis and Mars pound up the stairs, getting closer to his room -- INT. THE CRAWLSPACE -- NIGHT Thomas pushes his way into his closet -- INT. UPSTAIRS HALL -- NIGHT Dennis and Mars reach the second floor -- INT. THOMAS' ROOM -- NIGHT Thomas scrambles into bed just before Dennis jerks open the door.  Dennis drags him off the bed and carries him out of the room -- EXT. CUL-DE-SAC -- NIGHT Talley, Martin, and Maddox run into position behind a Sheriff's unit where a deputy has set up the dedicated crisis phone -- Talley grabs up the phone -- TALLEY (to the deputy) This thing good? Talley doesn't wait for the confused deputy to answer; he presses the button in the handle that dials the phone -- MADDOX What in hell are you doing?  He's shooting at my men! The phone rings in Talley's ear -- TALLEY (to Maddox) Then get your men off the wall! (to Martin) You breach that house, we're gonna have a bloodbath!  I know this guy, Captain -- I can talk to him.", 
+                    "start": 81494, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 85283, 
+                    "raw_text": "(to Maddox) Order your men to stand down. The phone is still ringing.  Talley pulls the mike from the deputy's car and speaks over the public address -- TALLEY (over the p.a.) Look out the window, Dennis.  We are NOT entering the house.  We're pulling back. INT. SMITH'S OFFICE -- NIGHT Dennis is holding Thomas around the neck, using the boy as a shield.  Kevin is cowering on the floor and Mars is holding Jennifer.  Dennis snatches up the phone -- DENNIS (screaming into the phone) You fuck!  I got a fuckin' gun to this kid's head!  I'll kill'm, you fuck! Intercut Talley outside -- TALLEY It's over now, Dennis!  Don't hurt anyone.", 
+                    "start": 84456, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 86115, 
+                    "raw_text": "(still screaming) We'll burn this fuckin' place down!  I got gasoline all over in here! Talley takes a deep breath; he forces himself to speak quietly, calmly -- TALLEY No one's coming in.  A couple of guys out here got carried away. Dennis peers out the front.  Talley's careful manner is calming him -- DENNIS Goddamned right they got carried away. It looks like an army out there. Talley mutes the phone to speak to Martin -- TALLEY (to Martin) It's over.  He's cooling off. Talley glances at Maddox.  Maddox nods, his expression saying that Talley was right -- DENNIS Talley?", 
+                    "start": 85327, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 86204, 
+                    "raw_text": "(back into the phone) I'm here.", 
+                    "start": 86159, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 86287, 
+                    "raw_text": "I want a helicopter to take us to Mexico.", 
+                    "start": 86244, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 86411, 
+                    "raw_text": "That's not going to happen, Dennis.  They won't give you a helicopter.", 
+                    "start": 86327, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 86480, 
+                    "raw_text": "I'll give you these people.", 
+                    "start": 86451, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 87042, 
+                    "raw_text": "The Mexican police would arrest you as soon as it landed.  There's only one way out and you're doing it right now--just keep talking to us. (mutes phone; to Martin and Maddox) I think we could make the transition now. Maddox, you good to go? Maddox nods at Martin; he's good to go -- TALLEY (CONT'D) (to Dennis) Hey, Dennis?  Can I let you in on a personal secret?", 
+                    "start": 86520, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 87118, 
+                    "raw_text": "(hesitantly) What?", 
+                    "start": 87086, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 87292, 
+                    "raw_text": "I gotta piss real bad. Dennis can't help himself; he laughs -- DENNIS You're a funny guy, Talley.", 
+                    "start": 87158, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 87658, 
+                    "raw_text": "I'm going to put on an officer named Will Maddox.  You talk to him for a while. Talley hands the phone to Maddox, who moves past Talley for a better view of the house.  Talley looks grimly at Martin -- TALLEY (CONT'D) He says he has gasoline set to burn the place.", 
+                    "start": 87332, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 87757, 
+                    "raw_text": "Jesus.  He must've siphoned it from the cars.", 
+                    "start": 87698, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 87892, 
+                    "raw_text": "If you go in, you can't use tear gas or flashbangs.  The whole place would go up.", 
+                    "start": 87797, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 88030, 
+                    "raw_text": "(not without humor) Looks like you're bailing out at the right time.", 
+                    "start": 87936, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 88270, 
+                    "raw_text": "(returns her smile) That's why you get the big bucks, Captain. Talley is moving away when his radio pops -- LOUISE'S VOICE Chief, base.", 
+                    "start": 88074, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 88359, 
+                    "raw_text": "(keying his shoulder mike) Go.", 
+                    "start": 88314, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 88473, 
+                    "raw_text": "I couldn't find Jane.  She wasn't at the restaurant.", 
+                    "start": 88407, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 88540, 
+                    "raw_text": "You have her cell number?", 
+                    "start": 88513, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 88608, 
+                    "raw_text": "She didn't answer.", 
+                    "start": 88588, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 89282, 
+                    "raw_text": "They might be at the house.  Keep trying and let me know.  I'm going to be here a little while longer. Talley closes his phone and continues away -- INT. WALTER'S OFFICE -- NIGHT Dennis and Kevin are at the television, watching an aerial view of the Sheriffs deploying around the house.  Jennifer and Thomas are huddled by their father -- KEVIN We're surrounded.  They're all over the neighborhood. Mars enters carrying candles and flashlights.  He lights a candle and place it on a table -- DENNIS What the fuck is that?", 
+                    "start": 88648, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 89448, 
+                    "raw_text": "They'll cut the power. Mars tosses a flashlight to Dennis -- JENNIFER What about my father?", 
+                    "start": 89320, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 89518, 
+                    "raw_text": "Aw, Jesus, not more of this.", 
+                    "start": 89488, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 89595, 
+                    "raw_text": "Look at him!  I think he's dying!", 
+                    "start": 89560, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 90824, 
+                    "raw_text": "(to Kevin and Mars) Take'm back upstairs, but don't tie'm like before.  That little fuck untied himself anyway. Dennis returns to the shutters as Mars and Kevin take the kids -- INT. THOMAS' ROOM -- NIGHT Mars shoves Thomas into the room, then lifts the claw hammer. For an instant, we think he's going to hit the boy--but he smashes off the door knob, instead. Mars glares at Thomas, then pulls the door closed.  The knob on Thomas's side is gone; there's no way for Thomas to open the door. But that's okay by Thomas.  He waits until he's sure that Mars is gone, and then he hurries back to his closet -- INT. THOMAS' CLOSET -- NIGHT Thomas pulls open the hatch, fishes out his flashlight, then dumps the contents of Jennifer's purse on the floor. He picks up her cell phone. INT. MRS. PENA'S BATHROOM -- NIGHT Talley closes his eyes with a blissful expression as a familiar sound fills the bathroom; he's taking a piss. His radio crackles -- LOUISE'S VOICE Chief, base. Talley finishes his business, and keys his mike -- TALLEY Did you find Jane and Mandy?", 
+                    "start": 89639, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 90935, 
+                    "raw_text": "Could you call me back on your phone? Right away.", 
+                    "start": 90872, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 91005, 
+                    "raw_text": "What's wrong with the radio?", 
+                    "start": 90975, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 91141, 
+                    "raw_text": "(hesitantly) Other people can hear us.  Just call. Please.", 
+                    "start": 91057, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 91429, 
+                    "raw_text": "Stand by. Now Talley is worried.  He pulls out his phone and punches the speed dial.  It rings only once -- Intercut Louise, at her desk outside Talley's office -- TALLEY (CONT'D) Is something wrong with Jane?", 
+                    "start": 91181, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 91581, 
+                    "raw_text": "We have a boy on the line.  He says he's Thomas Smith and he's calling from the house.", 
+                    "start": 91469, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 91695, 
+                    "raw_text": "It's a crank, Louise.  C'mon, don't waste my time with that!", 
+                    "start": 91621, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 92448, 
+                    "raw_text": "His cell number belongs to the Smiths.  I think it's real, Chief.  I think this boy is inside that house. Talley worries it only for a moment -- TALLEY Put him on. Talley pushes out of the bathroom into -- INT. MRS. PENA'S FAMILY ROOM -- NIGHT He flags Leigh Metzger as he cups the phone -- TALLEY (to Metzger) Get Martin.  Right away. As Metzger hurries away, we intercut Thomas, hiding in the shadows on his bed, whispering so as not to be overheard -- TALLEY (CONT'D) (into the phone) This is Chief Talley.  Tell me your name, son.", 
+                    "start": 91735, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 92532, 
+                    "raw_text": "Thomas Smith.  I'm in the house that's on", 
+                    "start": 92489, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "TV", 
+                "indent": 11
+            }, 
+            "start": 66406, 
+            "indent": 11
+        }, 
+        [
+            {
+                "stop": 66476, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 66436, 
+                "indent": 21
+            }, 
+            {
+                "stop": 66533, 
+                "in_lines": [
+                    {
+                        "stop": 66796, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- THOMAS", 
+                            "indent": 1
+                        }, 
+                        "start": 66751, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 66923, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 66879, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 67135, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS", 
+                            "indent": 1
+                        }, 
+                        "start": 67088, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 67350, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 67305, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 66491, 
+                "indent": 21
+            }, 
+            {
+                "stop": 67434, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARS", 
+                    "indent": 21
+                }, 
+                "start": 67392, 
+                "indent": 21
+            }, 
+            {
+                "stop": 67586, 
+                "in_lines": [
+                    {
+                        "stop": 67867, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 67859, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 67898, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "JENNIFER'S BEDROOM -- NIGHT", 
+                            "heading": "JENNIFER'S BEDROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 67868, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 68081, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS", 
+                            "indent": 1
+                        }, 
+                        "start": 68038, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 68449, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 68405, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 68549, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 68496, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 67546, 
+                "indent": 21
+            }, 
+            {
+                "stop": 68607, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 68565, 
+                "indent": 21
+            }, 
+            {
+                "stop": 68736, 
+                "in_lines": [
+                    {
+                        "stop": 69016, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- JENNIFER", 
+                            "indent": 1
+                        }, 
+                        "start": 68969, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KEVIN", 
+                    "indent": 21
+                }, 
+                "start": 68697, 
+                "indent": 21
+            }, 
+            {
+                "stop": 69078, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KEVIN", 
+                    "indent": 21
+                }, 
+                "start": 69039, 
+                "indent": 21
+            }, 
+            {
+                "stop": 69131, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 69089, 
+                "indent": 21
+            }, 
+            {
+                "stop": 69204, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KEVIN", 
+                    "indent": 21
+                }, 
+                "start": 69165, 
+                "indent": 21
+            }, 
+            {
+                "stop": 69306, 
+                "in_lines": [
+                    {
+                        "stop": 69554, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 69510, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 69729, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS", 
+                            "indent": 1
+                        }, 
+                        "start": 69686, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 69840, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 69788, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 70118, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 70113, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 70225, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 70173, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 70342, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 70298, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 70524, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS", 
+                            "indent": 1
+                        }, 
+                        "start": 70481, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 70644, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 70639, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 70676, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 70671, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 70839, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 70787, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 69264, 
+                "indent": 21
+            }, 
+            {
+                "stop": 71071, 
+                "in_lines": [
+                    {
+                        "stop": 71388, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARS, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 71336, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 71601, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "THOMAS'S ROOM -- NIGHT", 
+                            "heading": "THOMAS'S ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 71576, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 71847, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 71842, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72069, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 72064, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72244, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 72236, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72260, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }
+                        }, 
+                        "start": 72245, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72272, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "-- NIGHT", 
+                            "heading": "-- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 72261, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72515, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 72507, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72538, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "CRAWLSPACE -- NIGHT", 
+                            "heading": "CRAWLSPACE -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 72516, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72857, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 72852, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72920, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 72912, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72938, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }
+                        }, 
+                        "start": 72921, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 72950, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "-- NIGHT", 
+                            "heading": "-- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 72939, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 73093, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- THOMAS", 
+                            "indent": 1
+                        }, 
+                        "start": 73044, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 73153, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "JENNIFER'S ROOM -- NIGHT", 
+                            "heading": "JENNIFER'S ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 73126, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 73258, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- THOMAS", 
+                            "indent": 1
+                        }, 
+                        "start": 73213, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 73490, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- THOMAS, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 73436, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 73806, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- JENNIFER", 
+                            "indent": 1
+                        }, 
+                        "start": 73759, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARS, (CONT'D)", 
+                    "indent": 21, 
+                    "modifier": [
+                        "(", 
+                        "CONT'D", 
+                        ")"
+                    ]
+                }, 
+                "start": 71024, 
+                "indent": 21
+            }, 
+            {
+                "stop": 73858, 
+                "in_lines": [
+                    {
+                        "stop": 73992, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- JENNIFER", 
+                            "indent": 1
+                        }, 
+                        "start": 73945, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "THOMAS", 
+                    "indent": 21
+                }, 
+                "start": 73818, 
+                "indent": 21
+            }, 
+            {
+                "stop": 74051, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "THOMAS", 
+                    "indent": 21
+                }, 
+                "start": 74010, 
+                "indent": 21
+            }, 
+            {
+                "stop": 74130, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 74088, 
+                "indent": 21
+            }, 
+            {
+                "stop": 74182, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "THOMAS", 
+                    "indent": 21
+                }, 
+                "start": 74142, 
+                "indent": 21
+            }, 
+            {
+                "stop": 74307, 
+                "in_lines": [
+                    {
+                        "stop": 74488, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- THOMAS", 
+                            "indent": 1
+                        }, 
+                        "start": 74443, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 74265, 
+                "indent": 21
+            }, 
+            {
+                "stop": 74551, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 74509, 
+                "indent": 21
+            }, 
+            {
+                "stop": 74660, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "THOMAS", 
+                    "indent": 21
+                }, 
+                "start": 74620, 
+                "indent": 21
+            }, 
+            {
+                "stop": 74728, 
+                "in_lines": [
+                    {
+                        "stop": 74880, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- THOMAS", 
+                            "indent": 1
+                        }, 
+                        "start": 74835, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 75098, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- JENNIFER", 
+                            "indent": 1
+                        }, 
+                        "start": 75047, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 74686, 
+                "indent": 21
+            }, 
+            {
+                "stop": 75184, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "THOMAS", 
+                    "indent": 21
+                }, 
+                "start": 75144, 
+                "indent": 21
+            }, 
+            {
+                "stop": 75254, 
+                "in_lines": [
+                    {
+                        "stop": 75358, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 75353, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 75492, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- EXT", 
+                            "indent": 1
+                        }, 
+                        "start": 75484, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 75527, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "YORK ESTATES -- STREET -- NIGHT", 
+                            "heading": "YORK ESTATES -- STREET -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 75493, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 75719, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SWAT", 
+                            "indent": 1
+                        }, 
+                        "start": 75711, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 75745, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SWAT", 
+                            "indent": 1
+                        }, 
+                        "start": 75739, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 75846, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- EXT", 
+                            "indent": 1
+                        }, 
+                        "start": 75838, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 75873, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "COMMAND STREET -- NIGHT", 
+                            "heading": "COMMAND STREET -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 75847, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 76034, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 76029, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 76134, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SWAT", 
+                            "indent": 1
+                        }, 
+                        "start": 76128, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 76181, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CRT", 
+                            "indent": 1
+                        }, 
+                        "start": 76176, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 76235, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 76190, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 75208, 
+                "indent": 21
+            }, 
+            {
+                "stop": 76306, 
+                "in_lines": [
+                    {
+                        "stop": 76421, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MADDOX", 
+                            "indent": 1
+                        }, 
+                        "start": 76376, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTIN", 
+                    "indent": 21
+                }, 
+                "start": 76266, 
+                "indent": 21
+            }, 
+            {
+                "stop": 76504, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 76464, 
+                "indent": 21
+            }, 
+            {
+                "stop": 76662, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MADDOX", 
+                    "indent": 21
+                }, 
+                "start": 76618, 
+                "indent": 21
+            }, 
+            {
+                "stop": 76758, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTIN", 
+                    "indent": 21
+                }, 
+                "start": 76718, 
+                "indent": 21
+            }, 
+            {
+                "stop": 76810, 
+                "in_lines": [
+                    {
+                        "stop": 77044, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MARTIN", 
+                            "indent": 1
+                        }, 
+                        "start": 76999, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 76766, 
+                "indent": 21
+            }, 
+            {
+                "stop": 77115, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 77075, 
+                "indent": 21
+            }, 
+            {
+                "stop": 77321, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTIN", 
+                    "indent": 21
+                }, 
+                "start": 77277, 
+                "indent": 21
+            }, 
+            {
+                "stop": 77417, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MADDOX", 
+                    "indent": 21
+                }, 
+                "start": 77377, 
+                "indent": 21
+            }, 
+            {
+                "stop": 77476, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTIN", 
+                    "indent": 21
+                }, 
+                "start": 77432, 
+                "indent": 21
+            }, 
+            {
+                "stop": 77626, 
+                "in_lines": [
+                    {
+                        "stop": 77695, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 77687, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 77726, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "THE SMITHS' GARAGE -- NIGHT", 
+                            "heading": "THE SMITHS' GARAGE -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 77696, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 77898, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 77854, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 77586, 
+                "indent": 21
+            }, 
+            {
+                "stop": 78013, 
+                "in_lines": [
+                    {
+                        "stop": 78112, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 78107, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 78264, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 78206, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 77969, 
+                "indent": 21
+            }, 
+            {
+                "stop": 78465, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KEVIN", 
+                    "indent": 21
+                }, 
+                "start": 78426, 
+                "indent": 21
+            }, 
+            {
+                "stop": 78563, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 78523, 
+                "indent": 21
+            }, 
+            {
+                "stop": 78645, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KEVIN", 
+                    "indent": 21
+                }, 
+                "start": 78606, 
+                "indent": 21
+            }, 
+            {
+                "stop": 78695, 
+                "in_lines": [
+                    {
+                        "stop": 78943, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 78935, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 78989, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "CRAWLSPACE ABOVE THE LAUNDRY ROOM -- NIGHT", 
+                            "heading": "CRAWLSPACE ABOVE THE LAUNDRY ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 78944, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79109, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 79104, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79245, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 79237, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79270, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "LAUNDRY ROOM -- NIGHT", 
+                            "heading": "LAUNDRY ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 79246, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79445, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 79440, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79691, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 79683, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79714, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "HOBBY ROOM -- NIGHT", 
+                            "heading": "HOBBY ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 79692, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79852, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 79847, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 79996, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 79991, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 80049, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 80041, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 80076, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "MASTER BEDROOM -- NIGHT", 
+                            "heading": "MASTER BEDROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 80050, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 80212, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 80168, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARS", 
+                    "indent": 21
+                }, 
+                "start": 78657, 
+                "indent": 21
+            }, 
+            {
+                "stop": 80295, 
+                "in_lines": [
+                    {
+                        "stop": 80456, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 80412, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 80672, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 80627, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 80942, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 80934, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 80953, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }
+                        }, 
+                        "start": 80943, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 80965, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "-- NIGHT", 
+                            "heading": "-- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 80954, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81054, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SWAT", 
+                            "indent": 1
+                        }, 
+                        "start": 81048, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81161, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 81116, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81277, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 81269, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81297, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "KITCHEN -- NIGHT", 
+                            "heading": "KITCHEN -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 81278, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81434, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 81389, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 80255, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81494, 
+                "in_lines": [
+                    {
+                        "stop": 81557, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 81512, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81667, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SHOOTS", 
+                            "indent": 1
+                        }, 
+                        "start": 81659, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81738, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 81684, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81798, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FIRES AGAIN", 
+                            "indent": 1
+                        }, 
+                        "start": 81785, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81829, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 81821, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81852, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "HOBBY ROOM -- NIGHT", 
+                            "heading": "HOBBY ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 81830, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81975, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 81970, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82080, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 82072, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82105, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "LAUNDRY ROOM -- NIGHT", 
+                            "heading": "LAUNDRY ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 82081, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82216, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 82211, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82313, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GUNSHOTS ECHO", 
+                            "indent": 1
+                        }, 
+                        "start": 82298, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82338, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- EXT", 
+                            "indent": 1
+                        }, 
+                        "start": 82330, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82365, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "COMMAND STREET -- NIGHT", 
+                            "heading": "COMMAND STREET -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 82339, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82525, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 82476, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82706, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- RADIO VOICES", 
+                            "indent": 1
+                        }, 
+                        "start": 82655, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82874, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 82829, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83042, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 83034, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83065, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "CRAWLSPACE -- NIGHT", 
+                            "heading": "CRAWLSPACE -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 83043, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83211, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 83203, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83237, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "THE STAIRWELL -- NIGHT", 
+                            "heading": "THE STAIRWELL -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 83212, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83309, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 83301, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83336, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "THE CRAWLSPACE -- NIGHT", 
+                            "heading": "THE CRAWLSPACE -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 83310, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83381, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 83373, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83407, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "UPSTAIRS HALL -- NIGHT", 
+                            "heading": "UPSTAIRS HALL -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 83382, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83453, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 83445, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83478, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "THOMAS' ROOM -- NIGHT", 
+                            "heading": "THOMAS' ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 83454, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83615, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- EXT", 
+                            "indent": 1
+                        }, 
+                        "start": 83607, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83638, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "CUL-DE-SAC -- NIGHT", 
+                            "heading": "CUL-DE-SAC -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 83616, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83766, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 83761, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83840, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 83791, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 84043, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- MADDOX", 
+                            "indent": 1
+                        }, 
+                        "start": 83998, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 84190, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 84141, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 84392, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 84376, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARS", 
+                    "indent": 21
+                }, 
+                "start": 81456, 
+                "indent": 21
+            }, 
+            {
+                "stop": 84456, 
+                "in_lines": [
+                    {
+                        "stop": 84668, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 84619, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 84749, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "NOT", 
+                            "indent": 1
+                        }, 
+                        "start": 84732, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 84821, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "SMITH'S OFFICE -- NIGHT", 
+                            "heading": "SMITH'S OFFICE -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 84795, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 85032, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 84983, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 85227, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 85182, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTIN", 
+                    "indent": 21
+                }, 
+                "start": 84412, 
+                "indent": 21
+            }, 
+            {
+                "stop": 85327, 
+                "in_lines": [
+                    {
+                        "stop": 85556, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 85511, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 85747, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 85702, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 85922, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 85873, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 86106, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 86061, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 85283, 
+                "indent": 21
+            }, 
+            {
+                "stop": 86159, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 86115, 
+                "indent": 21
+            }, 
+            {
+                "stop": 86244, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 86204, 
+                "indent": 21
+            }, 
+            {
+                "stop": 86327, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 86287, 
+                "indent": 21
+            }, 
+            {
+                "stop": 86451, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 86411, 
+                "indent": 21
+            }, 
+            {
+                "stop": 86520, 
+                "in_lines": [
+                    {
+                        "stop": 86952, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 86894, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 86480, 
+                "indent": 21
+            }, 
+            {
+                "stop": 87086, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 87042, 
+                "indent": 21
+            }, 
+            {
+                "stop": 87158, 
+                "in_lines": [
+                    {
+                        "stop": 87263, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 87218, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 87118, 
+                "indent": 21
+            }, 
+            {
+                "stop": 87332, 
+                "in_lines": [
+                    {
+                        "stop": 87598, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 87544, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 87292, 
+                "indent": 21
+            }, 
+            {
+                "stop": 87698, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTIN", 
+                    "indent": 21
+                }, 
+                "start": 87658, 
+                "indent": 21
+            }, 
+            {
+                "stop": 87797, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 87757, 
+                "indent": 21
+            }, 
+            {
+                "stop": 87936, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTIN", 
+                    "indent": 21
+                }, 
+                "start": 87892, 
+                "indent": 21
+            }, 
+            {
+                "stop": 88074, 
+                "in_lines": [
+                    {
+                        "stop": 88256, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- LOUISE'S VOICE", 
+                            "indent": 1
+                        }, 
+                        "start": 88203, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 88030, 
+                "indent": 21
+            }, 
+            {
+                "stop": 88314, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 88270, 
+                "indent": 21
+            }, 
+            {
+                "stop": 88407, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LOUISE'S VOICE", 
+                    "indent": 21
+                }, 
+                "start": 88359, 
+                "indent": 21
+            }, 
+            {
+                "stop": 88513, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 88473, 
+                "indent": 21
+            }, 
+            {
+                "stop": 88588, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LOUISE'S VOICE", 
+                    "indent": 21
+                }, 
+                "start": 88540, 
+                "indent": 21
+            }, 
+            {
+                "stop": 88648, 
+                "in_lines": [
+                    {
+                        "stop": 88826, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 88818, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 88854, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "WALTER'S OFFICE -- NIGHT", 
+                            "heading": "WALTER'S OFFICE -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 88827, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 89056, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- KEVIN", 
+                            "indent": 1
+                        }, 
+                        "start": 89012, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 89258, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- DENNIS", 
+                            "indent": 1
+                        }, 
+                        "start": 89213, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 88608, 
+                "indent": 21
+            }, 
+            {
+                "stop": 89320, 
+                "in_lines": [
+                    {
+                        "stop": 89425, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- JENNIFER", 
+                            "indent": 1
+                        }, 
+                        "start": 89378, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARS", 
+                    "indent": 21
+                }, 
+                "start": 89282, 
+                "indent": 21
+            }, 
+            {
+                "stop": 89488, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 89448, 
+                "indent": 21
+            }, 
+            {
+                "stop": 89560, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "JENNIFER", 
+                    "indent": 21
+                }, 
+                "start": 89518, 
+                "indent": 21
+            }, 
+            {
+                "stop": 89639, 
+                "in_lines": [
+                    {
+                        "stop": 89859, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 89851, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 89884, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "THOMAS' ROOM -- NIGHT", 
+                            "heading": "THOMAS' ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 89860, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 90297, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 90289, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 90312, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "CLOSE", 
+                                "CU": "CLOSE"
+                            }
+                        }, 
+                        "start": 90298, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 90324, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "-- NIGHT", 
+                            "heading": "-- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 90313, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 90477, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MRS", 
+                            "indent": 1
+                        }, 
+                        "start": 90473, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 90505, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "PENA'S BATHROOM -- NIGHT", 
+                            "heading": "PENA'S BATHROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 90478, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 90688, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- LOUISE'S VOICE", 
+                            "indent": 1
+                        }, 
+                        "start": 90635, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 90794, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 90749, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DENNIS", 
+                    "indent": 21
+                }, 
+                "start": 89595, 
+                "indent": 21
+            }, 
+            {
+                "stop": 90872, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LOUISE'S VOICE", 
+                    "indent": 21
+                }, 
+                "start": 90824, 
+                "indent": 21
+            }, 
+            {
+                "stop": 90975, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 90935, 
+                "indent": 21
+            }, 
+            {
+                "stop": 91057, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LOUISE'S VOICE", 
+                    "indent": 21
+                }, 
+                "start": 91005, 
+                "indent": 21
+            }, 
+            {
+                "stop": 91181, 
+                "in_lines": [
+                    {
+                        "stop": 91292, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 91287, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 91398, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 91344, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 91141, 
+                "indent": 21
+            }, 
+            {
+                "stop": 91469, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LOUISE", 
+                    "indent": 21
+                }, 
+                "start": 91429, 
+                "indent": 21
+            }, 
+            {
+                "stop": 91621, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TALLEY", 
+                    "indent": 21
+                }, 
+                "start": 91581, 
+                "indent": 21
+            }, 
+            {
+                "stop": 91735, 
+                "in_lines": [
+                    {
+                        "stop": 91946, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 91901, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 92005, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- INT", 
+                            "indent": 1
+                        }, 
+                        "start": 91997, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 92010, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MRS", 
+                            "indent": 1
+                        }, 
+                        "start": 92006, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 92041, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "PENA'S FAMILY ROOM -- NIGHT", 
+                            "heading": "PENA'S FAMILY ROOM -- NIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 92011, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 92133, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY", 
+                            "indent": 1
+                        }, 
+                        "start": 92084, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 92358, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- TALLEY, (CONT'D)", 
+                            "indent": 1, 
+                            "modifier": [
+                                "(", 
+                                "CONT'D", 
+                                ")"
+                            ]
+                        }, 
+                        "start": 92300, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LOUISE", 
+                    "indent": 21
+                }, 
+                "start": 91695, 
+                "indent": 21
+            }, 
+            {
+                "stop": 92489, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "THOMAS", 
+                    "indent": 21
+                }, 
+                "start": 92448, 
+                "indent": 21
+            }
+        ]
+    ]
+]

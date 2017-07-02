@@ -1,0 +1,2647 @@
+[
+    [
+        {
+            "stop": 32000, 
+            "in_lines": [
+                {
+                    "stop": 32059, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "CIA", 
+                        "indent": 1
+                    }, 
+                    "start": 32054, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 32195, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "--", 
+                        "indent": 1
+                    }, 
+                    "start": 32191, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 32434, 
+                    "raw_text": ".  After that you rode shotgun for the CIA in some place like El Salvador or Afghanistan, a real mercenary. (beat) Only now -- now you're like the rest of us, it's a very competitive market since the end of the cold war.  There's a lot of hired guns out here, and not nearly enough work to go around.", 
+                    "start": 32000, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 32798, 
+                    "raw_text": "That's right: there's not hardly enough work these days, nothing that pays the big money, anyhow.  Then along comes this job, paying so much goddamned money I couldn't afford not to take it.  Somebody's paying through the nose for this.", 
+                    "start": 32480, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 32967, 
+                    "raw_text": "They certainly are.  Whatever it is we're going to steal, it must be quite something.", 
+                    "start": 32848, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 33470, 
+                    "raw_text": "Whatever it is it must be goddamned priceless. And on that thought we - CUT TO: EXT. A SIDE STREET - NIGHT The Fiat pulls up to the curb and Vincent and Sam get out. Vincent leads Sam around a corner and they come to - AN EXQUISITE PARK, a small, perfectly manicured place -- a kind of mini-Luxembourg Gardens in the middle of nowhere. When Sam sees the park, he draws an involuntary breath.", 
+                    "start": 33013, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 33539, 
+                    "raw_text": "Lovely, isn't it?", 
+                    "start": 33520, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 34096, 
+                    "raw_text": "They'd have to keep something like this under lock and key in New York, and it would still get fucked up. The two men enter the park, which is, indeed, open to the public.  Inside, sitting on a bench in the back, almost invisible from the street, we see - FRANCOIS, a stubble-faced tough with a stained shirt and bad teeth.  Vincent and Sam draw near.  This next conversation between Francois and Vincent is in FRENCH WITH ENGLISH SUBTITLES.", 
+                    "start": 33585, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 34300, 
+                    "raw_text": "That's good right where you are, Vincent. Vincent signals for Sam to stop.  Both Vincent and Sam are still several feet away from Francois.", 
+                    "start": 34147, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 34367, 
+                    "raw_text": "Do you have it?", 
+                    "start": 34350, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 34503, 
+                    "raw_text": "Not so fast. (nods slightly to Sam) Who's that?", 
+                    "start": 34418, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 34568, 
+                    "raw_text": "He's company.", 
+                    "start": 34553, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 34681, 
+                    "raw_text": "(as if he recognizes Sam) Bad company...", 
+                    "start": 34623, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 34750, 
+                    "raw_text": "What do you mean?", 
+                    "start": 34731, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 35372, 
+                    "raw_text": "He's a cop, Vincent, he's French and he's a cop and you better shoot him in the fucking head right now! Sam hasn't said a word -- he doesn't seem to understand what's been said, but he has noted the urgency with which Francois spoke.  Now - We HOLD FOR A BEAT.  Neither Vincent nor Francois pulls out a piece to shoot Sam.  Instead they wait to see if Sam will respond in any way to what Francois said.  The conversation now switches to ENGLISH, which (it turns out) Francois speaks fairly well.", 
+                    "start": 34801, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 35469, 
+                    "raw_text": "(to Vincent) What's going on?", 
+                    "start": 35422, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 35552, 
+                    "raw_text": "I just wanted to see something.", 
+                    "start": 35519, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 35769, 
+                    "raw_text": "(that edge creeping into his voice) See what? Vincent isn't going to answer, but the overbearing Francois chimes in.", 
+                    "start": 35602, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 35903, 
+                    "raw_text": "He wanted to see how you reacted when I said that you were a cop.", 
+                    "start": 35820, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36020, 
+                    "raw_text": "(he can't believe this) You told him I was a cop?", 
+                    "start": 35953, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36095, 
+                    "raw_text": "He asked me to say it.", 
+                    "start": 36071, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36235, 
+                    "raw_text": "(looking at Vincent, truly pissed) He asked you to?", 
+                    "start": 36145, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36304, 
+                    "raw_text": "I needed to know.", 
+                    "start": 36285, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36392, 
+                    "raw_text": "You need to know a lot of shit, Vincent.", 
+                    "start": 36350, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36751, 
+                    "raw_text": "(to Vincent, in subtitled French) Are you ready? Francois's French words give Sam pause -- he's wondering what's being said, as - Vincent moves towards Francois, leaving Sam several steps away.  The conversation is again in SUBTITLED FRENCH.", 
+                    "start": 36447, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36861, 
+                    "raw_text": "(taking out an envelope) Here's yours.", 
+                    "start": 36805, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 36944, 
+                    "raw_text": "There's been a slight problem.", 
+                    "start": 36912, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 37271, 
+                    "raw_text": "(immediately tensing) What's that? Francois gives the slightest of nods, indicating that Vincent should look towards a place perhaps thirty yards away - A COPSE OF TREES, where we see a SNIPER pointed a telescopic rifle at Vincent.", 
+                    "start": 36998, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 37731, 
+                    "raw_text": "(still in subtitled French) If you say a word in English, Vincent, my friend with the high powered sporting rifle will shoot you in the throat. Sorry to screw you over like this, but the information you want might get me killed if I give it to you, and that's a price I'm not willing to pay.", 
+                    "start": 37326, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 37852, 
+                    "raw_text": "(in French) I take it you still want the money...", 
+                    "start": 37785, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 39640, 
+                    "raw_text": "(in English, with a grin) Of course. SAM'S POV: Looking at Vincent and Francois. The men are talking, and from here we can't really hear them speak.  All Sam can see is an earnest Vincent listening to Francois talk, almost as if Francois is giving Vincent instructions.  Now - Vincent reaches into his pocket, reaching for the envelope of cash he's carrying.  As he hands the money to Francois, Vincent uses his free hand to pull out his gun while - Sam already has his gun out -- somehow he figured out what was going on -- and now Francois looks on in stunned disbelief as - Sam fires a single shot, hitting Francois in the shoulder, driving him away from - Vincent, who now squeezes off several rapid fire shots at the sniper, while - Francois, bleeding but still very much alive, now has his piece free just as - The Sniper, his gun firing wildly into the air, falls to the ground, shot dead by Vincent, and now - Francois is drawing a bead on Vincent when - Sam hits Francois with a fusillade of bullets in the chest and now - A SINGLE SPENT BULLED CASING flies through the air in SLOW MOTION and lands on the ground, spinning around until it comes to a halt and - A HEAVY SILENCE FALLS, as the last echo of the last gunshot finally dies.  Vincent and Sam look at one another, see that they're still alive, and then look back at - The two men they've shot.  Francois isn't quite dead.  Blood bubbles from his lips as Vincent leans over him.  Again, they speak in SUBTITLED FRENCH VINCENT Where's my information?", 
+                    "start": 37907, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 39786, 
+                    "raw_text": "(with a grim smile, pointing to his head) In here...", 
+                    "start": 39695, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 40459, 
+                    "raw_text": "Then you better find it in your heart to tell me, Francois, because while your death is inevitable, it still isn't decided how painful it's going to be. A LONG ANGLE - Vincent whispers in Francois's ear, whose grin blanches as he realizes Vincent means to hurt him.  Francois whispers something back and then - BANG.  Vincent shoots Francois in the head, killing him instantly.  Then Vincent bends down and retrieves the envelope of money which Francois had tucked inside his shirt.  As Vincent does this, Sam comes up from behind.", 
+                    "start": 39836, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 40757, 
+                    "raw_text": "Now would be a good time to get the fuck out of here. INT. THE FIAT - LATER/NIGHT The two men drive in silence for a moment.  Vincent lights a cigarette and offers one to Sam, who refuses.  Finally, Sam speaks.", 
+                    "start": 40505, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 40877, 
+                    "raw_text": "You know, what you pulled back there, that was bullshit.", 
+                    "start": 40803, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 41410, 
+                    "raw_text": "I needed to see if you were a cop. (defensively) I'm a popular man with the police, Sam, and whenever they try to catch me they always do it with an inside guy -- some man on some job who seems more trustworthy than all the others put together.  And that's the guy you have to watch out for. (beat) I hate cops...", 
+                    "start": 40927, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 41611, 
+                    "raw_text": "(insulted that Vincent would even consider it) Well I ain't a cop. A BEAT, the two men driving in silence.", 
+                    "start": 41460, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 41680, 
+                    "raw_text": "How did you know?", 
+                    "start": 41661, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 41738, 
+                    "raw_text": "Know what?", 
+                    "start": 41726, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 41825, 
+                    "raw_text": "That there was a gun pointed at me.", 
+                    "start": 41788, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 42054, 
+                    "raw_text": "I saw you look off when Francois nodded his head.  I figured he wasn't pointing out a particularly rare shrub, and the rest was easy.", 
+                    "start": 41871, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 42222, 
+                    "raw_text": "But how did you know I would have the presence of mind to pull my weapon when I did?", 
+                    "start": 42104, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 42810, 
+                    "raw_text": "(as if it's obvious) Because that's what I would have done... CUT TO: EXT. AN APARTMENT HOUSE - A LITTLE LATER/NIGHT Vincent's Fiat is parked at the curb in front of this apartment house.  Vincent and Sam exit the car and move towards the house -- a silence hanging between them.  Right before they go into the house, Vincent takes out the envelope full of cash that was supposed to have been for Francois.  He thinks for a moment and then hands the whole envelope to Sam.", 
+                    "start": 42272, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 43170, 
+                    "raw_text": "You saved my life back there in the park. I know this doesn't begin to make it right between us... Vincent's voice trails off -- he doesn't know what to say. Sam takes the money out of the envelope -- half he keeps for himself, the other he gives to Vincent.", 
+                    "start": 42860, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 43611, 
+                    "raw_text": "What I did back in the park I did because we're working together -- we're on the same team. (holding up the money) This is business -- this is work.  We did it together, we share the spoils, even split. Sam opens the door to the house, but Vincent has one last thing to say to him.", 
+                    "start": 43216, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 43793, 
+                    "raw_text": "I owe you a heavy debt. Sam almost smiles cynically at this: debts of honor don't seem to be something he believes in.", 
+                    "start": 43661, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 43950, 
+                    "raw_text": "Whatever you say. They enter the house and the door closes behind them.  A second later we hear -", 
+                    "start": 43839, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 44228, 
+                    "raw_text": "What'd you do with the money? INT. THE HOUSE - A LITTLE LATER Vincent and Sam sit with Deirdre in a room, alone.  They've told her about the park, and she seems a little pissed about all of this.", 
+                    "start": 44007, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 44293, 
+                    "raw_text": "We kept it...", 
+                    "start": 44278, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 44398, 
+                    "raw_text": "(a little annoyed) Is that right?", 
+                    "start": 44347, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 44459, 
+                    "raw_text": "Hazard pay...", 
+                    "start": 44444, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 44751, 
+                    "raw_text": "(with an exhalation of disgust) The two of you were supposed to go to a simple meet and come back with a simple piece of information, and instead you went to fucking war...", 
+                    "start": 44513, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 45159, 
+                    "raw_text": "We weren't real thrilled about it either... Deirdre shakes her head in disgust and rises.  We FOLLOW HER INTO - AN ADJOINING ROOM - Where Larry, Swede and Gregor are waiting.  They look up expectantly at Deirdre, who crosses through the room without stopping -- she's really pissed about this turn of events.", 
+                    "start": 44797, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 45228, 
+                    "raw_text": "So what's the deal?", 
+                    "start": 45207, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 45589, 
+                    "raw_text": "(barely stopping, very snappish) The deal?  The deal is we leave for Nice at first light. And she exits, leaving these three men behind along with Sam and Vincent, who have entered from the other room.  larry looks at the two of them.", 
+                    "start": 45282, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 46412, 
+                    "raw_text": "What'd you guys do? EXT. OUTSIDE THE HOUSE - LATER THAT NIGHT A CAR sits, cloaked in shadows.  Inside sits our friend, the WATCHER.  Once again we see the Watcher's knife -- once again he manicures his nails with it, almost delicately, as he watches the House.  It's dark -- a single light glows behind a window on the third floor.  Sam's room. INT. SAM'S ROOM - SAME TIME Sam has pushed all the furniture aside to make enough room to do a martial arts form.  Right now he's frozen, one leg extended in a kick, balancing on the other leg.  Now - A KNOCK at his door -- seconds later, it opens.  Deirdre stands there, watching as Sam holds his position for a BEAT more, and then retracts his leg.", 
+                    "start": 45637, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 46588, 
+                    "raw_text": "I feel as if I've wandered onto the set of Enter The Dragon.  Could you teach me to do that?", 
+                    "start": 46462, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 46716, 
+                    "raw_text": "I didn't think to see you again tonight. You were pretty pissed.", 
+                    "start": 46634, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 46779, 
+                    "raw_text": "I still am.", 
+                    "start": 46766, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 46841, 
+                    "raw_text": "Is that right?", 
+                    "start": 46825, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 48438, 
+                    "raw_text": "That's right. Deirdre spings at Sam, throwing martial arts combinations at him: punch followed by kick, elbow strike followed by palm thrust.  Sam parries her blows as she drives him across the floor until he's got his back to the wall.  Their movements are controlled, but powerful, and there's something almost flirtatious about the whole thing.  Now - Deirdre throws one last punch which Sam ducks.  He slips behind her and suddenly they square off in earnest.  The previous martial arts stuff was a kind of choreographed exercise, but now - They spar for real -- they never hit one another, but they come awfully close, hands and feet whizzing through the air, throwing rapid-fire combinations and techniques.  They're not angry, but they're not kidding, either.  Finally - Deirdre feints a punch that distracts Sam's attention from - The KICK she throws right behind her punch, and she smiles as - WHUMP!  Sam wasn't distracted at all -- he drops to the ground beneath her kick and catches her standing leg with a sweep which takes her to the ground and now - She's trapped beneath him.  The two of them are breathing hard from the exertion, their faces close to one another, shining with sweat and excitement and - We've gone from flirting to an almost primal seduction, and with their faces only inches apart Deirdre leans in to kiss Sam, and he's about to meet her half way when he pulls back.", 
+                    "start": 46891, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 48790, 
+                    "raw_text": "Part of me says I should just look at this as a perk.  You know, a bonus.  But then I remember you're you -- Deirdre who used to belong to the IRA -- and it occurs to me that deceit and subterfuge come very naturally to you.", 
+                    "start": 48484, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 48916, 
+                    "raw_text": "(kissing him very lightly) Nobody's saying they don't.", 
+                    "start": 48844, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 49208, 
+                    "raw_text": "(returning the kiss, just as lightly) And when I consider that, I have to wonder if you don't have some ulterior motive for being here, with me, right now.", 
+                    "start": 48966, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 49818, 
+                    "raw_text": "I probably do. (pulling him close) But for the time being, I'm willing to forget about it... They finally kiss, slowly and then building in intensity, and as they start to make love the CAMERA MOVES UP - THROUGH THE BUILDING, floor by floor, until we've reached - EXT. A ROOFTOP GARDEN - MEANWHILE Deirdre and Sam are not the only ones indulging in extracurricular activities.  Up here in this rooftop garden we find Swede and Gregor talking in hushed tones.", 
+                    "start": 49258, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 49989, 
+                    "raw_text": "I would imagine that the great satisfaction in all of this will be killing the American.", 
+                    "start": 49867, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50274, 
+                    "raw_text": "(we know this isn't true) I hadn't thought about it.  Understand me, Gregor -- I take no pleasure in killing.  It doesn't bother me one bit, but I don't get off on it.", 
+                    "start": 50041, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50355, 
+                    "raw_text": "A means to an end, is that it?", 
+                    "start": 50323, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50415, 
+                    "raw_text": "That's it.", 
+                    "start": 50403, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50529, 
+                    "raw_text": "(he rises to leave) Then I guess we're set.", 
+                    "start": 50468, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50606, 
+                    "raw_text": "There is one other thing...", 
+                    "start": 50577, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50811, 
+                    "raw_text": "What's that? Suddenly Swede pulls Gregor down to the rooftop with a harsh THUD.  Within seconds he has his gun pressed to Gregor's head.", 
+                    "start": 50655, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50881, 
+                    "raw_text": "What are you doing?", 
+                    "start": 50860, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 50948, 
+                    "raw_text": "Don't cross me...", 
+                    "start": 50929, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 51025, 
+                    "raw_text": "Nobody's going to do that!", 
+                    "start": 50997, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 51082, 
+                    "raw_text": "Really?", 
+                    "start": 51073, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 51235, 
+                    "raw_text": "(truly frightened) I need you, Swede, I can't do this without you!", 
+                    "start": 51135, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 51438, 
+                    "raw_text": "(beat, then he puts his gun away) I just wanted to make sure you knew who you were dealing with.", 
+                    "start": 51287, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 51585, 
+                    "raw_text": "I do, I do... Swede is now on his feet, walking away, back into the apartment house.", 
+                    "start": 51487, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 52246, 
+                    "raw_text": "(this is almost to himself) Just remember it, then. And he's gone.  And as soon as he is, we notice something strange about Gregor: he's not the least bit scared -- he laughs a little low laugh as we - DISSOLVE TO: EXT. THE HOUSE - DAWN GRAY LIGHT seeps in from the horizon, while inside in - INT. SAM'S ROOM - SAME TIME Deirdre is pulling her dress over her head.  Sam seems to be sleeping in his bed as she moves like a cat towards the door when - Sam's HAND reaches out, gently yet firmly, and takes her by the arm.", 
+                    "start": 51637, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 52427, 
+                    "raw_text": "No goodbye? ANOTHER ANGLE - Sam is somehow sitting up, wide awake -- looking at Deirdre with a penetrating glance.", 
+                    "start": 52299, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 52595, 
+                    "raw_text": "Look, Sam, don't take it the wrong way when I tell you we won't be doing this again.", 
+                    "start": 52477, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 52709, 
+                    "raw_text": "You don't have to explain yourself to me, Deirdre.", 
+                    "start": 52641, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 53338, 
+                    "raw_text": "(almost surprised by this) I know I don't have to, Sam, it's just that, for once, I want to.  when I was a - (almost with a sneer) Patriot, it was a given I'd sleep with any man it was deemed necessary for me to sleep with.  You know: any man who needed setting up.  Sometimes so we might blackmail him, sometimes so he could be killed. (a quick beat) Sometimes so I could kill him myself.", 
+                    "start": 52763, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "SEAL", 
+                "indent": 15
+            }, 
+            "start": 31981, 
+            "indent": 15
+        }, 
+        [
+            {
+                "stop": 32480, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 32434, 
+                "indent": 26
+            }, 
+            {
+                "stop": 32848, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 32798, 
+                "indent": 26
+            }, 
+            {
+                "stop": 33013, 
+                "in_lines": [
+                    {
+                        "stop": 33119, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CUT TO", 
+                            "indent": 5
+                        }, 
+                        "start": 33108, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 33160, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "NIGHT", 
+                            "location": [
+                                "A SIDE STREET"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5, 
+                            "heading": "EXT."
+                        }, 
+                        "start": 33122, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 33303, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "AN EXQUISITE PARK,", 
+                            "indent": 5
+                        }, 
+                        "start": 33279, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 33341, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 33337, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 32967, 
+                "indent": 26
+            }, 
+            {
+                "stop": 33520, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 33470, 
+                "indent": 26
+            }, 
+            {
+                "stop": 33585, 
+                "in_lines": [
+                    {
+                        "stop": 33901, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FRANCOIS,", 
+                            "indent": 1
+                        }, 
+                        "start": 33890, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 34093, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FRENCH WITH ENGLISH SUBTITLES", 
+                            "indent": 1
+                        }, 
+                        "start": 34063, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 33539, 
+                "indent": 26
+            }, 
+            {
+                "stop": 34147, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 34096, 
+                "indent": 26
+            }, 
+            {
+                "stop": 34350, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 34300, 
+                "indent": 26
+            }, 
+            {
+                "stop": 34418, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 34367, 
+                "indent": 26
+            }, 
+            {
+                "stop": 34553, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 34503, 
+                "indent": 26
+            }, 
+            {
+                "stop": 34623, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 34568, 
+                "indent": 26
+            }, 
+            {
+                "stop": 34731, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 34681, 
+                "indent": 26
+            }, 
+            {
+                "stop": 34801, 
+                "in_lines": [
+                    {
+                        "stop": 34969, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 34965, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 35110, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "HOLD FOR A BEAT", 
+                            "indent": 1
+                        }, 
+                        "start": 35094, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 35315, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "ENGLISH,", 
+                            "indent": 1
+                        }, 
+                        "start": 35305, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 34750, 
+                "indent": 26
+            }, 
+            {
+                "stop": 35422, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 35372, 
+                "indent": 26
+            }, 
+            {
+                "stop": 35519, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 35469, 
+                "indent": 26
+            }, 
+            {
+                "stop": 35602, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 35552, 
+                "indent": 26
+            }, 
+            {
+                "stop": 35820, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 35769, 
+                "indent": 26
+            }, 
+            {
+                "stop": 35953, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 35903, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36071, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 36020, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36145, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 36095, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36285, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 36235, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36350, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 36304, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36447, 
+                "in_lines": [
+                    {
+                        "stop": 36581, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 36577, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 36748, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SUBTITLED FRENCH", 
+                            "indent": 5
+                        }, 
+                        "start": 36727, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 36392, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36805, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 36751, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36912, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 36861, 
+                "indent": 26
+            }, 
+            {
+                "stop": 36998, 
+                "in_lines": [
+                    {
+                        "stop": 37203, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "A COPSE OF TREES,", 
+                            "indent": 5
+                        }, 
+                        "start": 37180, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 37225, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SNIPER", 
+                            "indent": 1
+                        }, 
+                        "start": 37217, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 36944, 
+                "indent": 26
+            }, 
+            {
+                "stop": 37326, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 37271, 
+                "indent": 26
+            }, 
+            {
+                "stop": 37785, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 37731, 
+                "indent": 26
+            }, 
+            {
+                "stop": 37907, 
+                "in_lines": [
+                    {
+                        "stop": 37975, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "POV", 
+                                "pov": "POV"
+                            }, 
+                            "indent": 5, 
+                            "shot type": {
+                                "shot": "POV", 
+                                "pov": "POV"
+                            }
+                        }, 
+                        "start": 37961, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 38452, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 38448, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 38502, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 38498, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 39098, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "A SINGLE SPENT BULLED CASING", 
+                            "indent": 1
+                        }, 
+                        "start": 39062, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 39135, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SLOW MOTION", 
+                            "indent": 1
+                        }, 
+                        "start": 39122, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 39242, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "A HEAVY SILENCE FALLS,", 
+                            "indent": 1
+                        }, 
+                        "start": 39212, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 39615, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SUBTITLED FRENCH VINCENT", 
+                            "indent": 5
+                        }, 
+                        "start": 39542, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 37852, 
+                "indent": 26
+            }, 
+            {
+                "stop": 39695, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "FRANCOIS", 
+                    "indent": 26
+                }, 
+                "start": 39640, 
+                "indent": 26
+            }, 
+            {
+                "stop": 39836, 
+                "in_lines": [
+                    {
+                        "stop": 40056, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "ANGLE", 
+                                "angle": "ANGLE"
+                            }, 
+                            "indent": 5, 
+                            "shot type": {
+                                "shot": "ANGLE", 
+                                "angle": "ANGLE"
+                            }
+                        }, 
+                        "start": 40038, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 40217, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "BANG", 
+                            "indent": 1
+                        }, 
+                        "start": 40212, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 39786, 
+                "indent": 26
+            }, 
+            {
+                "stop": 40505, 
+                "in_lines": [
+                    {
+                        "stop": 40615, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "LATER/NIGHT", 
+                            "location": [
+                                "THE FIAT"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5, 
+                            "heading": "INT."
+                        }, 
+                        "start": 40576, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 40459, 
+                "indent": 26
+            }, 
+            {
+                "stop": 40803, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 40757, 
+                "indent": 26
+            }, 
+            {
+                "stop": 40927, 
+                "in_lines": [
+                    {
+                        "stop": 41158, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 41154, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 40877, 
+                "indent": 26
+            }, 
+            {
+                "stop": 41460, 
+                "in_lines": [
+                    {
+                        "stop": 41578, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "A BEAT,", 
+                            "indent": 5
+                        }, 
+                        "start": 41565, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 41410, 
+                "indent": 26
+            }, 
+            {
+                "stop": 41661, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 41611, 
+                "indent": 26
+            }, 
+            {
+                "stop": 41726, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 41680, 
+                "indent": 26
+            }, 
+            {
+                "stop": 41788, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 41738, 
+                "indent": 26
+            }, 
+            {
+                "stop": 41871, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 41825, 
+                "indent": 26
+            }, 
+            {
+                "stop": 42104, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 42054, 
+                "indent": 26
+            }, 
+            {
+                "stop": 42272, 
+                "in_lines": [
+                    {
+                        "stop": 42362, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CUT TO", 
+                            "indent": 5
+                        }, 
+                        "start": 42351, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 42423, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "A LITTLE LATER/NIGHT", 
+                            "location": [
+                                "AN APARTMENT HOUSE"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5, 
+                            "heading": "EXT."
+                        }, 
+                        "start": 42365, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 42566, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 42562, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 42222, 
+                "indent": 26
+            }, 
+            {
+                "stop": 42860, 
+                "in_lines": [
+                    {
+                        "stop": 43027, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 43023, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 43105, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 43101, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 42810, 
+                "indent": 26
+            }, 
+            {
+                "stop": 43216, 
+                "in_lines": [
+                    {
+                        "stop": 43300, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 43296, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 43419, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 43415, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 43170, 
+                "indent": 26
+            }, 
+            {
+                "stop": 43661, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 43611, 
+                "indent": 26
+            }, 
+            {
+                "stop": 43839, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 43793, 
+                "indent": 26
+            }, 
+            {
+                "stop": 43984, 
+                "in_lines": [
+                    {
+                        "stop": 44081, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "A LITTLE LATER", 
+                            "location": [
+                                "THE HOUSE"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5, 
+                            "heading": "INT."
+                        }, 
+                        "start": 44038, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 43992, 
+                        "raw_text": "(V.O.)", 
+                        "start": 43984, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 43950, 
+                "indent": 26
+            }, 
+            {
+                "stop": 44278, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "VINCENT", 
+                    "indent": 26
+                }, 
+                "start": 44228, 
+                "indent": 26
+            }, 
+            {
+                "stop": 44347, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 44293, 
+                "indent": 26
+            }, 
+            {
+                "stop": 44444, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 44398, 
+                "indent": 26
+            }, 
+            {
+                "stop": 44513, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 44459, 
+                "indent": 26
+            }, 
+            {
+                "stop": 44797, 
+                "in_lines": [
+                    {
+                        "stop": 44935, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FOLLOW HER INTO", 
+                            "indent": 1
+                        }, 
+                        "start": 44912, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 44961, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "AN ADJOINING ROOM", 
+                            "indent": 5
+                        }, 
+                        "start": 44938, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 45111, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 45107, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 44751, 
+                "indent": 26
+            }, 
+            {
+                "stop": 45207, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LARRY", 
+                    "indent": 26
+                }, 
+                "start": 45159, 
+                "indent": 26
+            }, 
+            {
+                "stop": 45282, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 45228, 
+                "indent": 26
+            }, 
+            {
+                "stop": 45637, 
+                "in_lines": [
+                    {
+                        "stop": 45717, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "EXT.", 
+                            "location": [
+                                "OUTSIDE THE HOUSE", 
+                                "LATER THAT NIGHT A CAR"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5
+                        }, 
+                        "start": 45658, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 45785, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WATCHER", 
+                            "indent": 5
+                        }, 
+                        "start": 45773, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 45829, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 45825, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 45942, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 45938, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 46058, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "SAME TIME", 
+                            "location": [
+                                "SAM'S ROOM"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5, 
+                            "heading": "INT."
+                        }, 
+                        "start": 46019, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 46257, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "A KNOCK", 
+                            "indent": 1
+                        }, 
+                        "start": 46242, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 46272, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 46268, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 46372, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "BEAT", 
+                            "indent": 1
+                        }, 
+                        "start": 46366, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "LARRY", 
+                    "indent": 26
+                }, 
+                "start": 45589, 
+                "indent": 26
+            }, 
+            {
+                "stop": 46462, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 46412, 
+                "indent": 26
+            }, 
+            {
+                "stop": 46634, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 46588, 
+                "indent": 26
+            }, 
+            {
+                "stop": 46766, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 46716, 
+                "indent": 26
+            }, 
+            {
+                "stop": 46825, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 46779, 
+                "indent": 26
+            }, 
+            {
+                "stop": 46891, 
+                "in_lines": [
+                    {
+                        "stop": 47518, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 47514, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 47829, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "KICK", 
+                            "indent": 1
+                        }, 
+                        "start": 47823, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 47895, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WHUMP", 
+                            "indent": 1
+                        }, 
+                        "start": 47889, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 47936, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 47932, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 46841, 
+                "indent": 26
+            }, 
+            {
+                "stop": 48484, 
+                "in_lines": [
+                    {
+                        "stop": 48625, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 48621, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 48682, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "IRA --", 
+                            "indent": 1
+                        }, 
+                        "start": 48674, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 48438, 
+                "indent": 26
+            }, 
+            {
+                "stop": 48844, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 48790, 
+                "indent": 26
+            }, 
+            {
+                "stop": 48966, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 48916, 
+                "indent": 26
+            }, 
+            {
+                "stop": 49258, 
+                "in_lines": [
+                    {
+                        "stop": 49530, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CAMERA MOVES UP", 
+                            "indent": 5
+                        }, 
+                        "start": 49509, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 49554, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THROUGH THE BUILDING,", 
+                            "indent": 1
+                        }, 
+                        "start": 49531, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 49644, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "EXT.", 
+                            "location": [
+                                "A ROOFTOP GARDEN", 
+                                "MEANWHILE"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5
+                        }, 
+                        "start": 49599, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 49208, 
+                "indent": 26
+            }, 
+            {
+                "stop": 49867, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 49818, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50041, 
+                "in_lines": [
+                    {
+                        "stop": 50152, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 50148, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SWEDE", 
+                    "indent": 26
+                }, 
+                "start": 49989, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50323, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 50274, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50403, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SWEDE", 
+                    "indent": 26
+                }, 
+                "start": 50355, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50468, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 50415, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50577, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SWEDE", 
+                    "indent": 26
+                }, 
+                "start": 50529, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50655, 
+                "in_lines": [
+                    {
+                        "stop": 50745, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THUD", 
+                            "indent": 5
+                        }, 
+                        "start": 50736, 
+                        "indent": 5
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 50606, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50860, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 50811, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50929, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SWEDE", 
+                    "indent": 26
+                }, 
+                "start": 50881, 
+                "indent": 26
+            }, 
+            {
+                "stop": 50997, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 50948, 
+                "indent": 26
+            }, 
+            {
+                "stop": 51073, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SWEDE", 
+                    "indent": 26
+                }, 
+                "start": 51025, 
+                "indent": 26
+            }, 
+            {
+                "stop": 51135, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 51082, 
+                "indent": 26
+            }, 
+            {
+                "stop": 51287, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SWEDE", 
+                    "indent": 26
+                }, 
+                "start": 51235, 
+                "indent": 26
+            }, 
+            {
+                "stop": 51487, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GREGOR", 
+                    "indent": 26
+                }, 
+                "start": 51438, 
+                "indent": 26
+            }, 
+            {
+                "stop": 51637, 
+                "in_lines": [
+                    {
+                        "stop": 51830, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 51826, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 51891, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DISSOLVE TO", 
+                            "indent": 1
+                        }, 
+                        "start": 51872, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 51938, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "EXT.", 
+                            "location": [
+                                "THE HOUSE", 
+                                "DAWN GRAY LIGHT"
+                            ], 
+                            "terior": "EXT.", 
+                            "indent": 5
+                        }, 
+                        "start": 51894, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 52023, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "SAME TIME", 
+                            "location": [
+                                "SAM'S ROOM"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 5, 
+                            "heading": "INT."
+                        }, 
+                        "start": 51984, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 52181, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "HAND", 
+                            "indent": 1
+                        }, 
+                        "start": 52175, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SWEDE", 
+                    "indent": 26
+                }, 
+                "start": 51585, 
+                "indent": 26
+            }, 
+            {
+                "stop": 52276, 
+                "in_lines": [
+                    {
+                        "stop": 52331, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "ANGLE", 
+                                "angle": "ANGLE"
+                            }, 
+                            "indent": 5, 
+                            "shot type": {
+                                "shot": "ANGLE", 
+                                "angle": "ANGLE"
+                            }
+                        }, 
+                        "start": 52312, 
+                        "indent": 5
+                    }, 
+                    {
+                        "stop": 52380, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 52370, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 52284, 
+                        "raw_text": "(O.S.)", 
+                        "start": 52276, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 52246, 
+                "indent": 26
+            }, 
+            {
+                "stop": 52477, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 52427, 
+                "indent": 26
+            }, 
+            {
+                "stop": 52641, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "SAM", 
+                    "indent": 26
+                }, 
+                "start": 52595, 
+                "indent": 26
+            }, 
+            {
+                "stop": 52763, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "DEIRDRE", 
+                    "indent": 26
+                }, 
+                "start": 52709, 
+                "indent": 26
+            }
+        ]
+    ]
+]

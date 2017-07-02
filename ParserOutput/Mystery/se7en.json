@@ -1,0 +1,134 @@
+[
+    [
+        {
+            "stop": 90797, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 90806, 
+                    "raw_text": "| |", 
+                    "start": 90797, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 90876, 
+                    "raw_text": "| |", 
+                    "start": 90867, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 91156, 
+                    "raw_text": "7 TERRACES OF                                /        | |                                 V The Avaricious  /         | |                                   and Prodigal   /__________| |", 
+                    "start": 90953, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "/____\\", 
+                "indent": 9
+            }, 
+            "start": 90782, 
+            "indent": 9
+        }, 
+        [
+            {
+                "stop": 90867, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "transition", 
+                "transition": null, 
+                "result": {
+                    "heading": "/", 
+                    "indent": 54
+                }, 
+                "start": 90806, 
+                "indent": 54
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 90911, 
+            "in_lines": [
+                {
+                    "stop": 90937, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "/_______", 
+                        "indent": 4
+                    }, 
+                    "start": 90925, 
+                    "indent": 4
+                }, 
+                {
+                    "stop": 91007, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "7 TERRACES OF /", 
+                        "indent": 7
+                    }, 
+                    "start": 90946, 
+                    "indent": 7
+                }, 
+                {
+                    "stop": 91077, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "/", 
+                        "indent": 2
+                    }, 
+                    "start": 91065, 
+                    "indent": 2
+                }, 
+                {
+                    "stop": 91147, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "/__________", 
+                        "indent": 3
+                    }, 
+                    "start": 91133, 
+                    "indent": 3
+                }
+            ], 
+            "dialogue": [
+                {
+                    "stop": 90946, 
+                    "raw_text": "The Gluttonous    /_______| |", 
+                    "start": 90911, 
+                    "name": "dialogue"
+                }
+            ], 
+            "direction": [], 
+            "name": "speaker", 
+            "transition": null, 
+            "result": {
+                "heading": "VI", 
+                "indent": 32
+            }, 
+            "start": 90876, 
+            "indent": 32
+        }, 
+        []
+    ]
+]

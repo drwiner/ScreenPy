@@ -1,0 +1,688 @@
+[
+    [
+        {
+            "stop": 80369, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 80638, 
+                    "raw_text": "but is the other one all right? Please tell me he is not dead too, or I will have lost everyone. Aramis goes on mumbling Latin mechanically, for the sake of the retreating guards.  The Man in the Iron Mask is desperate for someone to talk to.", 
+                    "start": 80369, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81035, 
+                    "raw_text": "... tore my Bible.  Or someone else did.  But it was all right.  \"Let the words of my mouth and the meditations of my heart be acceptable in Thy sight, Oh Lord our God and My Redeemer.\" Aramis has stopped talking, and stares transfixed at this sight of the prisoner, in the iron mask.", 
+                    "start": 80692, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81200, 
+                    "raw_text": "I'm sorry.  You're never seen me before.  I must frighten you. Aramis puts his finger to his lips.", 
+                    "start": 81088, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81482, 
+                    "raw_text": "What are you doing?  Why do you -- Aramis clamps his hand over the mouth hole, and whispers -- ARAMIS I am a friend, here to help you. Aramis hurriedly removes his robes, revealing the bundle.", 
+                    "start": 81253, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81546, 
+                    "raw_text": "What -- ?", 
+                    "start": 81535, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81616, 
+                    "raw_text": "It is an escape.  To freedom.", 
+                    "start": 81585, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81780, 
+                    "raw_text": "Freedom...? He says it as if the concept is beyond him.  Aramis undoes the bundle, revealing the limp body.", 
+                    "start": 81669, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 81866, 
+                    "raw_text": "Wh-- ?  He is dead!  Who is he?", 
+                    "start": 81833, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 82153, 
+                    "raw_text": "He is you. Aramis uncovers the head of the body.  It is covered in a mask, identical to the prisoner's. INT.  PRISON CORRIDOR - CELL The Guards are sharing a bottle of wine, when they hear -- ARAMIS Hey!  Hey!", 
+                    "start": 81905, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 82508, 
+                    "raw_text": "What now? INT.  CELL The guards enter to find the Man in the Iron Mask slumped on the floor.  Aramis, looking like the fat priest again, stands over him spouting Italian, as one GUARD translates -- GUARD He says he just fell stone dead as he was reading him the Mass.", 
+                    "start": 82191, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 82780, 
+                    "raw_text": "I never thought the bugger would last this long.  But how could he just keel over and -- Aramis rattles off more Italian, and suddenly the guard who understands it stops examining the body and backs off.", 
+                    "start": 82551, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 82900, 
+                    "raw_text": "He says the prisoner has the fever, just like the little priest does.", 
+                    "start": 82818, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 83063, 
+                    "raw_text": "Plague?  They brought plague in here?  Get him out of here.  Now! Aramis rattles off a protest in Italian.", 
+                    "start": 82943, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 83585, 
+                    "raw_text": "No, no last rites!  Get away! EXT.  PRISON - DAY Aramis climbs into the boat; as he sits down his belly stirs, but the guards don't see it -- they are using poles to push the boat away, into the sea. EXT.  THE COASTLINE - DAY Athos and Porthos stand as the boat reaches the shore, and tucks in among the rocks.  Sheltered from the view from the prison, Aramis steps from the boat and removes his robes. The prisoner dangles, tied wrist and ankle, from around Aramis' neck.", 
+                    "start": 83101, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 83841, 
+                    "raw_text": "My God... Athos, Porthos, and the others gawk at the sight of the Man in the Iron Mask, as Aramis loosens the ropes.  As they back away from him, he sees the sky.  Endless blue -- and bright. He shields his eyes.", 
+                    "start": 83623, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 84192, 
+                    "raw_text": "It's all right.  Take your time. Aramis helps him up, and turn him slowly around, to face... The fortress/prison, in the distance. THE PRISONER'S POV FROM WITHIN THE MASK:  A vast vista -- the sky, the sea, and the prison on the island in the middle of it all.  The prisoner falls to his knees, and weeps.", 
+                    "start": 83880, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 84609, 
+                    "raw_text": "Athos... He needs a gentle hand. Athos moves over hesitantly, and puts his hand on the shoulder of the Man in the Iron Mask, who holds his hands against the mask as if to further hide his shame. INT.  THE PRISON - DAY The guards are standing in the cell, looking down at the body now wearing the mask, the man they think was their prisoner. The guards are quiet, alone.", 
+                    "start": 84231, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 84678, 
+                    "raw_text": "You ever wonder who he was?", 
+                    "start": 84649, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 85149, 
+                    "raw_text": "No... Yes.  But I never asked -- and you better not either. They wrap the body, still in its mask, in a weighted sack. EXT.  PRISON - DAY The prison's WARDEN GENERAL stands at the wall of the fortress high above the sea and watches as his guards throw off the body, wrapped in canvas weighted with stones.  As the corpse makes a long fall and crashes into the sea, the Warden writes a message on a royal scroll:", 
+                    "start": 84718, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "--", 
+                "indent": 10
+            }, 
+            "start": 80356, 
+            "indent": 10
+        }, 
+        [
+            {
+                "stop": 80692, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MAN IN THE IRON MASK I", 
+                    "indent": 21
+                }, 
+                "start": 80638, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81088, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MAN IN THE IRON MASK", 
+                    "indent": 21
+                }, 
+                "start": 81035, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81253, 
+                "in_lines": [
+                    {
+                        "stop": 81289, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 81284, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 81389, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- ARAMIS", 
+                            "indent": 1
+                        }, 
+                        "start": 81345, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MAN IN THE IRON MASK", 
+                    "indent": 21
+                }, 
+                "start": 81200, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81535, 
+                "in_lines": [
+                    {
+                        "stop": 81543, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 81539, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MAN IN THE IRON MASK", 
+                    "indent": 21
+                }, 
+                "start": 81482, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81585, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ARAMIS", 
+                    "indent": 21
+                }, 
+                "start": 81546, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81669, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MAN IN THE IRON MASK", 
+                    "indent": 21
+                }, 
+                "start": 81616, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81833, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MAN IN THE IRON MASK", 
+                    "indent": 21
+                }, 
+                "start": 81780, 
+                "indent": 21
+            }, 
+            {
+                "stop": 81905, 
+                "in_lines": [
+                    {
+                        "stop": 82034, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PRISON CORRIDOR", 
+                            "indent": 2
+                        }, 
+                        "start": 82016, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 82042, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CELL", 
+                            "indent": 1
+                        }, 
+                        "start": 82035, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82141, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- ARAMIS", 
+                            "indent": 1
+                        }, 
+                        "start": 82097, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ARAMIS", 
+                    "indent": 21
+                }, 
+                "start": 81866, 
+                "indent": 21
+            }, 
+            {
+                "stop": 82191, 
+                "in_lines": [
+                    {
+                        "stop": 82214, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CELL", 
+                            "indent": 2
+                        }, 
+                        "start": 82206, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 82379, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GUARD", 
+                            "indent": 1
+                        }, 
+                        "start": 82372, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 82432, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "-- GUARD", 
+                            "indent": 1
+                        }, 
+                        "start": 82389, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GUARD", 
+                    "indent": 21
+                }, 
+                "start": 82153, 
+                "indent": 21
+            }, 
+            {
+                "stop": 82551, 
+                "in_lines": [
+                    {
+                        "stop": 82663, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 82658, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HEAD GUARD", 
+                    "indent": 21
+                }, 
+                "start": 82508, 
+                "indent": 21
+            }, 
+            {
+                "stop": 82818, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GUARD", 
+                    "indent": 21
+                }, 
+                "start": 82780, 
+                "indent": 21
+            }, 
+            {
+                "stop": 82943, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "HEAD GUARD", 
+                    "indent": 21
+                }, 
+                "start": 82900, 
+                "indent": 21
+            }, 
+            {
+                "stop": 83101, 
+                "in_lines": [
+                    {
+                        "stop": 83152, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "heading": "PRISON", 
+                            "indent": 2
+                        }, 
+                        "start": 83136, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 83246, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 83242, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 83333, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "heading": "THE COASTLINE", 
+                            "indent": 2
+                        }, 
+                        "start": 83310, 
+                        "indent": 2
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GUARD", 
+                    "indent": 21
+                }, 
+                "start": 83063, 
+                "indent": 21
+            }, 
+            {
+                "stop": 83623, 
+                "in_lines": [
+                    {
+                        "stop": 83806, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 83802, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ATHOS", 
+                    "indent": 21
+                }, 
+                "start": 83585, 
+                "indent": 21
+            }, 
+            {
+                "stop": 83880, 
+                "in_lines": [
+                    {
+                        "stop": 84053, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "POV", 
+                                "pov": "POV"
+                            }, 
+                            "indent": 1, 
+                            "shot type": {
+                                "shot": "POV", 
+                                "pov": "POV"
+                            }
+                        }, 
+                        "start": 84017, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 84072, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 84068, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ARAMIS", 
+                    "indent": 21
+                }, 
+                "start": 83841, 
+                "indent": 21
+            }, 
+            {
+                "stop": 84231, 
+                "in_lines": [
+                    {
+                        "stop": 84454, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "heading": "THE PRISON", 
+                            "indent": 2
+                        }, 
+                        "start": 84434, 
+                        "indent": 2
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ARAMIS", 
+                    "indent": 21
+                }, 
+                "start": 84192, 
+                "indent": 21
+            }, 
+            {
+                "stop": 84649, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GUARD 1", 
+                    "indent": 21
+                }, 
+                "start": 84609, 
+                "indent": 21
+            }, 
+            {
+                "stop": 84718, 
+                "in_lines": [
+                    {
+                        "stop": 84751, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "--", 
+                            "indent": 1
+                        }, 
+                        "start": 84747, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 84870, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "DAY", 
+                            "heading": "PRISON", 
+                            "indent": 2
+                        }, 
+                        "start": 84854, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 84898, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WARDEN GENERAL", 
+                            "indent": 1
+                        }, 
+                        "start": 84882, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GUARD 2", 
+                    "indent": 21
+                }, 
+                "start": 84678, 
+                "indent": 21
+            }
+        ]
+    ]
+]

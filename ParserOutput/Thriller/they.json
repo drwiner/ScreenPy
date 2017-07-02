@@ -1,0 +1,3073 @@
+[
+    [
+        {
+            "stop": 378, 
+            "in_lines": [
+                {
+                    "stop": 382, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 379, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 392, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 385, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 418, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 406, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 435, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MS\"", 
+                        "indent": 1
+                    }, 
+                    "start": 431, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 457, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"\"", 
+                        "indent": 1
+                    }, 
+                    "start": 454, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 621, 
+                    "raw_text": ": 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: \"Comic Sans MS\"; mso-style-parent: \"\"; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\" <b>} </b>LI.MsoNormal {", 
+                    "start": 378, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 361, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 638, 
+            "in_lines": [
+                {
+                    "stop": 642, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 639, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 652, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 645, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 678, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 666, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 695, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MS\"", 
+                        "indent": 1
+                    }, 
+                    "start": 691, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 717, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"\"", 
+                        "indent": 1
+                    }, 
+                    "start": 714, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 882, 
+                    "raw_text": ": 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: \"Comic Sans MS\"; mso-style-parent: \"\"; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\" <b>} </b>DIV.MsoNormal {", 
+                    "start": 638, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 621, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 899, 
+            "in_lines": [
+                {
+                    "stop": 903, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 900, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 913, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 906, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 939, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 927, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 956, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MS\"", 
+                        "indent": 1
+                    }, 
+                    "start": 952, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 978, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"\"", 
+                        "indent": 1
+                    }, 
+                    "start": 975, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 1146, 
+                    "raw_text": ": 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: \"Comic Sans MS\"; mso-style-parent: \"\"; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\" <b>} </b><b>P.GENERAL { </b>", 
+                    "start": 899, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 882, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 1163, 
+            "in_lines": [
+                {
+                    "stop": 1167, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 1164, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1177, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 1170, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1184, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 1182, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1206, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 1194, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1378, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "GENERAL", 
+                        "indent": 1
+                    }, 
+                    "start": 1368, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 1409, 
+                    "raw_text": ": 12pt; MARGIN: 0in 1.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: GENERAL <b>} </b><b>LI.GENERAL { </b>", 
+                    "start": 1163, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 1146, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 1426, 
+            "in_lines": [
+                {
+                    "stop": 1430, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 1427, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1440, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 1433, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1447, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 1445, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1469, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 1457, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1641, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "GENERAL", 
+                        "indent": 1
+                    }, 
+                    "start": 1631, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 1673, 
+                    "raw_text": ": 12pt; MARGIN: 0in 1.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: GENERAL <b>} </b><b>DIV.GENERAL { </b>", 
+                    "start": 1426, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 1409, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 1690, 
+            "in_lines": [
+                {
+                    "stop": 1694, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 1691, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1704, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 1697, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1711, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 1709, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1733, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 1721, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1905, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "GENERAL", 
+                        "indent": 1
+                    }, 
+                    "start": 1895, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 1940, 
+                    "raw_text": ": 12pt; MARGIN: 0in 1.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: GENERAL <b>} </b><b>P.SCENEHEADING { </b>", 
+                    "start": 1690, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 1673, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 1957, 
+            "in_lines": [
+                {
+                    "stop": 1961, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 1958, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1971, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 1964, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1975, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 1972, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 1979, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 1977, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2004, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 1989, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2028, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 2016, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2206, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"SCENE HEADING\"", 
+                        "indent": 1
+                    }, 
+                    "start": 2190, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2232, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 2223, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 2268, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: \"SCENE HEADING\"; mso-style-next: ACTION <b>} </b><b>LI.SCENEHEADING { </b>", 
+                    "start": 1957, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 1940, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 2285, 
+            "in_lines": [
+                {
+                    "stop": 2289, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 2286, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2299, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 2292, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2303, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 2300, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2307, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 2305, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2332, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 2317, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2356, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 2344, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2534, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"SCENE HEADING\"", 
+                        "indent": 1
+                    }, 
+                    "start": 2518, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2560, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 2551, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 2597, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: \"SCENE HEADING\"; mso-style-next: ACTION <b>} </b><b>DIV.SCENEHEADING { </b>", 
+                    "start": 2285, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 2268, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 2614, 
+            "in_lines": [
+                {
+                    "stop": 2618, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 2615, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2628, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 2621, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2632, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 2629, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2636, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 2634, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2661, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 2646, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2685, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 2673, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2863, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"SCENE HEADING\"", 
+                        "indent": 1
+                    }, 
+                    "start": 2847, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2889, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 2880, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 2918, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: \"SCENE HEADING\"; mso-style-next: ACTION <b>} </b><b>P.ACTION { </b>", 
+                    "start": 2614, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 2597, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 2935, 
+            "in_lines": [
+                {
+                    "stop": 2939, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 2936, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2949, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 2942, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2953, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 2950, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2957, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 2955, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 2979, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 2967, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3150, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 3141, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 3180, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: ACTION <b>} </b><b>LI.ACTION { </b>", 
+                    "start": 2935, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 2918, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 3197, 
+            "in_lines": [
+                {
+                    "stop": 3201, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 3198, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3211, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 3204, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3215, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 3212, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3219, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 3217, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3241, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 3229, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3412, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 3403, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 3443, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: ACTION <b>} </b><b>DIV.ACTION { </b>", 
+                    "start": 3197, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 3180, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 3460, 
+            "in_lines": [
+                {
+                    "stop": 3464, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 3461, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3474, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 3467, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3478, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 3475, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3482, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 3480, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3504, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 3492, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3675, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 3666, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 3711, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: ACTION <b>} </b><b>P.CHARACTERNAME { </b>", 
+                    "start": 3460, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 3443, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 3728, 
+            "in_lines": [
+                {
+                    "stop": 3732, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 3729, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3742, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 3735, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3746, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 3743, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3750, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 3748, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3761, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "3", 
+                        "heading": "3", 
+                        "indent": 1
+                    }, 
+                    "start": 3759, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3782, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 3767, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3806, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 3794, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 3985, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"CHARACTER NAME\"", 
+                        "indent": 1
+                    }, 
+                    "start": 3968, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4011, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 4002, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 4048, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 2.25in 0pt 3.25in; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: \"CHARACTER NAME\"; mso-style-next: DIALOG <b>} </b><b>LI.CHARACTERNAME { </b>", 
+                    "start": 3728, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 3711, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 4065, 
+            "in_lines": [
+                {
+                    "stop": 4069, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 4066, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4079, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 4072, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4083, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 4080, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4087, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 4085, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4098, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "3", 
+                        "heading": "3", 
+                        "indent": 1
+                    }, 
+                    "start": 4096, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4119, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 4104, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4143, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 4131, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4322, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"CHARACTER NAME\"", 
+                        "indent": 1
+                    }, 
+                    "start": 4305, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4348, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 4339, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 4386, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 2.25in 0pt 3.25in; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: \"CHARACTER NAME\"; mso-style-next: DIALOG <b>} </b><b>DIV.CHARACTERNAME { </b>", 
+                    "start": 4065, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 4048, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 4403, 
+            "in_lines": [
+                {
+                    "stop": 4407, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 4404, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4417, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 4410, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4421, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 4418, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4425, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 4423, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4436, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "3", 
+                        "heading": "3", 
+                        "indent": 1
+                    }, 
+                    "start": 4434, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4457, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 4442, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4481, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 4469, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4660, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"CHARACTER NAME\"", 
+                        "indent": 1
+                    }, 
+                    "start": 4643, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4686, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 4677, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 4722, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 2.25in 0pt 3.25in; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: \"CHARACTER NAME\"; mso-style-next: DIALOG <b>} </b><b>P.PARENTHETICAL { </b>", 
+                    "start": 4403, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 4386, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 4739, 
+            "in_lines": [
+                {
+                    "stop": 4743, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 4740, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4753, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 4746, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4760, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 4758, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4782, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 4770, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4958, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "PARENTHETICAL", 
+                        "indent": 1
+                    }, 
+                    "start": 4944, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 4984, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 4975, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 5021, 
+                    "raw_text": ": 12pt; MARGIN: 0in 2.75in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: PARENTHETICAL; mso-style-next: DIALOG <b>} </b><b>LI.PARENTHETICAL { </b>", 
+                    "start": 4739, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 4722, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 5038, 
+            "in_lines": [
+                {
+                    "stop": 5042, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 5039, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5052, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 5045, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5059, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 5057, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5081, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 5069, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5257, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "PARENTHETICAL", 
+                        "indent": 1
+                    }, 
+                    "start": 5243, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5283, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 5274, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 5321, 
+                    "raw_text": ": 12pt; MARGIN: 0in 2.75in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: PARENTHETICAL; mso-style-next: DIALOG <b>} </b><b>DIV.PARENTHETICAL { </b>", 
+                    "start": 5038, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 5021, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 5338, 
+            "in_lines": [
+                {
+                    "stop": 5342, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 5339, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5352, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 5345, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5359, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 5357, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5381, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 5369, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5557, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "PARENTHETICAL", 
+                        "indent": 1
+                    }, 
+                    "start": 5543, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5583, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 5574, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 5612, 
+                    "raw_text": ": 12pt; MARGIN: 0in 2.75in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: PARENTHETICAL; mso-style-next: DIALOG <b>} </b><b>P.DIALOG { </b>", 
+                    "start": 5338, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 5321, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 5629, 
+            "in_lines": [
+                {
+                    "stop": 5633, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 5630, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5643, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 5636, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5650, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 5648, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5672, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 5660, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5841, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 5834, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5867, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 5858, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 5897, 
+                    "raw_text": ": 12pt; MARGIN: 0in 2.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: DIALOG; mso-style-next: ACTION <b>} </b><b>LI.DIALOG { </b>", 
+                    "start": 5629, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 5612, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 5914, 
+            "in_lines": [
+                {
+                    "stop": 5918, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 5915, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5928, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 5921, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5935, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 5933, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 5957, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 5945, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6126, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 6119, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6152, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 6143, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 6183, 
+                    "raw_text": ": 12pt; MARGIN: 0in 2.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: DIALOG; mso-style-next: ACTION <b>} </b><b>DIV.DIALOG { </b>", 
+                    "start": 5914, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 5897, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 6200, 
+            "in_lines": [
+                {
+                    "stop": 6204, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 6201, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6214, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 6207, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6221, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "2", 
+                        "heading": "2", 
+                        "indent": 1
+                    }, 
+                    "start": 6219, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6243, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 6231, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6412, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "DIALOG", 
+                        "indent": 1
+                    }, 
+                    "start": 6405, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6438, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 6429, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 6471, 
+                    "raw_text": ": 12pt; MARGIN: 0in 2.25in 0pt; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: DIALOG; mso-style-next: ACTION <b>} </b><b>P.TRANSITION { </b>", 
+                    "start": 6200, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 6183, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 6488, 
+            "in_lines": [
+                {
+                    "stop": 6492, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 6489, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6502, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 6495, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6506, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 6503, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6510, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 6508, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6521, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "4", 
+                        "heading": "4", 
+                        "indent": 1
+                    }, 
+                    "start": 6519, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6542, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 6527, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6566, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 6554, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6739, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TRANSITION", 
+                        "indent": 1
+                    }, 
+                    "start": 6728, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6774, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"SCENE HEADING\"", 
+                        "indent": 1
+                    }, 
+                    "start": 6756, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 6808, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt 4.25in; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: TRANSITION; mso-style-next: \"SCENE HEADING\" <b>} </b><b>LI.TRANSITION { </b>", 
+                    "start": 6488, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 6471, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 6825, 
+            "in_lines": [
+                {
+                    "stop": 6829, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 6826, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6839, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 6832, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6843, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 6840, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6847, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 6845, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6858, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "4", 
+                        "heading": "4", 
+                        "indent": 1
+                    }, 
+                    "start": 6856, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6879, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 6864, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 6903, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 6891, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7076, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TRANSITION", 
+                        "indent": 1
+                    }, 
+                    "start": 7065, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7111, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"SCENE HEADING\"", 
+                        "indent": 1
+                    }, 
+                    "start": 7093, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 7146, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt 4.25in; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: TRANSITION; mso-style-next: \"SCENE HEADING\" <b>} </b><b>DIV.TRANSITION { </b>", 
+                    "start": 6825, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 6808, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 7163, 
+            "in_lines": [
+                {
+                    "stop": 7167, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 7164, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7177, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 7170, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7181, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 7178, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7185, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 7183, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7196, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "4", 
+                        "heading": "4", 
+                        "indent": 1
+                    }, 
+                    "start": 7194, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7217, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 7202, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7241, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 7229, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7414, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TRANSITION", 
+                        "indent": 1
+                    }, 
+                    "start": 7403, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7449, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"SCENE HEADING\"", 
+                        "indent": 1
+                    }, 
+                    "start": 7431, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 7476, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt 4.25in; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: TRANSITION; mso-style-next: \"SCENE HEADING\" <b>} </b><b>P.SHOT { </b>", 
+                    "start": 7163, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 7146, 
+            "indent": 8
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 7493, 
+            "in_lines": [
+                {
+                    "stop": 7497, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 7494, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7507, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "MARGIN", 
+                        "indent": 1
+                    }, 
+                    "start": 7500, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7511, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 7508, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7515, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "1", 
+                        "heading": "1", 
+                        "indent": 1
+                    }, 
+                    "start": 7513, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7540, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "TEXT-TRANSFORM", 
+                        "indent": 1
+                    }, 
+                    "start": 7525, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7564, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "FONT-FAMILY", 
+                        "indent": 1
+                    }, 
+                    "start": 7552, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7731, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "SHOT", 
+                        "indent": 1
+                    }, 
+                    "start": 7726, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 7757, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "ACTION", 
+                        "indent": 1
+                    }, 
+                    "start": 7748, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 7785, 
+                    "raw_text": ": 12pt; MARGIN: 12pt 1.25in 0pt; TEXT-TRANSFORM: uppercase; FONT-FAMILY: Courier; mso-pagination: none; mso-layout-grid-align: none; mso-fareast-font-family: \"Times New Roman\"; mso-bidi-font-family: \"Times New Roman\"; mso-style-name: SHOT; mso-style-next: ACTION <b>} </b><b>LI.SHOT { </b>", 
+                    "start": 7493, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "FONT-SIZE", 
+                "indent": 8
+            }, 
+            "start": 7476, 
+            "indent": 8
+        }, 
+        []
+    ]
+]

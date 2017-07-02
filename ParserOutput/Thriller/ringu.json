@@ -1,0 +1,2420 @@
+[
+    [
+        {
+            "stop": 3391, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 3490, 
+                    "raw_text": "No, it wasnt Youko... Tomoko looks away, worried.  Masami slaps her on the knee, laughing.", 
+                    "start": 3391, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 3611, 
+                    "raw_text": "Whats up with you? Tomoko speaks slowly, still looking away.", 
+                    "start": 3546, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 3736, 
+                    "raw_text": "The other day, I... I watched this strange video.", 
+                    "start": 3667, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 3800, 
+                    "raw_text": "Where?", 
+                    "start": 3792, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 3886, 
+                    "raw_text": "With Youko and them.", 
+                    "start": 3864, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 4413, 
+                    "raw_text": "(excited) So thats what Ive been hearing about you doing some double-date/ sleepover thing!  So, you and that guy Iwata, huh? TOMOKO No, its not like that.  Nothing happened! Their eyes meet and Tomoko half-blushes, looks away again.  Her expression becomes serious as she resumes her conversation.", 
+                    "start": 3958, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 4613, 
+                    "raw_text": "Iwata... he found this weird video. Everyone was like, Whats that? so he put it on and we all watched it.", 
+                    "start": 4469, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 4739, 
+                    "raw_text": "And?  What kind of video was it?", 
+                    "start": 4705, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 5136, 
+                    "raw_text": "Just... weird, I cant really explain it.  Anyway, right after we finished watching it, the phone rang.  Whoever it was didnt say anything, but still... Silence.  Masami curls up on herself, thoroughly spooked. MASAMI Jesus.", 
+                    "start": 4795, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 5304, 
+                    "raw_text": "It's cuz, you know, we'd all heard the rumors. Tomoko looks seriously over at her friend.", 
+                    "start": 5194, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 5467, 
+                    "raw_text": "That was one week ago today. There is a long, heavy silence as neither of them says anything.", 
+                    "start": 5369, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 5893, 
+                    "raw_text": "Waaait a minute.  Are you faking me out? Tomokos face suddenly breaks into a smile. TOMOKO Busted, huh? They both crack up laughing. MASAMI Oh, my... I cant believe you! Masami reaches out, slaps her friend on the knee.", 
+                    "start": 5533, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 5974, 
+                    "raw_text": "Youre terrible!", 
+                    "start": 5957, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6039, 
+                    "raw_text": "Gotcha!", 
+                    "start": 6030, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6348, 
+                    "raw_text": "(thinking) But hang on... you really stayed the night with Youko and Iwata, right? Tomoko nods, uh-huh.  Masami dives forward, pinching her friends cheeks and grinning wildly.", 
+                    "start": 6111, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6445, 
+                    "raw_text": "So, how far did you and he get?", 
+                    "start": 6412, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6534, 
+                    "raw_text": "Oh... I cant remember.", 
+                    "start": 6510, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6734, 
+                    "raw_text": "You cant remember, huh? Masami laughs, then slaps Tomoko on the knee again as she remembers the trick her friend played on her.", 
+                    "start": 6598, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 7257, 
+                    "raw_text": "Man, you had me freaked me out. I-- Just at that moment, the phone RINGS.  They are both suddenly, instantly serious.  Tomokos eyes go off in one direction and she begins shaking her head, -No-.  Masami looks over her shoulder, following her friends gaze. Tomoko is looking at the CLOCK, which currently reads 9:40. The phone continues to ring.  Tomoko is now clutching tightly onto her friend, looking panicked.", 
+                    "start": 6798, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 7610, 
+                    "raw_text": "Was it true? Tomoko nods her head, still holding on tightly.  Masami has to forcibly disengage herself in order to stand.  The phone is downstairs, so Masami opens the bedroom DOOR and races down the STAIRS.  Tomoko calls out to her from behind.", 
+                    "start": 7348, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 7871, 
+                    "raw_text": "Masami! INT. OUISHI HOUSEHOLD  STAIRCASE - NIGHT Tomoko and Masami run down the staircase, through the hallway towards the kitchen.  Tomoko cries out again just before they reach the kitchen.", 
+                    "start": 7666, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 8295, 
+                    "raw_text": "Masami! INT. OUISHI HOUSEHOLD  KITCHEN - NIGHT Masami has come to a halt before a PHONE mounted on the wall.  She pauses, looking slowly at her friend, then back to the phone.  She takes it tentatively from its cradle, answers it wordlessly.  The tension continues to mount as nothing is said. Masami suddenly breaks into a huge grin.", 
+                    "start": 7935, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 8459, 
+                    "raw_text": "Ill put her on. Still grinning, she hands the phone to Tomoko.  Tomoko snatches it quickly.", 
+                    "start": 8359, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 8856, 
+                    "raw_text": "Yes? She is silent for a moment, then smiling widely. TOMOKO Oh, man! She is so relieved that all the strength seeps out of her and she sinks to the kitchen floor.  Masami, equally relieved, slides down the wall and sits down next to her.", 
+                    "start": 8550, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 9144, 
+                    "raw_text": "Yeah, Ive got a friend over now. Yeah.  Yeah, OK.  Bye. Tomoko stands to place the phone back in its wall cradle, and then squats back down onto the kitchen floor.", 
+                    "start": 8953, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 9386, 
+                    "raw_text": "The games gone into overtime, so theyre gonna be a little late. They burst out laughing with relief again, and are soon both clutching their stomachs.", 
+                    "start": 9208, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 9474, 
+                    "raw_text": "Jeeezus, my parents...", 
+                    "start": 9450, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 9650, 
+                    "raw_text": "Oh man, Im tellin everybody about this tomorrow! Tomoko shakes her head, -Dont you dare-.", 
+                    "start": 9538, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 9780, 
+                    "raw_text": "Im gonna use your bathroom.  Dont go anywhere.", 
+                    "start": 9714, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 11591, 
+                    "raw_text": ". Masami walks out of the kitchen. Alone now, Tomoko stands and walks toward the SINK, where she takes a GLASS from the DISH RACK.  She then goes to the FRIDGE and sticks her face in, looking for something to drink.  Suddenly there is the SOUND of people clapping and cheering.  Tomoko, startled, peers her head over the refrigerator door to check for the source of the sound. She begins walking slowly, following the sound to the DINING ROOM adjacent the kitchen. INT. OUISHI HOUSEHOLD - DINING ROOM - NIGHT The lights are off, and there is no one in the room.  Tomoko pauses a moment, bathed in the garish LIGHT from the TV, which has been switched on.  Playing is the same baseball game they had on the TV upstairs; the same game that Tomokos parents are currently at.  The VOLUME is up quite high. A puzzled look on her face, Tomoko takes the REMOTE from the coffee table and flicks the TV off.  She walks back to the kitchen. INT. OUISHI HOUSEHOLD  KITCHEN - NIGHT A bottle of SODA that Tomoko had earlier taken from the fridge is on the kitchen table.  She picks the bottle up, pours herself a drink. Before she can take a sip, however, the air around her becomes suddenly charged, heavy.  Her body begins to shiver as somewhere out of sight comes a popping, crackling SOUND underscored by a kind of GROANING. Trembling now, Tomoko spins around to see what she has already felt lurking behind her.  She draws in her breath to scream. The screen goes white, and fades into: CAMERA POV The screen is filled with the visage of a nervous-looking YOUNG GIRL. She is being interviewed by ASAKAWA, a female reporter seated offscreen.", 
+                    "start": 9845, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 11765, 
+                    "raw_text": "There seems to be a popular rumor going around about a cursed videotape.", 
+                    "start": 11655, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 11842, 
+                    "raw_text": "Uh-huh.", 
+                    "start": 11833, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 11973, 
+                    "raw_text": "Have you heard what kind of video it might be?", 
+                    "start": 11907, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 12670, 
+                    "raw_text": "Uh-huh. The girl looks directly at the camera, her mouth dropping into an O as shes suddenly overcome by a kind of stage fright.  She continues staring, silently, at the camera. INT. COFFEE SHOP - DAY KOMIYA, the cameraman, has lowered his camera. We can now see that the young girl being interviewed is seated at a table between two friends, a SHORT-HAIRED GIRL (GIRL#2) and a LONG-HAIRED GIRL (GIRL #3). They are all dressed in the UNIFORMS of junior high school students. Opposite them sits Komiya and Asakawa, a pretty woman in her mid- twenties.  A BOOM MIKE GUY stands to the left.", 
+                    "start": 12041, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 12792, 
+                    "raw_text": "Uh, dont look right at the camera, OK?", 
+                    "start": 12734, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 12868, 
+                    "raw_text": "Sorry.", 
+                    "start": 12860, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13023, 
+                    "raw_text": "Lets do it again. Asakawa glances over her shoulder, makes sure that Komiya is ready.", 
+                    "start": 12933, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13146, 
+                    "raw_text": "Have you heard what kind of video it might be?", 
+                    "start": 13080, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13369, 
+                    "raw_text": "What I heard was, all of a sudden this scaaarry lady comes on the screen and says, In one week, you will die.", 
+                    "start": 13206, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13560, 
+                    "raw_text": "I heard that if youre watching TV late at night itll come on, and then your phonell ring.", 
+                    "start": 13434, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13691, 
+                    "raw_text": "Watching TV late at night... do you know what station?", 
+                    "start": 13617, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13823, 
+                    "raw_text": "Mmmm... I heard some local station, around Izu.", 
+                    "start": 13756, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13894, 
+                    "raw_text": "Izu?", 
+                    "start": 13888, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13967, 
+                    "raw_text": "Mmm-hmm.", 
+                    "start": 13959, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "MASAMI", 
+                "indent": 8
+            }, 
+            "start": 3317, 
+            "indent": 8
+        }, 
+        [
+            {
+                "stop": 3546, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 3490, 
+                "indent": 32
+            }, 
+            {
+                "stop": 3667, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 3611, 
+                "indent": 32
+            }, 
+            {
+                "stop": 3792, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 3736, 
+                "indent": 32
+            }, 
+            {
+                "stop": 3864, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 3800, 
+                "indent": 32
+            }, 
+            {
+                "stop": 3958, 
+                "in_lines": [
+                    {
+                        "stop": 4221, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TOMOKO", 
+                            "indent": 1
+                        }, 
+                        "start": 4154, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 3886, 
+                "indent": 32
+            }, 
+            {
+                "stop": 4469, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 4413, 
+                "indent": 32
+            }, 
+            {
+                "stop": 4677, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 4689, 
+                        "raw_text": "(quietly)", 
+                        "start": 4677, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 4613, 
+                "indent": 32
+            }, 
+            {
+                "stop": 4795, 
+                "in_lines": [
+                    {
+                        "stop": 5128, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MASAMI", 
+                            "indent": 2
+                        }, 
+                        "start": 5060, 
+                        "indent": 2
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 4739, 
+                "indent": 32
+            }, 
+            {
+                "stop": 5194, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 5136, 
+                "indent": 32
+            }, 
+            {
+                "stop": 5343, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 5353, 
+                        "raw_text": "(cont'd)", 
+                        "start": 5343, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 5304, 
+                "indent": 32
+            }, 
+            {
+                "stop": 5533, 
+                "in_lines": [
+                    {
+                        "stop": 5704, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TOMOKO", 
+                            "indent": 1
+                        }, 
+                        "start": 5637, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 5807, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MASAMI", 
+                            "indent": 1
+                        }, 
+                        "start": 5748, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 5467, 
+                "indent": 32
+            }, 
+            {
+                "stop": 5932, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 5941, 
+                        "raw_text": "(contd)", 
+                        "start": 5932, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 5893, 
+                "indent": 32
+            }, 
+            {
+                "stop": 6030, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 5974, 
+                "indent": 32
+            }, 
+            {
+                "stop": 6111, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 6039, 
+                "indent": 32
+            }, 
+            {
+                "stop": 6412, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 6348, 
+                "indent": 32
+            }, 
+            {
+                "stop": 6510, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 6445, 
+                "indent": 32
+            }, 
+            {
+                "stop": 6598, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 6534, 
+                "indent": 32
+            }, 
+            {
+                "stop": 6798, 
+                "in_lines": [
+                    {
+                        "stop": 6855, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "I--", 
+                            "indent": 1
+                        }, 
+                        "start": 6829, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 6891, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "RINGS", 
+                            "indent": 1
+                        }, 
+                        "start": 6885, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 7124, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "CLOCK,", 
+                            "indent": 1
+                        }, 
+                        "start": 7116, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 7147, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "9", 
+                            "heading": "9", 
+                            "indent": 1
+                        }, 
+                        "start": 7145, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 6734, 
+                "indent": 32
+            }, 
+            {
+                "stop": 7321, 
+                "in_lines": [
+                    {
+                        "stop": 7540, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DOOR", 
+                            "indent": 1
+                        }, 
+                        "start": 7534, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 7565, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "STAIRS", 
+                            "indent": 1
+                        }, 
+                        "start": 7558, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 7332, 
+                        "raw_text": "(softly)", 
+                        "start": 7321, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 7257, 
+                "indent": 32
+            }, 
+            {
+                "stop": 7666, 
+                "in_lines": [
+                    {
+                        "stop": 7723, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "NIGHT", 
+                            "location": [
+                                "OUISHI HOUSEHOLD STAIRCASE"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 2, 
+                            "heading": "INT."
+                        }, 
+                        "start": 7675, 
+                        "indent": 2
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 7610, 
+                "indent": 32
+            }, 
+            {
+                "stop": 7935, 
+                "in_lines": [
+                    {
+                        "stop": 7990, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "NIGHT", 
+                            "location": [
+                                "OUISHI HOUSEHOLD KITCHEN"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 2, 
+                            "heading": "INT."
+                        }, 
+                        "start": 7944, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 8031, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PHONE", 
+                            "indent": 1
+                        }, 
+                        "start": 8024, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 7871, 
+                "indent": 32
+            }, 
+            {
+                "stop": 8359, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 8295, 
+                "indent": 32
+            }, 
+            {
+                "stop": 8523, 
+                "in_lines": [
+                    {
+                        "stop": 8666, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TOMOKO", 
+                            "indent": 2
+                        }, 
+                        "start": 8606, 
+                        "indent": 2
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 8534, 
+                        "raw_text": "(softly)", 
+                        "start": 8523, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 8459, 
+                "indent": 32
+            }, 
+            {
+                "stop": 8920, 
+                "in_lines": [
+                    {
+                        "stop": 9020, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OK", 
+                            "indent": 1
+                        }, 
+                        "start": 9017, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 8937, 
+                        "raw_text": "(on the phone)", 
+                        "start": 8920, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 8856, 
+                "indent": 32
+            }, 
+            {
+                "stop": 9208, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 9144, 
+                "indent": 32
+            }, 
+            {
+                "stop": 9450, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO", 
+                    "indent": 32
+                }, 
+                "start": 9386, 
+                "indent": 32
+            }, 
+            {
+                "stop": 9538, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 9474, 
+                "indent": 32
+            }, 
+            {
+                "stop": 9714, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "MASAMI", 
+                    "indent": 32
+                }, 
+                "start": 9650, 
+                "indent": 32
+            }, 
+            {
+                "stop": 9845, 
+                "in_lines": [
+                    {
+                        "stop": 9939, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SINK,", 
+                            "indent": 1
+                        }, 
+                        "start": 9932, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 9963, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GLASS", 
+                            "indent": 1
+                        }, 
+                        "start": 9956, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 9981, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DISH RACK", 
+                            "indent": 1
+                        }, 
+                        "start": 9971, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10016, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "FRIDGE", 
+                            "indent": 1
+                        }, 
+                        "start": 10008, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10105, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SOUND", 
+                            "indent": 1
+                        }, 
+                        "start": 10098, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10320, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DINING ROOM", 
+                            "indent": 1
+                        }, 
+                        "start": 10303, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10395, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "NIGHT", 
+                            "location": [
+                                "OUISHI HOUSEHOLD", 
+                                "DINING ROOM"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 1, 
+                            "heading": "INT."
+                        }, 
+                        "start": 10341, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10504, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "LIGHT", 
+                            "indent": 1
+                        }, 
+                        "start": 10497, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10517, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TV,", 
+                            "indent": 1
+                        }, 
+                        "start": 10512, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10602, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TV", 
+                            "indent": 1
+                        }, 
+                        "start": 10598, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10681, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "VOLUME", 
+                            "indent": 1
+                        }, 
+                        "start": 10673, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10758, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "REMOTE", 
+                            "indent": 1
+                        }, 
+                        "start": 10750, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10802, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TV", 
+                            "indent": 1
+                        }, 
+                        "start": 10798, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 10886, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "NIGHT", 
+                            "location": [
+                                "OUISHI HOUSEHOLD KITCHEN"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 2, 
+                            "heading": "INT."
+                        }, 
+                        "start": 10840, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 10903, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SODA", 
+                            "indent": 1
+                        }, 
+                        "start": 10897, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 11214, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SOUND", 
+                            "indent": 1
+                        }, 
+                        "start": 11207, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 11247, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GROANING", 
+                            "indent": 1
+                        }, 
+                        "start": 11238, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 11442, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": {
+                                "shot": "POV", 
+                                "pov": "POV"
+                            }, 
+                            "indent": 2, 
+                            "shot type": {
+                                "shot": "POV", 
+                                "pov": "POV"
+                            }
+                        }, 
+                        "start": 11425, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 11510, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "YOUNG GIRL", 
+                            "indent": 1
+                        }, 
+                        "start": 11499, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 11554, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "ASAKAWA,", 
+                            "indent": 1
+                        }, 
+                        "start": 11544, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "TOMOKO K", 
+                    "indent": 32
+                }, 
+                "start": 9780, 
+                "indent": 32
+            }, 
+            {
+                "stop": 11631, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 11639, 
+                        "raw_text": "(O.S.)", 
+                        "start": 11631, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 11591, 
+                "indent": 32
+            }, 
+            {
+                "stop": 11833, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "YOUNG GIRL", 
+                    "indent": 32
+                }, 
+                "start": 11765, 
+                "indent": 32
+            }, 
+            {
+                "stop": 11882, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 11891, 
+                        "raw_text": "(O.S.)", 
+                        "start": 11882, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 11842, 
+                "indent": 32
+            }, 
+            {
+                "stop": 12041, 
+                "in_lines": [
+                    {
+                        "stop": 12269, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "INT.", 
+                            "location": [
+                                "COFFEE SHOP", 
+                                "DAY KOMIYA,"
+                            ], 
+                            "terior": "INT.", 
+                            "indent": 2
+                        }, 
+                        "start": 12231, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 12431, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "SHORT-HAIRED GIRL", 
+                            "indent": 1
+                        }, 
+                        "start": 12412, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 12463, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "LONG-HAIRED GIRL", 
+                            "indent": 1
+                        }, 
+                        "start": 12445, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 12516, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "UNIFORMS", 
+                            "indent": 1
+                        }, 
+                        "start": 12506, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 12649, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "A BOOM MIKE GUY", 
+                            "indent": 2
+                        }, 
+                        "start": 12631, 
+                        "indent": 2
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "YOUNG GIRL", 
+                    "indent": 32
+                }, 
+                "start": 11973, 
+                "indent": 32
+            }, 
+            {
+                "stop": 12734, 
+                "in_lines": [
+                    {
+                        "stop": 12789, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OK", 
+                            "indent": 1
+                        }, 
+                        "start": 12768, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KOMIYA", 
+                    "indent": 32
+                }, 
+                "start": 12670, 
+                "indent": 32
+            }, 
+            {
+                "stop": 12860, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "YOUNG GIRL", 
+                    "indent": 32
+                }, 
+                "start": 12792, 
+                "indent": 32
+            }, 
+            {
+                "stop": 12933, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 12868, 
+                "indent": 32
+            }, 
+            {
+                "stop": 13080, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 13023, 
+                "indent": 32
+            }, 
+            {
+                "stop": 13206, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "YOUNG GIRL", 
+                    "indent": 32
+                }, 
+                "start": 13146, 
+                "indent": 32
+            }, 
+            {
+                "stop": 13406, 
+                "in_lines": [
+                    {
+                        "stop": 13486, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TV", 
+                            "indent": 1
+                        }, 
+                        "start": 13464, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 13408, 
+                        "raw_text": "#2", 
+                        "start": 13406, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIRL", 
+                    "indent": 32
+                }, 
+                "start": 13369, 
+                "indent": 32
+            }, 
+            {
+                "stop": 13617, 
+                "in_lines": [
+                    {
+                        "stop": 13629, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TV", 
+                            "indent": 1
+                        }, 
+                        "start": 13625, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 13560, 
+                "indent": 32
+            }, 
+            {
+                "stop": 13728, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 13730, 
+                        "raw_text": "#2", 
+                        "start": 13728, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIRL", 
+                    "indent": 32
+                }, 
+                "start": 13691, 
+                "indent": 32
+            }, 
+            {
+                "stop": 13888, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 13823, 
+                "indent": 32
+            }, 
+            {
+                "stop": 13931, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 13933, 
+                        "raw_text": "#2", 
+                        "start": 13931, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIRL", 
+                    "indent": 32
+                }, 
+                "start": 13894, 
+                "indent": 32
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 14034, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 14158, 
+                    "raw_text": "And, do you know if anyones really died from watching it? The girl flashes a look at her two friends.", 
+                    "start": 14034, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 14485, 
+                    "raw_text": "Well, no one that we know, right? Girl #2 nods her head. Girl #3 nods slowly, opens and closes her mouth as if deciding whether to say something or not.  The reporter notices. ASAKAWA What is it?", 
+                    "start": 14218, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 14818, 
+                    "raw_text": "I heard this from a friend of mine in high school.  She said that there was this one girl who watched the video, and then died a week later. She was out on a drive with her boyfriend.", 
+                    "start": 14542, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 14898, 
+                    "raw_text": "They were in a wreck?", 
+                    "start": 14875, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 15207, 
+                    "raw_text": "No, their car was parked, but they were both dead inside.  Her boyfriend died because hed watched the video, too.  Thats what my friend said. Girl #3 grows suddenly defensive.", 
+                    "start": 14955, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 15353, 
+                    "raw_text": "Its true!  It was in the paper two or three days ago.", 
+                    "start": 15280, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 15488, 
+                    "raw_text": "Do you know the name of the high school this girl went to?", 
+                    "start": 15410, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 15930, 
+                    "raw_text": "No... I heard this from my friend, and it didnt happen at her school. She heard it from a friend at a different school, she said. INT. NEWS STATION  DAY Asakawa is seated at her DESK.  The station is filled with PEOPLE, scrabbling to meet deadlines.  Komiya walks up to Asakawas desk and holds out a MANILA FOLDER.", 
+                    "start": 15545, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 16009, 
+                    "raw_text": "Mrs. Asakawa?", 
+                    "start": 15994, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 16071, 
+                    "raw_text": "Hm?", 
+                    "start": 16066, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 16150, 
+                    "raw_text": "Here you are.", 
+                    "start": 16135, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 16284, 
+                    "raw_text": "Thanks. Komiya has a seat.", 
+                    "start": 16253, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 16641, 
+                    "raw_text": "This same kind of thing happened about ten years ago too, didnt it? Some popular young singer committed suicide, and then suddenly there was all this talk about her ghost showing up on some music show.", 
+                    "start": 16348, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 16822, 
+                    "raw_text": "But I wonder what this rumors all about. Everyone you ask always mentions Izu.", 
+                    "start": 16706, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 17335, 
+                    "raw_text": "Maybe thats where it all started. Hey, where was that Kuchi-sake Onna * story from again? >* Literally Ripped-Mouth Lady, a kind of ghastly spectre from >Japanese folk stories who wears a veil to hide her mouth, which >has been ripped or cut open from ear to ear. She wanders the >countryside at night asking men Do you think Im beautiful? then >lowering her veil to reveal her true features.", 
+                    "start": 16886, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 17607, 
+                    "raw_text": "Gifu, but there was some big accident out there, and that ended up being what started the rumor. KOMIYA A big accident?", 
+                    "start": 17400, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 17995, 
+                    "raw_text": "Mmm-hmm.  Something terrible like that is going to stay in peoples minds.  Sometimes the story of what happened gets twisted around, and ends up coming back as a rumor like this one. Thats what they say, at least.", 
+                    "start": 17672, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 18122, 
+                    "raw_text": "Dyou think something like that happened out at Izu?", 
+                    "start": 18051, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 18245, 
+                    "raw_text": "Maybe. Well, anyway, Im off.  See you tomorrow.", 
+                    "start": 18179, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 19311, 
+                    "raw_text": "See you. Asakawa gets up from her desk and begins walking towards the exit. She takes only a few steps before noticing a RACK of recent DAILY EDITIONS. She takes one from the rack, sets it on a nearby TABLE.  She begins flipping the pages, and suddenly spies this story: STRANGE AUTOMOBILE DEATH OF YOUNG COUPLE IN YOKOHAMA The bodies of a young man and woman were discovered in their passenger car at around 10 A.M. September 6th.  The location was a vacant lot parallel to Yokohama Prefectural Road.  Local authorities identified the deceased as a 19-year old preparatory school student of Tokyo, and a 16-year old Yokohama resident, a student of a private all-girls high school. Because there were no external injuries, police are investigating the possibility of drug-induced suicide... Just then two men walk by, a GUY IN A BUSINESS SUIT and a youngish intern named OKAZAKI.  Okazaki is carrying an armload of VIDEOTAPES.", 
+                    "start": 18301, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 19406, 
+                    "raw_text": "Okazaki, Im counting on you.", 
+                    "start": 19376, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 19671, 
+                    "raw_text": "Yessir. The guy in the suit pats Okazaki on the shoulder and walks off. Okazaki turns to walk away, spots Asakawa bent over the small table and peering intently at the newspaper article.", 
+                    "start": 19471, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 19868, 
+                    "raw_text": "Miss Asakawa?  I thought you were going home early today. Asakawa turns around and begins speaking excitedly.", 
+                    "start": 19736, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 19958, 
+                    "raw_text": "Okazaki, can I ask you a favor?", 
+                    "start": 19925, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 20058, 
+                    "raw_text": "Sure. Asakawa points to the newspaper.", 
+                    "start": 20015, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 20198, 
+                    "raw_text": "Could you check out this article for me?  Get me some more info.?", 
+                    "start": 20115, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "ASAKAWA", 
+                "indent": 8
+            }, 
+            "start": 13967, 
+            "indent": 8
+        }, 
+        [
+            {
+                "stop": 14218, 
+                "in_lines": [
+                    {
+                        "stop": 14472, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "ASAKAWA", 
+                            "indent": 1
+                        }, 
+                        "start": 14404, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "YOUNG GIRL", 
+                    "indent": 32
+                }, 
+                "start": 14158, 
+                "indent": 32
+            }, 
+            {
+                "stop": 14522, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 14526, 
+                        "raw_text": "#3", 
+                        "start": 14522, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIRL", 
+                    "indent": 32
+                }, 
+                "start": 14485, 
+                "indent": 32
+            }, 
+            {
+                "stop": 14875, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 14818, 
+                "indent": 32
+            }, 
+            {
+                "stop": 14935, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 14939, 
+                        "raw_text": "#3", 
+                        "start": 14935, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIRL", 
+                    "indent": 32
+                }, 
+                "start": 14898, 
+                "indent": 32
+            }, 
+            {
+                "stop": 15244, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 15254, 
+                        "raw_text": "#3 (contd)", 
+                        "start": 15244, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIRL", 
+                    "indent": 32
+                }, 
+                "start": 15207, 
+                "indent": 32
+            }, 
+            {
+                "stop": 15410, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 15353, 
+                "indent": 32
+            }, 
+            {
+                "stop": 15525, 
+                "in_lines": [
+                    {
+                        "stop": 15736, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "INT", 
+                            "indent": 2
+                        }, 
+                        "start": 15731, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 15759, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "NEWS STATION DAY", 
+                            "heading": "NEWS STATION DAY", 
+                            "indent": 1
+                        }, 
+                        "start": 15737, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 15788, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DESK", 
+                            "indent": 1
+                        }, 
+                        "start": 15783, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 15830, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "PEOPLE,", 
+                            "indent": 1
+                        }, 
+                        "start": 15817, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 15927, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MANILA FOLDER", 
+                            "indent": 1
+                        }, 
+                        "start": 15913, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 15529, 
+                        "raw_text": "#3", 
+                        "start": 15525, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIRL", 
+                    "indent": 32
+                }, 
+                "start": 15488, 
+                "indent": 32
+            }, 
+            {
+                "stop": 15994, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KOMIYA", 
+                    "indent": 32
+                }, 
+                "start": 15930, 
+                "indent": 32
+            }, 
+            {
+                "stop": 16066, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 16009, 
+                "indent": 32
+            }, 
+            {
+                "stop": 16135, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KOMIYA", 
+                    "indent": 32
+                }, 
+                "start": 16071, 
+                "indent": 32
+            }, 
+            {
+                "stop": 16215, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 16237, 
+                        "raw_text": "(taking the folder)", 
+                        "start": 16215, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 16150, 
+                "indent": 32
+            }, 
+            {
+                "stop": 16348, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KOMIYA", 
+                    "indent": 32
+                }, 
+                "start": 16284, 
+                "indent": 32
+            }, 
+            {
+                "stop": 16706, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 16641, 
+                "indent": 32
+            }, 
+            {
+                "stop": 16886, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KOMIYA", 
+                    "indent": 32
+                }, 
+                "start": 16822, 
+                "indent": 32
+            }, 
+            {
+                "stop": 17400, 
+                "in_lines": [
+                    {
+                        "stop": 17590, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "KOMIYA", 
+                            "indent": 1
+                        }, 
+                        "start": 17531, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 17335, 
+                "indent": 32
+            }, 
+            {
+                "stop": 17672, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 17607, 
+                "indent": 32
+            }, 
+            {
+                "stop": 18051, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KOMIYA", 
+                    "indent": 32
+                }, 
+                "start": 17995, 
+                "indent": 32
+            }, 
+            {
+                "stop": 18179, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 18122, 
+                "indent": 32
+            }, 
+            {
+                "stop": 18301, 
+                "in_lines": [
+                    {
+                        "stop": 18435, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "RACK", 
+                            "indent": 1
+                        }, 
+                        "start": 18429, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 18463, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "DAILY EDITIONS", 
+                            "indent": 1
+                        }, 
+                        "start": 18444, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 18524, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "TABLE", 
+                            "indent": 1
+                        }, 
+                        "start": 18518, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 18658, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "STRANGE AUTOMOBILE DEATH OF YOUNG COUPLE IN YOKOHAMA", 
+                            "indent": 2
+                        }, 
+                        "start": 18592, 
+                        "indent": 2
+                    }, 
+                    {
+                        "stop": 18753, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "10 A", 
+                            "heading": "10 A", 
+                            "indent": 1
+                        }, 
+                        "start": 18748, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 18905, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "19-", 
+                            "heading": "19-", 
+                            "indent": 1
+                        }, 
+                        "start": 18901, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 18966, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "16-", 
+                            "heading": "16-", 
+                            "indent": 1
+                        }, 
+                        "start": 18962, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 19222, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GUY IN A BUSINESS SUIT", 
+                            "indent": 1
+                        }, 
+                        "start": 19198, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 19261, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "OKAZAKI", 
+                            "indent": 1
+                        }, 
+                        "start": 19253, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 19308, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "VIDEOTAPES", 
+                            "indent": 1
+                        }, 
+                        "start": 19297, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "KOMIYA", 
+                    "indent": 32
+                }, 
+                "start": 18245, 
+                "indent": 32
+            }, 
+            {
+                "stop": 19376, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "GUY IN SUIT OK,", 
+                    "indent": 32
+                }, 
+                "start": 19311, 
+                "indent": 32
+            }, 
+            {
+                "stop": 19471, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "OKAZAKI", 
+                    "indent": 32
+                }, 
+                "start": 19406, 
+                "indent": 32
+            }, 
+            {
+                "stop": 19736, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "OKAZAKI", 
+                    "indent": 32
+                }, 
+                "start": 19671, 
+                "indent": 32
+            }, 
+            {
+                "stop": 19925, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 19868, 
+                "indent": 32
+            }, 
+            {
+                "stop": 20015, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "OKAZAKI", 
+                    "indent": 32
+                }, 
+                "start": 19958, 
+                "indent": 32
+            }, 
+            {
+                "stop": 20115, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "title", 
+                "transition": null, 
+                "result": {
+                    "heading": "ASAKAWA", 
+                    "indent": 32
+                }, 
+                "start": 20058, 
+                "indent": 32
+            }
+        ]
+    ]
+]

@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "stop": 77, 
+            "in_lines": [
+                {
+                    "stop": 2142, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "THE CHURCH", 
+                        "indent": 3
+                    }, 
+                    "start": 2123, 
+                    "indent": 3
+                }, 
+                {
+                    "stop": 2334, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "THE PRISON", 
+                        "indent": 3
+                    }, 
+                    "start": 2315, 
+                    "indent": 3
+                }
+            ], 
+            "dialogue": [
+                {
+                    "stop": 89, 
+                    "raw_text": "Written by", 
+                    "start": 77, 
+                    "name": "dialogue"
+                }
+            ], 
+            "direction": [
+                {
+                    "stop": 2452, 
+                    "raw_text": "Carl Theodor Dreyer & Joseph Delteil Translated by Oliver Stallybrass At the Bibliotheque Nationale in Paris it is possible to see one of the most famous documents in the history of the world - the official record of the trial of Joan of Arc. The Bibliotheque Nationale's original record of the trial of Joan of Arc is shown on the screen. An invisible hand turns over the manuscript pages. ... If you turn over the pages, yellow with age, which contain the account of her martyrdom ... Page after page is shown of this unique document with its lines as straight as arrows, its marginal annotations, and the naive miniature drawings for which the notaries have found time and space. ... you will find Joan herself ... not the military genius who inflicted on the enemy defeat after defeat, but a simple and natural young girl ... who died for her country. The last pages are turned. Then the picture disappears and gives way to the first scene of the film, which shows 1   The prison, where Joan is sitting, praying. The flagstones, the floor in Joan's cell. We see two straws and a hand, Joan's hand, which lays the straws on the floor in the form of a cross. 2   Scenes from the church are shown: the chalice is brought out. 3   In the prison we see Joan kneeling before   her straw cross - this most fragile and exalted of crosses.   She prays in ecstatic joy, at one moment bending right   forward so that her forehead touches the flagstones, the next   moment kneeling with her hands folded and her eyes raised   to heaven as if she saw beings visible only to her. From time   to time she mutters a short prayer. 4   THE CHURCH A young monk makes his way through rows of kneeling priests. He is the Usher Massieu, who is on his way to summon Joan and conduct her to her first examination. 5   THE PRISON Joan in front of her little cross. Suddenly the two straws spin round in a mysterious gust of wind. What is it?", 
+                    "start": 105, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "speaker", 
+            "transition": null, 
+            "result": {
+                "heading": "THE PASSION OF JOAN OF ARC", 
+                "indent": 21
+            }, 
+            "start": 0, 
+            "indent": 21
+        }, 
+        [
+            {
+                "stop": 2514, 
+                "in_lines": [], 
+                "dialogue": [], 
+                "direction": [], 
+                "name": "transition", 
+                "transition": null, 
+                "result": {
+                    "ToD": "2", 
+                    "heading": "2", 
+                    "indent": 61
+                }, 
+                "start": 2452, 
+                "indent": 61
+            }
+        ]
+    ]
+]

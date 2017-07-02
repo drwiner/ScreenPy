@@ -1,0 +1,904 @@
+[
+    [
+        {
+            "stop": 51904, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 52109, 
+                    "raw_text": "Withnail: Vegtables again. I'll be sprouting feelers soon I: There's black pudding in it. Withnail: Black puddings are no good to us. I want somethings flesh!", 
+                    "start": 51904, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "----------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 51817, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 52196, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 52499, 
+                    "raw_text": "Withnail: I think I'll call myself Donald Twain. Get down, get down. It's him, what does he want? I: Better get down there and ask him. Withnail: Don't be ridiculous, he's got a gun. Bastard's phycotic, you've only got to look at him.", 
+                    "start": 52196, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "----------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 52109, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 52586, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 53535, 
+                    "raw_text": "Withnail: this place has become impossible. Nothing to eat, freezing cold and now a madman on the prowl outside with eels. I: alright you've made your point. we pack up tomorrow and get out. Withnail: where are you going? I: I'm going for a slash Withnail: you can't go outside, i can't get my boots on when they're hot. I: then i'll go alone Withnail: no you won't these are the sort of windows faces look in at. I: alright then i won't have a slash Withnail: and in both our interests i think we should sleep together tonight. I: don't be ridiculous he;s not going to come up here in the dark. Withnail: yes he is and if he catches one of us off guard he's got a much better chance of dealing with the other. I: no", 
+                    "start": 52586, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "----------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 52499, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 53623, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 54240, 
+                    "raw_text": ": ha ha ha ha ha Withnail: what are you laughing about I: i was dreaming Withnail: you frightened the piss out of me. move over I: will you get out Withnail: no I: alright, i'll have to sleep in your bed Withnail: then i'll have to come with you I: alright you can stay but the gun goes Withnail: no, i have to keep the gun . i intend to stay awake until morning. I: it's my bed and i demand presidence. mad fucking bastard", 
+                    "start": 53623, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "---------------------------------------------------------------------- I", 
+                "indent": 10
+            }, 
+            "start": 53535, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 54328, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 55846, 
+                    "raw_text": ": ah ah. what. Withnail: i heard a noise. I: there is nothing get to bed. what was that? Withnail: listen listen I: probably just foxes. perhaps its the farmer Withnail: at two in the morning? it's the killer. he's come to kill us. it's all your fault, you've even given him the fucking gun. I've got to get in. He's trying to get in. I: He can't, he'll go away. He's going away. Withnail: He's getting in thorough the window. He's sharpening the fucking knife I: where's the matches? Withnail: in the kitchen. I: alright. we'll have to tackle with him. you stay in bed and pretend to be asleep. when he goes for you i'll jump on his back. Withnail: no no, it'll be too late by then, i'll be knifed. we'll have to try and make friends with him. He's going to your room. it's you he wants. offer him yourself! we mean no harm. Monty: oh my boys, my boys. I: monty! monty monty! Withnail: monty you terrible cunt. what are you doing prowling round in the middle of the fucking night? Monty: i had a punctured tyre. i had to wait an eon for assistance. i'm sorry if i frightened you. i'll sleep in the other room if i may I: anywhere you like Monty", 
+                    "start": 54328, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "---------------------------------------------------------------------- I", 
+                "indent": 10
+            }, 
+            "start": 54240, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 55942, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 56445, 
+                    "raw_text": "Monty: ah, good morning. did you sleep well? I: mmmm. you've been busy in here Monty: as a bee. I do appologise for last night, it was perfectly inconsidereate of me. I: that's perfectly alright monty. how did you repair the window? Monty: didn't break it. merely forced it a little. there was an empty wine bottle on the ledge. tomatoes. you better wake him, breakfast in fifteen minutes.", 
+                    "start": 55942, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 55846, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 56541, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 58017, 
+                    "raw_text": "Monty: The older order changeth giving way to the new and God forfills himself in many ways and soon, I suppose, I shall be swept away by some vulgar little tumor. My boys, we are at the end of an age. We live in a land of weather forcasts and breakfasts that set in. Shat on by Tories, shovelled up by labour. Now which of you is going to be a splendid fellow and go down to the Rolls for the rest of the wine? I: I'll go. Withnail: I'll go. I: No, I'll go - I need to see about digging the car out. Monty: But we have my car dear boy. I: Yes, but if it rains we're buggered. I mean... Monty: Stranded! Withnail: Leave this to me I: I'll come with you, I could do with a walk. Besides. I shall need you to work on the joint. I hear you're a little wizard in the kitchen. Withnail: Yeah, you the food and plumbings expert. [He starts putting his polythene bags on.] Monty: What on earth are those? Withnail: We forgot to bring our wellingtons. Monty: You mean you've been up here in all this beastly mud and oomska without wellingtons? This afternoon I'll take you both into Penryth and get you fitted with some good quality rubber boots.", 
+                    "start": 56541, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 56445, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 58118, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 60831, 
+                    "raw_text": "The kitchen. [Monty has an apron on and is holding another.] Monty: I brought two of these in case either of you were any good in the kitchen. I: I'm not. Monty: Oh, of course you are. Cooking's one of the natural talents. Garlic, rosemary and salt. [He hands I a large joint of meat in a paper wrapper. I puts it down on the side.] I: Look this is all very kind of you Monty but I really ought to be out there getting some work done on the car. Monty: You haven't time we're taking late luncheon at three. I: We'll have to leave by three Monty. Didn't he tell you? We've got to get back to sign on. Monty: Sign on!? At a labour exchange!? I: Yes, it's rather fashionable actually. All the actors do it. Even Redgrave. Monty: Couldn't you forgo for just this one occasion? I've come a very long way to see you both. I: Sorry can't. I mean, I'd love to stay but he's more adament to get back than I am. [Monty slips the apron over I's head and ties it behind him.] Monty: Then we must choose our moment and have a word with him. I'm sure together we could persuade him. Now, garlic, rosemary and salt. I can never touch meat until it's cooked. As a youth I used to weep in butchers shops. [I moves through to the lounge and looks in the bags of food on the table.] I: I can't find the rosemary. Monty: Can't find the rosemary! I'm sure we could find it together. [He leans accross I in a rather comprimising fashion.] I: perhaps it's in the other bag. Monty: Perhaps it is. Shall we look? [He reaches accross with his other arm cutting of any opatunity of escape. Withnail enters with the wine and puts the bags on the table.] Withnail: Sorry. Sherry's in there. [Monty exits to the kitchen armed with the sherry.] I: What do you mean sorry!? What's he doing here? We can't stay he won't leave me alone. Withnail: Alright, we'll get the dinner down then we'll leave. [In the kitchen Monty pulls the cork from the sherry and emerges with three different glasses.] Monty: I'm afraid we must drink from these. I hope their shapes will not offend your palates. Withnail: Chin chin. Monty: To a delightful weekend in the country.", 
+                    "start": 58118, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 58017, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 60932, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 61893, 
+                    "raw_text": "Penryth [Monty's car drives into Penryth and pulls up in the town centre. Withnail and I get out of the car. Compared to Monty and the car they look rather scruffy.] Monty: I do think you could at least have shaved. What will people think, you look like a pair of farm-hands. Get away from the car. [He takes out his wallet and hands Withnail two fivers.] Monty: Now, you get the wellingtons. I'm going to but some razors and shaving soap. I'll meet you here in half an hour. [Monty drives off] Withnail: Couple of blooms. I: One each. [He removes a fiver from Withnail's hand] Withnail: I think a drink don't you? I: What about the wellingtons? Withnail: Oh, bollocks to the wellingtons. We'll tell him there was a farmer's conference and they had a run on them.", 
+                    "start": 60932, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 60831, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 61994, 
+            "in_lines": [
+                {
+                    "stop": 62571, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "BARMAN", 
+                        "indent": 1
+                    }, 
+                    "start": 62564, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 62739, 
+                    "raw_text": "Inside the pub [I is on the telephone while Withnail is at the bar.] I: yeah, ok then. yeah. promise. [He puts down the phone and walks over to withail] I: Hasn't heard a thing. They're still seeing people. Withnail: You don't want to go to Manchester anyway; play a bloody soilder. I: I don't know if I do. Bloody good little theatre that. Withnail: It's not much of a part is it. They'd make you cut you hair off. I: So what, you'd loose a leg! BARMAN: time please gents. Withnail: Alright we're going to have to work quickly. A pair of quadruple whiskies and another pair of pints please.", 
+                    "start": 61994, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 61893, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 62840, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 63116, 
+                    "raw_text": "[Withnail and I emerge unsteadily from the pub.] Withnail: Where is he. Utterly aresholed. I: We're early. [I looks accross to some tearooms] I: We want to get in there don't we. Eat some cake. Soak up the booze.", 
+                    "start": 62840, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 62739, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 63217, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 66058, 
+                    "raw_text": "[They enter the Penryth tea-rooms. I sits down at a table and starts buttering the bread rolls on the table. Withnail, still standing, points to the table and addresses an elderly waitress, Miss Blennerhassit.] Withnail: Alright here? Miss B: No, we're closing in a minute. Withnail: We're leaving in a minute. Alright here? Miss B: What do you want? [He sits down at the table and makes a rather perfunctory examination of the menu.] Withnail: We'll have tea and cake. [An elderly man comes across to their table. He is the proprietor] P: Did you hear her? She said she'd closed. What do you want in here? Withnail: Cake and tea. what's it got to do with you? P: I happen to be the proprietor. Now, will you leave? Withnail: Ah good, I'm glad you're the proprietor. I was going to have to have a word with you anyway. We're doing a film up here, location see. We might want to do a film in here. P: You're drunk. I: Just bring out the cake. Withnail: Cake and fine wine. Miss B: If you don't leave we'll call the police. Withnail: Balls. We want the finest wines availible to humanity. We want them here and we want them now. P: The police, Miss Blennerhassit. [ I breaks off from stuffing breadrolls but hasn't quite emptied his mouth at the start] I: Don't do that Miss Blenerhassit. I'm warning you Miss Blennerhassit, if you do - you're fired. We are multi-millionaries. we'll buy this place and fire you immediately. Withnail: Yeah, that's right, we'll buy this place and install a fucking duke-box and liven all you stiffs up a bit. P: The police Miss Blenerhassit. Just tell them there are a couple of drunks in the Penryth tea rooms and we'd like them removed. I: We are not drunks, we are multi-millionaires. P: Come on Mabs, we'll keep them here until they arrive [She starts to dial] Withnail: You won't keep us anywhere. Miss B: Police please Withnail: We'll buy this place and have it knocked down. I: It's alright, 's alright. Our car has arrived. [He pulls back a curtain to reveal that indeed their car has arrived, in the form on Monty in the Rolls. They get up and I staggers out the door] Withnail: We're coming back in here. [He tries to lean on a convenient post but misses and staggers a bit. He points meaningfully at the various customers as he leaves, shutting his coat in the door.]", 
+                    "start": 63217, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 63116, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 66159, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 67091, 
+                    "raw_text": "The cottage [Withnail and I are sat inside. There is no sign of Monte. I has just finished shaving and is rubbing his face with a towel.] I: Where is he? Withnail: Sulking up the hill. He says he won't come down for lunch without an appology. I: Suits me, he can eat his fucking radish. [Unseen, Monte enters and addresses I] Monty: It's all you fault. I: I beg your pardon Monte. Monty: You lead him astray. Oh don't pretend you don't understand, I know what you're up to. [Withnail stands up and offers Monte a glass] Withnail: Sherry? Monty: Sherry!? Oh no, no, no, no. I'll fall straight into his trap. He's so mauve we don't know what he'll do next. [I walks out in distgust as Monte sips the sherry.]", 
+                    "start": 66159, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 66058, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 67192, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 68270, 
+                    "raw_text": "the kitchen [I is at the sink peeling potatoes. Monte enters] Monty: I'm preparing myself to forgive you. I think you've been punished enough. I think we better release you from the legume and transfer you talents to the meat. [he takes him by the hand into the lounge] Monty: You shouldn't treat each other so badly. He's been working his fingers to the bone and all you do is sit in here drinking. Now, he's going to revitalize himself in here while you finish the vegtables. Withnail: I don't know how to do them. Monty: Well of course you don't. You're incapable of indulging in anything but pleasure am I not right? [I merely smiles] Monty: You don't deserve such loyalty. Now come along, I'm going to teach you how to peel a potato. [He rolls up Withnail's sleeves and takes him unwillingly into the kitchen. Withnail swipes a glass of sherry off the table on the way there.]", 
+                    "start": 67192, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 67091, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 68371, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 70292, 
+                    "raw_text": "the dinner table [All three are sat around the table eating a good looking roast dinner. There is plenty of extra meat and a good supply of wine.] Monty: It's very stimulating getting back to a basic sort of lifestyle. Without effecened emotion and poisonous inhibition. I: Except the problem do tend to take the edge off it. Monty: What do you mean? I: There are no proper facilities Monty: All the glorious trials of youth dear boy. When I was a lad I'd rocket off on my tandem with Wrigglesworth and ride and ride. Find some old barn and fall asleep with the sweet perfume of hay on our lips. Withnail: Would it be in poor form to plagarise a toast? Monty: It depend entirely on the quality of the wine. In this case, it most certainly would not. Withnail: In that case, to a delightful weekend in the country. Monty: Oooh, we were expecting a volley of argument concerning Mr Redgrave. [I gives Withnail a look of daggers] I: You're forgetting Jake. Monty: Jake can wait too. I: Jake's not a friend Monte. I'd hoped to avoid telling you this, but there's a madman on the loose outside. Monty: Is this true? Withnail: Well, there's this local type. Poacher. We got into a bit of a tiff and he threatened me with a dead fish. Yes, it was rather amusing acutally. When you came into the house we thought it was him and we thought that you cleaning your boots was him sharpening the knife. Monty: Oh, how delicious! I: I'm going for a walk. Monty: Oh, wait for us dear boy, we'll all go.", 
+                    "start": 68371, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 68270, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 70393, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 71206, 
+                    "raw_text": "Outside the cottage [I is leaning on the wall. Withnail emerges and walks briskly over to him] Withnail: Look, I know what your thinking but I had no alternative. The old beggers come a long way and I didn't want to put the wind up him. I: You sensitivity overwhelms me. If you think you're having a weekends indulgence up here at his expense, which means him having a weekends induldgence up here at my expense you've got another thing coming. Withnail: Anyway, he sent me out to say the coffee's ready. I: I couldn't drink it. I've got a crick in my mouth from grinning. Withnail: Well stop smilling at him. I: I can't help it, I'm so uptight with him.", 
+                    "start": 70393, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 70292, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 71307, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 73219, 
+                    "raw_text": "The hillside. [The are walking through thick bracken listening to Monte expound on Oxford.] Monty: Longtemps, longtemps de teau cheveux. Oh, Bodelair. Brings back such memories of Oxford. I [voice over] followed by yet another anecdote about his sensitive crimes in a punt with a chap called Norman who had ref hair and a poetry book stained with the butter drips from crumpets. Monty: Indeed I often wonder where Norman is now. Probably wintering with his mother in Guilford, a cat, rain, vim under the sink and both bars on. But old now, there is no true beauty without decay. Withnail: Legium pro Britania Monty: How right you are, how right you are. We live in a kingdom of (rains/reigns) where royalty comes in gangs. Come on lads, the sky's bruising, night must fall and we shall be forced to camp. I: He's having my room. I want the room with the lock. Agree to that or I'm off. Withnail: Alright, alright [They stride off back to the cottage. Before they get there, they see Jake at the door. Monte looks at him through the binoculars] I: Good old Jake eh? And that's precisely the reason I'm off back to London. Come on, lets pack up and get off. Good old Jake, eh Withnail. Lets all have a laugh. Good old Jake. Monty: He's going away. [They walk down to the cottage. There is a hare tied to the door with a note attached. Withnail unfolds the note and hands it to Monte. Monty clearly has some difficulty in reading the note.] Monty: Here hare here. [The meaning dawns on him.] Monty: Here hare here! Withnail: Good old Jake.", 
+                    "start": 71307, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 71206, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 73320, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 74077, 
+                    "raw_text": "The cottage. [They are playing poker with bottle tops and a few coins. An old gramaphone is plaing in the background. The game is stud with two down cards - Monty has the ace of spades and two small spades showing, I just queen high] Monty: Ace bets two and it's over to you. Withnail: You two and up two. I: So that's four? Monty: That's four. [I puts in four. Monty deals the last set of cards.] Monty: ? Withnail: Denai surenum defit. [He deals I another queen to I] Monty: Oh, there she is. [He deals himself another spade] Monty: A possible flush. Well, it's the two queens to bet!", 
+                    "start": 73320, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 73219, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 74178, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 75576, 
+                    "raw_text": "[Still at the table, Monty winds up the gramaphone.] Monty: Another hand? [Withnail looks up and slumps in his chair. He is totally plastered.] Monty: I think we'd better get him to bed. I: No, he's down here. You're in my room, I'm in his room and he's down here. Monty: I wouldn't dream of depriving the poor fellow of his bed. Particularlly in that condition. I: It's what he wants! Withnail: No I don't I want to get to bed! I: Come on then luvy, lets get you to bed then. A good nights sleep will do us both some good. [He grabs Withnail under the arms and manouvers him out of the room.] I: We'll I'll say good night then Monty. Withnail: I want to be alone. [I staggers up the stairs with Withnail who mumers about wanting to be on his own. He drops him on the bed and dashes back to his own room to get his bedding. Before he can get back though Monty has come up the stairs and just finished locking the door.] Monty: He doesn't want to sleep with you. I: Right then, You're in there and I'll take the couch. I'll say night night then Monty. Monty: You already have. Twice!", 
+                    "start": 74178, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 74077, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 75677, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 76490, 
+                    "raw_text": "[Downstairs I frantically aranges the blankets on the settee. Monty enters] I: What is it Monty, I'm terribly tired I need to get to bed. Monty: But not that tired eh? Are you a sponge or a stone? I: I beg you pardon Monty? Monty: Do you like to sample all facets of life or do you shut yourself off from new experience. I: I voted conserative Monty: Loyalty isn't a matter of selection. I: I quite agree, it's more a matter of chosing to whom one is loyal. I'm terribly tired Monty, I need to get to bed. Monty: You must mustn't you. Off you go then. I'll sleep down here. It won't be the first time I've been left with the couch!", 
+                    "start": 75677, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 75576, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 76591, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 79044, 
+                    "raw_text": "[I is in bed. He has barricaded the door by propping a chair against the knob. There is a determined pushing at the door from the other side which dislodges the chair and Monty enters.] Monty: Boy! Boy! I know you're not asleep boy. But he is. I've been into his room. He won't hear a thing. I: No I'm not asleep. What is it Monty, what do you want. [I lights a candle. Monty sits down on the side on the bed.] Monty: I tried not to come, oh how I tried not to. I: There's something I've got to tell you Monty. Monty: There's no need to explain, he's told me everything. I: What! What's he told you? Monty: About how you came to Chelsea and you arrest in the totenham court road. He told me about your probelms, how you feel. I: Probelms, what problems? Monty: You are a toilet trader! Go with it boy, give into to it. It's like a tide. Don't let it ruin your youth as I nearly did over Eric. I: I'm not homosexual Monty Monty: Yes you are! Of course you are. You're only saying that to deny your relationship with him. It's not his fault that he can't love you any more that it's mine that I adore you. Can't we allow ourselves this one moment of indiscretion? He need never know. I: I don't care what he knows, you must leave Monty. [I gets out of bed and goes over to the door. Monty beats him to it.] Monty: I mean to have you even if it must be burgulary. [I races to the other side of the room. Monty advances.] I: Monty you must listen! We're in an affair, we have been for years. But he's estranged, he won't allow himself to admit it. That's why he's rejecting me while you're here. On my life Monty, this is the first time in six years we havn't slept together. I couldn't cheat on him, it would kill him. Monty: Oh my dear boy, if I'd realised that I'd never have attempted to come between you. I: I know that Monty, I respected you for your sensitivity, I thank you for it. Monty: You better go to him I: Oh, I intend to. This instant.", 
+                    "start": 76591, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 76490, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 79145, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 80738, 
+                    "raw_text": "Withnail's room [Withnail is asleep in bed with the shotgun. I enters] I: Withnail you bastard wake up. Wake up you bastard before I burn this bastard bed down. Withnail: I deny all accusations. What do you want? I: I've just narrowly avoided having a buggery. And I've come in here with the express intention of wishing one on you. That said, I'm leaving for London. Withnail: Hold on, hold on. Don't let you imagination run away with you. [He light up and coughs up some phlem] I: I've just finished fighting a naked man. How dare you tell him I'm a toilet trader! Withnail: Tatical necessity. If I hadn't told him you were active we'd never have got the cottage. I: I wouldn't have wanted it, not with him in it. Withnail: I never thought he'd come all this way. I: Monty!? He'd go to New York. Withnail: Calcualted risk. I: What is all this calculated risk and tactical necessity. It's me, naked, in a corner. And how dare you tell him I love you? And how dare you tell him you rejected me? How dare you tell him that!? Withnail: Sorry about that, got a bit carried away. Sort of said it without thinking. [I takes the gun] I: Well let me tell you something Withnail, if he comes in my room again its murder and you'll be held resposible in law.", 
+                    "start": 79145, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 79044, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 80839, 
+            "in_lines": [
+                {
+                    "stop": 81713, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "VOICE", 
+                        "indent": 1
+                    }, 
+                    "start": 81707, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 82197, 
+                    "raw_text": "The cottage [Withnail is eating lunch at the table. I is reading a note] I: 'Perhaps it is just that the evesdropper should leave as his trade dictates, in secrecy and in the dead of night. I do sincerely hope that you will find the happiness that has saddly always been denied me. Yours faithfully, Montegue H Withnail.' Poor old bastard. Withnail: Now I must say, that represents a level of hippocrasy in you that I'd previously suspected but not noticed due to highly evasive skills. I: You'll suffer for this Withnail. What you have done will have to be paid for. Withnail: I'll say one thing for Monte; he keeps a sensational cellar. [There is a knock at the door.] I: Who is it. VOICE: Telegram. [I gets the telegram and opens it. He shows it to Withnail] Withnail: Well done. I: Well it doesn't mean to say I've got the part. They probably just want to see me again. Well, that settles it, we leave immediately. Withnail: What!? I: Get you stuff together, we leave in half an hour. Withnail: Don't be ridiculous, I need at least an hour for lunch.", 
+                    "start": 80839, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 80738, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 82298, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 82834, 
+                    "raw_text": "The car [Withnail is eating the lunch from a plate on his knee. It is raining heavinly and I's side of the windscreen is impossible to see through] Withnail: You got a truck coming up in this lane followed by a slow right-hander. I: This is insanity Withnail: Stay in this lane I: What lane, I can't see any lane. Withnail: Bear right, bear right. I: I can't keep this up. And I must get some sleep.", 
+                    "start": 82298, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 82197, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 82935, 
+            "in_lines": [
+                {
+                    "stop": 83997, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P1", 
+                        "indent": 1
+                    }, 
+                    "start": 83994, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 84211, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P1", 
+                        "indent": 1
+                    }, 
+                    "start": 84208, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 84312, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P1", 
+                        "indent": 1
+                    }, 
+                    "start": 84309, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 84523, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P1", 
+                        "indent": 1
+                    }, 
+                    "start": 84520, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 84601, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P1", 
+                        "indent": 1
+                    }, 
+                    "start": 84598, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 84698, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P1", 
+                        "indent": 1
+                    }, 
+                    "start": 84695, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 84837, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "QC", 
+                        "indent": 1
+                    }, 
+                    "start": 84834, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 84841, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P2", 
+                        "indent": 1
+                    }, 
+                    "start": 84838, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 84872, 
+                    "raw_text": "The car [It is daytime again, and the rain has stopped.I is asleep in the back on the car. The car jerks around and he woken. As he looks out the window, the camera moves with his view. The car is hurtling down the motorway swerving between the other cars.] I: What's going on? Withnail: I'm making time. I: Pull over, you haven't got a license. Withnail: No, I'm making time. Here comes another fucker. [They swerve infront of several more cars. Then I sees a police van behind them.] I: On no. Withnail: It's perfectly alright, leave him to me. I: You're full of scotch you silly tool. [The police van comes along side them and a policeman leans out pointing markedly to the roadside. Withnail pulls over, the van draws up in front on them and the officers approach the car. One knocks on the window and Withnail winds it down.] P1: Bit early in the morning for festivities isn't it sir? [There is a large pile of bottles on the passenger seat of the car] Withnail: They're not mine, they belong to him. P1: You're drunk. Withnail: I assure you I'm not officer, I've only had a few ales. P1: Out of the car. Please. Sir. [Withnail makes no move so he opens the door. Withnail virtually falls out then stands against the car. The policeman offers him a breathaliser] P1: Would you fill this bag please sir. [Withnail shakes his head] P1: Are you refusing to fill this bag? Withnail: I most certainly am P1: I'm placing you under arrest. Withnail: Don't be ridiculous I haven't done anything. Listen, my cousin's a QC. P2: Get in the back on the van.", 
+                    "start": 82935, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 82834, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 84973, 
+            "in_lines": [
+                {
+                    "stop": 85095, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "P3", 
+                        "indent": 1
+                    }, 
+                    "start": 85092, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 85332, 
+                    "raw_text": "Police station [Withnail is behind a screen. A sergant is sat at a desk while other policemen wonder around] P3: Serg, what's that clown up to? [The sergent pulls a gap in the screen and sees withnail with the contraption Danny gave him. He grabs the tube and urine splashes everywhere. Withnail grins sheepishly]", 
+                    "start": 84973, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 84872, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 85433, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 86153, 
+                    "raw_text": "The flat [Withnail and I enter their flat. They look through the post] Withnail: Where's our checks? I: We didn't sign on. Withnail: That wouldn't make any difference to last weeks payments. [They hear music from upstairs. The door to the bathroom is ajar and in the bath is a large black man who looks at them inquiringly. I looks in his bedroom. The bed is occupied by Danny] I: What are you doing in my bed? D: Having a sleep. I: Who's the huge spade in the bath? D: Presuming Ed. I: Well I want you out. You've got ten minutes alright? Coz I want to get in.", 
+                    "start": 85433, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 85332, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 86254, 
+            "in_lines": [
+                {
+                    "stop": 86831, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "12", 
+                        "heading": "12", 
+                        "indent": 1
+                    }, 
+                    "start": 86827, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 88651, 
+                    "raw_text": "The lounge [All four are sat in the lounge] Withnail: How did you get in? D: Inginuity man - come up the drainpipe. Would you like a smoke? Withnail: Yes I: No thanks, I've got a call to make. [Danny starts pulling out rizzlers at a prolific rate] Withnail: What are you going to do with those? D: The joint I am about to roll requires a craftsman and can utalise up to twelve spliffs. It is called a Camberwell carrot. I: It's imposible to use 12 papers on one joint. D: It is impossible to roll a camberwell carrot with anything less. Withnail: Who says it's a Camberwell carrot. D: I do. I invented it in Camberwell and it's shaped like a carrot. [Cut to Danny on the settee. The Camberwell carrot is complete and is indeed of prodidiuos proportions. As Danny lights it we see only the end but as he hands it to withnail we see the true size. It is enormous.] D: These will tend to make you very high. [Withnail takes a long draw] D: This grass is the most powerfull in the western hemisphere. It grows at exactly two thousand feet above sea-level. I have it special flown in from my man in Mexico. His name's Huang. He's an expert. [I returns from his phone call] D: Did you get the part man? [I takes a draw on the joint and splutters. He shakes his head] I: No, I got a different one. They want me to play the lead. Withnail: Congratulations. D: Where exactly have you two been? I: A trip to the countryside. D: That is a very good idea. London is a city coming down from its trip and there's going to be a lot of refugees. [Presuming Ed laughs deeply] D: Did you realise this gafs overrun with rodents? When I came in I saw one in the oven the size of a fucking dog. I: That is a dog, belongs to the man downstairs. D: Does his dog get in the oven. Withnail: No his dog doesn't come up here. D: Then it was a rodent. Quite freeked me at the time. I was going to cook onions. There was some bald gieser round here the other day reckoned you owed him", 
+                    "start": 86254, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "-------------------------------------------------------------------------------", 
+                "indent": 10
+            }, 
+            "start": 86153, 
+            "indent": 10
+        }, 
+        []
+    ], 
+    [
+        {
+            "stop": 88665, 
+            "in_lines": [
+                {
+                    "stop": 90601, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "10", 
+                        "heading": "10", 
+                        "indent": 1
+                    }, 
+                    "start": 90597, 
+                    "indent": 1
+                }, 
+                {
+                    "stop": 91465, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "91", 
+                        "heading": "91", 
+                        "indent": 1
+                    }, 
+                    "start": 91461, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 91610, 
+                    "raw_text": "quid backrent. I told him there was no question of paying rent on a property infested with rodent. Started coming on all bald with me. Withnail: You mean ratty. D: I told him to piss off. I: You bloody fool. He'll have us up in court again. D: No he won't, it's not legal. Withnail: We can quote you on that I presume. D: Law rather appeals to me actually. [Withnail laughs uncontrolably and drops to the floor] D: Just high. I: Stop laughing will you Withnail, this is serious. D: No it ain't. I looked into it. Studied the papers. I: What papers? D: Legal papers. [He shakes the papers out of a bag] I: Look, he's got our checks. What are you doing with these? D: I was going to pay them in for you. I: For christ'd sake Withnail, stop laughing will you. Look, this is a notice of eviction Withnail: Give it to my barrister. [Presuming Ed starts chanting and rotating a globe] Ed: Harriramma, Hariramma I: Shup up will you, you're giving me the fear! Give us a downer Danny, I've gone and fucked my brain. D: Sit down man, take control. You have a rush. It will pass. I: Aren't you getting absurdly high? D: Precisely the reason I'm smoking it. Withnail: I couldn't I'm spaced. D: Not as spaced as you rodents. I: Don't talk about them. D: I expect they're talking to each other. I: Talking to each other? What do you mean? D: I've dealt with them. Given 'em all drugged onion. I: Why've you drugged their onions!? D: Sit down man, find your neutral space. You have done something to your brain. You have made it high. If I lay 10 mills of diazipan on you, you will do something else to your brain, you will make it low. Why trust one drug rather than the other. That politics ain't it. I: I'm going to eat some sugar. D: I recommend you smoke some more grass. I: No way, no fucking way. D: That is an unfortunate political decission. Withnail: What are you talking about Danny? D: If you are holding onto a rising balloon you are presented with a difficult political decission - let go while you've still got the chance or hold onto the rope and continue getting higher. That's politics man. We are at the end of an age. The greatest decade in the history of mankind is nearly over. They're selling hippy wigs in wolworths. It is 91 days to the end of the decade and as presuming ed here has so consistently pointed out, we have failed to paint it black.", 
+                    "start": 88665, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "ToD": "235", 
+                "heading": "235", 
+                "indent": 10
+            }, 
+            "start": 88651, 
+            "indent": 10
+        }, 
+        []
+    ]
+]

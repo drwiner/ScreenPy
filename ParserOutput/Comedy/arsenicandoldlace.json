@@ -1,0 +1,353 @@
+[
+    [
+        {
+            "stop": 1661, 
+            "in_lines": [
+                {
+                    "stop": 1854, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "EXTERIOR DAY", 
+                        "heading": "BASEBALL FIELD", 
+                        "indent": 3
+                    }, 
+                    "start": 1817, 
+                    "indent": 3
+                }, 
+                {
+                    "stop": 2359, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "THE UMPIRE", 
+                        "indent": 7
+                    }, 
+                    "start": 2333, 
+                    "indent": 7
+                }, 
+                {
+                    "stop": 3326, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "NEW YORK", 
+                        "indent": 3
+                    }, 
+                    "start": 3314, 
+                    "indent": 3
+                }, 
+                {
+                    "stop": 3356, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "ToD": "EXTERIOR DAY", 
+                        "heading": "A BRIDGE", 
+                        "indent": 1
+                    }, 
+                    "start": 3327, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 3585, 
+                    "raw_text": "I'll knock your block off, you big stiff ! You're a bum ! The camera moves away, so we can see the other baseball spectators behind the first one. BASEBALL FIELD - EXTERIOR DAY General view of a baseball field, where a game is being played. Follow several very quick sequences (one or two seconds each) : A general view of the spectators. Then a player throwing a ball. Then a very excited brass band playing. Then a few very excited spectators. Then another player throwing a ball. Finally we see a batter missing his ball. We hear the Umpire, standing behind the catcher and heavily covered with a protection suit, yelling : THE UMPIRE Strike ! You're out ! The batter, who missed the ball, drops his bat on the ground and comes back to the Umpire. He tears the Umpire helmet and mask away, and gives him a good punch in the nose. The Umpire falls on the ground. The catcher then hits the batter. The Umpire rises slowly from the ground. Several very quick sequences : The ball-thrower drops his glove and runs to the fight. Then several excited spectators stand up to join the fight. Several player, who were waiting for their turn to go on the field, also run to the fight. Then a view of the fight, where all the players are hitting each other. Then the popcorn seller, dropping his basket to join the fight. Then spectators jumping over the balustrades to join the fight. Then another view of the players fighting. Then a final view of the Umpire, laying on the field and leaning on one elbow, and quietly munching some food. NEW YORK - A BRIDGE - EXTERIOR DAY We see a large view of a bridge with a white boat passing underneath. Written in large white letters on the screen, the words : While at the same time across the river in the", 
+                    "start": 1661, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6671, 
+                    "raw_text": "AN EXCITED GIRL VOICE Elmer, here it is. A MORE QUIET MALE VOICE I knew you'd find it. ANOTHER MALE VOICE Boy, I could sure use a drink. The camera gets down from the sign to floor level. Two journalists are approaching, one equipped with a camera. THE PHOTOGRAPHER I wonder if any big shots are getting married today ? They stop at the door of the room. Larger view of the room, where several people are, either standing in a queue, either sitting at a table and filling forms, either chatting in groups of two or three Back to the two journalists still standing a the door. THE OTHER JOURNALIST Looks like the same suckers get married every day. He looks around for a few second, then starts to move away. THE OTHER JOURNALIST Come on. The photographer makes him come back. He points to someone in the room. THE PHOTOGRAPHER Hey, the guy with the cheaters. In a line of people queueing in front of a counter, we see Mortimer Brewster, with a hat and a pair of large dark glasses. He turns around and notices the two journalists looking at him. He raises the collar of his black coat to try to hide his face. The girl in front of him turns around to look at him. She has blonde curly hair and wears a hat with a strange white feather. She is Elaine Harper. With both his hands, Mortimer turns her face back toward the counter. Back to the two journalists at the door of the room. THE OTHER JOURNALIST Now what's he hiding from ? He starts moving to get a better look at Mortimer. Mortimer moves in front of Elaine, who smiles. The two journalists are now in the room, and they look at Mortimer. THE OTHER JOURNALIST Hey, isn't that Mortimer Brewster? THE PHOTOGRAPHER Mortimer Brewster, the dramatic critic ? Mortimer looks very embarrassed. Back to the two journalists. THE OTHER JOURNALIST No, it's not him. But what a scoop it would be ! The guy who wrote The Bachelor's Bible finally getting hooked himself. Nope. It's too good to be true. Come on, let's snap the mayor in his new fire helmet and go home. THE PHOTOGRAPHER Hey, let's stick around, and see who the guy is. Back to the line of people waiting in front of the counter. The marriage clerk is standing behind a set of metal bars. A couple of people leaves the counter. It's now Mortimer and Elaine's turn. The marriage clerk sings : THE CLERK \"Two by two they come and go. Hip hip hig hay !\" He smiles to Mortimer and Elaine. THE CLERK Good morning, children. Your name, please ? ELAINE Elaine Harper. She spoke in a very soft voice. The clerk put his hand around his ear.", 
+                    "start": 3843, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "BASEBALL FAN", 
+                "indent": 10
+            }, 
+            "start": 1627, 
+            "indent": 10
+        }, 
+        [
+            {
+                "stop": 3652, 
+                "in_lines": [
+                    {
+                        "stop": 3756, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "ToD": "INTERIOR DAY", 
+                            "heading": "LICENSE BUREAU", 
+                            "indent": 1
+                        }, 
+                        "start": 3724, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 3802, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MARRIAGE LICENSE BUREAU,", 
+                            "indent": 1
+                        }, 
+                        "start": 3776, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 3873, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "AN EXCITED GIRL VOICE", 
+                            "indent": 7
+                        }, 
+                        "start": 3836, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 3932, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "A MORE QUIET MALE VOICE", 
+                            "indent": 7
+                        }, 
+                        "start": 3893, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 3989, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "ANOTHER MALE VOICE", 
+                            "indent": 7
+                        }, 
+                        "start": 3955, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 4167, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE PHOTOGRAPHER", 
+                            "indent": 7
+                        }, 
+                        "start": 4135, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 4519, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE OTHER JOURNALIST", 
+                            "indent": 7
+                        }, 
+                        "start": 4483, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 4668, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE OTHER JOURNALIST", 
+                            "indent": 7
+                        }, 
+                        "start": 4632, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 4784, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE PHOTOGRAPHER", 
+                            "indent": 7
+                        }, 
+                        "start": 4752, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 5384, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE OTHER JOURNALIST", 
+                            "indent": 7
+                        }, 
+                        "start": 5348, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 5619, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE OTHER JOURNALIST", 
+                            "indent": 7
+                        }, 
+                        "start": 5583, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 5687, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE PHOTOGRAPHER", 
+                            "indent": 7
+                        }, 
+                        "start": 5655, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 5829, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE OTHER JOURNALIST", 
+                            "indent": 7
+                        }, 
+                        "start": 5793, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 6104, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE PHOTOGRAPHER", 
+                            "indent": 7
+                        }, 
+                        "start": 6072, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 6405, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE CLERK", 
+                            "indent": 7
+                        }, 
+                        "start": 6380, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 6515, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "THE CLERK", 
+                            "indent": 7
+                        }, 
+                        "start": 6490, 
+                        "indent": 7
+                    }, 
+                    {
+                        "stop": 6582, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "ELAINE", 
+                            "indent": 7
+                        }, 
+                        "start": 6560, 
+                        "indent": 7
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 3836, 
+                        "raw_text": "there was a romance in the air. MARRIAGE LICENSE BUREAU - INTERIOR DAY Close-up on the sign MARRIAGE LICENSE BUREAU, with people passing underneath.", 
+                        "start": 3652, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "UNITED STATE PROPER", 
+                    "indent": 24
+                }, 
+                "start": 3585, 
+                "indent": 24
+            }
+        ]
+    ]
+]

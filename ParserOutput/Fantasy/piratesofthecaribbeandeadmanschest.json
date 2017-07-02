@@ -1,0 +1,2035 @@
+[
+    [
+        {
+            "stop": 483, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 1220, 
+                    "raw_text": "[teacups on a table in the rain] [sheet music on music stands in the rain] [bouquet of white orchids, Elizabeth sitting in the rain holding the bouquet] [men rowing, men on horseback, to the sound of thunder] [EITC logo on flag blowing in the wind] [many rowboats are entering the harbor] [Elizabeth sitting alone, at a distance] [marines running, kick a door in] [a mule is seen on the left in the barn where the marines enter] [Liz looking over her shoulder] [Elizabeth drops her bouquet] [Will is in manacles, being escorted by red coats]", 
+                    "start": 483, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 1351, 
+                    "raw_text": "[Elizabeth runs to Will]", 
+                    "start": 1325, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 1899, 
+                    "raw_text": "[marines cross their long axes to bar Governor from entering] [Beckett, in white hair and curls, is standing with Mercer]", 
+                    "start": 1760, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 2861, 
+                    "raw_text": "[Beckett takes another document from Mercer, who is standing with Beckett, craggy face and pony tail]", 
+                    "start": 2741, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "PORT ROYAL", 
+                "indent": 15
+            }, 
+            "start": 441, 
+            "indent": 15
+        }, 
+        [
+            {
+                "stop": 1300, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 1310, 
+                        "raw_text": "Will...!", 
+                        "start": 1300, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ELIZABETH SWANN", 
+                    "indent": 37
+                }, 
+                "start": 1220, 
+                "indent": 37
+            }, 
+            {
+                "stop": 1430, 
+                "in_lines": [
+                    {
+                        "stop": 1530, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WILL TURNER", 
+                            "indent": 1
+                        }, 
+                        "start": 1452, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 1565, 
+                        "raw_text": "Why is this happening? WILL TURNER I don't know. You look beautiful.", 
+                        "start": 1430, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ELIZABETH SWANN", 
+                    "indent": 37
+                }, 
+                "start": 1351, 
+                "indent": 37
+            }, 
+            {
+                "stop": 1644, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 1745, 
+                        "raw_text": "I think it's bad luck for the groom to see the bride before the wedding.", 
+                        "start": 1644, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ELIZABETH SWANN", 
+                    "indent": 37
+                }, 
+                "start": 1565, 
+                "indent": 37
+            }, 
+            {
+                "stop": 1982, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 2056, 
+                        "raw_text": "Governor Weatherby Swann, it's been too long.", 
+                        "start": 1982, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 1899, 
+                "indent": 37
+            }, 
+            {
+                "stop": 2139, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 2166, 
+                        "raw_text": "His Lord now... actually.", 
+                        "start": 2139, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 2056, 
+                "indent": 37
+            }, 
+            {
+                "stop": 2249, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 2386, 
+                        "raw_text": "In fact, I *do*. Mister Mercer! The warrant for the arrest of one William Turner.", 
+                        "start": 2249, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 2166, 
+                "indent": 37
+            }, 
+            {
+                "stop": 2469, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 2549, 
+                        "raw_text": "Oh, is it? That's annoying. My mistake. Arrest her.", 
+                        "start": 2469, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 2386, 
+                "indent": 37
+            }, 
+            {
+                "stop": 2628, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 2646, 
+                        "raw_text": "On what charges?", 
+                        "start": 2628, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ELIZABETH SWANN", 
+                    "indent": 37
+                }, 
+                "start": 2549, 
+                "indent": 37
+            }, 
+            {
+                "stop": 2721, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 2726, 
+                        "raw_text": "No!", 
+                        "start": 2721, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "WILL TURNER", 
+                    "indent": 37
+                }, 
+                "start": 2646, 
+                "indent": 37
+            }, 
+            {
+                "stop": 2944, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 3110, 
+                        "raw_text": "Ah-ha! Here's the one for William Turner. And I have another one for a Mister James Norrington. Is he present?", 
+                        "start": 2944, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 2861, 
+                "indent": 37
+            }, 
+            {
+                "stop": 3189, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 3214, 
+                        "raw_text": "*What are the charges?*", 
+                        "start": 3189, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ELIZABETH SWANN", 
+                    "indent": 37
+                }, 
+                "start": 3110, 
+                "indent": 37
+            }, 
+            {
+                "stop": 3297, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 3384, 
+                        "raw_text": "I don't believe that's the answer to the question I asked.", 
+                        "start": 3297, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 3214, 
+                "indent": 37
+            }, 
+            {
+                "stop": 3459, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 3548, 
+                        "raw_text": "Lord Beckett! In the category of questions *not* answered...", 
+                        "start": 3459, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "WILL TURNER", 
+                    "indent": 37
+                }, 
+                "start": 3384, 
+                "indent": 37
+            }, 
+            {
+                "stop": 3627, 
+                "in_lines": [
+                    {
+                        "stop": 3881, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "LORD CUTLER BECKETT", 
+                            "indent": 1
+                        }, 
+                        "start": 3795, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 4050, 
+                        "raw_text": "We are under the jurisdiction of the King's governor of Port Royal, and you will tell us what we are charged with. LORD CUTLER BECKETT For which the punishment, regrettably, is *also* death. Perhaps you remember a certain pirate named Jack Sparrow.", 
+                        "start": 3627, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ELIZABETH SWANN", 
+                    "indent": 37
+                }, 
+                "start": 3548, 
+                "indent": 37
+            }, 
+            {
+                "stop": 4129, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 4154, 
+                        "raw_text": "*Captain* Jack Sparrow.", 
+                        "start": 4129, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "ELIZABETH SWANN", 
+                    "indent": 37
+                }, 
+                "start": 4050, 
+                "indent": 37
+            }, 
+            {
+                "stop": 4237, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 4313, 
+                        "raw_text": "Captain Jack Sparrow. Yes, I thought you might.", 
+                        "start": 4237, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 4154, 
+                "indent": 37
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 4356, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 4524, 
+                    "raw_text": "[views of rigging ropes and blocks aboard a ship at night] [Gibbs walks the deck alone at night, singing and drinking from a bottle]", 
+                    "start": 4356, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 5042, 
+                    "raw_text": "[a bell tolls, Gibbs is interrupted from his drinking by the sound] [Gibbs looks up to see a flock of crows flying in the foggy night sky]", 
+                    "start": 4852, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "BLACK PEARL", 
+                "indent": 15
+            }, 
+            "start": 4313, 
+            "indent": 15
+        }, 
+        [
+            {
+                "stop": 4594, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 4837, 
+                        "raw_text": "Fifteen men on a dead man's chest. Yo ho ho, and a *bottle* of rum. Drink and the devil had done for the rest. Yo ho ho, and a *bottle* of rum. Ha-ha-ha-ha-ha!", 
+                        "start": 4594, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 4524, 
+                "indent": 37
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 5088, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 6488, 
+                    "raw_text": "[tolling of bells, camera pans to show the crows flying toward a coastal island] [pinnacle-like island off the coast at night, connected to the mainland by thin, lighted bridge] [cages with men inside line the bridge] [prisoners are being marched across the bridge] [a male prisoner with bloody legs is muttering, and is dragged across the bridge by guards] [a crow is seen reflected in the eye of one male prisoner in a cage, the crow attacks and pecks his eye out, he screams] [the prisoner who was being dragged is taken down a hatch-like door in the ground, he also screams] [rocky shoreline, lit with torches] [men toss caskets into the sea] [numerous caskets are floating out to sea, vertical streaks in the distant clouds are seen] [a crow lands on one casket, begins pecking at the top] [sudden gunblast from inside the casket blows the crow away, along with much wood] [hand holding flintlock pistol emerges, pans about, points it at audience for a moment] [Jack breaks out of the top of the casket, puts his captain's hat on]", 
+                    "start": 5088, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6631, 
+                    "raw_text": "[Jack breaks the skeleton's leg off]", 
+                    "start": 6593, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 6950, 
+                    "raw_text": "[Jack uses the skeleton leg as an oar, rows toward the full moon and a waiting ship in the distance to the right of the moon]", 
+                    "start": 6806, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "TURKISH PRISON", 
+                "indent": 15
+            }, 
+            "start": 5042, 
+            "indent": 15
+        }, 
+        [
+            {
+                "stop": 6564, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 6578, 
+                        "raw_text": "Sorry, mate.", 
+                        "start": 6564, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 6488, 
+                "indent": 37
+            }, 
+            {
+                "stop": 6707, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 6791, 
+                        "raw_text": "Mind if we make a little side trip? I didn't think so.", 
+                        "start": 6707, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 6631, 
+                "indent": 37
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 6993, 
+            "in_lines": [], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 7229, 
+                    "raw_text": "[Jack arrives at the Black Pearl in his coffin rowboat] [Gibbs holds out his hand to help Jack aboard, Jack puts the skeleton leg in Gibbs' hand] [Cotton drapes a coat onto Jack's back]", 
+                    "start": 6993, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 8279, 
+                    "raw_text": "Aye.", 
+                    "start": 8273, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 8374, 
+                    "raw_text": "Aye.", 
+                    "start": 8368, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 9461, 
+                    "raw_text": "[the monkey snarls, seizes the cloth, scampers off with it]", 
+                    "start": 9400, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 9881, 
+                    "raw_text": "[Jack attempts to shoot the monkey with his pistol, his pistol misfires] [Jack grabs a pistol from another crewman and blasts the monkey while it's on the deck] [the monkey drops the cloth, but is unharmed, and scurries into the rigging]", 
+                    "start": 9559, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 10137, 
+                    "raw_text": "[Marty picks up the cloth that the monkey dropped]", 
+                    "start": 10085, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 10612, 
+                    "raw_text": "[Jack holds up the cloth, the crew crowd forward] [Among the crew: Chinese man, black man with a black beard, white bearded man with large black hat]", 
+                    "start": 10389, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 12450, 
+                    "raw_text": "[Marty and Gibbs gather alone by the railing]", 
+                    "start": 12403, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13018, 
+                    "raw_text": "[the Black Pearl is shown at night in a thunderstorm]", 
+                    "start": 12963, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "BLACK PEARL", 
+                "indent": 15
+            }, 
+            "start": 6950, 
+            "indent": 15
+        }, 
+        [
+            {
+                "stop": 7298, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 7330, 
+                        "raw_text": "Not *quite* according to plan.", 
+                        "start": 7298, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 7229, 
+                "indent": 37
+            }, 
+            {
+                "stop": 7406, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 7451, 
+                        "raw_text": "Complications arose, ensued, were overcome.", 
+                        "start": 7406, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 7330, 
+                "indent": 37
+            }, 
+            {
+                "stop": 7520, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 7557, 
+                        "raw_text": "You got what you went in for, then?", 
+                        "start": 7520, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 7451, 
+                "indent": 37
+            }, 
+            {
+                "stop": 7633, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 7642, 
+                        "raw_text": "Mm-hmm!", 
+                        "start": 7633, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 7557, 
+                "indent": 37
+            }, 
+            {
+                "stop": 7711, 
+                "in_lines": [
+                    {
+                        "stop": 8085, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "LEECH", 
+                            "indent": 1
+                        }, 
+                        "start": 8013, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 8238, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "MARTY", 
+                            "indent": 1
+                        }, 
+                        "start": 8166, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 8258, 
+                        "raw_text": "Captain, I think the crew, meaning me as well, were expecting something a bit more... *shiny*. What with the Isla de Muerta going all pear shaped, reclaimed by the sea, and the treasure with it. LEECH And the Royal Navy chasing us all around the Atlantic. MARTY And the hurricane!", 
+                        "start": 7711, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 7642, 
+                "indent": 37
+            }, 
+            {
+                "stop": 8347, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 8353, 
+                        "raw_text": "Aye.", 
+                        "start": 8347, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "CREW", 
+                    "indent": 37
+                }, 
+                "start": 8279, 
+                "indent": 37
+            }, 
+            {
+                "stop": 8443, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 8545, 
+                        "raw_text": "All in all, it's seems some time since we did a speck of honest pirating.", 
+                        "start": 8443, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 8374, 
+                "indent": 37
+            }, 
+            {
+                "stop": 8621, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 8629, 
+                        "raw_text": "Shiny?", 
+                        "start": 8621, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 8545, 
+                "indent": 37
+            }, 
+            {
+                "stop": 8698, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 8711, 
+                        "raw_text": "Aye, shiny.", 
+                        "start": 8698, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 8629, 
+                "indent": 37
+            }, 
+            {
+                "stop": 8787, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 8949, 
+                        "raw_text": "Is that how you're all feeling, then? Perhaps dear old Jack is not serving your best interests as captain?", 
+                        "start": 8787, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 8711, 
+                "indent": 37
+            }, 
+            {
+                "stop": 9028, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 9118, 
+                        "raw_text": "Awk! Walk the plank! [Jack grabs his pistol and points it at the bird]", 
+                        "start": 9028, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "COTTON'S PARROT", 
+                    "indent": 37
+                }, 
+                "start": 8949, 
+                "indent": 37
+            }, 
+            {
+                "stop": 9194, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 9218, 
+                        "raw_text": "What did the bird say?", 
+                        "start": 9194, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 9118, 
+                "indent": 37
+            }, 
+            {
+                "stop": 9287, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 9385, 
+                        "raw_text": "Do not blame the bird. Show us what is on that piece of cloth there.", 
+                        "start": 9287, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LEECH", 
+                    "indent": 37
+                }, 
+                "start": 9218, 
+                "indent": 37
+            }, 
+            {
+                "stop": 9537, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 9544, 
+                        "raw_text": "Ohhh!", 
+                        "start": 9537, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 9461, 
+                "indent": 37
+            }, 
+            {
+                "stop": 9950, 
+                "in_lines": [
+                    {
+                        "stop": 10057, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "JACK SPARROW", 
+                            "indent": 2
+                        }, 
+                        "start": 9977, 
+                        "indent": 2
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 10070, 
+                        "raw_text": "Know that don't do no good. JACK SPARROW It does me.", 
+                        "start": 9950, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 9881, 
+                "indent": 37
+            }, 
+            {
+                "stop": 10206, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 10219, 
+                        "raw_text": "It's a key!", 
+                        "start": 10206, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTY", 
+                    "indent": 37
+                }, 
+                "start": 10137, 
+                "indent": 37
+            }, 
+            {
+                "stop": 10295, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 10374, 
+                        "raw_text": "No! Much more better. It is a *drawing* of a key.", 
+                        "start": 10295, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 10219, 
+                "indent": 37
+            }, 
+            {
+                "stop": 10688, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 10717, 
+                        "raw_text": "Gentlemen, what do keys do?", 
+                        "start": 10688, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 10612, 
+                "indent": 37
+            }, 
+            {
+                "stop": 10786, 
+                "in_lines": [
+                    {
+                        "stop": 10885, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GIBBS", 
+                            "indent": 1
+                        }, 
+                        "start": 10813, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 11092, 
+                        "raw_text": "Keys... unlock... *things*? GIBBS And whatever this key unlocks, *inside* there's something valuable. So, we're setting out to find whatever this key unlocks!", 
+                        "start": 10786, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LEECH", 
+                    "indent": 37
+                }, 
+                "start": 10717, 
+                "indent": 37
+            }, 
+            {
+                "stop": 11168, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 11537, 
+                        "raw_text": "No! If we don't have the key, we can't open whatever it is we don't have that it unlocks. So what purpose would be served in finding whatever need be unlocked, which we don't have, without first having found the key what unlocks it?", 
+                        "start": 11168, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 11092, 
+                "indent": 37
+            }, 
+            {
+                "stop": 11606, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 11640, 
+                        "raw_text": "So - We're going after this key!", 
+                        "start": 11606, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GIBBS", 
+                    "indent": 37
+                }, 
+                "start": 11537, 
+                "indent": 37
+            }, 
+            {
+                "stop": 11716, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 11800, 
+                        "raw_text": "You're not making any sense at all. Any more questions?", 
+                        "start": 11716, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 11640, 
+                "indent": 37
+            }, 
+            {
+                "stop": 11869, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 11898, 
+                        "raw_text": "So... Do we have a heading?", 
+                        "start": 11869, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTY", 
+                    "indent": 37
+                }, 
+                "start": 11800, 
+                "indent": 37
+            }, 
+            {
+                "stop": 11974, 
+                "in_lines": [
+                    {
+                        "stop": 12153, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GIBBS", 
+                            "indent": 1
+                        }, 
+                        "start": 12081, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 12238, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "JACK SPARROW", 
+                            "indent": 1
+                        }, 
+                        "start": 12159, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 12388, 
+                        "raw_text": "Hah! A heading. Set sail in a... mmm... a general... in *that* way - direction. GIBBS Cap'n? JACK SPARROW Come on, snap to and make sail, you know how this works. Come on, ?oy/?quick, ?oy/?quick, hey!", 
+                        "start": 11974, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 11898, 
+                "indent": 37
+            }, 
+            {
+                "stop": 12519, 
+                "in_lines": [
+                    {
+                        "stop": 12724, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "GIBBS", 
+                            "indent": 1
+                        }, 
+                        "start": 12652, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 12948, 
+                        "raw_text": "Have you noticed lately... The captain seems to be actin' a bit strange... -er. GIBBS Settin' sail without knowing his own headin'? Somethin's got Jack vexed. Mark my words, what bodes ill for Jack Sparrow bodes ill for us all.", 
+                        "start": 12519, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "MARTY", 
+                    "indent": 37
+                }, 
+                "start": 12450, 
+                "indent": 37
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 13043, 
+            "in_lines": [
+                {
+                    "stop": 13079, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "EITC HEADQUARTERS", 
+                        "indent": 1
+                    }, 
+                    "start": 13044, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 13211, 
+                    "raw_text": ": EITC HEADQUARTERS [a painter is painting a detail on a mural of a world map] [a guard brings Will in manacles into Beckett's office]", 
+                    "start": 13043, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 13881, 
+                    "raw_text": "[Will's manacles are removed] [Beckett pours some liquor] LORD CUTLER BECKETT The East India Trading Company has need of your services.  We wish for you to act as our agent in a business transaction with our mutual friend: Captain Sparrow.", 
+                    "start": 13478, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 14905, 
+                    "raw_text": "[Beckett goes over to a wooden box on a table and opens it]", 
+                    "start": 14844, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "PORT ROYAL", 
+                "indent": 15
+            }, 
+            "start": 13018, 
+            "indent": 15
+        }, 
+        [
+            {
+                "stop": 13280, 
+                "in_lines": [
+                    {
+                        "stop": 13436, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "LORD CUTLER BECKETT", 
+                            "indent": 1
+                        }, 
+                        "start": 13350, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 13637, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "LORD CUTLER BECKETT", 
+                            "indent": 1
+                        }, 
+                        "start": 13551, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 13463, 
+                        "raw_text": "Lord Beckett. The prisoner as ordered, Sir. LORD CUTLER BECKETT Those won't be necessary.", 
+                        "start": 13280, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "GUARD", 
+                    "indent": 37
+                }, 
+                "start": 13211, 
+                "indent": 37
+            }, 
+            {
+                "stop": 13956, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 14036, 
+                        "raw_text": "More acquaintance than friend. How do you know him?", 
+                        "start": 13956, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "WILL TURNER", 
+                    "indent": 37
+                }, 
+                "start": 13881, 
+                "indent": 37
+            }, 
+            {
+                "stop": 14119, 
+                "in_lines": [
+                    {
+                        "stop": 14302, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WILL TURNER", 
+                            "indent": 1
+                        }, 
+                        "start": 14224, 
+                        "indent": 1
+                    }, 
+                    {
+                        "stop": 14418, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "LORD CUTLER BECKETT", 
+                            "indent": 1
+                        }, 
+                        "start": 14332, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 14624, 
+                        "raw_text": "We've had dealings in the past.  And we've each left our mark... on the other. WILL TURNER What mark did he leave on you? LORD CUTLER BECKETT By your efforts Jack Sparrow was set free. I would like you to go to him, and recover a certain property in his possession.", 
+                        "start": 14119, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 14036, 
+                "indent": 37
+            }, 
+            {
+                "stop": 14699, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 14734, 
+                        "raw_text": "Recover. At the point of a sword?", 
+                        "start": 14699, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "WILL TURNER", 
+                    "indent": 37
+                }, 
+                "start": 14624, 
+                "indent": 37
+            }, 
+            {
+                "stop": 14817, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 14829, 
+                        "raw_text": "*Bargain*!", 
+                        "start": 14817, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 14734, 
+                "indent": 37
+            }, 
+            {
+                "stop": 14988, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 15192, 
+                        "raw_text": "Letters of Marque. You will offer what amounts to a full pardon. Jack will be free, a privateer in the employ of England.", 
+                        "start": 14988, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 14905, 
+                "indent": 37
+            }, 
+            {
+                "stop": 15267, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 15365, 
+                        "raw_text": "Somehow I doubt Jack will consider employment the same as being free.", 
+                        "start": 15267, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "WILL TURNER", 
+                    "indent": 37
+                }, 
+                "start": 15192, 
+                "indent": 37
+            }, 
+            {
+                "stop": 15449, 
+                "in_lines": [
+                    {
+                        "stop": 15896, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "WILL TURNER", 
+                            "indent": 1
+                        }, 
+                        "start": 15818, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 15968, 
+                        "raw_text": "Freedom.  Jack Sparrow is a dying breed. The world is shrinking, the blank pages of the map filled in. Jack must find his place in the new world or perish. Not unlike you, Mister Turner. You and your fiancee face the hangman's noose. WILL TURNER So you get both Jack *and* the Black Pearl.", 
+                        "start": 15449, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 15365, 
+                "indent": 37
+            }, 
+            {
+                "stop": 16051, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 16069, 
+                        "raw_text": "The Black Pearl?", 
+                        "start": 16051, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 15968, 
+                "indent": 37
+            }, 
+            {
+                "stop": 16144, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 16186, 
+                        "raw_text": "The property you want that he possesses.", 
+                        "start": 16144, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "WILL TURNER", 
+                    "indent": 37
+                }, 
+                "start": 16069, 
+                "indent": 37
+            }, 
+            {
+                "stop": 16269, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 16614, 
+                        "raw_text": "A ship? Hardly. The item in question's considerably smaller and far more valuable. Something Sparrow keeps on his person at all times. A compass.  Ah, you know it. Bring back that Compass, or there's no deal.", 
+                        "start": 16269, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "LORD CUTLER BECKETT", 
+                    "indent": 37
+                }, 
+                "start": 16186, 
+                "indent": 37
+            }
+        ]
+    ], 
+    [
+        {
+            "stop": 16657, 
+            "in_lines": [
+                {
+                    "stop": 16735, 
+                    "in_lines": [], 
+                    "dialogue": [], 
+                    "direction": [], 
+                    "name": "in_line", 
+                    "transition": null, 
+                    "result": {
+                        "heading": "\"P\"", 
+                        "indent": 1
+                    }, 
+                    "start": 16713, 
+                    "indent": 1
+                }
+            ], 
+            "dialogue": [], 
+            "direction": [
+                {
+                    "stop": 16966, 
+                    "raw_text": "[Jack is using calipers on a map, using his left hand, a \"P\" brand mark is seen on his right arm] [an hourglass is in the background, Jack taps the Compass] [Jack looks in his bottle, turns the bottle upside-down, only a few drops spill out]", 
+                    "start": 16657, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 17185, 
+                    "raw_text": "[Jack rises to his feet, staggers] [Jack picks up his hat off the top of a globe]", 
+                    "start": 17086, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 17472, 
+                    "raw_text": "[Jack walks past the crew sleeping on hammocks, Jack is carrying a lantern] [some of the crew are snoring, and Cotton is among those sleeping]", 
+                    "start": 17295, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 17906, 
+                    "raw_text": "[Jack goes downstairs to the hold, an animal bleats, Jack unlocks the door, goes in] [Jack sees eerie filter feeder creatures festooning a beam of wood] [Jack spots a rack of bottles, with the bottles stored sideways like in a wine rack]", 
+                    "start": 17584, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 18254, 
+                    "raw_text": "[Jack pulls a sideways bottle from the rack] [Jack pours sand out of the bottle] [Jack drops bottle of rum in fright, the bottle breaks on the floor] [Jack walks over to see who spoke]", 
+                    "start": 18002, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 18476, 
+                    "raw_text": "[Bootstrap looks up from where he's sitting on a barrel, crabs scuttle across his face]", 
+                    "start": 18370, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 18886, 
+                    "raw_text": "[Bootstrap immediately hands Jack a bottle of rum] [Jack pries the bottle from Bootstrap's hand with a crackling sound]", 
+                    "start": 18732, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 19166, 
+                    "raw_text": "[Jack tinks the lip of the bottle with his fingers, then blows across the top of the bottle]", 
+                    "start": 19055, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 19306, 
+                    "raw_text": "[Jack takes a drink from the bottle]", 
+                    "start": 19268, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 20108, 
+                    "raw_text": "[a small hermit crab scuttles by Bootstrap, on top of the barrel where Bootstrap sits] [Bootstrap grabs the hermit crab, pops it into his mouth, and crunches on it] [Jack moves his mouth, jaw, and tongue around in revulsion while watching] [Jack hands the bottle back to Bootstrap]", 
+                    "start": 19726, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 20411, 
+                    "raw_text": "[Jack starts to walk off, but Bootstrap stands up at the same time and intercepts Jack, blocking him]", 
+                    "start": 20291, 
+                    "name": "direction"
+                }, 
+                {
+                    "stop": 21008, 
+                    "raw_text": "[Jack looks at the palm of his left hand, where a black spot boils into view] [Jack looks up, but Bootstrap has disappeared]", 
+                    "start": 20849, 
+                    "name": "direction"
+                }
+            ], 
+            "name": "heading", 
+            "transition": null, 
+            "result": {
+                "heading": "BLACK PEARL", 
+                "indent": 15
+            }, 
+            "start": 16614, 
+            "indent": 15
+        }, 
+        [
+            {
+                "stop": 17042, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 17071, 
+                        "raw_text": "Why is the rum always gone?", 
+                        "start": 17042, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 16966, 
+                "indent": 37
+            }, 
+            {
+                "stop": 17261, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 17280, 
+                        "raw_text": "Oh! *That's* why.", 
+                        "start": 17261, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 17185, 
+                "indent": 37
+            }, 
+            {
+                "stop": 17548, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 17569, 
+                        "raw_text": "As you were, gents.", 
+                        "start": 17548, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 17472, 
+                "indent": 37
+            }, 
+            {
+                "stop": 17982, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 17987, 
+                        "raw_text": "Ah!", 
+                        "start": 17982, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 17906, 
+                "indent": 37
+            }, 
+            {
+                "stop": 18330, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 18355, 
+                        "raw_text": "Bootstrap. Bill Turner.", 
+                        "start": 18330, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 18254, 
+                "indent": 37
+            }, 
+            {
+                "stop": 18552, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 18570, 
+                        "raw_text": "Is this a dream?", 
+                        "start": 18552, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 18476, 
+                "indent": 37
+            }, 
+            {
+                "stop": 18646, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 18717, 
+                        "raw_text": "I thought not. If it were, there'd be rum.", 
+                        "start": 18646, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 18570, 
+                "indent": 37
+            }, 
+            {
+                "stop": 18962, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 19040, 
+                        "raw_text": "I had some help retrieving the Pearl, by the way.", 
+                        "start": 18962, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 18886, 
+                "indent": 37
+            }, 
+            {
+                "stop": 19242, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 19253, 
+                        "raw_text": "Your son.", 
+                        "start": 19242, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 19166, 
+                "indent": 37
+            }, 
+            {
+                "stop": 19382, 
+                "in_lines": [
+                    {
+                        "stop": 19540, 
+                        "in_lines": [], 
+                        "dialogue": [], 
+                        "direction": [], 
+                        "name": "in_line", 
+                        "transition": null, 
+                        "result": {
+                            "heading": "JACK SPARROW", 
+                            "indent": 1
+                        }, 
+                        "start": 19461, 
+                        "indent": 1
+                    }
+                ], 
+                "dialogue": [
+                    {
+                        "stop": 19546, 
+                        "raw_text": "And to what do I owe the pleasure of your carbuncle? JACK SPARROW Who?", 
+                        "start": 19382, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 19306, 
+                "indent": 37
+            }, 
+            {
+                "stop": 19622, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 19711, 
+                        "raw_text": "Ah. So it's you, then.  He shanghaied you into service, eh?", 
+                        "start": 19622, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 19546, 
+                "indent": 37
+            }, 
+            {
+                "stop": 20184, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 20276, 
+                        "raw_text": "It's funny what a man will do to forestall his final judgment -", 
+                        "start": 20184, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 20108, 
+                "indent": 37
+            }, 
+            {
+                "stop": 20487, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 20498, 
+                        "raw_text": "Technic -", 
+                        "start": 20487, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 20411, 
+                "indent": 37
+            }, 
+            {
+                "stop": 20574, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 20672, 
+                        "raw_text": "Yes, but the Flying Dutchman already *has* a captain, so there's re -", 
+                        "start": 20574, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 20498, 
+                "indent": 37
+            }, 
+            {
+                "stop": 20748, 
+                "in_lines": [], 
+                "dialogue": [
+                    {
+                        "stop": 20834, 
+                        "raw_text": "Any idea when Jones might release said terrible beastie?", 
+                        "start": 20748, 
+                        "name": "dialogue"
+                    }
+                ], 
+                "direction": [], 
+                "name": "speaker", 
+                "transition": null, 
+                "result": {
+                    "heading": "JACK SPARROW", 
+                    "indent": 37
+                }, 
+                "start": 20672, 
+                "indent": 37
+            }
+        ]
+    ]
+]
