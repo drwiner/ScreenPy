@@ -1,0 +1,9430 @@
+AT FIRST SIGHT
+
+BODY { background-color: "#FFFFFF"; font-family: Courier New, Helvetica, sans-serif; font-size:10.0pt }
+
+DIV { position:absolute; left:5px; top:20px; width:734px; height:500px;  }
+
+#loc { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.2in; margin-bottom:0in;
+
+margin-left:0.8in;text-transform:uppercase } 
+
+#slug {
+
+	font-family:Courier New;
+
+	font-weight: normal;
+
+	margin-top:0in;
+
+	margin-right:1.2in;
+
+	margin-bottom:0in;
+
+	margin-left:0.8in;
+
+	text-transform:uppercase;
+
+<b>	
+
+</b><b>} 
+
+</b>
+
+#act { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;
+
+margin-left:0.8in } 
+
+#speaker { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.in; margin-bottom:0in;
+
+margin-left:2.8in;text-transform:uppercase }
+
+#spkdir { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.7in; margin-bottom:0in;
+
+margin-left:2.2in }
+
+#dia { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.6in; margin-bottom:0in;
+
+margin-left:1.6in }
+
+#pg { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.75in; margin-bottom:0in;
+
+margin-left:6.5in }
+
+#right { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:0.75in; margin-bottom:0in;
+
+margin-left:5.0in }
+
+AT FIRST SIGHT
+
+EXT. VALLEY - DUSK
+
+Gold light dappling across a valley that seems to reach on forever. 
+
+We ease back, revealing more - taking in the visual feast - finally 
+
+discovering a seated figure facing out over the valley - a DOG at 
+
+his feet. 
+
+VIRGIL ANDERSON, life ahead of him - someone seemingly at ease with 
+
+himself. As we watch. him a moment - SOUNDS become prominent - 
+
+whistle of the wind through the grass - a bird's wings as it takes 
+
+flight - a tree branch creaking under its own weight. And as he sits 
+
+there, listening, we see the last rays of sunlight slip from the 
+
+day. 
+
+BLACK - and our TITLES come up. 
+
+Then out of the darkness come a pair of HEADLIGHTS. - and we're: 
+
+EXT. NEW YORK TURNPIKE - INTO PINECREST - DUSK 
+
+An old BMW 2002 making its way up the Taconic Parkway. 
+
+INT. BMW - DUSK 
+
+On the radio: Whitney Houston's "I'll Always Love You". AMY TREMONT, 
+
+30's, driving, on the phone. 
+
+AMY
+
+I'm lost Betsy, and you know me - 
+
+I don't wear lost well - wait, wait I'm losing you...
+
+(the cell phone glitches)
+
+I'm pulling over before you disappear forever.
+
+Amy pulls off the side of the road. Wrestles with a map and the 
+
+phone. 
+
+AMY
+
+Sign? I was looking for a sign? There's no...
+
+Her attention is caught by something off camera. She stares out into 
+
+the night.. 
+
+HER POV - A small iced over pond - and in the middle - moving about 
+
+is Virgil, ICE SKATING - hockey stick in hand - moving about the 
+
+rink with an imaginary puck. 
+
+AMY (O.S.)
+
+(distracted)
+
+Yes... I took the first ..... no, no, I'm listening...
+
+Virgil winds up and takes a slap at the ice with his stick - throws 
+
+his hands up in the air like he just scored. 
+
+Amy smiles, peers off down the road. A sign: BEAR MTN. SPA AND 
+
+RESORT 1.4 miles. 
+
+AMY
+
+Wait, I got it - yeah. No don't call me.. right, 
+
+unless you hear from Atlanta. And fax me the 
+
+designs - I want to tinker with them a bit more
+
+... I'm going to rest - bye - I'll see you in a week.
+
+Beep she hangs up. Looks back out to the pond. It's empty. Shrugs - 
+
+about to pull out - that love song still blaring. 
+
+AMY
+
+Oh p-lease, Whitney.
+
+CLICK - she shuts off the radio - and pulls back out onto the road. 
+
+EXT. BEAR MTN. HEALTH SPA - NIGHT 
+
+Amy pulling luggage out of her car. She takes a breath - clearly 
+
+she's exhausted - and starts towards the entrance. 
+
+INT. BEAR MTN. HEALTH SPA - RECEPTION DESK - NIGHT 
+
+Amy at the front desk with the Night Manager CAROLINE, 30'S, 
+
+annoyingly fit. 
+
+CAROLINE
+
+... we have a full weight room, lifecycles, 
+
+stairmasters, a spa, yoga, aerobics, spin classes...
+
+AMY
+
+I'm really just looking for a quick fix, here. 
+
+Do you have anything that just involves lying down?
+
+CAROLINE
+
+A massage.
+
+AMY
+
+Great. I'll have one a day. Not too early.
+
+INT. BEAR MTN. - MASSAGE WAITING AREA - NEXT DAY 
+
+Amy enters, wearing sweats, she checks her watch - looks toward a 
+
+closed door - about to grab a magazine when she hears from behind 
+
+the door: 
+
+WOMAN'S VOICE
+
+Virgil, Oh God..., right there. Yes.
+
+Amy's interest piques - the woman's murmur continuing - deep 
+
+ecstasy. 
+
+WOMAN'S VOICE
+
+Yes there - a bit more...
+
+(a small bell DINGS)
+
+--wait - wait, you can't stop - one more minute - noo! 
+
+VIRGIL'S VOICE
+
+Sorry, Susan - time's up. 
+
+I've got someone waiting.
+
+And the door opens - and we see a woman, 60's, 
+
+SUSAN, Bette Midler type, backing out of the room. 
+
+SUSAN
+
+Virgil, you have to come live with me.
+
+VIRGIL'S VOICE
+
+And what would your husband say? 
+
+Amy, you out there? - c'mon in.
+
+SUSAN
+
+That's it - I'm getting a divorce.
+
+Amy smiles as she passes Susan and enters. 
+
+INT. VIRGIL'S MASSAGE ROOM - DAY 
+
+Virgil has his back to us as he prepares the table. The room is very 
+
+ordered - every vial, bottle, towel has its exact spot. 
+
+VIRGIL
+
+Hey, Amy, I'm Virgil - why don't you 
+
+get ready - hop up on the table.
+
+Amy sees Virgil - his head turned slightly away - she drops her 
+
+sweats and lies on the table, face down - pulling the sheet to cover 
+
+herself. 
+
+AMY
+
+Sounds like you're a genius at this.
+
+VIRGIL
+
+(laughs)
+
+That's right.. Mozart, Einstein, Virgil Anderson, massage therapist. 
+
+Now I'm going to start working somewhat deep -
+
+you let me know if you want anything deeper.
+
+AMY
+
+Deeper is good - where I come from, 
+
+all you get is shallow.
+
+VIRGIL
+
+I like that - deep it is.
+
+CLICK - he hits a button on a CD player and as we hear the soulful 
+
+aria "Mira, 0 Norma" from Bellini's Norma. 
+
+VIRGIL
+
+First time in Pinecrest?
+
+AMY
+
+Came in late last night.. 
+
+missed the town completely.
+
+VIRGIL
+
+If you came in broad daylight, 
+
+you could still miss the town completely.
+
+DISSOLVE TO:
+
+Slow moving cuts of Virgil, working long strokes over Amy's body - - 
+
+his hands gracefully LENGTHENING and STRETCHING her muscles. 
+
+VIRGIL
+
+Too much compute? work.
+
+AMY
+
+Uh-huh.
+
+VIRGIL
+
+Bad chair - you should think about a change.
+
+AMY
+
+(quiet)
+
+Absolutely.
+
+Virgil reaches his hands all the way down her spine and makes a move 
+
+that causes Amy to release a very deep guttural sound. 
+
+VIRGIL
+
+Too deep?
+
+AMY
+
+No.. ..... just right.
+
+Amy is now lost in another world - as Virgil shifts - working gently 
+
+- not caressing - but molding - like a sculptor. 
+
+A moment and Amy, surprisingly, begins to cry - softly. Virgil stops 
+
+- takes a step back. 
+
+VIRGIL
+
+I - I'm sorry - it was too deep...
+
+She cries for another few beats - then takes a breath. 
+
+AMY
+
+No - it.. It's not you..
+
+It's just things have kinda built up, 
+
+I don't know why I'm crying.. look, 
+
+this is embarrassing...
+
+VIRGIL 
+
+Don't be embarrassed - 
+
+you obviously needed it. 
+
+We should stop for today.
+
+AMY
+
+Yeah, thanks.
+
+You always make the girls cry.
+
+VIRGIL
+
+Not since grade school. 
+
+I'm going to go now - unless you'd like me to stay.
+
+AMY
+
+Could you - just for a minute?
+
+VIRGIL
+
+Of course, whatever you need.
+
+Virgil sits next to her - then reaches out - takes her hand and 
+
+starts a slow comforting massage - we see Amy visibly relax. 
+
+AMY
+
+You ever feel like a Martian's
+
+invaded your entire body?
+
+VIRGIL
+
+Every day.
+
+Amy, closes her eyes - smiling slightly in thanks. 
+
+INT. VIRGIL'S MASSAGE ROOM - LATER 
+
+CAMERA pans slowly over to Amy asleep - and on the click of the door 
+
+- her eyes dreamily open. 
+
+AMY
+
+Virgil?
+
+INT. BEAR MTN. HEALTH SPA - LATE DAY 
+
+Hallway outside the massage area. Amy exits the change room, now 
+
+wearing her sweats - pulling on her sneakers. 
+
+VIRGIL (O.S.)
+
+(calling out)
+
+Hey Caroline, you look incredible today.
+
+CAROLINE (O.S.)
+
+(laughing)
+
+Quite a compliment, Virgil. See ya tomorrow.
+
+VIRGIL (O.S.)
+
+See ya.
+
+Amy looks down the hall - sees a glimpse of Virgil rounding the 
+
+corner. She chases after hi~n into the reception area where she sees 
+
+him exiting the door and moving of f down the driveway. 
+
+AMY
+
+Virgil - wait...
+
+He's gone. Hopping along, tugging on her last sandal - she decides 
+
+to go after him - fighting her way through a large tour group just 
+
+checking in. 
+
+EXT. BEAR MTN. SPA - LATE DAY 
+
+Virgil in the distance, moving his way towards the main street. Amy 
+
+exiting the building - trying not to slip on the ice as she, hurries 
+
+after him - trying to get close enough to call out. 
+
+Virgil stops at a main roadway as Amy comes up behind him. 
+
+AMY
+
+Virgil, hey.
+
+Virgil turns - sunglasses on - looks directly at Amy. 
+
+VIRGIL
+
+Yes.
+
+AMY
+
+It's Amy - Amy Tremont.
+
+VIRGIL
+
+Of course - you were sleeping, 
+
+didn't want to wake you.
+
+AMY
+
+Yes thanks - you're the skater, right - 
+
+I saw you last night, coming in. 
+
+Pretty mean slapshot. 
+
+You play on some team or something?
+
+VIRGIL
+
+Yeah, something. You a hockey fan?
+
+AMY
+
+Always liked it - never get around to 
+
+seeing a game. But I loved to skate 
+
+as a kid - unfortunately I have two left feet.
+
+VIRGIL
+
+(playing with her) 
+
+They look perfectly OK with me.
+
+Amy laughs, starts relaxing - unconsciously starts to flirt. Head 
+
+cocked, shifts her weight on one foot, moving slightly closer. 
+
+AMY
+
+I love the view you get here.
+
+VIRGIL
+
+Same here - I never get used to it.
+
+Just then a YELLOW SCHOOL BUS pulls up in front of him and WHOOSH 
+
+the doors pop open revealing CARL KIPLING, black, a hundred years 
+
+old. Virgil turns as a few kids pile off the bus.. 
+
+VIRGIL
+
+Well, this is my ride. 
+
+Hey Tommy, my man.
+
+And with his hand extended a kid high fives it. Amy looks up - a BUS 
+
+full of young school kids. Seems odd. 
+
+TOMMY
+
+Virge.
+
+As the kid moves off. 
+
+AMY
+
+Well, I just wanted to apologize for back there - 
+
+blubbering like that - I was just in a weird place.
+
+VIRGIL
+
+And now...
+
+AMY
+
+Now, I'm fine - so I wanted to 
+
+thank- you. For what you did.
+
+VIRGIL
+
+For making you cry.
+
+AMY
+
+No, I made me cry - and you handled 
+
+it great - didn't freak or anything.
+
+(beat)
+
+Is my mascara smeared or something?
+
+VIRGIL
+
+(laughs)
+
+No. Why?
+
+AMY
+
+You're just looking at me funny.
+
+CARL
+
+Virgil - lets move it.
+
+VIRGIL
+
+As I said earlier - I just never get used to the view.
+
+Virgil starts towards the bus, reaching behind to his pack. Pulls 
+
+something out. 
+
+VIRGIL
+
+See you tomorrow.
+
+And CLICK, CLICK, CLICK - a WHITE CANE unfolds in his hand. And he 
+
+taps his way to the bus. 
+
+AMY
+
+See you... oh my God.
+
+VIRGIL
+
+What?
+
+AMY
+
+You're, you're -- I'm so sorry.
+
+VIRGIL
+
+(smile)
+
+Hey, you already apologized once 
+
+- no need to overdo it. Bye now.
+
+Amy doesn't know how to respond. And he moves into the front seat of 
+
+the bus - amongst "Hey Virgil's" from the school kids and Ca-chunk 
+
+the doors close - the Yellow Bus steaming off - past Amy, as she 
+
+stares at Virgil in the front seat - about to wave to him - then 
+
+realizing he wouldn't see. 
+
+As she turns and watches the bus move off down the street - a hand 
+
+comes out - Virgil's - and waves good-bye. 
+
+EXT. VIRGIL'S HOME.- DUSK 
+
+The BUS stopping in front of Virgil's home - a side-by-side DUPLEX 
+
+at the edge of surrounding woods. 
+
+Virgil steps into the street and with a HONK the bus pulls away. He 
+
+turns, grazes his hand across a tree out front - and starts towards 
+
+his home. 
+
+AT THE PORCH - he hesitates at the first door. Finds it with his 
+
+hand - then raps on it. 
+
+No answer. He moves over to his own door - and goes inside. 
+
+INT. VIRGIL'S HOME - EVENING 
+
+As he enters, Sophie, an aging LAB, lays on the couch. 
+
+VIRGIL
+
+Get of f the couch, Sophie.
+
+As the dog slides guiltily off the couch. 
+
+VIRGIL
+
+Some seeing eye dog - 
+
+more like sleeping eye dog.
+
+Virgil bends down as he passes the coffee table to pick up the 
+
+REMOTE CONTROL placed just so. Click - a Game Show pops on. 
+
+VIRGIL
+
+Met a girl today - nice voice -
+
+followed me out of the building.
+
+Sophie barks. 
+
+VIRGIL
+
+No she wasn't a stalker.
+
+CLOSE ON Virgil's hand flipping open a large book marked "TV HOCKEY 
+
+SCHEDULE" - it's completely WHITE - all in BRAILLE. 
+
+JENNIE (O.S.)
+
+Sophie's just worried about you - 
+
+she watches too many horror movies.
+
+In the kitchen, JENNIE ANDERSON, older than Virgil, simply dressed, 
+
+putting a just made dinner carefully onto a plate. 
+
+VIRGIL
+
+Hey, you're here - so how 
+
+are the kids today?
+
+Running his hand down the pure white page - he finds what he wants: 
+
+BAP - he hits the channel changer and the game comes on. 
+
+JENNIE
+
+The usual - need a lot of attention. So who's the girl?
+
+Moving into the kitchen, Virgil puts the remote to the side of the 
+
+refrigerator where it VELCRO sticks to an exact spot. 
+
+VIRGIL
+
+From the spa. I made her cry.
+
+JENNIE
+
+You haven't done that since-- 
+
+VIRGIL/JENNIE
+
+-- grade school.
+
+VIRGIL
+
+(smile)
+
+That's what I told her. Coke?
+
+Virgil moves past Jennie as she goes into the living room - hand up, 
+
+door open and he's got a glass. Back to the fridge, he grabs a coke. 
+
+JENNIE
+
+I'm fine. Your dinner's ready - chicken's 
+
+at 3 o'clock - rice is at...
+
+VIRGIL
+
+6 o'clock, peas at 9 o'clock 
+
+and news at 11.
+
+Jennie places Virgil's dinner down in an exact spot on a coffee 
+
+table (facing away from the TV). 
+
+JENNIE
+
+(laughs)
+
+One day I'm going to switch them on you.
+
+VIRGIL
+
+And one day I'll play forward 
+
+for the New York Rangers.
+
+Four precise steps into the room and Virgil plops down on the sofa - 
+
+finds his fork. Jennie moves to a counter where a pile of school 
+
+books sit. 
+
+JENNIE
+
+Ha - ha. You need new jokes.
+
+VIRGIL
+
+Or a new sister. 
+
+JENNIE
+
+I'd work on the jokes.
+
+Picking up the books she moves past Virgil - pecks him on the head 
+
+and moves to the door. 
+
+VIRGIL
+
+You want to watch some hockey?
+
+JENNIE
+
+(at the door)
+
+You want to grade some spelling tests? 
+
+(beat)
+
+I'll be next door you need me.
+
+She leaves and Virgil pats the couch and Sophie hops up next to him. 
+
+VIRGIL
+
+You know this girl - for one moment -
+
+she actually thought I could
+
+(Sophie grumbles as she settles in) 
+
+I'm not kidding. 
+
+(beat) 
+
+And she had this great voice - relaxing - 
+
+soft like a breeze through
+
+(beat)
+
+Wonder what she thinks about "blind dates." 
+
+INT. AMY'S ROOM - EVENING 
+
+Amy in bed - just out of the shower - the only light in the room 
+
+comes from the TV. She has the remote, mindlessly switching channels 
+
+- not staying on one for more than a second or two. 
+
+Click - an Odd Couple rerun - click - ESPN bowling - click - Three 
+
+Stooges - Moe poking Curly in the eye - click - click - click. 
+
+Bored, she stops - notices a small scarf on a chair next to the bed. 
+
+She picks it up, holds it against her eyes and ties it tight around 
+
+her head. 
+
+She stands - hands out in front of her - starts to walk across the 
+
+room - not so bad - WHAM - right into a side table. Shit that hurts! 
+
+Grabbing her leg, she hops - hits a lamp. 
+
+AMY
+
+DAMMIT!
+
+Ripping the towel of f her head - hopping around on one foot - she 
+
+hears: 
+
+KNOCK KNOCK 
+
+AMY
+
+Coming!
+
+Rubbing her leg - she limps/half walks to the door - opens it to: 
+
+Virgil: dark glasses, cane, smile 
+
+AMY
+
+Virgil..?
+
+She pulls a towel in closer - then realizes it doesn't matter 
+
+VIRGIL
+
+My turn to apologize. I should have told 
+
+you I was blind it wasn't fair.
+
+AMY
+
+That's OK. You want to come in -
+
+I just got out of the shower - give me 
+
+a minute to get changed?
+
+VIRGIL
+
+(as he moves in)
+
+Sure, I promise I won't look.
+
+As Amy starts to get changed in the bathroom. 
+
+VIRGIL
+
+Anyways, I was in the neighborhood -- 
+
+actually the whole town's my neighborhood 
+
+-- and since you've never been to our
+
+illustrious village, I thought maybe we could 
+
+go into town - see what we see.
+
+AMY
+
+See what we see?
+
+VIRGIL
+
+Figure of speech
+
+. 
+
+AMY
+
+You mean right now, tonight?
+
+VIRGIL
+
+Great - I'm blind and you're deaf - what a pair.
+
+EXT. MAIN STREET - EVENING 
+
+A few store windows lit up. Some people eating dinner at a 
+
+streetside cafe. Virgil, holding Amy's arm as they walk down the 
+
+street. 
+
+WITH AMY AND VIRGIL WALKING: 
+
+VIRGIL
+
+... the Mechanic at the top of the street is Doug - smokes too 
+
+much - but a good guy. Three steps down is Carlson's hardware
+
+- he's got a laugh like a donkey - we sometimes listen to games
+
+together - he's a Devil's fan. And just up ahead should be Grady's 
+
+junk shop - he calls it "antiques"...
+
+Smells like junk. I'd hate to see what it looks like
+
+. 
+
+A woman bustles past, NANCY BENDER, weighed down with groceries. 
+
+VIRGIL
+
+(intuitively)
+
+Hey Nancy.
+
+NANCY
+
+Hey Virgil - got that book in for you.
+
+VIRGIL
+
+Nancy's our librarian, brings in 
+
+any braille book I want.
+
+NANCY
+
+(to Amy)
+
+The guy's nuts about the pyramids -
+
+anything he can get his hands on...
+
+VIRGIL
+
+Thank-you Nancy - you should get your
+
+groceries home - your ice cream's melting.
+
+Nancy laughs - as she moves off. 
+
+AMY
+
+Nice place - you seem to know everyone here.
+
+VIRGIL
+
+Moved here when I was eight. 
+
+My family figured it would be a 
+
+good place for me to grow up. 
+
+Tell me what you see.
+
+AMY
+
+Well, there's a good structure to the 
+
+town - genuine lines, good use of space. 
+
+To be honest I'd find a better balance 
+
+to a lot of these buildings. But that's me.
+
+VIRGIL
+
+What's you?
+
+AMY
+
+The architect in me - can't leave well
+
+enough alone. Art school in college - 
+
+I made the arms for the Venus DeMilo. 
+
+(realizing he probably doesn't understand)
+
+see, the Venus De Milo has no arms and...
+
+VIRGIL
+
+(laughs)
+
+I know the Venus De Milo has no arms, and 
+
+the Mona Lisa has this captivating smile
+
+and David doesn't wear a fig leaf.
+
+AMY
+
+How do you...
+
+VIRGIL
+
+I may not have been a lot of places -
+
+but I read about things, then make an
+
+image up here -- (points to his head)
+
+--that works for me.
+
+Grazing his hand across a telephone pole - Virgil stops - turns to 
+
+Amy. 
+
+VIRGIL
+
+This is the end of the street. 
+
+We should turn back.
+
+AMY
+
+What about past the end of the street? 
+
+What's out there?
+
+He turns around. 
+
+VIRGIL
+
+(shrugs)
+
+Nothing.
+
+AMY
+
+No - there's an old run down 
+
+building off to the side...
+
+VIRGIL
+
+Must be the old firehouse. 
+
+It had a fire so they shut it down. (Amy laughs)
+
+Honest to God.
+
+(intrigued)
+
+What else do you see?
+
+AMY
+
+A wall of shrubs - 
+
+a field with an interesting configuration of trees.
+
+The wind has picked up a bit. 
+
+VIRGIL
+
+Tell me how you see it.
+
+AMY
+
+(enjoying the game)
+
+OK, sure. Let's see - long and elegant. Like -- 
+
+like a woman dancing with two lovers, trying 
+
+to decide which one she loves.
+
+Virgil stops a moment - takes in the image. 
+
+AMY
+
+What?
+
+VIRGIL
+
+It's just - the image you just 
+
+gave me - "Dancing trees. - I like that.
+
+Virgil stops - his head cocks slightly. 
+
+VIRGIL
+
+We should go - it's starting to rain.
+
+AMY
+
+(looking around) 
+
+There's a bit of a breeze but-- 
+
+KABOOM - thunder - and the rain just drops. 
+
+INT. FIREHOUSE - NIGHT 
+
+They run in laughing - Amy closing the door behind them as Virgil 
+
+moves his way into the center of the room - stands where the 
+
+moonlight from a high window hits the floor. Water runs down the 
+
+outside glass, causing the light to ripple across him. The room is 
+
+empty - almost surreal. 
+
+AMY
+
+I can't believe how fast it happens...
+
+(she sees Virgil - his head cocked towards the ceiling) 
+
+AMY
+
+Virgil?
+
+Virgil's head turns toward her. 
+
+VIRGIL
+
+You like rain - I love the rain.
+
+AMY
+
+(moving to him)
+
+What were you just doing there?
+
+Virgil slowly moves his head about, sensing the room. 
+
+VIRGIL
+
+Listening - the rain - it brings out the 
+
+contours of everything, gives life to 
+
+a room I can't see.
+
+WE SEE SLOW MOVING CUTS of the building as Virgil describes what he 
+
+hears. 
+
+VIRGIL 
+
+You hear it?...on the roof dripping down the 
+
+walls on every side. On the right, on the 
+
+drainpipe, it's drumming with a deeper, 
+
+steadier sound - - like a timpani - echoing 
+
+across the room - tells me the room is large 
+
+- open. You feel it - in your chest? On the left, 
+
+the rain says... (he listens)
+
+...a fire escape, with it's own rhythm 
+
+- ping - ping. Then listen - there...
+
+(he points)
+
+--what's that - over there...?
+
+AMY
+
+Looks like it's...
+
+VIRGIL
+
+No, listen for it - not what it 
+
+looks like - what it becomes. 
+
+Come here.
+
+Amy moves closer - Virgil puts his hands out on her shoulders - 
+
+turns her to the sound. 
+
+VIRGIL
+
+Now just listen to it - shut out
+
+everything but that sound - 
+
+do you hear it?
+
+Amy strains to listen - closes her eyes - her head instinctively 
+
+turning - no in unison with Virgil's 
+
+AMY
+
+Yes - there - it's soft - like a shimmer
+
+VIRGIL
+
+The wind blowing the rain against a window.
+
+AMY
+
+(smile)
+
+Like a cymbal. It's like our own 
+
+percussive symphony, isn't it?
+
+Amy opens her eyes - looks about the room - listening. 
+
+VIRGIL
+
+The world is invisible to me - with my touch it comes 
+
+alive. But only one thing at a time. But when it's raining,
+
+I feel everything at once. Sometimes, I wish it could 
+
+rain inside rain all around us.
+
+AMY
+
+(musing)
+
+"Einfuehlung."
+
+VIRGIL
+
+What?
+
+AMY
+
+Einfuehlung - it's an architectural term. 
+
+It means to share an empathy. 
+
+Been a long time since I felt that.
+
+And as they stand listening to the rain, playing its music - Amy 
+
+watches him - fascinated by him - then shivers slightly. 
+
+VIRGIL 
+
+You're cold, we should go.
+
+AMY
+
+No, I'm fine, really. It was just something passing 
+
+through me - can't explain it - a good thing.
+
+Amy smiles at him - then quietly realizes 
+
+he can't see it. She moves close, her 
+
+hand reaching out and taking his. 
+
+AMY
+
+What you just showed me ... how 
+
+I feel - makes me smile.
+
+She takes his hand - hesitates - then puts it on the side of her 
+
+face. 
+
+VIRGIL
+
+I see it now. Thank-you.
+
+We hold a beat - enjoying the symphony of rain - then cut to: 
+
+EXT. BEAR MTN. LODGE - MORNING 
+
+The sun warming the cool morning air. The school bus pulling away to 
+
+reveal Virgil making his way into work. 
+
+VIRGIL (V.O.)
+
+I thought after yesterday, 
+
+you'd never get up on my table again.
+
+INT. MASSAGE ROOM - NEXT DAY 
+
+Amy on the table. Virgil squirting oil in his hand - preparing. 
+
+AMY
+
+You kidding? today, I'm looking 
+
+for a complete nervous breakdown.
+
+VIRGIL
+
+I love a challenge.
+
+And as he places his palms carefully on her back - working her back 
+
+slowly we hear opera play quietly in the background. 
+
+DISSOLVE TO:
+
+Virgil's hands on the small of her back - something amazingly 
+
+sensual about how he works her muscles. Amy speaks to him in low 
+
+tones - in a state of complete relaxation. 
+
+AMY
+
+Can I ask how long you've been blind?
+
+VIRGIL
+
+Of course, most people avoid the subject. You tell them 
+
+you're blind and they act surprised. "You're blind? Reallv? 
+
+I didn't know - you hide it so well." And then they wave their
+
+hand in front of your face just to make sure.
+
+(beat)
+
+It started when I was a little over a year old.
+
+Virgil's hands move down Amy's sides - slow - feeling each contour - 
+
+the oil making her skin glisten. Amy moves her head slightly with 
+
+his touch. She lets out a small breath of air. 
+
+AMY
+
+(quiet)
+
+You see shadows?
+
+VIRGIL
+
+No. Congenital cataracts. And a case of retinitis 
+
+pigmentosa thrown in for good measure. 
+
+This area needs to loosen up.
+
+AMY
+
+I think you're doing it. 
+
+(beat)
+
+No bright lights, nothing?
+
+VIRGIL
+
+I'm blind as a bat. Actually, blinder 'cause they 
+
+emit sonar all the time. I don't have a sixth sense,
+
+I just don't have the fifth one. I can't hear things in 
+
+Vermont, can't smell if you're mad at me, and, no 
+
+- I don't know Helen Keller, Ray Charles or Stevie Wonder.
+
+Amy murmurs in response to Virgil's touch. 
+
+VIRGIL
+
+You say something?
+
+AMY
+
+No, I just - this feels nice - too nice.
+
+Virgil moves his hands down her back - sensually kneading each 
+
+muscle. It's clear he's enjoying this as much as she is. 
+
+AMY
+
+You're very good.. at what you do.
+
+Another breath exhales from her involuntarily as Virgil hits a 
+
+sensitive spot. 
+
+VIRGIL
+
+Thank-you.
+
+AMY
+
+You enjoy it.
+
+VIRGIL
+
+At times. Some clients make it 
+
+more enjoyable than others.
+
+Virgil now works down her thighs - Amy's back arching slightly with 
+
+the movement - both of them heating to the moment. Both their 
+
+breaths quickening. 
+
+AMY
+
+And this client...
+
+VIRGIL
+
+Is very, very...
+
+DING - and the spell is broken. 
+
+AMY
+
+What?
+
+VIRGIL
+
+Sorry - it's time. I've got Mr. Ketchum coming in next - 
+
+all two hundred pounds. Sorry - I felt like we 
+
+were just getting started.
+
+Amy sits up on the table - the sheet pulling away slightly revealing 
+
+her. For a moment she watches him - his head turned towards her - 
+
+but not seeing. Then she slowly pulls the sheet up covering herself. 
+
+AMY
+
+Thank-you. For last night as 
+
+well - love to do it again.
+
+VIRGIL
+
+How about I cook dinner then, tonight.
+
+AMY
+
+I'd like that.
+
+INT. BEAR MIN. - NEXT DAY 
+
+Aerobics step class. Amy working out. In front of her two rather 
+
+large women in neon stretch workout clothes - Amy tries to avoid the 
+
+view - a thought - and she shuts her eyes as she continues her 
+
+exercise. 
+
+INT. BEAR MTN. - NEXT DAY 
+
+Amy, towel around her neck - coming in from the workout. 
+
+CAROLINE
+
+Amy ...
+
+INT. VIRGIL'S HOME - NIGHT 
+
+Onions frying. Tilt up to Virgil - cutting the last of it and 
+
+putting it in the pan - sizzling as it hits. Vegetables and a box of 
+
+pasta are arranged on the countertop. Sophie watches the 
+
+proceedings. 
+
+RRRRINNNG - the phone. 
+
+Virgil stops cutting - his hand easily finds the phone. 
+
+INTERCUT WITH ... 
+
+Amy: on the phone in her car on the Taconic Parkway. 
+
+AMY
+
+Virgil - it's Amy. I - I can't make dinner - 
+
+I'm really sorry - an emergency came up - 
+
+they're dragging me back to New York.
+
+VIRGIL
+
+Oh. Yeah. Anything serious?
+
+AMY
+
+The project we were working on was rejected - 
+
+could go down the drain. I'll deal with it quick - 
+
+I'd like to come back.
+
+VIRGIL
+
+Yeah. Good. Well. I'll be here.
+
+Virgil hangs up the phone - frustrated, he reaches for the frying 
+
+pan - and promptly burns his hand. 
+
+VIRGIL
+
+-DAMN IT!!!
+
+Dropping the pan - Sophie goes scurrying, as he kicks at it - 
+
+sending it across the room. He turns - thrusts his hand under the 
+
+sink - turning on the cold water. 
+
+VIRGIL
+
+Shit - that was stupid.
+
+EXT. FLATIRON DISTRICT - LATE DAY 
+
+Evening rush hour traffic surrounding the Flatiron building. 
+
+VOICE (ON SPEAKERPHONE)
+
+I'm just saying there seems to be something missing.
+
+INT. ROSWELL-TREMONT DESIGN - DAY 
+
+A small cardboard model of what looks like a small mini-mall. Amy 
+
+sits in front of it - drawing on a sketch pad. The office is sparse, 
+
+functional. A few DRAFTSMEN can be seen in the background through a 
+
+glass partition. 
+
+DUNCAN
+
+Absolutely Mr. Falk - something lj missing - we realize that now. We 
+
+just need some time to figure out what.
+
+DUNCAN ROSWELL, 30's, leaning a little too ardently into a speaker 
+
+phone. The voice on the other end is JACK FALK - their would be 
+
+employer. Their assistant BETSY ERNST, early 20's, sits in the 
+
+corner, taking notes. 
+
+FALK 
+
+Fine - but you all know what kind of schedule we're on here?
+
+DUNCAN
+
+(watching Amy)
+
+And budget. Yes sir. Don't worry, we won't let you down.
+
+She takes a piece of paper, has an idea, starts sketching - Duncan 
+
+hangs up. 
+
+DUNCAN
+
+Don't say it, I know. You were never happy with the design.
+
+AMY 
+
+I wasn't going to say that.
+
+DUNCAN
+
+But you'd have tinkered with it till the job went away. So now we've 
+
+got him hooked, you've got your second chance.
+
+And Amy shoves her rough sketch across the table. 
+
+AMY
+
+Look at these site photos - see those 
+
+trees - we were going to get rid of them 
+
+- let's incorporate them into the design 
+
+use what's natural about the location. 
+
+(Duncan stares at her) 
+
+And by the way - the 53rd St. lobby - coming 
+
+back from Pinecrest, I came up with a new 
+
+addition - add some life to that place.
+
+Duncan stares at the sketch - then looks up at Amy 
+
+DUNCAN 
+
+OK -- what's going on here? We sent Hydra 
+
+the three headed monster off a few days ago 
+
+and got back Mary Poppins in return.
+
+AMY
+
+What? I can't have a couple of ideas. 
+
+(even Betsy stares at her)
+
+Fine, you want to know - I met a guy.
+
+Betsy stands. 
+
+BETSY 
+
+Too modern for me.
+
+DUNCAN 
+
+Sit down.Betsy. We're all friends here. 
+
+So - spill the beans.
+
+AMY 
+
+Nothing to spill - he's a good guy - 
+
+smart, funny, blind...
+
+DUNCAN 
+
+Whoa, whoa - wait a minute - Blind!? 
+
+Like tap-tap, white cane blind? Come on 
+
+Amy - I mean, I know you like 
+
+challenges, hell you married me - but...
+
+AMY 
+
+I knew you'd be understanding.
+
+DUNCAN 
+
+(standing) 
+
+No, no I am. You're right, this is none 
+
+of my business anymore - but a blind
+
+guy? If you're lonely - in my. opinion 
+
+-- get a puppy.
+
+BETSY 
+
+Duncan, don't be a jerk.
+
+DUNCAN 
+
+You still work here.
+
+He's gone. 
+
+BETSY 
+
+He's just jealous.
+
+AMY
+
+So much for the "we're all friends here" idea.
+
+INT. ROSWELL-TREMONT OFFICES - NIGHT 
+
+CLOSE ON - Computer screen. A cursor blinks - then the words 
+
+CONGENITAL BLINDNESS - a CLICK and a web page for the AMERICAN 
+
+BRAILLE INSTITUTE comes up. 
+
+WIDE - we see Amy hovering over her computer - various sketches of 
+
+the proposed building next to her - two giant Magnolia trees have 
+
+been incorporated into the design. As we watch her search on the 
+
+computer we move over her shoulder to see in the corner of her plans 
+
+- a sketch of the intertwined "dancing trees" and the Firehouse. 
+
+Betsy enters carrying her jacket. 
+
+BETSY 
+
+Everybody's gone for the day.
+
+AMY 
+
+Thanks. You go ahead - I'm just finishing 
+
+up something here.
+
+She turns to look at Betsy who now peers over her shoulder - sees 
+
+what she's doing. Amy looks up at her - sees Betsy's look. 
+
+AMY 
+
+What? I just want to know a little more 
+
+about what's wrong with him.
+
+BETSY 
+
+(pause) 
+
+Amy? Friend to friend?
+
+AMY 
+
+Shoot
+
+BETSY
+
+I hate to admit it but I agree 
+
+with Duncan on this one.
+
+AMY
+
+(back to the computer) 
+
+Don't shoot.
+
+BETSY
+
+He makes sense sometimes. My father had 
+
+a problem a few years back with severe 
+
+cataracts. Do you have any idea what 
+
+you're getting into?
+
+Amy spins in her chair - looks to Betsy. 
+
+AMY 
+
+You ever listened to rain - 
+
+I mean really listened?
+
+BETSY 
+
+This like that smell the roses thing?
+
+AMY
+
+(turns to her) 
+
+I've spent the last five years of my adult 
+
+life with a man who has the emotional 
+
+content of a soap dish. The only time I 
+
+saw him cry was doing our tax return three 
+
+years ago.
+
+(beat) 
+
+I need more than that, Betsy. For once in a 
+
+long, long time I feel like I can breathe again. 
+
+Just the way he touches me I know I found 
+
+someone I can connect with.
+
+BETSY 
+
+Ah, here we go.
+
+AMY 
+
+No, no. I can tell he's sensing everything about 
+
+me with a simple touch. He listens to my every 
+
+word as if it's the only sound on the planet - 
+
+I feel like even though he can't see me, he knows 
+
+everything about me. He just moves me - does that 
+
+sound crazy.
+
+BETSY 
+
+(beat) 
+
+Does he have a brother?
+
+EXT: PINE CREST MOUNTAINS - LATE DAY 
+
+The FROZEN POND, nestled against a strand of pine. Virgil skates 
+
+fast across the ice enjoying the speed - the wind using his hockey 
+
+stick as a guide - he nears the edge of pond - feels it with the 
+
+stick and slams to a stop. 
+
+He shuffles his body around to face in the other direction - then 
+
+starts skating again - passing AMY standing on the snow covered 
+
+bank. 
+
+ON AMY - smiling, watching Virgil - enjoying his release of energy. 
+
+HER POV - VIRGIL - skating well, a look of relaxation we've never 
+
+seen on his face. He skates in an arc coming back past Amy. 
+
+Finally she speaks. 
+
+AMY 
+
+Wayne Gretzky, look out.
+
+Virgil slams to a halt in surprise - nearly toppling over. 
+
+AMY 
+
+Sorry -- sorry. 
+
+Didn't mean to scare you.
+
+VIRGIL 
+
+Amy?!
+
+AMY 
+
+I said I'd come back.
+
+VIRGIL 
+
+How long ... how long have you been...?
+
+AMY 
+
+Watching you? Just got here - 
+
+couldn't find you at the spa - took
+
+a chance you'd be here. You're very good.
+
+VIRGIL 
+
+Skated since I was a kid. My dad taught me 
+
+- wanted me to play pro one day. 
+
+How do you like my pond?
+
+AMY
+
+It's beautiful.
+
+VIRGIL 
+
+Describe it for me.
+
+AMY
+
+OK. Let's see. Like cool 
+
+blue silk - you know blue?
+
+VIRGIL 
+
+I think so - keep going.
+
+AMY 
+
+Blue silk stretched tight across 
+
+a bowl - surrounded by white 
+
+jacketed sentries of trees on 
+
+the horizon, protecting it from 
+
+the outside world.
+
+VIRGIL 
+
+Horizon's a tough one.
+
+AMY 
+
+What?
+
+VIRGIL 
+
+Never understood horizon - if touch it - 
+
+don't know what it that's OK I liked 
+
+the rest of picture. 
+
+(he starts moving towards her) 
+
+You want to skate?
+
+AMY 
+
+Sorry, I didn't bring my skates.
+
+VIRGIL 
+
+Don't need them. Come on step hold of my stick.
+
+AMY 
+
+Excuse me?
+
+VIRGIL
+
+(smile) 
+
+Hockey stick. Here.
+
+He holds the stick out like a cross bar. Amy moves cautiously 
+
+forward and takes hold of it. 
+
+VIRGIL 
+
+OK. Now hold on for balance. 
+
+I used to do this with Jennie when we were kids.
+
+And Virgil starts skating backwards pulling Amy with him. Amy is 
+
+apprehensive at first then starts to enjoy the movement - the 
+
+sensation - both of them laughing out loud. 
+
+WIDE as we see them move about the rink - Amy sliding and being 
+
+pulled by Virgil. As he picks up speed we hear Amy scream in 
+
+delight. 
+
+AMY 
+
+Look out - we're running out of ice.
+
+Virgil turns expertly, arcing around the edge of the ice but Amy 
+
+loses her nerve - and balance - and lets go of the stick and goes 
+
+flying into an embankment. The momentum carries Virgil off down the 
+
+ice - both of them laughing hysterically. 
+
+VIRGIL 
+
+You OK?
+
+AMY 
+
+Fine. Never been dumped so fast in my life.
+
+VIRGIL 
+
+Me, dump you? No way. Stay where you are 
+
+- I'll come to you - just keep talking.
+
+Amy sits up on her elbows in the embankment. 
+
+AMY 
+
+What do I say?
+
+Virgil starts gliding across the ice searching for Amy. 
+
+VIRGIL 
+
+(hearing her voice, veering in her direction) 
+
+Anything - how'd you become an architect?
+
+AMY 
+
+God - let's see - I was in college - 
+
+art school - a little aimless - and I met
+
+this guy -. an architect - opened up a new 
+
+world to me. I liked the structure the 
+
+control - finding problems, coming up with 
+
+solutions - when I graduated - we started 
+
+a company together - on impulse got married
+
+- which was crazy - divorced a year ago - 
+
+but we're still partners.. which must seem
+
+even crazier.
+
+And Virgil's suddenly there - going a little too far - tumbling off 
+
+the pond and into her. 
+
+VIRGIL 
+
+You'd think I meant to do that. 
+
+A patented move.
+
+They're close - in the snow together - face to face. 
+
+AMY
+
+(Amy smiles, realizes) 
+
+This is tough.
+
+VIRGIL 
+
+What?
+
+AMY 
+
+I bat my eyelashes, toss my head just 
+
+right, and there's this very sexy thing 
+
+I do with my eyes - then realize none of 
+
+it matters to you.
+
+VIRGIL 
+
+It doesn't matter. 
+
+Tell me what you look like.
+
+AMY 
+
+I.. .1 don't know I'm...
+
+VIRGIL 
+
+Wait. Let me.
+
+He puts his hand out, over her face -- hesitates, then slowly feels 
+
+down the contours of her cheek, her eyelids, the shape of her lips - 
+
+Amy moving with the touch, the sensuality of it - and as he 
+
+continues - Amy's hand reaches up - touching his face - Virgil 
+
+smiles. 
+
+VIRGIL 
+
+Eyes, mouth, chin, cheek.. 
+
+you are very beautiful.
+
+AMY 
+
+Thank-you. So are you - more than 
+
+I could describe.
+
+Virgil's hands move down her face - closing her eyes - letting her 
+
+just experience his touch - his exploring. 
+
+And as both their hands continue, enjoying the sensation of 
+
+discovering each other - Amy leans forward, her eyes still closed, 
+
+finding his mouth - grazing his lips with her own - softly, gently, 
+
+then they fold into each other's arms locked into a warm, deep kiss. 
+
+INT. VIRGIL'S HOUSE - BEDROOM - NIGHT 
+
+It's dark - a pale moonglow highlights the two intertwined naked 
+
+bodies. A fire burns in the background. In flowing CUTS we see them 
+
+make love: 
+
+Virgil - his head tilted down - Amy - puts her hand to his chin - 
+
+lifts his head - then kisses each of his closed eyelids in rhythm 
+
+with Virgil's movements. 
+
+Amy - now astride Virgil - she closes her eyes - feels it the way 
+
+Virgil would - moving faster now - in total rhythm - shuddering in 
+
+mutual release -- and she collapses on top of him - a deep breath 
+
+and she rolls over - cuddles into his arm. 
+
+A long beat - out of breath: 
+
+AMY 
+
+So -- that's what a blind date is.
+
+They breathe - then both start laughing - quietly - then 
+
+hysterically together as Virgil wraps her up in his arms - holding 
+
+her tightly. 
+
+EXT. PINECREST - DAWN 
+
+The horizon. The sun cresting it - bringing a new light to the day. 
+
+INT. VIRGIL'S HOME - EARLY MORNING Sounds of a shower in the 
+
+background. Amy in Virgil's robe, pulls a juice container out of the 
+
+fridge - pours herself a glass, putting the juice on the counter as 
+
+she walks into the living room - taking in the sparseness of his 
+
+surroundings. 
+
+CLOSE ON - an open Braille Book. The completely white pages with 
+
+minute bumps. Amy pulls up a chair, sits - and flips through the 
+
+book, running her hand across the pages - trying to understand his 
+
+world. 
+
+She then turns to the front cover to see what it is. Playboy. 
+
+We hear the shower stop as Amy smiles, puts the book down - pushes 
+
+the chair aside then moves to a series of pictures on the wall: 
+
+Virgil as a young boy - his sister Jennie a few years older - and 
+
+his mother and father. Then another picture next to it - Virgil in 
+
+his skates and Jennie older - no father - Sophie at their feet. 
+
+And a final picture - Virgil as an adult - he and Jennie on the 
+
+front porch - his arms wrapped around his sister like he's never 
+
+going to let go. 
+
+VOICE (O.S.) 
+
+Hello?
+
+Amy turns to see - Jennie, carrying a bag under her arm. 
+
+AMY 
+
+Hello.
+
+Jennie moves towards the kitchen. 
+
+JENNIE 
+
+I'm Jennie, Virgil's sister. 
+
+And you are..?
+
+Virgil steps out - bathrobe - drying his hair. 
+
+VIRGIL
+
+Jen, this is Amy Tremont.
+
+Jennie now at the kitchen - stares at the juice container - places 
+
+it back in the fridge - just so. 
+
+JENNIE
+
+I was just at the market Virgil, 
+
+picking up a few things before 
+
+school - and I thought you might like some...
+
+VIRGIL 
+
+(smells) 
+
+Apples and bananas.
+
+Amy sees the fruit on the counter - impressed. 
+
+JENNIE 
+
+He's being a show-off, Amy - I always bring him these. 
+
+(putting them in the fridge) 
+
+The apples are on the bottom shelf...
+
+VIRGIL 
+
+At two o'clock. Oranges at 10. 
+
+I know, thanks.
+
+JENNIE 
+
+Amy -- you in town long...
+
+And WHAM - Virgil moving into the room, collides right into the 
+
+chair Amy moved - knocking into a lamp sending it to the ground. 
+
+Jennie immediately rushes over. 
+
+AMY 
+
+Virgil?
+
+VIRGIL 
+
+I'm fine.
+
+JENNIE 
+
+No you're not - you're bleeding. 
+
+(turning to Amy, sudden) 
+
+First lesson with a blind man, 
+
+Amy - don't change anything - 
+
+it's too dangerous
+
+AMY 
+
+(moving to Virgil)
+
+I'm sorry - I didn't know...
+
+VIRGIL
+
+It was my fault. I'm OK.
+
+Jennie still dabbing at his leg. 
+
+VIRGIL
+
+(embarassed, snaps) 
+
+Goddamit, Jennie - I said I was OK 
+
+- leave me alone!
+
+Jennie hesitates, then stands to go - sees the hockey book out of 
+
+place. A glance to Amy and she picks it up - quietly moves it back 
+
+to it's rightful spot. 
+
+JENNIE 
+
+I've got parent meetings tonight - 
+
+there's dinner in the freezer - left corner.
+
+(turns to Amy) 
+
+Nice to have met you, Amy.
+
+AMY 
+
+Me too - and again - I'm sorry.
+
+And she's gone - leaving Amy and Virgil together - a moment of 
+
+awkwardness. 
+
+AMY 
+
+She seemed ... nice.
+
+VIRGIL 
+
+She seemed jealous.
+
+AMY 
+
+Your leg is still bleeding.
+
+VIRGIL 
+
+It'll stop - happens all the time. 
+
+Welcome to my world.
+
+We hold on Amy - taking this in: 
+
+INT. BEAR MTN. - LATER THAT NIGHT 
+
+Japanese lanterns criss-cross across an open area. Guests of the spa 
+
+mingle about - drinks in hand - some dance on a floor set up over 
+
+the aerobics area. Music plays in the background. 
+
+Amy, carrying two trays of food, finds her way to where Virgil sits 
+
+at a table off to the side - putting his food in front of him. 
+
+AMY 
+
+Let's see if I can get this right. 
+
+Chicken's at three - salad at seven - 
+
+vegetables at ten.
+
+VIRGIL 
+
+(picking up his fork) 
+
+Very good - thank-you.
+
+AMY 
+
+This is nice. 
+
+They do this every weekend?
+
+VIRGIL 
+
+Every Friday - for the guests leaving. Supposed to make them want to 
+
+come back.
+
+AMY 
+
+(sits, uneasy) 
+
+Love the music - 
+
+Gershwin - makes you want to...
+
+She stops. Virgil, fork poised over his food, senses her 
+
+uncomfortableness. 
+
+VIRGIL 
+
+You like dancing?
+
+AMY 
+
+Hmmm? Yeah - don't do it much. 
+
+(changing subject) 
+
+Chicken's good.
+
+Amy resumes eating - Virgil's fork spears something on his plate - 
+
+raising it to his mouth - both we and Amy now see it's a large pat 
+
+of butter. Too late - it's in his mouth. 
+
+Amy watches him - the reaction on his face as he tastes it - then 
+
+surreptitiously swallows it. Then realizes Amy saw him. 
+
+VIRGIL 
+
+Nothing like a good pat of fat. 
+
+What do you say we dance?
+
+AMY 
+
+No, really, I'm fine...
+
+Virgil is up - pulling her hand. 
+
+VIRGIL 
+
+Come on
+
+She stands and Virgil puts his hands on the back of her shoulders. 
+
+VIRGIL 
+
+Lead on.
+
+And as she ushers him to the floor the music changes - a salsa - 
+
+lively. Amy stops: 
+
+AMY 
+
+Different piece - maybe we should...
+
+VIRGIL 
+
+You kidding - take my hand.
+
+And as she does - Virgil starts dancing to the music - feeling the 
+
+beat - in perfect rhythm but his moves are his own, something we've 
+
+never seen before - uninhibited, wild - a little funny, but also 
+
+there's something sensual in his abandonment. 
+
+All Amy can do is hang on for the ride - enjoying Virgil enjoying 
+
+himself. People even clear back a little to give him some room - 
+
+however he moves about the floor easily - somehow sensing where the 
+
+other couples are. 
+
+It's a whirlwind moment - a moment where the two of them get lost 
+
+with each other - for a second shutting out the world and it's just 
+
+them, the music and their movement. 
+
+Then suddenly the music is over. And they stop - the moment gone. 
+
+Virgil turns to Amy and she applauds Virgil's wild moves 
+
+He takes a bow with a flourish. Spins to another angle - another 
+
+bow. Spins back again - a step back and: 
+
+CRASSSH - he's into the buffet table - sliding to the ground - food 
+
+spilling on top of him. Amy, can't help but laugh, rushes to him. 
+
+AMY 
+
+You have to teach me that move.
+
+And Amy reaches down to his guacamole covered hand - and pulls him 
+
+up into an embrace and as they kiss amidst sauce and salad dressing 
+
+- we see: 
+
+INT. AMY'S HOTEL ROOM - MORNING 
+
+Amy - on the phone - looking out her window. 
+
+AMY 
+
+Betsy - you were telling me about your father, 
+
+his cataracts - you said he had a problem. 
+
+How is he now? 
+
+(she listens) 
+
+Doctor - Dr. Aaron? - do you have his number?
+
+INT. BEAR MTN. GYM - DAY 
+
+A handful of people on various pieces of equipment. Virgil, tank 
+
+top, heavy sweat, on a stationary bicycle - working out. Amy next to 
+
+him on a treadmill - trying to keep up as Caroline from the front 
+
+desk comes and hands her something. 
+
+Amy reads it briefly then hops off the treadmill moving to Virgil. 
+
+AMY
+
+Virgil, I just got some great news.
+
+VIRGIL 
+
+(picking up speed again)
+
+The Atlanta project?
+
+AMY
+
+No, no - I was talking to my assistant 
+
+this morning - her father had these 
+
+severe cataracts...
+
+VIRGIL 
+
+(slowing) 
+
+Oh. Really.
+
+AMY
+
+She put me in touch with a Dr. Richard 
+
+Aaron - the guy's the leading eye surgeon
+
+on the eastern seaboard - he's been working 
+
+with techniques - I don't know all the jargon 
+
+- but I spoke to him earlier on the phone 
+
+at the Institute...
+
+VIRGIL 
+
+You called this guy?
+
+Virgil stops riding - starts to get off the bike. 
+
+AMY 
+
+(excited) 
+
+I told him all about you - he just faxed me 
+
+back - he'd love to get a look at your eyes 
+
+- he thinks maybe, mavbe - there might be a 
+
+chance of reversal.
+
+Virgil faces Amy, best he can, while he pulls on his sweat jacket. 
+
+VIRGIL 
+
+I don't get it - am I missing the sign 
+
+that says it's help the handicapped week.
+
+Virgil starts to move away. Amy stops him. 
+
+AMY 
+
+I thought you'd be excited. What's the problem?
+
+Virgil turns on her. 
+
+VIRGIL
+
+No problem. That's the whole point 
+
+here Amy - there is no goddamned problem.
+
+And Virgil turns and bumps into a stationary bike, he SHOVES it off 
+
+to the side, and makes his way out of the gym. 
+
+INT. LOCKER ROOM - DAY 
+
+Virgil enters, visibly upset - passing a CO-WORKER coming out of the 
+
+shower. 
+
+CO-WORKER 
+
+Hey Virgil.
+
+Virgil steams right past him - not answering - hands feeling down 
+
+the lockers - finding his - he tugs it open - pulls off his shirt 
+
+and throws it in. He takes a breath, settles himself - then SLAMS 
+
+the locker door shut. 
+
+EXT. JENNIE'S SCHOOL 
+
+PARENTS are picking up their CHILDREN from Jennie's school. As 
+
+Jennie helps the last of the kids into her mother's car - she looks 
+
+up to see Amy across the street. 
+
+JENNIE 
+
+Amy, right?
+
+Amy nods - starts towards her. 
+
+AMY 
+
+I'd like to talk to you if 
+
+I could -- about Virgil.
+
+JENNIE 
+
+Something wrong?
+
+AMY 
+
+Sort of. There's something I don't 
+
+understand. You see I spoke to a doctor 
+
+who's apparently doing breakthrough 
+
+work on cataracts -
+
+(Jennie turns to Amy) 
+
+- but when I brought it up to Virgil he acted as if...
+
+JENNIE 
+
+What don't you understand?
+
+AMY 
+
+If I was blind almost all my life -- 
+
+and there was even a remote possibility 
+
+I could see - I'd jump at it.
+
+JENNIE 
+
+When there's something you've adapted to, 
+
+accepted - you'd just want to change 
+
+it without even thinking about it? 
+
+(beat) 
+
+We're very comfortable here, Amy. 
+
+Virgil has everything he needs.
+
+AMY 
+
+I thought just maybe he'd like to not 
+
+be falling over things for the rest 
+
+of his life. Look, I see...
+
+JENNIE 
+
+(cuts her off) 
+
+Yes you do and Virgil doesn't. He spent 
+
+the first eight years of his life having 
+
+his eyes prodded, pierced and poked by 
+
+doctors, faith healers, spiritualists, 
+
+shamans and medicine men. My father had them 
+
+lined up out the door. It hurt and disappointed 
+
+us all and it almost killed him. He doesn't 
+
+need to go through that again. Now - maybe 
+
+you understand.
+
+And she turns on her heel and is gone. 
+
+EXT. VIRGIL'S COTTAGE - LATE DAY 
+
+Amy making her way up to the porch - hearing from inside. 
+
+VIRGIL (V.O.)
+
+No, no - why - why?!
+
+She hurries up the steps, reaching the open door where she sees 
+
+Virgil, his head in his hands. 
+
+VIRGIL (V.O.)
+
+I can't believe you're doing this to me.
+
+AMY 
+
+What - Virgil?
+
+Virgil turns sharply - Sophie jumps up - starts barking. 
+
+VIRGIL 
+
+Sophie - stop it. Amy? C'mon in - it's just 
+
+the Rangers. I could check better than these 
+
+guys today.
+
+AMY 
+
+They lost?
+
+VIRGIL 
+
+I prefer to think of it as not winning.
+
+I thought you would have been long gone
+
+after that outburst from my evil twin
+
+brother. We've had him committed you
+
+know. Rikers Island - hard time. 
+
+(standing)
+
+Can I get you something - - Coke - beer?
+
+AMY 
+
+No - I - I'm fine. I just wanted apologize 
+
+for stomping around in life like Bigfoot today.
+
+Virgil turns towards Amy. 
+
+VIRGIL 
+
+Amy, you see the big tree outside? 
+
+How far is it from my front porch?
+
+AMY
+
+Guessing, about thirty feet.
+
+VIRGIL 
+
+To you. But to me, it's fourteen steps exactly. 
+
+Fourteen steps and I arrive right where I want 
+
+to be. But -- if I run or rush, I'll lose count 
+
+and slam into it.
+
+AMY
+
+I'm sorry. Told you - can't leave well enough 
+
+alone. I - I guess I should get back, start to pack...
+
+VIRGIL 
+
+Rushing into trees again?
+
+Off Amy's smile we CUT TO: 
+
+EXT. VIRGIL'S HOUSE - NIGHT 
+
+On the Porch - the two of them - sipping glasses of wine - we see 
+
+their dinner - Hungry Man beef entree - each category of food in 
+
+it's own perfect little compartment. 
+
+AMY 
+
+You know this dinner - this is really quite...
+
+VIRGIL 
+
+Ordinary? 
+
+(she laughs) 
+
+It's an acquired taste - trust me. 
+
+Jennie thinks it's the only way I'll 
+
+know where my food is. But I have a 
+
+secret weapon.
+
+(holds up a little bottle) 
+
+Hot sauce! Let's you know you're eating 
+
+something - like some.
+
+He starts to sprinkle liberally on Amy's food. Amy, laughing grabs 
+
+the bottle. 
+
+AMY 
+
+That's OK - I'll do it. 
+
+Don't want to overdo it.
+
+She puts the bottle down - looks to Virgil - sips her wine. Time to 
+
+face it. 
+
+AMY 
+
+Virgil - I have to go home tomorrow...
+
+VIRGIL 
+
+Wait, wait - you smell that?
+
+AMY
+
+No - what?
+
+VIRGIL 
+
+The winter pines - it's so strong at 
+
+night - drifts on the wind - wait - 
+
+hear the breeze then...
+
+AMY 
+
+There.
+
+Amy closes her eyes - takes in the scent - and they both sit there - 
+
+close - taking in the night air - enjoying the moment. 
+
+And on Virgil's face we see him lost in thought. 
+
+INT. VIRGIL'S HOME - NIGHT 
+
+CLOSE ON VIRGIL - eyes closed - we hear a sound - like night 
+
+crickets. His eyes slowly open. 
+
+He rolls over - his arm reaching out for her: 
+
+But there's no one there. Virgil sits upright. 
+
+VIRGIL 
+
+Amy?
+
+Amy is sitting in a chair by the window. 
+
+AMY 
+
+I'm here - trouble sleeping.
+
+VIRGIL
+
+C'mere.
+
+And she crawls back into bed, Virgil takes hold of her and as she 
+
+settles into his arm, he strokes her face gently - a blind man's 
+
+version of watching his lover fall to sleep. 
+
+BLACK - then we hear voices 
+
+INT. VIRGIL'S BEDROOM - MORNING 
+
+CLOSE ON: Amy's face - the voices awaken her - cutting into her 
+
+dreams. 
+
+She looks out the doorway - sees Virgil and Jenny arguing on the 
+
+front porch. She can't hear what they are saying - but it's clear 
+
+there's a problem. 
+
+INT. VIRGIL'S LIVING ROOM - MORNING 
+
+Amy pulling a robe around herself - comes into the room - as Jenny 
+
+turns on her heel and walks away from Virgil. 
+
+EXT. PORCH - MORNING 
+
+Virgil stands there a moment - taking in what just happened. Amy 
+
+steps out onto the porch. 
+
+AMY 
+
+Everything alright?
+
+VIRGIL 
+
+Yeah, yeah. Morning - Look, 
+
+something I want to say...
+
+AMY 
+
+The leaving thing - I know - hate it too.
+
+VIRGIL
+
+The other night - when we were dancing - 
+
+being with you - I felt different -
+
+special - I don't know - whole.
+
+AMY 
+
+That was whole?
+
+Virgil puts his hand out - she takes it - he turns to her. 
+
+VIRGIL 
+
+(smile) 
+
+Just for a second I felt like I could see 
+
+you - all of you. 
+
+(beat) 
+
+What you said about this Doctor, this eye guy - 
+
+I know how important it is to you...
+
+AMY 
+
+(turns to him) 
+
+Are you sure you want to do this?
+
+VIRGIL 
+
+We're just going to talk to the guy 
+
+- what could it hurt?
+
+Off Amy's smile: 
+
+SMASH TO: 
+
+EXT. GEORGE WASHINGTON BRIDGE - MORNING 
+
+A soaring shot. Amy's car - travelling across the bridge - heading 
+
+towards Manhattan. 
+
+AMY (V.0.) 
+
+You're going to love the city 
+
+- so many things to see.
+
+INT. CAR - MORNING 
+
+Virgil in the passenger seat - windows open - taking in all the 
+
+sounds - new and exciting. Amy watches him as she drives. 
+
+VIRGIL 
+
+(laughing) 
+
+Waitwaitwait - he hasn't said he 
+
+can even do anything yet.
+
+AMY 
+
+I know I just feel good about this. 
+
+(Amy looks to him - sees him feeling 
+
+the light against his face) 
+
+Virgil, before you lost all sight, 
+
+do you remember seeing anything at all? 
+
+VIRGIL 
+
+Yeah, I do. I was just a baby when it 
+
+happened - but there is one thing. 
+
+(beat) 
+
+Something ... puffy. That's all I 
+
+remember about it. Everyone says it's 
+
+"clouds," but I know I had it in my hands 
+
+- so it couldn't be clouds. This puffy 
+
+thing - that was something special - 
+
+it's stayed with me all these years - 
+
+I don't know why.
+
+INT. NEW YORK EYE HOSPITAL - EXAM ROOM - DAY 
+
+DR. RICHARD AARON, wire rims, short, stylish haircut - is finishing 
+
+a high-tech examination of Virgil's eyes. Cups attached to wires sit 
+
+over his eyes. The machine, an ELECTRORETINOGRAM, emits an 
+
+irritating strange flat line sound. The room is very dimly lit. 
+
+Aaron adjusts an intensity dial on the machine - a series of 
+
+flashing lights hit Virgil's eyes. The doctor jots down a reading - 
+
+then with a flourish, spins the machine away from Virgil's face and 
+
+pops a button emitting a detailed computer print out. 
+
+In the corner sits an older gentleman - Dr. Goldman - focused on 
+
+papers in his hands. 
+
+AARON 
+
+OK - we're done.
+
+Aaron bumps up the lights and wheels his chair back over to Virgil 
+
+as Amy moves to join them. 
+
+AARON 
+
+Some good news. You have grade 4 
+
+posterior subscapular cataracts.
+
+VIRGIL 
+
+And this is the good news?
+
+AARON
+
+Good news in that I should be able to 
+
+remove them with little or no damage 
+
+to your cornea.
+
+AMY 
+
+So -- what does that mean - 
+
+they're gone - then what?
+
+AARON 
+
+The cataracts are acting like a curtain - 
+
+covering the window of sight. If the disease 
+
+to the retina is reduced as much as I think 
+
+it is - there's a very good possibility 
+
+we can give you sight.
+
+Amy looks to Virgil - apprehensive. Virgil's expressionless - taking 
+
+this all in. 
+
+VIRGIL 
+
+Sounds expensive.
+
+AARON 
+
+(looks to Goldman who nods imperceptibly) 
+
+We feel there's an opportunity for us all here - 
+
+I think I can get the institute to pick up the bill.
+
+VIRGIL 
+
+So. Say you remove the cataracts - 
+
+do you have any idea what kind of vision I'd have?
+
+Aaron looks to Goldman. 
+
+AARON 
+
+At this time - no. Unfortunately the 
+
+cataracts are not allowing me to see the 
+
+retinal wall. I can't tell how advanced 
+
+the retinitas pigmentosa has become.
+
+VIRGIL 
+
+So you're suggesting an operation 
+
+that may or may not be successful.
+
+AMY 
+
+But there is a chance he 
+
+could regain his sight.
+
+AARON 
+
+There have been a few cases of restored 
+
+vision in adulthood to a patient blind since birth. 
+
+(moves near Virgil) 
+
+The operation is delicate, I'll admit - 
+
+but nothing as invasive as what you went 
+
+through as a child. Of course there is 
+
+always some risks with any operation - 
+
+infection, swelling - long shot stuff. 
+
+I would do both eyes at the same time 
+
+- it's basically out patient surgery.
+
+Virgil - an exhale of air. A lot to take in. 
+
+VIRGIL 
+
+What if it doesn't work? What if I have 
+
+the operation - with all it's risks - 
+
+and you remove the cataract - and it doesn't work.
+
+Aaron looks to Amy. 
+
+AARON 
+
+(somber) 
+
+It would be evident that you will 
+
+never be able to see.
+
+Virgil's head shifts slightly. Not what he wanted to hear. Amy 
+
+reaches out takes his hand. 
+
+AMY 
+
+What do you think?
+
+VIRGIL 
+
+That's what I need - to think.
+
+EXT. AMY'S LOFT - SOHO - DAY 
+
+Virgil and Amy stepping out of a cab. Virgil using his cane - seems 
+
+blinder than we've seen him before. The city sounds an assault on 
+
+him. 
+
+AMY 
+
+This is my place - there's a park 
+
+across the street and...
+
+She stops - realizes he wants to walk in silence. They enter her 
+
+loft building, an old converted industrial space. 
+
+INT. LOFT STAIRWELL - DAY 
+
+There is an odd, loud sound which echoes three times after every 
+
+bounce. As they come up on the second floor landing, a basketball 
+
+comes flying down the hall which Amy fumbles with - then catches. 
+
+AMY 
+
+Ethan!
+
+From around the corner comes ETHAN COLVIN, eight, oversized Knicks 
+
+shirt. Amy tosses him his ball. 
+
+ETHAN 
+
+Sorry - my mom won't let me go 
+
+outside till she gets home from work.
+
+AMY
+
+Well, if the super catches you playing
+
+ball in the hall, he'll have a coronary.
+
+ETHAN 
+
+A what?
+
+AMY 
+
+Never mind. Ethan, 
+
+this is my friend Virgil.
+
+VIRGIL 
+
+Hey, Ethan
+
+ETHAN 
+
+(seeing his cane) 
+
+Are you blind?
+
+VIRGIL 
+
+Yeah.
+
+ETHAN 
+
+Cool. See ya.
+
+And he turns and runs back up the stairs. 
+
+AMY 
+
+(apologetic) 
+
+Virgil...
+
+VIRGIL 
+
+Hey, the kid thinks I'm cool 
+
+- what's so bad.
+
+INT. AMY'S LOFT - LATE DAY 
+
+Amy's loft is a wide open space - a KITCHEN facing onto a small 
+
+living area - a BED in the corner of the room - a WORK SPACE with 
+
+DRAFTING BOARD and DRAWING RACKS fill one side of the room. By a 
+
+window stands a plaster SCULPTURE stuck in the corner as if 
+
+forgotten. 
+
+AMY 
+
+This is where I hang my hat 
+
+- it's a bit of a mess but...
+
+Amy stops, realizes he can't see it. Virgil puts his overnight bag 
+
+down. 
+
+VIRGIL 
+
+Now, Blind 101. Help me out with a mental map. 
+
+Walk me down a straight line and show me your 
+
+place, all the obstacles. Remember once you've 
+
+told me, they can't be moved - otherwise...
+
+AMY
+
+Got it - here take my arm. 
+
+(they start about the room) 
+
+Couch, chair, TV to the left, 
+
+low table at.. .at 4 o'clock, 
+
+has the phone on it...
+
+They come to the Sculpture, Virgil's hand grazes across it. 
+
+VIRGIL 
+
+What's this?
+
+AMY 
+
+Nothing. A sculpture.
+
+VIRGIL 
+
+It's yours?
+
+AMY 
+
+My art school days - not very good.
+
+Virgil continues to feel the sculpture from top to bottom, not 
+
+stopping during the dialogue. 
+
+VIRGIL 
+
+It's a mother? - holding her child - up in the air 
+
+- like she's proud? It's beautiful.
+
+AMY
+
+It's not done yet - 
+
+one day I'll finish it.
+
+Virgil turns - his hand to the wall - feels a window: 
+
+VIRGIL 
+
+Does this window open? 
+
+I could use some air.
+
+AMY 
+
+(moving to the windows) 
+
+I think so.
+
+As Amy throws open the window, a wind blasts through - catching a 
+
+stack of plans on her drafting table - blowing them across the 
+
+floor. 
+
+AMY 
+
+Damn!
+
+Virgil turns, concerned, makes his way to her. 
+
+VIRGIL 
+
+What happened?
+
+AMY 
+
+The wind - knocked over my plans.
+
+Amy down on the floor picking them up - Virgil senses her down there 
+
+- crouches down beside her - tries to help her pick up. 
+
+VIRGIL 
+
+What is this - these plans?
+
+Amy looks at Virgil - - his hand running across one of her plans. 
+
+AMY 
+
+Just my work - - some plans for the Atlanta 
+
+project we're bidding on - drawings of a lobby 
+
+we're finishing up, some other smaller stuff. 
+
+It's -- it's what I do.
+
+Amy realizes they mean nothing to him - he hands them back - stands. 
+
+She watches him - then standing, moves to him. 
+
+AMY 
+
+I've got to get to work. Tonight we'll do something 
+
+- we could listen to music or go out for dinner...
+
+VIRGIL 
+
+How about a movie?
+
+AMY 
+
+A movie?
+
+VIRGIL 
+
+Yeah. I haven't been in years.
+
+AMY
+
+Alright. A movie. I won't be long.
+
+And Amy gives him a quick kiss and dodges for the door - a beat - 
+
+she forgets her purse - steps back in to see: 
+
+Virgil standing there quietly - his hand out on her plans again - 
+
+feeling the paper - searching for the design - wanting to know her - 
+
+wanting to understand her - finding nothing there. 
+
+Amy feels uncomfortable - quietly steps out - closes the door. 
+
+INT. REVIVAL THEATER - NIGHT 
+
+WIDE - the theater half full playing Woody Allen's "Annie Hall" the 
+
+very funny scene where Woody and Diane Keaton wrestle with the 
+
+lobster. 
+
+We move in slowly and discover Virgil and Amy leaning in close to 
+
+each other - Amy quietly describing the scene to him. 
+
+AMY 
+
+There's these big pots and Woody's got 
+
+a huge lobster in his hand...
+
+VIRGIL 
+
+Lobster - what's a lobster?
+
+AMY 
+
+(trying not to use her hands to describe) 
+
+It's a.. .kind of like.. it's got...
+
+Then she looks to Virgil - sees he was kidding her. 
+
+AMY 
+
+(laughing) 
+
+That's it - you're on your own.
+
+Off Virgil's laugh: 
+
+INT. SUBWAY LINE - NIGHT 
+
+BWAM - a subway train explodes past us. 
+
+INT. SUBWAY CAR - NIGHT 
+
+A collection of typical night riders - everyone keeping to 
+
+themselves. Two kids sit in the corner - blasting their boom box 
+
+Virgil stands in the middle of the train - enjoying the vibrations. 
+
+Amy sits on a seat watching him. 
+
+VIRGIL 
+
+And they lived happily ever after.
+
+AMY 
+
+Woody and Diane...
+
+VIRGIL 
+
+And the lobster?
+
+AMY 
+
+Stop with the lobster. 
+
+A song comes on the radio - Virgil's head turns. 
+
+VIRGIL 
+
+Hey - you here that?
+
+All she hears is the clatter of the subway. 
+
+AMY 
+
+What?
+
+Virgil turns towards the music - BAPPING his hands rhythmically on 
+
+the subway car wall. 
+
+VIRGIL 
+
+Hey - can you turn that up?
+
+The KID shrugs - CRAKKS it up. It's Gershwin's "Can't take that Away 
+
+from Me." Virgil turns to Amy - picks up on the song - hands RAPPING 
+
+- he starts singing: 
+
+VIRGIL 
+
+"The way you comb your hair, 
+
+The way you sip your tea..."
+
+He finds Amy, pulls her up and into an embrace as he saunters them 
+
+down the aisle. 
+
+AMY 
+
+Virgil?!
+
+VIRGIL 
+
+(loudly) 
+
+"Can't take that away from meee" - what?
+
+AMY 
+
+People are watching.
+
+VIRGIL 
+
+Watching? Watching what?
+
+AMY
+
+You. Me. Everyone is staring at us.
+
+VIRGIL 
+
+And?
+
+AMY 
+
+Well - it can be embarrassing.
+
+VIRGIL 
+
+(kidding) 
+
+Oh - I see.
+
+AMY 
+
+No - you don't.
+
+VIRGIL Touche. 
+
+"The way you make me see..."
+
+AMY
+
+(turns to him) 
+
+What do you mean?! 
+
+(Virgil gives her a look - 
+
+I want the operation) 
+
+You mean it. I mean I only want 
+
+you to have the operation...
+
+VIRGIL 
+
+Amy. I want the chance to see. 
+
+The chance to see Central Park, 
+
+the Brooklyn Bridge, apples, raisins,
+
+a buffalo, a carbuerator and the man 
+
+in the moon. 
+
+(beat) 
+
+But I would give all that up - 
+
+just to see this face.
+
+And Amy folds herself into Virgil - a moment - they hold each other 
+
+- then - Amy starts to sing along with the song - Virgil joining in 
+
+- and they dance - together - in love. 
+
+SMASH CUT TO: 
+
+EXT. SUBWAY CAR - NIGHT 
+
+AMY/VIRGIL (V.0.) 
+
+"You can't take that away from me."
+
+And the car explodes past again - and as the music dies we cut to: 
+
+INT. NEW YORK EYE HOSPITAL - OPERATING ROOM 
+
+CLOSE ON: a platter of silver utensils - fine, exacting scalpels. A 
+
+gloved HAND comes into frame - picks up a clamp - and we follow it 
+
+to: 
+
+VIRGIL'S EYES - the clamp being used to hold it open. The work we 
+
+are seeing is grueling - difficult to watch - but at the same time 
+
+so fascinating it is hard to take our eyes off. 
+
+Dr. Aaron followed by Dr. Goldman - hands in the air - mask on - 
+
+leans over Virgil - looks to the ANESTHESIOLOGIST who nods - then to 
+
+no one in particular. 
+
+AARON 
+
+OK Virgil - let's get to it.
+
+And as he is handed a SCALPEL, we watch as it moves down to cut open 
+
+the white section of the eye - and just as it feels almost 
+
+unbearable to watch- - 
+
+INT. NEW YORK EYE HOSPITAL - WAITING ROOM - DAY 
+
+We see Amy, coffee cup in hand, grab a second just poured cup out of 
+
+a vending machine. She makes her way over to reveal Jennie who sits 
+
+quietly reading a book. 
+
+AMY 
+
+Coffee? It's really bad. 
+
+Jennie looks up - smiles takes the cup. Amy sits down next to her. 
+
+They both sip for a moment. 
+
+AMY 
+
+Virgil never mentions his parents 
+
+- do they know? 
+
+JENNIE 
+
+Our mother died when I was 20 - Virgil wasn't
+
+even a teenager. And our father - he's been 
+
+gone for quite awhile. 
+
+AMY 
+
+I'm sorry. I didn't know. 
+
+Jennie looks into her coffee - takes another sip. 
+
+JENNIE 
+
+(smile) 
+
+You're right this is bad.
+
+AMY 
+
+It must have been very tough on you 
+
+- taking care of Virgil alone after 
+
+your mother died.
+
+JENNIE 
+
+He's my brother.
+
+Simple. 
+
+AMY 
+
+You don't like Virgil 
+
+doing this - do you?
+
+JENNIE 
+
+I don't like Virgil getting hurt. 
+
+Hope is like fire, it can keep you 
+
+warm - - or it can burn you.
+
+INT. NEW YORK EYE HOSPITAL - OPERATING ROOM - DAY 
+
+Dr. Aaron: - focused on his exacting work. His hands move deftly. 
+
+CLOSE ON: Virgil's eye. Cut open. Aaron's probe working right in the 
+
+middle of it. 
+
+DR. AARON 
+
+There you are.
+
+And Aaron pulls out the cloudy cataract tissue - holding it up for 
+
+all to see - before he PLOPS it on a tray. Switching instruments - 
+
+he gingerly picks up a plastic implant - moving back towards the eye 
+
+- he glances at the nurse assisting him: 
+
+DR. AARON 
+
+You know what they say, Virgil? 
+
+The eyes are the windows to the soul.
+
+Virgil can't move - listens intently as he carefully places the 
+
+implant into Virgil's eye. 
+
+DR. AARON 
+
+(with a wink) 
+
+That makes us the Windex to the soul. 
+
+(he focuses) 
+
+OK, both eyes done. Let's patch him up.
+
+On a large monitor we see an EXTREME CLOSE-UP of Virgil's eye - 
+
+waiting. 
+
+INT. NEW YORK HOSPITAL - LATER 
+
+Virgil being wheeled down a hall - head wrapped in bandages. 
+
+INT. EXAMINATION ROOM - DAY 
+
+As he enters: 
+
+VIRGIL 
+
+Hello?
+
+Jennie's there - takes his hand. 
+
+VIRGIL 
+
+Jennie?
+
+JENNIE
+
+How're you feeling?
+
+VIRGIL
+
+OK - a little pain, 
+
+like a tequila hang over
+
+- is Amy here?
+
+AMY 
+
+Right here - Dr. Aaron said you did great
+
+VIRGIL 
+
+So how's my hair - I'd hate the first time 
+
+I see myself to be a bad hair day. 
+
+(Virgil reacts to a sound) 
+
+What's that?
+
+AMY 
+
+There's camera guys here too.
+
+WIDE - we now see the room has a small VIDEO CREW in it preparing to 
+
+document the event. 
+
+VIRGIL 
+
+Camera guys?
+
+AARON 
+
+(entering) 
+
+For posterity. We're going to make you
+
+famous. We're also sending this closed 
+
+circuit to one of our conference rooms 
+
+- there's a lot of people interested in 
+
+our results today. So how you feel Virgil?
+
+VIRGIL 
+
+Good. Great. Fine. 
+
+(a laugh) 
+
+Nervous.
+
+Aaron moves about the room closing blinds to let in just a few slats 
+
+of light. 
+
+AARON 
+
+Nothing to be nervous about. 
+
+Now Jennie and Amy, if you would 
+
+stand off to my right -- I want 
+
+Virgil to get just a slight bounce 
+
+of light.
+
+(returning to Virgil) 
+
+Ready Virgil.
+
+VIRGIL 
+
+Let's go.
+
+Both Amy and Jennie subconsciously adjust their hair as Aaron starts 
+
+to unravel the bandages. 
+
+When the bandages are completely off - all that is left are two 
+
+gauze patches on both eyes. 
+
+AARON 
+
+Okay - last phase - 
+
+we remove these patches and...
+
+VIRGIL
+
+(suddenly apprehensive, hand up) 
+
+Okay - wait. So - so - what do I do? 
+
+I mean, what will I see first?
+
+AARON
+
+Well - we're all here - Amy, 
+
+your sister. This is new for 
+
+us all. Why don't we find out?
+
+Aaron reaches up and plucks the two patches from his eyes - and 
+
+everyone waits. 
+
+Virgil slowly opens his eyes - he just seems to be staring blankly, 
+
+bewildered - not focusing at Aaron who stands before him, still 
+
+holding the bandages. 
+
+Amy looks to Jennie - to Aaron - what's happening? Then finally: 
+
+AARON 
+
+Well?
+
+And Virgil reacts - a startling look of recognition mixed with fear 
+
+crossing his face. 
+
+AMY 
+
+What is it Virgil?
+
+VIRGIL 
+
+It's - it's - I don't know.
+
+And now for the first time we see Virgil's POV: 
+
+There is light, movement, color, shadow - but somehow it is foreign 
+
+to us. There is no perception of depth -. no sense of definition of 
+
+shape or shadow - it is as confounding to us as it is to Virgil - 
+
+like an explosion of Picasso, Dali and Monet on screen. 
+
+Suddenly in the midst of this chaos of images - there is movement - 
+
+and a voice emits out of what we now for the first time recognize as 
+
+a mouth. Dr. Aaron speaks again - leaning in to Virgil, who reacts 
+
+back. 
+
+AARON 
+
+Virgil - what do you see?
+
+VIRGIL 
+
+Something's wrong.
+
+Jennie's reaction comes pouring out of her eyes in tears, first 
+
+slowly, then a dam break. 
+
+AMY 
+
+Virgil what's wrong?
+
+What's happening?
+
+AARON 
+
+Everything's fine - 
+
+it's going to take...
+
+JENNIE
+
+It's not fine - 
+
+don't say it's fine.
+
+AARON 
+
+Tell me what you're seeing Virgil.
+
+Virgil suddenly pulling back - his eyes dancing around in his head - 
+
+trying to take it all in - trying to focus. 
+
+VIRGIL 
+
+(over everyone) 
+
+I don't know - it's all screwed up - 
+
+this can't be seeing - something's wrong
+
+- too confusing - what the hell's happening??!
+
+HIS POV - the camera crew coming toward him for a closer shot - it's 
+
+like a giant monster violently moving towards us! 
+
+VIRGIL 
+
+What is it - Stop!
+
+Virgil's hand lashes out towards the camera crew - even though they 
+
+are 15 feet away. 
+
+AARON 
+
+What? The camera?
+
+JENNIE 
+
+(to the crew) 
+
+Stop moving!
+
+AMY
+
+Virgil, it's just the camera.
+
+The room has heightened into chaos - Virgil reacting to everything 
+
+he sees, any quick movement - Amy moves next to him - Aaron trying 
+
+to remain calm - Jennie assuring Virgil everything's OK. 
+
+AARON 
+
+Alright - alright - they've stopped. 
+
+OK. Let's everybody just calm down 
+
+- we'll take it slowly.
+
+Everyone settles - takes a breath. 
+
+AMY 
+
+Virgil. What can we do?
+
+They all look to Virgil - breathing heavy - his eyes swinging back 
+
+and forth. 
+
+VIRGIL 
+
+I gotta focus - gotta think - 
+
+gimme a second - OK, OK - get me a 
+
+coke. Somebody?
+
+JENNIE
+
+He's thirsty - someone get him a drink!!
+
+VIRGIL
+
+No - just a can - a bottle -- 
+
+put something in my hands!
+
+Amy reaches over - grabs an empty coke can. 
+
+AMY 
+
+Here - how's this?
+
+Virgil takes it in his hands - closes his eyes - feels it. Then 
+
+slowly opens his eyes - trying to focus on what is in his hand - 
+
+Aaron catching on. 
+
+AARON 
+
+Good, Virgil - that's it - use your touch - 
+
+associate - now, tell me - what do you see 
+
+in your hand?
+
+Long moment. Virgil holds it up - stares hard. 
+
+VIRGIL 
+
+A can. Is it a can?
+
+JENNIE 
+
+What's going on?
+
+They all look at Virgil turning the can over and over in his hand - 
+
+staring intently at it - learning it. 
+
+AARON 
+
+(beams) 
+
+He's associating - one sense to the other. 
+
+His fingers tell his brain - then his brain 
+
+tells his eyes and he recognizes the image 
+
+in front of him. 
+
+(realizing) 
+
+He's seeing!
+
+Aaron looks to Amy and Jennie - they're still doubtful - he motions 
+
+to them to meet him outside. 
+
+AARON 
+
+Virgil - let's rest your eyes for today and 
+
+we'll check them again tomorrow. We should
+
+all be happy - we've got something.
+
+Virgil: not happy, just very confused. As Aaron leaves, Jennie takes 
+
+Virgil's hand while Amy stands there upset - watching him just 
+
+staring at a Soda Can. 
+
+INT. NEW YORK EYE HOSPITAL - DAY 
+
+In the corridor, Dr. Aaron shaking hands with Dr. Goldman - people 
+
+exiting the near-by conference room all congratulating the two 
+
+doctors. As Amy exits the room - Aaron moves to her. 
+
+AMY
+
+What just happened in there?
+
+AARON 
+
+You saw it. Success.
+
+AMY 
+
+Success - wait a minute - then why can't 
+
+he see me, his sister, anything.
+
+AARON
+
+He sees you. He just doesn't 
+
+understand that he sees you.
+
+AMY 
+
+But he'll overcome it - I mean - 
+
+this is temporary right?
+
+AARON 
+
+There's a very real possibility the 
+
+part of his brain area allocated to 
+
+vision is atrophied - given it's lack 
+
+of use, Virgil has probably used it 
+
+for some other function.
+
+Jennie has stepped into the waiting area - has just heard Aaron. 
+
+JENNIE
+
+You didn't think of this?
+
+This is as much an accusation of Amy as of Aaron. 
+
+AARON 
+
+We had no way of knowing what his faculties 
+
+were until we gave him the operation. If you 
+
+remember - we didn't know what to expect 
+
+- though it's clear his retinal disease must 
+
+be in remission.
+
+AMY
+
+So what are we supposed to do now - 
+
+you saw him - it's like he's another 
+
+person in there.
+
+AARON
+
+He won't need to stay here - take him home 
+
+- let him rest. But I will need to see him 
+
+every couple of days for the next month. 
+
+AMY 
+
+Isn't there some kind of therapy 
+
+he should be doing - someone to help him.
+
+Aaron stares at her - hadn't thought of this. 
+
+AARON
+
+OK, there is a visual therapist - Ray Webster 
+
+- a little unorthodox - that's why he's probably 
+
+your best bet, especially considering the unique 
+
+aspects of Virgil's condition. I'll contact 
+
+him for you - but there's no guarantee he can help.
+
+JENNIE 
+
+(can't believe this) 
+
+No guarantees.
+
+AARON
+
+Jennie, I told Amy here when we first talked - this is whole 
+
+new ground - for all of us.
+
+And Jennie quietly turns and goes back into Virgil's room. Amy just 
+
+stares at Dr. Aaron - a little overwhelmed. 
+
+INT. HOSPITAL ROOM - CHANGE AREA - DAY 
+
+Virgil - starting to dress. He stares at his clothes on a hangar - 
+
+not comprehending what it is. He closes his eyes - his hand going 
+
+out to feel it - then opening his eyes - he takes the shirt turns - 
+
+and notices someone watching him. 
+
+VIRGIL 
+
+Hello?
+
+HIS POV - it's his own reflection in a mirror next to his clothes. 
+
+Virgil stares at himself standing stock still - waiting for a 
+
+response from the person staring at him. 
+
+VIRGIL
+
+Is there...?
+
+Slowly realizing that what he sees is himself. He starts moving 
+
+towards the mirror fascinated. 
+
+Virgil's POV - Focusing on the image as it slowly takes shape - 
+
+becomes clearer to him. His hand going up to his nose - moving it 
+
+back and forth - laughs at it's absurdity - then is taken with his 
+
+own smile. He tries a smile - comes off awkward as he starts to 
+
+stare at his teeth. Touching each part of his face he investigates 
+
+his chin, ears and finally his hair. 
+
+Then he stops - and just stares - and stares at a face that is his 
+
+own - but so incredibly foreign to him. Who is this person? 
+
+INT. VIRGIL'S ROOM - DAY 
+
+Jenny starting to pack up Virgil's things. Suddenly there is a burst 
+
+of laughter from the other room. She looks up quizzically 
+
+INT. HOSPITAL CHECK-OUT - DAY 
+
+Amy in the check-in area - pacing - on a cellphone. 
+
+AMY 
+
+Duncan - I know the additions to the mall will 
+
+cost more.. look, I can't do this on the phone 
+
+- I'll be in tomorrow.. yes, I remembered they're 
+
+putting the fixtures in the lobby - I'll get 
+
+there as well - I'm just asking for one more day.
+
+INT. WAITING AREA - DAY 
+
+Jenny - finishing packing up Virgil's things. 
+
+VIRGIL (V.O.)
+
+Amy?
+
+Jenny looks up - Virgil standing in the doorway, dressed. 
+
+JENNIE 
+
+No - it's Jennie.
+
+She moves toward him - Virgil pulls back - hands out in front of 
+
+him. 
+
+JENNIE 
+
+I'm sorry - I'll move slower - I just...
+
+And Virgil's hands are on her face - eyes closed - feeling. He opens 
+
+his eyes - staring blankly - trying to figure this out. 
+
+VIRGIL 
+
+This is you.
+
+JENNIE 
+
+This is me.
+
+INT. HOSPITAL HALLWAY - DAY 
+
+Angle on Amy moving down the hall - hearing the voices. 
+
+INT. HOSPITAL ROOM - DAY 
+
+JENNIE 
+
+Everything's going to be alright 
+
+- we just need to get you home.
+
+VIRGIL 
+
+No, no - I can't go home. 
+
+I need to be here - see the therapist
+
+- doctor's. I want to be here.
+
+JENNIE
+
+But I can't stay here - and you can't 
+
+do this alone--who's going to take care.. .?
+
+She stops. Realizing. 
+
+ANGLE On Amy - outside the door - not wanting to go in. 
+
+JENNIE 
+
+Amy? She's going to look after you? 
+
+She doesn't know anything about the blind.
+
+VIRGIL
+
+I'm not blind anymore - and I'm not 
+
+going to let someone I care about 
+
+walk out of my life again.
+
+JENNIE
+
+(moves to him) 
+
+It's not your fault he left. 
+
+You can't keep blaming yourself.
+
+VIRGIL 
+
+(beat) 
+
+I'm staying here.
+
+A pause - and Jennie moves her hand out to him - touches his arm. 
+
+INT. HALLWAY - DAY 
+
+Amy feeling uncomfortable - starts to step away. 
+
+JENNIE (O.S.)
+
+Amy?
+
+Amy turns - Jennie in the doorway. 
+
+JENNIE 
+
+Virgil's finishing getting ready. 
+
+Could you walk me to my car?
+
+Amy nods - sees an element of defeat in Jennie's eyes. 
+
+EXT. HOSPITAL - LATE DAY 
+
+Jennie and Amy stand on the curb near Jennie's car. A moment of 
+
+uncomfortableness - then: 
+
+AMY 
+
+You alright? 
+
+JENNIE 
+
+I'm scared to death. I've spent my whole life 
+
+looking for any holes he might fall in. 
+
+I'd run up ahead and cover them. Everywhere
+
+I look here, I see holes.
+
+AMY 
+
+Please believe me - I don't want him 
+
+to get hurt anymore than you do.
+
+JENNIE 
+
+Amy - when Virgil was very young, he couldn't 
+
+see those close to him - so he never learned 
+
+to reach out. 
+
+(turns to her) 
+
+Don't expect him to reach out when he's in pain,
+
+or confused, or unhappy. If you really care 
+
+about him you have to just be there for him.
+
+And before Amy can answer, she gets into her car - starts it up and 
+
+drives off. 
+
+EXT/INT AMY'S.LOFT - DUSK 
+
+Virgil slowly gets out of the cab, looks up at the buildings - 
+
+immediately gets dizzy and nearly falls over. Amy lunges to help 
+
+him. Virgil is laughing in spite of himself. 
+
+VIRGIL 
+
+This is just great - I don't believe this. 
+
+What's that saying - stop the world I wanna get off.
+
+ETHAN (O.S.) 
+
+Hey Virgil, it's Ethan.
+
+Virgil turns to the familiar voice. Ethan, basketball under his arm, 
+
+coming out of the building with his Mom, KAREN COLVIN. Virgil scans, 
+
+tries to focus on them. 
+
+VIRGIL 
+
+That you Ethan?
+
+ETHAN 
+
+It's me - and this is my mom.
+
+AMY 
+
+Virgil - Karen.
+
+KAREN 
+
+Hi, Virgil - heard a lot about you.
+
+ETHAN 
+
+You look funny.
+
+VIRGIL 
+
+You should see how I look from this side.
+
+AMY Let's just get you inside - 
+
+then you can rest. 
+
+We'll see you later Ethan. Karen.
+
+And she gives Karen a small glance as she takes Virgil's arm as they 
+
+start towards the stairs leading into the building - Virgil suddenly 
+
+slamming to a halt. 
+
+VIRGIL 
+
+Wait, wait, what are we doing 
+
+- WE'RE WALKING INTO A WALL!!
+
+Virgil's POV - the staircase. A flat image - a solid wall with 
+
+horizontal lines. Ethan, surprised, what's up here? 
+
+AMY 
+
+It's OK - it's not a wall - 
+
+it's just a staircase. You're 
+
+going to have to trust me on 
+
+these things.
+
+VIRGIL
+
+God, I feel like... like such a child - 
+
+I just thought seeing would be different.
+
+AMY 
+
+We'll get a hold of this Ray Webster guy
+
+- we'll get his help.
+
+Virgil steps slowly forward - giant baby steps - each foot reaching 
+
+out to feel the step before making the commitment. 
+
+HIS POV - the 'wall' of stairs changing perspective with each step. 
+
+Like an accordion spreading itself out to us. This is all a very bad 
+
+acid trip. 
+
+INT. AMY'S APARTMENT - DUSK 
+
+VIRGIL'S POV - multi-colored balloons, dozens of assorted flowers, 
+
+bowls of colorful fruit and streamers intertwined across the room. A 
+
+candyland of seeing. 
+
+VIRGIL 
+
+Man. Something exploded 
+
+in your apartment.
+
+Amy laughs - pulls him into the room. Virgil trying to take it all 
+
+in - not understanding anything. 
+
+AMY 
+
+I wanted to do something 
+
+special for you.
+
+VIRGIL 
+
+It's making me a little 
+
+bit dizzy - but it is special.
+
+Virgil's hands go out - Amy moves to him - he holds her shoulders. 
+
+He stares at her. 
+
+As she turns her head slightly, Virgil is able to focus on her - her 
+
+eyes - her smile. 
+
+VIRGIL 
+
+Okay - so - this is what 
+
+beautiful looks like.
+
+AMY 
+
+Thank-you. You want to
+
+see the rest.
+
+Focusing on her, Virgil smiles, takes her face in his hands - leans 
+
+in and kisses her. She pulls back a little. 
+
+AMY 
+
+I can't believe this 
+
+- how nervous I am.
+
+She kisses him then takes a step back. 
+
+AMY 
+
+What if you don't like what you see?
+
+VIRGIL 
+
+Do you want me to turn off the lights?
+
+AMY
+
+No - no. This is your first seeing day. 
+
+(she starts to unbutton her dress) 
+
+I want you to see everything.
+
+And she drops the dress from her shoulders - it hits the ground - a 
+
+beat - and she stands there naked. 
+
+AMY 
+
+OK?
+
+VIRGIL 
+
+Yes, very OK.
+
+And she takes a step towards him and folds into his arms and as they 
+
+kiss we slowly fade to black. 
+
+INT. AMY'S LOFT - NIGHT 
+
+The sound of heavy New York rain. Amy awakening, and sees Virgil is 
+
+gone, his side of the bed empty. She looks across the room - where 
+
+she sees silhouetted against the moonlit window - - Virgil standing 
+
+next to Amy's sculpture, his face and body pressed up against the 
+
+pane of glass. 
+
+AMY 
+
+(wrapping a house coat around her) 
+
+Virgil?
+
+Virgil turns around - half faces her - the rain on the windows 
+
+decorating his face. 
+
+VIRGIL 
+
+I can't sleep - I'm afraid if I close my eyes...
+
+AMY 
+
+It'll be black when you open them again.
+
+Virgil nods. A moment and his hand goes out to her sculpture. 
+
+VIRGIL 
+
+You enjoy sculpting?
+
+AMY 
+
+At first. I liked the idea of molding - 
+
+taking the way I saw things up here- - 
+
+(touching her head) 
+
+- and making it take shape with my hands.
+
+VIRGIL 
+
+But you never finish them.
+
+AMY 
+
+Pieces never come out the way I wanted 
+
+- the way I saw them. I end up working 
+
+on them forever - like this one - 
+
+never getting them right.
+
+Virgil stares out the window at the rain. 
+
+VIRGIL 
+
+This is what rain looks like?
+
+AMY 
+
+Yeah.
+
+VIRGIL 
+
+It looks lonely. Not what I expected. 
+
+But I like it.
+
+Amy smiles - moves into him as he pulls her in close and they look 
+
+out at the night rain. 
+
+INT. ROSWELL-TREMONT - DAY 
+
+Amy working over a CAD computer with & draftsman. 
+
+AMY 
+
+You've got to alter each of 
+
+the windows by five feet...
+
+DRAFTSMAN 
+
+These are the specs you gave me.
+
+AMY 
+
+I know - I'm changing them - 
+
+this is better. 
+
+(calling out) 
+
+Betsy!
+
+Betsy pokes her head in. 
+
+AMY 
+
+Can you get me some research on 
+
+those Maple trees we're leaving in. 
+
+They're too big - I want to change 
+
+them so they fit in with the design 
+
+better. Get rid of the dead weight.
+
+BETSY 
+
+Don't you have an appointment?
+
+Amy looks to her watch. Starts for her jacket and the door. 
+
+AMY 
+
+Yes, yes. Thank-you. 
+
+Evan here will print out the new specs 
+
+- give them to Duncan - tell him I'll
+
+be back in two hours.
+
+DUNCAN (O.S.) 
+
+Amy?
+
+Duncan steps out of his office. She turns - virtually out the door. 
+
+AMY 
+
+Just give me two hours.
+
+And she's gone. 
+
+EXT. NYU CAMPUS - NEXT DAY 
+
+A few KIDS smoking on the steps. Others entering, laden down with 
+
+books - a small sea parting to allow Amy helping Virgil up the steps 
+
+and inside. 
+
+INT. NYU HALLWAY - DAY 
+
+They make their way down the hall - past a - room where a group of 
+
+BLIND CHILDREN learn to read Braille. Amy can't help but stare at 
+
+these young faces struggling to learn. It's a whole different world. 
+
+INT. RAY WEBSTER'S OFFICE - DAY 
+
+A strange space, dark, as all the windows are covered. In a jar on 
+
+the desk - two pickled eyeballs stare back at Virgil and Amy waiting 
+
+patiently. There are books everywhere - periodicals stacked and 
+
+overflowing on shelves. A dead plant in the corner. 
+
+RAY WEBSTER - 60's, almost completely bald, wearing a worn NYU 
+
+sweatshirt, sits at the desk in front of them - flipping through a 
+
+file in front of him. 
+
+WEBSTER 
+
+Right - OK, Virgil - says here you went 
+
+blind at one - before you developed a 
+
+visual vocabulary. 
+
+(Webster stands - moves towards a bookshelf) 
+
+You have no sense of depth of field, 
+
+no knowledge of space, shape, size or 
+
+distance. Basically your eyes work but 
+
+your brain hasn't learned to process 
+
+the information. 
+
+(beat) 
+
+You are mentallv blind. Neurologists 
+
+call this "visual agnosia".
+
+VIRGIL 
+
+I call it pretty screwed up.
+
+WEBSTER 
+
+Better term. I'll make a note of that.
+
+Webster plops down a large book - flips through some pages, then 
+
+searching his pockets: 
+
+WEBSTER 
+
+Dammit
+
+AMY 
+
+What?
+
+WEBSTER 
+
+Glasses, can never find 'em. 
+
+(calling out) 
+
+Mrs. Fenster.
+
+Mrs. Fenster pops her head in the door - this must be a ritual they 
+
+have as she instantly pulls her GLASSES off and hands them to 
+
+Webster who drops them over his nose. They are clearly woman's 
+
+glasses - pointed in the ends - little jewels. As Mrs. Fenster 
+
+leaves. 
+
+WEBSTER 
+
+(referring to the book) 
+
+OK. Alberto Valvo "Sight Restoration after 
+
+Long Term Blindness" - blah-blah-blah. -
+
+ah here... 
+
+(reading) 
+
+"One must die as a blind person to be born
+
+again as a sighted person. However it is 
+
+the interim, the limbo- -between two worlds,
+
+one dead/the other powerless to be born - 
+
+that is so terrible." 
+
+(slamming the book shut) 
+
+There. You're in limbo.
+
+AMY 
+
+What do you mean - there - he's in limbo.
+
+That's all you have to offer?
+
+WEBSTER
+
+What? - I'm Anne Bancroft all of a sudden? 
+
+I'm a professor - I teach people, how to 
+
+teach the blind how to become independent. 
+
+(beat) 
+
+There's no book on what you're going through
+
+- I'd like to help - but like the rest of 
+
+things in life - it's up to you.
+
+VIRGIL
+
+Wait a minute - up to me? 
+
+I thought you were going to help me here.
+
+Webster rummages in his desk - pulls out a magazine photo - then 
+
+digging in a brown paper bag - he pulls out an apple. 
+
+WEBSTER 
+
+You want a lesson? Right - here. 
+
+What's this?
+
+He holds out the apple for Virgil - who reluctantly takes it - holds 
+
+it in his hand, eyes closed, feels it - then opening his eyes he 
+
+holds it out in front of him, trying to focus on it. 
+
+HIS POV - as the apple slowly takes on dimension and shape. 
+
+VIRGIL 
+
+It's an apple.
+
+WEBSTER 
+
+Good. Good. 
+
+(holding up the photo) 
+
+OK. What's this now?
+
+Virgil stares at the photo. HIS POV - a photo of -- an APPLE. Not 
+
+that different from the real apple he holds in his hand - he holds 
+
+the real apple up to compare - using his eyes. 
+
+VIRGIL 
+
+It's an apple.
+
+WEBSTER 
+
+(holding the paper out to Virgil) 
+
+Good. Good. But is it an apple or 
+
+just a picture of an apple?
+
+And Virgil feels the paper and suddenly realizes - it's not an apple 
+
+- just a representation of one. Virgil is visibly disappointed. 
+
+VIRGIL 
+
+So this is a joke? Is that what you're
+
+saying - your eyes lie to you? Great 
+
+- looking forward to this.
+
+WEBSTER 
+
+Your eyesight can and will play tricks on 
+
+you Virgil. Remember that. No matter what
+
+I could teach you - no matter what exercises 
+
+I could give you - they'll still play tricks on you.
+
+VIRGIL
+
+That's all it is right now - one big trick. 
+
+Nothing makes any sense. I can't function like this.
+
+WEBSTER
+
+(he moves to his chair) 
+
+Virgil - look - you have to learn to see - 
+
+just like you learned to speak. Only this 
+
+is not like learning a new language - 
+
+it's like learning language for the first time. 
+
+(he leans forward) 
+
+Perception - sight - life, is about experience 
+
+- about reaching out and exploring the world 
+
+for yourself. It's not enough to just see Virgil -- 
+
+(he points two fingers into his eyes) 
+
+-- we've got to look as well.
+
+And Webster turns the fingers from his eyes outward - to the world. 
+
+AMY 
+
+(wound up) 
+
+Well, thank-you Obi Wan Kenobi - 
+
+but that doesn't tell us anything. 
+
+What we need is some assistance here 
+
+- some kind of program - a set of exercises 
+
+- we're kind of adrift and...
+
+WEBSTER 
+
+Amy - last I checked - this isn't a game 
+
+of Parcheesi, it doesn't come with a set of rules.
+
+AMY 
+
+I can't believe you're just...
+
+VIRGIL
+
+Amy. Let's go.
+
+AMY 
+
+No, wait, Virgil...
+
+VIRGIL 
+
+Let's go. 
+
+(standing) 
+
+Thank-you Dr. Webster.
+
+WEBSTER 
+
+You want me - I'm always here.
+
+And Virgil turns and half steps - half shuffles towards the door. We 
+
+hold on Amy's befuddled face - then: 
+
+EXT. NYU - DAY 
+
+Virgil feels his way down the steps - Amy rushing out after him. 
+
+AMY 
+
+I'm going to call Aaron - 
+
+get him to recommend someone else.
+
+VIRGIL 
+
+He's right, Amy. I've got to do this 
+
+on my own. No one taught you how to see.
+
+Virgil starts walking stiffly towards the street. Amy hurries after 
+
+him - grabs him just as he was about to step into traffic. 
+
+AMY 
+
+I was a baby then - I had years to learn - 
+
+you don't - you need to...
+
+(anxious)
+
+ --we don't even know what to do 
+
+- where to start..
+
+Virgil's hand goes out - brushes a mailbox. 
+
+VIRGIL 
+
+What's this - this thing?
+
+Amy looks over. 
+
+AMY 
+
+(shrugs) 
+
+What - it's a mailbox.
+
+VIRGIL 
+
+What color is it?
+
+AMY
+
+Blue.
+
+Virgil stares at it - tries to take it in. 
+
+VIRGIL
+
+Blue. OK, good - that's a mailbox
+
+- it's blue. There - we've started.
+
+She says nothing. Virgil senses her apprehension. 
+
+AMY Let's just get a cab, get you home 
+
+- and tonight we can work on it.
+
+(hand out) 
+
+Cab!
+
+A cab veers across traffic - pulls up to them. 
+
+VIRGIL 
+
+I want to walk. I want to see what's out there.
+
+AMY
+
+Fine. Let's walk.
+
+VIRGIL 
+
+Don't you have a job?
+
+AMY 
+
+I'm going to make time for this. I promise.
+
+VIRGIL 
+
+Go to work. If I need you - 
+
+I have your number.
+
+A beat, she looks to Virgil then climbs into the cab and it pulls 
+
+away. 
+
+Virgil looks left, right - trying to decide where to start his 
+
+journey when we see the cab back up in front of him and Amy climbs 
+
+out. 
+
+AMY 
+
+Screw work - let's go try those eyes.
+
+INT. LECTURE RALL - DAY 
+
+Aaron at a podium. The room filled with colleagues. A NEWSCREW 
+
+records the lecture from the back of the hall. 
+
+AARON 
+
+Now just two weeks after surgery--the patient is 
+
+still having difficulty understanding images,
+
+shapes, contours - 
+
+EXT. NY CITY STREET - NEW DAY 
+
+Virgil - determined to see - making his way down a street - trying 
+
+to dodge people coming at him from all angles. Amy walks a short 
+
+distance behind him - coaxing him along. 
+
+HIS POV - people seem to explode out of two dimensions into three. 
+
+This is clearly exhausting. 
+
+AARON (CONT'D)
+
+- and his progress with depth of field has been especially slow...
+
+WHAM - Virgil collides with a kid on a skateboard - Amy winces as he 
+
+quickly regains his balance - shakes it off - starts his journey 
+
+again - determined. 
+
+EXT. BROADWAY - STREET VNNDORS - DAY 
+
+Amy trying to help Virgil take in the confusion of images - 
+
+explaining to him items hanging about the stalls. It's clear he's a 
+
+little overwhelmed - when something familiar catches his eye. He 
+
+moves toward it: 
+
+HIS POV - focusing - trying to give it shape - it's a YELLOW CAB - 
+
+just like the one Amy drove off in - again he focuses - reaches out 
+
+- surprisingly wrapping his hand around the car. 
+
+AARON (CONT'D)
+
+Virgil is still very reliant on his touch 
+
+to interpret objects in his surroundings -
+
+He then realizes it's a porcelain toy from a souvenir shop. Amy 
+
+watches him examine it like a child as we hear: 
+
+EXT. STREET CORNER - DAY 
+
+AARON (CONT'D)
+
+- and his understanding of three dimensionality 
+
+is extremely limited and confounding to him...
+
+Virgil - his hands all over a small long haired TERRIER. He looks to 
+
+Amy as he stands. 
+
+VIRGIL 
+
+It's a dog.
+
+Amy on her cellphone - trying to get work done - nods - yes that's a 
+
+dog. Virgil looks back at the pup - which has now turned around 
+
+backwards. 
+
+VIRGIL 
+
+Now what's that?
+
+On Amy - disturbed by his slow progress. 
+
+EXT. GARDEN MARKET - ANOTHER DAY 
+
+Amy and Virgil being led through a series of plants and trees by a 
+
+EARTHY SALESWOMAN. 
+
+SALESWOMAN 
+
+I believe we have just the tree you're 
+
+looking for your lobby. Needs very little 
+
+light - slow growing - ah here we are...
+
+Amy and Virgil stop at a large Ficus Tree. 
+
+AMY 
+
+Nice. Good. What do you think Virgil?
+
+AARON (CONT'D)
+
+He is also still having great difficulty 
+
+"scanning", basically putting a whole picture together.
+
+Virgil stares at the large tree. Up - down - up - down - up - down - 
+
+up - down - Amy and the Saleswoman watch him, Amy wants to help but 
+
+can't comprehend what he's going through. 
+
+AARON (CONT'D)
+
+If he looks at the top of a tree - then scans 
+
+to the bottom - he's forgotten the top by the 
+
+time he reaches the trunk.
+
+INT. AMY'S WORK - DAY 
+
+ANGLE ON Virgil in Amy's office - staring at a construction sign - 
+
+FUTURE HOME OF etc... Using his finger to outline the letters of the 
+
+sign - he tries to read the word FUTURE. He mouths the letters - 
+
+tries to form the word. 
+
+AARON (CONT'D)
+
+This includes the ability to read. In reading a 
+
+word - he forgets the first letter by the time 
+
+he gets to the last.
+
+Amy working with a draftsman - glances up to see Virgil struggling 
+
+with reading. 
+
+INT. NEW YORK EYE HOSPITAL - LECTURE ROOM - DAY 
+
+Bathed in a bank of lights, Aaron at the podium continuing. Virgil 
+
+quiet - is seated behind him. 
+
+AARON (CONT'D)
+
+-- meaning ... he has a total lack of visual 
+
+memory. This is an unexpected physiological 
+
+flaw. We are hopeful Virgil can overcome this. 
+
+(beat) 
+
+Thank-you - that's all for today.
+
+INT. NEW YORK EYE HOSPITAL HALLWAY - DAY 
+
+Virgil and Amy exit the hall, are immediately surrounded by 
+
+REPORTERS and PHOTOGRAPHERS. There's a sudden FLASH. Virgil reacts, 
+
+pulling away. 
+
+VIRGIL 
+
+What's that?
+
+AMY 
+
+A camera - it's OK - 
+
+taking your - picture.
+
+VIRGIL 
+
+What, by flashing me in the face?
+
+FLASH - there's another - Amy tries to block the light. 
+
+AMY 
+
+Please!! - It's not good for him.
+
+Suddenly - there's a mike in his face, as CHRISTIE EVANS reporter 
+
+from Channel 2 news steps forward with CAMERA CREW in tow. 
+
+CHRISTIE EVANS 
+
+Mr. Anderson. Christie Evans Eyewitness news. 
+
+We heard the Doctor speak about your progress 
+
+- and we're wondering what your expectations are.
+
+As Virgil stops - stunned by the lights in his face. As he looks to 
+
+Amy we cut to: 
+
+INT. HOME - LATE DAY 
+
+TV MONITOR - Virgil turns to camera - starts talking to the 
+
+reporter. As we pull back we hear less and less as we reveal a 
+
+modest living room. A TEENAGER doing homework on a table in the 
+
+corner and a MAN - early 60's, rugged - sitting on a couch watching 
+
+the news. 
+
+MAN 
+
+Oh my God.
+
+He leans forward - his interest piqued and he picks up the phone. 
+
+MAN 
+
+Information. Pinecrest. 
+
+For a Jennie Anderson..
+
+INT. RESTAURANT - LITTTE ITALY - LATER THAT NIGHT 
+
+A silver fork held up in front of us. 
+
+AMY 
+
+What's this?
+
+Virgil and Amy sit on the patio of La Mela. Virgil's hand goes out 
+
+for the fork. Amy pulls it away. 
+
+AMY 
+
+Uh uh uh. See it first. 
+
+No cheating. Concentrate.
+
+Virgil stares hard at it. 
+
+VIRGIL 
+
+(guessing) 
+
+A pen. I don't know - let me touch it.
+
+She hands it to him. 
+
+VIRGIL 
+
+A fork.
+
+AMY 
+
+Right.. Now put it down in 
+
+front of you. How far is it from.
+
+VIRGIL 
+
+Twenty feet
+
+AMY 
+
+You're not looking.
+
+VIRGIL 
+
+Dammit, Amy, Amy, I spent all day in front 
+
+of that panel feeling like a guinea pig. 
+
+Every time I open my eyes I have to look. 
+
+Can we just sit and have dinner for once?
+
+Amy just stares. It's clear they're both tired. 
+
+AMY 
+
+I'm just trying to help you see.
+
+VIRGIL 
+
+I know. But that's all it seems we're 
+
+about. How was your day - what goes on 
+
+at work - how about those Rangers - 
+
+did the stock market hold today - 
+
+is there anything else going on in our 
+
+world besides my eyes?
+
+AMY 
+
+(beat) 
+
+OK, we've been invited to a party 
+
+- Duncan's birthday.
+
+An ITALIAN WAITER appears - putting a large plate of spaghetti in 
+
+front of Virgil and Amy. Virgil is a little repulsed by what he 
+
+sees. 
+
+VIRGIL 
+
+What's this - looks like worms.
+
+AMY 
+
+It's spaghetti - it's fine.
+
+As Virgil tries to maneuver his fork - Amy reaches behind her. 
+
+AMY 
+
+I brought you a present - 
+
+good for hand eye coordination.
+
+She hands him a TOYS R US bag. He peers inside. 
+
+VIRGIL 
+
+Great - you go to work building buildings 
+
+- I go home with building blocks.
+
+INT. ROSWELL -TREMONT - LATE DAY 
+
+Amy - looking a little worn - staring blankly at her computer. A 
+
+three dimensional rendition of the mall rotates on the screen. 
+
+Duncan pokes his head in. 
+
+DUNCAN 
+
+I'm here for you to wish me 
+
+happy birthday. How's it going?
+
+AMY 
+
+(distracted) 
+
+OK. He's progressing, slowly 
+
+- doing the best he can.
+
+DUNCAN 
+
+I was actually wondering about the mall 
+
+designs. We're expected in Atlanta tomorrow 
+
+- with these plans.
+
+AMY 
+
+I can't go to Atlanta tomorrow 
+
+- not with Virgil's problems,..
+
+DUNCAN 
+
+Ok, ok 
+
+(Duncan moves in behind her) 
+
+I'm sorry. Things aren't going so well?
+
+AMY 
+
+(stares at her work) 
+
+He seems blinder now than he ever was.
+
+Duncan puts his hands on her shoulders - starts to knead them. Amy 
+
+starts to relax. 
+
+AMY 
+
+Do you ever wonder why 
+
+you do the things you do?
+
+DUNCAN 
+
+Didn't get what you expected did you? 
+
+AMY 
+
+Sometimes I think he's not going to make it 
+
+- that he's never going to be able to see.
+
+DUNCAN 
+
+Amy - listen to me. You liked this guy 
+
+- I saw that. You wanted to help him 
+
+- it didn't work out so hot. You can't 
+
+punish yourself.. Sometimes things just 
+
+don't work out the way we want them to 
+
+- look at us.
+
+Amy smiles warmly. 
+
+AMY 
+
+Yeah. Thanks Duncan.
+
+DUNCAN 
+
+Anytime. 
+
+(beat, a joke) 
+
+Now back to work.
+
+As he starts out of the room, Amy turns stops him. 
+
+AMY 
+
+Hey, Happy Birthday.
+
+INT. AMY'S LOFT - DAY 
+
+Virgil sits at the kitchen table staring at everyday kitchen 
+
+utensils - being held by Ethan. 
+
+VIRGIL 
+
+Measuring cup?
+
+Ethan shakes his head - no - it's a cheese grater. Virgil stares 
+
+again. Ethan mimes grating cheese. 
+
+VIRGIL 
+
+Cheese grater.
+
+ETHAN 
+
+Yes - my man.
+
+Ethan holds up something new - one of those strange spaghetti 
+
+strainers. Now they are both staring at something they don't 
+
+understand. Virgil looks to Ethan. 
+
+ETHAN 
+
+Got me.
+
+VIRGIL 
+
+(laughing) 
+
+You're no help. How am I supposed 
+
+to do my homework if...
+
+ETHAN 
+
+Homework - dude - I
+
+ain't doin' homework.
+
+Virgil continues to look at the strainer as Ethan gravitates towards 
+
+his cane folded up on the table. 
+
+ETHAN 
+
+(beat) 
+
+You're lucky you got a cane.
+
+Virgil looks over - sees his fascination. 
+
+VIRGIL 
+
+You want it. I've been thinking
+
+about throwing it out.
+
+Ethan's up in a flash. 
+
+ETHAN 
+
+Man - really - I can have it? Cool. 
+
+(picking it up) 
+
+I could be a Ninja Darth Vader fighter 
+
+with one of these - protect my mom from 
+
+the evil super.
+
+Virgil is up - with the spaghetti strainer in his hand. 
+
+VIRGIL 
+
+But first you'll have to fight 
+
+off the evil --- whatever this is.
+
+As they joust about - Virgil enjoying himself - there's a knock at 
+
+the door. 
+
+VIRGIL 
+
+Could be the super - go for cover.
+
+As Ethan ducks behind the couch, Virgil makes his way to the door, 
+
+fumbling with the handle - he opens it to: 
+
+JENNIE. Virgil stares at her. We soon realize he has no idea who 
+
+this is. 
+
+VIRGIL 
+
+Yes?
+
+Jenny looks at him, her eyes welling. 
+
+JENNIE 
+
+Virgil - it's me.
+
+And suddenly Ethan is there - cane drawn like a sword. 
+
+ETHAN 
+
+En garde.
+
+Jennie startled - looks to Ethan then Virgil. What's going on? 
+
+VIRGIL
+
+Jennie?! Jennie.. God, I'm sorry 
+
+- c'mon in - this is my friend Ethan 
+
+- what are you doing here?
+
+Off Jennie's look: 
+
+EXT. CONSTRUCTION SITE - DAY 
+
+Virgil and Jennie standing across the street from a building being 
+
+torn down. Hard hatted WORKERS hover about the large trucks at work. 
+
+VIRGIL 
+
+You want to tell me 
+
+what we're doing here?
+
+Jennie points. 
+
+JENNIE 
+
+That's him. That's our Father.
+
+Virgil looks in the direction she's pointing - tries to focus on a 
+
+figure moving across the lot. The MAN we saw watching TV. 
+
+VIRGIL 
+
+I can't - I can't see him.
+
+Jennie looks to him. 
+
+JENNIE 
+
+I thought your eyes were better.
+
+VIRGIL
+
+No. I - I don't want to see him. 
+
+My eyes aren't good enough - not yet 
+
+- he won't understand. It won't be enough.
+
+Virgil takes a step back. 
+
+JENNIE 
+
+He's our father. He heard about the 
+
+operation and he's asked to see you. 
+
+Look here he comes.
+
+VIRGIL 
+
+GODDAMIT Jennie - I don't want to 
+
+see him - I don't even know why you
+
+brought me here.
+
+And Virgil takes another step back then turns and starts of f down 
+
+the street leaving Jenny alone. 
+
+INT. AMY'S BUILDING - NIGHT 
+
+Amy making her way up the stairs - roll of plans under her arm. 
+
+Opening her door to: 
+
+INT. AMY'S LOFT - NIGHT 
+
+A totally dark room. She drops her things. 
+
+AMY 
+
+Virgil?... Virgil?!
+
+She flicks on the light - to reveal Virgil has been sitting in the 
+
+dark. She looks over - sees the scattered blocks on the floor. 
+
+VIRGIL 
+
+I'm here. I forget about the lights sometimes.
+
+AMY
+
+Look - about this party tonight 
+
+- it's no big deal - maybe we should just...
+
+VIRGIL
+
+It's your partner's birthday. We should go 
+
+- besides you wanted me to meet your friends, right?
+
+AMY 
+
+Yeah. Right.
+
+INT. LOFT - NIGHT 
+
+Noisy, crowded - PEOPLE mill about carrying drinks - black and 
+
+silver balloons float about the ceiling. Moving through the crowd - 
+
+music blasting - Amy introducing people to Virgil over the noise. 
+
+A WAITER walks up to them holding a tray of wine. 
+
+WAITER 
+
+Glass of wine? Red - white?
+
+Amy reaches out - takes one. 
+
+VIRGIL 
+
+Which is the red?
+
+Amy looks at the waiter - then points to one. Virgil's hand reaches 
+
+out slowly - hovering - it's clear it's confusing - trying to 
+
+separate out one glass. The Waiter looks to Amy like "is he OK?" 
+
+AMY 
+
+Virgil - here let me.
+
+Her hand darts in front of his. 
+
+VIRGIL 
+
+(quick) 
+
+No! Sorry - I mean - I'm almost 
+
+there - I think I got it.
+
+And she backs off as his hand wraps around a glass - pulling it 
+
+back. At the last second knocking over two other glasses. 
+
+VIRGIL 
+
+Dammit. Sorry.
+
+The Waiter - trying not to spill on himself. 
+
+WAITER 
+
+Trust me - you're not the first - 
+
+or probably the last. Let me get a cloth.
+
+VIRGIL 
+
+Thanks
+
+The Waiter smiles - and as he walks off. Virgil nervously takes a 
+
+large drink of wine. 
+
+WAITER 
+
+I hope you're driving.
+
+Suddenly from the front of the room - MARSHALL, the host calls out: 
+
+MARSHALL 
+
+OK. He's coming up the stairs. 
+
+Everybody get ready - kill the lights.
+
+Excitement - a buzz - Virgil looks around then CLICK - all the 
+
+lights go out. Virgil panics momentarily. 
+
+VIRGIL 
+
+What - what's happening?
+
+Amy moves to him in the near dark room. 
+
+AMY 
+
+It's for the surprise - 
+
+they turned off the lights.
+
+VIRGIL 
+
+Surprise - yeah.
+
+And suddenly the lights flood back on, everyone screams: SURPRISE!! 
+
+Duncan - at the door with Betsy - genuinely surprised - catches his 
+
+breath - then fakes a quick heart attack and drops to the floor. 
+
+The room explodes in laughter - Amy included. This action is even 
+
+more confusing to Virgil. 
+
+VIRGIL 
+
+Is he OK?
+
+Hearing this - everyone breaks into bigger laughter - Virgil now the 
+
+focus of attention - good naturedly laughs - Amy smiles, 
+
+embarrassed. Virgil takes a gulp of his wine, finishing it off. 
+
+LATER: 
+
+The Music is cranked! Many couples dance. Virgil exits the bathroom 
+
+- glances back in the mirror again, at his hair - not sure he likes 
+
+its style. He tries brushing it to the other side - it's OK. How 
+
+about the other way - not so bad - maybe. It's clear he's a little 
+
+tipsy as he keeps playing with his hair. 
+
+WAITER (O.S.) 
+
+Here ya go Virgil.
+
+Virgil turns - the Waiter stands there holding a glass of wine - 
+
+placing it carefully into Virgil's hand: 
+
+VIRGIL 
+
+Cheers, Kevin.
+
+AMY (O.S.)
+
+(over the noise)
+
+Virgil!!
+
+Virgil embarrassed, turns - can faintly hear Amy's voice over the 
+
+music. Searches the room - bopping bodies - balloons being bashed 
+
+round - lights dim. The number of drinks he's had isn't helping. 
+
+AMY 
+
+Virgil--over here!!
+
+Amy, standing with Duncan and Betsy. 
+
+DUNCAN
+
+Maybe he's blind again.
+
+AMY 
+
+Don't even think it. C'mon - I want the 
+
+both of you to meet him - he'll never 
+
+find us here.
+
+With VIRGIL - smiling as he sees Amy, Duncan and Betsy move towards 
+
+him. 
+
+AMY 
+
+Virgil - I'm sorry - I went to get 
+
+Duncan. Duncan - Virgil. And this is 
+
+Betsy.
+
+DUNCAN 
+
+Hey Virgil good to meet you.
+
+BETSY 
+
+Heard a lot about you.
+
+VIRGIL 
+
+Heyyy! Yeah. Good to meet you.
+
+Virgil thrusts his hand out - colliding it into Duncan's. 
+
+VIRGIL 
+
+Sorry - things still get a 
+
+little cockeyed sometimes.
+
+DUNCAN 
+
+(holding up his drink) 
+
+Few more of these and I'll be the same.
+
+VIRGIL 
+
+Lemme get Kevin - my man - 
+
+he'll top you up. KE-VIN!!!
+
+AMY 
+
+Virgil!
+
+VIRGIL 
+
+What?
+
+Uncomfortable - everyone stops. 
+
+AMY 
+
+Nothing. It's ok.
+
+DUNCAN 
+
+Amy, in Atlanta tomorrow...
+
+AMY 
+
+Duncan - I told you...
+
+DUNCAN 
+
+I spoke to Falk and he...
+
+AMY 
+
+(can't hear) 
+
+What?
+
+Duncan pulls Amy in close to talk - shutting Virgil and Betsy out. 
+
+BETSY 
+
+Amy said you had great hands. 
+
+VIRGIL 
+
+(laughs) 
+
+She did, did she.
+
+Virgil holds them up in front of his face - tries to see them. Then 
+
+looks past them and watches Amy and Duncan - more importantly looks 
+
+at Duncan's hair, his clothes. It's clear he's becoming aware of 
+
+appearances. His own especially. 
+
+As they break their tete a tete. 
+
+BETSY
+
+You know my father was blind for several 
+
+years, he had cataracts as well.
+
+Somehow this comes out patronizing. 
+
+VIRGIL 
+
+Really. I'm surprised I don't 
+
+know him. It's a club you know.
+
+Kevin, the African American waiter comes up. 
+
+KEVIN 
+
+Yes.
+
+Virgil throws his arm around Kevin. 
+
+VIRGIL 
+
+Kevin - Duncan here the birthday man 
+
+- could use himself a drink. Kevin here 
+
+tells me he's black - did you know that
+
+- I mean look at him - look at me -
+
+isn't that the damnedest thing. He's black. 
+
+Amy is mortified, Kevin laughs. 
+
+KEVIN
+
+I'll get you a drink.
+
+Virgil looks to Amy. 
+
+VIRGIL 
+
+What's that look?
+
+AMY 
+
+What look?
+
+VIRGIL 
+
+I've never seen your face that way 
+
+before. It's.. .weird. What does it mean?
+
+Before she can answer - a dance song breaks out - Betsy wraps her 
+
+arm around Duncan's. 
+
+BETSY 
+
+Come on Duncan - let's dance - 
+
+move those old bones.
+
+Duncan only acknowledges Betsy's contact with a raised eyebrow to 
+
+Amy. 
+
+DUNCAN 
+
+What the hell it's my birthday -- nice to 
+
+meet you Virgil - see you at the opening.
+
+And they're gone onto the floor. Virgil watches him - sees the ease 
+
+with which Duncan moves, handles things. 
+
+VIRGIL 
+
+Opening?
+
+AMY 
+
+The lobby we designed. Virgil - you can't...
+
+VIRGIL 
+
+Let's dance.
+
+Virgil takes her arm and pulls her out on the floor. Amy - ready for 
+
+one of Virgil's wild dances takes hold of his hand. The music 
+
+blaring, Virgil starts to get into it - Amy starting to relax - then 
+
+Virgil slowly notices how everyone else is dancing - more 
+
+conservative. 
+
+He's even getting some looks from people. Slowly he winds down - 
+
+tries to mimic what everyone else is doing - ends up in just a slow 
+
+shuffle. 
+
+Amy watches him - sees he's uncomfortable - moves to him - but 
+
+Virgil turns on his heel and strides away. Amy follows after him. 
+
+INT. LOFT - CORNER - NIGHT 
+
+Virgil stands near the glass doors leading to an outdoor balcony. 
+
+Amy comes up to him - finds Virgil facing a wall - eyes shut. 
+
+AMY 
+
+What are you doing?
+
+Virgil's head cocks slightly towards her - just like when he was 
+
+blind. 
+
+VIRGIL 
+
+I feel like Rip Van Winkle. 
+
+I've woken up from a thirty year sleep 
+
+- and the world's passed me by.
+
+AMY 
+
+It's just dancing. Who cares?
+
+Virgil whirls on her - his hand on her shoulder to steady his look 
+
+at her. 
+
+VIRGIL 
+
+No-no-no-no. It's not the Goddamn dancing. 
+
+I wanted to come here tonight - show you I
+
+could "fit" in. Like the big boys do. Big 
+
+seeing boys. Yes. Well, I don't. Don't.
+
+AMY 
+
+It's just going to take time. 
+
+You weren't ready. We shouldn't have come.
+
+VIRGIL 
+
+No - I - me, shouldn't have come. 
+
+You want me to see - but you know what 
+
+- you know what - shit - I don't belong 
+
+in the wonderful world of seeing. 
+
+Amy reaches out to him. 
+
+AMY 
+
+Virgil ... look ....
+
+Amy realizes what she just said - Virgil pulls his arm away. 
+
+VIRGIL 
+
+No, I won't. I'm tired of looking. 
+
+Fuck looking and the horse it came in on.
+
+And he spins to get away from her and takes a step crashing right 
+
+into the sliding glass door which explodes in a shower of little 
+
+crystals. 
+
+The party slams to a halt - Amy stands stunned. Virgil shaken - tiny 
+
+cuts on his face. 
+
+AMY 
+
+Oh my God, are you alright?
+
+Virgil slams his eyes shut. 
+
+VIRGIL 
+
+Yeah, I'm just fine. Take me home.
+
+INT. AMY'S LOFT - NEXT MORNING 
+
+Virgil, small nicks on his face, wakes up - rolls over - feels the 
+
+empty bed beside him. Looks up to see Amy pulling her coat on - 
+
+suitcase at her side. 
+
+AMY 
+
+Didn't want to wake you.
+
+VIRGIL 
+
+You're going.
+
+AMY 
+
+I'll only be a couple of days.
+
+VIRGIL 
+
+This isn't working.
+
+AMY 
+
+What - we're not working - your eyes 
+
+- what's not working?
+
+VIRGIL 
+
+I get up every morning - I look in the mirror 
+
+- and I stare at a total stranger. I stare and 
+
+I stare - and no matter how hard I look - I 
+
+don't see Virgil there anywhere. And the more 
+
+I look at you...
+
+AMY 
+
+What? You don't see me?
+
+VIRGIL 
+
+I saw you better when I was blind.
+
+AMY 
+
+Well, you're not blind any more. 
+
+I'm sorry if that disappoints you. 
+
+(beat) 
+
+I've got a plane to catch. I'm going 
+
+to go before we say things we don't mean.
+
+And she grabs her bag and is out the door. As we hold on Virgil's 
+
+face. 
+
+AT THE WINDOW - Virgil looking out - watching Amy get in the cab. 
+
+As she drives away we see Virgil watch the car recede - then his 
+
+hand goes out. 
+
+HIS POV - his hand grasping at the tiny disappearing cab - trying to 
+
+hold onto it like in Times Square - trying not to let it go. 
+
+INT. FALK BOARD ROOM - DAY 
+
+CLOSE ON - Amy's sketches. The Mall has been integrated into the two 
+
+large trees - giving it shelter and shape. 
+
+FALK (O.S.) 
+
+I love it.
+
+Amy and Duncan sit across from Falk, a man in his 40's - earned 
+
+everything he's got - no bullshit kinda guy. 
+
+FALK 
+
+But we already cut those trees down.
+
+EXT. NYU CAMPUS - DAY 
+
+Kids milling about. A young couple neck unabashedly against a wall. 
+
+We see this is Virgil's POV - he's watching - people together. 
+
+INT. NYU HALLWAY - DAY 
+
+Virgil makes his way down the hall. Stops at an open doorway - a 
+
+sign next to it with raised letters in Braille. As his hand feels 
+
+across it - he also reads the visual letters - Dr. Ray Webster. 
+
+Peering inside - he sees a Lab - full of the NEWLY BLIND - some 
+
+TEENAGERS - a couple of ADULTS - a handful of SEEING IMPAIRED - all 
+
+learning to use a cane. The rapid tapping of their cane like a room 
+
+full of typewriters. 
+
+Virgil watches - the Blind working their way around a small obstacle 
+
+course - many of them running into desks, tables - it's tough, 
+
+frustrating work. 
+
+Suddenly Virgil feels someone next to him. Webster. 
+
+WEBSTER 
+
+You want to join us.
+
+Virgil watches the blind. 
+
+VIRGIL 
+
+No - no - I'll wait for you 
+
+out here - when you're done.
+
+As Virgil moves off to a hallway bench: 
+
+WEBSTER 
+
+Virgil
+
+Virgil turns as Webster tosses his something. Virgil misses it - it 
+
+hits the ground - he reaches down - finding it, he picks it up - 
+
+it's an apple. He looks to Webster who smiles back at him. 
+
+WEBSTER 
+
+I'll be done in a minute.
+
+INT. HOTEL LOBBY - ATLANTA - DUSK 
+
+Amy and Duncan walk through the lobby to their rooms. A little combo 
+
+plays music in the adjacent bar - a few people on the tiny dance 
+
+floor. 
+
+AMY 
+
+You'd think he would have told us. 
+
+I mean those trees were in the photos.
+
+DUNCAN 
+
+We'll just have to win him over tomorrow. 
+
+Let me buy you a drink - get those 
+
+creative juices going.
+
+AMY
+
+(looks at her watch) 
+
+Aw - no - I really...
+
+But Duncan has her by the arm - and in one spin has her in a dance 
+
+embrace. This move seems comfortable, familiar to them both. 
+
+DUNCAN 
+
+C'mon - listen, they're playing our song.
+
+AMY 
+
+(laughs) 
+
+Mack the Knife was our song?
+
+INT. WEBSTER'S LAB - LATER 
+
+Webster is cleaning up after class. Virgil watching some of the 
+
+Teenage kids and Adults find their way out of the room. As the last 
+
+of them leaves. 
+
+WEBSTER 
+
+OK - I'm just about done here - I got a place
+
+for you - relax those eyes a bit.
+
+INT. STRIP CLUB - NIGHT 
+
+A table front and center. Some empty beer glasses in front of them. 
+
+Two full ones in their hands - they're both a little in their cups. 
+
+A STRIPPER grinds and weaves her way about the small dance floor to 
+
+the sounds of Talking Heads "Burning down the House". 
+
+VIRGIL 
+
+(eyeing the girl) 
+
+You want to know the truth -- God's honest truth? 
+
+Seeing's been the shits.
+
+WEBSTER 
+
+You got to be kidding me son. You can say 
+
+that - sitting here in these prime viewing seats. 
+
+Forget fixing your eyes - we're going to get 
+
+your head examined.
+
+VIRGIL 
+
+I'm serious. I was better off blind. 
+
+People don't have these expectations of you 
+
+you can't live up to. You're blind - 
+
+fine - they deal with it.
+
+WEBSTER 
+
+Didn't get what you expected did you?
+
+VIRGIL 
+
+When I was blind - I had an image of 
+
+what everything was, up here...
+
+(points to his head)
+
+now - it's all different - not at all 
+
+what I'd expected - not what I'd hoped for.
+
+WEBSTER 
+
+Virgil, let me explain something here. 
+
+When you were blind - you dealt with things 
+
+one at a time - sequentially right? A wall 
+
+led to a door to a tree to a car. That's 
+
+how you got to what you wanted - right.
+
+(beat)
+
+Seeing people - for better or worse - 
+
+deal with everything all at once - taking in 
+
+the whole picture - which sometimes confuses 
+
+the hell out of what they want.
+
+(beat)
+
+Virgil, my advice after three beers - don't be 
+
+afraid to take in the whole picture - just don't 
+
+lose sight of what you want.
+
+VIRGIL
+
+What I want is to make it work with Amy.
+
+WEBSTER 
+
+And what does she have to say
+
+VIRGIL 
+
+She just wants me to see.
+
+WEBSTER 
+
+It's that important is it?
+
+VIRGIL 
+
+You know what I learned a long 
+
+time ago. Seeing girls like seeing guys. 
+
+(beat) 
+
+I'm not going to let her down.
+
+INT. HOTEL BAR - NIGHT 102 
+
+Amy and Duncan are dancing - they seem good together. Nothing fancy 
+
+- but they move as one about the floor. 
+
+DUNCAN 
+
+See - not so bad.
+
+AMY
+
+Not so bad.
+
+DUNCAN 
+
+It's nice to dance together again. 
+
+AMY 
+
+Yeah.
+
+DUNCAN 
+
+You remember...?
+
+AMY 
+
+First time we danced - Connecticut. We 
+
+watched the leaves turn - so much to see 
+
+- I'd love to go back. 
+
+DUNCAN 
+
+So would I. 
+
+(beat) 
+
+What happened to us Amy? You're so intent on 
+
+fixing everything - why'd you give up on us?
+
+AMY 
+
+I learned some things can't be fixed. 
+
+We got married for all the wrong reasons. 
+
+I don't think I fell in love with you as 
+
+much as I fell in love with architecture.
+
+DUNCAN 
+
+(serious) 
+
+I never fell in love with architecture - 
+
+but I know I fell in love with you. 
+
+AMY 
+
+Now - that's bullshit.
+
+DUNCAN 
+
+It used to work.
+
+They smile at each other - everything's easy right now - pause - 
+
+they dance - Amy looks up at Duncan - who hesitates - then leans in 
+
+and kisses her. 
+
+A moment and Amy pulls away slightly - looks down for a second - 
+
+then she leans back in and they kiss again. We hold on this kiss, 
+
+then cut to: 
+
+INT. HOTEL ROOM - NIGHT 
+
+BLACK - we hear movement - then a light comes on in the bathroom. 
+
+Amy stands there clutching her clothes - staring into the mirror. In 
+
+the background we see Duncan curled up asleep in bed. 
+
+Amy stares at herself long and hard. 
+
+AMY 
+
+(whisper) 
+
+Oh, God.
+
+And she starts to dress: 
+
+DUNCAN 
+
+Amy? - what's going on -
+
+what time is it?
+
+Click - he flicks the bedside lamp on - squinting - finds Amy. She 
+
+doesn't talk - keeps dressing. 
+
+DUNCAN 
+
+What's wrong?
+
+AMY 
+
+What's wrong? This was' a mistake - 
+
+a big mistake. Go back to sleep - 
+
+you've got an important meeting tomorrow.
+
+DUNCAN 
+
+I've got? - hold on here - you're not 
+
+bailing out on me - I need you.
+
+AMY 
+
+(flat) 
+
+For the meeting.
+
+DUNCAN 
+
+Of course for the meeting.
+
+Dressed, she moves toward the doorway - Duncan sits up in bed. 
+
+AMY 
+
+I'm going home.
+
+DUNCAN 
+
+To be a babysitter.
+
+She stops at the door. 
+
+AMY 
+
+Can't we for once be adults - face the 
+
+fact that we've just made a colossal error? 
+
+DUNCAN 
+
+Fine - this was stupid, there - happy? - 
+
+but goddamit Amy - I still care about you. 
+
+Where do you actuallv think any of this is 
+
+going to lead with this guy?
+
+AMY 
+
+I don't know - but the one good thing to come 
+
+of this mess tonight - I know I want to find out.
+
+And she's gone - WHAM. 
+
+EXT. AMY'S LOFT - DUSK 
+
+A cab pulls up - Amy gets out - looks up at her loft - it's dark. 
+
+INT. AMY'S LOFT - DUSK 
+
+Kitchen light on - a pile of Ethan's blocks on the table. Amy makes 
+
+her way over to see it reads: 
+
+ON THE ROOF 
+
+EXT. AMY'S ROOF - DUSK 
+
+Amy opens the door and sees Virgil leaning against the parapet wall, 
+
+staring out at the night Manhattan skyline. After a moment, he walks 
+
+back to the other end of the roof, turns and slowly walk - toward 
+
+the parapet wall again - all the time staring at the skyline - with 
+
+a smile and look of amazement on his face. 
+
+AMY 
+
+Hi
+
+Virgil turns - finds her. 
+
+VIRGIL 
+
+Hey.
+
+Amy starts toward Virgil. 
+
+AMY 
+
+Whatcha doing?
+
+VIRGIL 
+
+It's the craziest thing. You start back over 
+
+there - focus on a building. And when you walk 
+
+towards it - it changes - each step makes it 
+
+look different. I started out just looking 
+
+for the horizon.
+
+AMY 
+
+You can't see it from here 
+
+- too many buildings.
+
+VIRGIL 
+
+But it's still there - even though you can't 
+
+see it - right? You gotta have faith it's there. 
+
+Things exist beyond what I can see - 
+
+I just have to take it on faith.
+
+She comes up next to him - Virgil, looking out over the wall turns 
+
+to her - studies her face: 
+
+VIRGIL 
+
+You have so many looks?
+
+AMY There's something I have to tell you. 
+
+I was getting confused - which is no 
+
+excuse for how I've acted, but...
+
+VIRGIL
+
+Wait - no - this isn't your fault - 
+
+I'm the one's been a shit. You're too 
+
+hard on yourself - expect too much of yourself.
+
+AMY 
+
+Virgil ...
+
+VIRGIL 
+
+(stopping her) 
+
+Let me say this. Every day of my life - 
+
+I've wished for just one thing.
+
+AMY 
+
+To see.
+
+VIRGIL 
+
+To be whole. For just one month. For just 
+
+one day or one minute. For one goddamned 
+
+half a second. And not just to be able to 
+
+run, or ride a bike, or drive a car. 
+
+(beat) 
+
+But for once not to have a bruise from 
+
+bumping into something or to stand in a room
+
+and have to ask "is anyone here" and here 
+
+that dead silence, knowing someone is there. 
+
+Not to have food on my sweater, or have to 
+
+put my finger in my glass to know when it's 
+
+full. I just want to be whole. 
+
+(beat) 
+
+I went to see my father the other day.
+
+Amy moves toward him. 
+
+VIRGIL 
+
+I couldn't face him. I felt like 
+
+I was letting him down. I feel 
+
+like I'm letting you down.
+
+AMY 
+
+No ...
+
+VIRGIL 
+
+No, listen. I gave up years ago - I'm not 
+
+going to give up now. Amy - that day I met 
+
+you - for the first time in my life I felt 
+
+someone needed me as much as I needed them. 
+
+I don't want you to give up on me.
+
+Amy out of breath - feels a surge of love for this man - moves in 
+
+kissing him. A long kiss - then: 
+
+VIRGIL 
+
+Besides I couldn't leave you - 
+
+I owe too much in back rent.
+
+And as Amy pulls him into embrace - we hold on her face - then: 
+
+INT. LECTURE HALL - DAY 
+
+CLOSE ON - Dr. Aaron - harsh lights washing him out. 
+
+AARON 
+
+Up until the operation five weeks ago - 
+
+Virgil had been a touch person - someone 
+
+who's vocabulary, whole sensibility, 
+
+his picture of the world was based on 
+
+tactile -- non-visual terms.
+
+INT. DOWNTOWN ATELETIC CLUB - DAY 
+
+A HEALTH INSTRUCTOR - 50's Jack LaLaine type - is giving Virgil the 
+
+tour of the facilities. They enter the weight/workout room. Various 
+
+shapes and sizes of people work out on various shapes and sizes of 
+
+workout machines. 
+
+Aaron's voice-over continues as Jack motions to Virgil to follow 
+
+him.. Virgil hesitates. 
+
+HIS POV - chrome, iron, plastic - but somehow it's more defined than 
+
+we've seen before. 
+
+Determined - Virgil starts his way into the gym - hand' out brushing 
+
+by what he sees in front of him. 
+
+AARON (CONT'D)
+
+But - now - as a sighted person - by 
+
+focusing singlemindedly on his goal, 
+
+Virgil has a new found ability to 
+
+understand his own physical relationship 
+
+to objects in his life around him...
+
+Virgil now drops his hand - starts moving through the maze of people 
+
+and equipment - actually "seeing" his way. 
+
+AARON (CONT'D)
+
+Distance, size, shape - perspective - 
+
+now all have profound meaning to him...
+
+EXT. HEALTH CLUB - DAY 
+
+Virgil negotiating a glass door - exiting the building. 
+
+AARON (CONT'D)
+
+and though there are still miles to go in his 
+
+learning process - for all medical intents 
+
+and purposes - he is becoming a seeing person.
+
+Virgil walking down the street - deftly dodging a kid on a 
+
+skateboard - throwing out his hand to hail a cab. 
+
+AARON (CONT'D)
+
+This is an extraordinary achievement and 
+
+advancement for medical science and a 
+
+tribute to Virgil's determination to see.
+
+INT. LECTURE HALL - DAY 
+
+AARON (CONT'D)
+
+Ladies and Gentlemen - Virgil Anderson.
+
+Applause and Virgil looking to Amy in the audience, stands - a 
+
+seeing man - and easily makes his way to the podium. Standing in the 
+
+lights he readjusts the microphone - moving it up from the much 
+
+shorter Aaron. 
+
+VIRGIL 
+
+(clears his throat) 
+
+Since this may be one of our last 
+
+sessions - are there any questions?
+
+VOICE IN THE DARK 
+
+Mr. Anderson - is there something you
+
+were surprised to see for the first time
+
+- something that looked quite different 
+
+than you thought?
+
+VIRGIL 
+
+Breasts. 
+
+(laughter) 
+
+No, really. Don't get me wrong - I love them 
+
+- they just weren't what I expected.
+
+VOICE 
+
+What about your girlfriend?
+
+VIRGIL 
+
+Whose did you think I was talking about?
+
+Laughs. 
+
+ANOTHER VOICE IN THE DARK 
+
+Now that you're fully seeing - 
+
+what are you looking forward to most?
+
+VIRGIL 
+
+Not having to do these sessions. 
+
+(laugh) 
+
+No - actually - being independent.
+
+VOICE 
+
+Can you read yet?
+
+VIRGIL 
+
+No, but...
+
+VOICE 
+
+Will you ever be able to?
+
+VIRGIL 
+
+I don't know.
+
+VOICE 
+
+If you can't read - will you ever be able to drive?
+
+VIRGIL 
+
+(suddenly somber) 
+
+I don't know.
+
+VOICE 
+
+Well how can you say...
+
+FAMILIAR VOICE 
+
+(interrupting) 
+
+Virgil. After so many years of darkness - 
+
+describe what it is to actually see.
+
+Angle on the Voice in the dark. Webster. 
+
+CLOSE ON - Virgil - as he thinks about the question. 
+
+INT. ROSWELL-TREMONT - AMY'S OFFICE - LATE DAY 
+
+CLOSE ON - the Atlanta project. Miniature size. And a set of plans 
+
+laid out across Amy's desk. Virgil's hand comes into frame - touches 
+
+the model - moves to the plans - touches them. 
+
+ON VIRGIL - alone in Amy's office - looking at her work. We go to 
+
+his face - his eyes - we see that he is seeing Amy's work. 
+
+AMY (O.S.)
+
+You're here.
+
+Virgil looks up - Amy at the doorway. 
+
+VIRGIL 
+
+The Atlanta project - I thought it went away.
+
+AMY 
+
+Duncan did some song and dance - Falk's coming
+
+to the lobby opening tomorrow - see our work.
+
+VIRGIL 
+
+I see it Amy.
+
+AMY 
+
+What's that?
+
+VIRGIL 
+
+Your world. What you do. The plans - 
+
+the work the ideas. The molding. 
+
+For the first time I really see what
+
+you do - and not just up here... 
+
+(he points to his head) 
+
+but in here.
+
+Virgil's hand goes out to her chest - places it on her heart. 
+
+AMY 
+
+(moves in close, sexy)
+
+Tonight is your night something 
+
+special I want to show you
+
+VIRGIL 
+
+What is it?
+
+SMASH TO: 
+
+EXT. BUILDING - LATE DAY 
+
+AMY (V.0.) 
+
+Everything.
+
+TOP OF THE WORLD TRADE CENTER 
+
+The sun starting to set - the whole of the five burroughs of New 
+
+York laid out in front of us. Virgil moves to the edge - looks out 
+
+over this amazing panorama. 
+
+Amy moves up next to Virgil - they take it in a moment. 
+
+AMY 
+
+That's the Brooklyn Bridge, Empire State 
+
+Building, Chrysler building just over there...
+
+VIRGIL 
+
+Amy, look at me.
+
+AMY 
+
+What? 
+
+VIRGIL 
+
+This face - this is everything. It's all 
+
+I've ever wanted to see. 
+
+(he watches her) 
+
+You have so many looks. 
+
+What do all those looks mean?
+
+AMY 
+
+Well. Let's see. This... 
+
+(makes corresponding face) 
+
+... is sad. This...is frustrated. 
+
+This... is tired. This.. is confused. 
+
+This.. is happy. And this... 
+
+(her face softens) 
+
+... is what in love looks like.
+
+Virgil puts his hand on her face - looks at it carefully. 
+
+VIRGIL 
+
+This look - this look I love. 
+
+Amy leans forward and kisses him - and he soon forgets it even 
+
+happened. As they kiss we pull slowly back and away as the sun goes 
+
+deep gold and we start to hear what sounds like rain: 
+
+We cut to: 
+
+INT. AMY'S LOFT - NIGHT 
+
+And they are still kissing - and we realize they are in the shower - 
+
+together - kissing - exploring - very sensual. As Virgil moves to 
+
+kiss her neck - her breasts - Amy's head tilts back in to the spray. 
+
+AMY 
+
+Virgil - it's raining.
+
+And he moves up again - looks her in the eyes - and for a moment his 
+
+eyesight shudders ever so slight1y - it goes away and they kiss 
+
+again. 
+
+EXT. AMY'S LOFT - MORNING 
+
+Amy and Virgil on the street - each hailing separate cabs. 
+
+AMY 
+
+So - eight o'clock tonight.
+
+VIRGIL 
+
+Eight o'clock - building opening - 
+
+I haven't forgotten.
+
+She blows him a kiss and she's gone. Virgil watches her cab pull 
+
+away - clear something is bothering him. 
+
+HIS POV - his vision going in and out. Then clear, then clouded 
+
+again. 
+
+INT. DOWNTOWN ATHLETIC CLUB - DAY 
+
+Virgil's massage room. Not as organized as he had at Bear Mtn.. 
+
+Virgil is working on an OVERWEIGHT MAN - his back is splotchy from 
+
+too much sun. 
+
+Virgil massaging - becomes preoccupied with his skin's imperfections 
+
+- losing his concentration. 
+
+OVERWEIGHT MAN 
+
+Hey, Virgil - I'm the one supposed 
+
+to fall asleep here. 
+
+VIRGIL 
+
+Yes - sorry.
+
+He closes his eyes - gets back into his rhythm. 
+
+INT. ATHLETIC CLUB - LATER 
+
+Virgil, pack over his shoulder leaving for the day - about to cut 
+
+through the weight room - when it suddenly comes to a halt. 
+
+His POV - his vision fading in and out - and then suddenly quick 
+
+flashes of black. On the final BLACK: 
+
+We smash to: 
+
+INT. NEW YORK HOSPITAL - DAY 
+
+Virgil at the desk. The Nurse looks up. 
+
+VIRGIL 
+
+Daphne - I need to see Dr. Aaron 
+
+- right away. It's an emergency.
+
+INT. NEW YORK HOSPITAL - EXAM ROOM - DAY 
+
+Dr. Aaron is again examining Virgil on the Electroretinogram. Done, 
+
+Aaron pulls the machine out of the way. Looks at Virgil - rubs his 
+
+hand across his face. 
+
+VIRGIL 
+
+What does that mean?
+
+AARON 
+
+What?
+
+VIRGIL 
+
+What you just did?
+
+Virgil imitates him. 
+
+AARON 
+
+It means - the machine is only registering 
+
+sparks of activity - retinal sparks - 
+
+followed by nothing. How long has this 
+
+been going on?
+
+VIRGIL 
+
+I don't know - first I thought I was 
+
+tired - some blurs - occasional cloudiness 
+
+but it's been getting worse. Today I'm 
+
+getting complete blackouts.
+
+AARON 
+
+Your retinal function is down ten 
+
+percent. I'm afraid - your retinal 
+
+disease seems to have returned.
+
+VIRGIL 
+
+You're afraid. What does that mean - I 
+
+thought you corrected it. You told me 
+
+I was a 'seeing person'.
+
+AARON 
+
+Now, you've every right to be upset. 
+
+Maybe you didn't have the blood vessels 
+
+to supply enough oxygen to the retinas. 
+
+- Possibly some trauma - there are so 
+
+many variables...(beat)
+
+to be honest, I don't know. I wish to God I did.
+
+Virgil stands, anxious - starts pacing. 
+
+VIRGIL 
+
+OK. You're the expert. Tell me - what 
+
+do we do now - how do we repair this?
+
+AARON 
+
+Virgil. I -- I wish there was a 
+
+nice way to say this.
+
+Virgil backs away - doesn't want to hear it. 
+
+VIRGIL 
+
+No - there is no nice way to say it is 
+
+there. No nice way to let the man know 
+
+it's all over - that.. he's going blind again!
+
+AARON 
+
+Virgil, I understand what...
+
+VIRGIL 
+
+No you don't! Don't ever say that. 
+
+You'll never understand. Ever!
+
+Aaron stands there - says nothing - tries to let Virgil's anger 
+
+dissipate. A long moment. 
+
+VIRGIL 
+
+How long?
+
+AARON 
+
+Hard to say. 
+
+Month - few weeks - 
+
+(beat) 
+
+Days.
+
+Virgil stands there stunned - then looking to Aaron. 
+
+VIRGIL 
+
+God, what do I tell Amy? 
+
+What do I tell her?
+
+On Virgil's face. 
+
+INT. EYE INSTITUTE HALLWAY - DAY 
+
+Virgil steps into the hall - Sees: 
+
+A FIVE YEAR OLD BOY - blind - eyes half shut - hands reaching out, 
+
+plodding it' a half circle over to where his mother waits for him. 
+
+And we see the realization on Virgil's face of seeing his past - and 
+
+what he will return to: 
+
+EXT. STREETS - DAY 
+
+Virgil RUNNING, RUNNING, best he can - through the crowded street - 
+
+hands out - bumping into people - desperate - scared - trying to run 
+
+from himself - from his fate. 
+
+WHAM - he comes to a stop - out of breath - he looks left - right - 
+
+where do you go - then sees something off screen. His face torn with 
+
+fear - he moves forward - hand out - reaching to a window - to his 
+
+own REFLECTION. 
+
+And we push slowly in on the reflection as he touches the window - 
+
+his hand on his face - a face he may never see again - and a cloud 
+
+passes overhead and his reflection is gone. 
+
+EXT. CONSTRUCTION SITE - DAY 
+
+Virgil stands at the site - amidst the rubble and mud. His Father 
+
+walks slowly over to him - raising his arms to embrace him. 
+
+Virgil takes a step back - not, ready - his father stops, 
+
+understands - looks his son up and down. 
+
+FATHER 
+
+You look good. Hey - how do I look?
+
+VIRGIL 
+
+I need some answers. Why'd you leave? Because 
+
+I'm blind - or because I quit trying to see?
+
+FATHER 
+
+To the point - I like that - 
+
+something you got from me.
+
+VIRGIL 
+
+Cut the bullshit - "dad". I don't hear from 
+
+you for over twenty years - then you find 
+
+out I can see and all of a sudden you show up?
+
+FATHER 
+
+(looks around) 
+
+Hey. Virge - can we talk about this later, huh...
+
+VIRGIL 
+
+No, not later. Now! Was my blindness so 
+
+wrong that made you tear our family apart.
+
+Virgil's riled his father. He steps towards Virgil tries to speak 
+
+under his breath. 
+
+FATHER 
+
+Every morning I woke up and looked at you 
+
+and saw my own failures. If I couldn't get 
+
+my own son to see then...What difference 
+
+does any of this make - you can see now 
+
+- hell, I knew you could.
+
+Virgil watches his father - this stranger. His eyes start to well. 
+
+VIRGIL 
+
+I'm going blind again.
+
+His Father looks at him - stunned. He reels from the news - takes a 
+
+step back. 
+
+FATHER 
+
+No...
+
+VIRGIL 
+
+The doctor told me today. You're the first 
+
+person I've told. I wanted to come see 
+
+you before it was completely gone.
+
+FATHER 
+
+(speechless) 
+
+A beat and Virgil's father takes another step back, then turns and 
+
+walks away - forever. 
+
+EXT. NEW BUILDING - LATE DAY 
+
+Virgil standing across the street. Trying to take in the building 
+
+EXT. NEW BUILDING - LATE DAY 
+
+Standing at the front as a security guard opens the door. 
+
+GUARD 
+
+Sorry the building doesn't open until tonight.
+
+VIRGIL 
+
+I know. I'm Virgil Anderson...with Roswell 
+
+Tremont. We did the lobby. I'm here to 
+
+check some details for tonight.
+
+GUARD 
+
+Oh, okay, sure Mr. Anderson.
+
+INT. LOBBY - LATE DAY 
+
+The lobby is pretty, straightforward. Open - a few plants - a large 
+
+central check in desk. Simple - unobtrusive - nothing exceptional or 
+
+unique. 
+
+Virgil moves his way about the lobby - looking at it carefully from 
+
+every possible angle - his hand grazing across walls, entranceways - 
+
+desperately committing as much as he can to memory - finally ending 
+
+up in the middle of the room in a final attempt to absorb as much as 
+
+he can. 
+
+GUARD (O.S.) 
+
+You want to see that the thing work?
+
+VIRGIL 
+
+Thing? What thing?
+
+GUARD 
+
+This thing
+
+The Guard reaches over - hits a switch - and against one section of 
+
+windows a wall of water comes dripping down - causing a shower of 
+
+indoor rain - the sound instantly echoing off of the walls. 
+
+Virgil smiles - moves toward it - closing his eyes - listening to 
+
+the indoor rain - really taking in the room having total empathy 
+
+with what Amy has created. 
+
+INT. AMY'S LOFT - BATHROOM 
+
+Virgil, wrapped in a towel, is shaving. But he has his eyes closed. 
+
+Amy comes in, dressed beautifully - using the mirror to put her 
+
+earrings in. Virgil quickly opens his eyes. 
+
+VIRGIL 
+
+You nervous?
+
+AMY 
+
+No - not a bit. 
+
+What do you think?
+
+She pivots for him. 
+
+VIRGIL 
+
+You look great.
+
+AMY 
+
+Really. Not too flashy? 
+
+(she looks in the mirror, she is nervous) 
+
+I'm going to change.
+
+Virgil lets her go - calls to her. 
+
+VIRGIL 
+
+This is an important night for you.
+
+AMY 
+
+But you know what's most important... 
+
+(she pokes her head in) 
+
+That you're going to be there to see it.
+
+Virgil turns to the mirror, stares at himself - contemplating what 
+
+he's up against. 
+
+INT. NEW BUILDING - NIGHT 
+
+The lobby is filled with business types, waiters circulating with 
+
+champagne, tiny hors-d'oeuvres. Virgil and Amy enter - standing at 
+
+the top of the stairs leading to the party. Virgil immediately going 
+
+into a performance for Amy. 
+
+AMY 
+
+So.
+
+VIRGIL 
+
+Amy, it's good - very good. 
+
+I'm proud of you. I love the detail 
+
+- planted pots in the corners, 
+
+the moldings... 
+
+(beat) 
+
+It's got genuine lines.
+
+AMY 
+
+(excited) 
+
+Look around - do you see it?
+
+VIRGIL 
+
+What?
+
+He looks about the room - then turns towards the indoor rain. 
+
+HIS POV - clear - then slight haziness - a momentary flash of black 
+
+- then back in focus. 
+
+He turns to Amy. Puts his arm around her. 
+
+VIRGIL 
+
+Our rain. 
+
+AMY 
+
+Your rain.
+
+DUNCAN 
+
+Hey Virgil.
+
+He extends his hand. Virgil, obliged slowly extends his - having 
+
+trouble focusing - but Duncan helps him - taking hold of it and 
+
+shaking it. 
+
+DUNCAN 
+
+Still working on that hand shake 
+
+you'll get it don't worry.
+
+VIRGIL 
+
+Congratulations - the place looks great.
+
+DUNCAN 
+
+Thanks - here's the genius though - 
+
+I just get the gigs. Can I steal her 
+
+away Falks' over there and I can't 
+
+tell if he's impressed with our work 
+
+or just has gas from the pate.
+
+VIRGIL 
+
+Go - do your thing.
+
+AMY 
+
+I'll be right back. There's food 
+
+and drinks down on the floor.
+
+Duncan and Amy start down the stairs as Virgil tries to find a safe 
+
+place to stand. His eyesight fading in and out - he looks around - 
+
+decides to negotiate the steps: 
+
+He takes one step on the stairs - looks down - is able to see Amy 
+
+with Falk and Duncan, looking up at him - she smiles - he does his 
+
+best - smiles back - lets go of the handrail - takes another step - 
+
+finally reaching the bottom floor. 
+
+He stands there for a long moment - lost as to where to move. A 
+
+glimpse towards the rain sculpture and he starts towards it using 
+
+the sound to help guide him. 
+
+Amy looks over - sees Virgil moving across the floor - gives him a 
+
+little wave - he doesn't notice her. 
+
+At the rain Virgil stands taking in the sound. A FIGURE comes up 
+
+next to him. 
+
+VIRGIL 
+
+Quite a party. Love the detail of the building.
+
+WEBSTER 
+
+Sometimes the detail doesn't matter.
+
+Virgil stops - turns to Webster. 
+
+VIRGIL 
+
+Ray. What are you doing here?
+
+WEBSTER 
+
+Aaron called me. He was worried. 
+
+I've been trying to find you - 
+
+Amy's office told me you were 
+
+here. It's bad?
+
+VIRGIL 
+
+It's almost gone. Last few days 
+
+have been pretty bad.
+
+WEBSTER 
+
+Obviously Amy doesn't know.
+
+VIRGIL 
+
+It's going to break her heart. 
+
+This is her big night - I didn't 
+
+want to ruin it. Thought I could 
+
+pull it off.
+
+WEBSTER 
+
+(beat) 
+
+You can't avoid this forever.
+
+Virgil turns back towards the rain. 
+
+VIRGIL 
+
+I know 
+
+(beat) 
+
+So Ray? Is it better to have seen and 
+
+lost than never to have seen at all?
+
+WEBSTER 
+
+I thought it was loved and lost.
+
+Amy comes up to them. 
+
+AMY 
+
+Dr. Webster - this is a surprise.
+
+WEBSTER 
+
+Virgil invited me - wanted to show 
+
+you off I think. The place is terrific 
+
+- he's got every right to be proud.
+
+AMY 
+
+Thank-you. I need Virgil for a 
+
+moment - schmoozing time.
+
+WEBSTER 
+
+Shmooze away.
+
+VIRGIL 
+
+(as he's led away) 
+
+Thanks Ray. I'll call you.
+
+ANGLE ON - Duncan standing anxiously with Falk and his wife Donna as 
+
+they arrive. 
+
+AMY 
+
+Virgil - I'd like you to meet Jack 
+
+Falk and his wife Donna up from Atlanta.
+
+VIRGIL 
+
+Pleased to meet you.
+
+DONNA 
+
+Amy tells us you were blind.
+
+Amy spurts out a glass of wine. Virgil deflects the comment. 
+
+VIRGIL 
+
+That's OK - nice to see someone so honest.
+
+FALK 
+
+Amy tells us you're her inspiration. 
+
+Any help you can give us with our project?
+
+VIRGIL 
+
+I'm a little biased but I kind of 
+
+liked Amy's original design.
+
+FALK 
+
+But could we do better.
+
+Amy jumps in with. 
+
+AMY 
+
+We could do better, Mr. Falk - a lot better.
+
+FALK 
+
+Good, I like that attitude. 
+
+Let's keep trying for perfection.
+
+Everyone smiles - Amy wraps her arm around Virgil. 
+
+AMY 
+
+That's right - that's 
+
+why I've got Virgil.
+
+Pleasant laughter all around - and as Amy and the others continue - 
+
+we push in on Virgil as he takes in this thought. 
+
+EXT. NEW BUILDING - NIGHT 
+
+Virgil and Amy out front. People leaving - Duncan getting into a 
+
+town car with Falk and his wife - he looks back - gives the thumbs 
+
+up and climbs in after them. The car pulls away into the night. 
+
+VIRGIL 
+
+You wanna walk - I feel like some air.
+
+AMY 
+
+See what we see? Sure.
+
+VIRGIL 
+
+Can I take your arm - eyes a little tired.
+
+As they walk. 
+
+VIRGIL 
+
+You really made the place 
+
+come alive with that fountain.
+
+AMY 
+
+Thank-you. 
+
+(beat) 
+
+You know I've been thinking - you're doing 
+
+so great now - and if we get this new 
+
+design job we'd have some extra money
+
+- I think we should go on a big seeing
+
+celebration.
+
+VIRGIL 
+
+(taken aback) 
+
+A seeing celebration?
+
+AMY 
+
+Yeah, maybe in a couple of months. 
+
+I looked into Egypt - we could see 
+
+the pyramids - we could see it 
+
+together for the first time. 
+
+What do you say?
+
+VIRGIL 
+
+You know - there is something 
+
+I'd like to see.
+
+AMY 
+
+Of course, anything.
+
+VIRGIL 
+
+The Rangers play tomorrow. Season'll 
+
+be over before we know it - could be
+
+our last chance.
+
+AMY 
+
+The Rangers. Sure, why not?
+
+BLACK 
+
+Then a tiny pinpoint of light ahead - one that grows increasingly 
+
+larger as we move towards a SOUND. A hum that grows in intensity 
+
+until the light fills the frame and BAM - we exit the tunnel and we 
+
+are: 
+
+INT. MADISON SQUARE GARDEN - NIGHT 
+
+That glorious first view - people - the white ice shining below like 
+
+a giant jewel- and the players - in bright colors scurrying about 
+
+the playing surface below. 
+
+AMY 
+
+This is amazing - isn't it?
+
+She looks to Virgil who is awed by what he is seeing. Then suddenly 
+
+on his face - a flash - one of those moments of darkness. 
+
+AMY 
+
+Should we find our seats. Looks 
+
+like the game's already started.
+
+VIRGIL 
+
+Yeah - I - I'll follow you.
+
+INT. GARDEN - SEATS - LATER 
+
+Virgil and Amy in the loge seats - on the aisle - up behind the 
+
+goal. Amy looking at the stadium while Virgil next to her, watches 
+
+the game best he can. 
+
+AMY 
+
+I love the stadium the 
+
+way it's structure...
+
+VIRGIL 
+
+Amy - the game...
+
+AMY 
+
+Right - the game.
+
+SMASH - a hard check into the boards deep in the Rangers end of the 
+
+ice. The puck squirts out Gretzky picks it up - fires it across ice 
+
+- one, two it's back to him and he has a wide open break from center 
+
+ice - the crowd is out of their seats - Virgil included - Amy 
+
+quickly getting caught up in the enthusiasm. 
+
+On Virgil's face - watching Gretzky skate towards him - excited - 
+
+then losing him - another flash of blackness - like a blow to the 
+
+head - and we hear the crowd suddenly explode - and as Virgil's 
+
+vision regains we see the players mobbing Wayne after his goal - the 
+
+little red light behind the net the only evidence of it happening. 
+
+We see the frustration as Virgil realizes he'll never see it. 
+
+AMY 
+
+He scored, he scored - you see 
+
+that - it was amazing.
+
+As the players make their way to center ice - the crowd sits and Amy 
+
+sees the expression again on his face. 
+
+AMY 
+
+What? That was good right?
+
+VIRGIL 
+
+Yeah - it was great - I was just...
+
+Suddenly Virgil becomes transfixed. Walking down the aisle, away 
+
+from him: 
+
+A VENDOR - carrying a tray of PINK COTTON CANDY. 
+
+Virgil stares at it a moment - transfixed - then like in a trance - 
+
+he stands - stepping out into the aisle - a man on a mission. 
+
+AMY 
+
+Virgil, where are you going?
+
+And he's on the stairs - carefully moving down the stairs toward the 
+
+vendor. 
+
+Then she sees the Vendor - handing Virgil a large cotton candy - 
+
+round and puffy like a cloud - but something he can hold in his 
+
+hand. Amy can't believe it - watching Virgil - his fascination at 
+
+finding this long lost memory. 
+
+AMY 
+
+The puffy thing.
+
+Angle on Virgil turning - admiring his prize - then looking up, 
+
+trying to find Amy - who waves to him excited. 
+
+HIS POV - scanning the crowd - it's hazy - then flashes of dark. 
+
+Amy's face - suddenly drops - it's clear, even though she is only 
+
+four rows up - he doesn't see her. 
+
+INT. MADISON SQUARE GARDEN - NIGHT 
+
+Game is over - Virgil is packing up his stuff - Amy staring. at him. 
+
+AMY 
+
+Virgil, what's happening?
+
+VIRGIL 
+
+Just having a bad eye day. 
+
+A lot to take in.
+
+AMY 
+
+Tell me. What's going on?
+
+VIRGIL 
+
+Nothing. I see almost nothing.
+
+Amy: she feels like she's about to explode. 
+
+AMY 
+
+Oh God.
+
+VIRGIL 
+
+It's OK.
+
+AMY 
+
+OK?!!
+
+VIRGIL 
+
+It's OK for you to cry.
+
+AMY 
+
+(recovering) 
+
+No, no - I'm not going to cry. 
+
+Solve the problem. We made it 
+
+through one operation - we'll 
+
+make it through another. We won't
+
+give up. We'll get this right 
+
+- we just need to...
+
+VIRGIL 
+
+I saw Dr. Aaron. 
+
+There's nothing they can do.
+
+AMY 
+
+Then we'll find another Doctor. 
+
+There's got to be someone else. 
+
+We'll find something that works.
+
+VIRGIL 
+
+Don't you get it - 
+
+I can't go through this again.
+
+AMY 
+
+So just like that - we just forget it - 
+
+give up? Why the hell haven't you told
+
+me what was going on?
+
+VIRGIL 
+
+(whirls on her) 
+
+Because of this!!
+
+AMY 
+
+What this?
+
+VIRGIL 
+
+You! Not letting it go - thinking 
+
+there's a solution. Goddamit, 
+
+I'm not design flaw in your fucking 
+
+work that you can just change to 
+
+make work Or throw away because 
+
+it doesn't meet your expectations. 
+
+(beat) 
+
+Let's face it - it's over!!
+
+AMY 
+
+Virgil, give it time, you'll see.
+
+VIRGIL 
+
+No! I won't! This conversation is ended!!
+
+INT. AMY'S APARTNENT - NIGHT 
+
+The door swings open - Amy and Virgil enter - Virgil moves towards 
+
+the bed - pulls out his duffel bag. 
+
+AMY 
+
+What are you doing?
+
+VIRGIL 
+
+I'm leaving.
+
+AMY 
+
+What do you mean leaving - you're 
+
+leaving this apartment - you're 
+
+leaving New York - you're leaving me?
+
+Virgil turns - they stand across the room from each other - miles 
+
+apart. 
+
+VIRGIL 
+
+I'm going home.
+
+Amy walks toward him, picking a battle, rejection. 
+
+AMY 
+
+So you're big sister can take care of you - 
+
+feed you TV dinners for of your life.
+
+Virgil tries to side step her. 
+
+VIRGIL 
+
+I'm not going to go through this bullshit again.
+
+Amy moves in front - confronting him 
+
+AMY 
+
+Is that what this has all
+
+been to you - bullshit?
+
+VIRGIL 
+
+Yes!! Who the hell were we fooling? 
+
+I'm blind - I'm not meant to see 
+
+- I don't belong here.
+
+AMY 
+
+God damn right you're blind. You want to 
+
+live in your own little world - this perfect 
+
+world that your sister built for you 
+
+- where no one can touch you ... where no 
+
+one can reach you.
+
+VIRGIL 
+
+Do you know the reason why I remembered the 
+
+cotton candy all those years? Because I went 
+
+to the game with my father. And it's the 
+
+only good thing I can remember about him. 
+
+The rest is him pushing me to be something
+
+I'm not - then turning his back on me the 
+
+minute his plans fail.
+
+AMY 
+
+I am not turning my back on you. 
+
+You want me to give up on you 
+
+- you love the self pity.
+
+VIRGIL 
+
+I don't want you to give up on ME. 
+
+But you won't give up on me seeing.
+
+AMY 
+
+Because there must be other options.
+
+VIRGIL 
+
+Not anymore.
+
+Virgil, avoiding her, sidesteps quickly past her - straight into the 
+
+lamp, which crashes to the ground and breaks. 
+
+DARKNESS. 
+
+VIRGIL 
+
+Dammit.
+
+A short few steps then a much larger crash - the sound of a large 
+
+heavier thing breaking. 
+
+AMY 
+
+Virgil!!
+
+Amy feels her way to the lights - and turns them on. We see that 
+
+Virgil has collided with Amy's sculpture of the woman. He sits among 
+
+the pieces on the floor. 
+
+Virgil - feeling the damage. 
+
+AMY 
+
+(going to him) 
+
+Is anything broken?
+
+VIRGIL 
+
+No - no bones are broken.
+
+Virgil uses the wall to stand - then - with his hands out in front 
+
+of him he finds his way to the bed. 
+
+VIRGIL 
+
+It's finished - can't you see that! 
+
+We both didn't get what we wanted.
+
+AMY 
+
+(quietly) 
+
+I never meant to hurt you.
+
+VIRGIL 
+
+When you asked me to come here - 
+
+did you ever think this wasn't going 
+
+to work - that for one minute I may 
+
+not be able to see. 
+
+(beat) 
+
+Did you ever think it would be OK 
+
+to have a relationship with a blind man?
+
+Amy - a pause.. Too long. 
+
+VIRGIL 
+
+There's my answer.
+
+And he grabs his duffel and pack - throws the last few things in - 
+
+and moving to the door - leaves. 
+
+INT. BUS - NIGHT - RAINING 
+
+Virgil riding - crossing the George Washington Bridge - going home. 
+
+He looks out the window - sees the receding city - and he closes his 
+
+eyes - listens to the rain. 
+
+EXT. PINECREST - MAIN STREET - NIGHT 
+
+The Bus comes down the main street of Pinecrest. Stopping - the bus 
+
+door opens and Virgil gets out - and turns to face up the street - 
+
+the street he knew so well that is so foreign to him right now. 
+
+EXT. VIRGIL AND JENNIE'S - NIGHT 
+
+The door opens. Jennie smiles warmly, reaches out to him. 
+
+JENNIE 
+
+Welcome home.
+
+INT. HOME - NIGHT 
+
+Virgil and Jennie entering his place - to be greeted immediately by: 
+
+SOPHIE bounding across the floor towards them - tail wagging - 
+
+tongue hanging out. 
+
+VIRGIL 
+
+Sophie!?
+
+And he bends down to hug her. Sophie laps at his face. Virgil holds 
+
+her back to get a good look at her. 
+
+VIRGIL 
+
+Let me look at you. 
+
+You're so beautiful.. yes.
+
+Jennie watches her brother - happy to have him home. Hoping to get 
+
+him back to 'normal'. 
+
+INT. VIRGIL'S HOME - LATER 
+
+Virgil walks around, touching things, seeing the simplicity of his 
+
+life. Nothing on the walls - no decorations - no plants. Everything 
+
+functional. He realizes this is a home designed by his sister. 
+
+He moves over to the photo of the family. He on his dad's shoulders. 
+
+Stares at it - at his father and mother for the first time. 
+
+JENNIE 
+
+Mom and dad. 
+
+Virgil just stares. 
+
+JENNIE 
+
+Everything's as you left it. 
+
+Nothing's changed.
+
+VIRGIL 
+
+Jen - I'm pretty tired - 
+
+I'd like to be alone.
+
+The PHONE rings. Rings again. Virgil doesn't move - his apprehension 
+
+is clear - he knows who it is. Jennie sees this and moves toward the 
+
+phone. 
+
+Virgil turns and walks out onto the front porch - followed by 
+
+Sophie, as his sister picks up the phone in the background. 
+
+EXT. VIRGIL'S PORCH - NIGHT 
+
+He sits down - looks into the night as we hear Jennie faintly on the 
+
+phone. A beat and she hangs up. We hold on Virgil: 
+
+EXT. PINECREST STREET - DAY 
+
+Virgil walks down Main street. Seeing his town - a town he grew up 
+
+in but now seems so foreign. Virgil seems oddly disturbed by what he 
+
+sees. 
+
+The yellow bus drives by - full of kids - Carl at the helm. Somehow 
+
+it's not what he expected. 
+
+INT. ROSWELL-TRRMONT DESIGN FIRM - DAY 
+
+Amy organizing all her work on the Atlanta project - - the original 
+
+designs - the new design with the trees - then she sees: 
+
+The sketch she made of the "dancing trees". Her eyes hold - and she 
+
+slowly shuts them - and with them tightly closed - her hand reaches 
+
+out and runs along the drawings. 
+
+EXT. PINECREST - END OF MAIN STREET - DAY 
+
+We find Virgil standing - looking out at the end of the street where 
+
+he stood with Amy. In front of him he sees: 
+
+The "dancing trees". 
+
+VIRGIL'S POV - a retinal spark - a quick glimpse of the intertwined 
+
+trees - one lover choosing between two others. 
+
+INT. FIREHOUSE - LATE DAY 
+
+Virgil - stands in the middle of the room. Looks about at what was 
+
+at one time so special to him. Now it just seems old and dingy - the 
+
+magic is gone. 
+
+He closes his eyes for a moment - listens - cocks his head to the 
+
+left - the right - but there is nothing there. 
+
+EXT. TOWN LIBRARY - LATE DAY 
+
+Virgil standing outside - staring at a building he's never seen - 
+
+never been inside. 
+
+HIS POV: flickering a moment. 
+
+INT. LIBRARY - SUNSET 
+
+Virgil now sits at a table. Stacks and stacks of LIFE magazine 
+
+splayed out in front of him. He is flipping through them at a rapid 
+
+rate - like a drowning man searching for air. 
+
+IMAGES - cars, JFK, the pyramids, Martin Luther King, houses, 
+
+flowers, Marilyn Monroe, that Napalm burned little girl in Viet Nam, 
+
+African masks, Dachau prisoners, Nixon, Warhol paintings, the Mona 
+
+Lisa, that vulture watching over the little baby, the Eiffel tower, 
+
+First Man on the moon, the Venus De Milo, that guy in front of the 
+
+tank in Tianaman square .. and the Pyramids. 
+
+The pictures go by fast and furious - Virgil soaking them up like a 
+
+sponge - life, beauty, horror, great people, great events... 
+
+And we move in on his face - absorbing these images for the last 
+
+time - a face filled with anguish at a world disappearing. And we 
+
+cut to: 
+
+EXT. AMY'S ROOF - SUNSET 
+
+Golden rays of the late afternoon sun. Amy on the roof - leaning on 
+
+the parapet - watching the horizon. 
+
+Then a thought comes to her. And mimicking what Virgil had done - 
+
+she walks back to the other end of the roof, turns and looks out 
+
+towards the skyline again ... then starts slowly walking towards the 
+
+parapet till she reaches the wall again. 
+
+The reaction on her face - she doesn't "see" it - not like Virgil 
+
+did. 
+
+INT. VIRGIL'S HOME - DAY 
+
+Virgil is shifting furniture in his house. A table - moves it to the 
+
+window - moves a chair to join it - stands back to have a look at 
+
+it. 
+
+HIS POV - a moment of clear - then haze - then dark - then haze. 
+
+Virgil rubs his head - these last days of sight have been painful 
+
+and exhausting for him. 
+
+JENNIE (O.S.) 
+
+Hello! 
+
+She's at the door. Virgil cocks his head in her direction. 
+
+JENNIE 
+
+I picked up some things at the store - 
+
+T-shirts, I'm sure you're out, some socks...
+
+VIRGIL 
+
+Jennie, what's at the 
+
+end of Main Street?
+
+JENNIE 
+
+Well - I think it's Vivian's little stationery...
+
+VIRGIL 
+
+Beyond all the stores - past firehouse. 
+
+What happens when this is no more Main Street?
+
+JENNIE 
+
+Well - there's nothing really - you know that. ~ 
+
+VIRGIL 
+
+No! You told me that's all there was. 
+
+That's wrong. There's a helluva lot out there.
+
+Jennie surprised at where this is going. 
+
+JENNIE 
+
+I told you what you needed to know.
+
+VIRGIL 
+
+What was within my reach.
+
+JENNIE 
+
+What more do vou want?
+
+VIRGIL 
+
+Isn't there anything more that vou want?
+
+JENNIE 
+
+Is this about our father -
+
+he called told me...
+
+VIRGIL 
+
+No. This isn't about him. Jennie - 
+
+you've spent your whole life as 
+
+blind as I was. The world doesn't 
+
+stop within our reach.
+
+JENNIE 
+
+Virgil, please. This is your home. 
+
+Stop thinking about what's out there 
+
+- things that will never matter to you. 
+
+You're safe here where everyone...
+
+VIRGIL 
+
+Where everyone what!?
+
+JENNIE 
+
+Knows you.
+
+VIRGIL 
+
+Can protect me?! (beat) 
+
+Jennie, this place was a wonderful safe 
+
+haven for me growing up. I know that. 
+
+(looking around) 
+
+And I can only imagine what you gave up 
+
+to keep this world for me. I thank you 
+
+and love you from the bottom of my soul. 
+
+But now I want to give you your life back.
+
+JENNIE 
+
+Virgil, I - I can't...
+
+VIRGIL 
+
+You can
+
+Virgil reaches out his arms for her to join him. 
+
+VIRGIL 
+
+I'm reaching out, Jennie.
+
+This gets Jennie and she goes to him, really hugging him for the 
+
+first time as tears flow from her eyes. 
+
+INT. AMY'S LOFT - LATE DAY 
+
+Amy, dressed in sweat pants and tee shirt sitting on the ground, 
+
+trying to piece the sculpture back together. It's a difficult fix. 
+
+KNOCK KNOCK 
+
+DUNCAN 
+
+Amy - you in there.
+
+AMY 
+
+Go away.
+
+She scrapes some plaster into a dust pan. We hear enters a key in 
+
+the door - and the door opens. Duncan 
+
+DUNCAN 
+
+I knew keeping this key would come in 
+
+handy one day. What a mess - what happened?
+
+AMY 
+
+It broke - I'm trying to fix it.
+
+DUNCAN 
+
+So - guess what?
+
+AMY 
+
+I'm not in the mood for games.
+
+DUNCAN 
+
+We got it. The goddamned Atlanta mall - 
+
+we got it!! Now - pull yourself out of this 
+
+slump - I want you to fly down this week to...
+
+Continuing to work on the sculpture. 
+
+AMY 
+
+I'm not going.
+
+DUNCAN 
+
+What are you ta1king about? 
+
+What's the problem here?
+
+AMY 
+
+The problem?! Everything. 
+
+Nothing is right thank-you very much.
+
+DUNCAN 
+
+You know what the problem is - you're 
+
+the problem - you met a blind guy you 
+
+thought was cool and spent the first 
+
+two months trying to change him.
+
+AMY 
+
+Are you finished?
+
+DUNCAN 
+
+Not even close. Let me tell you something 
+
+- you can't change people to solve you. 
+
+You tried to do it with me - you tried 
+
+to do it with Virgil. You ever think 
+
+some of the things you try to fix 
+
+- ain't broke.
+
+And he's gone - as Amy slumps into a chair - confused, tired - then 
+
+slowly she starts to hear: 
+
+TAP - TAP - TAP...TAPTAP - TAP 
+
+The SOUND of a CANE in the stairwell! Amy's heart starts racing - 
+
+she takes a breath - jumps up quickly and moves her way over to the 
+
+door - unlocking it and swinging it open: 
+
+AMY 
+
+(excitedly) 
+
+Virg .......
+
+The CANE - being held by Ethan - as he taps his way down the stairs. 
+
+ETHAN 
+
+Hey Amy.
+
+AMY 
+
+Hi, Ethan. Sorry - I thought...
+
+ETHAN 
+
+He's not coming back is he?
+
+AMY 
+
+No - he's not.
+
+Ethan sees she's covered in dust - looks past her into the loft. 
+
+ETHAN 
+
+Whatcha doin'?
+
+He looks past her at the sculpture half repaired. 
+
+AMY 
+
+Cleaning up a mess - going to start over.
+
+EXT. PINECREST - SUNSET 
+
+Virgil walks the path, Sophie following close behind. By the way he 
+
+walks, counting steps, touching landmarks, we realize he is using 
+
+sight very little. 
+
+EXT. HIDDEN VALLEY - SUNSET 
+
+Coming through the clearing, to the plateau where he took Amy, the 
+
+leaves now starting to turn golden colors - he stops - stands over 
+
+top of the pond. 
+
+VIRGIL'S POV - A retinal spark. The view across the valley, with 
+
+white clouds against the bluest sky. 
+
+His hand reaches out - to touch the edge of the world - to touch the 
+
+horizon. 
+
+And as he drops his hand, we see the clouds start to race by - while 
+
+the blue sky goes golden then drifts into darkness. Virgil doesn't 
+
+move from the spot. The screen goes almost black - then slowly the 
+
+sun starts to rise in the east. 
+
+Virgil makes no movement. A long beat - then - as the sun moves 
+
+across him - he realizes it's day. He stands and unfolds his cane. 
+
+It's clear he has returned to being completely blind. 
+
+As he turns and starts his way down the hill we hear: 
+
+VIRGIL (V.O.)
+
+Growing up blind - I had two dreams. 
+
+One was to see. The other - to play 
+
+for the New York Rangers.
+
+INT. LECTURE HALL - N.Y. EYE INSTITUTE - DAY 
+
+Virgil stands at the podium speaking - dark glasses on, cane in 
+
+hand. 
+
+VIRGIL 
+
+After the 'miracle' of my short period of 
+
+sight - I realize - I'd rather play for the Rangers. 
+
+(laughs from the dark) 
+
+It's not that it was so awful - I saw many 
+
+things - some good, some back some that 
+
+I'm already forgetting.
+
+INT. WEBSTER'S LAB - NYU 
+
+VIRGIL (V.O.)
+
+But I realized that our eyes aren't what 
+
+make us see. We only live in darkness 
+
+when we don't look - look at what is 
+
+genuine about ourselves - genuine 
+
+about others - you don't need eyes for that.
+
+Virgil sitting with three young blind children - working through 
+
+Braille with them. Webster watches from the corner of the room. 
+
+EXT. NYU - DAY 
+
+Virgil - small brown bag in one hand - cane in the other - exits the 
+
+building and makes his way across the street to Washington Square. 
+
+EXT. WASHINGTON SQUARE - DAY 
+
+Virgil - taking in the sun - finishing off the last of his sandwich. 
+
+Balling up his paper bag - he taps his cane out - finds the garbage 
+
+can nearby - and tosses the bag - rim shot - it misses, hits the 
+
+ground. A hand reaches into frame and puts the bag in the garbage. 
+
+Virgil looks up - senses the presence. 
+
+VIRGIL 
+
+Did I miss?
+
+VOICE (O.S.) 
+
+By a mile.
+
+VIRGIL 
+
+Amy?
+
+ANGLE ON Amy: watching Virgil - realizing his sight is gone. 
+
+AMY 
+
+Ray told me you were living in town 
+
+- said I could find you here. 
+
+(beat) 
+
+I rushed, didn't I? Fourteen steps 
+
+to the tree and I made us smash 
+
+right into it.
+
+VIRGIL 
+
+We tried.
+
+Amy sits next to him. 
+
+AMY 
+
+I finished the sculpture. 
+
+I'd love you to see it.
+
+VIRGIL 
+
+Figure of speech.
+
+AMY 
+
+Figure of speech. Virgil - when I 
+
+first met you - you saw more than 
+
+any sighted person I've ever known. 
+
+I didn't mean to take that away from you.
+
+VIRGIL 
+
+Amy. I saw ... I actually saw 
+
+the horizon. You did that for me. 
+
+It's out there. You showed me you 
+
+just have to reach for it..
+
+Amy smiles - her hand goes out - hesitates - then lands lightly on 
+
+his. 
+
+AMY 
+
+You want to walk?
+
+VIRGIL 
+
+See what we see?
+
+AMY 
+
+Yeah. Just see what we see.
+
+Virgil smiles, nods. As he stands - he takes her arm - and as they 
+
+walk off into the park, we slowly FADE to BLACK and just LISTEN, 
+
+listen to the SOUNDS of the day - the percussion of the city. 
+
+THE END
+

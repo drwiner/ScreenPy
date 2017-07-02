@@ -1,0 +1,9412 @@
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Top Gun - by Chip Proser
+
+	                        TOP GUN
+
+	                          by
+
+	                      Chip Proser
+
+	REVISED
+
+	April 4, 1985
+
+	Registered, WGAw.
+
+		     NOTE: Aerial dialogue in CAPS is UHF radio; 
+
+		      plane to plane, plane to carrier.
+
+		      Aerial dialogue in small case is ICS;
+
+		      an inter-cockpit system; a live mike,
+
+		      heard by pilot and RIO only. 
+
+	                             TG1   REVISED  04APR85    .
+
+	1.  EXT. NIGHT. - THE PACIFIC IS ANYTHING BUT
+
+	WINDS HOWL. Rain drives horizontal. The sea surges up, 
+
+	nearly to the flight deck of the Aircraft Carrier USS Kitty 
+
+	Hawk. The carrier plunges, driving its bow into a wall of 
+
+	grey water. The deck pitches forward and back, rolls left to 
+
+	right, and yaws in a corkscrew motion. The entire 93,000 ton 
+
+	behemoth rises and falls in the TYPHOON-DRIVEN SWELL. 
+
+	2.  SOMETHING DROPS DOWN OUT OF THE NIGHT
+
+	A ROAR. Silver wings flash by, a cockpit, fiery jet 
+
+	exhausts. A forty ton monster drops at 120 knots into an area 
+
+	the size of a tennis court in a CONTROLLED CRASH. 
+
+	2A.  A SHOWER OF SPARKS, A SCREECH OF RUBBER AND METAL as 
+
+	the gear hits the deck. The hook catches the 3 wire and the 
+
+	F-14 TOMCAT is slammed to a halt. It's the scariest thing 
+
+	you've ever seen, the most dangerous maneuver in aviation and 
+
+	just another day at the office for a Naval Aviator.
+
+	TITLES OVER 
+
+	HARD DRIVING ROCK AND ROLL - THE CARS - RIDE ME HIGH
+
+	3.  FLIGHT DECK - THE LANDING SIGNAL OFFICER - (LSO)
+
+	Leans almost horizontal into the winds. He holds the pickle, 
+
+	controlling the landing lights and speaks into a mike. His 
+
+	calm, professional commands belie the extreme conditions.
+
+			LSO
+
+	POWER, POWER...DON'T CLIMB...
+
+	OKAY, HOLD WHAT YOU GOT.
+
+	4.  ANOTHER TOMCAT FLIES OVER THE RAMP
+
+	It slams in. The pilot hits full power, catches the wire, slams 
+
+	to a stop, cuts his engines.
+
+	5.  OMITTED
+
+	6.  AIR OPS - BELOW DECK 
+
+	Lots of scopes and electronic gear. The CARRIER CONTROL APPROACH 
+
+	OFFICER (CCA) watches a blip on radar, reaches for his mike key.
+
+	7.  EXT. THE TWILIGHT'S LAST GLEAMING - (AERIAL)
+
+	We float like gods, above the storm, above the cloud cover, 
+
+	looking down. From overhead, a probe slides into frame, then 
+
+	a graceful nose. The cockpit sides by, Pilot, then Radar 
+
+	Intercept Officer (RIO) barely illuminated by the orange glow 
+
+	of their instruments. The fuselage gracefully swells to two 
+
+	enormous air intakes, then variable angle wings, swept back 
+
+	for high speed flight. Twin tailbooms cant outward, 
+
+	horizontal stabilizers make constant adjustments. Enormous 
+
+	twin jet exhaust ports glow red in the moonlight.
+
+	8.  INT. COCKPIT - (AERIAL)
+
+	We become aware of WIND WHISTLE, JET ENGINE SOUNDS, RADIO 
+
+	STATIC. The pilot, COUGAR, is calm, steady. The Radar 
+
+	Intercept Officer in the backseat, GOOSE, is a wildman, 
+
+	always an edge of humor in his voice. A UHF transmission 
+
+	breaks in..
+
+			STRIKE (V.O. filtered)
+
+	GHOST RIDER, THIS IS STRIKE... WE 
+
+	HAVE UNKNOWN CONTACT INBOUND, 
+
+	MUSTANG. YOUR VECTOR ZERO NINE ZERO 
+
+	FOR BOGEY.
+
+	Almost immediately the RIO picks up a target and responds.
+
+			GOOSE
+
+	CONTACT 20 LEFT AT 25, 900 KNOTS 
+
+	CLOSURE.
+
+	8A.  ANGLE - SECOND F-14 - 115 - COUGAR'S WINGMAN 
+
+	Come in on the cockpit with stenciled name and call signs: LT. 
+
+	EVAN MITCHELL is the pilot, MAVERICK. In flight suit and oxygen 
+
+	mask, we can only see his eyes. they are confident. In his 
+
+	mid-twenties, he is lean, hard, athletic...the archetype fighter 
+
+	pilot. His rear-seater is LTJG. WALTER MERLIN; WIZARD.
+
+			MAVERICK
+
+	I'LL I.D. HIM, YOU HOOK 'EM.
+
+	Maverick peels off to right, to high cover position; 5 o'clock.
+
+	9.  INT. GHOST RIDER 117 - COUGAR'S POV
+
+	HEADS UP DISPLAY (HUD) glows dimly on the windscreen. Directly 
+
+	in front of the stick, two CRT screens display data. The bottom 
+
+	screen shows a radar sweep. Wedged between the instruments is a 
+
+	snapshot of a pretty young woman with a 2 month-old baby.
+
+			GOOSE
+
+	Closing fast. MUSTANG, THIS IS 
+
+	GHOST RIDER ONE ONE SEVEN. CONTACT 
+
+	ONE BOGEY, 090 AT 15 MILES, 900 
+
+	KNOTS OF CLOSURE.
+
+			COUGAR
+
+	Look for the trailer.
+
+			GOOSE
+
+	I don't see anything.  MAVERICK, 
+
+	YOU HAVE A TRAILER?
+
+	10.  MAVERICK'S F-14 
+
+	Flying in combat spread, 1 mile abeam, higher. 
+
+			GOOSE
+
+	NEGATIVE, COUGAR. LOOKS LIKE HE'S 
+
+	SINGLE.
+
+	11.  INT. 117 - COUGAR'S COCKPIT
+
+			COUGAR
+
+	HANG BACK AND WATCH FOR HIM. HERE 
+
+	COMES...MIG ONE.
+
+	12.  EXT. SKY 
+
+	Closing at 900 knots, The MiG is a speck, then a flash and a 
+
+	ROAR, a knife-edge pass at 300 feet. It rockets past his left 
+
+	wing tip and disappears. Cougar kicks rudder, whips the stick, 
+
+	screams into a tight turning roll and dives after him. He slams 
+
+	the throttle forward to ZONE 5 AFTERBURNER.  
+
+	13.  EXT. - MAVERICK'S F-14
+
+	Maverick sees a SECOND MiG drop from above onto Cougar's tail.
+
+			MAVERICK
+
+	BOGEY ON YOUR SIX. I'M ON HIS.
+
+	Maverick swings after him, lights it. 
+
+	13A.  ALL FOUR JETS SCREAM DOWN IN A POWER DIVE. 
+
+	They punch through cloud cover into the soup.
+
+	14.  EXT. COUGAR'S F-14 
+
+	He is closing on the first MiG when a shocking BLIPBLIPBLIPBLIP 
+
+	tone breaks into their headsets.
+
+			GOOSE
+
+	I've got a six strobe.  I think 
+
+	he's locked on us.
+
+			COUGAR
+
+	It's a MiG 21. They don't have 
+
+	radar missiles!
+
+			GOOSE
+
+	Let's hope you're right!
+
+			COUGAR
+
+	What is he doing?
+
+			GOOSE
+
+	He's pissing me off!
+
+	Cougar swings mad gyrations, cutting back and forth across the 
+
+	front MiG's tailpipe, trying to break the lock-on. The TONE grows 
+
+	more insistant.
+
+			COUGAR
+
+	Can't shake him.
+
+			MAVERICK (V.O.) 
+
+	WHAT'S MIG ONE DOING?
+
+			COUGAR
+
+	Maintaining course. Straight for 
+
+	Mustang.
+
+			GOOSE
+
+	Stay with him.
+
+	The tone grows steady, BLIPBLIPBLIPBLIP.
+
+			GOOSE
+
+	   (alarmed)
+
+	That's missile lock! 
+
+			COUGAR
+
+	He better be kidding!
+
+			GOOSE
+
+	Lordy!  Eyeball to Asshole.
+
+	Hope nobody burps!
+
+	14A.  INT. MAVERICK'S F-14
+
+			MAVERICK
+
+	I'LL LOCK ON THEM, COUGAR. (to himself)  
+
+	Gotcha covered, don't nobody move.
+
+			COUGAR
+
+	I'M UP HERE TOO, MAVERICK.
+
+			MAVERICK
+
+	ROGER, COUGAR. (to himself and his RIO) 
+
+	Okay boys, pull out with your hands up 
+
+	and nobody'll get hurt.
+
+	14B.  INT. COUGAR'S F-14
+
+	Up front, Cougar checks his gunsight...He gets I.R. lock...
+
+			COUGAR
+
+	We're locked on MiG ONE. Why 
+
+	doesn't he disengage?
+
+			GOOSE
+
+	These guys are getting on my 
+
+	nerves.
+
+	14C.   FINALLY, MIG ONE TURNS AWAY.
+
+			GOOSE
+
+	GHOST RIDER TO MUSTANG. BANDITS  
+
+	TURNING AWAY.
+
+	But Cougar presses forward, and MiG TWO stays on his tail.
+
+			MAVERICK
+
+	COUGAR, BREAK LEFT. TRY A HIGH G 
+
+	ROLL UNDERNEATH. BREAK OUT THE 
+
+	BOTTOM.
+
+	Anger gives way to discipline. Cougar's Tomcat breaks left, 
+
+	dives into dense cloud. MiG TWO still follows.
+
+			MAVERICK
+
+	HE'S STILL ON YOU, COUGAR.
+
+	15.  EXT. COUGAR - IN THE CLOUDS
+
+	Still hears the tone, BLIPBLIPBLIP...
+
+			COUGAR
+
+	I KNOW. I KNOW.
+
+	He rolls over into wild evasive maneuvers, finally breaks lock. 
+
+	16.  INT. MIG
+
+	Breaks out of cloud, looks around, startled.  There is nothing, 
+
+	no F-14. He scans the sky frantically, while rolling the 
+
+	aircraft. ...Suddenly, he feels a presence. He looks straight up 
+
+	and behind him. A few feet away, a TOMCAT slides into position 
+
+	canopy to canopy, an incredible feat of flying. Maverick and 
+
+	Wizard stare at him. Maverick slides even closer, canopies nearly 
+
+	touching. The MiG pilot acknowledges them with a weak wave.  
+
+	Maverick stares for a moment, then flips him the bird. 
+
+	The MiG pushes negative G, hard down and away. He heads for the 
+
+	deck.
+
+			WIZARD
+
+	He's running for it.
+
+			MAVERICK
+
+	Ah, the thrill of victory and the 
+
+	agony of defeat.
+
+			WIZARD
+
+	Speaking of feet, fuel's down to 
+
+	4.0.  We're gonna get them wet 
+
+	unless we find a Sonoco station.
+
+			MAVERICK
+
+	COUGAR, THIS IS MAVERICK.  I'M 
+
+	GETTING HUNGRY, LET'S HEAD FOR THE 
+
+	BARN. ...COUGAR, WHERE ARE YOU?
+
+	17.  EXT. KITTY HAWK FLIGHT DECK - THE LSO 
+
+	Stands the on plunging deck, peering into the roaring night.
+
+			CCA (Filtered)
+
+	GHOST RIDER ONE-ONE-FIVE, THIS IS 
+
+	MUSTANG.  WX THREE HUNDRED.  ONE 
+
+	MILE VISIBILITY WITH HEAVY RAIN.  
+
+	FINAL INBOUND BEARING THREE-FOUR- 
+
+	ZERO.  DECK IS MOVING.
+
+	18.  INT. COCKPIT 117 - COUGAR
+
+			COUGAR
+
+	This is crazy. How the hell we 
+
+	supposed to land on something we 
+
+	can't even see!
+
+			GOOSE
+
+	Hey, if it was easy, everybody 
+
+	would want to come up here and do 
+
+	it..... Instead of just us.
+
+			COUGAR
+
+	   (corrects him)
+
+	You.
+
+			MUSTANG (V.O. filtered) 
+
+	MUSTANG TO GHOST RIDER 115...110 
+
+	SPIN, 42 LOCK.  AT 5 MILES READ 
+
+	YOUR NEEDLES.
+
+	19.  INT. COCKPIT 115 - MAVERICK
+
+			MAVERICK
+
+	NEEDLES READ DOWN AND LEFT.
+
+			CCA (V.O. filtered)
+
+	CONCUR, FLY YOUR NEEDLES.
+
+			MAVERICK
+
+	NEEDLES CENTER.
+
+			CCA (V.O. filtered)
+
+	ROGER. CALL THE BALL.
+
+			MAVERICK
+
+	Call the ball?  I don't see the 
+
+	ship!
+
+	20.  INT. COCKPIT 117 - COUGAR'S POV
+
+	BLASTS slam the airframe. Rain tattoos the canopy. A gust rolls 
+
+	the Tomcat, he straightens it, A gust flips it again.
+
+	20A.  MAVERICK'S POV 
+
+	The Carrier lights appear and disappear through the storm.
+
+	21.  INT. COCKPIT 117 - COUGAR
+
+	 	 	GOOSE
+
+	   (To Himself)
+
+	A walk in the park, Mustang. You 
+
+	with me, cat man?...Cougar...you 
+
+	with me?
+
+	Goose is thrown about as the wing dips, straightens, dips.
+
+			COUGAR
+
+	Help me with this one, I'm really 
+
+	screwed up.
+
+			GOOSE
+
+	Bring it left. Bring it left, 
+
+	You're high.
+
+			COUGAR
+
+	This is crazy!
+
+			GOOSE
+
+	What is?
+
+			COUGAR
+
+	Wait! Hell!..Something's wrong!
+
+			GOOSE
+
+	What?  What is it?
+
+			COUGAR
+
+	Were upside down!
+
+			GOOSE
+
+	You're crazy. We're level.
+
+			COUGAR
+
+	Can't you feel it? I'm hanging in 
+
+	my straps!
+
+			GOOSE
+
+	You're not. We're level. Look at 
+
+	the instruments, we're okay!
+
+			COUGAR
+
+	They must be broken. I'm hanging in 
+
+	my straps! We're inverted!
+
+			GOOSE
+
+	We're not! Trust me! We're okay.
+
+	22.  FLIGHT DECK - LSO CONTROLLING 115 - MAVERICK
+
+			LSO
+
+	A LITTLE POWER...FLY THE BALL.    
+
+	LOOKING GOOD...HOLD WHAT YOU GOT.
+
+	23.  MAVERICK'S F-14 - ON FINAL APPROACH.
+
+	24.  INT. COCKPIT - MAVERICK
+
+	He hears Cougar's chatter over the air.
+
+			COUGAR (V.O. filtered)
+
+	WE'RE UPSIDE DOWN! WE CAN'T LAND!
+
+			GOOSE (V.O. filtered)
+
+	WELL, WE CAN'T STAY UP HERE EITHER.
+
+	25.  FLIGHT DECK 
+
+	Maverick's plane settles in over the ramp, suddenly, BLASTS FROM 
+
+	IT'S AFTERBURNERS...it ROARS over the deck without touching and 
+
+	off into the night. The LSO is shocked into comment.
+
+			LSO
+
+	WHERE THE HELL YOU GOING?
+
+	26.  MAVERICK'S COCKPIT  - (AERIAL)
+
+			MAVERICK
+
+	I...FORGOT SOMETHING.
+
+			WIZARD
+
+	What the hell you doing?
+
+			MAVERICK
+
+	Helping him in.
+
+			WIZARD
+
+	What makes you think we can get 
+
+	back in?  We don't have the fuel 
+
+	for this.
+
+			MAVERICK
+
+	Just get me to him.
+
+			WIZARD
+
+	He's nine o'clock high. We're two 
+
+	thousand pounds low!
+
+	27.  DARK TURBULENT CLOUDS
+
+	Maverick's plane pulls up behind Cougar's. Cougar's plane 
+
+	suddenly flips over, flying inverted.
+
+			COUGAR
+
+	I'm pulling up.
+
+			GOOSE
+
+	No! Now we're inverted!
+
+	Maverick pulls up off the wing of the inverted aircraft. His 
+
+	voice is calmness itself.
+
+			MAVERICK
+
+	HEY, ANY OF YOU GUYS SEEN AN
+
+	AIRCRAFT CARRIER AROUND HERE?
+
+	Cougar looks over, surprised.
+
+			COUGAR
+
+	WHAT ARE YOU DOING HERE?
+
+			MAVERICK
+
+	EVERYBODY'S GOT TO BE SOMEWHERE.
+
+	..NOW WE'RE RIGHT WITH YOU.
+
+	YOU ARE INVERTED.  ROLL IT, COUGAR.
+
+	Nothing happens.
+
+			MAVERICK
+
+	COUGAR, THIS IS MAVERICK. HALF ROLL 
+
+	IT. NOW!
+
+	Cougar's plane completes the roll, is now upright.
+
+			GOOSE
+
+	We're on vapor, Cougar, you got to 
+
+	put it down.
+
+			COUGAR
+
+	It's crazy, man. Instruments are 
+
+	crazy. We're gonna have to eject.
+
+			GOOSE
+
+	TELL HIM, WILL YOU TELL HIM? OUR 
+
+	INSTRUMENTS ARE OKAY.
+
+			MAVERICK
+
+	YOU'RE STRAIGHT AND LEVEL, COUGAR.
+
+			COUGAR
+
+	I'M HANGING IN MY STRAPS. I TURN IT 
+
+	OVER AND I'M STILL HANGING IN MY 
+
+	STRAPS. WHAT THE HELL IS GOING ON 
+
+	UP HERE?
+
+			MAVERICK
+
+	YOU'RE NOT IN THE STRAPS.  IT'S 
+
+	VERTIGO, THAT'S ALL IT IS. STAY ON 
+
+	MY WING. I'LL DROP YOU OFF.
+
+	Maverick pulls up wing tip to wing tip, inches apart.
+
+			COUGAR
+
+	MAVERICK.
+
+			MAVERICK
+
+	YEAH, COUGAR?
+
+			COUGAR
+
+	YOU BETTER NOT BE RAGGING ME...
+
+	IF YOU'RE FLYING UPSIDE DOWN...
+
+			MAVERICK
+
+	NO JOKE, COUGAR. ON THE LEVEL.
+
+		EVEN I WOULDN'T DO THAT TO YOU.
+
+			COUGAR
+
+	I'M UPSIDE DOWN. I KNOW IT. I'M 
+
+	GONNA EJECT.
+
+			GOOSE
+
+	Look at the weather! They'll never 
+
+	find us! We're near out of fuel. 
+
+	Put it down.
+
+			MAVERICK
+
+	COUGAR, YOU'RE ON THE BALL.
+
+			COUGAR
+
+	OKAY... OKAY. BUT IF I LAND THIS 
+
+	THING UPSIDE DOWN. AND I LIVE. I'LL 
+
+	HAVE YOUR BUTT!
+
+			GOOSE
+
+	You'll have mine, Cougar. It'll be 
+
+	where your head used to be.
+
+	28.  EXT. FLIGHT DECK 
+
+	All eyes are on what they can see of the approach of the two 
+
+	planes. Maverick drops him off at the pattern and circles. The 
+
+	LSO watches the approach. The Tomcat drops a wing, straightens, 
+
+	drops the wing, straightens ... the approach of a pilot 
+
+	experiencing vertigo as Cougar tries to satisfy his inner ear.
+
+			LSO
+
+	LEVEL...YOUR WINGS... EASY... 
+
+	YOU'RE SETTLING....FLY THE BALL.
+
+	A wind shear just off the ramp drives the plane suddenly down.
+
+			LSO
+
+	POWER...POWER!..POWER!...WAVE OFF!  
+
+	WAVE OFF  WAVE OFF!
+
+	AFTERBURNERS BLAST, but the Tomcat horrifyingly settles tail-low 
+
+	toward the deck. The deck crew watches in terror as the plane 
+
+	wallows in toward them. The LSO'S turn, take a few steps and 
+
+	throw themselves off the flight deck.
+
+	They sail into the night toward the surging seas a hundred feet 
+
+	below, then are caught in safety nets hung off the side.
+
+	28A.  THE PLANE
+
+	Settles, settles, standing on it's engines, trying to arrest 
+
+	it's downward momentum. The hook raises sparks as it skids across 
+
+	the deck... The plane stops falling and hangs for a moment, about 
+
+	to blast back up, when the hook catches the last wire.. The wire 
+
+	snags it, plucking 45,000 pounds of fuel, metal and men out of 
+
+	the air and slamming it all to the deck. WHAMMMM! Right wheel 
+
+	flies up the deck and over the side...the gear collapses. The 
+
+	plane SCREECHES sideways. The crew watches helplessly as it skids 
+
+	slams into it and comes to rest in cloud of fuel vapor and steam.
+
+	The LSO runs up, shouting into the mike. 
+
+			LSO
+
+	COUGAR, GOOSE...COME IN COUGAR! 
+
+	SHUT YOUR ENGINES DOWN, YOU'VE 
+
+	ARRIVED.
+
+			AIR BOSS
+
+	GHOST RIDER! ACKNOWLEDGE!
+
+	GHOST RIDER! ACKNOWLEDGE!
+
+	Crash crew leaps into action. The fire crew is there. The man in 
+
+	the Silver Suit jumps up on the wing and crawls to the cockpit. 
+
+	The figures inside are not moving. He hits the canopy release. 
+
+	The canopy pops open. Silver suit grabs at the rear seat harness 
+
+	release. He screams through his suit's aluminized cloth...
+
+			SILVER SUIT
+
+	Goose, can you hear me?  Goose!
+
+	Nothing for a moment. He's dead! Then the RIO'S helmet 
+
+	moves...His head turns. He tears the mask away from his face, 
+
+	looks up at Silver Suit. His head clears.
+
+			GOOSE
+
+	Oh, Hello... Valet parking?
+
+	Silver suit is stunned for a moment. He straightens up, his head 
+
+	inclines quizzically. Then it hits him.
+
+			SILVER SUIT
+
+	Son of a bitch!
+
+			GOOSE
+
+	You will put it up front,
+
+	with the Porsches?
+
+	He grabs him under the armpits, drags him out of the plane. 
+
+			GOOSE
+
+	Hey...easy...Take it easy...
+
+	I'm a veteran!
+
+	Goose grabs a passing crewman by the arm.
+
+			GOOSE
+
+	Can you check under the hood. I 
+
+	thought I heard a funny noise.
+
+	Other crewmembers help Cougar out. He seems stunned, but Goose 
+
+	reacts to his fear with frantic one-liners. He grabs a crew 
+
+	member's radio, as Silver Suit helps him away and looks to the 
+
+	figures of the Admiral and the Air Boss far up on the bridge... 
+
+	He waves to them, does his best impression...Desi Arnaz.
+
+			GOOSE
+
+	Lucy...Ricky...I'n Home!
+
+	28B.  BRIDGE FLIGHT DECK
+
+	A moment of disbelief... Then hysterical, tension relieving 
+
+	laughter.
+
+	28C.  FLIGHT DECK
+
+	Goose spots Cougar being helped out. He pulls away, reaches back 
+
+	into the cockpit and grabs Cougar's snapshot of wife and kid. 
+
+	They lead Goose away as firemen blast the aircraft with foam.
+
+			GOOSE
+
+	Is it extra for the hot wax?
+
+	28D.  BRIDGE  - FLIGHT DECK - AIR BOSS
+
+			AIR BOSS
+
+	Clear the flight deck.
+
+	29.  FLIGHT DECK
+
+	A TILLIE, a four wheel mobile crane, slams up to the plane and 
+
+	slings its lifting harness. Goose turns to Silver Suit.
+
+			GOOSE
+
+	Well...there goes your tip.
+
+	30.  INT. MAVERICK'S PLANE
+
+	They have monitored the chatter. 
+
+			WIZARD
+
+	It's Goose. He's alright. Bring it 
+
+	left...You're settling.  IS THE 
+
+	DECK CLEAR?
+
+			LSO (V.O. filtered)
+
+	   (softly)
+
+	ROGER, BALL, LITTLE POWER...DON'T 
+
+	CLIMB...OKAY, HOLD WHAT YOU GOT! 
+
+	Wizard does a quick sign of the cross, reaches down, grabs his 
+
+	balls...as...
+
+	30A.  FLIGHT DECK 
+
+	The TOMCAT slams onto the deck, clearing the wreckage by inches.
+
+	31.  INT. CARRIER HATCHWAY - FLIGHT SURGEON, OTHERS 
+
+	Watch as they bring a shaken Cougar past. Goose, eyes wild, 
+
+	waves at Maverick and Wizard, rolling up. They flame out - 
+
+	VVOOOMMMMM! They sit there, immobile, waiting for a tow, looking 
+
+	numb.  Goose does his "stewardess".
+
+			GOOSE
+
+	On behalf of your Captain and your 
+
+	crew, I want to thank you for 
+
+	flying VF101. And next time your 
+
+	plans include the middle of the 
+
+	goddamn ocean in the dead of 
+
+	frigging night, I hope you'll think 
+
+	of Naval Aviation.
+
+	The surgeon looks into Goose's eyes.
+
+			SURGEON
+
+	Stress reaction...
+
+			XO
+
+	Check his head.
+
+			GOOSE
+
+	   (wobbling off)
+
+	Never mind my head, check my 
+
+	shorts!
+
+	32.  SICK BAY - LATER
+
+	Cougar lies alone in the dimness, staring at the overhead.
+
+	33. 03 LEVEL - BELOW DECKS - OFFICER'S COUNTRY
+
+	The usual CLANGS, WHISTLES, ENGINES of Navy life sound FORLORN 
+
+	ECHOING through the dim, deserted passage. From the distance, a 
+
+	single figure passes in and out of the glow of the overhead 
+
+	lights. Cougar comes closer, hobbling unsteadily.
+
+	He reaches a door, pulls himself erect and knocks on the sign:
+
+	Commander Tom Otawoczek
+
+	CO VF 101
+
+	STINGER
+
+	34.  STINGER'S CABIN
+
+	The skipper works at his desk, responds without looking up.
+
+			STINGER
+
+	Come in.
+
+	He looks up. Cougar stands in the doorway, a strange, dazed look 
+
+	on his face.
+
+			STINGER
+
+	Cougar, what is it? You should be 
+
+	in sick bay. What are you doing?
+
+	He walks over to the skipper's desk. His eyes are glazed, but 
+
+	his jaw is firm.
+
+			COUGAR
+
+	Thinking of my wife and kid.
+
+	A determined movement. Hand to chest.
+
+	34A. OMITTED
+
+	Something metal hits it, skids across the polished surface and 
+
+	clangs up against the coffee mug: gold wings.
+
+	35.  PASSAGEWAY
+
+	Cougar comes out of Stinger's room, bumps into Goose, and 
+
+	Maverick. He turns the other way.
+
+			GOOSE
+
+	Cougar!
+
+	He stops, turns to them. There is nothing to say. Goose hands 
+
+	him his snapshot. Cougar looks at his wife and kid for a moment, 
+
+	then looks up at them. He turns away.
+
+			MAVERICK
+
+	Cougar?		STINGER (O.S.)
+
+	Maverick, Goose...Come in here.
+
+	36.  STINGER'S OFFICE - DOORWAY
+
+	Maverick appears, followed by Goose. They stand at 
+
+	attention.
+
+			MAVERICK
+
+	Sir?
+
+	The Skipper says nothing. Maverick sees the wings on the 
+
+	desk. He enters, walks over, stares down at them. He picks 
+
+	them up. 
+
+			GOOSE
+
+	Don't worry. I'll talk to him.
+
+			STINGER
+
+	Don't.
+
+			MAVERICK
+
+	He's a good pilot.
+
+			STINGER
+
+	I talked a man back once. Three 
+
+	months later, we lost him. It's his 
+
+	decision. Only he knows.
+
+			GOOSE
+
+	He's the best you have. He's going 
+
+	Top Gun!
+
+			STINGER
+
+	Was.
+
+			MAVERICK
+
+	What?
+
+			STINGER
+
+	Was going. (Turns to Maverick.) Now 
+
+	you are.
+
+			MAVERICK
+
+	Me?
+
+	Maverick stares at the wings, lost in conflicting emotions.
+
+			STINGER
+
+	Well, he's going (indicating Goose) 
+
+	and he needs someone to fly the 
+
+	plane.
+
+			GOOSE
+
+	Skipper, you can't do this!
+
+			STINGER
+
+	I didn't do it, he did it himself. 
+
+	Something about a wife and kid. The 
+
+	fact is, he's lost it. He knows it. 
+
+	I know it. You were up there, you 
+
+	know it, too.
+
+			GOOSE
+
+	Give him a break, Skipper. It was 
+
+	raining snakes up there. He'll be 
+
+	alright, soon as all the gorillas go 
+
+	home...
+
+	The Skipper stares at Goose, non-plussed for a moment.
+
+			STINGER
+
+	I know some RIOS are a little 
+
+	wiggy...but you abuse the 
+
+	priviledge! I don't believe I'm 
+
+	going to have to put the two of you 
+
+	in the same cockpit...but there it 
+
+	is! It may be good for the Navy. It 
+
+	might be good for you, but most of 
+
+	all, it's good for me. It'll get 
+
+	you out of my sight.
+
+			GOOSE
+
+	But, Skipper, Cougar's been picked 
+
+	for Top Gun...He's the best of the 
+
+	best!
+
+			STINGER
+
+	Well, you'll just have to make do 
+
+	with him (indicates Maverick).
+
+	Goose and Maverick exchange looks.
+
+			GOOSE
+
+	Mav's a great flyer but....
+
+			STINGER
+
+	He's a hell of a flyer. In fact, 
+
+	he's so damn good he might have 
+
+	been picked for Top Gun himself. 
+
+	Except for one thing. (SCREAMS) He 
+
+	just can't seem to follow orders!
+
+	Stinger moves slightly, to stand now, directly in front of 
+
+	Maverick and speak eye to eye at four inches.
+
+			STINGER
+
+	You just did an incredibly brave thing! 
+
+	What you should have done was land your 
+
+	plane. You don't own that plane, the 
+
+	taxpayers do. I should ream you out for 
+
+	it. But it just doesn't work with you. 
+
+	You're a hell of a flyer. You are maybe 
+
+	...too good. You never really stepped in 
+
+	it yet. So this is your chance. I'm 
+
+	gonna send you up against the best. They 
+
+	are better than you. Maybe they'll knock 
+
+	that shine off your eagle and you'll 
+
+	see, finally, where discipline and 
+
+	teamwork fit it. 
+
+	Maverick hasn't really heard anything but TOPGUN. He snaps out 
+
+	of it.
+
+			MAVERICK
+
+	Sir?
+
+			STINGER
+
+	That is all. Tell me about the MiG 
+
+	some other time...
+
+			MAVERICK
+
+	Yes sir!
+
+	He snaps off a salute and does an about face.
+
+			STINGER
+
+	Maverick..
+
+	He turns back.
+
+			MAVERICK
+
+	Yes sir..
+
+			STINGER
+
+	The wings..
+
+	He looks down at the wings in his hands, slowing walks over 
+
+	places them gently on the Skipper's desk.
+
+			STINGER
+
+	Gentlemen!
+
+			MAVERICK/GOOSE
+
+	Sir?
+
+	His facade cracks just slightly.
+
+			STINGER
+
+	Good luck.
+
+	37.  INT. PASSAGEWAY
+
+	Maverick and Goose push through a gauntlet of aircrews. They 
+
+	have become notorious. Guys grab at them...questions...the 
+
+	MiGs?..What happened up there? How close did they get? What did 
+
+	the MiGs do? One word is heard over and over..."TopGun". Goose is 
+
+	left behind in the crowd. Maverick pushes through. He walks 
+
+	fast...faster. Up ladders, around turns, down ladders, through 
+
+	passageways. Faster. He breaks into a trot, then a canter, 
+
+	squeezing past enlisted men, parts lockers, then he breaks into a 
+
+	run...
+
+	38.  EXT - CARRIER - NIGHT AND STORM
+
+	A hatch slams open on the side of the Carrier. He's out on a 
+
+	catwalk, instantly soaked, running on rain slicked stairs 
+
+	cantilevered high over the breaking seas. He plunges forward to 
+
+	the bow of the ship, stands on the very peak. He is yelling 
+
+	something. He stands there as the bow plunges terrifyingly into 
+
+	the trough. The water rises like a green mountain, up, up to 
+
+	break just a few feet below him, showering him with spray. The 
+
+	noise is incredible. 
+
+	Come around on his face. It is maddened. He raises his fist and 
+
+	punches the night.
+
+	The foaming slope of the wave rushes up, changing color as it 
+
+	DISSOLVES TO:
+
+	Desert Sand whipping by...
+
+	39.  MOJAVE DESERT - 1 WEEK LATER
+
+	A big bike, a real big bike, a turbo...rockets across the 
+
+	desert. Fast. Real fast. Aviator shades low above the handlebars 
+
+	--Maverick. Goose hangs on in back. It cranks faster, pulls 
+
+	closer...ENGINE SCREAMING. It cranks up a notch, it's going to 
+
+	explode. It can't go faster, but it does. It SCREAMS HIGHER. It 
+
+	ROARS under, by and away, leaving dust...
+
+	39A.  THE BIKE - STILL
+
+	Silence. Just the HISS AND POP OF METAL COOLING. Maverick sits 
+
+	on it, staring out past us. Goose looks over Maverick's shoulder.
+
+	We see why. Feet come into the frame. Then the uniform: 
+
+	California Highway Patrol.
+
+	40.  COUNTRY ROAD - NEAR SAN DIEGO
+
+	40A.  ANGLE ON MAVERICK. CHP enters the frame, the usual 
+
+	hypercivil arrogance tinged with awed disbelief. The usual 
+
+	questions are spaced for effect as if he might be talking to some 
+
+	other form of life. Maverick is off the bike, standing at 
+
+	attention. Goose follows more slowly.
+
+			CHP
+
+	Son. Do you know why
+
+	I stopped you?
+
+	Maverick has some good idea how to deal with authority.
+
+			MAVERICK
+
+	Yes sir. I do sir
+
+	The CHP adjusts his own aviator shades.
+
+			CHP
+
+	Well... What   is   it?
+
+			MAVERICK
+
+	   (more than sincere)
+
+	Sir. You are going to give me a 
+
+	warning, Sir!
+
+	CHP - A touch of a smile, quickly surpressed.
+
+			CHP
+
+	License and registration.
+
+	Maverick hands them over with his Navy ID. CHP scans them, 
+
+	hesitates a moment over the last, looks up with a touch more 
+
+	respect.
+
+			CHP
+
+	Lieutenant, do you know how fast  
+
+	you were going?
+
+			MAVERICK
+
+	Yes sir. I do, Sir.
+
+			CHP
+
+	Well? 
+
+			MAVERICK
+
+	Sir. I was going Mach point one 
+
+	five.
+
+	CHP nods sagely.
+
+			CHP
+
+	One SIXTH the speed of sound!
+
+			MAVERICK
+
+	Yes sir.
+
+			CHP
+
+	   (a guess)
+
+	Lieutenant... What do you...  
+
+	usually fly?
+
+			MAVERICK
+
+	F-14's sir.
+
+			CHP
+
+	   (new respect)
+
+	Tomcats?
+
+			MAVERICK
+
+	Yes sir!
+
+	A long pause. Respect in the cop's eyes. He taps the Navy ID on 
+
+	the handlebars...staring at this sincere young man.
+
+			CHP
+
+	Lieutenant... Is there...
+
+	a Russian attack?
+
+			MAVERICK
+
+	No sir! But you have to be ready. 
+
+	The cop nods and stares at him.
+
+	41.  EXT. MIRAMAR NAVAL AIR STATION - LATER
+
+	41A.  OMIT
+
+	The bike is BLURPING... barely going fast enough to stay 
+
+	upright. Maverick cool in shades and campaign cap dorks past the 
+
+	hanger with the sign: FIGHTERTOWN, USA. He pulls ahead. In back 
+
+	of him, escorting with flashers...the CHP. They pull up at the 
+
+	gate. Maverick and Goose salute the guard, hands over their ID. 
+
+	The CHP gets out of his car, leans against the door.
+
+			CHP
+
+	Lieutenant.
+
+	Maverick turns to him.
+
+			MAVERICK
+
+	Yes, Sergeant?
+
+			CHP
+
+	Remember one thing.
+
+			MAVERICK
+
+	Sir?
+
+			CHP
+
+	Outside of this gate...
+
+	I...am Top Gun.
+
+			MAVERICK
+
+	Yes sir!
+
+	He salutes. The CHP returns a snappy one. He gets back in his 
+
+	car and turns away. Maverick receives his ID and clearance. As he 
+
+	passes through, a couple of pilots in flight suits (ICE AND 
+
+	HOLLYWOOD) stare at him. The taller, dark, cool one speaks in a 
+
+	dry voice, meant to be overheard.
+
+			ICE
+
+	Uh oh, police escort. This one must 
+
+	be a real killer.
+
+	The second pilot grins big at them. Maverick turns slightly 
+
+	stares over his shades at them as he passes. Goose grins back the 
+
+	challenge.
+
+	42.  AERIAL COMBAT - VIETNAM ERA - F4'S, MIG 17'S - STOCK 
+
+	The Doors on the soundtrack.  Jets swoop, missiles fire, a plane 
+
+	explodes. Gun camera views of MiGs, SAMS, flak, bombing runs...
+
+			VIPER (V.O.) 
+
+	During the Korean War, the Navy kill 
+
+	ratio was twelve-to-one. We shot down 
+
+	twelve of their jets for every one of 
+
+	ours. In Vietnam, this ratio fell to 
+
+	three-to-one. Our pilots depended on 
+
+	missles. They lost their dogfighting 
+
+	skills.
+
+	F-14's fighting with F-5's. Music becomes current. 
+
+			VIPER (V.O.) 
+
+	Top Gun was created to teach ACM. Air 
+
+	Combat Maneuvering...Dogfighting. 
+
+	Richthofen, Guynemer, Rickenbacker, 
+
+	Galland, Rudel, Bong would envy us. We 
+
+	do just what they did, but we do it 
+
+	beyond the speed of sound. 
+
+	43.  INT. DAY - TOP GUN ORIENTATION ROOM.
+
+	VIPER - A tough-looking, confident leader in a blue flight suit, 
+
+	stands before a video-tape monitor. Behind him, on the monitor, 
+
+	the dogfighting continues.
+
+			VIPER
+
+	By the end of Vietnam we upped our 
+
+	kill ratio to thirteen to one. 
+
+	He turns on the lights. We see his audience in F.G.
+
+			VIPER
+
+	You're here 'cause you're the top 
+
+	one per cent of all naval aviators.
+
+	THE CLASS 
+
+	Sixteen young men - eight flight crews - sit at attention. They 
+
+	are trim, fit and confident - high school heroes, college jocks.
+
+			VIPER (V.O.) 
+
+	You're the elite, the best of the 
+
+	best. We're gonna make you better, 
+
+	because you're job is damned 
+
+	important. 
+
+	ANOTHER ANGLE - THE MEN 
+
+	The camera moves among them. Hold on one of the men; the one who 
+
+	greeted Maverick at the gate, Ice.
+
+			VIPER (V.O.)
+
+	With the tensions in the world today, the potential for confron- 
+
+	tation is greater than ever, and 
+
+	carrier pilots will be the first 
+
+	ones there. Air combat excellence 
+
+	is vital.
+
+	Ice is not looking at the speaker, but, rather, in our 
+
+	direction. HOLLYWOOD, a blond, good-looking pilot, whispers 
+
+	something to him, and gestures. Ice is getting the lowdown on 
+
+	someone. The camera moves and we see who that someone is, as 
+
+	Maverick enters the frame. 
+
+			VIPER
+
+	 ...Someone once asked me if 
+
+	training men for air combat made 
+
+	the world less safe--flying loaded 
+
+	guns... an accidental confrontation 
+
+	and so forth...
+
+	Maverick feels the stare of the other man and glances in his 
+
+	direction. Their eyes meet. Ice smiles coldly.
+
+	ANGLE - VIPER 
+
+	 		VIPER (Con't)
+
+	My answer is: the dangerous thing 
+
+	is being unprepared. You want 
+
+	trouble, that's what you get when 
+
+	things don't work out, when you 
+
+	can't do what you say you can. When 
+
+	you don't know what you can do. And 
+
+	when your opponents aren't sure 
+
+	either. We are not policy. We don't 
+
+	make policy. Elected officials 
+
+	...civilians, do that. We are the 
+
+	instrument of policy. The tip of 
+
+	the spear. So we had best be sharp.
+
+	Maverick has turned to look at Ice. Ice glances back in his 
+
+	direction. Maverick looks at the back of the room where guys in 
+
+	blue flight suits stand. They are the instructors. They look 
+
+	relaxed, poised, mean.  Goose is looking up front...Where Viper 
+
+	has stopped. Goose nudges Maverick. 
+
+			GOOSE
+
+	   (whispers)
+
+	What are you doing?
+
+			MAVERICK
+
+	Nothing...That's McGown...that's 
+
+	Singer, isn't it?
+
+			GOOSE
+
+	Turn around, pay attention. What 
+
+	are you doing?
+
+			MAVERICK
+
+	    (musing to himself)
+
+	...Just wondering...(turns back) 
+
+	...who is the best.
+
+	He's shocked to find Viper staring right at him, with a killer 
+
+	grin on his face. He's feels caught like a naughty schoolboy.
+
+			VIPER
+
+	Really...    (smiles)
+
+	Ya know. We'd like to know who's 
+
+	best too. That's why we've got that 
+
+	plaque on the wall... with the Top 
+
+	Top Gun crew from each class. You 
+
+	think maybe your name's gonna be on 
+
+	it?
+
+	Maverick knows he's in trouble, considers the social 
+
+	alternatives, then tells him the truth.
+
+			MAVERICK
+
+	Yes sir.
+
+	A couple of ooo's and aahh's from the guys. The instructors 
+
+	stare the challenge at him. He slides lower in his seat.
+
+			VIPER
+
+	Considering the company you're in, 
+
+	that's a pretty arrogant attitude.
+
+			MAVERICK
+
+	    (somewhat chastised)
+
+	Yes sir.
+
+			VIPER
+
+	I like that in a fighter pilot.  
+
+	(couple of laughs from the guys) 
+
+	It's okay to be confident. You have 
+
+	to think you're King Kong to want 
+
+	to try to land on carriers. Just 
+
+	keep in mind the other component of 
+
+	success...teamwork.
+
+	Viper gathers his notes, the lecture is over.
+
+			MAVERICK
+
+	Yes sir.
+
+	Viper turns back for one more thought.
+
+			VIPER
+
+	Gentlemen, this is about combat. 
+
+	Remember, there are no points for 
+
+	second place. Dismissed.
+
+	Viper walks out. Maverick finds Goose looking at him, 
+
+	quizzically. Others mill around the plaque.  A big, friendly bear 
+
+	of a RIO speaks.
+
+			WOLFMAN
+
+	A plaque?
+
+			HOLLYWOOD
+
+	It's not the plaque. The winner can 
+
+	get assigned here as instructor. He 
+
+	gets to fight every day.
+
+	They move closer to examine the names on the plaque.
+
+	44.  EXT. "O" CLUB - NIGHT.
+
+	Fast cars in the driveway, fast music blares into the 
+
+	night. It's Wednesday; Animal Night. Maverick, Goose 
+
+	Hollywood and Wolfman walk to the entrance.
+
+	45.  INT. WOXOF BAR
+
+	Loud music, low ceiling, plaques of the squadrons line the 
+
+	walls. A dancer gyrates on stage, largely ignored by pilots 
+
+	talking with their hands. Every pretty girl in San Diego 
+
+	seems to be here. It's a noisy, rowdy place--a "steam 
+
+	releaser" for people under pressure. Nevertheless, there is 
+
+	a control to it all, there are none of the usual bar types, 
+
+	just pilots and Naval Officers.
+
+	The Ghost Riders enter. The place is on fire:  a mob of 
+
+	dancers, flashing lights, blaring HARD ROCK MUSIC. Beer 
+
+	flows. Pilots talk flying and hustle girls.
+
+	NEARBY - AN A7 pilot stands by the bar. He knows Goose and 
+
+	speaks loudly for his benefit.. 
+
+			A7 PILOT
+
+	You know the Fighter Pilots motto? 
+
+	It's better to be dead than to look 
+
+	bad.
+
+	They grin broadly. Goose replies as they brush past.
+
+			GOOSE
+
+	I don't know, Frank, anybody gets 
+
+	off on bombing the shit out of dirt 
+
+	has got to be queer.
+
+	Goose exchanges friendly punches with the attack pilots. 
+
+	Maverick's introductions and friendly barbs are drowned by the 
+
+	music. Maverick is a bit reserved. He doesn't move among the 
+
+	crowd as naturally as Goose does. Hollywood and Wolfman drift 
+
+	away, searching for quarry. Goose orders beer. He nods toward a 
+
+	TALL YOUNG MAN across the room.
+
+			GOOSE
+
+	Keller, Black Lion Squadron. I knew 
+
+	him at Pensacola. He's damn good.
+
+			MAVERICK
+
+	Is there anybody in the Navy you 
+
+	don't know? 
+
+			GOOSE
+
+	Gotta keep track of the 
+
+	competition.
+
+	Goose suddenly reaches out and grabs a guy moving past.
+
+			GOOSE
+
+	Slider -- they let you into Top 
+
+	Gun? If you're among the best in 
+
+	the Navy, I tremble for the 
+
+	security of this country.
+
+			SLIDER
+
+	Why Goose, whose butt did you kiss 
+
+	to get here?
+
+			GOOSE
+
+	The list is long, but 
+
+	distinguished.
+
+			SLIDER
+
+	So's my Johnson.
+
+			GOOSE
+
+	This is Maverick.
+
+	Smiles good-naturedly, shakes hands with Mav. 
+
+			SLIDER
+
+	So I've heard.
+
+			GOOSE
+
+	Who's your pilot?
+
+			SLIDER
+
+	Tom Kazansky.
+
+			GOOSE
+
+	    (very impressed)
+
+	No shit. The Iceman....
+
+			SLIDER
+
+	Mister to you.
+
+			GOOSE
+
+	You think you can stay up with us.
+
+			SLIDER
+
+	I think, yeah, we'll show you a 
+
+	thing or two.
+
+			GOOSE
+
+	This is Evan Mitchell, he steers 
+
+	the thing. 
+
+			SLIDER
+
+	So I heard. Steers it pretty close. 
+
+	Sorry to hear about Cougar. He was 
+
+	a good man.
+
+			MAVERICK
+
+	Still is..
+
+			SLIDER
+
+	Yeah. That's what I meant.
+
+	Suddenly, behind them, a flame shoots up. Someone ducks his head 
+
+	and swallows it. The pilot sets an empty glass on the bar.
+
+			SLIDER
+
+	What was that?
+
+			GOOSE
+
+	Flaming Hooker. Sort of an 
+
+	institution around here. Or maybe 
+
+	this is the institution, I forget 
+
+	which. It's the house drink. It'll 
+
+	warm the cockles of your heart ... 
+
+	and other things depending on where 
+
+	you spill it.
+
+	He motions to the barmaid and she moves over, sets them up. 
+
+	GOOSE holds a demitasse glass. The barmaid pours Drambuie. They 
+
+	look at Goose apprehensively. Goose looks at nearby flyers in 
+
+	Camo fatigues.
+
+			GOOSE
+
+	You can't show fear in front of 
+
+	Marines...They're like Doberman's 
+
+	they'll go for your throat, it's 
+
+	instinctive.
+
+	He takes out match and lights it. Maverick holds his arm.
+
+			MAVERICK
+
+	You ever done this before?
+
+			GOOSE
+
+	What, been drunk? Sure! Plenty!
+
+	He downs it all in one gulp, slaps the glass on the bar, still 
+
+	aflame. He stands there, blinking. 
+
+			SLIDER
+
+	How was it?
+
+			GOOSE
+
+	Could use a dash more jet fuel.
+
+	The others are duly impressed. Maverick's gaze falls on Ice 
+
+	watching from the end of the bar - Slider takes one, Maverick 
+
+	takes one too, downs it in a gulp. Sundown, taking up the 
+
+	challenge, motions for one. The barmaid pours it.
+
+			GOOSE
+
+	Careful, don't make an ash of 
+
+	yourself...
+
+	He tries to drink the flaming concoction. He tries to go for a 
+
+	sip, but it's too close to his face, he tries to tilt the flame 
+
+	away, but that doesn't work. Finally he goes for the gulp. He 
+
+	burns his lip and misses.  He sets his hair on fire. It goes up 
+
+	in a WHOOOSH!!
+
+			SUNDOWN
+
+	Yeow!
+
+			GOOSE
+
+	Mayday! Down in flames! 
+
+	He throws a beer in Sundown's face, quenching the fire. Sundown 
+
+	blinks through the beer.
+
+			SUNDOWN
+
+	Thanks, I needed that.
+
+			HOLLYWOOD
+
+	You guys are not only crazy, you're 
+
+	dangerous!
+
+	Ice comes up from the end of the bar. He motions the Barmaid for 
+
+	another; it comes. Goose lights it. He gulps it down, cool as 
+
+	hell.
+
+			ICE
+
+	    (Disdainfully)
+
+	Frat boys.
+
+	He walks away. Slider goes after him.
+
+			MAVERICK
+
+	Who is that guy?
+
+			HOLLYWOOD
+
+	That's Kazanski.
+
+			GOOSE
+
+	No shit! That why they call him Ice?
+
+			HOLLYWOOD
+
+	Nope. It's the way he flies - Ice cold. 
+
+	No mistakes. Wears you down. After 
+
+	enough time, you just get bored and 
+
+	frustrated, you do something stupid, and 
+
+	he's got you.
+
+	Maverick moves in Ice's direction. He passes Wolfman dancing 
+
+	with a girl with bright purple fingernails.
+
+	ANGLE - DANCEFLOOR.
+
+			GIRL
+
+	Why do you all have such funny 
+
+	names?
+
+			WOLFMAN
+
+	You gotta have a call sign that's 
+
+	just your own...never changes...you 
+
+	have to recognize it immediately. 
+
+	Then, if someone shouts "Wolf, 
+
+	break left!"..you react right away.
+
+			GIRL
+
+	Why do they call you Wolf?
+
+			WOLDFMAN
+
+	   (smiles)
+
+	Oh, I don't know.
+
+	Goose comes up with his arm around a girl.
+
+			GOOSE
+
+	Hey Mav, this is Sally. She doesn't 
+
+	believe a word I say. Tell her I'm 
+
+	married, will you?
+
+			MAVERICK
+
+	Yeah, he's married--but then again, 
+
+	he,s not dead.
+
+	Sally laughs and tries to pull Goose back toward the dance 
+
+	floor. Something in Maverick's eyes makes him hang back with his 
+
+	partner.
+
+	ANGLE - THE DANCE FLOOR - DANCERS
+
+			GIRL
+
+	Could I get a call sign?
+
+			WOLFMAN
+
+	Well, I don't know. That depends.
+
+			GIRL
+
+	On what?
+
+			WOLFMAN
+
+	Well, it doesn't just happen, you 
+
+	gotta do something famous.
+
+			GIRL
+
+	Like what?
+
+			WOLFMAN
+
+	Oh...I'll think of something.
+
+	Maverick smiles at this, but seems on edge... He watches a few 
+
+	pretty girls enter and eye the pilots in their flight suits, then 
+
+	turns and walks up to Ice, who sits, drinking with Slider.
+
+	Maverick walks over to him. Ice notices Slider's attention going 
+
+	to Maverick. He turns and grins at him.
+
+			ICEMAN
+
+	Figured it out yet?
+
+			MAVERICK
+
+	Figured out what?
+
+			ICEMAN
+
+	Who is the best.
+
+			MAVERICK
+
+	Nope.
+
+			ICEMAN
+
+	Need a hint?
+
+			MAVERICK
+
+	I think I can work it out on my 
+
+	own.
+
+			ICEMAN
+
+	You like to work alone. I've heard 
+
+	that about you. 
+
+			MAVERICK
+
+	I've heard of you, too. You were in 
+
+	124 with Bargamian.
+
+			ICEMAN
+
+	And you were with Cougar. He was my 
+
+	roommate in flight school.
+
+			MAVERICK
+
+	He's a good man.
+
+			ICEMAN
+
+	The best.
+
+			SLIDER
+
+	You must have soloed under a lucky 
+
+	star. First the MiG, then you slide 
+
+	into Cougar's place.
+
+			GOOSE
+
+	It's not Cougar's place. It's ours. 
+
+			ICE
+
+	What do you think it was? Was it 
+
+	that MiG contact that did it?
+
+			GOOSE
+
+	Did what?
+
+			ICE
+
+	Got you here.
+
+			GOOSE
+
+	We're here because we're the best 
+
+	flyers in the wing. Not because of 
+
+	some MiG encounter.
+
+			SLIDER
+
+	What luck! Guys fly their whole 
+
+	career without seeing a MiG up 
+
+	close...You're famous.
+
+			ICE
+
+	You mean notorious.
+
+	Something in the way he says it. It's not quite a joke, more an 
+
+	insult. Maverick's about to take the whole conversation too far 
+
+	when something...someone catches his eye. She catches quite a few 
+
+	eyes in this room. She is very pretty and she's walking in on the 
+
+	arm of a Commander. Maverick turns back, but the moment has 
+
+	passed. Ice dismisses him with a nod and weak smile. Goose pulls 
+
+	him away.
+
+			MAVERICK
+
+	What do these guys think, I made 
+
+	Cougar quit?
+
+			GOOSE
+
+	Pay no attention to it. They're 
+
+	just trying to rattle you. It's all 
+
+	psychological. Sit down..and drink.
+
+	He deposits Maverick at a chair by a table where other pilots 
+
+	cluster watching and listening to Bugs shoot down his wristwatch. 
+
+	Maverick broods...
+
+			BUGS
+
+	We were just really diving down and by 
+
+	then we were right over downtown 
+
+	Haiphong.  It was some great shit. Jack 
+
+	says, "What are you doing?" "What, what 
+
+	am I doing, Jack?" He says, "What are 
+
+	you doing?" I said, "I'm rolling in, 
+
+	Jack." "Bugs, we're at thirty-two 
+
+	hundred feet. Oh shit, we were like 
+
+	zooom... So we scraped down at hundred 
+
+	feet right over--downtown Hanoi!  Oh 
+
+	shit, goddamn it! And blowing down the 
+
+	river. And so once we were there we let 
+
+	down to about fifty feet just going down 
+
+	the river and Jack says... "Bugs... 
+
+	don't ever do that again!" "Okay, right, 
+
+	Jack, I'll never do that again!"
+
+	Maverick pays little or no attention. He broods and drinks. 
+
+	Suddenly, Hollywood nudges him, he turns.
+
+			MAVERICK
+
+	What, what is it?
+
+			HOLLYWOOD
+
+	Target passing. Check your six.
+
+			MAVERICK
+
+	Never mind mine. Check hers.
+
+	They turn. Long legs, great ass, beautiful.
+
+			HOLLYWOOD
+
+	Her six is a ten! Uh oh, a turn to 
+
+	engage.
+
+	HIS POV - ACROSS A CROWDED ROOM
+
+	Maverick sees a stranger, and somehow he knows, he knows even 
+
+	then.  Wolfman turns, sees her walking too.
+
+			WOLFMAN
+
+	Bogey...9 o'clock level.
+
+			SUNDOWN
+
+	Nine thirty. Bogey?  You presume 
+
+	that hostile?
+
+			HOLLYWOOD
+
+	Well, we should contact and check 
+
+	it out.
+
+	She has turned toward them. She passes by. They start to make a 
+
+	move for her. But just then she finds her date at the bar; a 
+
+	distinguished man with Captain's stripes. Their smiles freeze and 
+
+	they slide back in their chairs. Maverick can't stop looking at 
+
+	her...After a while, the intensity of his gaze draws her 
+
+	attention. She feels him. She is nodding and smiling to her date, 
+
+	but her eyes scan the room like radar. A warning tone goes off in 
+
+	his brain dolu dolu dolu as they lock on him. He feels that 
+
+	thrill of excitement and fear you get when you know you're 
+
+	targeted in someone's scope. Her eyes hold on him for a long 
+
+	moment...long enough, and then sweep by the rest of the room. She 
+
+	turns her attention back to the Captain and laughs at something 
+
+	he says.
+
+	Over in a corner, Goose chats up a couple of San Diego girls.
+
+			GOOSE
+
+	The family unit -- that's the most 
+
+	important thing. It's the only 
+
+	thing you can count on. I'm married 
+
+	--did I tell you that?
+
+			FIRST GIRL
+
+	Four times. We don't believe you.
+
+			GOOSE
+
+	I've been married since I was 
+
+	eighteen. Why don't you believe me?
+
+			SECOND GIRL
+
+	Because you don't look married. 
+
+			FIRST GIRL
+
+	You're not even wearing a ring.
+
+			GOOSE
+
+	    (big smile)
+
+	I take it off when I'm chasing 
+
+	women. It's the only honorable 
+
+	thing to do.
+
+	ANGLE - MAVERICK
+
+	He's half listening to Bugs rattle on.  His eyes are drawn back 
+
+	to the woman. He tries not to stare. She seems to know a lot of 
+
+	people in the club. He looks away. Hollywood is chatting up a 
+
+	girl with a sincerity that cannot be taught. His line is just as 
+
+	polished as his appearance.
+
+			HOLLYWOOD
+
+	You don't think about death up 
+
+	there, but you think a lot about 
+
+	the danger. One mistake and you're 
+
+	a smoking hole in the ground.
+
+			GIRL
+
+	I never knew it was so dangerous.
+
+			HOLLYWOOD
+
+	Oh yeah, it makes everything down 
+
+	here more meaningful. You feel a 
+
+	certain intensity of life, and you 
+
+	want to grab onto every moment.
+
+	Maverick looks up at the bar again. A shock. She (Charlie) is 
+
+	staring right at him, intensely, as her date whispers something 
+
+	in her ear. She notices him, staring back, quickly looks away, 
+
+	embarrassed. She says something to the man. He nods and turns 
+
+	away as someone else grabs his attention. The woman, now wouldn't 
+
+	look this way for anything. She picks up her purse from the bar 
+
+	and walks through the crowd and out of the room. Impulsively, 
+
+	Maverick's up, he follows. 
+
+	46.  INT. HALLWAY - OUTSIDE THE BAR
+
+	He breaks out, looks around, doesn't see her. Someone disappears 
+
+	around a corner. He moves after.
+
+	CORNER - A door slams shut. Impulsively, before he realizes what 
+
+	he is doing, he's through it. 
+
+	47.  WOMEN'S ROOM. 
+
+	A feminine GASP!  He should have looked at the sign on the door. 
+
+	The realization of where he is hits him too late. She is standing 
+
+	by the mirror, with her make-up out, looking back at him. He's 
+
+	not quite sure what to do. A hasty retreat would be appropriate, 
+
+	if embarrassing. Ah, what the hell, he is a fighter pilot!  He 
+
+	just walks right over to her...no idea what he will say. She's 
+
+	got her lipstick out, twisting it. She looks over at him with an 
+
+	amused smile.
+
+			CHARLIE
+
+	Long cruise, was it?
+
+	She leans over the sink, puts on lipstick, sees his eyes cover 
+
+	her.
+
+			CHARLIE
+
+	Anything I can do to help, Lieutenant?
+
+			MAVERICK
+
+	Lots of things. 
+
+	She laughs. He is sort of attractive, but there are other girls 
+
+	in the room, she doesn't want to be too encouraging...She tries 
+
+	not to grin at his embarrassment.
+
+			CHARLIE
+
+	I'll bet!
+
+			MAVERICK
+
+	Uhhh...Anything I can do for you?
+
+	She laughs again, doesn't know what it is...could be chemical, 
+
+	but she's instinctively attracted.
+
+			CHARLIE
+
+	Yeah. Hold this. It might be safer.
+
+	She hands him a makeup mirror. Starts redoing her lipstick. He 
+
+	just stares at her...She looks up at him, than back to her 
+
+	warpaint. Finally, when it comes, it is cool and amused.
+
+			CHARLIE
+
+	Now I know why all the girls come 
+
+	here. They know how horny you guys 
+
+	get. But this...is ridiculous.
+
+			MAVERICK
+
+	It's not that.
+
+	Mock anger. She's toying with him.
+
+			CHARLIE
+
+	It isn't?
+
+			MAVERICK
+
+	Well, it is. It is that, too.
+
+			CHARLIE
+
+	That's a big comfort to me.
+
+			MAVERICK
+
+	I could be, too.
+
+	 		CHARLIE
+
+	How so?
+
+			MAVERICK
+
+	Save you from a big mistake with 
+
+	that other guy.
+
+			CHARLIE
+
+	And on to a bigger one with you?
+
+			MAVERICK
+
+	Yeah, most likely.
+
+			CHARLIE
+
+	Was there ever a girl who didn't 
+
+	like fighter pilots?
+
+			MAVERICK
+
+	I heard of one once.
+
+	She laughs again, shakes her head...another cowboy! She gently 
+
+	takes the compact out of his hands, snaps it closed.
+
+			CHARLIE
+
+	I'm really flattered, Lieutenant, 
+
+	but I don't go out with pilots.
+
+			MAVERICK
+
+	Then what are you doing here?
+
+	Three pretty blondes enter and look at Maverick quizzically but 
+
+	not without interest.
+
+			CHARLIE
+
+	I think the question is...what are 
+
+	you?
+
+	She tries to keep a straight face as she walks out of the room. 
+
+	The other girls look at him expectantly.  A beat.  He just 
+
+	stands there, then realizes he's holding her lipstick. 
+
+			MAVERICK
+
+	Hi. I'm here to talk about a new 
+
+	concept in cosmetics...
+
+	47A.  WOXOF BAR. She returns, spots the Captain, motioning to 
+
+	her.  Maverick enters, goes to the other end of the bar. He 
+
+	orders a drink. It comes. He drinks it, pays for it, moves off 
+
+	toward the door. Someone backs into his path, he moves quickly 
+
+	and bumps into someone else; her. 
+
+			CHARLIE
+
+	Sorry.
+
+	She sees it's him.
+
+			MAVERICK
+
+	My fault. Should have watched
+
+	where I was going.
+
+	Her hand goes to his collar. She adjusts his insignia. She 
+
+	smiles.
+
+			CHARLIE
+
+	Where's your wing man? Who's 
+
+	watching your six?
+
+			MAVERICK
+
+	Uh, nobody, I guess.
+
+	One final adjustment.
+
+			CHARLIE
+
+	Too bad.
+
+	She breaks the spell abruptly, turns away.
+
+			CHARLIE
+
+	See you around.
+
+	Maverick finds his voice.
+
+			MAVERICK
+
+	Can I walk you out?She turns back to him, a smile.
+
+			CHARLIE
+
+	I'm with someone. 
+
+	48.  EXT. "O" CLUB - LATER THAT NIGHT
+
+	P.O.V. - 
+
+	From a car in the parking lot, we see Charlie and the Captain 
+
+	leave the club. They walk directly toward us and stop. She turns, 
+
+	says something polite...a peck on the cheek. He turns away. A 
+
+	dome light briefly illuminates the interior of the car as a door 
+
+	opens. It rocks slightly as someone gets in. Charlie turns back 
+
+	and walks over, taking her keys out. She opens the door to the 
+
+	car and gets in. 
+
+	48A.  EXT. CAR - NIGHT
+
+	She starts the car and pulls away. Suddenly, a figure sits up in 
+
+	the back.
+
+			MAVERICK
+
+	I thought he'd never leave.
+
+			CHARLIE
+
+	Yeow!
+
+	Startled, she nearly drives off the road. She turns to him, 
+
+	startled.
+
+			CHARLIE
+
+	You! What are you doing here?
+
+			MAVERICK
+
+	Everybody's got to be somewhere.
+
+			CHARLIE
+
+	What if Captain Dawson had come 
+
+	with me?
+
+			MAVERICK
+
+	It would have been really 
+
+	embarrassing!
+
+			CHARLIE
+
+	How did you know this was my car?
+
+			MAVERICK
+
+	Simple deduction. It's fast. It's 
+
+	pretty. Sleek and stylish...It's 
+
+	your color...matches your lipstick.
+
+			CHARLIE
+
+	That's all!
+
+			MAVERICK
+
+	And I asked someone.
+
+			CHARLIE
+
+	You think you're pretty smart.
+
+			MAVERICK
+
+	I think I'm in love.
+
+	49.  EXT. GUARD GATE
+
+	She pulls up at the guard gate, a MARINE CORPORAL is on duty. He 
+
+	sees the pretty girl pull up and stop, leans over helpfully.
+
+			MARINE
+
+	Can I help you, Ma'am?
+
+	She smiles even more sweetly.
+
+			CHARLIE
+
+	I don't know, Corporal. Can you do 
+
+	anything about this lunatic?
+
+	The car door swings open. Maverick gets out. The car roars away. 
+
+	He stands in the glare of the spotlight...rocking on his heels, 
+
+	looking across at the guard, who snaps to attention and stares 
+
+	holes in his chest.
+
+	50.  INT. TOP GUN - NEXT MORNING. 
+
+	Two guys in flight suits run down stairs past stencils of MiG 
+
+	kills on walls, then down corridor.
+
+			FLEX
+
+	Not so fast...my head.
+
+	They skid to stop outside a door.
+
+	51.  INT. HANGAR
+
+	Ground crews work on planes in B.G. Jester in middle of lecture.
+
+	Door bursts open. Sundown and Flex skid to a halt when they see 
+
+	whole class looking at them.
+
+			JESTER
+
+	Who are you?
+
+			SUNDOWN
+
+	I'm Sundown.
+
+			JESTER
+
+	Yeah, right. You're late.
+
+	Viper breaks in, indicating Flex.
+
+			VIPER
+
+	And who are you?
+
+			FLEX
+
+	Flex 
+
+			VIPER
+
+	Flex...? You don't look like Flex  
+
+	to me. You call that muscle? 
+
+	Doesn't look like muscle. Looks 
+
+	like...Pork.
+
+	They laugh. Even Sundown has to laugh, scratching his chest.
+
+			VIPER
+
+	What're you laughing at? You're 
+
+	Fungus.
+
+	Stops scratching.
+
+			SUNDOWN/FUNGUS
+
+	Fungus!
+
+			PORK
+
+	Don't make an issue of it, it'll 
+
+	stick.
+
+			FUNGUS (Unhappily)
+
+	It'll stick anyway. 
+
+	Viper turns away...
+
+			VIPER
+
+	Now to continue. In this class we 
+
+	will be dealing with F-5's and 
+
+	A4's, as our MiG simulators. 
+
+	Technically the F-5 does not have 
+
+	the thrust to weight ratio of the 
+
+	MiG-21--it also does not bleed 
+
+	energy below 300 knots like the 
+
+	MiG-21 does. The A4 does not turn 
+
+	as well as the MiG-17 but has 
+
+	significantly better visibility.
+
+	Maverick looks back to his notes. SFX footsteps...door 
+
+	opening. Viper looks up to back of room door.
+
+			VIPER
+
+	Hi, Charlie. Good, our TAGREF's 
+
+	here. Charlie's the most qualified 
+
+	to get into P subs and curves, and 
+
+	VN diagrams.
+
+	Maverick turns to see the TAGREF walk forward.  Maverick 
+
+	stares at her as she passes without acknowledging him. He is 
+
+	surprised, embarrassed.
+
+			VIPER
+
+	Charlotte Blackwood--code name Charlie-- 
+
+	not your ordinary TAGREF. Charlie has 
+
+	her Ph.D. in astrophysics--she's a 
+
+	civilian contractor so you don't salute 
+
+	her...or anything else. Is that clear?
+
+	She walks to the front and starts her presentation. She 
+
+	talks about something very technical, arcane. MiG tactics, 
+
+	technology. As the briefing rattles on, Maverick reacts to 
+
+	her. Goose glances over at him. He, too, recognizes the girl. 
+
+	He looks at his partner. Maverick feels his stare.
+
+			CHARLIE
+
+	Hello, I think I have some new data for 
+
+	you...Now a MiG 21 has a problem with 
+
+	the inverted flight tanks. It won't do a 
+
+	Negative G push over. Even below one G, 
+
+	they risk a flame out. Operationally, 
+
+	they will do a zero to one G only.
+
+	A snicker from the audience. She hesitates momentarily, goes 
+
+	on.
+
+			CHARLIE
+
+	The latest intelligence shows that 
+
+	the most they will do in operation 
+
+	is one....is there something wrong, 
+
+	Lieutenant.
+
+			MAVERICK
+
+	I don't think you're altogether 
+
+	right...about the MiG, that is.
+
+	She stops--some of the pilots look at him. Viper glares.
+
+			CHARLIE
+
+	I beg your pardon.
+
+			MAVERICK
+
+	No, I beg yours. But I don't think 
+
+	you're right on that.
+
+			CHARLIE
+
+	Why not?
+
+			MAVERICK
+
+	I saw one.
+
+			CHARLIE
+
+	You saw a MiG 21?
+
+			MAVERICK
+
+	I saw a MiG do a 4 G negative dive.
+
+			CHARLIE
+
+	    (She doesn't believe him)
+
+	Where did you see that?
+
+			MAVERICK
+
+	It's classified.
+
+	Nervous buzz in the room. Viper goes rigid. Charlie can't 
+
+	believe it.
+
+			CHARLIE
+
+	It's what?
+
+			MAVERICK
+
+	It's classified. Like Hollywood 
+
+	says, I could tell you, but then 
+
+	I'd have to kill you.
+
+	Pork stifles a laugh, the others chuckle. Viper is 
+
+	embarrassed.
+
+			VIPER
+
+	Maverick!!!
+
+	She stops Viper with a glance.
+
+			CHARLIE
+
+	It's all right.
+
+	She can handle it. She is very cool, not overbearing. She 
+
+	says it calmly. She doesn't want to embarrass him any more 
+
+	than he is, but she has to get the facts straight.
+
+			CHARLIE
+
+	 Lieutenant, I have a top secret 
+
+	clearance. The Pentagon sees to it 
+
+	that I know more than you.
+
+			MAVERICK
+
+	Not in this case.
+
+			CHARLIE
+
+	    (Flatly.)
+
+	You saw a MiG push negative 4G?
+
+			MAVERICK
+
+	Yes, ma'am.
+
+			CHARLIE
+
+	Where were you?
+
+			MAVERICK
+
+	On his six.
+
+	Little stifled laughs.
+
+			CHARLIE
+
+	He was in a 4G Negative dive and 
+
+	you were on his six?
+
+			MAVERICK
+
+	Yes, ma'am, At first. Then I was 
+
+	directly above him.
+
+	She stares at him for a moment, then she has him. She goes 
+
+	for the kill.
+
+			CHARLIE
+
+	If you were directly above him, how 
+
+	did you see him?
+
+			MAVERICK
+
+	I was inverted.
+
+	A real buzz in the room.  Ice laughs audibly.
+
+			CHARLIE
+
+	You were in a 4G inverted dive with 
+
+	a MiG 21?   (She can't believe it.)
+
+	At what range ?
+
+			MAVERICK
+
+	Two.
+
+			CHARLIE
+
+	Two miles.
+
+			MAVERICK
+
+	Two meters.
+
+	Chuckles, barely suppressed. Goose pipes up to deflect 
+
+	attention.
+
+			GOOSE
+
+	One and a half, actually. I got a 
+
+	polaroid.
+
+			CHARLIE
+
+	    (Flatly.)
+
+	Lieutenant...
+
+			MAVERICK
+
+	Ma'am?
+
+			CHARLIE
+
+	What were you doing there?
+
+			MAVERICK
+
+	Giving him the bird.
+
+	Open laughter. She thinks it's at her. She grows red.
+
+			CHARLIE
+
+	The what?
+
+			MAVERICK
+
+	You know. The finger.
+
+	He shows her, but she can handle this. 
+
+			CHARLIE
+
+	So you're the reason those
+
+	SALT talks failed.
+
+	The room breaks into laughter. At him. Now he grows red. 
+
+	Goose puts his hand on Maverick's arm, shakes his head as if 
+
+	to say: "Let it go, pal, she got you". 
+
+	She looks at Viper. He doesn't know whether to laugh or cry. 
+
+	He knows there's something here he doesn't control.
+
+			VIPER
+
+	Lieutenant!
+
+			GOOSE
+
+	It's just like he says, sir.
+
+			VIPER
+
+	    (He snaps)
+
+	I don't care!
+
+	51A. CORRIDOR - OUTSIDE LECTURE HALL
+
+	She walks away. He runs up and stops her.
+
+			MAVERICK
+
+	Why didn't you tell me you were a 
+
+	TAGREF?
+
+	She studies him coolly for a moment, like a specimen.
+
+			CHARLIE
+
+	It never came up.
+
+			MAVERICK
+
+	You let me make a fool of myself.
+
+			CHARLIE
+
+	You seemed determined to do that 
+
+	anyway.. Why didn't you tell me you 
+
+	were a famous MiG insulter?
+
+			MAVERICK
+
+	Would it have made a difference? 
+
+			CHARLIE
+
+	No.
+
+			MAVERICK
+
+	What would?
+
+			CHARLIE
+
+	You know, I'm assigned to this 
+
+	school. I see sixteen new hotshots 
+
+	every eight weeks. Your attention 
+
+	is flattering, but not really 
+
+	productive. Why don't you keep your 
+
+	mind on flying.
+
+	She reaches over and aligns his collar insignia.
+
+			CHARLIE
+
+	Why can't you keep this straight?
+
+	She smiles at him and walks away. Maverick turns, sees the 
+
+	others sizing him up. Most of them grin. Maverick moves down 
+
+	the corridor past the CO's Office. Viper leans against the 
+
+	doorsill. He lights a pipe, laconically eyes Maverick. His 
+
+	tone gives away nothing, like an ELINT probe eliciting a 
+
+	response.
+
+			VIPER
+
+	Maverick... Where'd you get that 
+
+	call sign?
+
+			MAVERICK
+
+	Ahhh... Runs in the family, sir.
+
+			VIPER
+
+	You're father was Marvin Mitchell..
+
+			MAVERICK
+
+	Yes sir.
+
+			VIPER
+
+	A good man. Good flyer.
+
+	Viper turns away. 
+
+			MAVERICK
+
+	Yes sir. Thank you sir.
+
+	Maverick watches him for a beat, he's been tested, but he's 
+
+	not sure how or why. He turns to catch up with Goose and the 
+
+	others.
+
+	EXT. SKY - LATER
+
+	At twenty-eight thousand feet, the two planes circle each 
+
+	other, going in opposite directions. As they jockey for 
+
+	position, they snap past each other like ends of bullwhips.
+
+	The earth spins, the horizon appears and disappears. With 
+
+	each hard turn, Maverick and Goose can be heard "grunting" to 
+
+	keep blood in their brains, to keep from passing out.
+
+	The fight is hard, physical, and exhausting. The extreme G 
+
+	forces--6.5--flatten them against their seats, causing their 
+
+	heads to weigh over one hundred pounds. Maverick strains to 
+
+	turn his head and track the other jet as it streaks past at 
+
+	Mach One. 
+
+			MAVERICK
+
+	I've lost him -- where is he?
+
+			GOOSE
+
+	On your six -- coming hard. Four 
+
+	hundred. Losing airspeed! He's on 
+
+	your six and closing fast!
+
+	Hard left! HARD LEFT!
+
+	Maverick jerks the stick left, and the F-14 takes an 
+
+	astonishing turn. Jester ROARS past into a wide arc.
+
+			GOOSE
+
+	Great move. Great
+
+			MAVERICK
+
+	He should've had me.
+
+			GOOSE
+
+	Take it down. Let's bug out of 
+
+	here. Call for a draw.
+
+			MAVERICK
+
+	No way. I'll nail him this time. 
+
+	Going vertical.
+
+	THE PLANE EXPLODES INTO AFTERBURNER - rocketing toward 
+
+	space. Jester is left in direct line with the sun, and his 
+
+	canopy is sprayed with a blinding glare. Going ballistic is 
+
+	dangerous. The plane flys like a bullet, obeying the laws of 
+
+	physics, not the pilot's touch on control surfaces. The 
+
+	ballistic call warns other aircraft that he is, for the 
+
+	moment, out of control.
+
+			GOOSE
+
+	He's blind -- you got him!
+
+			JESTER
+
+	NO JOY! NO JOY! WHERE ARE YOU?
+
+	I'VE LOST SIGHT.
+
+			GOOSE
+
+	He's out of energy! You got 
+
+	control? Unload!
+
+	The F-14 peels over the egg, in a backward dive. It rockets 
+
+	down the outside, gaining energy. Over the ROAR of jets, the 
+
+	SCREAM of the wind, Goose shouts data, but it is muffled, a 
+
+	distant voice in a typhoon. Through the canopy, we see 
+
+	Jester, and he hangs in the air like a sparrow in the path of 
+
+	a falcon.
+
+	PILOT'S POV - HUD in windscreen - a diamond in a box. 
+
+	Maverick lines up the diamond with Jester, and we hear the 
+
+	high pitched tone BEEPING.
+
+			JESTER
+
+	WE'RE BELOW THE HARD DECK. FIGHT'S 
+
+	OFF.
+
+			GOOSE
+
+	He's right. We're at ten thousand.
+
+			MAVERICK
+
+	No way. I got you, sucker. You're 
+
+	going down.
+
+	Jester maneuvers, but Maverick keeps him in the gunsight. 
+
+	The BEEPING is louder, faster.
+
+			MAVERICK
+
+	In the envelope. FOX TWO MISSILE 
+
+	SHOT. YOU'RE GONE, JESTER, DEAD! 
+
+			GOOSE
+
+	    (stunned)
+
+	Goddamn! We beat him!
+
+	There is an edge of anger in Jester's voice.
+
+			JESTER
+
+	ROGER FOX TWO. GET YOUR BUTTS ABOVE 
+
+	THE HARD DECK. RETURN TO BASE 
+
+	IMMEDIATELY.
+
+	They are brought up short for a moment, then the thrill of 
+
+	victory gets the best of them. Goose lets out a war whoop. 
+
+	The F-14 sweeps up, rolls into an Immelman..
+
+			MAVERICK
+
+	We did it!
+
+			GOOSE
+
+	Look, Ma, top of the world!
+
+	52A.  EXT. MIRAMAR - LANDING PATTERN.
+
+	Maverick's Tomcat breaks hard and high, rolls over on its 
+
+	side, wings perpendicular to the ground. Goose sees the world 
+
+	go sideways.
+
+			GOOSE
+
+	Ahhh...A little high on the left, 
+
+	don't you think?
+
+			MAVERICK
+
+	Right.
+
+	He aileron rolls another quarter turn. Inverted, they pass 
+
+	right down the runway.  Goose looks out and insouciantly 
+
+	watches the world go by at 300 knots, upside down.
+
+			GOOSE
+
+	Right. Much better. ...Ahhh...what 
+
+	do you call this?
+
+			MAVERICK
+
+	It's a victory roll.
+
+			GOOSE
+
+	I wouldn't call it victory.  It's 
+
+	more like...self immolation.
+
+	52B.  INT. CONTROL TOWER 
+
+	Controllers work. Officers watch the landing activity. One 
+
+	old salt, turns from the coffee machine, a cup of steaming 
+
+	Java microns from his lips. A ROAR. VABOOM! The Tomcat roars 
+
+	over. He yelps as hot coffee flys all over his shirt.         
+
+	                                                    52C.  
+
+	EXT. MAVERICK'S F-14
+
+	They complete the roll, bank left, zoom right by the tower, 
+
+	level with the observation window. 
+
+	52D.  F-14'S POV. Controllers look out at the F-14, mouths 
+
+	drop open. 
+
+	52E.  ANGLE GOOSE
+
+	He waves jauntily.
+
+			GOOSE
+
+	Hi...Hi there. How ya doing in 
+
+	there?  Mav... Ahhh...you know, at 
+
+	one point I did want a Navy career.
+
+			MAVERICK
+
+	Come on, relax...
+
+			GOOSE
+
+	You see all those guys with gold on 
+
+	their shoulders!!?... Oh, no, I 
+
+	think that was Johnson, Air Boss of 
+
+	the Kitty Hawk! 
+
+			MAVERICK
+
+	Come on, we beat an instructor. How 
+
+	many times in your life do you get 
+
+	to do a victory roll? 
+
+			GOOSE
+
+	Just once, if they take your plane 
+
+	away.
+
+	They roll out, break over the runway.
+
+	                                                      ***
+
+	52F.  EXT. FLIGHTLINE. 
+
+	Maverick and Goose walk by parking Tomcats...Ice is 
+
+	unstrapping, Slider is climbing down. Ice looks at Maverick, 
+
+	says one word.
+
+			ICEMAN
+
+	Cowboys!
+
+	Maverick keeps walking...Goose hangs back.
+
+			SLIDER
+
+	Nice. Always a good idea to show up 
+
+	your instructors.
+
+	He nods toward Jester, glaring at them from his A4. Goose 
+
+	indicates the backseat of the Tomcat.
+
+			GOOSE
+
+	Hey, see any controls back there? 
+
+	   (thinks about team loyalty, 
+
+	   reacts to Jester's glare...)
+
+	And anyway...we beat the Son of a 
+
+	Bitch!
+
+	He turns and runs to catch up with Maverick.
+
+	53.  INT. LOCKER ROOM - DAY
+
+	Pilots half undressed. Maverick and Goose enter the room, 
+
+	carrying their helmets. The students look up at them, and 
+
+	Goose suddenly flashes a thumb's up sign with a grin. The 
+
+	students react with clenched fists, ad libs, high fives, 
+
+	victory punches.
+
+			WOLFMAN
+
+	You won?!!!
+
+			MAVERICK
+
+	Didn't everybody?
+
+	"Oooo" -- they all go "ooo" and laugh.
+
+			WOLFMAN
+
+	No, we...got our butts kicked.
+
+			HOLLYWOOD
+
+	Thirty seconds. That's all it took 
+
+	to blow us out of the sky.
+
+			WOLFMAN
+
+	We went like this, he went like 
+
+	that. I say to Hollywood: Where'd 
+
+	he go? Hollywood says: where'd who 
+
+	go?
+
+			HOLLYWOOD
+
+	And he's laughing. Right over the 
+
+	radio, He's laughing at us.
+
+	Attention turns to the doorway as Ice and Slider enter. Ice 
+
+	gives a brief dramatic pause, then flashes thumbs up and 
+
+	smiles. The students celebrate Ice's win.  Ice handles the 
+
+	attention with the easy composure of one who is used to it. 
+
+	Maverick ignores him and begins to peel out of his G-suit. 
+
+	Ice moves toward his locker.
+
+	                                                      ***
+
+			GOOSE
+
+	You won. 
+
+	Congratulations.		HOLLYWOOD
+
+	Maverick and Goose won too.
+
+	Ice talks into his locker.
+
+			ICE
+
+	That's not what I heard.
+
+			GOOSE
+
+	We won! 
+
+	Ice turns back, stares them down, then turns back into his 
+
+	locker, dismissing them.
+
+			ICE
+
+	Below the hard deck doesn't count. 
+
+	You guys are the second team, 
+
+	aren't you?
+
+	Maverick gets up, moves to him, starts to say something, 
+
+	when Jester, breaks into the room.
+
+			JESTER
+
+	Maverick, Goose. Viper's office. Now!
+
+	53A. INT. TOPGUN CORRIDOR OUTSIDE CO'S OFFICE.
+
+	SCREAMING AND YELLING.  A lot of screaming and yelling, 
+
+	muffled by the door.
+
+	53B. INT. ANTEROOM. 
+
+	Enlisted Yeomen and Chiefs go about their clerical duties in 
+
+	acute embarrassment mixed with curiousity. Behind the CO'S door, 
+
+	someone is screaming his head off.
+
+	BOOM! The door bursts open. A big, brawling Officer - Johnson, 
+
+	the Air Boss - blasts out, nearly smashing into a female petty 
+
+	officer. She almost spills her coffee. Johnson looks right and 
+
+	left in fury too strong for words. He looks like he wants to 
+
+	smash something. They move out of his way, but he justs blasts 
+
+	through the door and disappears down the hall.
+
+	The enlisted men turn to Viper's office.
+
+	53D  THEIR POV
+
+	Jester stands inside stonefaced. Maverick and Goose are 
+
+	rigid. Viper...with excess calm deliberation, softly walks 
+
+	over, grasps the doornob. He glances in this direction. The 
+
+	glance is totally without expression, and even scarier for 
+
+	that.
+
+	                                                  ***
+
+	53D. ANGLE ENLISTED (MEN)
+
+	In a flash, each man finds something totally engrossing in 
+
+	his work, or something terribly important to do elsewhere. 
+
+	Slowly, steadily, Viper swings his door closed.54.  INT. 
+
+	VIPER'S OFFICE 
+
+	He moves over to face Maverick. There is a SILENCE like 
+
+	after a train wreck; nothing but the POPPING of sprung metal 
+
+	and the low GASP of escaping steam. Viper speaks quietly, 
+
+	like a funeral director consoling the living. Makes you want 
+
+	to scream.
+
+			VIPER
+
+	Well....That about covers the 
+
+	flyby. 
+
+	Jester almost breaks into a grin.
+
+			VIPER
+
+	Now...in addition...you broke two 
+
+	major rules of engagement. And... 
+
+	That's ...not good.
+
+	Maverick gives no response. Viper continues.
+
+			VIPER
+
+	Lieutenant Candela lost sight of 
+
+	you, and called "no joy". You 
+
+	failed to respond. 
+
+	He stops and looks at Maverick... A beat. Maverick finally 
+
+	nods 
+
+			VIPER
+
+	Why?
+
+	Maverick is exhausted. It's been a long, rough day. His 
+
+	voice is a horse whisper.
+
+			MAVERICK
+
+	I had him in view. I was peeling 
+
+	over the egg, into a dive. He saw 
+
+	me when I moved in for the kill. 
+
+	There wasn't any danger...
+
+			VIPER
+
+	    (to Goose)
+
+	Is that how you remember it?
+
+			GOOSE
+
+	Yes, sir. By the time we could 
+
+	respond, we were diving right into 
+
+	his view.
+
+	Viper is not satisfied with the answer, but he moves on.
+
+			VIPER
+
+	The hard deck for this hop was ten 
+
+	thousand feet. Jester, at what 
+
+	point did you call off the fight?
+
+			JESTER
+
+	Just below ten thousand.
+
+			VIPER
+
+	But you continued to fight.
+
+	Another pause, another grudging nod.
+
+			VIPER
+
+	Why?
+
+			MAVERICK
+
+	We weren't below for more than ten 
+
+	seconds. There was no danger. I had 
+
+	the shot. I took it.
+
+			VIPER
+
+	The rules of engagement are not 
+
+	flexible. They exist for your  
+
+	safety. You will obey them.
+
+	Is that clear?
+
+	Maverick thinks about continuing the discussion, but the 
+
+	thought is momentary. He quickly cuts his losses, gives Viper 
+
+	what he thinks he wants...He is just on the cusp of too 
+
+	sincere.
+
+			MAVERICK
+
+	Yes sir, perfectly clear. I guess 
+
+	we were ...I was... just a little 
+
+	over enthusiastic.
+
+	Viper measures him for a moment, then lets it go.
+
+			VIPER
+
+	I guess you were. Dismissed.
+
+	Maverick and Goose leave the room. Viper looks at Jester, 
+
+	picks up Maverick's fitness report. Doesn't read it, looks 
+
+	back at Jester.
+
+			JESTER
+
+	I don't know what to tell you, 
+
+	Skip.
+
+			VIPER
+
+	Tell me one thing.
+
+	Jester waits.
+
+			VIPER
+
+	...If you had to go into combat, 
+
+	would you want him with you?
+
+	Jester turns, walks slowly around the room. The walls are 
+
+	lined with pictures; planes and pilots...history. There are 
+
+	MiG killers, attack squadrons, ground personnel...There's one 
+
+	picture of a Phantom in flight with the backseater mooning 
+
+	the camera. Other pictures show carriers, famous flyers, 
+
+	previous CO's. Finally Jester replys.   
+
+			JESTER
+
+	Yep.
+
+	Viper slaps shut the fitness report. 
+
+			JESTER
+
+	He's seat of the pants... 
+
+	Completely unpredictable -- nothing 
+
+	by the book. All over the sky. But 
+
+	I don't know, Skip, he's really got 
+
+	something.
+
+			VIPER
+
+	Yeah, we get one of these guys 
+
+	every damn class.  (laughs) 
+
+	"Maverick!" 
+
+	He throws the report on the desk.
+
+			JESTER
+
+	Yup, a wild pony.
+
+	55.  OMITTED
+
+	56.  INT. COCKPIT - NIGHT
+
+	Wind ROAR, jet WHINE. Hollywood and Wolfman are being thrown 
+
+	about as Hollywood fights the stick.
+
+			WOLFMAN
+
+	No. No. Look out, you lost it.
+
+	They depart flight. Tumble. The horizon swings wildly as 
+
+	they go into flat spin.
+
+			WOLFMAN
+
+	We're dead!
+
+	A face appears at 12,000 feet, right in front of their 
+
+	canopy. Goose's eyes bug at them.
+
+			GOOSE
+
+	Man, you guys gooned it. Your laser 
+
+	butts are scattered across KANSAS.
+
+			HOLLYWOOD
+
+	    (disgusted with himself)
+
+	Come on. I died enough for one 
+
+	night.
+
+	56A.  EXT. COCKPIT
+
+	They climb out of the simulator - A cockpit sprung on 
+
+	moveable rams, surrounded by a dome on which video images are 
+
+	projected.
+
+	As they climb down, Maverick and Goose climb up into the 
+
+	cockpit to take their place.
+
+			GOOSE
+
+	Have you guys ever considered 
+
+	career counseling?
+
+	57. OMITTED
+
+	56B. SIMULATOR CONTROL ROOM - Filled with computers, tape 
+
+	transports and video screen representations of computer 
+
+	generated combat. Now Maverick flies it as Charlie and other 
+
+	techs watch.
+
+	56C. COCKPIT
+
+	Maverick flys the heck out of it. It's real. It lurches and 
+
+	bumps, the NOISES and sights look real. He gets on the tail 
+
+	of a MiG. It breaks, he breaks, then what he does is just too 
+
+	fast to follow. It screams around in a turn. Suddenly, there 
+
+	is a WHUMMP...ALARMS...the lights come on.
+
+			GOOSE
+
+	What happened.
+
+			TECH (V.O. FILTERED)
+
+	What did you do in there?
+
+			GOOSE
+
+	What did you do? You broke it!
+
+	58. COMPUTER ANALYSIS ROOM 
+
+	Maverick and Goose enter. The techs cluster around the 
+
+	keyboards trying to reprogram, to figure out what went wrong.
+
+			CHARLIE
+
+	You flew it off the template. 
+
+	Nobody ever did that before.
+
+			GOOSE
+
+	That's what she said last night.
+
+	She stares at Goose until he grins and moves off to give the 
+
+	others his valuable opinions on how to reprogram the 
+
+	computers.
+
+			CHARLIE
+
+	What is it about you?
+
+	He just shrugs at her and smiles.
+
+			MAVERICK
+
+	What would you say, too fast...too 
+
+	quick...
+
+			CHARLIE
+
+	And far too aggressive.
+
+			MAVERICK
+
+	It is combat. Every second counts. 
+
+			CHARLIE
+
+	The hottest moves in the world 
+
+	aren't gonna help you if you wind 
+
+	up alone.  Your wingman's got to be 
+
+	able to follow you. Trust you. Know 
+
+	that he can depend on you. It's 
+
+	more than just fancy flying.
+
+			MAVERICK
+
+	Well, what you need...what you have 
+
+	to keep looking for...what you want 
+
+	to get is a wingman who can stay up 
+
+	with you. Who can match you move 
+
+	for move. Then you've got 
+
+	something.  I'm sorry.
+
+			CHARLIE
+
+	For what?
+
+			MAVERICK
+
+	That stuff about the MiG. I was out 
+
+	of line.
+
+			CHARLIE
+
+	Apology acknowledged.
+
+			MAVERICK
+
+	Is that all?
+
+			CHARLIE
+
+	What else do you want?
+
+			MAVERICK
+
+	Um. You.
+
+			CHARLIE
+
+	There you go with those moves 
+
+	again.
+
+			MAVERICK
+
+	Too aggressive?
+
+			CHARLIE
+
+	I don't mix with the boys. I work 
+
+	here. Let's keep it professional.
+
+			MAVERICK
+
+	I'm special.
+
+			CHARLIE
+
+	   (laughs)
+
+	Yes. I'll give you that!
+
+			MAVERICK
+
+	Give me a break, I'm asking you 
+
+	out.
+
+			CHARLIE
+
+	I can't.
+
+			MAVERICK
+
+	I thought there was something... 
+
+	That night in the club...
+
+			CHARLIE
+
+	Lieutenant...
+
+			MAVERICK
+
+	Evan... or Maverick.
+
+			CHARLIE
+
+	Maverick...you know the rules of 
+
+	engagement.
+
+			MAVERICK
+
+	    (can't believe it.)
+
+		The what?
+
+			CHARLIE
+
+	Some one comes up hot on your six, 
+
+	what do you do?
+
+			MAVERICK
+
+	What are you talking about?
+
+			CHARLIE
+
+	You turn into him, check him out, 
+
+	identify friend or foe.
+
+			MAVERICK
+
+	I'm not your foe.
+
+			CHARLIE
+
+	And if he's harmless, you 
+
+	disengage.
+
+			MAVERICK
+
+	Harmless!
+
+			CHARLIE
+
+	Uh hum.
+
+			MAVERICK
+
+	What if he's not?
+
+			CHARLIE
+
+	You have to shoot him down....If 
+
+	he's smart, he'll turn away before 
+
+	that happens.
+
+			MAVERICK
+
+	Harmless. Nobody ever called me 
+
+	harmless before...
+
+			CHARLIE
+
+	And probably never again. It's 
+
+	nothing personal. It's just...I 
+
+	know a lot of pilots. Maybe I'm 
+
+	immune...
+
+			MAVERICK
+
+	Don't worry, I'm a new strain. And 
+
+	I don't give up. Everything I've 
+
+	ever wanted I've had to work like 
+
+	hell for. Well, how about it?
+
+			CHARLIE
+
+	How about what?
+
+			MAVERICK
+
+	How about anything, anything you 
+
+	want to do.
+
+			CHARLIE
+
+	Hard to argue with that, isn't 
+
+	it...
+
+			MAVERICK
+
+	A date... Coffee... A drink...A 
+
+	walk in the park.
+
+			CHARLIE
+
+	What about the plane?
+
+			MAVERICK
+
+	What plane.
+
+			CHARLIE
+
+	Most of them invite me to sit in 
+
+	the cockpit...play with the levers 
+
+	and things. 
+
+			MAVERICK
+
+	Well, get used to it.
+
+			CHARLIE
+
+	Used to what?
+
+			MAVERICK
+
+	I'm different. 
+
+			CHARLIE
+
+	I'm starting to sense that now.
+
+			MAVERICK
+
+	You're slow to engage. But you'll 
+
+	come around.
+
+	She pushes him out the door
+
+			MAVERICK
+
+	Let's make it at eight.
+
+			CHARLIE
+
+	Make what?
+
+			MAVERICK
+
+	Anything.
+
+			CHARLIE
+
+	Okay, anything. Just...go. I've 
+
+	gotta work.
+
+	She closes the door, turns back to her screen.
+
+	59 thru 61 OMITTED
+
+	***
+
+	59A.  BEACH LA JOLLA - DAY
+
+	A day off. Pilots, other personnel are enjoying a day at the 
+
+	beach. There are bikinis, and beer, sunfishes and water 
+
+	skiing. The annual Over-the-Line (a variation of softball) 
+
+	tournament is in progress. The team from the Teddy Kennedy 
+
+	Driving School is whipping another known as Scum de Terre. 
+
+	The pilots are doing pretty well at blowing off steam.
+
+	59B.  UNDERSEA
+
+	Undulating sea grass. Muffled HISS of the surf. A pretty 
+
+	fish comes into view. A spear shoots through it, and nails it 
+
+	to the ocean floor.
+
+	59C.  SHORELINE
+
+	Two figures pop to the surface and wade in to the beach. 
+
+	Maverick holds the wriggling fish. Charlie is repulsed. She 
+
+	pulls off her mask and snorkle, follows him in to shore..
+
+	59D. THE BEACH
+
+	They flop down. He drops the fish in front of her, sees her 
+
+	reaction at watching its death throes.
+
+			CHARLIE
+
+	Why'd you do that?
+
+			MAVERICK
+
+	   (surprised)
+
+	I had the shot.
+
+	She looks at him for a moment, then turns away, fiddles with 
+
+	her mask.
+
+			MAVERICK
+
+	It dies. We live.
+
+			CHARLIE
+
+	You're an animal.
+
+			MAVERICK
+
+	That's true. What are you?
+
+			CHARLIE
+
+	I don't enjoy watching things 
+
+	suffer.
+
+	He smashes the fish on a rock. It is still.
+
+			CHARLIE
+
+	No!
+
+			MAVERICK
+
+	It's not suffering anymore.
+
+			CHARLIE
+
+	   (she looks at him strangely,  
+
+	   half jokes)
+
+	You're horrible
+
+			MAVERICK
+
+	You're not, cause you eat frozen 
+
+	meatballs?   (he puts it down)
+
+	Things die. Every time you breathe, 
+
+	you kill millions of tiny 
+
+	organisms. Every time you eat, 
+
+	something had to die. 
+
+			CHARLIE
+
+	You don't have to kill it.
+
+			MAVERICK
+
+	Somebody does. It's more honest 
+
+	this way. You do your own dirty 
+
+	work.
+
+			CHARLIE
+
+	You ever think about killing 
+
+	another human being?
+
+			MAVERICK
+
+	About as much as they think about 
+
+	killing me.
+
+			CHARLIE
+
+	Does it bother you?
+
+			MAVERICK
+
+	They know the rules...(this is too 
+
+	strong for her, she turns away, he 
+
+	comes around to her.) That's the 
+
+	deal. That's why you're up there. 
+
+	It's him or me. That's the price of 
+
+	admission. (she draws away) It 
+
+	bothers you, why? You're part of 
+
+	it. (She stiffens, he's losing her. 
+
+	He softens)  Everybody dies. Most 
+
+	people don't get to die for 
+
+	something.
+
+	You don't want to confront it, do 
+
+	you. You want to keep it all clean, 
+
+	cerebral... velocity vectors, 
+
+	wing-load diagrams...You ever been 
+
+	up?
+
+			CHARLIE
+
+	Flying?
+
+			MAVERICK
+
+	You use your mind to keep things at 
+
+	a distance. You ever just let go?
+
+	She doesn't answer.
+
+			MAVERICK
+
+	You know what really scares me? 
+
+	Living too long. Losing my hair and 
+
+	my teeth...and my guts and my wind. 
+
+	And my brains...Sitting in a room 
+
+	with my hands in my lap, watching 
+
+	daytime TV. 
+
+			CHARLIE
+
+	You don't believe any of this. You 
+
+	don't think you'll ever die.
+
+			MAVERICK
+
+	That's it, of course. When I'm up 
+
+	there and doing it, I'm cheating it 
+
+	every second. I'm subverting all 
+
+	laws...gravity...whatever. I'm 
+
+	skating the edge of it.
+
+			CHARLIE
+
+	Winston Churchill.
+
+			MAVERICK
+
+	What?
+
+			CHARLIE
+
+	What he said..."There's nothing so 
+
+	exhilarating as being shot at 
+
+	without result."
+
+			MAVERICK
+
+	All you've got is one life. I guess 
+
+	it's worth about the same to every 
+
+	body. You ever see an old woman 
+
+	after her husband has died? And the 
+
+	meaningless years of decline 
+
+	stretch ahead...  When you're in 
+
+	the air and doing something really 
+
+	dangerous, you can look ahead... 
+
+	maybe ten seconds. That's your 
+
+	whole future. That's as far as it 
+
+	goes. But imagine what those 
+
+	seconds are worth.
+
+			CHARLIE
+
+	What if you kill yourself? Think of 
+
+	everything you'll miss.
+
+			MAVERICK
+
+	There is lots of stuff I don't know 
+
+	about...  Fine wine... great art... 
+
+	the opera. I guess if I live long 
+
+	enough, I'll get to it. If I don't, 
+
+	I'll never miss it.
+
+			CHARLIE
+
+	Are you really that brave?
+
+			MAVERICK
+
+	    (shakes his head no.)
+
+	I watched my mother die. Cancer. 
+
+	She had a long time to think about 
+
+	it. They say you reach an agreement 
+
+	with death. Come to accept the fact 
+
+	that pretty soon you won't be here. 
+
+	I didn't see that. She... was very 
+
+	brave...braver than I am. You go up 
+
+	there, there isn't time to think. 
+
+	If you make a mistake, you're just 
+
+	a smudge on the ground. Simplifies 
+
+	funeral arrangements.
+
+			CHARLIE
+
+	It's just as I thought.
+
+			MAVERICK
+
+	What?
+
+			CHARLIE
+
+	You're totally insane.
+
+			MAVERICK
+
+	   (he smiles)
+
+	Thanks very much.
+
+	   (he lifts the fish)
+
+	Care for some suchi?.
+
+	59E.  THE OTHER END OF THE BEACH - LATER
+
+	A killer volleyball game in progress. Maverick and Charlie 
+
+	wander toward it, talking softly to themselves. Goose runs up 
+
+	and grabs him away. 
+
+			GOOSE
+
+	Come on, we're next.
+
+			MAVERICK
+
+	What?
+
+			GOOSE
+
+	Come on, I got over six bucks on 
+
+	the line.
+
+	Maverick looks up and sees the other two-man team, the 
+
+	victors, waiting on the other side of the net for them. Of 
+
+	course it had to be Ice and Slider.Charlie sits and watches 
+
+	as the game gets immediately out of hand. In moments, 
+
+	Maverick and Ice rotate to forward positions directly 
+
+	opposite each other across the net. Other revelers turn to 
+
+	watch as it degenerates (?) to more than a game. Maverick 
+
+	glances at Charlie. He seems uncomfortable, but irrevocably 
+
+	drawn into the confrontation. She says nothing, but her 
+
+	attitude is apparent. Back to the game: Slider and Goose set 
+
+	them up, as they try to spike the ball in each other's face. 
+
+	The final point...up over the middle. They both go up, 
+
+	Maverick smashes, Ice blocks, but the ball sails away, off 
+
+	his forearm. For the first time ever, Maverick beats him. He 
+
+	looks over at Charlie, she is staring out to sea. She looks 
+
+	back at him and he's suddenly had enough competition. They 
+
+	call for another game, but Maverick turns away...
+
+			GOOSE
+
+	Come on, come on! It's double or 
+
+	nothing.. We're talking twelve 
+
+	bucks American, here.
+
+			MAVERICK
+
+	I've had enough...for now.
+
+	He grabs Charlie and his gear..
+
+			MAVERICK
+
+	Come on.
+
+			CHARLIE
+
+	Where?
+
+			MAVERICK
+
+	You want to go ballistic?
+
+			CHARLIE
+
+	I don't know. I don't like being 
+
+	out of control.
+
+	He looks back at Ice, bouncing the ball and staring at him.
+
+			MAVERICK
+
+	Stick with me, you'll get used to it.
+
+	59F.  EXT. DESERT
+
+	The Bike doing 130, 140, 150 mph. Charlie is unfazed. He 
+
+	turns to check her out, she smiles back at him.
+
+	CUT TO
+
+	59G.  EXT. RUSTIC ADOBE CANTINA - SUNSET
+
+	The bike is parked in front.
+
+	MONTAGE ON LOCKED OFF CAMERA - to show the passage of time...the 
+
+	latticed terrace, streaks of light. Maverick is feeding a dog. 
+
+	Charlie sits on a rail watching him.
+
+			MAVERICK
+
+	I always wanted to fly... ever 
+
+	since I first saw a jet. I wanted 
+
+	to fly jets, then I wanted F-14's, 
+
+	then I wanted to fly off carriers, 
+
+	then I wanted Top Gun.
+
+			CHARLIE
+
+	And now?
+
+			MAVERICK
+
+	And now I want you.
+
+			CHARLIE
+
+	You always get what you want?
+
+			MAVERICK
+
+	I don't know yet.
+
+	DISSOLVE
+
+	He puts money in jukebox. She watches him...eye to eye 
+
+	contact. The music comes on.
+
+			CHARLIE
+
+	I want it understood.
+
+			MAVERICK
+
+	Anything.
+
+			CHARLIE
+
+	No fooling on base, no signs,
+
+	no comments, no talk. By anyone.
+
+			MAVERICK
+
+	Why?
+
+			CHARLIE
+
+	I'm a professional. You guys are
+
+	in my line of work.
+
+	A long beat. He looks at her -- makes the pact: like a 
+
+	sailor.
+
+			MAVERICK
+
+	Acknowleged.
+
+	She looks at his eyes for any sign of a put-on, insincerity. 
+
+	Finally he smiles at her but she can read it. It's time. She 
+
+	moves in and covers his grin with a gentle kiss.
+
+	DISSOLVE
+
+	To them sitting within striking distance at a table. The dog 
+
+	sleeps beneath. Their eyes are now locked. The electricity 
+
+	almost arcs between them.
+
+	TCU Scrub pine table. Their fingertips touch.
+
+	TIGHT SHOT. Waist to head. Holding, close together, swaying 
+
+	in time with the music. Their lips gently brush.
+
+	60. 61. OMITTED
+
+	62.  EXT. DAY - DESERT - TACTS RANGE
+
+	An F-14 swoops over the desert, ROARS over an antenna 
+
+	complex.
+
+	The JET.- In it's missile rack, it carries a TACTS 
+
+	transponder. The TACTS Range is an area of the desert 
+
+	completely enveloped by computerized radar. The computers 
+
+	calculate a number of aircraft's positions and velocities by 
+
+	means of transponders in the ships and ground stations that 
+
+	talk to each other thousands of times a second.  Using this 
+
+	system, it is possible to track aerial combat instantaneously 
+
+	and give pilots directions and also to play back the combats 
+
+	for analysis.
+
+	63.  INT. TACTS RANGE TRAILER - DAY
+
+	The double viewing screens are five feet high; high 
+
+	technology, state of the art. On the screens are computer 
+
+	animated figures showing jets from various angles. Flight 
+
+	data is displayed. The operators punch buttons to show 
+
+	various points-of-view of the battle: a pilot's p.o.v.; God's 
+
+	p.o.v. from overhead, a long range p.o.v., showing topography 
+
+	of the landscape and height of mountains.
+
+	Students and instructors sit on chairs in the peanut 
+
+	gallery, facing Viper at the front of the room. Charlie is in 
+
+	the back.
+
+			VIPER
+
+	The bandit has good position right 
+
+	here. All right, freeze here. The 
+
+	moment of choice -- Maverick is 
+
+	defensive. He has a chance to bug 
+
+	out right here....Better to retire 
+
+	and save your plane than force a 
+
+	bad position. Stay in the diamond 
+
+	another three seconds, the bandit 
+
+	will blow you out of the sky...make 
+
+	a hard right, select zone 
+
+	5...(turns to Maverick to drive 
+
+	point home) you can extend and 
+
+	escape. You make a bad choice. Roll 
+
+	forward.
+
+	The computerized rendering resumes on the screen.
+
+			VIPER (Con't)
+
+	You perform a split S. That's the 
+
+	last thing you should do. The 
+
+	bandit is right on your tail -- 
+
+	Freeze there...the bandit has you 
+
+	in his gunsight. What were you 
+
+	thinking here, Maverick?
+
+			MAVERICK
+
+	I wasn't thinking. I just did it.
+
+			VIPER
+
+	Big gamble with a thirty million 
+
+	dollar plane!
+
+			MAVERICK
+
+	    (smiling)
+
+	No guts, no glory.
+
+	It's a joke. Viper doesn't like that answer at all, but some 
+
+	of the students laugh and mockingly whistle at the cockiness 
+
+	of it. They give Maverick the high sign. Slider leans forward 
+
+	to him.
+
+			SLIDER
+
+	Your guts. His glory.
+
+	Maverick slumps down in his chair under Viper's glare.  The 
+
+	computer rendering rolls forward again. He glances back at 
+
+	Charlie. She smiles sympathetically at him.
+
+			VIPER
+
+	Unfortunately, the gamble worked, 
+
+	or you might have learned 
+
+	something. The bandit never gets a 
+
+	clean shot...Maverick makes an 
+
+	aggressive vertical move here, 
+
+	comes over the top and defeats the 
+
+	bandit with a missile shot. The 
+
+	encounter was a victory, but we've 
+
+	shown it as an example of what not 
+
+	to do. Ice is next.
+
+	Another computerized rendering comes up on the screen. 
+
+	Hollywood leans close to Maverick and speaks quietly.
+
+			HOLLYWOOD
+
+	Gutsiest move I ever saw.
+
+	Maverick gives him a small nod of appreciation.
+
+			VIPER
+
+	And the dumbest...Okay, look at 
+
+	this. It's textbook. Ice takes 
+
+	control of the battle immediately. 
+
+	He never gives the bandit a chance 
+
+	to take the offensive. An early 
+
+	turn here -- excellent. He goes for 
+
+	the jugular, and it's over just 
+
+	that quick. Let's run that again, 
+
+	it's exactly how it should be done.
+
+	64.  through  75B. OMITTED
+
+	76.  EXT. MIRAMAR RUNWAY - DAY
+
+	In full flight gear, carrying their helmets and trying to 
+
+	stuff food down their gullets, the students rush/stumble 
+
+	toward the flight line. Hollywood takes a bit of a sandwich 
+
+	and makes a face.
+
+			GOOSE
+
+	What the hell is this?
+
+			MAVERICK
+
+	Don't chew it, you won't have it 
+
+	that long. Easier to clean the 
+
+	cockpit if it comes up in big 
+
+	chunks.
+
+	Jester yells from the distance.
+
+			JESTER
+
+	On the run. Let's go. Move it!
+
+			GOOSE
+
+	A fighter pilot's lunch... a hot 
+
+	dog and a puke.
+
+	They scurry ahead, overtaking the others. 
+
+			HOLLYWOOD
+
+	I was a victim of circumstance.
+
+			GOOSE
+
+	They should have warned you about 
+
+	that one.
+
+			HOLLYWOOD
+
+	She's kinky for flight suits--said 
+
+	that she'd never seen so many 
+
+	zippers--played with them all 
+
+	night. The noise alone kept me up.
+
+			GOOSE
+
+	What'd you do?
+
+			HOLLYWOOD
+
+	Pulled left, rolled out, 
+
+	underneath.
+
+			WOLFMAN
+
+	It's kind of ironic. All you guys 
+
+	have women troubles and I don't.
+
+			HOLLYWOOD
+
+	That's because you don't have any 
+
+	women.
+
+			WOLFMAN
+
+	Until last night. Did you see the 
+
+	moves I was making on that girl at 
+
+	the party?
+
+			HOLLYWOOD
+
+	The girl with the purple 
+
+	fingernails?
+
+			WOLFMAN
+
+	That's her--tall hungry woman with 
+
+	fire in her eyes. It was great.
+
+			MAVERICK
+
+	It was bad.
+
+			WOLFMAN
+
+	Bad?
+
+			MAVERICK
+
+	The girl with the purple 
+
+	fingernails was Coogan's sister.
+
+	They all laugh. Wolfman looks stunned.
+
+			HOLLYWOOD
+
+	Coogan spent half the night looking 
+
+	for her. He said he was gonna kill 
+
+	the son-of-a-bitch who ruined his 
+
+	sister.
+
+			WOLFMAN
+
+	I didn't ruin her.
+
+			MAVERICK
+
+	You didn't help.
+
+			WOLFMAN
+
+	No, really. She came ruined!...   
+
+	Ya think he knows it was me?
+
+			GOOSE
+
+	Seemed not to. But it's hard to 
+
+	know. You never can tell what's in 
+
+	the mind of a psychopath.
+
+	Wolfman looks very unsettled.
+
+			HOLLYWOOD
+
+	Hear about Ice?
+
+			WOLFMAN
+
+	What now?
+
+			HOLLYWOOD
+
+	He won again.
+
+	Goose walks beside Maverick now.
+
+			GOOSE
+
+	Something bothering you?
+
+			MAVERICK
+
+	Nothing. Let's just go fight.
+
+	Wolfman looks very apprehensive as they approach the F-14's. 
+
+	MECHANICS surround both planes, making last minute checks of 
+
+	all systems. Among them is COOGAN, six and a half feet tall, 
+
+	looking mean. Maverick tosses him a wave.
+
+			MAVERICK
+
+	Morning, Coogan.
+
+			WOLFMAN
+
+	How's it goin', Coog?
+
+			HOLLYWOOD
+
+	Ever find your sister, Coogan?
+
+			COOGAN
+
+	You guys know somethin' about that?
+
+	Wolfman swallows hard and hurries quickly into the plane. 
+
+	Coogan glares at them all with a look that could kill.
+
+	77.  OMITTED
+
+	78.  EXT. F-14'S - DAY
+
+	Hollywood leads, Maverick follows. They point their noses 
+
+	down and dive. Two bogies fly side by side at five thousand, 
+
+	outlined against the blue Pacific. Smaller, slower, they seem 
+
+	helpless for a moment. We hear the instructors in the F-5's.
+
+			VIPER (V.O. filtered) 
+
+	TWO AT SEVEN O'CLOCK, JESTER. 
+
+	SCRAMBLE.
+
+			JESTER
+
+	ROGER. COMING LEFT.
+
+			HOLLYWOOD 
+
+	Holy shit, it's Viper.
+
+			MAVERICK 
+
+	Keep your shirt on, he's saying 
+
+	holy shit it's us.
+
+	The bogies split. Bogey One hard left. Bogey Two hard right. 
+
+	Hollywood sweeps left, pursuing Bogey One. Maverick hangs 
+
+	back to cover him.
+
+	Bogey One makes a strong vertical move. Hollywood stays on 
+
+	him.
+
+			MAVERICK
+
+	STAY WITH HIM, WOOD... YOUR SIX 
+
+	CLEAR!
+
+	Bogey One loops and comes down, and Hollywood almost loses 
+
+	him for a moment before regaining the angle.
+
+			MAVERICK
+
+	STAY WITH HIM! TIGHTEN YOUR TURN!
+
+			GOOSE
+
+	Bogey at three o'clock high! Nose 
+
+	on!
+
+	Maverick looks quickly at three o'clock high, sees Bogey Two 
+
+	returning to the fight. He jerks the stick right, and the two 
+
+	planes make a quick pass.
+
+			VIPER
+
+	SNAPSHOT..MISSED HIM..
+
+			MAVERICK
+
+	ENGAGING THE OTHER GUY.
+
+	WOOD, YOU'RE ON YOUR OWN.
+
+			GOOSE
+
+	Just cover Wood, Maverick.
+
+	Mutual support, man!
+
+			MAVERICK
+
+	I'm gonna take him, Goose.
+
+			GOOSE
+
+	Don't be greedy. Stay with Wood.
+
+			MAVERICK
+
+	I want him!
+
+	Maverick goes suddenly vertical, zooms straight up.
+
+			GOOSE
+
+	Hey, come on--hey!
+
+	Maverick loops the F-14 down to get the quick angle on Viper 
+
+	in Bogey Two. Viper takes off, running from the fight again. 
+
+	Maverick looks over his shoulder and sees that Hollywood 
+
+	still has a good position on Bogey One. He takes a hard right 
+
+	and streaks off after Viper.
+
+			GOOSE
+
+	What what are you doing?
+
+	We're cover!
+
+			MAVERICK
+
+	Wood's okay. I want Viper.
+
+	Goose looks back at Hollywood and Bogey One.
+
+			GOOSE
+
+	But we're cover!
+
+	Viper streaks across the sky with Maverick close behind. He 
+
+	pushes the throttle forward to ZONE 5 - full afterburner.
+
+	Viper shows all his tricks...hard left, hard right, rolling 
+
+	into vertical, flipping into a dive. Maverick stays with him. 
+
+			VIPER (To himself)
+
+	Goddamn, rookie, you're all right!
+
+	79.  INT. F-14
+
+	Maverick turns to get Viper in the diamond. He hears a 
+
+	SIDEWINDER GROWL in his headset.
+
+			MAVERICK
+
+	What's the range, Goose. I've got a 
+
+	good tone.
+
+	Viper jinks but Maverick stays with him.  Viper is in the 
+
+	diamond, and the TONE GOES CRAZY. But suddenly....
+
+			GOOSE
+
+	Two bogies ! Three o'clock high, 
+
+	nine o'clock high! Break!
+
+	They come out of nowhere, flashing down toward Maverick--a 
+
+	crossfire ambush. Maverick's eyes are startled.
+
+			JESTER
+
+	ATOLL ON THE NORTHERN F-14. HE'S 
+
+	OUT OF THE FIGHT..
+
+	Maverick is stunned. He has been tricked, humiliated. 
+
+	There's a little salt for the wound as Viper and Jester 
+
+	celebrate.
+
+			VIPER
+
+	 	WALKED RIGHT INTO IT.
+
+			JESTER
+
+	NOT ONLY THAT, BUT ZORRO GOT YOUR 
+
+	WINGMAN. NICE GOING. 
+
+			GOOSE
+
+	THE DEFENSE DEPARTMENT REGRETS TO 
+
+	INFORM YOU THAT YOUR SONS ARE DEAD 
+
+	BECAUSE THEY WERE STUPID! 
+
+	Slaps his helmet like a dolt...
+
+			VIPER
+
+	KNOCK OFF THE CHATTER, TOP GUNS. 
+
+	LET'S RTB. VIPER HAS THE LEAD.
+
+	80.  INT. LOCKER ROOM - DAY
+
+	Silence. Several pilots in various forms of undress. 
+
+	Maverick and Goose sit with their heads down, a hangdog 
+
+	expression on their faces.
+
+	81.  INT. DIRTY DAN'S - A BAR - 
+
+	LATER
+
+	Maverick mopes at the bar, a figure comes up behind him.
+
+			VIPER
+
+	Ya know, that was the best flying 
+
+	I've seen since Nam...(He grins) 
+
+	...Right up to that part where you 
+
+	got killed.
+
+	Viper sits down. He's in a jovial, taunting mood.  Maverick 
+
+	watches him guardedly.
+
+			VIPER
+
+	Twenty years' experience, I 
+
+	couldn't shake you. You may be a 
+
+	great flyer. I mean that.
+
+			MAVERICK
+
+	I lost.
+
+			VIPER
+
+	Of course you did. I said a great 
+
+	flyer, not a smart one. You fly 
+
+	reckless. Great instincts. No 
+
+	discipline. That ambush today, you 
+
+	followed your emotions instead of 
+
+	your wingman. Of course you got 
+
+	killed...and well deserved to. It 
+
+	was a really stupid mistake. In 
+
+	battle, it gets people killed.
+
+	Maverick nods and stares at his beer.
+
+			MAVERICK
+
+	I can take care of myself.
+
+			VIPER
+
+	Talent is no holy shield. Von 
+
+	Richtofen was killed by a farm boy. 
+
+	Instincts are not enough. Do it our 
+
+	way. We've worked these things out. 
+
+	The good pilots can become better 
+
+	and the great ones can learn how to 
+
+	stay alive.  (he studies him for a 
+
+	moment)  Why do you have to do 
+
+	everything the hard way?
+
+			MAVERICK
+
+	It's my own way. It works for me.  
+
+	I don't care about the rest of that 
+
+	stuff.
+
+			VIPER
+
+	Then why are you here?
+
+			MAVERICK
+
+	For the same reason you are.
+
+			VIPER
+
+	Oh, you mean the thrill!
+
+			MAVERICK
+
+	The flying. The fighting.  I'd go 
+
+	up there ten times a day to fight. 
+
+	I'd win at least nine of them. 
+
+	That's all I want to do. It's what 
+
+	I do best. I am real good.  Just 
+
+	give me the jet.
+
+	Viper studies him,
+
+			VIPER
+
+	It's not a gift, just a loan...
+
+	He finishes his beer, then rises.
+
+			VIPER
+
+	Nine out of ten is okay, as long as 
+
+	it's only fun and games. But this 
+
+	isn't about that. This is serious 
+
+	business. It is dangerous up there! 
+
+	At 500 knots, things can change a 
+
+	lot in a second. Discipline is what 
+
+	protects us.
+
+	He signals the bartender and drops some money on the bar. He 
+
+	stretches, looks around. 
+
+			VIPER
+
+	It was a good day. You learned 
+
+	something. You lost and you're 
+
+	still alive to think about it. And, 
+
+	you lost your wingman. That's a 
+
+	cardinal sin...don't ever do it 
+
+	again. You owe Hollywood an apology 
+
+	and you owe me a beer.
+
+	Viper touches Maverick's shoulder as he moves away. It was 
+
+	just the gesture Maverick needed, for he seems to relax from 
+
+	his tension. He sips his beer alone.
+
+	82.  INT. SAN DIEGO AIRPORT - NIGHT
+
+	Maverick and Goose move through the terminal, 
+
+	anxious/expectant looks on their faces.
+
+			GOOSE
+
+	Relationships are a bitch, here. 
+
+	It's hard enough to concentrate 
+
+	...under the pressure. Having a 
+
+	woman here is asking for it.
+
+			MAVERICK
+
+	I guess that's what I'm doing, 
+
+	then.
+
+			GOOSE
+
+	Where do you find the time? Where 
+
+	do you find the energy. It's tough 
+
+	enough to keep your mind on school. 
+
+	A woman here is a real pain in 
+
+	the...
+
+	A pretty woman emerges from the crowd and spots them first. 
+
+	She rushes them, happily, carrying her sleepy four-year-old, 
+
+	RICKY. Goose undergoes an immediate change, beaming a big 
+
+	smile that he has practiced on her for years. She sets down 
+
+	the kid.
+
+			GOOSE
+
+	...butt...Hi, honey, God, am I glad 
+
+	to see you! I missed you.
+
+	Goose wraps his arms around Carol, smack, a kiss. She smiles 
+
+	at Maverick, turns back to Goose.
+
+			CAROL
+
+	I had to come, Willard, I got so 
+
+	lonesome I just couldn't stand it.
+
+			GOOSE
+
+	Sure, honey, I understand. It's 
+
+	great to see you. Hey where's your 
+
+	backseater, where's the world's 
+
+	smallest RIO..
+
+	He looks all around and then down at the kid, hiding shyly 
+
+	behind his mother's skirts. Goose grabs up the kid and zooms 
+
+	him around, a game they've played before, every six months or 
+
+	so. The kid laughs happily.  Maverick just sort of smiles to 
+
+	himself and shakes his head.
+
+	83.  OMITTED
+
+	84.  A POOL (OR BEACH)
+
+	Maverick comes to the surface. She enters frame by the side 
+
+	of the pool.  She hands him a split fresh pineapple. He eats 
+
+	it in the  most salacious manner possible. He's so contented, 
+
+	he's babbling.
+
+			MAVERICK
+
+	Food...and you...my F-14!
+
+			CHARLIE
+
+	In that order?
+
+			MAVERICK
+
+	Well no...inverse order.
+
+			CHARLIE
+
+	I'm still second best.
+
+			MAVERICK
+
+	You ever fly an F-14?
+
+	    (She laughs.)
+
+			CHARLIE
+
+	I don't fly in anything that
+
+		doesn't show movies.
+
+	He gets out, grabs a towel, moves over to some chairs. His 
+
+	flight suit is draped over one. He moves it to sit down.
+
+			MAVERICK
+
+	Ahhh, you'd love it. Night carrier 
+
+	landings! The most dangerous thing 
+
+	you can think of! ...next to 
+
+	you...And the most exciting. You're 
+
+	living at one hundred and ten per 
+
+	cent. Greatest high in the world... 
+
+			CHARLIE
+
+	Danger?
+
+			MAVERICK
+
+	    (of course).
+
+	Yeah! 
+
+			CHARLIE
+
+	Doesn't it ever bother you?
+
+			MAVERICK
+
+	Why, what's gonna happen?
+
+	His flight suit slips onto the ground. Charlie retrieves it. 
+
+	As she lifts the suit, something falls out of the pocket. 
+
+	Looks like a gold coin. She picks it up. Maverick is drying 
+
+	his hair. She holds the object out to him, questioning. He 
+
+	sees it, quickly takes it, stuffs it back into his pocket.
+
+			MAVERICK
+
+	Lucky charm.
+
+			CHARLIE
+
+	What do you take me for? It's a 
+
+	Navy Cross.
+
+			MAVERICK
+
+	Just good luck.
+
+			CHARLIE
+
+	Where'd you get it.
+
+			MAVERICK
+
+	Pawn shop. What's to eat?
+
+	He roots through a picnic basket.
+
+	84A.  MONTAGE - PREFLIGHT ACTIVITY
+
+			VIPER (V.O.) 
+
+	...MiG sweep over the water.  You 
+
+	will proceed down the one-seven 
+
+	-zero degree radial looking for 
+
+	MiGs. You will engage all that you 
+
+	find, destroy them, and return to 
+
+	base. Maverick, has the lead. Any 
+
+	questions? All right, let's go. 
+
+	Move like you've got a 
+
+	purpose....
+
+	85.  EXT. CLOUD COVER - 
+
+	20,000 FT. - DAY
+
+	Four F-14's fly in formation over the Pacific, searching for 
+
+	(MiGs). They spot them, engage. The combatants fly scissor 
+
+	patterns, slashing past each other, angling for position.
+
+	We hear the VOICES OF COMBAT from the planes, a barrage of 
+
+	information exchanges between pilots and RIO's. Maverick and 
+
+	Ice swoop close together on each other's wing--moving on each 
+
+	other, testing, they glance at each other and nod. The 
+
+	Challenge...the fight is on. Suddenly an F-5 rises up out of 
+
+	the clouds in front of them--Ice has the advantage and rolls 
+
+	in on him.
+
+			ICE
+
+	ENGAGING BANDIT 12 O'CLOCK.
+
+			MAVERICK
+
+	SHIT!!
+
+	The F-5 sees his pursuers. Goes into a hard left.
+
+			ICE
+
+	MIG'S IN A LEFT. MIG'S IN A 
+
+	LEFTHAND. I'M ENGAGING.
+
+	Ice struggles against the G's to bring his nose to bear. 
+
+	They go around into a Lufbery--a tight circle, Ice has the 
+
+	advantage. He is closer to the F-5's tail than the F-5 is to 
+
+	his. But he can't close, can't line up the shot. He grunts 
+
+	and strains as the G force pushes him down.
+
+			MAVERICK
+
+	COME OFF RIGHT--COME OFF HIGH--I'M 
+
+	IN--I'LL ENGAGE.
+
+			ICE
+
+	STAY WHERE YOU ARE. HE'S MINE. I'M 
+
+	ENGAGED. I'M IN.
+
+	Maverick maneuvers close to their left circle.
+
+			ICE
+
+	GET OUT OF THERE, YOU'RE UNSAFE. 
+
+	GET OUT OF THERE.
+
+			MAVERICK
+
+	FIRE, OR CLEAR OUT, ICE.
+
+			ICE
+
+	GET LOST!
+
+			MAVERICK
+
+	YOU GOT TOO MUCH NOSE TO TAIL -- 
+
+	I'M COMING IN.
+
+			ICE
+
+	IT'S MY SHOT.
+
+			MAVERICK
+
+	COME OFF--COME OFF RIGHT. I'M ON MY 
+
+	WAY IN. YOU GO FREE, I'M ENGAGING.
+
+			ICE
+
+	STAY OUT OF IT. STAY OUT OF IT, 
+
+	MAVERICK.
+
+			MAVERICK
+
+	YOU CAN'T SHOOT HIM, I CAN. I'M IN.
+
+	MAVERICK - ABOVE.
+
+			MAVERICK
+
+	ICE, ROLL OFF, I CAN SHOOT HIM.
+
+			ICE
+
+	NO, NO, NO, HE'S MINE.
+
+	Maverick is pulling a log of G's, but can't target his 
+
+	weapons, he continues to turn in a hard circle, going round 
+
+	and round without gaining. He can't bring his nose to bear.
+
+			MAVERICK
+
+	IF YOU CAN'T SHOOT HIM, I CAN.
+
+			ICE
+
+	NO, I GOT HIM. I CAN TAKE HIM.
+
+	Ice stays.
+
+			MAVERICK
+
+	COMING IN.
+
+	Maverick dives down between the two planes pulling 6.5 G's, 
+
+	exposing his underside to Ice. All Ice sees is belly. 
+
+	Obviously, in this attitude Maverick can't see him.
+
+			ICE
+
+	    (under breath.)
+
+	Sonofabitch.
+
+	He slams the stick hard right in toward Maverick. 
+
+	Ice quickly rolls up right, in front of him.
+
+			ICE
+
+	LOOK OUT!
+
+	Maverick sees him flash into his view. He has to slam the 
+
+	stick forward to avoid collision. He swings by real close. 
+
+	Too close.
+
+			GOOSE
+
+	Oh, no!
+
+	They pass through Ice's turbulence. The blast distorts the 
+
+	airflow to Maverick's left engine. BOOMBOOMBOOM. The engine 
+
+	flames out. Full thrust on the right, engine swings the tail 
+
+	around in a yaw. Maverick slams the stick right to correct 
+
+	but too late.
+
+			GOOSE
+
+	Plane's coupling up! Plane's 
+
+	coupling up!
+
+	The plane couples one yaw to the next--the tail swings 
+
+	around-- which becomes an ever increasing flat spin, like an 
+
+	out-of -control frisbee.
+
+			GOOSE
+
+	This is not good!...(Rising panic) 
+
+	We're low!
+
+	Maverick is pinned to the instrument panel by centrifugal 
+
+	force, desperately tries to reach back for the ejection 
+
+	lever--but is falling short by about a foot.
+
+			MAVERICK
+
+	I'm pinned to the panel.
+
+			GOOSE
+
+	Time to go.
+
+			MAVERICK
+
+	I can't eject.
+
+	The plane is spinning ever faster, out of control. He drops 
+
+	the gear. Still spins. Goose is closer to center of spin--G 
+
+	forces are less. He reaches behind him for the eject handle, 
+
+	starts the eject sequence.
+
+			GOOSE
+
+	3000 feet. I'll do it.
+
+			MAVERICK
+
+	Go ahead. I can't reach. 2000 feet!
+
+	85A.  BOOM - A HURRICANE OF WIND AND NOISE
+
+	The canopy BLASTS away--but is held spinning above the 
+
+	cockpit by the vortex of the sinking jet. Goose glances up at 
+
+	it.
+
+			GOOSE
+
+	1000.
+
+			MAVERICK
+
+	Let's go. Eject.
+
+	Goose yanks the ejection handle. Things happen in a split 
+
+	second. Goose is fired up and out by the rocket under his 
+
+	seat. Almost instantly he impacts the spinning canopy. A 
+
+	sickening CRUNCH. The canopy is knocked away. Maverick is 
+
+	slammed back in his seat as the ejection seat straps wind up. 
+
+	He is BLASTED out of the plane just before it spins in.
+
+	85B.  TIGHT ON MAVERICK AS HE TUMBLES IN SLOW MOTION
+
+	He's in shock..the loud THUMPING of his heart, labored 
+
+	breathing, a scream that stays in his mind.
+
+	Instinctively, he gropes for straps. He releases the pilot 
+
+	seat, it tumbles away. His chute streams, balloons open, 
+
+	snapping his body like a bullwhip.  He drifts momentarily, 
+
+	then plunges into the sea.
+
+	85C. UNDERWATER
+
+	His face, distorted in the water; wild eyes, disoriented, 
+
+	choking for air. He reaches out, finds nothing to grab.
+
+	Suddenly, he is yanked hard to the side.
+
+	85D.  SURFACE 
+
+	The parachute is caught by the wind, and dragged, pulling 
+
+	Maverick along beneath the surface. He is twisting in the 
+
+	water, turning over and over, trying desperately to slip out 
+
+	of the tangled straps. He finally hits the surface of the 
+
+	water and sucks air into his lungs. With the end of his 
+
+	strength, he hits the release snaps and breaks free from the 
+
+	parachute. It whips away like a kite in a typhoon.
+
+	The sea is choppy and rough. He struggles as his equipment 
+
+	drags him under. He twists, finds the inflatable raft 
+
+	attached to his harness. Maverick pulls the cord, and the 
+
+	raft hisses open. He pulls his body into the six-by-two foot 
+
+	raft and collapses, completely exhausted. The survival has 
+
+	been almost without thinking: an instinctual physical 
+
+	struggle.
+
+	85E.  TWILIGHT
+
+	Maverick begins to focus on the situation. He stains the 
+
+	water with dye, then sees another parachute floating nearby. 
+
+	Paddling to the parachute, he reaches over the side and 
+
+	begins to pull on the heavy cords that are submerged in the 
+
+	water.
+
+	A great struggle. The weight is extremely heavy. Finally, he 
+
+	pulls a body to the surface. Goose. Goose is dead. Maverick 
+
+	releases the parachute and pulls Goose into the raft on top 
+
+	of him. He holds Goose in his arms. His mind shuts down 
+
+	again.
+
+	From high above the ocean, we see the debris on the water. 
+
+	An oil slick, pieces of honeycomb titanium, and the small, 
+
+	helpless figure in the raft.
+
+	DISSOLVE TO:
+
+	86.  EXT. OCEAN - NIGHT
+
+	Searchlights skim over the black ocean. A brilliant light 
+
+	flashes as Maverick pops a pencil flare. Helicopter blades 
+
+	flick powerfully. The lights of the choppers descend toward 
+
+	the wreckage area, scanning the debris, searching for life. 
+
+	The spotlights find Maverick and Goose in the raft.
+
+	The draft from the chopper churns the water. A FROGMAN drops 
+
+	from the chopper and hits with a heavy splashes. He surfaces 
+
+	and swims to the raft as a rescue harness is lowered.
+
+	Maverick watches curiously as he starts to examine Goose. He 
+
+	hugs Goose closer and looks threatened.
+
+			FROGMAN
+
+	Let him go, sir. Take it easy.
+
+	He tries to pry Goose free, but Maverick has a death grip on 
+
+	the body.
+
+			FROGMAN
+
+	Sir! Let him go. It's all right. 
+
+	Let him go.
+
+	Maverick glares at the man as he bobs in the water.
+
+	Another long moment, then Maverick releases Goose. The 
+
+	frogman quickly straps Maverick into the harness. 
+
+	HIS POV. - He watches the lifeless body in the water as he 
+
+	is pulled up and away. He shivers from the cold.
+
+	87.  INT. HOSPITAL ROOM - NIGHT
+
+	Extreme CLOSE ON Maverick's face. He is emotionless. His 
+
+	eyes are flat and absolutely without expression. There is 
+
+	complete silence in the room. Then we hear the quiet, calm, 
+
+	probing voice of Viper.
+
+			VIPER
+
+	How do you feel?
+
+			MAVERICK
+
+	All right.
+
+			VIPER
+
+	Goose is dead.
+
+			MAVERICK
+
+	I know. I was there.
+
+	Not one sign of emotion from Maverick. Not one tone of 
+
+	expression. We see Viper now, and his face is strained from a 
+
+	very long day.
+
+			VIPER
+
+	If you fly jets long enough, 
+
+	something like this happens to you. 
+
+	No one escapes it. It touches us 
+
+	all.
+
+	Maverick looks at Viper, and his eyes are very disturbed.
+
+			MAVERICK
+
+	He was...my responsibility--my RIO.
+
+			VIPER
+
+	My first squadron in Vietnam, we 
+
+	lost eight out of eighteen planes. 
+
+	Ten guys. The first one kills you, 
+
+	but there'll be others--you can 
+
+	count on it.
+
+	No reaction from Maverick. He can't quite face up to that 
+
+	reality right now.
+
+			VIPER
+
+	You've got to put him in the box.
+
+	Maverick is watching Viper, but he doesn't have anything to 
+
+	say.
+
+	88.  EXT. CHARLIE'S SPORTSCAR - NIGHT
+
+	The RADIO plays John Lennon; "Stand by Me". Maverick opens 
+
+	his eyes, doesn't know where he is for a moment.
+
+			CHARLIE
+
+	...they say you're alright.
+
+			MAVERICK
+
+	I'm fine.
+
+			CHARLIE
+
+	This is it, then.
+
+			MAVERICK
+
+	What?
+
+			CHARLIE
+
+	The dark side. The price you pay 
+
+	for all the fun you're having. You 
+
+	knew about it, of course. Didn't 
+
+	you?
+
+			MAVERICK
+
+	He was a friend of mine. A good 
+
+	guy...great guy. It was my 
+
+	fault.
+
+			CHARLIE
+
+	That's not what I hear.
+
+			MAVERICK
+
+	I was flying...my responsibility.
+
+			CHARLIE
+
+	That's what you get flight pay for.
+
+			MAVERICK
+
+	Maybe I shouldn't take it.
+
+			CHARLIE
+
+	    (In surprise)
+
+	Why? You act like you didn't know 
+
+	one day this would happen.
+
+			MAVERICK
+
+	Not to me.
+
+			CHARLIE
+
+	You knew it. You all do. It's part 
+
+	of it. Maybe the most important 
+
+	part.
+
+	88A.  ON THE BEACH - NIGHT AND FOG 
+
+	Charlie's car pulls up. They get out and walk down toward 
+
+	the water. Maverick seems dazed. She is softly taunting.
+
+			MAVERICK
+
+	Where are we?
+
+			CHARLIE
+
+	Where are we? You know where we 
+
+	are. It's called the beach. It's 
+
+	where life first crawled up out of 
+
+	the sea. I come here sometimes... 
+
+	when I feel like crawling back in.
+
+			MAVERICK
+
+	You don't have to do this.
+
+			CHARLIE
+
+	Do what, show you a good time?
+
+			MAVERICK
+
+	I'm not good company. I should be 
+
+	alone.
+
+			CHARLIE
+
+	I don't think so, but if that's 
+
+	what you want...
+
+	They stand there, not making a move.
+
+			MAVERICK
+
+	No.
+
+			CHARLIE
+
+	What do you want?
+
+			MAVERICK
+
+	I want it back.
+
+			CHARLIE
+
+	What?
+
+			MAVERICK
+
+	Yesterday.
+
+	She turns, nods out, past the moon.
+
+			CHARLIE
+
+	You look way out there. Out past 
+
+	the date line. West becomes East, 
+
+	all things change. You cross the 
+
+	line...today becomes yesterday...or 
+
+	tomorrow, I forget which.
+
+			MAVERICK
+
+	That's what I want.
+
+			CHARLIE
+
+	Of course the line's just 
+
+	imaginary. You can cross it twenty 
+
+	times...nothing really changes.
+
+	She turns and walks along the surfline.
+
+			CHARLIE
+
+	On the beach... It's what they say 
+
+	when Navy men retire...He's "On The 
+
+	Beach". I always liked that. I had 
+
+	a picture...in my head... all these 
+
+	old guys wandering around here, 
+
+	looking out into the past.
+
+	He walks to the surf, kicks the sand with his bare feet.
+
+			MAVERICK
+
+	If we knew then, what we know now, 
+
+	we might never have come up out of 
+
+	there.
+
+	He turns to her. She just looks at him.
+
+			CHARLIE
+
+	You don't believe that.
+
+			MAVERICK
+
+	Hardly ever.
+
+			CHARLIE
+
+	Only when you're depressed. Then it 
+
+	passes.
+
+			MAVERICK
+
+	It does.
+
+			CHARLIE
+
+	Everything passes. Immutable law of 
+
+	the Universe.
+
+	He picks up a piece of flotsam, a twig, worn smooth.
+
+			CHARLIE
+
+	This too...shall pass. You put as 
+
+	much life as you can between it and 
+
+	you. You start piling up experience 
+
+	between then and now.
+
+	He turns and walks.
+
+			MAVERICK
+
+	What do you do when you come here?
+
+			CHARLIE
+
+	I sit. I think. I play games.
+
+			MAVERICK
+
+	What kind of games?
+
+			CHARLIE
+
+	I like to play "reality".
+
+	She stops and turns.
+
+			MAVERICK
+
+	How do you play reality.
+
+			CHARLIE
+
+	It's strip reality, actually, like 
+
+	what the pilots always want to 
+
+	play.
+
+			MAVERICK
+
+	  (this gets a small laugh)
+
+	Strip reality! How do you play 
+
+	that?
+
+			CHARLIE
+
+	It's like strip poker, only, 
+
+	without the bluffing. (he laughs 
+
+	again) One person says something 
+
+	and if the other one accepts that 
+
+	it's true, the one who says it, 
+
+	gets to take one item of clothing 
+
+	off.
+
+			MAVERICK
+
+	You're crazy. (She stops, he goes 
+
+	on, softer) That's a pretty silly 
+
+	game.
+
+			CHARLIE
+
+	Not as silly as some. You know the 
+
+	silliest one? ...that we are gods. 
+
+	That we control events on the 
+
+	beach... that we can turn back 
+
+	time...
+
+	She moves in close.
+
+			CHARLIE
+
+	Want to play the game? 
+
+			MAVERICK
+
+	How does it go?
+
+			CHARLIE
+
+	You say the truth. (a beat...)    
+
+	Go ahead. Don't be afraid. You want 
+
+	to win the game, don'tcha?
+
+			MAVERICK
+
+	What truth?
+
+			CHARLIE
+
+	The big one. The one that's most on 
+
+	your mind.
+
+	A long pause...it comes hard.
+
+			MAVERICK
+
+	Goose is dead.
+
+			CHARLIE
+
+	    (she nods)
+
+	True.
+
+			MAVERICK
+
+	Now?
+
+			CHARLIE
+
+	Take something off.
+
+			MAVERICK
+
+	Off me or off you?
+
+			CHARLIE
+
+	That's up to you.
+
+	He takes the ribbon from her hair. It falls down over her 
+
+	face and shoulders. Now it's her turn.
+
+			CHARLIE
+
+	It's dangerous...what you do.
+
+	He nods. She slowly loosens his tie and pulls it from around 
+
+	his neck.
+
+			MAVERICK
+
+	It was my fault.
+
+	She says nothing, stands looking into his eyes. He slowly, 
+
+	as if in a trance, takes her blouse off.
+
+			CHARLIE
+
+	You can't bring him back.
+
+	She takes off his shirt.
+
+			MAVERICK
+
+	It was my fault.
+
+	He starts to reach for her. She pulls back.
+
+			CHARLIE
+
+	Nope. Already used that.
+
+	She turns and thinks for a moment, looking at the moon.
+
+			CHARLIE
+
+	Your life goes on.
+
+	Rather than struggle his T shirt over his head, she grabs it 
+
+	with both hands. She leans in close and bites it. She grabs 
+
+	both sides of the tear and slowly rips it off his body.
+
+			MAVERICK
+
+	What does it mean?
+
+			CHARLIE
+
+	   (shakes her head no)
+
+	That wasn't fair. It was a 
+
+	question. Penalty round!
+
+	She drops her skirt.
+
+			CHARLIE
+
+	You didn't mean it. You didn't 
+
+	think. You'd do anything to take it 
+
+	back.
+
+			MAVERICK
+
+	That's three.
+
+			CHARLIE
+
+	And that's one!
+
+	She unbuckles his belt, slowly slides it off. She unzips his 
+
+	pants, they fall.
+
+			MAVERICK
+
+	One more.
+
+			CHARLIE
+
+	Your watch.
+
+	She unbuckles it.
+
+			MAVERICK
+
+	You owe me one.
+
+	He rests his head on her shoulder, unhooks her bra. She 
+
+	shrugs it off.
+
+	They stand on the beach in shorts and bikini bottom, looking 
+
+	into each other's eyes.
+
+			CHARLIE
+
+	Looks like a tie.
+
+			MAVERICK
+
+	Who's gonna win?
+
+			CHARLIE
+
+	We'll say it together. On the count 
+
+	of three...One...two...
+
+	Leaning in, softer and harder...they both jump the gun.
+
+			BOTHTOGETHER
+
+	I love.ove y.you.
+
+	They embrace madly and sink to the sand. From the distance 
+
+	it looks like a strange slithering creature crawling back to 
+
+	the sea.
+
+	89.  INT. GOOSE'S ROOM - NIGHT
+
+	The lights are out in Goose's room at the Bachelor Officers' 
+
+	Quarters. The door opens, and Maverick enters. He sets a 
+
+	cardboard box on the bed.
+
+	Silently, Maverick gathers together Goose's few personal 
+
+	possessions. He fills the box with clothes, books, a clock, a 
+
+	radio, a walkman, and articles from the bathroom. He examines 
+
+	each closely, like an artifact...as if he might find some 
+
+	message or meaning in them. He fumbles them into the box. He 
+
+	can't see too well, his eyes are full of tears.
+
+	Maverick closes the box and carries it to the door. He takes 
+
+	one last glance around, then leaves and closes the door 
+
+	behind him.
+
+	89A.  INT. BOQ RECEPTION AREA                      *
+
+	Carol and the kid, stand, staring at a silent TV. Carol 
+
+	looks dazed, lost. Maverick walks in, finds her. An awkward 
+
+	silence while they both try to think of something to say. 
+
+	Maverick hands the box to Carol.
+
+	90.   OMITTED
+
+	89B.  CLOSE UP - MAVERICK.
+
+	He sits staring right through us...the thousand-yard stare. 
+
+	A strange white unreal light washes over him. The only color, 
+
+	the Navy and gold of the stripes on his shoulderboards. A low 
+
+	rumbling mumbling filters through the HISS of surf or fans or 
+
+	something...Snatches of low whispered 
+
+	conversation....disregard of...basic air-safety 
+
+	principles...too aggressive...incident.... 29 July...within 
+
+	performance parameters... disciplinary action...tactical 
+
+	doctrine.... even reckless at times... 
+
+	conjecture...unsupported ...benefit of the doubt...
+
+	Maverick's 
+
+	eyes slowly focus. The light attenuates. The surrounding 
+
+	image becomes denser. Things become real.
+
+	89C.  INT. CONFERENCE ROOM - DAY - MAVERICK'S POV
+
+	A BOARD OF INQUIRY, a COMMANDER and other NAVY OFFICERS 
+
+	seated behind tables at the front of the room. Maverick faces 
+
+	them, wearing dress whites. Viper is also present. The 
+
+	Commander looks at each of the Officers. They each nod, in 
+
+	turn, indicating readiness. The Commander turns to Maverick, 
+
+	and states for the record:
+
+			CDR.
+
+	The Board of Inquiry finds that Lt. 
+
+	Evan Mitchell was not at fault in 
+
+	the accident of twenty-nine July.
+
+	No response from Maverick, one way or the other. Viper 
+
+	studies his face with concern.
+
+			CDR.
+
+	 Lt. Mitchell's record will be 
+
+	cleared of this incident.
+
+	Still no response from Maverick.
+
+		CDR.
+
+	Lt. Mitchell is restored to flight 
+
+	status without further delay. These 
+
+	proceedings are closed.
+
+	Maverick doesn't respond.
+
+	91.  INT. MAVERICK'S ROOM - NIGHT
+
+	Maverick lies on his bunk and stares at the ceiling. The 
+
+	phone next to his bed is RINGING.  It RINGS EIGHT OR NINE 
+
+	TIMES, then stops. He makes no move to reach for it. 
+
+	92. through 95. OMITTED
+
+	94A.  INT. COCKPIT - F-14 ON FLIGHT LINE
+
+	Maverick sits in the cockpit staring at the controls while 
+
+	the ground crew preps the aircraft for flight. Coogan helps 
+
+	him strap in. He speaks solicitously to Maverick. It is 
+
+	unheard over the JET NOISE and RADIO BABBLE. Maverick looks 
+
+	at the cockpit as if it's a strange territory, suddenly 
+
+	foreign to him. He grabs the stick like it's some peculiar 
+
+	talisman. He turns and looks aft. He seems surprised that it 
+
+	moves the control surfaces in the tails.
+
+	96.  INT. F-14 - DAY
+
+			FUNGUS
+
+	BOGEY AT TEN O'CLOCK LOW. YOU'VE 
+
+	GOT THE ANGLE -- PIECE OF CAKE.
+
+	Maverick checks ten o'clock low. He is disturbed. He tries 
+
+	to make the move, but he is a man with no secret: he is 
+
+	afraid.
+
+			FUNGUS
+
+	ENGAGE, MAVERICK - ANYTIME.
+
+	The bogey abruptly turns into him. Maverick hesitates. Then 
+
+	suddenly, he jerks the stick hard right and takes the F-14 
+
+	away from the bogey at great speed. Fungus is startled.
+
+			FUNGUS
+
+	WHAT? WHERE'RE YOU--HEY, WHERE IN 
+
+	THE HELL ARE YOU GOING?
+
+		MAVERICK
+
+	DIDN'T ... AHHH...LOOK GOOD.
+
+			FUNGUS
+
+	WHAT DO YOU MEAN? IT DOESN'T GET TO 
+
+	LOOK MUCH BETTER THAN THAT?
+
+			MAVERICK
+
+	NO. NO GOOD.
+
+	96A.  INT. FLIGHT LINE - DAY
+
+	Jester walks up to Viper who waits near an F-5.
+
+			JESTER
+
+	He just won't engage. He can't do 
+
+	it, Skipper. He can't get back on 
+
+	the horse. 
+
+			VIPER
+
+	It's only been a week. Keep sending 
+
+	him up.
+
+			JESTER
+
+	I've seen this before.
+
+			VIPER
+
+	So have I.
+
+			JESTER
+
+	Some guys never get it back.
+
+	He walks off.
+
+	97. through 102.  OMITTED
+
+	103.  INT. LOCKER ROOM - IMMEDIATELY AFTER 
+
+	Maverick grabs his stuff out of the locker, throws them in a 
+
+	bag. He glances up as Fungus enters, continues to pack.
+
+			FUNGUS
+
+	What are you doing?
+
+			MAVERICK
+
+	Saving them some paperwork.
+
+			FUNGUS
+
+	Since when did you care about  
+
+	paperwork? 
+
+	Maverick walks away. Fungus hesitates, then follows him.
+
+			FUNGUS
+
+	If I could fly like you I'd have 
+
+	everything I want. If I could fly 
+
+	at all. I can't fly. I can't fly 
+
+	like that. Nobody can. Whatever it 
+
+	is, you've got it!
+
+			MAVERICK
+
+	Not anymore. 
+
+			FUNGUS
+
+	So, you're scared--so what? You 
+
+	ever get a good look at me in the 
+
+	back seat, I'm goddamn terrified.
+
+	Grabbing the suitcase, Maverick brushes past Jester and 
+
+	walks up the corridor. Jester and Fungus watch him go. Fungus 
+
+	goes to the phone.
+
+	104.  EXT. SAN DIEGO AIRPORT - NIGHT
+
+	Charlie parks her car, jumps out, and runs toward the main 
+
+	entrance to the terminal.
+
+	105.  INT. TERMINAL
+
+	Charlie hurries through the crowd, bumping past people, 
+
+	searching frantically for Maverick in the huge terminal. She 
+
+	moves past bench after bench, and her eyes flick in all 
+
+	directions. A quick glance at the souvenir shop, the coffee 
+
+	shop, and then she heads for the bar.
+
+	Maverick is there, sitting alone in a booth with his 
+
+	suitcase beside him, staring into a drink. Charlie composes 
+
+	herself, then walks to the booth and sits down across the 
+
+	table from him. Maverick does not look pleased.
+
+			CHARLIE
+
+	Never liked fighter pilots anyway. 
+
+	He looks up trying to be angry, but he can't help it, she 
+
+	makes him laugh.
+
+			MAVERICK
+
+	You came to the right place.
+
+	The waitress comes up.
+
+			MAVERICKWhat are you having?
+
+	Turns to the waitress.
+
+			CHARLIE
+
+	I'll have what he's having... 
+
+	Hemlock, is it?
+
+	The waitress departs. He tries not to smile, but can't help 
+
+	it.
+
+			CHARLIE
+
+	You weren't gonna say goodbye?
+
+			MAVERICK
+
+	I was, later. 
+
+			CHARLIE
+
+	Long distance? I wouldn't do that 
+
+	to you. I'd at least talk to you.
+
+			MAVERICK
+
+	I didn't want to see you. I mean, I 
+
+	did...but I didn't..
+
+			CHARLIE
+
+	I know exactly what you mean.
+
+			MAVERICK
+
+	How could you?
+
+		CHARLIE
+
+	I've got a gift just like you do. 
+
+	My gift is I just know what people 
+
+	mean, even if they can't say it. It 
+
+	helps when you're trying to 
+
+	communicate with fighter pilots. 
+
+	Like what you just said was "I'm 
+
+	embarrassed, I feel I've done 
+
+	something wrong, that I've failed, 
+
+	and I don't think I can live up to 
+
+	the expectations of a wonderful 
+
+	interesting, intelligent woman like 
+
+	yourself." That about it?
+
+			MAVERICK
+
+	    (laughs)
+
+	...Something like that.
+
+			CHARLIE
+
+	And I'm gonna sneak off, and be by 
+
+	myself for awhile, like until I can 
+
+	think of a new career...hotel 
+
+	management or something...
+
+			MAVERICK
+
+	Big talk for someone who's never 
+
+	been shot off her computer.
+
+			CHARLIE
+
+	Hey, I never said I was a fighter 
+
+	pilot...I never claimed to think it 
+
+	was fun to be shot off the end of a 
+
+	ship in a storm. I can find 
+
+	contentment in a good book. I don't 
+
+	have to roar by someone at Mach two 
+
+	with my hair on fire. Sometimes...I 
+
+	just get happy being with the right 
+
+	man.
+
+			MAVERICK
+
+	I hope you find him.
+
+			CHARLIE
+
+	I think I have... I could be wrong. 
+
+	I have been before. Just remember 
+
+	one thing. If you're not Top Gun, 
+
+	if you're not fighting jets, you're 
+
+	not gonna be able to act like a 
+
+	fighter pilot... You're gonna have 
+
+	to act like the rest of us. You're 
+
+	gonna have to master humility. For 
+
+	you guys, that's the toughest 
+
+	maneuver of all.
+
+	She gets up...lays a bill out for the drinks...
+
+			CHARLIE
+
+	So long, Sailor. See you on the 
+
+	beach sometime.
+
+	She swings away. Her wake sucks in the stares of every man 
+
+	in the place. Then they look over to Maverick, quick flicks 
+
+	of envy in their eyes. He stares them back and can't quite 
+
+	meet their eyes.
+
+	106.  EXT. BEACH AT VIPER'S HOUSE - LATER
+
+	Viper is tugged down the beach by a three year old kid. They 
+
+	come across one creature who's had a bad night...Viper spots 
+
+	him, he spots Viper, and Viper moves toward him. Tim, Viper's 
+
+	kid, wants to head for the sea and pulls his father in that 
+
+	direction. He stops, puts his hand on his hips like he's seen 
+
+	the pilots do. 
+
+			TIM
+
+	Dad...Of all the aminals in the 
+
+	ocean, which one's the baddest?
+
+			VIPER
+
+	I don't know, Tim. You'll have to 
+
+	ask them.
+
+	Viper turns to the creature, Maverick, and shrugs.
+
+			VIPER
+
+	Runs in the family...
+
+	Maverick stands up. 
+
+			MAVERICK
+
+	Skipper, sorry to bother you.
+
+			VIPER
+
+	No bother.
+
+			MAVERICK
+
+	I called your house.
+
+			VIPER
+
+	My wife's house.
+
+			MAVERICK
+
+	She said you took your kid to the  
+
+	each. Every second Sunday. Zoo or 
+
+	beach or the ballgame. Y'have the 
+
+	option...(Maverick thinks for a 
+
+	beat. Segues to the question...) 
+
+	What about me?
+
+	Viper turns, they stroll together.
+
+			VIPER
+
+	We can send you back to your 
+
+	squadron with nothing noted on your 
+
+	record except "CNC" --course not 
+
+	completed, no explanation required. 
+
+	Theoretically, it doesn't hurt your 
+
+	career, but people always wonder 
+
+	about things like that.
+
+			MAVERICK
+
+	Or....
+
+			VIPER
+
+	Or you can quit.
+
+			MAVERICK
+
+		I don't know...
+
+			VIPER
+
+	I didn't know either. That's why I 
+
+	told Jester to prepare your papers.
+
+	Maverick looks irritated. Viper stops at an icecream vendor 
+
+	and orders three with a gesture.
+
+			MAVERICK
+
+	You've already made up your mind.
+
+			VIPER
+
+	It's no disgrace, kid. That spin 
+
+	was hell. It would wreck anyone's 
+
+	confidence. You could be a good 
+
+	pilot again someday...
+
+			MAVERICK
+
+	    (starts to get his back up)
+
+	You think I should quit?!
+
+			VIPER
+
+	I didn't say that. That's up to 
+
+	you. But I have responsibility for 
+
+	the other guys up there, not just 
+
+	you. They need to know you're all 
+
+	right...that they can depend on 
+
+	you.
+
+	The vendor hands them icecream, they take it.
+
+			MAVERICK
+
+	Here, let me get this. We'll be 
+
+	even.
+
+	He reaches into his pocket for change, comes out with a 
+
+	handful. Slams it on the counter, stars picking the proper 
+
+	change out. Viper spots something and reaches for 
+
+	it...Maverick sees and tries to block it, but Viper comes up 
+
+	with the Navy Cross.
+
+			MAVERICK
+
+	Lucky charm.
+
+	But Viper recognizes it for what it is.
+
+			VIPER
+
+	Sometimes it's luck, but in this 
+
+	case, he earned it... I served with 
+
+	your old man.
+
+			MAVERICK
+
+	I know.
+
+			VIPER
+
+	VF 51, the Oriskany. You remind me 
+
+	of him. You're just like he was, 
+
+	only better...and worse.
+
+			MAVERICK
+
+	I'm nothing like him.
+
+			VIPER
+
+	You may not think so, but you are.
+
+			MAVERICK
+
+	He was by the book, all the way.
+
+			VIPER
+
+	They waved him off. He thought he 
+
+	knew better. He hit the 
+
+	ramp.
+
+			MAVERICK
+
+	I never heard that.
+
+			VIPER
+
+	Not something they tell dependents.
+
+			MAVERICK
+
+	It's not true.
+
+	Viper looks at him, for a long beat, throws his icecream 
+
+	away.
+
+			VIPER
+
+	Why would I lie?
+
+	He turns, walks away. Maverick stands there for a moment, 
+
+	thinking, then catches up to him, stops him...struggles with 
+
+	the thought...as Viper breaks in...
+
+			VIPER
+
+	You start on a wrong heading... the 
+
+	more you stick to it, the further 
+
+	you get from your target. A good 
+
+	pilot always questions himself, 
+
+	always questions his judgments, 
+
+	stays alert for drift and makes the 
+
+	corrections...You may find a little 
+
+	discipline helps with the fear. You 
+
+	don't have to be alone up there.
+
+	A pause...quiet intensity.
+
+			MAVERICK
+
+	How can I go on? I feel so... 
+
+	responsible.
+
+			VIPER
+
+	Kid, the plain fact is...you are. 
+
+	I'm not gonna stand here and blow 
+
+	sunshine up your ass. Technically, 
+
+	they absolved you. You and I know 
+
+	what really happened. You pushed 
+
+	it. You are responsible and you'll 
+
+	always carry that. You know what, 
+
+	I'll carry it too. I should have 
+
+	taken you out of that cockpit.
+
+	I guess I'm a hopeless romantic... 
+
+	I always try to find something 
+
+	worthwhile in someone's death. It's 
+
+	no trade-off. It's not one for one. 
+
+	What you learned isn't worth his 
+
+	death. It couldn't be. But maybe 
+
+	there is some value in it. I know 
+
+	it's the first thing I've ever seen 
+
+	that's really gotten to you. Now 
+
+	the question is, what will you do 
+
+	with it. If it gets you out of 
+
+	flight status...so you don't kill 
+
+	yourself or anybody else...that's 
+
+	good. That's one good thing. You 
+
+	were an accident waiting to 
+
+	happen.
+
+			MAVERICK
+
+	You think I shouldn't fly.
+
+			VIPER
+
+	I didn't say that. That's up to 
+
+	you. I think that if you do, if you 
+
+	choose to come back, you'll be a 
+
+	better pilot... a better man.
+
+			MAVERICK
+
+	Would you take me back? Would they?
+
+			VIPER
+
+	I'll have to think about it. I 
+
+	don't know about them. I do know 
+
+	one thing, We've got a lot invested 
+
+	in you. We'd hate to lose it. Even 
+
+	more than those other guys, Naval 
+
+	Aviation needs a very few, very 
+
+	good men.
+
+	107 through  114.  OMITTED
+
+	115.  INT. TOP GUN OFFICE  
+
+	LOUD ROCK AND ROLL. The graduation ceremonies are in full 
+
+	swing...They consist of informal ribbing, laughing, and a lot 
+
+	of talking with the hands. every now and then, the name Goose 
+
+	comes up and a shadow passes across a face. For the most 
+
+	part, they press on, having a good time. Fungus shrugs at 
+
+	someone's question and looks around.
+
+			FUNGUS
+
+	I don't know where he is...
+
+			PORK
+
+	What are his plans?
+
+			FUNGUS
+
+	I don't know.
+
+	Ice stands proudly holding the Top Gun plaque as others 
+
+	congratulate him...Hollywood looks up as the door opens, 
+
+	Maverick is there.  He looks uncomfortable, unsure. He sees 
+
+	Ice with the plaque. Fungus moves over to him, brings him in.
+
+			FUNGUS
+
+	I'm glad.
+
+			WOLFMAN
+
+	Good to see you, man.
+
+	One by one, they come over, shake his hand. Viper stands 
+
+	there, looking pleased but gruff. Maverick walks over, shakes 
+
+	his hand. The party starts to pick up. A real celebration, 
+
+	now. 
+
+	Jester enters, a sheaf of messages in his hand. He takes 
+
+	Viper aside for a word. Viper nods at him. The group's 
+
+	attention gradually swings onto them. They quiet down 
+
+	instinctively. Viper finally turns to them.
+
+			VIPER
+
+	Gentlemen, you know how I hate to 
+
+	break up this party before it has a 
+
+	chance to get really out of hand...
+
+	    (more serious)
+
+	...but there's a major flap on.
+
+			HOLLYWOOD
+
+	We're being called back?
+
+			VIPER
+
+	You're on your way. Don't bother 
+
+	going to BOQ. Your bags are packed.
+
+	He hands them orders. Someone turns the music back up... as 
+
+	they shake hands all around, the music grows, becomes purer 
+
+	as the background voices drop out. 
+
+	115A.  TIGHT ON MAVERICK'S 
+
+	EYES
+
+	WIDEN OUT -
+
+	To include his helmet. Stereo headphones from his walkman 
+
+	carry the same music from the party as he sits in the cockpit 
+
+	and stares at the grey water rushing under. He sits in his 
+
+	Tomcat on Ready 5 Alert. In the back, Fungus plays a hand 
+
+	computer game - Jet Attack.
+
+	116.  EXT. USS KITTY HAWK - SOMEWHERE AT SEA
+
+	Maverick's Tomcat sits waiting for a launch order on the 
+
+	forward catapult.
+
+	116A.  ANGLE - MAVERICK
+
+	He goes over the briefing in his mind...Stinger's voice 
+
+	breaks through the music.:
+
+			STINGER (V.O.)
+
+	...Navy oceanographic ship... 
+
+	international waters... fired 
+
+	upon... unknown forces...
+
+	117.  INT. READY ROOM - USS KITTYHAWK - MOMENTS BEFORE
+
+	In full flight gear, sixteen teams of fighter pilots and 
+
+	RIO's pay close attention to the Squadron CO, Stinger.
+
+			STINGER
+
+	...by unknown forces...by Migs. We 
+
+	don't know who they are.  All I 
+
+	know is that it's our ship, and our 
+
+	orders are to escort it out of the 
+
+	area.
+
+	Stinger circles an area on the map.
+
+	117A.  TOMCAT ON THE DECK - MAVERICK
+
+	He studies his copy of the same map, headings and vectors 
+
+	pencilled in.
+
+			STINGER (V.O.) 
+
+	This is "Bullseye". A rescue 
+
+	operation is to begin within the 
+
+	hour. Your mission is to give air 
+
+	support to that rescue. There are 
+
+	MiGs in the area, and tensions are 
+
+	high. If you witness a hostile act 
+
+	you will return fire. We will be 
+
+	covering 360 degrees of the compass 
+
+	by section. Be prepared for 
+
+	anything.
+
+	117B.  INT. READY ROOM 
+
+	Stinger is speaking to individual pilots.
+
+			SLIDER
+
+	Ice and Hollywood, sector two.
+
+	He turns to Maverick who stands nearby.
+
+			SLIDER
+
+	And Maverick. You'll back them up, 
+
+	on Ready Five.
+
+	117C.  CLOSE ON HIS FACE
+
+	A moment's disappointment passes so fleetingly, you hardly 
+
+	see it.
+
+			MAVERICK
+
+	Yessir.
+
+	As the aircrews file out, tense but excited.
+
+	118.  ICE AND HOLLYWOOD FLY TOGETHER AT TEN THOUSAND FEET 
+
+	Their eyes search the horizon, while Slider and Wolfman 
+
+	watch their instruments. 
+
+			ICE
+
+	MUSTANG, THIS IS VOODOO ONE,
+
+		WE ARE ON STATION.
+
+	The two jets streak across the sky.
+
+	118A.  INT. COCKPIT
+
+	Suddenly, there are BLIPS on the radar scope.
+
+			HOLLYWOOD
+
+	CONTACT. TWO BOGEYS 20 RIGHT. AT 12 
+
+	MILES, CLOSING.
+
+	118B.  INT. COCKPIT - THEIR POV
+
+	Two MiGs flying low to the deck.
+
+			HOLLYWOOD
+
+	TALLY HO. TWO MIGS AT TWO
+
+		O'CLOCK LOW.
+
+	118C.  THE MIGS SUDDENLY PULL VERTICAL, STREAK STRAIGHT UP. 
+
+	118D.  ICE AND HOLLYWOOD WATCH CAREFULLY.
+
+			HOLLYWOOD
+
+	WHAT ARE YOUR INTENTIONS, 
+
+	BOYS?
+
+			ICE
+
+	THEY'RE JUST HASSELING. LET'S WORK 
+
+	THEM OUT OF THE AREA.
+
+			WOLFMAN
+
+	I'VE GOT TWO MORE BOGEYS COMING IN 
+
+	AT FOUR O'CLOCK HIGH.
+
+			HOLLYWOOD
+
+	GOT 'EM.
+
+	118E.  THE FOUR MIGS
+
+	Join together in a box formation, begin to circle the area.
+
+			HOLLYWOOD
+
+	TWO MORE -- TWO MORE CONTACTS. 
+
+	2-7-0 at 10 MILES. WE NEED SOME 
+
+	HELP HERE, MUSTANG.
+
+			ICE
+
+	MUSTANG, WE HAVE FOUR MIGS IN THE 
+
+	AREA OF BULLSEYE. REQUEST YOU 
+
+	LAUNCH THE ALERT 5 FOR SUPPORT.
+
+	119.  DECK - KITTY HAWK 
+
+	Maverick sits in his Tomcat on the Catapult on ready alert, 
+
+	listening to the message traffic. He gets a launch order, 
+
+	turns to the LSO. The LSO salutes, Maverick salutes and flips 
+
+	him the bird. The LSO drops to the deck. Maverick is slammed 
+
+	back as the F-14 is fired off the deck and rockets into the 
+
+	sky.
+
+			CCA (V.O. filtered)
+
+	ROGER, VOODOO.
+
+	120.  EXT. SKY - HOLLYWOOD AND ICE 
+
+	The two MiGs cross in a scissor pattern in their path... a  
+
+	provocation...they join together again and fly level at ten 
+
+	thousand feet. One of the MiGs does a sudden canopy roll.
+
+			HOLLYWOOD 
+
+	VERY FANCY!
+
+	BOOM! A FLASH! Suddenly, Out of nowhere, Hollywood's hit.  
+
+	WHAM! Just that fast, he's hit and goes down.  His f-14 
+
+	disappears into the clouds.
+
+			ICE
+
+	WOOD! WOOD, ACKNOWLEDGE!
+
+	Ice puts his nose down and follows him.
+
+			ICE
+
+	VOODOO ONE, MUSTANG. VOODOO THREE 
+
+	IS HIT. GOING DOWN. WILL ATTEMPT 
+
+	SAR.
+
+	He comes out of clouds at 1500, nothing but empty water 
+
+	below.
+
+			ICE
+
+	Do you have them? Did they get out 
+
+	or not?
+
+			SLIDER
+
+	    (confusion)
+
+	No contact. I don't know.  
+
+	121.  EXT. MAVERICK'S F-14
+
+			MAVERICK
+
+	VOODOO, GHOST RIDER ONE. I'M ON THE 
+
+	WAY. WAIT FOR ME.
+
+	122.  THE SKY - MIGS AND TOMCATS CIRCLE
+
+			SLIDER
+
+	THEY GOT WOLF, THEY GOT WOOD. THEY 
+
+	GOT THEM..  
+
+			ICE
+
+	MUSTANG, GHOST RIDER. PERMISSION TO 
+
+	FIRE.
+
+			STRIKE (V.O.) 
+
+	GHOST RIDER,  THIS IS MUSTANG. 
+
+	PERMISSION TO FIRE. PERMISSION TO 
+
+	FIRE.
+
+			ICE
+
+	ROGER. ENGAGING. I HAVE THE LEAD.
+
+	122A.  INT. MAVERICK'S F-14
+
+			FUNGUS
+
+	Let's go! Dive on those bastards!  
+
+	Maverick hesitates.
+
+			FUNGUS
+
+	Come on, man, engage. This is it. 
+
+	Get your nose in there.
+
+	Maverick hesitates again. He sees the hornet's nest below; 
+
+	planes all over the sky.
+
+			FUNGUS
+
+	Bandit at seven o'clock low--solo. 
+
+	Take him. Pull on the goddamn 
+
+	stick, man!
+
+			MAVERICK
+
+	Okay, okay.
+
+			FUNGUS
+
+	Don't tell me okay. Do it!
+
+	Maverick draws a breath, then forces himself to pull the 
+
+	stick over. The F-14 rolls in hard toward the battle. 
+
+	Suddenly, the cluster breaks apart. The MiGs break in every 
+
+	direction as Maverick BLASTS through their formation. 
+
+	Something comes up through the clouds. A MiG BLASTS by. 
+
+	Another rolls in and locks onto them.
+
+	The MiGs swarm toward the TOMCATS, coming from every 
+
+	direction. CANNON FIRE erupts from one of the MiGs.
+
+			MAVERICK
+
+	MAVERICK'S EMGAGED. HARD LEFT, ICE, 
+
+	PADLOCK THE EASTERN SECTION.
+
+	The F-14's execute a left oblique turn in unison. They come 
+
+	down in a section attack with their cannons blazing. From 
+
+	Maverick's cockpit, everything looks choppy:  MiGs slide past 
+
+	at incredible speed. Cannons BLAST, as the planes scramble 
+
+	for position.
+
+	Out-numbered four to two, Maverick and Ice fight 
+
+	defensively. Maverick has the angle on a MIG, when Fungus 
+
+	spots a missile launch.
+
+			FUNGUS
+
+	BREAK LEFT! BREAK LEFT!   CHAFF! 
+
+	FLARES!
+
+			MAVERICK
+
+	BREAKING LEFT!
+
+	Maverick releases a flare as he takes the F-14 into a hard 
+
+	left. The missile tracks the heat of the flare and sails out 
+
+	of the area, missing the Tomcat and falling toward the sea.
+
+			ICE
+
+	TWO MIGS ON MY TAIL, MAVERICK. I'M 
+
+	DEFENSIVE.
+
+	Maverick jerks his stick right and streaks toward Ice. He 
+
+	cuts off one of the MiGs with CANNON FIRE, driving it down 
+
+	toward the deck. Ice goes into vertical and comes around to 
+
+	gain an angle on the other MiG. His RIO is in position to 
+
+	check Mav's rear. 
+
+			SLIDER
+
+	MAVERICK! SIX O'CLOCK!
+
+	Maverick turns to look and jerks a hard left. The MiG is on 
+
+	him, CANNON BLAZING. Ice Yo Yos inside and cuts the MiG off. 
+
+			ICE
+
+	FOX ONE.
+
+	He fires a sidewinder. The MiG turns hard, the missile sails 
+
+	away.
+
+			SLIDER
+
+	BANDIT, THREE O'OLOCK HIGH!
+
+	Ice's F-14 is suddenly caught in a HAIL OF CANNON FIRE as a 
+
+	MiG sweeps down from three o'clock. He breaks, dives. The 
+
+	jets streak across the sky, low to the deck, skimming the 
+
+	surface.
+
+			FUNGUS
+
+	ICE'S  DEFENSIVE, HELP HIM OUT.
+
+	Maverick's F-14 Rollaways in and intercepts the bogey on 
+
+	Ice's tail.
+
+			MAVERICK
+
+	REVERSE RIGHT.
+
+	Ice turns right, the MiG bugs and jerks into vertical.  
+
+	Maverick swoops after him.
+
+			FUNGUS
+
+	STAY WITH HIM. YOUR SIX IS CLEAR.
+
+	Maverick closes, jerking left, right, twisting and turning, 
+
+	staying on his tail. 
+
+	122B.  MAVERICK'S COCKPIT
+
+			FUNGUS
+
+	ONE ON OUR SIX! BUG OUT! BUG OUT!
+
+	BULLETS fly by Maverick's F-14 from the MiG on his six. He 
+
+	pulls a hard left, then takes the plane straight up. We hear 
+
+	instructions shouted by Fungus, but it is all obscured in the 
+
+	SOUNDS AND FURY OF THE BATTLE. Maverick peels over the top 
+
+	and comes down like a comet. A series of passes at the MiGs. 
+
+	As they come by, one of the MiGs pulls up, 
+
+			MAVERICK
+
+	OKAY, GOING UP. ICE, GO HIGH. 
+
+			ICE
+
+	LOOK OUT! 
+
+	They look up. An MiG 21 is coming down, belly to them, close 
+
+	to a mid-air collision.
+
+			MAVERICK
+
+	JESUS!
+
+	He pushes down. The MiG ROARS BY. The whole airplane goes 
+
+	"BOOOMMMM" it's that close.
+
+			FUNGUS
+
+	OHHHHH SHIT!
+
+	The shock, the air pressure SLAMS them as it goes by, 
+
+	missing by 4-5 feet. Maverick pulls back in, sees a MiG 21 
+
+	below. It takes off, bugging out. Ice goes after him. The MiG 
+
+	maneuvers, jerking hard left, hard right, twisting  up, down.
+
+	Ice is right in his shadow. They come in hard and low over 
+
+	the sea. He has the MiG in the diamond.
+
+			ICE
+
+	GOOD TONE, FOX ONE
+
+	The MiG starts turning.
+
+			ICE
+
+	Ah Nuts!
+
+	The missile goes by the tail.
+
+			ICE
+
+	Son of a bitch!
+
+	Then his tail comes off, the airplane goes over, a chute 
+
+	comes out. The MiG EXPLODES into a thousand small pieces. 
+
+	They roar by the MiG pilot hanging in his straps.
+
+			SLIDER
+
+	JESUS!  HEY SPLASH ONE, SPLASH ONE 
+
+	BANDIT! SPLASH THAT SUCKER!
+
+			MAVERICK
+
+	I GOT ONE HERE. ON THE NOSE.  
+
+	COMING DOWN. 
+
+	Rolling down on him, good SIDEWINDER TONE. The MiG'S sense 
+
+	him, they break, one guy down low. 
+
+			ICE
+
+	ON THE NOSE?
+
+			MAVERICK
+
+	GOT 'EM. GOT GOOD TONE.
+
+	He squeezes the trigger.
+
+	123.  EXT. THE MISSILE STARTS TO GO 
+
+	The vapor trail comes off, the MiG 21 turns like he's been 
+
+	bounced off a rubber wall, comes around on the missile, beats 
+
+	it. The missile flies by him. 
+
+			MAVERICK
+
+	AH, SHIT! GODDAMN IT!
+
+	MiG comes back turning into him.
+
+			FUNGUS
+
+	THERE'S ANOTHER ONE UP THERE!
+
+			MAVERICK
+
+	I GOT ONE COMING UP.
+
+			FUNGUS
+
+	AND HE'S GUNNING.
+
+	He looks back. 30 millimeter tracers go by; they just kind 
+
+	of float. He breaks, hits airbrakes, the trailing MiG dives 
+
+	through.
+
+	Suddenly another MiG appears, rocketing straight for him. 
+
+	They close at 900 knots--VABOOOM!--They pass nose to nose, 
+
+	canopy to canopy. Both planes pitch straight up, trying for 
+
+	the altitude advantage.
+
+			MAVERICK
+
+	Zone 5 burners.
+
+	The F-14 outclimbs the MiG sitting on its tail, full 
+
+	thruster, it rockets straight up, away from the planet.  
+
+	Maverick has the advantage. Suddenly, his F-14 runs out of 
+
+	energy. FUNGUS is the first to call it.
+
+			FUNGUS
+
+	We're ballistic! Ohhhhhh Shit!
+
+	The plane backs down on itself, backs into its own smoke as 
+
+	it flips over, falls away...He catches it, just regains 
+
+	control, when...A ROAR. He looks up.
+
+	SECOND MIG coming down. Right on him. It fills the Canopy! 
+
+	Instinctive - A Push to miss him, Maverick breaks fast down 
+
+	into him, a last ditch maneuver, and the airplane 
+
+	DEPARTS...the roll rates and the pitch rates combine and it 
+
+	tumbles over the top; the airplane just goes end-over-end. 
+
+	They are being slammed and rattled all over the 
+
+	cockpits...bone-jarring, neck-snapping whips. SHRIEKS and 
+
+	SCREAMS from the airframe. Terriflying?
+
+			FUNGUS
+
+	Ohhh Mother!
+
+			MAVERICK
+
+	    (strangely calm)
+
+	Goddamnit, Mav, you really are a 
+
+	slow learner. Don't worry, Fung, 
+
+	I've got it.
+
+	Fungus is getting his teeth rattled. He's helpless, he has 
+
+	no controls, there's nothing he can do but hold on.
+
+			FUNGUS
+
+	Don't WORRY!!!?   You've GOT it!!? 
+
+	Are you CRAZY?
+
+			MAVERICK
+
+	Roger, I've got it. 
+
+	The plane's gyrations are rattling Fungus's helmet off the 
+
+	canopy. 
+
+			FUNGUS
+
+	You've got it?   Good!  Cause for a 
+
+	minute there, you had me worried.
+
+	It yaws and rolls, starts into a spin.
+
+			FUNGUS
+
+	Now have you got it?  Have you 
+
+	still got it?
+
+			MAVERICK
+
+	Yawing right.
+
+			FUNGUS
+
+	I know!
+
+			MAVERICK
+
+	Rudder's left, stick's forward.
+
+			FUNGUS
+
+	Swell! Passing ten thousand!
+
+			MAVERICK
+
+	I've got it -- hold on!
+
+			FUNGUS
+
+	Passing 8. Passing 6. Lock your 
+
+	harness!
+
+			MAVERICK
+
+	I can recover. Hold on!
+
+	They're in a progressive spiral, nose low.  The altimeter 
+
+	unwinds, speed picks up. The G forces are forcing them away 
+
+	from the axis of spin, jamming Maverick against the 
+
+	instrument panel at the front of the cockpit. 
+
+			MAVERICK
+
+	You with me?
+
+	Fungus, also, is jammed to his panel.
+
+			FUNGUS
+
+	Right behind you. 
+
+	He is closer to the center of spin and less strongly held. 
+
+	It doesn't do much good, however, he can't control the plane. 
+
+	The only thing he can reach is the yellow and black loop; the 
+
+	ejection handle. He reaches for it.
+
+			FUNGUS
+
+	Speed's up to 150. 
+
+	Fungus's eyes are wide.  The earth grows larger as it rises 
+
+	towards them. G forces flatten them. They've long since lost 
+
+	the MiG. Nobody but an idiot would try to follow them in this 
+
+	maneuver.
+
+			FUNGUS
+
+	5000 feet. Speed two hundred.
+
+			MAVERICK
+
+	Okay.
+
+	The earth grows larger.
+
+			FUNGUS
+
+	4500. Critical point.
+
+	FUNGUS grabs the ejection handle with both hands.
+
+			MAVERICK
+
+	No! Not again!
+
+			FUNGUS
+
+	What are you talking about,
+
+		we gotta go!
+
+			MAVERICK
+
+	I'm not losing it again!
+
+	The jet is standing on its nose, gaining speed, plunging 
+
+	towards the ocean.  
+
+			FUNGUS
+
+	Gotta go, man.
+
+			MAVERICK
+
+	280, 290, 300 knots.
+
+			FUNGUS
+
+	3,000 feet.  We gotta go, man.  
+
+	3,000 feet, we gotta go!
+
+			MAVERICK
+
+	You go. I'm staying with it.
+
+			FUNGUS
+
+	I'm gonna go! THREE...TWO...ONE...
+
+	Then, just as suddenly, as he's about to pull...Maverick 
+
+	catches it. The plane responds. They're out of the spin. He 
+
+	gets control. Fungus sits there dumbly, hands on handle. 
+
+	Still not believing...
+
+			FUNGUS
+
+	ONE....ONE....ONE...
+
+	SEA LEVEL 
+
+	Maverick stops the tumble, pulls the nose up quickly and the 
+
+	F-l4 sweeps into level flight no more than a hundred feet 
+
+	above the deck. He comes up and looks right at Ice. Ice is 
+
+	down low. He comes around, a MiG-21 all over him like a cheap 
+
+	suit. A flick, a whip, and Maverick in perfect position, 
+
+	rolls right in on the MiG. Fungus looks like he just saw 
+
+	Jesus. 
+
+			FUNGUS
+
+	What  in  the  Christ...was that? 
+
+	He looks at the Mig target set-up in front of him in awe.
+
+			FUNGUS
+
+	Did you plan that? Was all that 
+
+	something you planned?
+
+	Maverick's acquired the target and is all business. 
+
+			MAVERICK
+
+	ALL RIGHT, ICE. COME HARD 
+
+	STARBOARD, THEN EXTEND TO THE EAST. 
+
+	Fungus is still lividly frazzled.
+
+			FUNGUS
+
+	Because...if that was... Next time 
+
+	you tell me first.
+
+			ICE
+
+	ROG.
+
+	Maverick breaks down, Ice zooms up, breaks in and takes the 
+
+	MiG the other way. Maverick Yo Yo's in, comes right up behind 
+
+	the MiG, as the MiG starts acceleration. 
+
+	Maverick rolls in on Ice and the MiG. 
+
+			MAVERICK
+
+	I GOT A WINDER LEFT, BUT NO GOOD 
+
+	TONE ON IT.
+
+			ICE
+
+	I CAN'T LOSE HIM, CAN YOU GET OFF  
+
+	A SHOT?
+
+			MAVERICK
+
+	I GOT NO TONE. IT MIGHT GET YOU.
+
+			ICE
+
+	WHAT CHOICE DO I HAVE?   SHOOT IT.
+
+			MAVERICK
+
+	WHEN I SHOOT, YOU BREAK LEFT..3..2 
+
+	The MiG fires.
+
+			MAVERICK
+
+	HE FIRED, BREAK NOW!
+
+	Ice breaks left, drops flares. The MiG's missile follows the 
+
+	flares. Maverick FIRES. The missile doesn't twitch. It flys 
+
+	right up the tail pipe of the MiG, the canopy flies off, the 
+
+	pilot comes out of it, and then the MiG blows up, We go right 
+
+	through the fire ball. VVVARRRUOOMMM!
+
+			MAVERICK
+
+	He's out! We got him!
+
+	The MiG rolls into the ground...KABOOM!  They swoop by the 
+
+	pilot, hanging in his straps...He watches them, dumbly. 
+
+	Fungus waves. 
+
+			FUNGUS
+
+	What a dope! Maybe they'll
+
+		give him another plane...and we
+
+		can shoot him down again.
+
+	Maverick and Ice join up, light it, stand on their burners 
+
+	and blast straight for the sun.
+
+	MAVERICK'S F-14 
+
+	Without warning, a triple roll, as the elation hits him.
+
+	125.  INT. MAVERICK'S COCKPIT 
+
+			FUNGUS
+
+	What is it? What's wrong?
+
+	Fungus nervously looks around at his circuit breakers.
+
+			FUNGUS
+
+	Is there something I should know?
+
+			MAVERICK
+
+	Just relax.
+
+			FUNGUS
+
+	Is it the plane?
+
+			MAVERICK
+
+	The plane is fine.
+
+			FUNGUS
+
+	Is it you?
+
+			MAVERICK
+
+	Yeah, I guess it is. We did it! We 
+
+	did it...Damn! We sure did it!
+
+			MAVERICK
+
+	HELLO MUSTANG, THIS IS MAVERICK. 
+
+	I'VE GOT A MESSAGE FOR STINGER. 
+
+			STRIKE 
+
+	(V.O.) 
+
+	ROGER, MAVERICK. GO AHEAD.
+
+			MAVERICK
+
+	TELL STINGER MAVERICK HAS GOOD NEWS 
+
+	AND SOME BAD NEWS. THE GOOD NEWS IS 
+
+	THAT ICE GOT A MIG. THE BAD NEWS IS 
+
+	THAT MAVERICK GOT TWO!
+
+	He looks over at Ice.  
+
+			MAVERICK
+
+	I GOTTA HAVE ONE.
+
+	126.  INT. ICE'S COCKPIT
+
+			SLIDER
+
+	We're low on fuel, Ice.
+
+	Ice considers for a moment, then responds.
+
+			ICE
+
+	I know. I know....Aw hell, let's do 
+
+	it!
+
+	127.  INT. MAVERICK'S COCKPIT
+
+			FUNGUS
+
+	You're not supposed to...
+
+			MAVERICK
+
+	But I have to!
+
+			FUNGUS
+
+	Then...shit! Go ahead. I'm right 
+
+	behind you.
+
+			MAVERICK
+
+	MUSTANG, THIS IS MAVERICK, REQUEST 
+
+	A FLYBY.
+
+	128.  PRI-FLY BRIDGE - (Primary Flight Control)  USS KITTY 
+
+	HAWK
+
+	The Air Boss speaks to Maverick over the UHF. The Admiral, 
+
+	the XO and other officers watch and listen.
+
+			AIR BOSS
+
+	NEGATIVE, GHOST RIDER, THE 
+
+	PATTERN'S FULL.
+
+			MAVERICK (V.O. filtered)
+
+	MUSTANG, THIS IS GHOST RIDER. 
+
+	REQUEST A FLYBY FOR TWO.
+
+			OFFICER
+
+	Who is that guy?
+
+			ADMIRAL
+
+	Mitchell...
+
+			XO
+
+	   (surpressing a grin)
+
+	...Likes to break at 600, 'stead of 
+
+	300 knots. The Air Boss hates him. 
+
+	One time, he came over the deck at 
+
+	two hundred, shakes the shit out of 
+
+	the bridge. Lifted Johnson right 
+
+	off his feet.
+
+	129.  INT. MAVERICK'S F-14
+
+	He glances over at Ice, who gives him thumbs up.
+
+			MAVERICK
+
+	BOSS, YOU BETTER CLEAR IT OUT,
+
+		WE'RE FIVE MINUTES OUT
+
+		AND WE'RE DOING IT!
+
+	130.  INT. PRI-FLY BRIDGE
+
+	The Admiral looks out over the water and smiles.
+
+			MAVERICK (V.O. filtered)
+
+	TEN MILES ASTERN, BOSS. HOW ABOUT 
+
+	IT?
+
+	The Air Boss is livid. He clenches the mike.
+
+			AIR BOSS
+
+	MUSTANG TO GHOST RIDER!...
+
+	Just then the Admiral pipes up.
+
+			ADMIRAL
+
+	Johnson!
+
+			AIR BOSS
+
+	Yes, Sir, Admiral?
+
+			ADMIRAL
+
+	Give him his flyby.
+
+	The Admiral looks at the others, tries to surpress his own 
+
+	grin. He slides into his (borrowed) command chair, looks into 
+
+	the wind. On the back of the chair, a clue; his name and 
+
+	rank:  RADM. Buford Clancy, "BOOMER"
+
+	The AIR BOSS burns, but has no choice. 
+
+			AIR BOSS
+
+	    (really pissed off)
+
+	 ROGER, GHOST RIDER, YOU'RE CLEAR.
+
+	131.  EXT. 
+
+	KITTY HAWK DAY
+
+	Sailors line the deck and search the sky. They crane their 
+
+	necks from their battle stations, sweating into the sun, 
+
+	watching for the approach of F-14's. Someone sees it--he 
+
+	points and SHOUTS. The F-14 appears, and every man stands and 
+
+	CHEERS.
+
+	132. POV -
+
+	WE COME SCREAMING IN, 5 FEET OVER THE WATER, throwing up 
+
+	rooster tails behind. WE SPLIT OFF and ZOOM along each side 
+
+	of the carrier, at 100 feet and ROLL IT.
+
+	133.  INT. PRI-FLY BRIDGE--VVVAAAAABBOOOOM!
+
+	It lifts the Air Boss right off his feet. The walls warp, 
+
+	dust sifts from the overhead. The whole tower just goes BOOM!
+
+			AIR BOSS
+
+	Goddamn that guy!"
+
+	134.  EXT. FLIGHT DECK
+
+	They break at 500 knots. Ice is first down over the ramp, 
+
+	waved in.  The F-14 comes in a little rocky. It bounces hard 
+
+	but grabs the wire, then jerks to a sudden halt. The sailors 
+
+	CHEER AND APPLAUD, throwing fists of victory into the air, 
+
+	straining to get a look at Ice as the crew directs his plane 
+
+	off to the side. Opening the canopy, Ice and Slider unstrap. 
+
+	Stinger and the others are there. Guys are climbing up, 
+
+	climbing all over the airplane. They're already painting a 
+
+	MiG on the side, and they're looking at Ice in awe.
+
+	135.  POV - MAVERICK - THROUGH THE WINDSHIELD - AS HE LANDS
+
+	He catches the wire, the view slams down toward the deck as 
+
+	the plane arrests, then comes up...He releases the cockpit 
+
+	and can hear the ROAR OF THE CROWD...
+
+	136.  EXT. FLIGHT DECK
+
+	He swings the nose around past Ice's. Ice's plane is covered 
+
+	in colored jerseys as the ground crew pulls him out. 
+
+	Maverick's plane swings towards the PRI-FLY BRIDGE. Pilots in 
+
+	flightsuits pour from the deck hatch APPLAUDING... 
+
+	137.  HE CUTS HIS ENGINES AS THE GROUND CREW SWARMS
+
+	As Maverick and Fungus climb down, they see their wingmen on 
+
+	the deck. Ice is looking in Maverick's direction. His face is 
+
+	inscrutable. Maverick gets mobbed, but pushes over to Ice. 
+
+	They stare at each other for a moment, eye to eye even as 
+
+	they are buffeted by the crowd. Finally, Ice breaks...a grin.
+
+			ICE
+
+	I guess I owe you one.
+
+			MAVERICK
+
+	You don't owe me anything.
+
+		We're on the same team. 
+
+			ICE
+
+	You saved our lives. You did it! 
+
+			MAVERICK
+
+	We did it.
+
+			ICE
+
+	You're a hell of a flyer.
+
+		    (he can't resist)
+
+		You can be my wingman any time.
+
+			MAVERICK
+
+	    (laughs)
+
+	No. You can be mine!
+
+	Now Ice laughs. Nobody's ever gonna win on this one. But Ice 
+
+	smiles at him...It's now a running joke between them.
+
+			ICE
+
+	Whatever you say, Commander.
+
+	He and Slider snap to and proudly salute. Maverick 
+
+	hesitates, then returns it. As Ice and Slider snap it off, it 
+
+	turns into the pilot's salute, they give them the bird. 
+
+	Maverick and Fungus laugh and return the compliment. 
+
+	As they are mobbed by sailors, Maverick is elated to see two 
+
+	familiar figures: Hollywood and Wolfman turn from their 
+
+	battle damaged TOMCAT on the forward elevator as it sinks out 
+
+	of sight below decks.
+
+	138.  EXT. FLIGHT DECK
+
+			FUNGUS
+
+	What happened to you?
+
+			WOLFMAN
+
+	He got our radio, and an engine. We 
+
+	were lucky to make it back.
+
+			HOLLYWOOD
+
+	Not luck. Skill.
+
+	ANOTHER ANGLE
+
+	Stinger rushes up, grabs Ice and Maverick in a bear hug.
+
+			STINGER
+
+	MiG killers! You name it, boy. 
+
+	Sky's the limit. You name it. A 
+
+	medal. Anything you want. Anything.
+
+			ICE
+
+	MiG killers!  What else is there?
+
+	Maverick grins, turns away from them.  He he looks out, at 
+
+	the dying sun glinting over the sea. He thinks how beautiful 
+
+	it is out here! Fungus grabs him from behind.
+
+			FUNGUS
+
+	You hear that? Anything we want. 
+
+	Anything...Well???
+
+			MAVERICK
+
+	Well what?
+
+			FUNGUS
+
+	What do you want?
+
+			MAVERICK
+
+	What do I want?
+
+			FUNGUS
+
+	What do you want?
+
+			MAVERICK
+
+	     (he thinks.)
+
+	Any more MiGs?
+
+	Stinger shakes his head no.
+
+			STINGER
+
+	They don't seem to want to come up 
+
+	anymore. There's nothing on the 
+
+	scopes. In fact, everybody's 
+
+	denying the incident ever happened. 
+
+	So...what is it?  What do you want?
+
+	Maverick turns away, considering the options.
+
+	139.  EXT. FLIGHT DECK - ANOTHER ANGLE
+
+	Another Tomcat rolls up to park nearby. He looks 
+
+	at the plane. Over the deck LOUDSPEAKER, comes the 
+
+	final call to the F-14:
+
+			LSO (V.O. filtered)
+
+	    (a touch of sarcasm)
+
+	OKAY, GENTLEMEN. YOU CAN CUT YOUR 
+
+	ENGINES...YOU HAVE ARRIVED....
+
+	WWHHHEEEEZZZZEEERRRRRUUUUUMMMMMMMMM...
+
+	AS THE ENGINES FADE, SO DOES THE PICTURE.
+
+	FADE IN - WEEKS LATER
+
+	140.  EXT. DAY - FLIGHT LINE MIRAMAR - TOPGUN
+
+	Viper, Jester and others walk out of hangar to watch a wing 
+
+	return.
+
+	141A.  EXT. MIRAMAR RUNWAY - DAY
+
+	THEIR POV. Suddenly an F-14 breaks, ROARS in over the field 
+
+	inverted, a hundred feet off the ground.
+
+	142.  FLIGHT LINE MIRAMAR - DAY
+
+			JESTER
+
+	Who's the hell is that?
+
+			VIPER
+
+	Three guesses.
+
+			JESTER
+
+	Well, he's in trouble and he didn't 
+
+	even get here yet.
+
+	Jester looks over at an admiral, who steps out of a staff 
+
+	car, squints up at the swooping plane, turns, barks an order 
+
+	to his driver, jumps in the car and SLAMS the door, the car 
+
+	takes off.
+
+	143.  EXT. MIRAMAR RUNWAY - DAY - FURTHER DOWN THE RUNWAY
+
+	MP jeeps - lights flashing, pull out and head for the flight 
+
+	line.
+
+			VIPER
+
+	Come on.
+
+	They head for the hangar
+
+	144.  OVER THE END OF THE RUNWAY
+
+	The jet breaks at 500 knots and sets down neatly on the 
+
+	tarmac. The rest of his flight follows in perfect formation.
+
+	145.  EXT. MIRAMAR RUNWAY - DAY - MAVERICK'S JET -PULLING UP
+
+	He unbuckles his straps, takes his helmet off. He looks over 
+
+	at the approaching caravan.
+
+			FUNGUS
+
+	I think they know we're here.
+
+			MAVERICK
+
+	Let me do the talking.
+
+			FUNGUS
+
+	Oh, no. You did the flying, I'll do 
+
+	the talking! 
+
+	He stands up in the cockpit, gives a snappy salute.
+
+			FUNGUS
+
+	Why Admiral....How really good it 
+
+	is to see you!
+
+	Maverick turns away. As he backs down the steps, a jeep 
+
+	screeches up, doors slam open, footsteps.
+
+			A VOICE
+
+	Who's in charge here?
+
+			MAVERICK
+
+	I am.
+
+	He's answered automatically, but now it hits him. He knows 
+
+	the voice. He turns.
+
+	HIS POV - CHARLIE, HANDS ON HIPS
+
+			CHARLIE
+
+	Not for long, you keep that up.
+
+	He hops down, stands there speechless, grinning happily at 
+
+	her.
+
+			CHARLIE
+
+	Well?
+
+			MAVERICK
+
+	Well what?
+
+			CHARLIE
+
+	You got your F-14, you got Top Gun, 
+
+	you got your MiGs....You're our new 
+
+	Top Gun instructor...Now what?
+
+			MAVERICK
+
+	Oh...I'll think of something... 
+
+	What are you doing here?
+
+			CHARLIE
+
+	I live here, remember?
+
+			MAVERICK
+
+	Right on the flight line?
+
+	He's got her on that one. She laughs.
+
+			CHARLIE
+
+	Everybody's got to be somewhere.
+
+			MAVERICK
+
+	Maybe your somewhere's with me...
+
+	He puts his arms around her. Self-conscious, she pulls away, 
+
+	a little embarrassed to show this on the flight line. He 
+
+	laughs.
+
+			MAVERICK
+
+	That's okay. I always look forward 
+
+	to a challenge. 
+
+	Now she laughs back and puts her arms around him. She kisses 
+
+	him and now she doesn't give a damn who sees it.
+
+	TOP GUN
+
+	Chip Proser
+
+	Hollywood 
+
+	April 19, 1985
+

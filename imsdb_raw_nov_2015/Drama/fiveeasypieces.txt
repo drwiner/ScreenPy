@@ -1,0 +1,7664 @@
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Five Easy Pieces - by Carole Eastman
+
+		Five Easy Pieces
+
+		By
+
+		Carole Eastman
+
+		TITLE SEQUENCE:
+
+		The Bach-Vivaldi A-Minor Concerto for Four Pianos
+
+		PLAYS OVER a series of family album photographs.
+
+		Written in careful penmanship beneath each are
+
+		names identifying family members:
+
+		1ST PHOTO: A man stands in front of the raised
+
+		sounding board of a piano, playing the viola.
+
+		Seated on the piano bench, accompanying him, is a
+
+		woman in a maternity dress: 
+
+		"Isabelle and Nicholas"
+
+		2ND PHOTO: A boy of 11, wearing conductor's tails
+
+		and holding a raised baton in his right hand as if
+
+		about to gesture a downbeat:
+
+		"Herbert Kreutzer Dupea"
+
+		3RD PHOTO: Another boy of approximately 9, in the
+
+		act of playing the violin:
+
+		"Carl Fidelio Dupea"
+
+		4TH PHOTO: The two boys are now poised behind the
+
+		piano. Seated on its bench is a girl of 6, her
+
+		hands resting on the keyboard. Written beneath:
+
+		"Elizabeth Partita Dupea"
+
+		5TH PHOTO: The above family group, seated on the
+
+		porch of the Dupea home. All eyes but Isabelle's
+
+		are faced toward the camera. She beams upon a 3
+
+		year-old asleep in her arms, his head resting
+
+		against her bosom. His figure is encircled by the
+
+		pen's marking and preceding his name is the
+
+		configuration of a small heart:
+
+		"Robert Eroica Dupea"
+
+		INT. MUSIC ROOM - DUPEA HOME - DAY
+
+		BACH-VIVALDI OVER: 
+
+		A 7-year-old BOBBY sits in a chair, his feet
+
+		dangling in absent-minded rhythm to a chamber piece
+
+		played by his father, his two brothers and his
+
+		sister. 
+
+		CLOSE ON a metronome, marking a slow etude rhythm. 
+
+		The CAMERA MOVES from it to Bobby, on the piano
+
+		bench beside his mother. As she patiently
+
+		demonstrates the etude for him, he places a thumb
+
+		in his mouth and leans against her arm. 
+
+		ON THE METRONOME at an andante rhythm. CARL and
+
+		TITA, now in their teens, are seated side by side
+
+		on the piano bench, playing four-hands with
+
+		dazzling virtuosity. 
+
+		The CAMERA MOVES from them to a framed newspaper
+
+		article on the music-room wall. Below a photograph
+
+		of a 20-year-old young man are the words: "Herbert
+
+		Kreutzer Dupea - Seattle's Youngest Guest
+
+		Conductor."
+
+		INT. RECITAL HALL GREEN ROOM - NIGHT
+
+		BACH-VIVALDI OVER:
+
+		Bobby, at 10, wearing a dress suit. His mother
+
+		combs his hair with maternal concentration.
+
+		CLOSE-UP of a program announcing a Dupea family
+
+		recital. The CAMERA SCANS down the bill, over:
+
+		Sonata in C Major for Two Violins - Bach - Played
+
+		by Nicholas and Carl Dupea. 
+
+		Like As a Lovelorn Turtle - Hendel - Sung by
+
+		Isabelle Dupea. 
+
+		Rondo Alla Turca - Mozart - Played by Elizabeth
+
+		Dupea. 
+
+		Piano Sonata, Opus 110 - Beethoven - Played by
+
+		Herbart Dupea. 
+
+		The CAMERA COMES to rest on:
+
+		Five Easy Pieces - Grebner - Played by Robert
+
+		Dupea. 
+
+		INT. MORTUARY CHAPEL - DAY
+
+		Five Easy Pieces, played haltingly OVER the torsos
+
+		of a line of people moving slowly down the chapel
+
+		aisle. 
+
+		ANOTHER ANGLE 
+
+		shows a solemn procession of the above, filing by
+
+		an open casket holding Isabelle Dupea.
+
+		ON THE FAMILY PEW
+
+		The CAMERA PANS from NICHOLAS, seated on the aisle,
+
+		to the four adult children seated next to him and
+
+		COMES TO REST on Bobby. His gaze is cast down to
+
+		his lap, as he refuses to look at:
+
+		The pale profile of his mother's face resting
+
+		within the satin folds of the casket lining, and...
+
+		... as the last of the "family friends" pay their
+
+		respect: Nicholas steps out into the aisle and,
+
+		followed by Tita, Carl and HERBERT, moves down
+
+		toward the casket.  
+
+		Bobby rises from his seat and makes his way toward
+
+		the aisle, where he hesitates briefly, then turns
+
+		and walks up the aisle and out the chapel doors. 
+
+		TITLES END
+
+		EXT. SIGNAL HILL OIL FIELD - DAY
+
+		TAMMY WYNETTE'S "STAND BY YOUR MAN" OVER:
+
+		The toothed bucket of a back hoe trenches into the
+
+		earth, then lifts up into the air, revealing Bobby
+
+		in hard-hat and heavy gloves, operating the levers.
+
+		As the hoe swings off to the side and deposits a
+
+		load of earth into the rear of a truck...
+
+		... a SERIES OF SHOTS begins, showing Bobby and a
+
+		fellow hard-hat (ELTON) engaged in the dirty and
+
+		dangerous task of working "crew" with a team of
+
+		TOOL-PUSHERS on the derricks of Signal Hill.
+
+		Functioning as servants of the well and its pumps,
+
+		the PULL rods, MAKE and BREAK joints on the rig
+
+		floor, WELD tubing, CARRY pipes, CLIMB the "tour,"
+
+		and PLAY THE DOZENS on beer wagon breaks. 
+
+		INT. BOBBY'S CAR - SIGNAL HILL - NIGHT
+
+		ABOVE SONG OVER:
+
+		Bobby, still in his hard hat, as he drives. Out
+
+		through the window, the derricks of the Hill can be
+
+		seen, their night-work lights on. 
+
+		EXT. BOBBY'S CAR - NIGHT
+
+		SONG OVER:
+
+		FOLLOWING ON the car as it moves off the Hill into
+
+		the seamy districts adjacent to it, passing by fast
+
+		food joints, liquor stores, all-night porno parlors
+
+		and neon-lighted bars. 
+
+		INT. BOBBY'S CAR - NIGHT
+
+		SONG OVER:
+
+		ON BOBBY'S FACE:
+
+		as he stares out through the windshield, his eyes
+
+		distant, dwelling in an oblivion that blanks both
+
+		the present and past. 
+
+		EXT. BOBBY'S CAR - NIGHT
+
+		SONG OVER:
+
+		The car pulls onto a low-rent residential street
+
+		and comes to a stop in front of a small bungalow.
+
+		Bobby exits the car, moves up the walkway to the
+
+		house and disappears inside. 
+
+		INT. RAYETTE'S LIVING ROOM - NIGHT
+
+		SONG OVER:
+
+		Bobby, seated on the couch, a can of beer in hand,
+
+		staring morosely across the room, to:
+
+		A PORTABLE STEREO,
+
+		playing the song:
+
+					WYNETTE (V.O.)
+
+			"And if you love him/Oh be proud of
+
+			him/For after all, he's just a
+
+			man..."
+
+		RAYETTE DIPESTO,
+
+		in a waitress's uniform with a bowl of beer nuts.
+
+		After placing them on the coffee table in front of
+
+		him, she leans down and kisses him. Challenged by a
+
+		less than reciprocal response, she kisses him more
+
+		fervently. As she moves her lips from his ear to
+
+		his neck, he lifts the can to his mouth and drinks.  
+
+					WYNETTE (V.O.)
+
+			"Stand by your man/And show the
+
+			world you love him/Keep giving all
+
+			the love you can/Stand by your
+
+			man."
+
+		The song concludes, and setting aside her ardor for
+
+		the moment:
+
+					RAYETTE
+
+				(Arky accent)
+
+			I'm gonna play it again...
+
+		As she starts for the stereo, he takes hold of her
+
+		hand. 
+
+					BOBBY
+
+			You're not going to play it again.
+
+					RAYETTE
+
+			Well, lemme play the other side
+
+			then.
+
+					BOBBY
+
+			No.
+
+		Again, he prevents her from moving to the stereo
+
+		and pulls her down onto the couch.
+
+					RAYETTE
+
+			Now quit, Bobby. You said you're
+
+			goin' a help me pick a song. 
+
+					BOBBY
+
+			You said.
+
+					RAYETTE
+
+			Well, lemme sing the one I picked
+
+			an' see what you think...
+
+				(she sings)
+
+			"When there's a fire in your
+
+			heart/Break the glass/Sound the
+
+			alarm..."
+
+		He picks up one of the couch pillows and holds it
+
+		over his ear. 
+
+					RAYETTE
+
+			Oh, you prick...
+
+		She pulls it from his hand.
+
+					RAYETTE
+
+			How 'bout if I just cut off your
+
+			damn water?
+
+					BOBBY
+
+			I'm too moved by your gentility to
+
+			speak. 
+
+		She immediately softens and tries to become more
+
+		"refined."
+
+					RAYETTE
+
+			Sugar, you know how I feel about
+
+			you, don't you? I'm just tryin' to
+
+			get you to take an interest in my
+
+			kind a things, an' what I'm tryin'
+
+			to do with myself...
+
+				(bringing her face close
+
+				to his)
+
+			You know, there id'n anything in
+
+			the world I wouldn't do for you,
+
+			baby. I started livin' the day I
+
+			found you, you know that?
+
+					BOBBY
+
+			You're playing the other side.
+
+		Very hurt, she sits up and looks away from him. He
+
+		finishes the beer and holds the can out to her. 
+
+					BOBBY
+
+			Cerveza.
+
+					RAYETTE
+
+				(grabbing it from him)
+
+			Serveza yourself!
+
+					BOBBY
+
+			Now, now.
+
+					RAYETTE
+
+				(she stands up)
+
+			No, dammit, I would easy.
+
+		And, as she turns and goes toward the kitchen:
+
+					BOBBY
+
+			But you heal fast.
+
+		Through the open door to the kitchen, Rayette can
+
+		be seen opening the refrigerator. She takes out a
+
+		can of beer and returns to Bobby. 
+
+					RAYETTE
+
+				(over the above)
+
+			You can play the piano, an' your
+
+			whole damn family can play on some
+
+			type a musical instrument. An' all
+
+			I'm askin' is for you to listen to
+
+			my singing for one single little
+
+			second...
+
+		She hands him the can and sits back down on the
+
+		couch.
+
+					RAYETTE
+
+			But you think you would? No, you're
+
+			too damn selfish...
+
+		He gestures at the name tag on her dress, and, as
+
+		we'll find he often does, speaks in the Okie-Arky
+
+		accent he's learned from working the rigs:
+
+					BOBBY
+
+			Why'nt you take 'at sign off your
+
+			tit, Ray, an' let's go on out.
+
+					RAYETTE
+
+			Out where?
+
+		She sits down and begins removing the tag.
+
+					BOBBY
+
+			I don't know, I'll holler up Elton
+
+			an' Stoney...
+
+		She thinks about it, then moves closer to him and
+
+		begins unbuttoning his workshirt, as:
+
+					RAYETTE
+
+			I'll go out with you, or I'll stay
+
+			here, and do anything you'd like
+
+			for me to do... if you'll just do
+
+			one thing. If you'll tell me that
+
+			you love me.
+
+					BOBBY
+
+			You can sing the song.
+
+					RAYETTE
+
+				(annoyed)
+
+			You know what, you are never
+
+			satisfied.
+
+					BOBBY
+
+			That's right, hand.
+
+		The response makes her deeply insecure and she
+
+		immediately lays her body against his...
+
+					RAYETTE
+
+			Oh, now, baby...
+
+		... and initiates another round of kissing.
+
+		INT. BOWLING ALLEY - NIGHT
+
+		Bobby lifts his ball from the return rack, moves to
+
+		the lane and bowls a perfect strike. Making a self
+
+		congratulatory gesture of triumph, he turns back
+
+		to:
+
+		Elton, seated at the scoring table. His wife,
+
+		STONEY, is seated beside Rayette on the horseshoe
+
+		banquette. As he addresses Rayette, we note that
+
+		Elton's two front teeth are missing.
+
+					ELTON
+
+				(Okie accent)
+
+			Your ball, Ray.
+
+					RAYETTE
+
+				(reluctant)
+
+			Is this suppose to be fun?
+
+					BOBBY
+
+			Go on, get up there...
+
+		She rises and moves to the rack.
+
+					BOBBY (CONT'D)
+
+			... and stay relaxed this time.
+
+		Picking up ball, she moves to the head of the lane
+
+		and slings it down the alley, watching hopefully
+
+		as...
+
+		... it rolls off to the right and takes only one
+
+		pin.
+
+		ON BOBBY
+
+		as she moves to her second ball.
+
+					BOBBY
+
+			Now don't loft it, just release it
+
+			like I told you.
+
+		ON RAYETTE
+
+		as she bowls the ball down the right-hand rut and
+
+		comes back to the banquette, apologizing:
+
+					RAYETTE
+
+			The ball's too heavy for me,
+
+			honey...
+
+		He looks past her to Stoney, about to bowl her
+
+		ball.
+
+					BOBBY
+
+			It's not the damn ball.
+
+		And as Stoney bowls a strike, Rayette hugs his arm.
+
+					RAYETTE
+
+			I'm tryin', baby, so don't start
+
+			gettin' mad now.
+
+					BOBBY
+
+			No, I'm not mad at you, hand. It'll
+
+			be all right. Just spot and follow
+
+			through...
+
+		And as Elton bowls a strike...
+
+					BOBBY (CONT'D)
+
+				(mumbling)
+
+			Shit.
+
+		He gets up and passes Elton on his way to the rack.
+
+					BOBBY (CONT'D)
+
+			Nice ball, El.
+
+		Rayette, to Stoney as she watches Bobby prepare to
+
+		bowl:
+
+					RAYETTE
+
+			Id'n he somethin' to see?
+
+		And as he makes another strike and returns to the
+
+		banquette, she gets up and throws her arms around
+
+		him. He returns her embrace, smiling over her
+
+		shoulder at:
+
+		Two heavily made-up young women (TWINKY and BETTY)
+
+		taking possession of the adjacent lane. (Note that
+
+		Betty is of diminutive proportions, while Twinky is
+
+		Amazonian.)
+
+					RAYETTE (CONT'D)
+
+			Is it my turn again?
+
+					BOBBY
+
+			Right. Now show me a little
+
+			somethin' this time, okay? Give me
+
+			some form...
+
+		He remains standing, watching as she throws another
+
+		gutter ball and then comes back toward him, alibi
+
+		ing:
+
+					RAYETTE
+
+			I can't help it, honey, the ball
+
+			just keeps goin' cocky wobbly on
+
+			me...
+
+					BOBBY
+
+			Will you just do what the hell I
+
+			tell you...
+
+					RAYETTE
+
+			I did, didn' I, El?
+
+					BOBBY
+
+			You got another ball comin'.
+
+		She moves to the rack and, concentrating hard,
+
+		advances down the lane and releases the ball. It
+
+		rolls slowly down the center, hits at precisely the
+
+		right spot and clears the pins.
+
+					ELTON
+
+			Atta boy, Ray!
+
+		Ecstatic, she comes back to the banquette, seating
+
+		herself beside Bobby and trying to solicit a
+
+		response from him.
+
+					RAYETTE
+
+			That was damn good, wad'n it? I
+
+			finally did it...
+
+					BOBBY
+
+			Yeah, great.
+
+				(begins removing his
+
+				bowling shoes)
+
+			Why don't you throw Z's for 19
+
+			frames, and then roll a strike on
+
+			the last ball in the last frame of
+
+			a losing game? Just wonderful.
+
+		Turning to address the two young women over the
+
+		back of the banquette.
+
+					BOBBY (CONT'D)
+
+			Wasn't it, ladies?
+
+					TWINKY
+
+				(pointing at herself)
+
+			Are you talking to us?
+
+		Rayette pulls off her rental shoes and throws them
+
+		to the floor.
+
+					RAYETTE
+
+			I'm gonna go wait in the car.
+
+		He stretches his arms out on the back of the
+
+		banquette as though he intends to reside there
+
+		awhile.
+
+					BOBBY
+
+			Yeah, why don't you do that.
+
+		She grabs her sling-back and her purse and as she
+
+		gets up:
+
+					STONEY
+
+			Wait an I'll I go with you,
+
+			honey...
+
+		As she picks up her belongings and follows Rayette:
+
+					ELTON
+
+				(changing his shoes)
+
+			We gotta get on home an' relieve
+
+			the sitter. Why'nt you an' Ray come
+
+			on over.
+
+					BOBBY
+
+			Okay. Go ahead. I'll settle up for
+
+			the beers...
+
+				(hands him the bowling
+
+				shoes)
+
+			An' walk Rayette over with you,
+
+			will you.
+
+		Elton moves off and Bobby, now full of remorse,
+
+		slumps into a depressed reverie. Beyond him, Betty
+
+		and Twinky, can be seen, engaged in some discussion
+
+		concerning him.
+
+		A WAITRESS with a tray approaches and leans down to
+
+		him.
+
+					WAITRESS
+
+			Can I get you anything else?
+
+					BOBBY
+
+			No. How much do I owe you?
+
+					WAITRESS
+
+			Five'll do it.
+
+		He takes some loose bills from his pocket and lays
+
+		them on her tray. She thanks him and moves off. As
+
+		he reaches down and pulls on one of his boots,
+
+		Twinky approaches behind him and leans down over
+
+		the back of the banquette.
+
+					TWINKY
+
+			We been wantin' to ask you
+
+			something. Are you the guy on YV?
+
+					BOBBY
+
+			Am I on TV?
+
+					TWINKY
+
+				(pointing lo Betty)
+
+			She says you're the one that sells
+
+			all the cars on TV.
+
+					BOBBY
+
+			Well, I don't claim to have sold
+
+			'em all. They still have some left,
+
+			I believe.
+
+		Betty appears on the other side of the banquette.
+
+					BETTY
+
+			See, I told you it was him...
+
+				(then to Bobby)
+
+			Your name's Donnie something,
+
+			right?
+
+					BOBBY
+
+			I leave it to you.
+
+					BETTY
+
+			My name is Shirley, but they call
+
+			me Betty, and her name's Twinky.
+
+					BOBBY
+
+				(looking to Twinky)
+
+			Twinky?
+
+					BETTY
+
+				(explaining)
+
+			Yeah, 'cause she's so "twinky"...
+
+					BOBBY
+
+				(looking from one to the
+
+				other)
+
+			Well, Betty and Twinky, it sure is
+
+			nice talking to you girls. I just
+
+			wish I had more time...
+
+					BETTY
+
+			That's a wig you wear, isn't it?
+
+					BOBBY
+
+				(touching his hair)
+
+			A wig?
+
+					BETTY
+
+			Yeah, I told her it was you, but
+
+			that you're wearing a wig, 'cause
+
+			on TV you're mostly bald in the
+
+			front.
+
+					BOBBY
+
+				(to Twinky)
+
+			Your little friend's real sharp
+
+			there...
+
+				(to Betty)
+
+			Yeah, I don't like to wear the wig
+
+			on TV, because with two and a half
+
+			million people watching you, you've
+
+			gotta be sincere. I just like to
+
+			wear it when I'm out slippin'
+
+			around bowling alleys an' things
+
+			like that. I think it gives me a
+
+			little more class, don't you?
+
+					TWINKY
+
+			Oh, definitely...
+
+					BETTY
+
+				(looking at his hairline)
+
+			Yeah, but I can see a little bitty
+
+			of the net up there, that's what
+
+			give it away.
+
+					TWINKY
+
+			It's so weird to see you in person,
+
+			but that's who she says you are.
+
+					BETTY
+
+				(to her)
+
+			It is him, he said it's him.
+
+				(to Bobby)
+
+			Aren't you.
+
+					BOBBY
+
+			Yeah, you could say it's me.
+
+		Twinky reaches over to the scoring table, picking
+
+		up a pencil and a score sheet.
+
+					TWINKY
+
+			I'm gonna give you our number,
+
+			Donnie, just in case...
+
+				(as she writes)
+
+			We're both professionals, if you
+
+			didn't guess.
+
+					BOBBY
+
+			Well, you seem very professional...
+
+					TWINKY
+
+				(handing the score sheet
+
+				to him)
+
+			I always tell everyone the same
+
+			thing. I got rolled and beat up
+
+			real bad recently, and since then
+
+			it's two for one, an' I work
+
+			strictly in tandem with Betty...
+
+		He glances at the dwarfish Betty.
+
+					BOBBY
+
+			Yeah, I can see how she'd come in
+
+			handy.
+
+		EXT. BOWLING ALLEY PARKING LOT - NIGHT
+
+		Rayette sits sulking in Bobby's car. He comes up to
+
+		the passenger window and leans down to her.
+
+					BOBBY
+
+			Come on. We're goin' over to
+
+			Elton's.
+
+					RAYETTE
+
+			I'm not.
+
+					BOBBY
+
+			You just going to sit there?
+
+					RAYETTE
+
+			Yes.
+
+					BOBBY
+
+			Okay. Hope no one hits on you.
+
+					RAYETTE
+
+			I hope they do.
+
+		He casually slaps the outside of the door.
+
+					BOBBY
+
+			See you later, then...
+
+		He walks off through the lot.
+
+		ON RAYETTE
+
+		staring out through the windshield.
+
+		ON BOBBY
+
+		as he stops and comes back to the car.
+
+					BOBBY
+
+			No one would want to hit on you,
+
+			you look too pathetic.
+
+		No response.
+
+					BOBBY (CONT'D)
+
+			Come on, DiPesto. We can still have
+
+			a good time.
+
+					RAYETTE
+
+			You're the pathetic one, not me.
+
+					BOBBY
+
+			I'm going on over there...
+
+					RAYETTE
+
+			I'm not some piece a crap.
+
+					BOBBY
+
+			I know you're not.
+
+					RAYETTE
+
+			You treat me like I was.
+
+					BOBBY
+
+			I'm sorry.
+
+					RAYETTE
+
+				(close to tears)
+
+			You go slippin' around in front a
+
+			my face, an' in front a Elton an'
+
+			Stoney. What do you imagine they
+
+			think a someone you treat that
+
+			way...
+
+					BOBBY
+
+			Now, hand...
+
+		He opens the door and gets inside, putting his arm
+
+		around her.
+
+					BOBBY (CONT'D)
+
+			Elton and Stoney know how I feel
+
+			about you. An' they're just goin'
+
+			to think I'm not too nice a guy,
+
+			which I'm not, an' that you're a
+
+			hell of a person puttin' up with
+
+			me, that's all.
+
+					RAYETTE
+
+			You're goin' a find me dead one
+
+			time.
+
+					BOBBY
+
+			Sssh, come on now...
+
+				(he kisses her)
+
+			Be a good girl.
+
+					RAYETTE
+
+			If you really want a get up an'
+
+			leave me, you can read about it in
+
+			the newsprint.
+
+					BOBBY
+
+			I'm not going to get up an' leave
+
+			you.
+
+				(kisses her again, then:)
+
+			Now let's go over to El's an' have
+
+			a good time.
+
+					RAYETTE
+
+			Do you love me, Bobby?
+
+		He hesitates briefly, then:
+
+					BOBBY
+
+			Well now, what do you think?
+
+		Though hardly an undying declaration, it's close
+
+		enough to fill her with forgiveness. Reaching over,
+
+		she pulls him into her arms.
+
+		EXT. SIGNAL HILL DERRICK - DAY
+
+		KALEIDOSCOPIC SERIES OF SCENES, showing Elton and
+
+		Bobby WORKING THE RIG as part of a four-man team.
+
+		The DRILLER stands back, giving them directives,
+
+		while the prestigious DERRICKMAN, the "star" of the
+
+		team, lounges around in the b.g. Though he has been
+
+		working the fields for some months, it is apparent
+
+		that Bobby is still somewhat of a novice in the
+
+		operations of the rig.
+
+		FADE OVER ABOVE ACTIONS, to:
+
+		INT. SIGNAL HILL DOGHOUSE - DAY
+
+		An impromptu card game, taking place on a lunch
+
+		break.
+
+		(IMPROVISED) Bobby, in a buoyant mood, lays down a
+
+		winning poker hand and rakes in a pile of bills and
+
+		change lying on the table. The participants include
+
+		Elton and THREE OTHER TOOLPUSHERS. In the b.g., as
+
+		the game continues, other "HANDS" can be seen
+
+		changing clothes.
+
+		INT. TWINKY'S APARTMENT - NIGHT
+
+		Bobby sits morosely on the couch beside Twinky. One
+
+		of his arms is around her, the other holds a can of
+
+		beer. Both he and Twinky are looking at...
+
+		... Elton, who rides Betty on his leg as both sing
+
+		"Ride a Cockhorse To Banbury Cross." She begins to
+
+		laugh with the hysterical abandon of a child, and
+
+		Elton, nearly beside himself, looks over to Bobby.
+
+					ELTON
+
+			God, id'n she the cutest damn thing
+
+			in your life!
+
+		EXT. SIGNAL HILL FIELD - DAY
+
+		(ELTON SINGING A RANK DOGHOUSE SONG OVER:)
+
+		REMOTE ANGLE ON BOBBY AND ELTON
+
+		Having been up all night, drinking, they move
+
+		unsteadily toward a derrick and are intercepted by
+
+		the driller as they climb the stairs to the rig
+
+		floor. He informs them they are unfit to work and
+
+		"impolitely" eighty-sixes them for the day.
+
+		EXT. BOBBY'S CAR - FREEWAY - DAY
+
+		(ELTON SINGING OVER:)
+
+		Bobby's car slows as it moves into a freeway jam.
+
+		INT. BOBBY'S CAR - FREEWAY - DAY
+
+		He gestures out at the traffic as Elton, strumming
+
+		a ukelele, concludes his song.
+
+					BOBBY
+
+			Can you believe this shit?
+
+		He takes a drink from a half pint of bard liquor,
+
+		then angrily hits at the steering wheel.
+
+					BOBBY (CONT'D)
+
+			Goddamned freeway... Jesus
+
+			Christ...
+
+		THROUGH THE WINDSHIELD
+
+		A few cars ahead, a truck can be seen carrying
+
+		several furniture pieces protected by padded
+
+		covers.
+
+					ELTON
+
+			Give 'em the horn, Bob.
+
+					BOBBY
+
+			Look at these assholes! What the
+
+			hell are they doing?!
+
+		EXT. FREEWAY JAM - DAY
+
+		The assholes are going nowhere and other cars close
+
+		up behind and to both sides of Bobby's car.
+
+		INT. BOBBY'S CAR - FREEWAY - DAY
+
+		He suddenly throws the car into "park"...
+
+					BOBBY
+
+			I can't take this shit anymore.
+
+		... opens the door and gets out.
+
+		EXT. FREEWAY - DAY
+
+		ON BOBBY
+
+		moving down the freeway, away from his car. Behind,
+
+		Elton can be seen sliding over into the driver's
+
+		seat.
+
+		ANOTHER ANGLE
+
+		as Bobby steps up onto the fender of a car, looking
+
+		for the cause of the jam.
+
+					DRIVER
+
+			Hey, get off my car!
+
+		INT. BOBBY'S CAR - FREEWAY - DAY
+
+		ON ELTON
+
+					ELTON
+
+			Where the hell's he goin'?
+
+		EXT. FREEWAY - DAY
+
+		Bobby cuts in front of another car and climbs up
+
+		into the rear of the truck. Moving to the front of
+
+		it, he looks out over the cab.
+
+		POV of the glut of cars in all four lanes.
+
+					ELTON
+
+			Hey, Bob! Come on! Quit foolin'
+
+			around!
+
+		EXT. TRUCK - FREEWAY - DAY
+
+		On his way out of the truck, Bobby pauses to look
+
+		beneath one of the padded protectors, then pulls it
+
+		off to reveal an upright piano. He leans down to
+
+		the keyboard and plays a few notes.
+
+		INT. BOBBY'S CAR - FREEWAY - DAY
+
+		Elton, amused.
+
+					ELTON
+
+			Shit, what's he doin'?
+
+		EXT. TRUCK - FREEWAY - DAY
+
+		Bobby has pulled the bench out from beneath the
+
+		piano and, sitting himself, begins to play a Chopin
+
+		prelude.
+
+		EXT. BOBBY'S CAR - FREEWAY - DAY
+
+		THROUGH THE WINDSHIELD
+
+		Elton can be seen applauding him.
+
+		EXT. TRUCK - FREEWAY - DAY
+
+		ON BOBBY
+
+		playing as the traffic begins to move and the truck
+
+		with it.
+
+		INT. BOBBY'S CAR - FREEWAY - DAY
+
+		Again, Elton leans out the window, yelling at him:
+
+					ELTON
+
+			You better get your butt off there,
+
+			Bob! Come on, now!!
+
+		EXT. TRUCK - FREEWAY - DAY
+
+		The right-turn indicator is flashing and the truck
+
+		begins to work its way across the lanes.
+
+		INT. BOBBY'S CAR - FREEWAY - DAY
+
+		ELTON'S POV
+
+		of Bobby playing, as the truck heads for an off
+
+		ramp.
+
+		ON ELTON
+
+		honking the horn and flailing his arm out the
+
+		window as he tries to cross lanes. The traffic
+
+		closes on his right, preventing him from following.
+
+		EXT. FREEWAY - DAY
+
+		ANGLE INCLUSIVE OF ELTON
+
+		hemmed into the left-hand lanes, and the truck,
+
+		with Bobby still playing, pulling away on the off
+
+		ramp.
+
+		EXT. TRUCK - LONG BEACH STREETS - DAY
+
+		(CHOPIN PRELUDE OVER:)
+
+		The truck slows and comes to a stop at a signal.
+
+		Bobby jumps out and moves to the sidewalk.
+
+		FOLLOWING with him as he wanders, boozed and
+
+		aimless, along the dispirited cheap streets of the
+
+		city.
+
+		INT. DINER - LATE NIGHT
+
+		Rayette clears some plates from an empty table and,
+
+		crossing the diner, sees...
+
+		... Bobby entering. As he takes a seat at the
+
+		counter, she goes about her tasks, ignoring him.
+
+		He watches her as she moves to the only other
+
+		customer and totals his bill.
+
+		Another waitress appears with a coffee Silex. She
+
+		gestures it at Bobby and he nods. As she pours him
+
+		a cup, Rayette moves to the register, deposits some
+
+		bills, then turns and exits to the kitchen.
+
+		EXT. REAR OF DINER - LATE NIGHT
+
+		Bobby leans against a pickup adjacent to Rayette's
+
+		car.
+
+		She comes out of the rear door of the diner,
+
+		hesitates as she sees him, then moves past him to
+
+		her car.
+
+					BOBBY
+
+			I was with Elton last night, Ray.
+
+		Maintaining her attitude of suffered injustice, she
+
+		reaches to the car door and opens it.
+
+					BOBBY (CONT'D)
+
+			It's the truth.
+
+		He reaches behind her and pushes the door shut.
+
+		Then gently taking hold of her arm, he turns her
+
+		toward him, bringing his face close to hers...
+
+					BOBBY (CONT'D)
+
+			Rayette...
+
+		... and as she turns away, be begins to kiss her
+
+		neck. She lowers her gaze to the ground, quietly
+
+		uttering:
+
+					RAYETTE
+
+			You son of a bitch.
+
+		INT. ELTON AND STONEY'S MOBILE HOME - NIGHT
+
+		Bobby, Elton and Stoney are seated on the couch,
+
+		all looking toward the TV, playing an old black-and
+
+		white.
+
+		Rayette is seated on an adjacent chair, holding an
+
+		infant in her lap, cooing and fawning over it
+
+		throughout the following.
+
+					ELTON
+
+			I swore to God I'd never hire on to
+
+			this type a work again. Christ, I
+
+			don't know how the hell I let you
+
+			talk me into it...
+
+		Rayette reaches over to Bobby.
+
+					RAYETTE
+
+			Give me a swig, hon'.
+
+		He hands her his beer and as she takes a sip and
+
+		hands it back:
+
+					ELTON
+
+			You didn' know I was a derrickman
+
+			once, did you?
+
+		Bobby shakes his head.
+
+					ELTON (CONT'D)
+
+			Down in the southern fields, an'
+
+			man, did I hate it. An' Stoney's
+
+			brother was a well-puller, wad'n
+
+			he, honey? The one with three
+
+			fingers?
+
+					STONEY
+
+				(her eyes on the TV)
+
+			My brother Cruser, yeah...
+
+					ELTON
+
+			I once hung suspendered 90 feet up
+
+			on a tour, like a damn circus
+
+			artist...
+
+					RAYETTE
+
+			Honey, took at this little bugger.
+
+					ELTON
+
+			Near broke my damn neck...
+
+					RAYETTE
+
+			Id'n he the cutest little guy?
+
+					BOBBY
+
+			Very cute... Put it down, an' let's
+
+			go.
+
+		Elton turns to him with a gap-toothed smile:
+
+					ELTON
+
+			You know, you oughta get you one
+
+			them things, Bob.
+
+		ON BOBBY
+
+		as he stands up...
+
+					BOBBY
+
+				(standing up)
+
+			Yeah...
+
+				(stretching his arms)
+
+			An' I oughta live in a trailer park
+
+			with my front teeth poked out...
+
+		EXT. SIGNAL HILL RIG - DAY
+
+		ON ELTON
+
+		seated on the rig floor opposite Bobby, who eats a
+
+		sandwich, as:
+
+					ELTON
+
+			Well, what if she was, Bob? I can't
+
+			see nothin' so bad in it...
+
+		Bobby scowls hostilely at him.
+
+					ELTON (CONT'D)
+
+			What if I was to let you in on the
+
+			little fact that she is.
+
+		He looks away from Elton, not wanting to hear.
+
+					ELTON (CONT'D)
+
+			That's right. She told me. An'
+
+			she's all tore up about it, which I
+
+			hate a see.
+
+		ON BOBBY
+
+		as he continues:
+
+					ELTON
+
+			Hell, id'n it just somethin' to
+
+			face up to? I'll tell you,
+
+			somewhere along the line, you even
+
+			get to likin' the whole idea...
+
+		ON ELTON
+
+					ELTON
+
+			I recall when Stoney first give me
+
+			the news, I could a shit...
+
+		Bobby throws his sandwich onto the rig floor near
+
+		Elton's leg. He looks down at a spatter of
+
+		mayonnaise on his pants.
+
+					ELTON
+
+			Well, id'n that nice.
+
+					BOBBY
+
+				(attacking the messenger)
+
+			It's ridiculous! I'm sitting here,
+
+			listening to some asshole cracker
+
+			compare his life to mine!
+
+		He spills out the remainder of coffee from his cup
+
+		and screws it onto the top of a thermos.
+
+					BOBBY (CONT'D)
+
+			Just keep telling me about the good
+
+			life, Elton, if you want a see me
+
+			puke my lunch!
+
+		Elton reaches down and wipes the mayonnaise off his
+
+		pant leg.
+
+					ELTON
+
+			If you're sayin' you're somethin'
+
+			better'n what I am, that's one
+
+			thing. But I can't say much a
+
+			someone who'd run off an' leave a
+
+			woman in a situation like this an'
+
+			feel easy about it. An' that's all
+
+			I gotta say.
+
+					BOBBY
+
+			I hope that's all you gotta say,
+
+			El, 'cause I'm about as tired of
+
+			your mouth as I am workin' this
+
+			stinkin' hole!
+
+		He grabs his jacket and his lunch bucket, jumps
+
+		down off the rig and begins walking toward his car
+
+		parked by the Field Office.
+
+		In the b.g., Elton gets up and hurls his hard hat
+
+		toward Bobby.
+
+					ELTON
+
+			Shit ass!!
+
+		As he approaches his car, he looks toward the 
+
+		Field Office, where...
+
+		... The driller is leaning down to a car with TWO
+
+		MEN in it.
+
+		ON BOBBY
+
+		calling over to him:
+
+					BOBBY
+
+			Hey, Longcipher! I'm quitting!
+
+		The driller gestures a direction to the driver of
+
+		the car, and as it pulls off, he moves toward the
+
+		office:
+
+					BOBBY (CONT'D)
+
+			Longcipher! I'm talking to you!
+
+		The driller opens the office door and looks back to
+
+		Bobby.
+
+					BOBBY (CONT'D)
+
+			Did you hear me?! I said I'm
+
+			quitting!
+
+					DRILLER
+
+			I don't give a shit what you do.
+
+			You ben more trouble than you're
+
+			worth, an' I'm damn glad to be rid
+
+			of both a you assholes.
+
+		He goes into the office and closes the door.
+
+		ON BOBBY
+
+		throwing his jacket and his lunch bucket into his
+
+		car. As he starts to get in, his attention is drawn
+
+		back to the rig.
+
+		POV:
+
+		The car that held the two men is parked next to it,
+
+		and both men are on the rig platform moving toward
+
+		Elton. He backs away from them, breaks toward the
+
+		rig tour and starts to climb it. One of the men
+
+		catches hold of his leg and yanks him back. Elton
+
+		pulls loose from him, jumps to the ground and
+
+		begins running with both men in pursuit.
+
+					BOBBY
+
+			Hey! What's goin' on?!
+
+		He starts sprinting back to the rig.
+
+		The first man has a hold on Elton and is struggling
+
+		to subdue him. He is joined by the second man, and
+
+		as they force his arms behind his back and cuff his
+
+		wrists...
+
+		... Bobby MOVES INTO FRAME, grabbing onto the first
+
+		man and wrestling him away from Elton.
+
+					ELTON
+
+			Don't do that, Bob!! It's the Law!
+
+		Bobby hurls the man onto the ground and turns
+
+		around to go after the second man, struggling with
+
+		Elton.
+
+					ELTON (CONT'D)
+
+			It's the Law, Bob, don't mix in!
+
+		The second man pushes Elton aside and as Bobby
+
+		throws a punch at him...
+
+					ELTON (CONT'D)
+
+			Look out behind!
+
+		... the other grabs him from behind, holding him,
+
+		while the second man jams a fist into his stomach
+
+		and, as he doubles over, follows with a violent
+
+		chop to the back of his neck.
+
+		Bobby slumps to the ground, and as the first man
+
+		puts a knee into his back and prepares to handcuff
+
+		him:
+
+					ELTON (CONT'D)
+
+			Hey, don't do that. Don't you think
+
+			you could just leave him...
+
+		The second man takes hold of Elton and starts to
+
+		move him off.
+
+					ELTON
+
+			Sure as hell he wouldn' a done that
+
+			if he'd known who you was... Would
+
+			you, Bob?
+
+		Bobby, dazed, raises his head from the dirt,
+
+		looking toward Elton.
+
+					BOBBY
+
+			Christ Almighty, what's happening
+
+			here?
+
+					SECOND MAN
+
+			Okay, let him go.
+
+		As he starts pushing a resistant Elton toward the
+
+		car, Bobby sits up.
+
+					BOBBY
+
+			Tell me what in the hell's going
+
+			on, Elton!
+
+					ELTON
+
+			I got accused a robbin' a
+
+			fillin'station down in the Indian
+
+			Nation, didn' I tell you...
+
+					SECOND MAN
+
+			Come on.
+
+					ELTON
+
+			I got wild an' jumped my bail...
+
+					SECOND MAN
+
+			Move it!
+
+		He takes him roughly by the arm and moves off with
+
+		the first man following.
+
+					ELTON
+
+				(over his shoulder, to
+
+				Bobby)
+
+			An' here they come runnin' after me
+
+			a year later... Ain't that
+
+			somethin'?
+
+		ON BOBBY
+
+		looking toward:
+
+		The two men forcing Elton into the rear seat of the
+
+		car, as he calls back to Bobby:
+
+					ELTON
+
+			Tell Stoney for me, will you?! Tell
+
+			her to come get me...
+
+		They close the door on him and get into the car. As
+
+		it drives off...
+
+		Bobby sits watching until it disappears from sight,
+
+		then he sits back against a pump casing and drops
+
+		his head onto his chest.
+
+		INT. TWINKY'S APARTMENT - NIGHT
+
+		CLOSE ON TWINKY'S FACE
+
+		She opens her mouth and rends the air with a
+
+		keening wail. Her face beads with moisture and
+
+		journeys through expressions indistinguishable from
+
+		grief and anguish. Presently, an ecstatic and very
+
+		professional screech issues from her, after which
+
+		she reaches up and pulls Bobby down onto her,
+
+		breathing into his ear...
+
+					TWINKY
+
+			Donnie, oh Donnie...
+
+		INT. RECORDING STUDIO - DAY
+
+		(BACH PARTITA FAINTLY UNDER:)
+
+		Bobby, dressed in a suit and tie, moves through a
+
+		network of hallways, checking the door numbers.
+
+		He arrives at a door designated as Studio A, and,
+
+		after hesitating for a moment, opens it and steps
+
+		inside.
+
+		INT. STUDIO A RECORDING BOOTH - DAY
+
+		(BACH PARTITA UNDER:)
+
+		TWO RECORDING ENGINEERS glance at him without
+
+		interest and return to their dials and needles.
+
+		Bobby looks from them through the glass partition
+
+		to the recording studio in view beyond.
+
+		POV:
+
+		ELIZABETH "TITA" DUPEA is at the piano, intensely
+
+		into the Bach. She wears a monastic-looking dress,
+
+		her unruly hair is pinned back from her face, and
+
+		her glasses lie on the bench beside her.
+
+		ON BOBBY
+
+		watching her with both affection and appreciation.
+
+		ON TITA
+
+		She is "sounding" as she plays, in tones out-of-key
+
+		and discordant with the Bach.
+
+					FIRST ENGINEER
+
+			There she goes again.
+
+		Bobby glances over at him, then looks back to Tita.
+
+		POV:
+
+		She hunches over the keyboard and plays an
+
+		arpeggio, humming a long monochromatic note.
+
+					SECOND ENGINEER
+
+			My 1-year-old can carry a tune
+
+			better than that.
+
+		Bobby is about to defend her, when the engineer
+
+		flips a toggle switch and addresses the mike
+
+		feeding into the studio:
+
+					SECOND ENGINEER (CONT'D)
+
+			Miss Dupea.
+
+		There is no response and she continues playing.
+
+					SECOND ENGINEER (CONT'D)
+
+				(more emphatic)
+
+			Miss Dupea.
+
+					TITA
+
+				(annoyed)
+
+			Yes.
+
+		Bobby can be seen in the b.g., having difficulty
+
+		restraining his irritation under the following:
+
+					SECOND ENGINEER
+
+			I'd like to remind you again, this
+
+			isn't an opera or a musical comedy.
+
+					TITA
+
+			Oh... I'm sorry. Was I singing
+
+			again?
+
+					SECOND ENGINEER
+
+			If you want to call it that.
+
+					TITA
+
+			Well, you have to simply tell me,
+
+			that's all.
+
+					SECOND ENGINEER
+
+			That's exactly what I am doing,
+
+			again.
+
+					TITA
+
+			Do you have to let me get halfway
+
+			through the movement first? This is
+
+			tiring me.
+
+					SECOND ENGINEER
+
+			I have a suggestion. Why don't we
+
+			take a break.
+
+					TITA
+
+			Oh, for pity's sake...
+
+		She puts her elbows on top of the piano and drops
+
+		her head into her bands.
+
+					FIRST ENGINEER
+
+			Is she going to cry again?
+
+					TITA
+
+			I don't want to take a break.
+
+					SECOND ENGINEER
+
+			What would you like in your coffee?
+
+		She makes a mumbled response, her head still in her
+
+		bands:
+
+					TITA
+
+			Tea.
+
+					BOBBY
+
+			Would you tell her Bobby's here?
+
+					SECOND ENGINEER
+
+				(to the mike)
+
+			Miss Dupea, Bobby's here.
+
+		She raises her head, squints toward the booth, then
+
+		grabs her glasses from the bench and puts them on.
+
+		INT. RECORDING STUDIO - DAY
+
+		Bobby enters the studio and comes toward her,
+
+		opening his arms. She rushes into his embrace,
+
+		burying her face in his shoulder.
+
+					TITA
+
+				(very emotional)
+
+			Oh my goodness... Bobby...
+
+					BOBBY
+
+			Hi, Tita.
+
+		She raises her head to look at him, and verging on
+
+		tears:
+
+					TITA
+
+			Robert Eroica...
+
+					BOBBY
+
+			Now don't...
+
+					TITA
+
+			No, I'm not...
+
+				(taking a deep breath,
+
+				then:)
+
+			I'm not.
+
+					BOBBY
+
+			That's good.
+
+		A NEW ANGLE
+
+		Tita sits on the piano bench, crying and searching
+
+		through her purse for a tissue. Bobby hovers behind
+
+		her, gently patting her on the back and glancing
+
+		with some embarrassment toward the recording booth.
+
+					TITA
+
+			I just can't look at you.
+
+					BOBBY
+
+			Don't, then.
+
+		As she blows her nose into the tissue, a young man
+
+		comes into view, hands Bobby a paper cup and
+
+		leaves. Tita takes another tissue from her purse
+
+		and dabs at her eyes.
+
+					TITA
+
+			You always do this to me.
+
+					BOBBY
+
+			Well, I don't mean to.
+
+				(setting the cup down on
+
+				the piano)
+
+			Here's your tea, Tita.
+
+					TITA
+
+			Thank you...
+
+				(then:)
+
+			Oh no, don't put it on there...
+
+		She quickly picks up the cup and places it on the
+
+		floor.
+
+					BOBBY
+
+			Sorry.
+
+					TITA
+
+				(caressing the piano)
+
+			This is a very special, very old CB
+
+			275...
+
+					BOBBY
+
+			Oh.
+
+					TITA
+
+			You know who it once belonged to?
+
+					BOBBY
+
+			No.
+
+					TITA
+
+			Waldnit von Schnechter. Prewar.
+
+					BOBBY
+
+				(politely)
+
+			No kidding.
+
+		He sits down on the bench beside her...
+
+					TITA
+
+			It has absolutely no objectionable
+
+			idiosyncrasies...
+
+		... and tests it out with a brief flourish on the
+
+		keys. She watches him, then:
+
+					TITA (CONT'D)
+
+			Robert...
+
+					BOBBY
+
+				(stops playing)
+
+			Very nice.
+
+					TITA
+
+			I have to talk seriously with
+
+			you...
+
+					BOBBY
+
+			Everybody still up on the Island?
+
+					TITA
+
+			Well, Herbert's mostly on the
+
+			mainland because of the orchestra,
+
+			so at the moment, there's just
+
+			Daddy, Carl and myself... and Van
+
+			Oost.
+
+					BOBBY
+
+			Who's Van Oost?
+
+					TITA
+
+				(not fond of the subject)
+
+			Catherine -- she's a pianist. She's
+
+			working with Carl.
+
+					BOBBY
+
+			Carl's a fiddler. What's he doing
+
+			coaching piano?
+
+					TITA
+
+			Well, 11 months ago he was on his
+
+			bicycle, on his way to the post
+
+			office in La Roche... and he ran
+
+			into a Jeep and sprained his
+
+			neck...
+
+		Bobby laughs.
+
+					BOBBY
+
+			Sprained his neck?
+
+		Tita laughs, then:
+
+					TITA
+
+			It's not funny. He permanently
+
+			sprained his neck, and since then
+
+			it's been extremely difficult for
+
+			him to tuck the violin.
+
+					BOBBY
+
+			Crashes into a Jeep and totals his
+
+			neck.
+
+				(shaking his head)
+
+			That's Carl...
+
+					TITA
+
+			Robert, I have to tell you
+
+			something...
+
+					BOBBY
+
+			What?
+
+					TITA
+
+			Daddy's very ill.
+
+					BOBBY
+
+			Oh, well, what, what's he...
+
+					TITA
+
+			He's had two strokes.
+
+		He looks away from her, not wanting to hear any
+
+		more.
+
+					TITA (CONT'D)
+
+			He's not... They feel he... maybe
+
+			he might not recover, and that
+
+			he'll either...
+
+					BOBBY
+
+				(standing up)
+
+			Don't tell me about this...
+
+		He moves away from the piano and Tita turns to look
+
+		at him.
+
+					TITA
+
+			But don't you think it's right,
+
+			though, that you should see him, at
+
+			least once...
+
+					SECOND ENGINEER'S VOICE
+
+				(miked)
+
+			We're ready Miss Dupea.
+
+					TITA
+
+				(to the booth)
+
+			Just a minute, please!
+
+				(to Bobby)
+
+			Robert, don't you think it's right
+
+			that you should see him?
+
+		He moves aimlessly about trying to subdue his
+
+		anguish.
+
+					BOBBY
+
+			Yeah... I guess so...
+
+					TITA
+
+			I'm going back up tonight. Will you
+
+			go with me?
+
+					BOBBY
+
+			No...
+
+		He glances at her, catching her profound
+
+		disappointment.
+
+					BOBBY (CONT'D)
+
+			I'd rather drive up myself and...
+
+			maybe go into Canada after... And I
+
+			can't stay long, Tita, probably a
+
+			week, at the most.
+
+					TITA
+
+			I know.
+
+		He looks toward the booth.
+
+					BOBBY
+
+			Well...
+
+				(then, to Tita)
+
+			I better let you...
+
+					TITA
+
+			Wait...
+
+		She gets up from the bench and goes to him, taking
+
+		hold of his arm.
+
+					TITA (CONT'D)
+
+			I'll walk out with you...
+
+		As they move to the hall door, she addresses the
+
+		booth:
+
+					TITA (CONT'D)
+
+			I'll be back in two minutes!
+
+					SECOND ENGINEER'S VOICE
+
+			Cut that in half, will you?
+
+		She smiles at Bobby as they go out into hall.
+
+					TITA
+
+			They hate me, I feel.
+
+		FOLLOWING WITH THEM
+
+		down the hallway.
+
+					BOBBY
+
+			Maybe you better stay, then.
+
+					TITA
+
+			No, I need to talk to you, about so
+
+			many things...
+
+					BOBBY
+
+			Well, I'll be seeing you in a
+
+			couple of days, won't I?
+
+		They stop at the stairway.
+
+					TITA
+
+			Oh God, I'm so glad, Robert, that
+
+			you're coming...
+
+					BOBBY
+
+			Yeah, me, too...
+
+					TITA
+
+			It'll be so good for you, and for
+
+			Daddy, because you know, you've
+
+			never really...
+
+					BOBBY
+
+				(cutting her off)
+
+			Tita, I've got to go...
+
+					TITA
+
+			All right...
+
+		He kisses her.
+
+					TITA (CONT'D)
+
+			Okay.
+
+		Feeling herself about to break down again, she
+
+		attempts a valiant smile and stands watching as...
+
+		... Bobby turns and goes down the stairs.
+
+		EXT. RAYETTE'S HOUSE - DAY
+
+		(TAMMY WYNETTE'S "D-I-V-O-R-C-E" OVER:)
+
+		ON BOBBY
+
+		moving from his car, up the walkway and entering
+
+		Rayette's house.
+
+		INT. RAYETTE'S LIVING ROOM - DAY
+
+		ON THE STEREO
+
+		playing the above song.
+
+		ON BOBBY
+
+		looking from...
+
+		... a rumpled blanket on the couch, to...
+
+		... a can of beer and a lighted cigarette burning
+
+		in an ashtray on the coffee table.
+
+					BOBBY
+
+				(calling out)
+
+			Hello?!
+
+		He crosses to a hall and moves down toward the
+
+		bedroom.
+
+					BOBBY (CONT'D)
+
+			You have the day off?!
+
+		He steps into the doorway, to see:
+
+		Rayette, lying in bed, her back against the
+
+		pillows, staring at the wall.
+
+					BOBBY (CONT'D)
+
+			Are you sick?
+
+		No response.
+
+					BOBBY (CONT'D)
+
+			You heard about Elton, I guess.
+
+		She turns her gaze to the window. He looks at her
+
+		briefly, then:
+
+					BOBBY (CONT'D)
+
+			Okay, I get your point.
+
+		As he moves to the closet:
+
+					BOBBY (CONT'D)
+
+			Hope you didn't strain yourself,
+
+			getting in here and into your pose
+
+			before I hit the door.
+
+		He picks up a suitcase from the closet floor, grabs
+
+		some of his clothes from the rack, and, moving to a
+
+		chair, sets the suitcase on it and begins packing.
+
+					BOBBY (CONT'D)
+
+			I have to go home. My father's
+
+			sick.
+
+		Rayette turns on her side, making a snorting sound
+
+		of disbelief.
+
+					BOBBY (CONT'D)
+
+			Yeah, it's very funny.
+
+		He moves to a dresser, extracts his underwear and
+
+		returns to the suitcase.
+
+					BOBBY (CONT'D)
+
+			I'll be gone two or three weeks.
+
+					RAYETTE
+
+				(not looking at him)
+
+			You'll be gone, period.
+
+		He closes the suitecase, secures it...
+
+					BOBBY
+
+			I'll try and call you from up
+
+			there.
+
+		... and picking it up, moves around the bed toward
+
+		the door. He stops, setting the suitcase on the bed
+
+		and looking down at her.
+
+		She is still faced away from him, her shoulders
+
+		trembling as she weeps soundlessly.
+
+					BOBBY (CONT'D)
+
+				(very emotional)
+
+			Come on, DiPesto. I never told you
+
+			it would work out to anything. Did
+
+			I?
+
+		He looks away from her, to the window.
+
+					BOBBY (CONT'D)
+
+			I'll send you some money, that's
+
+			all I can do.
+
+		Returning his gaze to her:
+
+					BOBBY (CONT'D)
+
+			And... I'll call you, like I
+
+			said...
+
+				(he pauses, then)
+
+			Bye, Ray.
+
+		An audible sob finally comes from her. Bobby
+
+		quickly picks up the suitcase and moves out of the
+
+		bedroom and down the hall.
+
+		EXT. RAYETTE'S HOUSE - DAY
+
+		ON BOBBY'S CAR
+
+		as he moves into view. He throws the suitcase in
+
+		through the rear window, moves around to the
+
+		driver's side and gets in.
+
+		INT. BOBBY'S CAR - DAY
+
+		He starts the motor, angrily throws it into gear
+
+		and places his hands on the wheel.
+
+		INT. RAYETTE'S LIVING ROOM - DAY
+
+		BOBBY'S HAND slashes at the arm of the record
+
+		player, pulling it across the grooves and stifling
+
+		Tammy Wynette.
+
+					BOBBY
+
+			Do you want to go with me, Ray?
+
+		EXT. BOBBY'S CAR - HIGHWAY - DAY
+
+		(WYNETTE'S "WHEN THERE'S A FIRE IN YOUR HEART"
+
+		OVER:)
+
+		His car moves north along the Pacific Coast
+
+		Highway.
+
+		INT. BOBBY'S CAR - HIGHWAY - DAY
+
+		(WYNETTE OVER:)
+
+		ON BOBBY
+
+		looking over at Rayette and smiling.
+
+		ON RAYETTE
+
+		She returns his look with absolute devotion, then
+
+		reaches over and caresses the back of his neck.
+
+		EXT. BOBBY'S CAR - INLAND HIGHWAY - DAY
+
+		(WYNETTE OVER:)
+
+		OUT PAST Bobby's profile, to a Southern California
+
+		pastoral landscape passing by.
+
+		INT. BOBBY'S CAR - BIG SUR COUNTRY - DAY
+
+		ON RAYETTE
+
+		singing the above song.
+
+					RAYETTE
+
+			"There's been hot spells/An' cold
+
+			spells ever since we met/I've seen
+
+			your small fires/Your big fires/But
+
+			I won't give up yet/Oh someday
+
+			you'll yearn/'Cause your heart's
+
+			gonna burn/For that old familiar
+
+			glow/You'll be burned..."
+
+		Bobby laughs and she looks over at him.
+
+					RAYETTE (CONT'D)
+
+			You like it?
+
+					BOBBY
+
+			I love it.
+
+					RAYETTE
+
+				(resumes singing)
+
+			"You'll be burned out/Or smoked
+
+			out/An' come back to me, I know..."
+
+		Bobby's attention is taken by something on the road
+
+		ahead.
+
+					RAYETTE (CONT'D)
+
+			"Every trail that you blaze/Makes
+
+			me..."
+
+					BOBBY
+
+			What the hell is that?
+
+		POV THROUGH WINDSHIELD
+
+		of a car lying upside down on the left side of the
+
+		highway.
+
+		TWO FIGURES are standing beside it, engaged in a
+
+		heated argument.
+
+					RAYETTE
+
+			Is it an accident?
+
+		EXT. BOBBY'S CAR - HIGHWAY - DAY
+
+		Bobby pulls off onto the right-hand shoulder, stops
+
+		the car and gets out. He moves out to the center
+
+		line, looking across the road, to:
+
+		A long-haired young woman (PALM) in Levi's and
+
+		parka, presently pushing her close-cropped, boyish
+
+		looking friend (TERRY) against the side of the car
+
+		and making some indecipherable accusation.
+
+					BOBBY
+
+			Hey! What's going on, what's the
+
+			trouble?!
+
+		The young woman turns and gives him the finger.
+
+					PALM
+
+			Rotate, mack!
+
+		ON RAYETTE
+
+		sticking her head out the driver's window.
+
+					RAYETTE
+
+			What'd she say?
+
+		ON PALM
+
+		gesturing angrily back at the wreck as she crosses
+
+		toward Bobby.
+
+					PALM
+
+			Look at my car! Piece of shit! I
+
+			just bought it brand new from a
+
+			used-car lot, and the steering goes
+
+			to the pot on me!
+
+					BOBBY
+
+			You're lucky no one was hurt.
+
+					PALM
+
+			Seven hundred dollars, down the
+
+			toilet! I'd like to go back and
+
+			punch the son of a bitch out! Can
+
+			you give us a lift?
+
+		Without waiting for a response, she moves back to
+
+		Terry, who is retrieving some of their belongings
+
+		from the highway.
+
+					PALM (CONT'D)
+
+			Come on, Terry, we got a ride!
+
+					RAYETTE
+
+			Jesus, what a rude person...
+
+		INT. BOBBY'S CAR - ON THE ROAD - DAY
+
+		Palm and Terry, still under the spell of their
+
+		roadside tiff, sit in sulky silence in the back
+
+		seat.
+
+		Bobby glances at Palm in the rear view.
+
+					BOBBY
+
+			What's your name?
+
+					PALM
+
+			Palm Apodaca.
+
+		Rayette turns around and, thinking Terry is a boy,
+
+		asks rather flirtatiously:
+
+					RAYETTE
+
+			An' what's your name?
+
+					TERRY
+
+			Terry Grouse.
+
+		Shocked at the female voice coming from "him," she
+
+		turns back around and pokes Bobby on the leg.
+
+					BOBBY
+
+				(loudly)
+
+			What?
+
+					RAYETTE
+
+				(low tones)
+
+			I'll tell you...
+
+				(spelling out)
+
+			... l-a-t-e-r.
+
+					PALM
+
+			How far are you going to?
+
+					BOBBY
+
+			Washington.
+
+					PALM
+
+			We'll get off in Washington and
+
+			hook another ride.
+
+					BOBBY
+
+			Where are you going?
+
+					PALM
+
+			Alaska.
+
+					BOBBY
+
+			Alaska? Are you on vacation?
+
+					TERRY
+
+				(sullenly)
+
+			She wants to live there, because
+
+			she thinks it's cleaner.
+
+					BOBBY
+
+			Cleaner than what?
+
+					PALM
+
+				(to Terry)
+
+			You don't have to tell everybody
+
+			about it. Pretty soon they'll all
+
+			go there and it won't be so clean.
+
+					BOBBY
+
+			How do you know it's clean?
+
+					PALM
+
+			I saw a picture of it. Alaska is
+
+			very clean. It appeared to look
+
+			very white to me... Don't you
+
+			think?
+
+					BOBBY
+
+			Yeah. That's before the big thaw.
+
+		She leans forward, looking annoyed.
+
+					PALM
+
+			Before the what?
+
+		EXT. BOBBY'S CAR - NORTHERN HIGHWAY - DAY
+
+		(COUNTRY & WESTERN INSTRUMENTAL OVER:)
+
+		ON THE CAR
+
+		moving through the Redwood country above San
+
+		Francisco.
+
+		INT. BOBBY'S CAR - HIGHWAY - DAY
+
+		ON BOBBY
+
+		bored, as he drives. Beside him, Rayette primps in
+
+		the sunvisor mirror.
+
+		ON THE BACK SEAT
+
+		Terry lights a cigarette while Palm, staring
+
+		morosely out the window, goes into a soliloquy:
+
+					PALM
+
+			I had to leave this place. I got
+
+			depressed, seeing all the crap. And
+
+			the thing is, they're making more
+
+			crap, you know? They've got so many
+
+			stores and stuff and junk full of
+
+			crap, I can't believe it.
+
+					BOBBY
+
+			Who?
+
+					PALM
+
+			Who? People, that's who! Pretty
+
+			soon there won't be room for
+
+			anyone.
+
+			They're selling more crap that
+
+			people go and buy than you can
+
+			imagine. Oofh! Crap! I believe
+
+			everybody should have a big hole
+
+			where they throw in all this stuff
+
+			and burn it.
+
+		Rayette leans around to her.
+
+					RAYETTE
+
+			There'd never be a hole big enough.
+
+			Now took at me, for instance, when
+
+			I was just one person, before
+
+			Bobby, I had so much garbage
+
+			collectin' onto me every day, I was
+
+			thinkin' about gettin a dispose
+
+			all...
+
+					PALM
+
+			A dispose-all, what's that but more
+
+			crap? I've never seen such crap.
+
+			Oofh, I don't know how people get
+
+			up in the morning.
+
+					TERRY
+
+			Mass production is what does it.
+
+					PALM
+
+			What do you mean "mass"... I have
+
+			to come out and tell you, you're
+
+			not that clean, either.
+
+					TERRY
+
+			Wait a minute. I'm not that neat,
+
+			maybe, but I am clean.
+
+					PALM
+
+			Well, you're not that bad, but some
+
+			people... I mean, people's homes,
+
+			just filth. I've been in people's
+
+			homes...
+
+					TERRY
+
+			In my personal observation, I think
+
+			that more people are neat than are
+
+			clean...
+
+					PALM
+
+			In my personal thing, I don't see
+
+			that. I'm seeing more filth. A lot
+
+			of filth. What they need to do
+
+			every day, no, once in a while, is
+
+			a cockroach thing, where they spray
+
+			the homes. And uh...
+
+			can you imagine, if their doors
+
+			were painted a pretty color, and
+
+			they had a pot outside, with...
+
+					TERRY
+
+			Yeah, it could be adorable...
+
+					PALM
+
+			And they picked up! I mean, it
+
+			wouldn't be filthy, with Coke
+
+			bottles and whiskey, and those
+
+			signs everywhere...
+
+		She gestures angrily out the window at the roadside
+
+		billboards.
+
+					PALM (CONT'D)
+
+			... they oughta be erased! All
+
+			those signs, selling crap, and more
+
+			crap, and, I don't know, it's
+
+			disgusting, I don't even want to
+
+			talk about it!
+
+		Bobby starts to say something:
+
+					BOBBY
+
+			Well...
+
+					PALM
+
+			It's just filthy. People are dirty.
+
+			I think that's the biggest thing
+
+			that's wrong with people. I think
+
+			they wouldn't be as violent if they
+
+			were clean, because then they
+
+			wouldn't have anybody to pick on...
+
+			Oofh... Dirt...
+
+					RAYETTE
+
+			Well...
+
+					PALM
+
+			Not dirt. See, dirt isn't bad. It's
+
+			filth. Filth is bad. That's what
+
+			starts maggots and riots...
+
+		She suddenly leans over to the front seat, pointing
+
+		to a semi ahead.
+
+					PALM (CONT'D)
+
+			Hey, follow that truck. They know
+
+			the best places to stop.
+
+					RAYETTE
+
+			That's an old maid's tale.
+
+					PALM
+
+			Bullshit! Truck drivers know the
+
+			best eating places on the road.
+
+		Rayette turns around, asserting:
+
+					RAYETTE
+
+			Salesmen and cops are the ones. If
+
+			you'd ever waitressed, honey, you'd
+
+			know.
+
+					PALM
+
+			Don't call me "honey," mack.
+
+					RAYETTE
+
+			Don't call me "mack," honey.
+
+					PALM
+
+			I wouldn't be a waitress. They're
+
+			nasty and full of crap.
+
+					RAYETTE
+
+			You better hold onto your tongue!
+
+					PALM
+
+				(giving her the finger)
+
+			Hold onto this.
+
+		Terry laughs.
+
+					RAYETTE
+
+			Just one minute, you! Don't you
+
+			ever talk to me like that!
+
+					BOBBY
+
+			Shut up! All of you!
+
+		INT. ROADSIDE CAFE - DAY
+
+		All four are seated at a booth. The women have
+
+		given their orders and a WAITRESS stands above
+
+		Bobby, waiting for his:
+
+					BOBBY
+
+				(looking at his menu)
+
+			I'll have an omelette, no potatoes.
+
+			Give me tomatoes instead, and wheat
+
+			toast instead of rolls.
+
+		The waitress indicates something on the menu with
+
+		the butt of her pencil.
+
+					WAITRESS
+
+			No substitutions.
+
+					BOBBY
+
+			What does that mean? You don't have
+
+			any tomatoes?
+
+					WAITRESS
+
+				(annoyed)
+
+			No. We have tomatoes.
+
+					BOBBY
+
+			But I can't have any. Is that what
+
+			you mean?
+
+					WAITRESS
+
+			Only what's on the menu...
+
+				(again, indicating  with
+
+				her pencil)
+
+			A Number Two: Plain omelette. It
+
+			comes with cottage fries and rolls.
+
+					BOBBY
+
+			I know what it comes with, but
+
+			that's not what I want.
+
+					WAITRESS
+
+			I'll come back when you've made up
+
+			your mind...
+
+		She starts to move away and Bobby detains her.
+
+					BOBBY
+
+			Wait, I've made up my mind. I want
+
+			a plain omelette, forget the
+
+			tomatoes, don't put potatoes on the
+
+			plate, and give me a side of wheat
+
+			toast and a cup of coffee.
+
+					WAITRESS
+
+			I'm sorry, we don't have side
+
+			orders of toast. I can give you an
+
+			English muffin or a coffee roll.
+
+					BOBBY
+
+			What do you mean, you don't have
+
+			side orders of toast? You make
+
+			sandwiches, don't you?
+
+					WAITRESS
+
+			Would you like to talk to the
+
+			manager?
+
+					PALM
+
+			Hey, mack!
+
+					BOBBY
+
+				(to Palm)
+
+			Shut up.
+
+				(to the waitress)
+
+			You have bread, don't you, and a
+
+			toaster of some kind?
+
+					WAITRESS
+
+			I don't make the rules.
+
+					BOBBY
+
+			Okay, I'll make it as easy for you
+
+			as I can. Give me an omelette,
+
+			plain, and a chicken salad sandwich
+
+			on wheat toast -- no butter, no
+
+			mayonnaise, no lettuce -- and a cup
+
+			of coffee.
+
+		She begins writing down his order, repeating it
+
+		sarcastically:
+
+					WAITRESS
+
+			One Number Two, and a chicken sal
+
+			san -- hold the butter, the mayo,
+
+			the lettuce -- and a cup of
+
+			coffee... Anything else?
+
+					BOBBY
+
+			Now all you have to do is hold the
+
+			chicken, bring me the toast, charge
+
+			me for the sandwich, and you
+
+			haven't broken any rules.
+
+					WAITRESS
+
+				(challenging him)
+
+			You want me to hold the chicken.
+
+					BOBBY
+
+			Yeah. I want you to hold it between
+
+			your knees.
+
+		The other three laugh, and the waitress points to a
+
+		"Right to Refuse" sign above the counter.
+
+					WAITRESS
+
+			You see that sign, sir?!
+
+		Bobby glances over at it, then back to her.
+
+					WAITRESS (CONT'D)
+
+			You'll all have to leave, I'm not
+
+			taking any more of your smartness
+
+			and your sarcasm!
+
+		He smiles politely at her, then:
+
+					BOBBY
+
+			You see this sign?
+
+		He reaches his arm out and "clears" the table for
+
+		her.
+
+		INT. BOBBY'S CAR - ON THE ROAD - DAY
+
+		ON PALM
+
+		in the back seat.
+
+					PALM
+
+			Fantastic! That you could figure
+
+			all that out, and lay that down on
+
+			her, to come up with a way you
+
+			could get your toast.
+
+					BOBBY
+
+			I didn't get it, did I?
+
+					PALM
+
+			No, but it was very clever... I
+
+			would of just punched her out.
+
+		EXT. BOBBY'S CAR - HIGHWAY - DAY
+
+		(COUNTRY & WESTERN OVER:)
+
+		ON THE CAR
+
+		moving through the Northwest coastal region.
+
+		INT. BOBBY'S CAR - HIGHWAY - DAY
+
+		Palm resumes her monologue:
+
+					PALM
+
+			People... Oofh...
+
+				(shaking her head in utter
+
+				disgust)
+
+			Animals are not like that...
+
+			They're always cleaning themselves.
+
+			Did you ever see... What are they
+
+			called? Pigeons!
+
+		She looks over at Terry, slumped in her seat,
+
+		asleep.
+
+					PALM (CONT'D)
+
+			He's always picking on himself and
+
+			his friends. They're always picking
+
+			bugs out of their hair...
+
+		ON RAYETTE
+
+		asleep.
+
+					PALM (O.S.)
+
+			Monkeys, too.
+
+		ON PALM
+
+					PALM
+
+			Except monkeys do things out in the
+
+			open that I don't go for.
+
+		ON BOBBY
+
+		benumbed, his eyes glazed over as he stares out
+
+		through the windshield.
+
+		ON PALM
+
+					PALM
+
+			I was in this place once, this
+
+			store, with snakes, monkeys,
+
+			everything you could imagine. I
+
+			walked in, I had to run out. It
+
+			stunk! They didn't even have an
+
+			incense going...
+
+		Though no one listens, she goes on, working herself
+
+		up:
+
+					PALM
+
+			And you know, I read where they
+
+			invented this car that runs on...
+
+			that runs on... when you boil
+
+			water...
+
+					TERRY
+
+				(half-dead)
+
+			Steam.
+
+					PALM
+
+			Right, steam. A car you could ride
+
+			around in and not cause a stink.
+
+			But do you know, they will not even
+
+			let us have it. Can you believe it?
+
+			Why?! Man! He likes to create a
+
+			stink. I wrote them a note once,
+
+			and told them to clean it... I
+
+			mean, don't you see that? It's just
+
+			filthy! I mean, I've seen filth you
+
+			wouldn't believe! Oofh, what a
+
+			stink! I don't even want to talk
+
+			about it...
+
+		EXT. BOBBY'S CAR - TWO-LANE HIGHWAY - LATE DAY
+
+		(WYNETTE'S "WHEN THERE'S A FIRE" OVER:)
+
+		ON PALM AND TERRY
+
+		deposited at the side of the highway, with their
+
+		luggage, duffle bags and television set lying on
+
+		the road edge. Terry lifts a bored hand to wave
+
+		at...
+
+		... Bobby, behind the wheel. He waves back, pulls
+
+		out onto the highway and drives off.
+
+		EXT. BOBBY'S CAR - MOTEL - NIGHT
+
+		(MUSIC FADES, AS:)
+
+		The car pulls into a motel parking slot and stops.
+
+		INT. MOTEL ROOM - NIGHT
+
+		Bobby and Rayette in bed. She lies on her side,
+
+		watching him watch TV. After a moment:
+
+					RAYETTE
+
+			Are you depressed about your daddy,
+
+			honey?
+
+					BOBBY
+
+			No.
+
+					RAYETTE
+
+			I 'magine it's me then, id'n it?
+
+					BOBBY
+
+			Is what you?
+
+					RAYETTE
+
+			You're depressed that I come along.
+
+					BOBBY
+
+			Who said I was depressed?
+
+					RAYETTE
+
+			Well, is that a happy face I see?
+
+		No response.
+
+					RAYETTE (CONT'D)
+
+			'Cause if it was me, I could just
+
+			catch a Greyhound back.
+
+					BOBBY
+
+			Oh, you're not going to kill
+
+			yourself this time. I wish I'd
+
+			known...
+
+		He turns off the light on the night stand and rolls
+
+		onto his side, faced away from her.
+
+		They lie silently in the dark for a moment. Then:
+
+					RAYETTE
+
+			I don't know if I'm gonna be able
+
+			to sleep or not.
+
+		No response.
+
+					RAYETTE (CONT'D)
+
+				(looking over at him)
+
+			Hint, hint.
+
+		No response.
+
+					RAYETTE (CONT'D)
+
+				(sighing; then:)
+
+			I guess I'll just have to count the
+
+			sheep.
+
+				(closing her eyes)
+
+			One-two-three-four...
+
+		She opens her eyes and looks over at him.
+
+					RAYETTE (CONT'D)
+
+			Seven... eight...
+
+				(caressing his shoulder)
+
+			Look at this old cold shoulder,
+
+			what am I gonna do with it?
+
+		He looks around at her and with gentle good humor:
+
+					BOBBY
+
+			If you just wouldn't open your
+
+			mouth, everything would be fine.
+
+		She turns an imaginary key at her lips.
+
+					RAYETTE
+
+			Tick a lock.
+
+		He rolls over to face her and, yielding to her
+
+		request, begins to make love to ber.
+
+		EXT. MOTEL ROOM - DAY
+
+		Rayette following after Bobby. As he moves to his
+
+		car, he removes some cash from his wallet.
+
+					RAYETTE
+
+			Why can't I go out to your folks'
+
+			house? Give me one good reason.
+
+					BOBBY
+
+			I have to see how things are first.
+
+			My father's sick, you understand?
+
+			They wouldn't be prepared for me
+
+			bringing anyone.
+
+		He holds out a roll of bills and as she takes them:
+
+					RAYETTE
+
+			So how long am I supposed to sit
+
+			an' twiddle my thumbs in this
+
+			place?
+
+					BOBBY
+
+			If you can't do what I ask, Ray,
+
+			use that money to go back home,
+
+			then.
+
+					RAYETTE
+
+			Bobby, don't talk like that...
+
+		She moves over to him and gives him a quick kiss.
+
+					RAYETTE (CONT'D)
+
+			It'll be all right, I'll get a hold
+
+			a some magazines an' things like
+
+			that. An' maybe find a beauty salon
+
+			an' get my hair fixed, okay?
+
+		ON BOBBY
+
+		getting into the car.
+
+					BOBBY
+
+			Okay, Ray...
+
+					RAYETTE
+
+			Or maybe sit out by the pool an'
+
+			get myself nice an' tan for you.
+
+			Would you like that?
+
+					BOBBY
+
+				(starting the engine)
+
+			Sure...
+
+					RAYETTE
+
+			It brings out my eyes...
+
+					BOBBY
+
+			Bye, honey, I'll call you in a
+
+			couple of days.
+
+					RAYETTE
+
+			Okay...
+
+		She watches unhappily as he backs out of the slot
+
+		and the car pulls away.
+
+					RAYETTE (CONT'D)
+
+			Bye, baby...
+
+		EXT. FERRY (CROSSING) - DAY
+
+		Bobby gets out of his car and wanders the deck of
+
+		the ferry. He stops to look out over the Sound to
+
+		one of the islands off the Washington coast, then
+
+		glances back to the mainland, receding in the
+
+		distance.
+
+		EXT. BOBBY'S CAR - FERRY LANDING - DAY
+
+		Bobby drives off the ferry onto the island.
+
+		EXT. BOBBY'S CAR - COUNTRY ROAD - DAY
+
+		The car moves over a tree-lined country lane and
+
+		presently turns off onto a private road, leading to
+
+		a large Victorian-style house. It pulls to a stop
+
+		behind two other cars.
+
+		Bobby gets out of the car and moves up the porch
+
+		steps to the front door.
+
+		CLOSER ON him as he hesitates, listening briefly to
+
+		the FAINT SOUND of two pianos coming from within.
+
+		Then he opens the door and goes inside.
+
+		INT. DUPEA HOME - DAY
+
+		(TWO PIANOS OVER:)
+
+		Bobby tentatively wanders the first floor of the
+
+		house, taking in the ghosts of the past.
+
+		In the living room, he pauses at a table to look at
+
+		several framed photographs. He picks up one of his
+
+		mother and father, looks closely at it, then gently
+
+		returns it to its place and resumes wandering.
+
+		He stops at the music room and looks in through the
+
+		half-opened door:
+
+		POV INTO MUSIC ROOM:
+
+		On the far side of the room, near windows which
+
+		give view to a verdant exterior, are two concert
+
+		grands. His brother CARL is seated at one of the
+
+		pianos, and a young woman (CATHERINE VAN OOST) is
+
+		seated at the other.
+
+		ON BOBBY
+
+		looking from Carl, to Catherine. He watches her
+
+		briefly, then steps out of the doorway...
+
+		... and moves down a hallway to a closed door. He
+
+		reaches down and opens it, looking inside to:
+
+		TITA
+
+		grooming the hair of an elderly man (NICHOLAS
+
+		DUPEA) seated in a wheelchair with his back to
+
+		Bobby.
+
+		She looks up and, seeing Bobby, smiles happily,
+
+		then reaches down and turns the wheelchair around.
+
+		ON NICHOLAS
+
+		His eyes are half-closed and are cast down to the
+
+		floor.
+
+		Bobby moves over to him, bending down and looking
+
+		into his face. Nicholas opens his eyes slightly and
+
+		gazes through Bobby into an absolute elsewhere.
+
+		Bobby raises his eyes to Tita.
+
+					BOBBY
+
+			He doesn't even know who the hell I
+
+			am.
+
+		INT. DUPEA DINING ROOM - NIGHT
+
+		Nicholas Dupea sits at the head of the table, being
+
+		fed his dinner by a male nurse (SPICER).
+
+		Bobby, at the opposite end of the table, is seated
+
+		next to Tita. Unable to bear looking at his father,
+
+		he glances over at Catherine, seated next to Carl
+
+		on his right.
+
+		She raises her eyes from her plate to ask him
+
+		something, just as Tita is moved to reminisce:
+
+					TITA
+
+			Remember, Bobby, what mother used
+
+			to say when...
+
+					CATHERINE
+
+				(to Bobby)
+
+			How long have you been...
+
+				(To Tita)
+
+			Oh, excuse me...
+
+					TITA
+
+			No, it's all right, you go ahead...
+
+					CATHERINE
+
+			I was just going to ask Robert how
+
+			long he's been away from here.
+
+					BOBBY
+
+			Four or five years.
+
+					CARL
+
+			No, the last time was three years
+
+			ago.
+
+					TITA
+
+			Oh no, it's been much more than
+
+			that.
+
+					CARL
+
+			Away from the piano, Tita, you have
+
+			no sense of time at all.
+
+					TITA
+
+			I don't think that's true.
+
+					CARL
+
+			It is true.
+
+					TITA
+
+			Besides being very rude.
+
+					CATHERINE
+
+			What have you been doing since
+
+			then?
+
+					BOBBY
+
+			What have I been doing? Different
+
+			things, different jobs, here and
+
+			there. Nothing that interesting.
+
+					CATHERINE
+
+			And you no longer play at all?
+
+		Bobby starts to reply and is interrupted by:
+
+					CARL
+
+			You know, just after I came back
+
+			off tour with the Betenthaller
+
+			Quartet, Dad, myself and Herbert
+
+			had a summit conference about
+
+			you...
+
+					TITA
+
+			Oh, my, "a summit conference." I
+
+			wonder where I was, polishing
+
+			silver behind the coal bin.
+
+					CARL
+
+			I don't know where you were, penis
+
+			envy.
+
+					TITA
+
+			I hope I didn't hear that.
+
+					CARL
+
+			At any rate, Dad wanted to hire a
+
+			private detective to ferret you
+
+			out, and I said, "What for?"
+
+			Whatever the hell he's doing, even
+
+			if it's a completely wasteful
+
+			escapade, it's entirely his
+
+			business. Simple as that...
+
+					BOBBY
+
+			Well, I really appreciate it, Carl.
+
+					TITA
+
+			I don't think you should infer
+
+			Daddy was wrong in front of him...
+
+		She looks at Spicer, pushing a spoon at Nicholas's
+
+		closed mouth.
+
+					TITA (CONT'D)
+
+			Don't force him like that, Spicer.
+
+		Spicer lays the spoon down and begins eating his
+
+		own dinner.
+
+					BOBBY
+
+				(to Catherine)
+
+			How long have you been staying
+
+			here?
+
+					TITA
+
+			A couple of months.
+
+		He starts to ask another question and is again
+
+		overridden by:
+
+					CARL
+
+			Did you hear about my misfortune,
+
+			Robert?
+
+					BOBBY
+
+			What?
+
+					CARL
+
+			It's still nearly impossible for me
+
+			to turn my neck. If I wanted to
+
+			turn toward Catherine, for
+
+			instance, I'd first have to twist
+
+			the whole base of my body around...
+
+				(demonstrating)
+
+			... like this...
+
+		Tita gets up from the table and, taking her plate,
+
+		exits to the kitchen. And as Carl readjusts himself
+
+		in his chair and takes a sip from his wine glass,
+
+		Bobby looks at Catherine to find her looking at
+
+		him. She quickly alters her gaze to Carl.
+
+					CATHERINE
+
+			I wouldn't mind doing a little
+
+			work, if you're finished, and not
+
+			too tired...
+
+					CARL
+
+			No, I'm finished...
+
+				(placing a hand on his
+
+				stomach)
+
+			Satiety is my father and mother.
+
+		Finding he's amused himself and nobody else, he
+
+		gets up and addresses Bobby.
+
+					CARL (CONT'D)
+
+			She's tremendously gifted, this
+
+			girl.
+
+					BOBBY
+
+				(looking at her)
+
+			Is she?
+
+		Catherine stands up and, wanting to change the
+
+		subject:
+
+					CATHERINE
+
+			Excuse me, I don't want to hear
+
+			this...
+
+		She exits and Carl, on his way out, pauses at
+
+		Bobby's chair.
+
+					CARL
+
+			I hope you feel at home, Robert.
+
+				(patting him on the
+
+				shoulder)
+
+			I'm really glad you're here.
+
+					BOBBY
+
+			Thanks, Carl...
+
+		He looks down table to see Spicer stacking his
+
+		plate onto Nicholas's and his eyes follow him as
+
+		he, too, moves out of the dining room to the
+
+		kitchen.
+
+		CLOSE ON BOBBY
+
+		in extreme discomfort at being left alone with his
+
+		father. He looks down at his plate, poking at the
+
+		remainder of his dinner, then braves a look down
+
+		the table.
+
+		ON NICHOLAS
+
+		looking back at him, his eyes devoid of interest or
+
+		cognition.
+
+		EXT. DUPEA GROUNDS - DAY
+
+		Bobby and Tita walk away from the house down toward
+
+		the ocean. Accompanying them is a Borzoi hound
+
+		belonging to her.
+
+					TITA
+
+			He has ways of communicating,
+
+			Robert. I can tell when he's
+
+			expressing approval or disapproval,
+
+			just from his eyes...
+
+					BOBBY
+
+			Uhm hmm. Some range.
+
+					TITA
+
+			It's not that bad.
+
+					BOBBY
+
+			Yes, it is. I can't take seeing
+
+			him, sitting there like a stone.
+
+					TITA
+
+			A week or two isn't going to ruin
+
+			your life, for Godsakes.
+
+		He doesn't respond.
+
+					TITA (CONT'D)
+
+			I mean, you think I'm that happy?
+
+					BOBBY
+
+			No, I don't.
+
+				(a pause, then:)
+
+			You should've left a long time ago.
+
+					TITA
+
+			We can't all get up and leave, can
+
+			we? I mean, there are certain needs
+
+			you have to respond to...
+
+		She stops walking and moves to one of the garden
+
+		chairs, facing out toward the bay.
+
+					TITA (CONT'D)
+
+			And anyway, I want you to stay, so
+
+			I can spend some time with you, and
+
+			ask you some questions...
+
+		He leans his back against a tree.
+
+					BOBBY
+
+			What questions?
+
+					TITA
+
+			Well, do you -- I mean, have you
+
+			enjoyed all these... strange things
+
+			you've been doing?
+
+					BOBBY
+
+			Sometimes.
+
+		She stares at him for a moment, and taking note of
+
+		it:
+
+					BOBBY (CONT'D)
+
+			Why? Am I some kind of freak to you
+
+			or something?
+
+					TITA
+
+			No, no, I don't think that, I'm
+
+			just curious about it...
+
+				(a pause)
+
+			Do you think I'm a freak?
+
+					BOBBY
+
+			Sort of.
+
+		She laughs.
+
+					TITA
+
+			Oh no... Why? What is it? The way I
+
+			look?
+
+					BOBBY
+
+			No, I don't really think you're a
+
+			freak.
+
+					TITA
+
+			I probably am, but I don't care. I
+
+			mean, I wasn't that blessed to
+
+			begin with, and when would I have
+
+			had time to make any
+
+			improvements...
+
+					BOBBY
+
+			What about Carl and Catherine? Is
+
+			he just coaching her, or what?
+
+					TITA
+
+			Constantly. Night and day. And
+
+			unless I get up before the birds, I
+
+			can't get in any practice time for
+
+			myself...
+
+					BOBBY
+
+			Uhm hmm.
+
+					TITA
+
+			Actually, it's very admirable, the
+
+			way she works. She'll probably be
+
+			enormously successful, because
+
+			she's attractive as well, not that
+
+			that's so important in music,
+
+			but...
+
+					BOBBY
+
+			You're attractive, Tita. If you
+
+			just did a little more with
+
+			yourself...
+
+					TITA
+
+			Like what?
+
+					BOBBY
+
+			Well, if you just maybe did
+
+			something with your hair, or...
+
+					TITA
+
+			Oh, let's not talk about my hair,
+
+			it does what it wants to, and
+
+			anyway, who cares, I want to talk
+
+			about you...
+
+					BOBBY
+
+			There's nothing to say, Tita...
+
+		He offers nothing further and looks out over the
+
+		bay. Then, after a brief silence:
+
+					TITA
+
+			Well, you're not going to run out
+
+			on me right away, are you?
+
+					BOBBY
+
+			I don't know.
+
+		INT. DUPEA HOME - DAY
+
+		Bobby strolls casually about the house - in truth,
+
+		looking for an opportunity to run into Catherine.
+
+		He moves to the music room and looks inside.
+
+		THROUGH THE DOORWAY
+
+		Catherine can be seen, seated at the piano. Carl
+
+		stands above her and they engage in some exchange
+
+		about the score resting on the piano's music stand.
+
+		ON BOBBY
+
+		as he moves down the hallway and sees:
+
+		Spicer descending the staircase, with the brittle
+
+		Nicholas in his arms.
+
+		He ducks into the nearest room to avoid them.
+
+		INT. DEN - DUPEA HOME - DAY
+
+		Tita, startled in the act of appraising herself in
+
+		a mirror above the fireplace, turns around to
+
+		Bobby:
+
+					TITA
+
+			Oh God, don't sneak up on me like
+
+			that!
+
+		We see she wears a little make-up and has done
+
+		something "different" with her hair.
+
+					BOBBY
+
+			Sorry.
+
+		He turns and exits the den.
+
+		EXT. DUPEA HOUSE - DAY
+
+		Bobby stands on the front porch, looking toward...
+
+		... Catherine coming up from the ocean. She wears a
+
+		bathrobe over a wet bathing suit and carries a
+
+		towel, and as she approaches:
+
+					CATHERINE
+
+			Hello...
+
+					BOBBY
+
+			I guess you fell in the water.
+
+					CATHERINE
+
+				(amused)
+
+			Yes, intentionally.
+
+					BOBBY
+
+			That's dangerous, you know.
+
+					CATHERINE
+
+			Swimming?
+
+					BOBBY
+
+			Playing piano all day and then
+
+			jumping into cold water. You could
+
+			get a cramp.
+
+		She laughs and begins drying her hair with a corner
+
+		of the towel.
+
+					CATHERINE
+
+			I love to swim, and I don't mind
+
+			the cold at all. It's invigorating.
+
+					BOBBY
+
+			Well, I wouldn't want to get too
+
+			invigorated myself.
+
+					CATHERINE
+
+			Why?
+
+					BOBBY
+
+			What would I do with it? Run amok?
+
+		She comes up the stairs.
+
+					BOBBY (CONT'D)
+
+			Besides piano and swimming, what
+
+			else do you do?
+
+					CATHERINE
+
+			Well, there's fishing and boating.
+
+			There's concerts on the mainland
+
+			and... but I feel silly telling
+
+			you. This is really your home. You
+
+			probably know better than I what
+
+			there is to do.
+
+					BOBBY
+
+			Nothing.
+
+					CATHERINE
+
+			Nothing? Then it must be very
+
+			boring for you here.
+
+					BOBBY
+
+			That's right. Have you anything to
+
+			suggest?
+
+					CATHERINE
+
+			I don't know. Let me give it some
+
+			thought.
+
+		She moves toward the front door, with Bobby
+
+		following.
+
+					BOBBY
+
+			What're you doing right now...
+
+		INT. DUPEA HOME - DAY
+
+		Catherine comes inside and moves toward the
+
+		stairway, with Bobby behind.
+
+					CATHERINE
+
+			Right now I'm going to run a hot
+
+			tub and soak myself.
+
+					BOBBY
+
+			Then after that?
+
+		She goes up a few steps and turns back to him.
+
+					CATHERINE
+
+			After that, I plan to read some
+
+			music and rest for awhile.
+
+					BOBBY
+
+			Tomorrow, then.
+
+					CATHERINE
+
+			Tomorrow's a full practice day...
+
+				(continues up the stairs)
+
+			But the day after is kind of open.
+
+		At the top of the stairs, she stops and looks down
+
+		at him.
+
+					CATHERINE (CONT'D)
+
+			Carl has hydrotherapy on Tuesdays.
+
+					BOBBY
+
+				(as if it were a year)
+
+			The day after tomorrow.
+
+					CATHERINE
+
+			If you're free.
+
+					BOBBY
+
+			Yeah, I'll probably be free.
+
+		She turns and disappears into the second-floor
+
+		hallway.
+
+		INT. DUPEA KITCHEN - NIGHT
+
+		Dinner has concluded and Tita moves around the
+
+		table, distributing cups and saucers. Carl is
+
+		remote and off his feed. Spicer attends Nicholas,
+
+		and Catherine looks across the table to Bobby as he
+
+		drinks from a bottle of beer.
+
+		After a moment, a loud belch comes from Nicholas
+
+		and Tita quickly requests:
+
+					TITA
+
+			Don't laugh...
+
+		She attempts to stifle her own amusement, as do
+
+		Bobby and Catherine, then changes the subject:
+
+					TITA (CONT'D)
+
+			What's wrong, Carl, you hardly ate
+
+			anything...
+
+					CARL
+
+			I took some aspirin and it really
+
+			upset my stomach.
+
+		Catherine begins pouring the coffee.
+
+					CATHERINE
+
+			One thing that's hard to understand
+
+			is how you could have this
+
+			incredible background in music, and
+
+			then just walk away from it,
+
+			without a second thought...
+
+					BOBBY
+
+			I gave it a second thought.
+
+		Tita seats herself at the table, addressing Spicer:
+
+					TITA
+
+			He looks tired to me, Spicer. I
+
+			think you should put him to bed.
+
+		He nods, and as he gets up and wheels Nicholas from
+
+		the room:
+
+					CATHERINE
+
+			I mean, how could you not play
+
+			anymore? That's so strange to me...
+
+					BOBBY
+
+			I have played a few times. Here and
+
+			there. As a matter of fact, I was
+
+			once a rehearsal pianist for a Las
+
+			Vegas musical revue.
+
+					CATHERINE
+
+			You don't call that music, though.
+
+					BOBBY
+
+			Of course I do. It's music. You
+
+			know...
+
+		He places his hands on the table and simulates the
+
+		playing of a rousing production-type show-stopper,
+
+		simultaneously vocalizing as he does.
+
+		Though Tita and Catherine are amused, Carl winces
+
+		disapprovingly and breaks into Bobby's act:
+
+					CARL
+
+			Robert, do you mind?
+
+					BOBBY
+
+			What?
+
+					CARL
+
+			Nothing. Will you excuse us for a
+
+			while?
+
+		He takes hold of Catherine's hand and stands up.
+
+					CATHERINE
+
+			We really don't have to, Carl, if
+
+			you're not feeling good...
+
+					CARL
+
+				(a bit martyred)
+
+			Well, maybe if we put the
+
+			Thermaphore on me for a while,
+
+			first...
+
+					CATHERINE
+
+			Oh, all right.
+
+		And as they move to the door, she glances
+
+		apologetically back at Bobby.
+
+		Deflated and embarrassed, he looks away from Tita's
+
+		sympathetic gaze. After a brief silence, she
+
+		reaches to a platter on the table.
+
+					TITA
+
+			Do you want some gingerbread?
+
+					BOBBY
+
+				(elsewhere)
+
+			What?
+
+					TITA
+
+			With applesauce?
+
+					BOBBY
+
+			No, thanks...
+
+		INT. DUPEA LIVING ROOM - NIGHT
+
+		Bobby stands in the living room. It is dark and the
+
+		only light comes from some burning logs in the
+
+		fireplace. He listens briefly to the sounds of a
+
+		Beethoven sonata coming from the music room...
+
+		... then moves to a chaise near the fireplace and
+
+		lies down, staring absently into the flames. After
+
+		a moment, he closes his eyes.
+
+		ANOTHER ANGLE
+
+		on his sleeping face as the sonata begins to FADE.
+
+		INT. DUPEA LIVING ROOM - MORNING
+
+		ON BOBBY
+
+		still asleep in the chaise. He is suddenly jolted
+
+		awake by a loud thud and sits up, looking out the
+
+		window to:
+
+		POV OF SPICER
+
+		lifting a barbell with heavy weights attached to
+
+		it. He does a series of vigorous presses with it,
+
+		before he again lets the bar drop heavily onto the
+
+		porch.
+
+		INT. DUPEA HOME - UPSTAIRS HALL - DAY
+
+		(BACH VIOLIN OVER:)
+
+		Bobby stands in the hallway, a phone to his ear,
+
+		listening to Rayette and looking down the hall
+
+		toward the open door to Catherine's room.
+
+					BOBBY
+
+			Yeah, well fine, you know what I
+
+			suggest, Ray...
+
+				(listening)
+
+			Because I don't know how long.
+
+			Things are not going that well
+
+			here...
+
+		He listens again, his eyes on Catberine, moving
+
+		around in her room.
+
+					BOBBY (CONT'D)
+
+			Yeah, well I'm not having any fun,
+
+			either, so why don't you...
+
+				(pause)
+
+			No, you can't, it's just not
+
+			convenient, and I have to get
+
+			off...
+
+				(listening impatiently)
+
+			Ray, I really have to go, I have to
+
+			get off now...
+
+				(longer pause)
+
+			Another couple of days, maybe. I'll
+
+			call you and let you --
+
+				(pause)
+
+			All right, if you're gone, you're
+
+			gone. Now I have to get off, okay?
+
+				(pause)
+
+			Bye, Ray...
+
+		He hangs up and, as he starts down the hall to
+
+		Catherine's room, the VIOLIN STOPS and Carl steps
+
+		out into the hall ahead of him. He carries his
+
+		fiddle and detains Bobby, with:
+
+					CARL
+
+			Only 10 minutes of playing and it's
+
+			already killing my neck...
+
+		Bobby looks past him to Catherine as she glances
+
+		out at them and then closes the door to her room.
+
+		EXT. DUPEA GROUNDS - DAY
+
+		Bobby and Carl, playing a game of table tennis.
+
+		Tita stands leaning against a tree, watching them.
+
+		In the b.g., Spicer can be seen, meticulously
+
+		oiling and cleaning the wheelchair.
+
+		As they volley the ball back and forth:
+
+					BOBBY
+
+			You sure you should be playing,
+
+			Carl?
+
+					CARL
+
+			What do you mean? Aside from my
+
+			neck, I'm in superb shape.
+
+		Carl hits into the net, and as the ball rebounds to
+
+		him, he tosses it to Bobby.
+
+					BOBBY
+
+				(serving)
+
+			I don't know, there's something
+
+			wrong with the way you move.
+
+		Carl hits the net again.
+
+					CARL
+
+			I'm not aware of it. Like what?
+
+					BOBBY
+
+			Your serve. Two -- Eighteen.
+
+		Carl serves and as they volley:
+
+					BOBBY (CONT'D)
+
+			I'd hate to see you walk across a
+
+			concert stage like that.
+
+		Carl tries a smash and mis-hits the ball...
+
+					BOBBY (CONT'D)
+
+			Two -- Nineteen.
+
+		... and as he retrieves it:
+
+					CARL
+
+				(irritated with Bobby)
+
+			I've walked across a stage a number
+
+			of times, without exciting any
+
+			particular response...
+
+					BOBBY
+
+			That's what I mean...
+
+		Carl comes back to the table.
+
+					CARL
+
+			Any particular humor, I meant.
+
+		He angrily serves the ball.
+
+					BOBBY
+
+				(returning)
+
+			I think you should get someone to
+
+			coach you how to walk. I think it's
+
+			a substantial problem.
+
+		He hits a smash and it sails past Carl into some
+
+		shrubbery several yards away.
+
+					CARL
+
+			Dammit!
+
+		As he moves after the ball, Bobby gestures at him.
+
+					BOBBY
+
+			Look at that.
+
+					TITA
+
+			Why are you being so mean?
+
+					BOBBY
+
+			I'm not. He does walk funny. Don't
+
+			you see that?
+
+		She looks at Carl, bent over and searching through
+
+		the shrubs.
+
+					TITA
+
+			I don't think I'd notice. I'm so
+
+			used to Carl.
+
+					BOBBY
+
+				(wanting to go on about
+
+				it)
+
+			Yeah, well, he's...
+
+		She interrupts him, looking toward Spicer.
+
+					TITA
+
+			Bobby? Do you think Spicer is
+
+			attractive?
+
+		He looks over at Spicer, polishing the frame of the
+
+		wheelchair.
+
+					BOBBY
+
+			I think he's got a terrific
+
+			personality.
+
+					TITA
+
+			You know, he was formerly a sailor.
+
+		Bobby gestures his paddle at Carl, on his way back
+
+		with the ball.
+
+					BOBBY
+
+			Look, can't you see that, what I'm
+
+			talking about?
+
+					TITA
+
+			Sailors are sadistic, I feel.
+
+		Carl comes up to the table, asserting:
+
+					CARL
+
+			See? There's nothing wrong with the
+
+			way I walk. Now where are we?
+
+					BOBBY
+
+			At game, Carl.
+
+		Carl serves and they volley briefly. Then BobbY
+
+		angles the ball sharply and puts it away.
+
+					BOBBY (CONT'D)
+
+			That's three games to none, Carl.
+
+					CARL
+
+			All right, let's have a rematch.
+
+					BOBBY
+
+			I thought you had to go to the
+
+			mainland today. Aren't you going to
+
+			miss the ferry?
+
+		Carl takes a quick glance at his watch, then drops
+
+		his paddle onto the table.
+
+					CARL
+
+			Too bad. Just when I was hitting my
+
+			stride.
+
+		He starts away, then turns back.
+
+					CARL (CONT'D)
+
+			Say goodbye to Catherine for me,
+
+			will you?
+
+		As he moves off in the direction of the cars, Tita
+
+		comes up beside Bobby.
+
+					TITA
+
+			Can I play now?
+
+		Carl calls over to them from his car:
+
+					CARL
+
+			Tell her I'll be back sometime
+
+			tomorrow!
+
+		Bobby turns to Tita.
+
+					BOBBY
+
+			Where is she, anyway?
+
+					TITA
+
+				(ignoring the question)
+
+			My turn.
+
+		He hands her the paddle...
+
+					BOBBY
+
+			Why don't you and Spicer play?
+
+		... and moves off toward the house.
+
+		INT. DUPEA HOME - UPSTAIRS HALL - DAY
+
+		Bobby knocks on Catherine's door and, hearing no
+
+		response, opens it and steps inside.
+
+		INT. CATHERINE'S ROOM - DAY
+
+		He wanders about, discreetly touching nothing, but
+
+		taking in some essence of Catherine from her
+
+		belongings and from the scent of her that lingers
+
+		in the room.
+
+		His journey brings him into proximity with the
+
+		windows and he pauses to look out at:
+
+		TITA AND SPICER BELOW
+
+		playing table tennis.
+
+		He starts to move from the windows, when he sees:
+
+		CATHERINE'S CAR
+
+		pulling into view and parking near the garage. She
+
+		gets out, and, carrying a shopping bag and a
+
+		wrapped bouquet of flowers, pauses on her way to
+
+		the house to have some exchange with Tita.
+
+		INT. DUPEA HOME - STAIRCASE - DAY
+
+		ON BOBBY
+
+		quickly descending the staircase, and FOLLOWING
+
+		with him as he moves to the music room and goes
+
+		inside, leaving the door open.
+
+		INT. MUSIC ROOM - DAY
+
+		He crosses to one of the grands, seats himself and
+
+		rubs his hands together to warm them. Then,
+
+		scanning his mental repertoire, he places his hands
+
+		on the keyboard and begins to play a Chopin etude.
+
+		Presently, Catherine appears in the doorway. She
+
+		stands listening for a moment, then places the
+
+		shopping bag and flowers on a settee near the
+
+		doorway and crosses to a chair near the pianos and
+
+		sits down.
+
+		Bobby glances at her, then returns his eyes to the
+
+		keyboard.
+
+		ON CATHERINE
+
+		her features intensely concentrated, as she listens
+
+		to his playing.
+
+		ON BOBBY
+
+		apparently deep into the music. On the wall behind
+
+		him are the series of photographs seen in the
+
+		opening and the present ANGLE FAVORS an 8-year-old
+
+		Bobby in his dress suit, playing a recital.
+
+		THE CAMERA MOVES down to his hands...
+
+		... then to Catherine, profoundly moved.
+
+		ANGLE INCLUDING BOTH
+
+		as Bobby plays the concluding chords of the etude.
+
+		He lets his hands linger on the keys until the last
+
+		overtones fade, then he removes them to his lap.
+
+		After a brief silence:
+
+					CATHERINE
+
+			That was beautiful, Robert. I'm
+
+			surprised...
+
+					BOBBY
+
+			Thank you.
+
+					CATHERINE
+
+			I was really very moved by the way
+
+			you...
+
+		Unable to keep up the "serious" musician pose, a
+
+		brief, derisive laugh issues from him.
+
+					CATHERINE (CONT'D)
+
+			Is that funny?
+
+					BOBBY
+
+			It wasn't supposed to be, it just
+
+			struck me that way.
+
+					CATHERINE
+
+			Why?
+
+					BOBBY
+
+			Nothing. It's just that... I picked
+
+			the easiest piece I could remember.
+
+			I think I first played it when I
+
+			was 8 years old and I played it
+
+			better then.
+
+					CATHERINE
+
+			It doesn't matter. It was the
+
+			feeling I was affected by.
+
+					BOBBY
+
+			I didn't have any.
+
+					CATHERINE
+
+			You had no inner feeling?
+
+					BOBBY
+
+			None.
+
+					CATHERINE
+
+			Then I must have been supplying it.
+
+		She gets up and crosses toward the settee.
+
+					BOBBY
+
+			Wait...
+
+					CATHERINE
+
+			Well, at least you're accomplished
+
+			at something...
+
+					BOBBY
+
+			What?
+
+					CATHERINE
+
+			At being a fake.
+
+		And as she picks up the flowers and the shopping
+
+		bag:
+
+					BOBBY
+
+			Catherine...
+
+					CATHERINE
+
+			No, you're very good at it. I'm
+
+			really impressed.
+
+		She goes out the door.
+
+		Bobby looks down at the keyboard. He closes the
+
+		cover and softly utters:
+
+					BOBBY
+
+			Shit.
+
+		INT. CATHERINE'S BEDROOM - DAY
+
+		She stands in front of a dresser mirror, pinning up
+
+		her hair, preparatory to taking a bath. Her
+
+		attention is drawn to...
+
+		... Bobby entering, and as he crosses to her, she
+
+		quickly turns back to the mirror.
+
+					BOBBY
+
+			You think I'm a fake.
+
+					CATHERINE
+
+			I think it's what you think.
+
+					BOBBY
+
+			No, it isn't what I think.
+
+					CATHERINE
+
+			Look... You made a very calculated
+
+			move, and then made me feel
+
+			embarrassed for responding to you.
+
+			That wasn't necessary.
+
+		She moves away from him and he follows her.
+
+					BOBBY
+
+			Yes, it was. You've made it clear
+
+			that if I can cut a little piano, I
+
+			might get a little response.
+
+					CATHERINE
+
+				(stops and turns to him)
+
+			I don't think that's accurate...
+
+					BOBBY
+
+			Up to now, what I've been getting
+
+			from you are meaningful looks over
+
+			the dinner table and a lot of vague
+
+			suggestions about the day after
+
+			tomorrow...
+
+					CATHERINE
+
+			I'm not conscious of having given
+
+			you any meaningful looks. And as
+
+			for the day after tomorrow, this is
+
+			the day after tomorrow, and I am,
+
+			unfortunately, seeing you... Now if
+
+			you'll excuse me, I'd like to take
+
+			a bath.
+
+		She moves back to the dresser and as she begins
+
+		searching through an array of bath oils on top of
+
+		it, Bobby steps in beside her.
+
+					BOBBY
+
+			It's convenient to fake looking for
+
+			something right now, isn't it?
+
+					CATHERINE
+
+			I'm not faking anything. I'm
+
+			looking for some bath oil...
+
+					BOBBY
+
+			Some bath oil?
+
+		He lifts up one of the bottles.
+
+					BOBBY (CONT'D)
+
+			What about this one?
+
+				(picking up another)
+
+			Or this one?
+
+				(and another)
+
+			How about some jasmine?
+
+				(and another)
+
+			What about some musk?
+
+					CATHFRINE
+
+			What are you doing!
+
+					BOBBY
+
+				(knocking the bottles
+
+				over)
+
+			What are you doing, screwing around
+
+			with this crap?!
+
+		A little intimidated by his aggressivity:
+
+					CATHERINE
+
+			I don't find your language that
+
+			charming.
+
+					BOBBY
+
+			It's direct, anyway, which seems to
+
+			be difficult for you.
+
+					CATHERINE
+
+			I'd like you to leave now. Is that
+
+			direct enough?
+
+		He makes no move to go.
+
+					CATHERINE (CONT'D)
+
+			You're not a serious person, by
+
+			your own admission. And that may be
+
+			interesting, but it doesn't
+
+			interest me...
+
+		Needing the safety of distance, she moves over to
+
+		the windows next to the bed. Again, he follows
+
+		after her.
+
+					BOBBY
+
+			Serious, that's what's important to
+
+			you?
+
+					CATHERINE
+
+			Yes, that's what's important to
+
+			me...
+
+		He takes her by the shoulders...
+
+					BOBBY
+
+			Okay, let's be serious...
+
+		... and forces her onto the bed.
+
+					CATHERINE
+
+			No, don't do that...
+
+					BOBBY
+
+			Shut up...
+
+		He hesitates for a moment, full of things he wants
+
+		to say and cannot. Catherine looks up at him,
+
+		uttering a quiet challenge:
+
+					CATHERINE
+
+			No inner feeling.
+
+					BOBBY
+
+			That's right.
+
+					CATHERINE
+
+			I don't believe vou.
+
+		He leans down to her, begins kissing her. Her arms
+
+		encircle him and laying back on the bed, she pulls
+
+		his body onto hers, fervently returning his kisses.
+
+		And as he responds with an ardor absent of fakery
+
+		and full of a lifetime of derelict feelings, a FADE
+
+		OVER BEGINS, to:
+
+		INT. CATHERINE'S BEDROOM - DAY
+
+		Catherine and Bobby lie side by side. He watches
+
+		her as she addresses the ceiling:
+
+					CATHERINE
+
+			I married him when I was 17. He was
+
+			a cellist, and I thought he was the
+
+			most brilliant man I'd ever met...
+
+			And I'm sure he was, because at
+
+			that age, I hadn't met that many...
+
+			But he was insidious, you know. He
+
+			had me convinced that I was a
+
+			mediocrity, musically, as a woman,
+
+			as an intellect. But in this
+
+			completely imperceptible, pleasant
+
+			way, so that you weren't even sure
+
+			he was doing it. Anyway, I just
+
+			woke up one morning and I said, you
+
+			know something Joseph, you're full
+
+			of beans, and I left him...
+
+					BOBBY
+
+			That's what you said?
+
+					CATHERINE
+
+			Something witty and devastating
+
+			like that.
+
+		She moves onto her side, looking over at him.
+
+					CATHERINE (CONT'D)
+
+			As a matter of fact, he's the one
+
+			who introduced me to Carl...
+
+				(a pause, then:)
+
+			How are you?
+
+					BOBBY
+
+			I'm fine.
+
+					CATHERINE
+
+			Carl restored my confidence. He
+
+			really did. He's much more
+
+			substantial than you give him
+
+			credit for.
+
+					BOBBY
+
+			Is he?
+
+					CATHERINE
+
+			Yes.
+
+		She reaches over, tentatively caressing his face,
+
+		then:
+
+					CATHERINE (CONT'D)
+
+			Do you think you could discreetly
+
+			move across the hall now?
+
+					BOBBY
+
+			Yeah, I think I could.
+
+		He kisses her, gets up and crosses to the door, and
+
+		as he opens it:
+
+					CATHERINE
+
+			Robert?
+
+					BOBBY
+
+			What?
+
+					CATHERINE
+
+			I could spend some time with you
+
+			tomorrow morning, before Carl comes
+
+			back, I mean, if you'd like to.
+
+					BOBBY
+
+			Of course I'd like to.
+
+		EXT. LA ROCHE WOODS - DAY
+
+		(CHOPIN OVER:)
+
+		Bobby and Catherine walk over a path through a
+
+		thickly wooded area that presently brings them in
+
+		sight of the Dupea house. He stops and, taking hold
+
+		of her, leans back against a tree, kissing her.
+
+		When they break off and resume walking, she takes
+
+		one of his hands in both of hers and, after looking
+
+		at the scars and callouses accumulated by his years
+
+		of manual labor, she lays the hand against her
+
+		cheek.
+
+		The ANGLE ALTERS from them, to:
+
+		EXT. DUPEA HOUSE - DAY
+
+		A taxicab pulls up in front of the house. Rayette
+
+		gets out with her suitcase and, after paying the
+
+		driver, moves up the steps to the front door and
+
+		reaches out to ring the bell.
+
+		INT. DUPEA DINING ROOM TABLE - NIGHT
+
+		ON RAYETTE
+
+		looking down the table to Nicholas.
+
+					RAYETTE
+
+			You certainly do have a beautiful
+
+			piece a real estate out here, Mr.
+
+			Dupea.
+
+		ON NICHOLAS AND SPICER
+
+		the former with his chin resting on his chest.
+
+					RAYETTE
+
+				(turning to Bobby)
+
+			Can he hear me?
+
+		Bobby doesn't respond.
+
+					TITA
+
+				(politely)
+
+			He's not hard of hearing.
+
+					RAYETTE
+
+			Well, that's a blessing, at least.
+
+		She takes a bite of food, and as she chews:
+
+					RAYETTE (CONT'D)
+
+			This certainly is an improvement on
+
+			the motel an' the coffee shop.
+
+				(to Bobby)
+
+			How could you have left such a
+
+			beautiful place, Bobby?
+
+					BOBBY
+
+			I don't know.
+
+		ON CARL
+
+		fascinated with Rayette, while beside him,
+
+		Catherine keeps her eyes on her plate as she eats.
+
+					CARL
+
+			You've been staying in a motel all
+
+			this time?
+
+					RAYETTE
+
+			For two whole weeks, an' there
+
+			wasn't hardly nobody there to talk
+
+			to but me.
+
+			The manager of the place told me it
+
+			was the off season, an' it must a
+
+			ben, because other'n me, there was
+
+			just this 25-year-old kid, DeLyon,
+
+			that didn't appear to be all there,
+
+			an' this old married pair next to
+
+			me that was always hollerin' for
+
+			quiet. Can you imagine? All you
+
+			could a heard there was a pin, an'
+
+			them, hollerin' away...
+
+					CARL
+
+			I don't understand why you had to
+
+			stay in a motel. There's more than
+
+			enough room here.
+
+					RAYETTE
+
+			Well, I was goin' to, but Bobby
+
+			said he hadda kind of feel things
+
+			up here first, which I can
+
+			understand, but then it went an'
+
+			took so long, I ran flat outa
+
+			money...
+
+				(to Bobby)
+
+			I didn't have no number to call,
+
+			you know.
+
+				(to Carl)
+
+			So I hadda clear outa there an'
+
+			come on up here, in the hopes that
+
+			I wouldn't be intrudin' myself...
+
+					CARL
+
+			Oh, no. You're more than welcome.
+
+					RAYETTE
+
+			Well, thank you, that's a very nice
+
+			thing for you to say.
+
+					CARL
+
+			Not at all.
+
+		She goes on eating and there is a brief silence
+
+		before she resumes, looking over at Catherine:
+
+					RAYETTE
+
+			That certainly is a beautiful head
+
+			a hair you have.
+
+					CATHERINE
+
+			Thank you.
+
+					RAYETTE
+
+			Is it natural?
+
+					BOBBY
+
+			Rayette.
+
+					RAYETTE
+
+			What?
+
+					BOBBY
+
+			Just finish eating.
+
+					RAYETTE
+
+			Oh, am I holdin' up dessert?
+
+		Carl laughs.
+
+					CARL
+
+			No, you're not. Go ahead and take
+
+			your time.
+
+					RAYETTE
+
+			I do eat slow as a bird, whereas
+
+			Bobby can put it away like a speed
+
+			swing...
+
+				(to Tita)
+
+			Is there any ketchup around?
+
+					BOBBY
+
+			Oh, for chrissakes...
+
+					CARL
+
+			Robert, let's not be rude, okay?
+
+					RAYETTE
+
+			It's all right. He don't mean
+
+			anything by that.
+
+					BOBBY
+
+			I don't, huh?
+
+		He throws his napkin on the table, gets up and
+
+		leaves the room. There is an awkward silence,
+
+		followed by Rayette valiantly covering her own
+
+		feelings:
+
+					RAYETTE
+
+			I guess Bobby's just about the
+
+			moodiest man I ever ben with...
+
+		INT. FISHERMAN'S BAR - MAINLAND - NIGHT
+
+		(TAMMY WYNETTE'S "DON'T TOUCH ME" OVER:)
+
+		Bobby finishes the last of several drinks. He ships
+
+		a half pint into his jacket pocket, lays some bills
+
+		on the bar and moves toward the door.
+
+		EXT. FISHERMAN'S BAR - MAINLAND - NIGHT
+
+		(WYNETTE OVER:)
+
+		Thoroughly anesthetized, he wanders aimlessly
+
+		through the harbor-front streets. As he disappears
+
+		into the dark, the MUSIC FADES.
+
+		EXT. WHARF - MAINLAND - DAWN
+
+		ON BOBBY
+
+		lying huddled on the boardwalk next to the boat
+
+		slips. The crying of the gulls and the sound of
+
+		outgoing fishing launches awaken him. Disoriented,
+
+		he gets to his feet and, hugging himself against
+
+		the cold, moves unsteadily down the dock.
+
+		EXT. FERRY - MORNING
+
+		Bobby's car pulls off the ferry and approaches a
+
+		line of cars waiting to board. He sees Catherine at
+
+		the wheel of the first car, and pulling abreast of
+
+		her, stops and rolls down his window.
+
+					BOBBY
+
+			Where are you going?
+
+					CATHERINE
+
+			I'm going to pick up some friends
+
+			of Carl's. Are you all right?
+
+					BOBBY
+
+			I have to talk to you.
+
+					CATHERINE
+
+			I'll be back later...
+
+		The blocked cars behind each of them begin HONKING
+
+		impatiently and CONTINUE TO under the following:
+
+					BOBBY
+
+			No, I want to talk to you now. I
+
+			have to explain something about...
+
+					CATHERINE
+
+			No, you don't have to, it isn't
+
+			necessary...
+
+					BOBBY
+
+				(overlapping her)
+
+			Yes, it is!
+
+		A DRIVER behind Bobby sticks his bead out the
+
+		window, yelling furiously at him:
+
+					DRIVER
+
+			Come on, get moving, dammit!!
+
+					BOBBY
+
+				(turning around to him)
+
+			Will you shut up for a minute!!
+
+				(to Catherine)
+
+			Pull your car out of line.
+
+					CATHERINE
+
+			No, I can't...
+
+					BOBBY
+
+			Will you let me talk to you,
+
+			please?
+
+					CATHERINE
+
+			I can't do that. I haven't been
+
+			being fair to Carl. I have to tell
+
+			you that.
+
+					BOBBY
+
+				(barely audible)
+
+			Oh. You have to tell me that.
+
+					CATHERINE
+
+			What?! I can't hear you!
+
+		He looks back at her not responding.
+
+					CATHERINE (CONT'D)
+
+			I'm sorry everything's been so
+
+			confusing, but I have to go,
+
+			Robert...
+
+					BOBBY
+
+			Catherine...
+
+					CATHERINE
+
+			Please, I'll see you later this
+
+			evening.
+
+		She pulls ahead and moves onto the ferry.
+
+		INT. DUPEA LIVING ROOM - NIGHT
+
+		FAVORING SAMIA GLAVIA
+
+		a friend of Carl's. (Somewhere under the following,
+
+		the ANGLE ALTERS to include TWO OTHER FRIENDS, as
+
+		well as Carl, Catherine, Bobby and Rayette, seated
+
+		around the living room, variously captive to her
+
+		monologue.)
+
+					SAMIA
+
+			But the point is, man is born into
+
+			the world with a pre-existent
+
+			adversary, both real and imaginary,
+
+			so you'd have to say that
+
+			aggression was one of his primary,
+
+			psychic inheritances, which...
+
+		JOHN FINCHER, a professorial type, attempts to
+
+		interject:
+
+					FINCHER
+
+			If I may beg to differ...
+
+					SAMIA
+
+			Beg all you like, John, but the
+
+			fact remains that man takes
+
+			enormous delight in aggressive
+
+			acts, as well as the portrayal of
+
+			aggressive acts, and to be
+
+			triumphant over another no matter
+
+			how, seems fundamental to his
+
+			having a sense of well being, as
+
+			well as...
+
+					FINCHER
+
+			No, I don't quarrel with your
+
+			inference, but you draw too long a
+
+			bow in your conclusions, which seem
+
+			unnecessarily harsh and...
+
+					SAMIA
+
+			Well, I don't make poetry. As an
+
+			analyst, I...
+
+		Rayette interrupts, calling across the room to
+
+		Carl:
+
+					RAYETTE
+
+			Is there a TV in the house?
+
+		Carl starts to answer and is pre-empted by Samia:
+
+					SAMIA
+
+			John believes in the basic goodness
+
+			of man, and that's fine, but gaze
+
+			into the pit like I have and that
+
+			view seems a little soporific. And
+
+			not unlike television, it hardly
+
+			represents the real world...
+
+					RAYETTE
+
+			There's some good things on it,
+
+			though.
+
+					SAMIA
+
+			Pardon me?
+
+					RAYETTE
+
+			The TV. There's some good things on
+
+			it, sometimes.
+
+					SAMIA
+
+			I strongly doubt it, but I wasn't
+
+			really discussing media...
+
+					FINCHER
+
+			If you really hold such bleak
+
+			views, how can you, in good
+
+			conscience, carry on a practice?
+
+					SAMIA
+
+			Oh, there's always hope, I think,
+
+			for a few individuals, if they're
+
+			courageous enough to shed their
+
+			illusions and their...
+
+					CATHERINE
+
+				(cutting her off)
+
+			And what about love?
+
+					SAMIA
+
+			What about it? Wouldn't you agree
+
+			that a great deal of mischief has
+
+			been done in the name of love?
+
+					CATHERINE
+
+			No, I wouldn't.
+
+					SAMIA
+
+			Well, you're a romantic, Catherine,
+
+			as are most musicians, and what's
+
+			more, about to be married...
+
+		ON BOBBY
+
+		and his reaction as Samia goes on:
+
+					SAMIA
+
+			... which should exclude you from
+
+			any objective discussion. But keep
+
+			in mind, even the arts aren't free
+
+			of aggressive content, nor the
+
+			institution of marriage.
+
+					CATHERINE
+
+			I think these cold, "objective"
+
+			discussions are aggressive,
+
+			Samia...
+
+		She gets up and starts to move away.
+
+					SAMIA
+
+			But I'd like to say, so that I
+
+			don't dampen the spirit of your
+
+			adventure...
+
+					CATHERINE
+
+				(cutting her off)
+
+			You haven't dampened my spirit,
+
+			Samia... Excuse me.
+
+					SAMIA
+
+			Well, I should hope not...
+
+		She leaves the room, with Bobby's eyes following
+
+		her, and as Carl moves over to sit beside Rayette,
+
+		Samia resumes to Fincher while the other friend
+
+		moves in beside Bobby and tries to engage him in
+
+		conversation.
+
+					SAMIA (CONT'D)
+
+			Because obviously there are loftier
+
+			classes of people that do establish
+
+			a kind of relating, that's
+
+			relatively free of... (Etc.)
+
+		ON CARL AND RAYETTE
+
+		as she indicates Tita's dog, lying near the
+
+		fireplace.
+
+					RAYETTE
+
+			What kind of doggy is that?
+
+					CARL
+
+			It's a Borzoi.
+
+					RAYETTE
+
+			Oh, uh huh. I had a little kittycat
+
+			once, that Bobby give me...
+
+		She calls across to Bobby, interrupting Samia.
+
+					RAYETTE (CONT'D)
+
+			Remember, Bobby?! The little
+
+			pussycat you gave me?!
+
+		Bobby, now feeling trapped by the other friend,
+
+		looks across to her ass she returns her attention
+
+		to Carl.
+
+					RAYETTE (CONT'D)
+
+			She had four little white paws, an'
+
+			oh, was I crazy over her. We hadda
+
+			go an' leave her one time at some
+
+			friends, an' she went out an' got
+
+			smashed flatter'n a tortilla right
+
+			outside their mobile home.
+
+		Samia gestures toward Rayette as if she were an
+
+		example to prove her point.
+
+					SAMIA
+
+			There. You see what I mean?
+
+		Bobby looks over at Samia.
+
+					SAMIA (CONT'D)
+
+			The choice of words, "squashed
+
+			flat," juxtaposed against the image
+
+			of a fluffy kitten...
+
+					RAYETTE
+
+			Well, she was.
+
+					SAMIA
+
+			Perhaps...
+
+		She addresses Fincher gesturing toward Rayette
+
+		again.
+
+					SAMIA (CONT'D)
+
+			But you see how close that is to
+
+			what I'm trying to...
+
+		Bobby stands up, cutting her off:
+
+					BOBBY
+
+			Don't sit there pointing at her.
+
+					SAMIA
+
+			I beg your pardon.
+
+					BOBBY
+
+				(advancing on her)
+
+			I said, don't point at her like
+
+			that! What gives you the right to
+
+			sit there and tell anybody about
+
+			class and who the hell's got it,
+
+			and what she typifies! You
+
+			shouldn't even be in the same room
+
+			with her, you creep!
+
+					SAMIA
+
+			Carl, this is really too much...
+
+					BOBBY
+
+				(to Samia)
+
+			You're totally full of shit!
+
+					CARL
+
+			Robert, I think you better just...
+
+					BOBBY
+
+				(cutting him off)
+
+			You're all full of shit!
+
+		He turns away and exits the room.
+
+		INT. DUPEA HOME - NIGHT
+
+		FOLLOWING WITH BOBBY
+
+		running up the stairs and down the hall to
+
+		Catherine's room. He goes inside and, not finding
+
+		her, comes quickly back into the hall. As he moves
+
+		down it, opening other doors, he begins calling her
+
+		name.
+
+		He comes back down the stairs and runs into Rayette
+
+		at the bottom landing.
+
+					RAYETTE
+
+			Bobby...
+
+					BOBBY
+
+				(moving past her)
+
+			I can't talk to you right now,
+
+			leave me alone...
+
+		He moves to the music room, to the den, then down
+
+		the main hall to the kitchen, which gives off to
+
+		two other doors. He opens one of them, to see:
+
+		INT. SPICER'S ROOM - NIGHT
+
+		Tita and Spicer. Though both are clothed, they are
+
+		caught in some stage of intimacy on top of Spicer's
+
+		bed. Tita sits up immediately, mortally
+
+		embarrassed, as Bobby steps into the room.
+
+					BOBBY
+
+			Tita, what the hell are you doing?!
+
+		Spicer stands up.
+
+					SPICER
+
+			Hey, this is my room.
+
+					BOBBY
+
+				(moving over to the bed)
+
+			What's going on here!?
+
+					TITA
+
+			It's none of your business!
+
+					BOBBY
+
+			Where's Catherine?!
+
+					TITA
+
+			I don't know where she is!
+
+		Spicer moves to Bobby, taking hold of his arm.
+
+					SPICER
+
+			Don't you believe in knocking, pal?
+
+		Bobby roughly pushes him away and advances on Tita.
+
+					BOBBY
+
+			I'm talking to you, Tita!
+
+					TITA
+
+				(close to tears)
+
+			Can't I have anything to myself, 
+
+			dammit?!
+
+					SPICER
+
+				(grabbing hold of him
+
+				again)
+
+			Come on now, out!
+
+					BOBBY
+
+				(struggling with him)
+
+			Keep your fucking hands off my
+
+			sister, nurse!
+
+		Spicer goes into sudden rage, pushing Bobby
+
+		violently toward the door and yelling:
+
+					SPICER
+
+			Did you hear me! Move out!!
+
+		Bobby leaps at him and as their struggle carries
+
+		them into the kitchen, Tita begins yelling:
+
+					TITA
+
+			Stop it! Bobby, will just you stop!
+
+			I mean it!
+
+		Spicer gets Bobby into a painful headlock and is
+
+		being bulled around the kitchen by him.
+
+					SPICER
+
+			Hold it, just hold it!!
+
+		They crash into the kitchen table, knocking chairs
+
+		over.
+
+					TITA
+
+			Carl! Somebody get Carl!
+
+		Bobby rams Spicer into the refrigerator.
+
+					SPICER
+
+			Take it easy, dammit!
+
+		He hurls him against the kitchen wall, still
+
+		holding him in a headlock as Tita enters the
+
+		kitchen.
+
+					TITA
+
+			Stop it! Right now! Just stop it!!
+
+			Carl!!
+
+		And as she runs from the room, Spicer begins
+
+		violently jerking his forearm up against Bobby's
+
+		trachea, punctuating each jerk with the repeated
+
+		command:
+
+					SPICER
+
+			Give up! Give up! Give up! Give up!
+
+			Give up! Give up!
+
+		He feels Bobby's body slacken. He releases him and
+
+		Bobby drops to the floor as...
+
+		... Carl, Catherine and Tita run into the kitchen,
+
+		looking to:
+
+		Bobby, gasping for air, tries to get up from the
+
+		floor, and unable to, slumps back against the
+
+		kitchen wall.
+
+					TITA
+
+			Oh God, Bobby, look what you've
+
+			done...
+
+		He looks past her, to Catherine.
+
+					BOBBY
+
+			I just wanted to talk to you for a
+
+			minute.
+
+		EXT. BAYFRONT - DAY
+
+		Catherine and Bobby sit on a low stone wall
+
+		bordering the Dupea property. Each is staring out
+
+		at the ocean, and after a moment:
+
+					CATHERINE
+
+			No. It's useless, Robert. It
+
+			wouldn't work, not ever...
+
+					BOBBY
+
+			Just give me a chance, will you?
+
+					CATHERINE
+
+			I'm trying to be delicate with you,
+
+			but you're not understanding me.
+
+			It's not just because of Carl, or
+
+			my music, but because of you...
+
+				(she looks at him)
+
+			I mean, what would it come to? If a
+
+			person has no love for himself, no
+
+			respect, no love for his work, his
+
+			family, his friends, something...
+
+			How can he ask for love in return?
+
+			I mean, why should he ask for it?
+
+		Profoundly wounded, he looks away from her.
+
+					BOBBY
+
+			And living out here, in this rest
+
+			home asylum, that's what you want?
+
+					CATHERINE
+
+			Yes.
+
+					BOBBY
+
+				(looking back to her)
+
+			That'll make you happy.
+
+					CATHERINE
+
+			I hope it will, yes.
+
+				(she pauses, then:)
+
+			I'm sorry.
+
+		Needing to distance herself from witnessing his
+
+		pain, she gets up and moves OUT OF FRAME.
+
+		His eyes move from her to look out over the bay
+
+		and, after a brief silence, he softly utters:
+
+					BOBBY
+
+			Okay.
+
+		EXT. COUNTRY - DAY
+
+		Bobby pushes Nicholas's wheelchair along a path
+
+		between fields of tall grasses and wildflowers. He
+
+		stops and moves around to the front of the chair.
+
+					BOBBY
+
+			Are you cold?
+
+		He leans over to adjust the blanket covering
+
+		Nicholas's legs and, hunkering down in front of
+
+		him, glances around at the fields, searching for
+
+		articulation:
+
+					BOBBY (CONT'D)
+
+			I don't know if you'd be
+
+			particularly interested in hearing
+
+			anything about me. My life, I
+
+			mean... Most of it doesn't add up
+
+			to much... that I could relate as a
+
+			way of life that you'd approve
+
+			of...
+
+		He pauses briefly, then:
+
+					BOBBY (CONT'D)
+
+			I'd like to be able to tell you
+
+			why, but I don't really... I mean,
+
+			I move around a lot because things
+
+			tend to get bad when I stay. And
+
+			I'm looking... for auspicious
+
+			beginnings, I guess...
+
+		He breaks off again, resuming with evident
+
+		difficulty.
+
+					BOBBY (CONT'D)
+
+			I'm trying to, you know, imagine
+
+			your half of this conversation...
+
+			My feeling is, that if you could
+
+			talk, we probably wouldn't be
+
+			talking. That's pretty much how it
+
+			got to be before. I left...
+
+				(another pause)
+
+			Are you all right?
+
+		He searches his father's face, entreating him for
+
+		some kind of answer, some sign of response, and
+
+		seeing none...
+
+					BOBBY (CONT'D)
+
+			I don't know what to say...
+
+		... he breaks down, barely able to utter the
+
+		following:
+
+					BOBBY (CONT'D)
+
+			Tita suggested that we try to... I
+
+			don't know. I think that she...
+
+			seems to feel we've got... some
+
+			understanding to reach... She
+
+			totally denies the fact that we
+
+			were never that comfortable with
+
+			each other to begin with...
+
+				(pauses, trying to gain
+
+				control)
+
+			The best I can do, is apologize.
+
+		He looks silently at his father for a moment...
+
+					BOBBY (CONT'D)
+
+			We both know I was never really
+
+			that good at it, anyway...
+
+		... then, bowing bis head:
+
+					BOBBY (CONT'D)
+
+			I'm sorry it didn't work out.
+
+		EXT. DUPEA HOUSE - DAY
+
+		Bobby comes out the front door. He carries his
+
+		suitcase and, as he descends the steps and moves
+
+		across the drive...
+
+		... Tita, wearing gloves and holding a pair of
+
+		gardening clippers, comes around the side of the
+
+		house and calls out to him:
+
+					TITA
+
+			Bobby!
+
+		He sets the suitcase down as she comes toward him.
+
+					TITA (CONT'D)
+
+			You're leaving?
+
+					BOBBY
+
+			Yeah. I said a week, and I've
+
+			overstayed myself...
+
+					TITA
+
+			You were going without saying
+
+			goodbye?
+
+					BOBBY
+
+			I didn't want to say goodbye to
+
+			anyone.
+
+					TITA
+
+			But what about me?
+
+					BOBBY
+
+				(smiling at her)
+
+			I'll say goodbye to you, Tita.
+
+		She puts her arms around him and as she embraces
+
+		him:
+
+					TITA
+
+			Just once in a while, call and tell
+
+			me where you are, please...
+
+					RAYETTE'S VOICE
+
+			Watch the birdie!
+
+		They turn to see:
+
+		Rayette, standing near the open trunk of Bobby's
+
+		car, taking a Polaroid shot of them.
+
+		Bobby returns his attention to Tita, kissing her.
+
+					BOBBY
+
+			Bye, now.
+
+					TITA
+
+				(tearing up)
+
+			Bye, Robert.
+
+		He picks up his suitcase and moves to the trunk,
+
+		where Rayette is fussing with her camera. He puts
+
+		the suitcase inside, closes the trunk and takes
+
+		hold of her arm.
+
+					BOBBY
+
+			Come on.
+
+					RAYETTE
+
+				(resisting him)
+
+			Wait a sec. I want Tita to take a
+
+			picture of you an' me in front of
+
+			the place...
+
+					BOBBY
+
+			No, let's go...
+
+		She pulls free of him and, as she moves back toward
+
+		Tita, Bobby can be seen getting into the driver's
+
+		seat.
+
+					RAYETTE
+
+			I never got the chance to thank you
+
+			all for your hospitality. You tell
+
+			Carl for me, if any of you folks
+
+			wanta come on down to our place
+
+			anytime, you'd be more'n welcome...
+
+					TITA
+
+			Thank you, that's very nice.
+
+					RAYETTE
+
+			Bye bye, now.
+
+		She moves back to the car and gets in.
+
+		ON TITA
+
+		watching as Bobby's car pulls out of the drive and
+
+		disappears onto the private road.
+
+		EXT. HIGHWAY - DAY
+
+		As Bobby's car moves over a highway through the
+
+		northern forests, RAYETTE'S VOICE is heard SINGING:
+
+					RAYETTE
+
+			"Your kiss is like a drink when I'm
+
+			thirsty/An' I'm thirsty for you
+
+			with all my heart..."
+
+		INT. BOBBY'S CAR - HIGHWAY - DAY
+
+		Rayette is seated close to Bobby, looking at him as
+
+		she sings.
+
+					RAYETTE
+
+			"But don't love me/Then act as
+
+			though we've never kissed/Oh, don't
+
+			touch me..."
+
+		She leans closer and kisses him, then bringing her
+
+		lips close to his ear:
+
+					RAYETTE (CONT'D)
+
+			"Don't touch me..."
+
+		She kisses him again.
+
+					RAYETTE (CONT'D)
+
+			"Don't touch me..."
+
+		And again.
+
+					RAYETTE (CONT'D)
+
+			"Don't touch me..."
+
+		Her kisses become more fervent and insistent.
+
+					RAYETTE (CONT'D)
+
+			"Oh, don't touch..."
+
+		He suddenly pushes her away.
+
+					BOBBY
+
+			Cut it out!
+
+		Grievously hurt by his gesture and expressive of an
+
+		anger she's heretofore been afraid to reveal:
+
+					RAYETTE
+
+			Son of a bitch, Bobby! You quit
+
+			pushin' me away like that! I've had
+
+			enough a that to last me a
+
+			lifetime!
+
+		She makes a fist of her hand as though she were
+
+		about to hit him, then changes her mind.
+
+					RAYETTE (CONT'D)
+
+			Whyn't you just try an' be good to
+
+			me for a change!?
+
+		There is no response. She turns away from him,
+
+		looking out through the windshield for a moment,
+
+		then:
+
+					RAYETTE (CONT'D)
+
+			There id'n anyone gonna look after
+
+			you an' love you better'n I do, you
+
+			know that.
+
+		She looks over at him.
+
+					RAYETTE (CONT'D)
+
+			Baby? Did you hear me?
+
+		There is no response.
+
+		EXT. GAS STATION - DAY
+
+		ON BOBBY'S CAR
+
+		as it turns off the highway and pulls up into a gas
+
+		station next to roadside cafe.
+
+		INT. BOBBY'S CAR - DAY
+
+		ON RAYETTE
+
+		searching through her purse.
+
+					RAYETTE
+
+			I'm gonna go in that cafe an' get
+
+			some coffee. You want anything?
+
+					BOBBY
+
+			No.
+
+					RAYETTE
+
+			You got any change?
+
+		He searches into his jacket, takes out his wallet
+
+		and hands it to her.
+
+					RAYETTE (CONT'D)
+
+			Don't you just have 50 cents or
+
+			somethin'?
+
+		He shakes his head.
+
+					RAYETTE (CONT'D)
+
+			Okay, be right back...
+
+		She reaches to the door and opens it.
+
+		EXT. BOBBY'S CAR - DAY
+
+		Bobby gets out of the car as the station attendant
+
+		approaches.
+
+		Rayette turns back to him as she nears the front of
+
+		the cafe.
+
+					RAYETTE
+
+			Sure you don't want anything?
+
+					BOBBY
+
+				(to attendant)
+
+			Fill it up.
+
+		The attendant moves to the pumps, and as Bobby
+
+		crosses toward the men's room and disappears
+
+		inside, a Peterbilt semi can be seen pulling into
+
+		the station.
+
+		INT. GAS STATION - MEN'S ROOM - DAY
+
+		Bobby removes his jacket and lays it on top of the
+
+		waste container. He moves to the wash basin and
+
+		stands a moment, gazing absently down at it, his
+
+		mind searching for that inward oblivion in which
+
+		nothing much is demanded, nothing much felt.
+
+		Then, leaning over and placing his hands on the rim
+
+		of the basin...
+
+		... he lifts his gaze to the mirror and, after
+
+		minutely perusing the features of his face, looks
+
+		into his own eyes as he had into his fathers,
+
+		silently beseeching them for guidance.
+
+		EXT. MEN'S ROOM - GAS STATION - DAY
+
+		(SOUND OF SEMI'S MOTOR OVER:)
+
+		REMOTE ANGLE as Bobby comes out of the men's room.
+
+		He has left his jacket inside and stands for a
+
+		moment, looking at the...
+
+		... DRIVER, bending down to check the undercarriage
+
+		of the semi. As he stands up and circuits the front
+
+		of the truck, heading for the cab:
+
+					BOBBY
+
+				(faintly audible)
+
+			Hey, wait a minute.
+
+		He moves over to him and after a brief exchange,
+
+		the driver nods his bead and continues on to the
+
+		cab, Bobby moves to the passenger door and climbs
+
+		up into the pass seat.
+
+		INT. SEMI CAB - GAS STATION - DAY
+
+		The driver glances over at Bobby:
+
+					DRIVER
+
+			Haven't you got a jacket or
+
+			anything with you?
+
+					BOBBY
+
+			No, I don't, I uh... it got burned
+
+			up. Everything in the car got the
+
+			shit burned out of it. All I got
+
+			left is what I have on...
+
+					DRIVER
+
+			I've got an extra jacket behind the
+
+			seat, if you want to put it on.
+
+					BOBBY
+
+			No, it's okay.
+
+					DRIVER
+
+			Suit yourself. But I'll tell you,
+
+			where we're headed is gonna get
+
+			colder'n hell.
+
+					BOBBY
+
+			It's all right. I'm fine.
+
+		The driver puts the truck into gear and releases
+
+		the brake.
+
+					BOBBY (CONT'D)
+
+			I'm all right.
+
+		And as the truck begins to move forward:
+
+					BOBBY (CONT'D)
+
+			I'm fine.
+
+		EXT. SEMI - GAS STATION - DAY
+
+		REMOTE ANGLE:
+
+		The semi pulls out of the station onto the highway,
+
+		giving view to Bobby's car. The attendant is
+
+		cleaning the windshield and Rayette can be seen
+
+		opening the passenger door. As she gets out and
+
+		surveys the area for some sign of Bobby, the semi
+
+		MOVES INTO VIEW, going north on the highway.
+
+		Rayette looks over the hood of the car, addressing
+
+		the attendant. He gestures toward the men's room
+
+		and as she moves across the station and disappears
+
+		OFF THE SCREEN...
+
+		... the semi recedes in the distance, leaving a
+
+		black trail of smoke from its exhaust stack,
+
+		dissipating in the air.
+
+					  THE END
+

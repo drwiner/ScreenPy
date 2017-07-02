@@ -1,0 +1,10570 @@
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+One Flew Over The Cuckoo's Nest 
+
+EXT. WORK FARM - NIGHTFALL
+
+All we SEE is an ELEVATED SHOT of the distant mountains,
+
+rolling landscape and McMURPHY -- one cheek laid-open and
+
+crusted over with dried blood, his face and prison work
+
+clothes caked with dried sweat and dust -- as he sits on the
+
+very top of a water tower watching the last rays of sunlight.
+
+A long moment passes before McMurphy's attention is drawn
+
+elsewhere and he looks down.
+
+REVERSE SHOT - McMURPHY'S POV
+
+Far below, in the prison yard a MAN is SEEN hurrying acrcss
+
+the yard where he joins a group of men composed of armed
+
+prison guards, officials, and medics -- a stretcher, an
+
+ambulance, a fire truck and safety nets spread out at the
+
+base of the water tower. The man is seen talking to the
+
+officials, then a bullhorn is handed to him and they all look
+
+up at McMurphy.
+
+McMURPHY
+
+As he looks down at them, a searchlight is turned on him.
+
+			MAN (V.O.)
+
+		(through bullhorn)
+
+	McMurphy! This is Doctor Shankle,
+
+	from the infirmary. Can you hear
+
+	me?
+
+McMurphy doesn't respond.
+
+			SHANKLE (V.O.)
+
+		(through bullhorn)
+
+	Can you hear me, McMurphy?
+
+McMurphy doesn't respond. Another searchlight goes on as a
+
+SECOND VOICE is PICKED UP on the BULLHORN.
+
+			SECOND VOICE
+
+		(through bullhorn)
+
+	Why don't we blast 'im, for Christ
+
+	sake, he ain't gonna come down...
+
+	you...
+
+The BULLHORN is TURNED OFF. A long moment passes as McMurphy
+
+continues to squat on the tower and wait. He shivers against
+
+the coming night when...
+
+			SHANKLE (V.O.)
+
+		(through bullhorn)
+
+	McMurphy!
+
+	I have the warden's promise. If you
+
+	come down, nobody will hurt you!
+
+	You'll be in my custody! I promise!
+
+An imperceptible smile appears on McMurphy's face.
+
+INT. MEN'S DORM - OREGON STATE HOSPITAL - DAWN
+
+Strange HUMMING SOUNDS, CLANKING PIPES and HISSING RADIATORS
+
+as we see beds, with patients lying asleep, line two walls.
+
+The third wall is a heavy gauge steel grill, with a door that
+
+opens on to the day room. The door is open. On the far side
+
+of the day room, a long hallway with other doors opening into
+
+rooms: the latrine, washroom, tub room, mess hall, seclusion
+
+room, psychiatrist's office, visitors' room, etc.
+
+Across the day room, a glass enclosed nurses' station where
+
+TURKLE, a Negro night attendant, is seen preparing to go off
+
+duty.
+
+The CAMERA PANS the beds in the men's dorm. One man turns,
+
+another twists, a third lies as if dead.
+
+CAMERA PAN ENDS on BROMDEN, who lies still, eyes wide open,
+
+very alert. He reaches down, plucks a stale piece of gum from
+
+under the bed frame, puts it in his mouth and starts chewing.
+
+A beat, then Bromden carefully undoes the leather strap which
+
+binds him to the bed. He slips out of bed and quietly makes
+
+his way down the aisle, paying no attention to the other
+
+patients, some of who are beginning to stir awake.
+
+Ahead, at the end of the hallway, the door opens and three
+
+Negro day attendants, WASHINGTON, WARREN and MILLER, dressed
+
+in white uniforms, enter and move down the hallway and
+
+disappear into a side room.
+
+Bromden continues his silent journey towards the day room as
+
+Turkle emerges from the side door to the nurses' lounge, goes
+
+up the hallway as MISS PILBOW, the day nurse, comes in,
+
+passing Turkle on the way out. She crosses to the nurses'
+
+station and enters as Bromden reaches the day room.
+
+INT. DAY ROOM - DAY
+
+as Bromden makes his way across the day room, past the
+
+nurses' station, unnoticed by Miss Pilbow who is busy
+
+preparing the day's medication.
+
+Bromden is sliding along the hallway wall, when he is
+
+suddenly cut off by a mop which THUDS against one side of his
+
+neck. A second mop yokes him on the other side. Bromden
+
+freezes. Terrified.
+
+			MILLER
+
+	Where you goin', Chief?
+
+			WARREN
+
+	You goin' t'see the Big White
+
+	Fathuh?
+
+			WASHINGTON
+
+	He goin' t'see the Big White
+
+	Muthuh...
+
+They cackle, legs jiving, as the ammonia stings Bromden's
+
+eyes and burns his nose. He tries to twist his head, but
+
+Washington jams the mop harder. Bromden freezes, panic
+
+spreading across his face.
+
+			WASHINGTON (CONT'D)
+
+	Haw, look at 'im, big 'nough to eat
+
+	apples off my head an' he mine me
+
+	like a baby...
+
+A KEY is HEARD hitting the lock in the main door. Washington
+
+very adroitly releases Bromden, hands him the mop, and turns,
+
+along with Warren and Miller, to their duties, as BIG NURSE
+
+enters the ward.
+
+			THREE ATTENDANTS
+
+		(simultaneously, as Big
+
+		Nurse passes)
+
+	Mornin', Miss Ratched...
+
+			BIG NURSE
+
+	Good morning, boys.
+
+She sweeps by and disappears into the nurses' station. The
+
+three attendants put their mops and rags aside and start
+
+towards the men's dorm, leaving Bromden pressed against the
+
+wall, mop in hand.
+
+INT. NURSES' STATION
+
+as Big Nurse enters to be greeted by Miss Pilbow, who wears
+
+an enormous cross between her breasts.
+
+			MISS PILBOW
+
+	Good morning, Miss Ratched. It's a
+
+	beautiful day, isn't it?
+
+			BIG NURSE
+
+	Mean old Monday, Miss Pilbow, mean
+
+	old Monday...
+
+		(she flips on the
+
+		intercom)
+
+	Good morning, boys. Rise and shine.
+
+	Rise and shine.
+
+INT. MEN'S DORM - DAY
+
+as Washington, Warren and Miller roust the patients out of
+
+bed.
+
+			BIG NURSE (V.O.)
+
+		(through loudspeaker)
+
+	Time to get up! Come on now, it's a
+
+	beautiful day! Let's not straggle!
+
+	Everybody up, up, up!
+
+The Chronics are physically helped out of bed as the Acutes,
+
+who can handle themselves, cross out into the Day Room,
+
+rubbing the sleep out of their eyes. Big Nurse steps out of
+
+the Nurses' Station. Washington and Warren are hustling the
+
+patients toward the washroom.
+
+Miller stays behind, stripping Blastic's bed and rolling up
+
+his mattress.
+
+INT. DAY ROOM - DAY
+
+as the Acutes straggle past Big Nurse.
+
+			BIG NURSE
+
+	Good morning, Mister Sefelt... Good
+
+	morning, Mister Fredrickson. Good
+
+	morning, Billy, I spoke to your
+
+	mother last night and she sends her
+
+	love... Good morning, Mister
+
+	Harding... Good morning, Mister
+
+	Cheswick. Mister Scanlon...
+
+Bromden comes drifting by, going in the opposite direction.
+
+Big Nurse takes his hand and reaches up and pats his face.
+
+			BIG NURSE (CONT'D)
+
+	Oh, Mister Bromden...
+
+		(calling out)
+
+	Mister Washington!
+
+Washington comes running.
+
+			WASHINGTON
+
+	Yes, Miss Ratched?
+
+			BIG NURSE
+
+	Mister Washington, why don't we get
+
+	a good head start on the day by
+
+	shaving Mister Bromden and see if
+
+	we can't avoid a disturbance.
+
+			WASHINGTON
+
+		(taking Bromden by the
+
+		hand)
+
+	Yes, Miss Ratched...
+
+INT. WASHROOM - DAY
+
+The patients are busy washing and shaving.
+
+Warren is assisting a vegetable wash himself as Washington
+
+guides Bromden through a cage-like partition... where an
+
+antique barber chair stands.
+
+			WASHINGTON
+
+		(calling as he goes)
+
+	Warren!
+
+He sits Bromden down and straps his bands and legs in, then
+
+plugs the electric shaver in and turns it on and brings the
+
+BUZZING instrument towards Bromden's face. Bromden turns
+
+away.
+
+			WASHINGTON (CONT'D)
+
+		(shouting out)
+
+	Get your black ass in here!
+
+Warren props the vegetable up against the sink.
+
+			WARREN
+
+	Tha's it... be right back!
+
+Warren leaves; the old man starts sliding.
+
+					QUICK CUT TO:
+
+BROMDEN
+
+as Warren enters and takes a firm grip on Bromden's head and
+
+Washington goes to work on Bromden's face. CAMERA PUSHES INTO
+
+EXTREME CLOSEUP of Bromden's fearfully distorted face as the
+
+BUZZING SOUND of the electric razor INTENSIFIES until it is
+
+INSUPPORTABLE.
+
+					QUICK CUT TO:
+
+INT. DAY ROOM - DAY
+
+No sound as we SEE Big Nurse watch the last few patients file
+
+past the side door to the Nurses' Station where Miss Pilbow
+
+hands out little cups with pills. Washington stands by,
+
+checking to see each man takes his pills before filling their
+
+cups with orange juice.
+
+The last patient takes his pills and returns to his place in
+
+the Day Room. Miss Pilbow closes the window.
+
+Satisfied that all is well, Big Nurse turns on an old 45
+
+record player with a stack of records, then she settles down
+
+to her work as a SOFT, NOSTALGIC NUMBER from the '40's is
+
+HEARD OVER LOUDSPEAKER. CAMERA BEGINS SLOW PAN of the Day
+
+Room.
+
+The patients, under the influence of drugs, have settled down
+
+for the day. HARDING is playing cards with MARTINI, CHESWICK
+
+and BILLY. SEFELT and FREDRICKSON are putting a jigsaw puzzle
+
+together in brotherly love. SORENSEN is off by himself,
+
+rubbing his hands clean. TABER, pencil in hand, sits
+
+pondering over a blank piece of paper. SCANLON paces back and
+
+forth. On the Chronics' side of the room, RUCKLY is turning a
+
+grimy photograph over in his hands. BANCINI sits wagging his
+
+head, mumbling over and over, "Tired, awful tired..." ELLIS
+
+stands against the wall, arms outstretched, hands nailed to
+
+the wall by imaginary nails.
+
+Bromden is pushing a mop around. 
+
+Washington, Warren and Miller are in the men's dorm making up
+
+the Chronics' beds when O.S. the TELEPHONE RINGS.
+
+					CUT TO:
+
+INT. NURSES' STATION - DAY
+
+as Miss Pilbow picks up the phone.
+
+			MISS PILBOW
+
+	Eighty-two, Miss Pilbow speaking...
+
+	Yes...
+
+		(she makes a note and
+
+		hangs it)
+
+	... New admission, Miss Ratched...
+
+Miss Pilbow goes to the mirror, quickly preens herself, then
+
+turns and flips the intercom on.
+
+			MISS PILBOW (CONT'D)
+
+		(over loudspeaker)
+
+	Mister Washington! Mister Warren!
+
+She exits.
+
+					CUT TO:
+
+INT. DAY ROOM
+
+as Miss Pilbow exits nurses' station and heads down the
+
+hallway, Washington and Warren on her heels. Miller looking
+
+wistfully after them.
+
+					CUT TO:
+
+INT. MAIN ENTRANCE - STATE HOSPITAL - DAY
+
+Staff personnel are SEEN moving in and out of the main
+
+entrance where a state penitentiary car is parked. A DEPUTY
+
+SHERIFF leans on the fender smoking a cigarette as SECOND
+
+DEPUTY SHERIFF comes out of the building and motions down to
+
+First Deputy, who crushes his cigarette out, then opens the
+
+rear door to the car.
+
+			DEPUTY SHERIFF
+
+		(to an unseen occupant)
+
+	Okay, let's go.
+
+A long beat, then McMurphy slowly emerges from the car. He's
+
+wearing handcuffs and dressed in faded jeans, flannel work
+
+shirt, leather jacket, black motorcycle cap, and heavy black
+
+boots. He's been scrubbed clean and has a Band-Aid on his
+
+cheek. McMurphy does a couple of knee bends to get the kinks
+
+out of his legs as Deputy reaches in the car and takes out a
+
+small gym bag containing McMurphy's belongings.
+
+			DEPUTY SHERIFF (CONT'D)
+
+	Let's move it...
+
+McMurphy goes up the stairs, followed by the Deputy, and
+
+crosses into the building.
+
+INT. MAIN BUILDING - DAY
+
+as McMurphy enters the building followed by the Deputies,
+
+where Nurse Pilbow, McMurphy's folder in hand, and Washington
+
+and Warren stand waiting -- all in a pleasant, receptive
+
+mood. First Deputy hands McMurphy's gym bag to Washington,
+
+who hands it to Warren.
+
+			SECOND DEPUTY
+
+	Okay, this is it!
+
+McMurphy turns and holds out his hands. As cuffs are removed,
+
+McMurphy impulsively takes hold of the Deputy's head and
+
+plants a kiss on his forehead.
+
+			SECOND DEPUTY (CONT'D)
+
+		(squirming out of
+
+		McMurphy's grasp)
+
+	Jesus, you're crazy, McMurphy.
+
+			MCMURPHY
+
+	Yeah, ain't that the truth.
+
+			DEPUTY SHERIFF
+
+		(to Miss Pilbow)
+
+	He's all yours, Miss.
+
+			MISS PILBOW
+
+	Thank you, Officer...
+
+The two Deputies start down the stairs.
+
+			MCMURPHY
+
+	So long, fellas...
+
+The two Deputies merely shrug their backs at McMurphy who
+
+takes a deep breath of fresh air.
+
+			MCMURPHY (CONT'D)
+
+	Yes, sir, it's a mighty nice fall
+
+	day...
+
+			MISS PILBOW
+
+	This way, Mister McMurphy.
+
+			MCMURPHY
+
+	Yes, ma'am...
+
+McMurphy follows Nurse Pilbow into the hallway as the door
+
+closes behind them.
+
+					CUT TO:
+
+INT. HALLWAY - DAY
+
+Other STAFF MEMBERS are administrative personnel are SEEN as
+
+McMurphy walks alongside Nurse Pilbow, who is noticeably
+
+nervous by his close proximity. Washington and Warren
+
+casually bringing up the rear.
+
+			MCMURPHY
+
+		(as he peels the Band-Aid
+
+		off, revealing a scar)
+
+	I tell ya, these goons showered me
+
+	at the courthouse this morning,
+
+	last night at the jail, and I swear
+
+	they'd have swabbed my ears out on
+
+	the way over if they could've found
+
+	the facilities...
+
+A young Japanese nurse, named ITSU, passes by.
+
+			MCMURPHY (CONT'D)
+
+		(to Nurse Itsu)
+
+	Hey, how ya doin', cutie?
+
+			NURSE ITSU
+
+	Okay. How you doing?
+
+			MCMURPHY
+
+	Just great!
+
+		(calling after her)
+
+	See ya around!
+
+Nurse Itsu laughs and disappears around the corner.
+
+			MCMURPHY (CONT'D)
+
+		(to Nurse Pilbow)
+
+	Yes, sir, I sure am gonna enjoy my
+
+	stay here.
+
+			MISS PILBOW
+
+	I'm sure you will.
+
+			MCMURPHY
+
+		(to Nurse Pilbow)
+
+	Ya know, I ain't never been in an
+
+	institution of psychology before.
+
+			MISS PILBOW
+
+	Oh...
+
+They arrive at the ward door. Nurse Pilbow unlocks the door
+
+and opens it as...
+
+			MCMURPHY
+
+	Yeah, I'm here on a ninety-day
+
+	observation period. Short-timer,
+
+	like they say...
+
+Soft nostalgic MUSIC is HEARD OVER.
+
+			MISS PILBOW
+
+	Of course.
+
+		(indicating door)
+
+	Mister McMurphy.
+
+			MCMURPHY
+
+	After you, ma'am.
+
+			MISS PILBOW
+
+	Thank you.
+
+Nurse Pilbow enters the ward and McMurphy watches her cross
+
+the visitors' area to a heavy-gauge steel screen wall, with
+
+security gate which she opens.
+
+			MCMURPHY
+
+		(to Washington and Warren
+
+		as they step into ward)
+
+	Man, there sure is an awful lot of
+
+	poontang around here.
+
+			SPIVEY
+
+		(calling)
+
+	Hold it!
+
+McMurphy turns to see DOCTOR SPIVEY approaching.
+
+			SPIVEY (CONT'D)
+
+	Good morning, boys.
+
+			WASHINGTON AND WARREN
+
+		(simultaneously as Spivey
+
+		passes into the ward)
+
+	Mornin', Doctor Spivey.
+
+			SPIVEY
+
+	Great day for fishing.
+
+			WASHINGTON AND WARREN
+
+		(simultaneously)
+
+	Yes, sir!
+
+The door closes. CAMERA HOLDS on sign that READS: 
+
+SMILE AT THE NEXT FACE YOU SEE. IT MAY SAVE HIS LIFE.
+
+			MCMURPHY (O.S.)
+
+	Yeah, I was just thinking the same
+
+	thing, Doc...
+
+					CUT TO:
+
+INT. WARD - DAY
+
+as McMurphy, Spivey, Washington and Warren cross the
+
+visitors' area towards Nurse Pilbow, who stands holding the
+
+security gate open. At the far end of the hallway, which
+
+opens into the day room, patients can be seen.
+
+			SPIVEY
+
+		(to McMurphy)
+
+	Oh, what's that?
+
+			MCMURPHY
+
+	Why, I'll betcha there must be a
+
+	million albacore and tuna running
+
+	of the coast right this minute.
+
+			SPIVEY
+
+	Oh, do you do much fishing?
+
+As they pass through the security gate:
+
+			MCMURPHY
+
+	Fish! Hell, Doc, I'd like to have a
+
+	nickel for every fish I landed
+
+	between Point Conception and the
+
+	Alaska coast...
+
+Washington and Warren continue down the hallway, passing
+
+SEFELT, who shyly approaches and waits at a respectful
+
+distance.
+
+			SPIVEY
+
+		(to McMurphy)
+
+	Is that so?
+
+			MCMURPHY
+
+	Yup! Worked right outta Depoe Bay
+
+	for just about every season since I
+
+	was able to haul my own weight.
+
+			SPIVEY
+
+	My, my... Ah, who are you?
+
+			MCMURPHY
+
+	McMurphy, Doc. R.P. McMurphy.
+
+They shake hands.
+
+			NURSE PILBOW
+
+	Mister McMurphy is a new admission.
+
+			SPIVEY
+
+	Ah, yes. Well, we must talk soon,
+
+	Mister McMurphy.
+
+			MCMURPHY
+
+	You bet, Doc.
+
+Spivey turns to Sefelt.
+
+			SPIVEY
+
+	Good morning, Jim. How are you
+
+	feeling?
+
+			SEFELT
+
+		(approaching and pointing
+
+		to his mouth)
+
+	Doc, my gungs hurt me.
+
+Spivey starts checking out Sefelt's mouth.
+
+			NURSE PILBOW
+
+	This way, Mister McMurphy.
+
+As McMurphy follows Nurse Pilbow down the hall, Spivey's
+
+voice trails after him.
+
+			SPIVEY (O.S.)
+
+	Have you been taking your Dilantin,
+
+	Jim?
+
+			SEFELT (O.S.)
+
+	Uh-huh...
+
+			SPIVEY (O.S.)
+
+	Well, we'll send you over to the
+
+	dentist and see what he can do.
+
+	Okay?
+
+			SEFELT (O.S.)
+
+	Okay, Doc!
+
+McMurphy and Nurse Pilbow reach the day room.
+
+			MISS PILBOW
+
+	Make yourself at home, Mister
+
+	McMurphy...
+
+			MCMURPHY
+
+	Thank you, ma'am,
+
+Nurse Pilbow enters the nurses' station, closing the door
+
+behind her. Next to the door is a bulletin board which, among
+
+other bits of information, READS: 
+
+TODAY IS MONDAY SEPTEMBER 30, 1963. THE NEXT MEAL IS LUNCH.
+
+THE NEXT HOLIDAY IS HALLOWEEN.
+
+Another notice READS: 
+
+SIGN UP NOW! BASKETBALL TOURNAMENT STAFF VS PATIENTS.
+
+Washington, Warren, Miller
+
+There are no other names listed. Sefelt passes by.
+
+			MCMURPHY (CONT'D)
+
+	Hi.
+
+			SEFELT
+
+	Hi.
+
+Sefelt crosses into the day room where he joins Fredrickson,
+
+who is putting a jigsaw puzzle together.
+
+INT. DAY ROOM - DAY
+
+as McMurphy drifts into the room and looks around. The room
+
+is as it was. The MUSIC ENDS. There is a CLICK. McMurphy's
+
+attention is drawn to the nurses' station.
+
+McMURPHY'S POV OF NURSES' STATION
+
+where Miss Pilbow is SEEN through a large plate glass window,
+
+busy typing a nameplate for McMurphy.
+
+Big Nurse, her back to McMurphy, is turning over a stack of
+
+records. She presses the phonograph button. A record falls on
+
+the turntable and MUSIC BEGINS as she turns and sees
+
+McMurphy.
+
+ANOTHER ANGLE
+
+McMurphy smiles and tips his hat to Big Nurse. 
+
+Big Nurse smiles back and takes her seat. 
+
+McMurphy turns and drifts into the day room. 
+
+Big Nurse looks up and studies him. 
+
+McMurphy catches the eye of a PATIENT, sitting by himself.
+
+			MCMURPHY
+
+	How ya doin', buddy?
+
+			PATIENT
+
+	Poorly, thank you.
+
+			MCMURPHY
+
+	Oh, yeah? What's ailing ya?
+
+			PATIENT
+
+	I got the fever.
+
+			MCMURPHY
+
+	Well, that's too bad...
+
+Taber, pencil and paper in hand, crosses to McMurphy and taps
+
+him on the shoulder.
+
+			MCMURPHY (CONT'D)
+
+	Yeah, buddy?
+
+			TABER
+
+	Are you a doctor?
+
+			MCMURPHY
+
+	No, 'fraid not...
+
+Taber walks away.
+
+Martini tugs at McMurphy's sleeve.
+
+			MCMURPHY (CONT'D)
+
+	Yeah, buddy?
+
+			MARTINI
+
+	Can you borrow me a dime?
+
+			MCMURPHY
+
+	Sorry, buddy, I'm clean outta
+
+	change...
+
+Scanlon moves in.
+
+			SCANLON
+
+	Got a cigarette?
+
+			MCMURPHY
+
+	Sure...
+
+			MARTINI
+
+	Me too! Me too!
+
+As McMurphy hands out his cigarettes Bromden drifts by, mop
+
+in hand.
+
+			MCMURPHY
+
+	Hey, how's it look up there, big
+
+	boy?
+
+			SCANLON
+
+	He can't hear you. He's just a deaf
+
+	and dumb Indian!
+
+			MCMURPHY
+
+	That right?
+
+			HARDING (O.S.)
+
+	Martini, it's your turn!
+
+Martini is staring off into space.
+
+			HARDING (O.S.) (CONT'D)
+
+	Martini!
+
+			MCMURPHY
+
+		(to Martini)
+
+	Your buddy is callin' ya.
+
+Martini crosses back to the card game as Taber returns.
+
+			MCMURPHY
+
+	What's troubling ya, buddy?
+
+			TABER
+
+	I want you to write me a letter to
+
+	my brother for a hundred dollars to
+
+	bury me.
+
+			MCMURPHY
+
+	You look pretty healthy to me.
+
+			TABER (CONT'D)
+
+	I'm the next one.
+
+			MCMURPHY
+
+	How do ya know that?
+
+			TABER (CONT'D)
+
+	Because I quit breathing.
+
+			MCMURPHY
+
+	You're breathin' right now.
+
+Taber walks away.
+
+McMurphy watches him go.
+
+Nearby, an OLD VEGETABLE squeaks.
+
+			MCMURPHY
+
+		(crossing to him)
+
+	What's that, Pop?
+
+The old man squeaks again.
+
+			MCMURPHY
+
+		(leaning in close)
+
+	Can't hear ya, old-timer.
+
+			OLD VEGETABLE
+
+	Ain't this a pisser?
+
+			MCMURPHY
+
+	Hell, compared to where I just come
+
+	from, this is a country club.
+
+McMurphy crosses to the card game and stands watching the
+
+game.
+
+			MCMURPHY
+
+	Whatcha boys playin'?
+
+			BILLY
+
+	H-H-Hearts.
+
+			MCMURPHY
+
+	Shoot! No wonder you don't care
+
+	nothin' 'bout showin' your hand.
+
+Billy holds his hand close to his chest.
+
+			MCMURPHY
+
+	What's your name, buddy?
+
+			BILLY
+
+	B-B-Billy.
+
+			MCMURPHY
+
+	Well, put 'er there, Billy boy, my
+
+	name's McMurphy.
+
+They shake hands.
+
+			MCMURPHY
+
+	What I wanna know is who's the top
+
+	loony around here?
+
+			BILLY (CONT'D)
+
+	Y-Y-You m-mean th-the pr-president
+
+	of the P-P-Patients C-Council?
+
+			MCMURPHY
+
+	Yeah, that'll do for openers!
+
+			BILLY (CONT'D)
+
+		(to Harding)
+
+	H-H-Harding, the m-m-man w-wants to
+
+	t-talk to you, y-you're the pr-pr
+
+	pr...
+
+			HARDING
+
+	Does he have an appointment?
+
+			CHESWICK
+
+	Yeah, do you have an appointment?
+
+			MCMURPHY
+
+	What for?
+
+			CHESWICK
+
+		(to Harding)
+
+	What for?
+
+			HARDING
+
+	I'm a busy man!
+
+			CHESWICK
+
+		(to McMurphy)
+
+	He's a busy man!
+
+A beat; then:
+
+			MCMURPHY
+
+	I can wait...
+
+McMurphy picks up a chair and sits down right next to Harding
+
+and looks at him. Another beat; then:
+
+			HARDING
+
+		(to McMurphy)
+
+	What are you doing?
+
+			MCMURPHY
+
+	I'm seeing what a busy man does.
+
+Harding, very nervous at McMurphy's proximity, turns back to
+
+the game.
+
+			HARDING
+
+	Your turn, Martini!
+
+Martini is lost in the clouds.
+
+			HARDING (CONT'D)
+
+	Martini, throw a card!
+
+Martini throws a diamond.
+
+			HARDING (CONT'D)
+
+	No, throw a club!
+
+			CHESWICK
+
+	Yeah, throw a club!
+
+Martini throws a spade.
+
+			HARDING
+
+	Don't you have any clubs?
+
+			MARTINI
+
+	No!
+
+			HARDING
+
+	Let me see your hand!
+
+			MARTINI
+
+	No!
+
+			HARDING
+
+		(slamming his cards)
+
+	Well, if you gentlemen will excuse
+
+	me, I have some pressing matters to
+
+	attend to.
+
+Harding gets up and crosses to the hallway, gathering his
+
+pride as he goes.
+
+McMurphy slides into Harding's seat and rakes all the cards
+
+in.
+
+			MCMURPHY
+
+	Yessir, that's why I came to this
+
+	establishment for, to bring you
+
+	birds fun and entertainment 'round
+
+	the gamin' table...
+
+McMurphy fans the deck out and lays it on the table.
+
+Everyone's eyes pop as he scoops the cards up in one movement
+
+-- he's a card shark, a magician -- leaving the Acutes with
+
+their mouths hanging open.
+
+			MCMURPHY
+
+	Easy now, don't smudge 'em, we got
+
+	lots of games ahead of us...
+
+			BIG NURSE (O.S.)
+
+	Mister McMurphy!
+
+McMurphy turns to see Big Nurse approaching, Washington
+
+casually bringing up the rear.
+
+			MCMURPHY
+
+	Yes, ma'am...
+
+			BIG NURSE (CONT'D)
+
+		(handing him his bag)
+
+	Will you come with me, please.
+
+			MCMURPHY
+
+		(rising)
+
+	Hold the fort down, will ya,
+
+	fellas!
+
+			BILLY
+
+	Sure, Mack!
+
+McMurphy walks with her toward the men's dorm.
+
+			BIG NURSE
+
+	My name is Miss Ratched. I'm the
+
+	head nurse here. You've already met
+
+	Miss Pilbow and Aides Washington
+
+	and Warren.
+
+			MCMURPHY
+
+	Yes, ma'am.
+
+Big Nurse and McMurphy stop at the security gate to the men's
+
+dorm where Miller opens the gate.
+
+			BIG NURSE (CONT'D)
+
+	Mister Miller, this is Mister
+
+	McMurphy, who'll be staying with
+
+	us.
+
+Greetings are exchanged as they pass through.
+
+INT. MEN'S DORM - DAY
+
+as Big Nurse and McMurphy cross down the aisle.
+
+			BIG NURSE
+
+	We do appreciate the way you have
+
+	taken it upon yourself to meet the
+
+	other patients.
+
+			MCMURPHY
+
+	Thank you, ma'am...
+
+Big Nurse stops at an empty bed where Warren is turning the
+
+mattress down.
+
+			BIG NURSE
+
+	This is your bed. You may leave
+
+	your things in that cabinet.
+
+			MCMURPHY
+
+	Yes, ma'am...
+
+			BIG NURSE
+
+	Please use your time to familiarize
+
+	yourself with your new home and if
+
+	there is anything you need to know,
+
+	don't hesitate to ask us.
+
+			MCMURPHY
+
+	Now that you mention it, I sure
+
+	would like to call my aunt up in
+
+	Portland and tell 'er where I am so
+
+	she can come visit me.
+
+			BIG NURSE 
+
+	All in good time, Mister McMurphy.
+
+	All in good time.
+
+			MCMURPHY
+
+	Yes, ma'am.
+
+			BIG NURSE 
+
+	Good. Now if you'll just go along
+
+	with Mister Washington, he'll see
+
+	that you're properly oriented.
+
+McMurphy doesn't move.
+
+			BIG NURSE (CONT'D)
+
+	Is there anything else?
+
+			MCMURPHY
+
+	Just that I'm glad to be here, Miss
+
+	Ratched. I really am.
+
+			BIG NURSE 
+
+	Good. I'm sure we'll be friends.
+
+They smile, sizing up each other.
+
+			MCMURPHY
+
+	Yeah, you ain't half so bad looking
+
+	for a head nurse.
+
+			BIG NURSE
+
+	Yes. Now go along, Mister McMurphy.
+
+	Go along.
+
+			MCMURPHY
+
+	Yes, ma'am.
+
+		(to Washington)
+
+	Lead the way, Sam.
+
+They cross out of the men's dorm.
+
+Big Nurse watches them go.
+
+			SPIVEY (V.O.)
+
+	What other work have you done?
+
+INT. DOCTOR SPIVEY'S OFFICE - DAY
+
+Doctor Spivey is seated behind his desk, on which are several
+
+glass-framed photos of Spivey's family, plus a nameplate:
+
+JOHN M. SPIVEY, M.D., and McMurphy's papers.
+
+McMurphy, freshly showered and wearing hospital-issue
+
+clothes, sits facing him.
+
+			MCMURPHY
+
+	Hell, Doc, I've been everything
+
+	from a hoopla man with a two-bit
+
+	carny show to a top mechanic and
+
+	bull goose catskinner for every
+
+	gypo loggin' operation in the
+
+	Northwest till the Army taught me
+
+	what my natural bent was.
+
+			SPIVEY
+
+	Oh, what was that?
+
+			MCMURPHY
+
+	Poker!
+
+			SPIVEY 
+
+	I see.
+
+			MCMURPHY
+
+	Yeah, but you know how society
+
+	persecutes a dedicated man.
+
+			SPIVEY (CONT'D)
+
+	In what way?
+
+			MCMURPHY
+
+	They say I'm a habitual hassler.
+
+	Like I fight some. Sheeut. They
+
+	didn't mind so much when I was a
+
+	dumb logger and got into a hassle.
+
+	That's a hardworkin' feller blowing
+
+	off steam, they say. But if you're
+
+	a gambler, all you have to do is
+
+	spit slantwise and you're a
+
+	goddamned criminal.
+
+			SPIVEY
+
+	I see...
+
+			MCMURPHY
+
+	To tell the truth, ever since I
+
+	found my natural callin' I done
+
+	time in so many small-time jails I
+
+	could write a brochure...
+
+			SPIVEY 
+
+	Yes... Ah, do you know why you're
+
+	here?
+
+			MCMURPHY
+
+	Well, ya know, Doc...
+
+		(indicating his papers)
+
+	Doesn't it say so there?
+
+			SPIVEY 
+
+		(looking over papers)
+
+	Well, according to the Warden at
+
+	Pendleton, you were a disturbing
+
+	influence on others. 'It appears
+
+	that there is a potential in him
+
+	for instigating a revolt among the
+
+	other inmates.'
+
+		(looking up at McMurphy)
+
+	What do you think of that report?
+
+			MCMURPHY
+
+	I don't, Doc...
+
+			SPIVEY 
+
+		(goes back to papers)
+
+	Arrested on an assault charge five
+
+	times...
+
+			MCMURPHY
+
+	That's correct, Doc ...
+
+			SPIVEY
+
+		(reading from folder)
+
+	The doctor at the prison states:
+
+	'Don't overlook the possibility
+
+	that this man may be faking
+
+	psychosis to escape the drudgery of
+
+	the work farm...' What do you say
+
+	to that?
+
+			MCMURPHY
+
+	Doc, what can I tell ya?
+
+			SPIVEY
+
+	Ah, it seems you have no other
+
+	psychiatric history, Mister Murphy?
+
+			MCMURPHY
+
+	No, this is my first trip, Doc.
+
+			SPIVEY
+
+		(closes folder and sits
+
+		back)
+
+	Well, you're here for a ninety-day
+
+	observation period, Mister
+
+	McMurphy. I'd like you to
+
+	understand you are here on a court
+
+	order and we are responsible to the
+
+	state. So, I'd like your
+
+	cooperation!
+
+			MCMURPHY
+
+	You bet, Doc!
+
+			SPIVEY
+
+	Good. Good.
+
+INT. DAY ROOM - DAY
+
+CAMERA is on Big Nurse as she stands, in front of a chair,
+
+doing a deep breathing exercise.
+
+The patients and staff, standing in front of chairs arranged
+
+in a circle, follow suit as best they can. After a couple of
+
+exercises Big Nurse sits. The others do the same except
+
+Bancini, who remains standing, wagging his head back and
+
+forth.
+
+			BANCINI
+
+	I'm tired. Whew. O Lord. Oh, I'm
+
+	awful tired...
+
+			BIG NURSE
+
+		(busy with her papers)
+
+	Somebody please see to Mister
+
+	Bancini, so we can start the
+
+	meeting.
+
+Billy does... gently laying a hand on Bancini.
+
+			BILLY
+
+	T-t-t-take it e-e-easy, P-P-P
+
+	Pete...
+
+			BANCINI
+
+	Awful tired...
+
+Billy gently eases Bancini into his chair and sits beside
+
+him, patting his skinny knee.
+
+			BIG NURSE
+
+	At the close of Friday's meeting,
+
+	we were discussing Mister Harding's
+
+	problem, concerning his wife...
+
+		(reading from logbook)
+
+	Mister Harding stated that his wife
+
+	made him uneasy because she drew
+
+	stares from men on the street. Is
+
+	that correct, Mister Harding?
+
+			HARDING
+
+	Yes, that's perfectly correct.
+
+			BIG NURSE
+
+		(reading)
+
+	He also thinks he may have given
+
+	her reason to seek sexual attention
+
+	elsewhere, but he didn't say how.
+
+	He has been heard to say to his
+
+	wife, 'I hate you, I don't ever
+
+	want to see you again. You've
+
+	betrayed me.'
+
+		(she closes book)
+
+	So. Does anyone care to touch upon
+
+	this further?
+
+Big Nurse waits. A long beat.
+
+Harding sits, chewing his nails, tensely waiting, almost
+
+wanting someone to begin.
+
+The patients shift uncomfortably, looking in all directions.
+
+McMurphy looks around to see what will follow, when he sees
+
+Ellis, nailed to the wall; his pants leg darkens and a puddle
+
+of piss forms at his feet. McMurphy looks to see if Big Nurse
+
+or the Aides have noticed.
+
+If they have, no one pays any attention.
+
+McMurphy fidgets in his seat, then gets up, crosses to Ellis,
+
+unhooks him from the wall, and moves him over a few feet.
+
+The other patients are aghast at this move, look at each
+
+other quizzically.
+
+Big Nurse merely watches.
+
+McMurphy crosses back to his chair and sits.
+
+			BIG NURSE (CONT'D)
+
+	Mister McMurphy, this ward is a
+
+	democratic community run by the
+
+	patients and their votes, so you
+
+	should feel at ease in your new
+
+	surroundings to the extent you can
+
+	freely discuss emotional problems
+
+	in front of the patients and staff.
+
+	However, the cardinal rule, and I
+
+	must emphasize this: Everyone keeps
+
+	their seat during the meeting!
+
+			MCMURPHY
+
+	Yeah, well, it just pains me
+
+	somethin' awful to see a full
+
+	growed man sloshing around in his
+
+	own water...
+
+			BIG NURSE
+
+	Yes... We were discussing Mister
+
+	Harding's problem with his wife.
+
+	Now, who will start?
+
+		(no response)
+
+	Billy.
+
+			BILLY
+
+	M-m-m-ma'am?
+
+			BIG NURSE
+
+	Would you like to start?
+
+			BILLY
+
+	N-n-n-n-n-no, ma'am.
+
+			BIG NURSE
+
+	Mister Sefelt?
+
+Sefelt shrugs and sinks into his seat.
+
+			BIG NURSE (CONT'D)
+
+	Mister Fredrickson?
+
+Fredrickson passes.
+
+			BIG NURSE (CONT'D)
+
+	Mister Taber?
+
+Taber passes.
+
+			BIG NURSE (CONT'D)
+
+	Mister Martini?
+
+			MARTINI
+
+	No!
+
+			BIG NURSE
+
+	Mister Scanlon?
+
+Scanlon looks at the floor.
+
+			BIG NURSE (CONT'D)
+
+	Mister Cheswick?
+
+Cheswick wags his head 'no.'
+
+			BIG NURSE (CONT'D)
+
+	Am I to take it that there isn't a
+
+	man among you who has an opinion
+
+	concerning this matter?
+
+		(no response; she focuses
+
+		in on Harding)
+
+	Mister Harding, you've stated on
+
+	more than one occasion that you
+
+	suspected your wife of seeing other
+
+	men.
+
+			HARDING
+
+	Yes, Miss Ratched, this is correct.
+
+			BIG NURSE
+
+	But you have no proof.
+
+			HARDING
+
+	No, Miss Ratched...
+
+			BIG NURSE
+
+	And yet you suspect her.
+
+			HARDING
+
+	Yes, that is correct.
+
+			BIG NURSE
+
+	Why?
+
+			HARDING
+
+	I can only speculate as to the
+
+	reasons why.
+
+			BIG NURSE
+
+	Have you ever speculated, Mister
+
+	Harding, that you are impatient
+
+	with your wife because she does not
+
+	meet your mental requirements?
+
+One of the Chronics laughs like a child.
+
+			HARDING
+
+	Miss Ratched. Given all the
+
+	conditions of that sublime
+
+	relationship, coupled with the
+
+	subsequent annihilation of all that
+
+	I held to be sacred, mentally,
+
+	physically and emotionally, the
+
+	only thing that I can speculate on,
+
+	at this late date, is how I will
+
+	justify the very existence of my
+
+	life, with or without my dear wife.
+
+			SEFELT
+
+	What's he talkin' about?
+
+			TABER
+
+	Yeah, Harding, why don't you
+
+	knockoff the bullshit and get to
+
+	the point.
+
+Several Acutes chime in, "Yeah, get to the point," AD LIB.
+
+			HARDING
+
+	The point is, I will carry on until
+
+	I fully understand what the
+
+	function of that relationship is
+
+	regardless of form or content.
+
+Several hands go up.
+
+			BIG NURSE
+
+	Yes, Billy?
+
+			BILLY
+
+	I-I-I-I-I d-d-don't s-s-see how
+
+	anyone could lu-lu-lu-love a man
+
+	who t-t-t-talks the way he does.
+
+			TABER
+
+	Yeah, Harding, you're so fuckin'
+
+	dumb I can't believe it.
+
+			HARDING
+
+	That's a matter of opinion.
+
+			SEFELT
+
+	Yeah, Harding, where do you breathe
+
+	anyway?
+
+			FREDRICKSON
+
+	Through the ass.
+
+Sefelt and Fredrickson snicker into their hands. A few of the
+
+others laugh.
+
+			HARDING
+
+		(smarting)
+
+	Is that your sense of humor or are
+
+	you trying to say something?
+
+			FREDRICKSON
+
+		(innocence itself)
+
+	Now what would I be trying to say?
+
+			HARDING
+
+	I don't know. I don't know, but it
+
+	makes me feel very peculiar when
+
+	you throw in something like that.
+
+			FREDRICKSON
+
+	Peculiar?
+
+			SEFELT
+
+	Why?
+
+			TABER
+
+	Yeah, why?
+
+			SCANLON
+
+	Yeah, tell us why.
+
+			HARDING
+
+	I hesitate to go on.
+
+			BIG NURSE
+
+	No secrets, Mister Harding. Let's
+
+	get it all out in the open...
+
+			HARDING
+
+	I mean, the other day you made an
+
+	allusion to my wife and the
+
+	possible sexual problems we might
+
+	be having. I know that to be the
+
+	case, but the way in which you
+
+	broached it, if that's your idea of
+
+	teaching me something...
+
+			HARDING (CONT'D)
+
+		(his voice rising as he
+
+		goes on)
+
+	... or making me aware of a
+
+	condition in my life, then I say,
+
+	categorically speaking, the hell
+
+	with you, Taber!
+
+	I don't have to justify the
+
+	condition of my life to you or any
+
+	of you. No matter what I will carry
+
+	on until I fully understand what
+
+	that function is regardless of the
+
+	form or content. Regardless of the
+
+	fact we must try to understand the
+
+	function of our capacity to obtain,
+
+	to personify the condition, the
+
+	condition of our existence, our
+
+	existence...
+
+			TABER
+
+	You know what, Harding? I think
+
+	you're some kind of morbid asshole
+
+	or something. You've been talking
+
+	about your wife evere since I can
+
+	remember. You know, she's on your
+
+	mind and blah, blah, blah and on
+
+	and on and when are you going to
+
+	wise up and turn her loose!
+
+			FREDRICKSON
+
+	Yeah, wise up, Harding.
+
+			SEFELT
+
+	Yeah, turn her loose!
+
+			ACUTES
+
+		(start pouring it on)
+
+	Yeah, who do you think you are
+
+	anyway?... He thinks he's God
+
+	Almighty... He's a snob... He's a
+
+	schmuck... Dumbbell... Creep...
+
+	Cretin... Idiot... Get rid of
+
+	him... Ship him upstairs...
+
+			RUCKLY
+
+		(chiming in)
+
+	Ffffffuck da wife...
+
+			BANCINI
+
+		(wagging his head)
+
+	Tired... Awful tired...
+
+			ACUTES
+
+		(not letting up)
+
+	Zap him... Give 'im lobotomy... Cut
+
+	his nuts off... He doesn't have
+
+	any... Fag... Pervert.
+
+			BANCINI
+
+		(in a strong angry voice)
+
+	I'm tired!
+
+Everyone hushes.
+
+			BIG NURSE
+
+	Somebody see to Mister Bancini.
+
+Two or three Acutes get up and try to soothe Bancini, but he
+
+isn't to be hushed.
+
+			BANCINI
+
+	Tired. Tired. Oh God, I'm tired...
+
+Big Nurse nods to Washington, who goes to Pete, and gives his
+
+arm a jerk toward the door. Bancini is unmovable.
+
+Big Nurse signals Nurse Pilbow, who heads for the nurses'
+
+station.
+
+Washington senses danger, lets go of Pete's arm, backs away.
+
+			WASHINGTON
+
+	You a good boy, Mistah Bancini...
+
+Nurse Pilbow returns, hypodermic needle in hand.
+
+Pete turns to his fellow inmates.
+
+			BANCINI
+
+	You see... it's a lotta baloney...
+
+	It's all a lotta baloney...
+
+			NURSE PILBOW
+
+	Yes, yes, Mister Bancini, now if
+
+	you'll just be calm...
+
+			BANCINI
+
+	That's all it is, just a lotta
+
+	baloney. Ya see, I can't help it,
+
+	can't...
+
+			NURSE PILBOW
+
+		(working her way around
+
+		Bancini)
+
+	Yes, I know, I know...
+
+She gets him in the ass, with the needle, and springs back.
+
+			BANCINI
+
+	... don't ya see. I was born dead.
+
+	Not you. You wasn't born dead.
+
+	Ahhh, it's been so hard...
+
+		(starts going over,
+
+		slowly; sighing and
+
+		crying)
+
+	Tired... I'm tired... aw-ful
+
+	tired...
+
+McMurphy looks around at the others.
+
+Each patient is locked in his own world -- oblivious to
+
+Bancini's state.
+
+EXT. BASKETBALL COURT - DAY
+
+WIDE SHOT of entire court, surrounded by a high fence topped
+
+off with barbed wire, as Washington and Warren escort the
+
+Acutes -- including Bromden, Ellis, a lobotomy case and
+
+several other Chronics -- through the gate onto the court,
+
+which is run down, with cracks in its surface and leaves
+
+scattered everywhere.
+
+Martini, who is carrying the ball, runs ahead, followed by
+
+Scanlon, where he starts dribbling the ball in a frantic
+
+circle, suddenly passes the ball to nothing.
+
+			MARTINI
+
+		(as he throws ball)
+
+	Catch it! Catch it!
+
+The ball rolls to the corner.
+
+			WASHINGTON
+
+	Martini, there ain't nobody there,
+
+	ya dumb goon! Go get the ball!
+
+			MARTINI
+
+	No!
+
+Martini turns away, his feelings hurt. Washington goes after
+
+the ball, when Martini goes running after it.
+
+			MARTINI (CONT'D)
+
+	I get it! I get it!
+
+But Washington gives Martini a body check and beats him to
+
+the ball.
+
+Martini tries to get the ball from Washington, who is quite
+
+agile and teases him as he returns to the court where he and
+
+Warren start shooting baskets, freezing Martini and Scanlon
+
+out.
+
+The other patients just hang around or walk, as if in a
+
+prison yard.
+
+Cheswick stands in close proximity to McMurphy and Harding,
+
+who stand watching the action. McMurphy finally offers a
+
+cigarette to Harding, who accepts. They both light up.
+
+			MCMURPHY
+
+	Well, say, buddy, is that the usual
+
+	pro-cedure for those Group Ther'py
+
+	shindigs? Bunch of chickens at a
+
+	peckin' party?
+
+			HARDING
+
+	A pecking party?
+
+			MCMURPHY
+
+	That's right, buddy. And you want
+
+	to know who pecks the first peck?
+
+			HARDING AND CHESWICK
+
+	Who? Who?
+
+			MCMURPHY
+
+	Ah, come off it! It's that Big
+
+	Nurse, that's who...
+
+The other Acutes have gathered around McMurphy and Harding.
+
+			HARDING
+
+	It's as simple as that. You've been
+
+	on our ward six hours and have
+
+	already simplified the work of
+
+	Freud, Jung and Maxwell Jones in
+
+	one grand analogy: it's a pecking
+
+	party.
+
+			MCMURPHY
+
+	I'm not talking about Fred Yoong or
+
+	Maxwell Jones, buddy, what I'm
+
+	talkin' about is that crummy
+
+	meeting and what that nurse did to
+
+	you!
+
+			HARDING
+
+	Did to me?
+
+			MCMURPHY
+
+	Did to you and all the rest of you
+
+	guys.
+
+			BILLY
+
+	Y-y-yes! Yes! Y-y-y-you s-s-saw wh
+
+	wh-what she c-c-can do to us!
+
+			MCMURPHY
+
+	What did I see 'cept a grown man
+
+	gettin' whipped so bad he can't
+
+	laugh anymore.
+
+			FREDRICKSON
+
+	It's the questions she asks.
+
+			MCMURPHY
+
+	Tell 'er to go straight to hell!
+
+			HARDING
+
+	Miss Ratched is a competent
+
+	psychiatric nurse, not some, some
+
+	kind of monster pecking out our
+
+	eyes!
+
+			MCMURPHY
+
+		(as calm as blue waters)
+
+	She ain't peckin' at your eyes,
+
+	buddy.
+
+McMurphy grabs Harding by his balls and Harding goes up on
+
+his toes.
+
+			MCMURPHY
+
+	She's peckin' at your balls, buddy,
+
+	at your ever-lovin' balls.
+
+Harding is doubled over.
+
+			SEFELT
+
+	That kind of behavior will get you
+
+	a P.A. rating, my friend.
+
+			MCMURPHY
+
+	P.A. What the hell is that?
+
+			SEFELT 
+
+	Potential assaultive.
+
+			FREDRICKSON
+
+	Which gets you shipped up to
+
+	Disturbed for a nice little zap
+
+	job.
+
+			MCMURPHY
+
+	Huh?
+
+			HARDING
+
+	Electro-Shock Therapy, my friend.
+
+	Five cents' worth of electricity
+
+	and you are out of everybody's
+
+	hair.
+
+			MCMURPHY
+
+	Tell 'er to go to hell anyway!
+
+			HARDING (CONT'D)
+
+	And if you persist in your ways,
+
+	they can always ship you over to
+
+	Medical Surgery.
+
+			MCMURPHY
+
+	What for?
+
+			HARDING (CONT'D)
+
+	Lobotomy!
+
+			MCMURPHY
+
+	Lobotomy?
+
+			HARDING (CONT'D)
+
+		(pointing to lobotomy
+
+		case)
+
+	That!
+
+McMurphy looks.
+
+SHOT OF A LOBOTOMY CASE
+
+A vegetable, complete with two half-dollar scars in his
+
+forehead.
+
+McMURPHY
+
+As he absorbs this bit of information the basketball rolls to
+
+his feet and he picks it up.
+
+			MCMURPHY
+
+		(to Harding)
+
+	Is that your sense of humor or are
+
+	you tryin' to say somethin'?
+
+			HARDING
+
+	Now, what would I be trying to say?
+
+Martini and Scanlon rush over and try to get the ball.
+
+			SCANLON
+
+	Gimme the ball!
+
+			MARTINI
+
+	No. Me! Me!
+
+			WASHINGTON (O.S.)
+
+	Pass the ball, McMurphy.
+
+McMurphy crosses to the court, bouncing the ball as he goes.
+
+When he reaches the court he holds the ball out to
+
+Washington, who reaches for it, but McMurphy snaps it back
+
+over his shoulder to Martini.
+
+			MCMURPHY
+
+		(turning to Martini)
+
+	Pass it to me, Martini.
+
+Martini holds back.
+
+			MCMURPHY
+
+	C'mon, I'll give it back!
+
+Martini passes to McMurphy.
+
+			MCMURPHY
+
+	Atta boy, Martini.
+
+He passes it back to Martini, who laughs and passes it back
+
+to McMurphy, who passes it to Scanlon, who passes to
+
+McMurphy, who passes to Billy, etc. Bromden just stands
+
+watching.
+
+			MCMURPHY
+
+		(encouraging them)
+
+	Back and forth, that's it. Shoot,
+
+	man, we'll be takin' on the New
+
+	York Knicks before we're through...
+
+McMurphy looks to see Big Nurse looking out a window at them.
+
+He catches her eye. She turns away.
+
+			MCMURPHY (V.O)
+
+	Hey-ya, hey-ya, come on, come on,
+
+	I'm waitin' on you suckers, you hit
+
+	or you sit...
+
+INT. DAY ROOM - NIGHT
+
+The MUSIC is PLAYING. The TV is on the six o'clock news as
+
+McMurphy, cards in hand, is dealing blackjack to Cheswick,
+
+Harding, Sefelt, Billy and Martini. Fredrickson and Scanlon
+
+are looking on as Bromden eases up to the game. Cheswick is
+
+at the nurses' station talking to Big Nurse.
+
+			SEFELT
+
+	Hit me!
+
+			MCMURPHY
+
+	Hit, you say? Well well well and
+
+	with a king up, the boy wants a
+
+	hit. Whadaya know.
+
+	So comin' at you and too bad, a
+
+	little lady for the lad and he's
+
+	over the wall and down the road, up
+
+	the hill and dropped his load.
+
+			SEFELT
+
+	Boogered!
+
+McMurphy rakes in Sefelt's cigarettes, adding them to a pile
+
+of loose cigarettes, packs of cigarettes, several cartons of
+
+cigarettes.
+
+As Cheswick sits down, depressed:
+
+			MCMURPHY
+
+	'Kay, place your bets.
+
+			MARTINI
+
+		(holding up a cigarette)
+
+	What's this?
+
+			MCMURPHY
+
+	That's a dime, Martini.
+
+Martini breaks a cigarette in half.
+
+			MARTINI (CONT'D)
+
+	Bet a nickel!
+
+			MCMURPHY
+
+		(to Cheswick)
+
+	Whadaya bet, Cheswick?
+
+			CHESWICK
+
+	She won't give me any more
+
+	cigarettes!
+
+			MCMURPHY
+
+	That okay. I'll take your marker.
+
+	How many ya want?
+
+			CHESWICK (CONT'D)
+
+	Lend me twenty.
+
+McMurphy counts out twenty cigarettes, marks it down on a
+
+piece of paper, and passes the cigarettes to Cheswick, who
+
+bets all twenty.
+
+The Sports have come on TV and McMurphy's attention is
+
+divided.
+
+			MCMURPHY
+
+		(checking the board)
+
+	'Kay, all bets are down, let's
+
+	wheel 'em an' deal 'em.
+
+He deals the cards out, the first one face down, then the
+
+next one face up.
+
+			MCMURPHY
+
+	Big king... little deuce... another
+
+	king... a lovely lady... big ten...
+
+	and a trey... hey, hey, whadaya
+
+	say? Ya hit or sit, Martini?
+
+			MARTINI
+
+	Hit me.
+
+			MCMURPHY
+
+		(hits with a picture)
+
+	That's twenty up, Martini.
+
+		(turning to TV, he shouts
+
+		across room)
+
+	Hey, Taber, who's pitching the
+
+	opening game?
+
+Taber calls back something but it's lost in the other sounds.
+
+			MARTINI (CONT'D)
+
+	Hit me!
+
+			MCMURPHY
+
+	Wait a minute, Martini, I can't
+
+	hear a thing.
+
+		(turning back to Taber)
+
+	What?
+
+			TABER
+
+		(shouting back)
+
+	Koufax against Ford!
+
+			MISS PILBOW (V.O.)
+
+		(over loudspeaker)
+
+	Medication time! Medication time!
+
+	Medication!
+
+			MARTINI
+
+		(simultaneously with
+
+		Pilbow)
+
+	Hit me!
+
+McMurphy slams his cards down, stands up, crosses the day
+
+room, heading for the nurses' station. He passes Washington,
+
+who stands there waiting to dispense orange juice.
+
+INT. NURSES' STATION - NIGHT
+
+as McMurphy enters. Nurse Pilbow is the only one there.
+
+			MCMURPHY
+
+	Pardon me miss, but would you mind
+
+	turning...
+
+			NURSE PILBOW
+
+		(scared out of her wits)
+
+	Stay back! Patients aren't allowed
+
+	to enter the... Oh, stay back!
+
+			MCMURPHY
+
+	All I'm askin' is...
+
+Nurse Pilbow grabs at her cross, screams and shuts her eyes,
+
+holding the cross in front of her.
+
+			NURSE PILBOW (CONT'D)
+
+	Oh, stay back, I'm a Catholic!
+
+Big Nurse enters from the nurses' lounge.
+
+			BIG NURSE
+
+	Mister McMurphy. Patients aren't
+
+	allowed in here.
+
+			MCMURPHY
+
+	Sorry, ma'am.
+
+McMurphy steps out of the station, closing the door behind
+
+him.
+
+INT. DAY ROOM - NIGHT
+
+as McMurphy goes around to the front of the nurses' station
+
+and queues up behind the other Acutes who are getting their
+
+medication. McMurphy reaches the window, takes the cup, but
+
+doesn't take his pills.
+
+			MCMURPHY
+
+		(to Big Nurse)
+
+	Pardon me, ma'am, can I ask you
+
+	somethin'?
+
+			BIG NURSE
+
+		(politely)
+
+	Yes, Mister McMurphy?
+
+			MCMURPHY
+
+	How 'bout turning off that music
+
+	for a while so a man can hear
+
+	himself think?
+
+			BIG NURSE
+
+		(pleasantly)
+
+	That music is for everyone, Mister
+
+	McMurphy.
+
+McMurphy leans in, placing his hand on the window.
+
+			MCMURPHY
+
+		(confidentially)
+
+	Well, say, how 'bout easin' it down
+
+	a bit so a man don't have to shout!
+
+			BIG NURSE (CONT'D)
+
+		(aware of his physical
+
+		proximity)
+
+	Mister McMurphy, there are old men
+
+	here who couldn't hear the music at
+
+	all if it were lower. That music is
+
+	all they have, and I wish you
+
+	wouldn't lean against the glass
+
+	there, your hands are staining the
+
+	window.
+
+McMurphy jerks his hand away.
+
+			MCMURPHY
+
+	Sorry, ma'am... Sorry 'bout that...
+
+McMurphy breathes on the glass and wipes it clean with his
+
+sleeve.
+
+			MCMURPHY
+
+	Sorry to have bothered you.
+
+			BIG NURSE 
+
+	Not at all, Mister McMurphy...
+
+McMurphy turns to walk away.
+
+			NURSE PILBOW
+
+	Your medicine, Mister McMurphy.
+
+			MCMURPHY
+
+		(turning back, he examines
+
+		the contents of the cup)
+
+	What's the horse pill for, honey?
+
+			NURSE PILBOW
+
+	It's just medication, Mister
+
+	McMurphy, good for you. Now down it
+
+	goes...
+
+			MCMURPHY
+
+	Look, miss, I don't like swallowing
+
+	something without knowing what it
+
+	is!
+
+			NURSE PILBOW 
+
+		(stepping back a little)
+
+	Don't get upset, Mister McMurphy...
+
+			MCMURPHY
+
+	I'm not upset. All I wanna know,
+
+	for the lovva Jesus...
+
+			BIG NURSE
+
+	That's all right, Miss Pilbow, if
+
+	Mister McMurphy does not wish to
+
+	take his medication orally, he
+
+	may...
+
+			MCMURPHY
+
+	No, that's okay, ma'am. Down it
+
+	goes.
+
+McMurphy makes a big show of popping the pill in his mouth,
+
+holding his paper cup upside down, for all to see, then
+
+moving on to Washington, who fills it with orange juice.
+
+McMurphy gulps it down, not without some difficulty, then he
+
+smiles at all the concerned faces and crosses the room to the
+
+card table, where he sits to see the Acutes looking at him.
+
+			HARDING
+
+	Why didn't you tell her to go to
+
+	hell, lover boy?
+
+			TABER
+
+	Yeah, whattsa matter, Mack, she too
+
+	much for ya?
+
+McMurphy holds the pill up and flicks it into Harding's
+
+forehead.
+
+			MCMURPHY
+
+	You boys seem to think you've got a
+
+	champ in there, huh?
+
+			HARDING
+
+	I don't see you scoring any points,
+
+	buddy. And you're just the man for
+
+	the job, right?
+
+			MCMURPHY
+
+	Hell, I couldn't get it up over old
+
+	hatchet-face if ya paid me!
+
+			HARDING (CONT'D)
+
+	She's not all that homely, Mister
+
+	McMurphy. In fact, she must have
+
+	been a rather beautiful young lady.
+
+The men look at Big Nurse.
+
+The patients look at the nurses' station.
+
+PATIENTS' POV
+
+Big Nurse is busy at her work.
+
+INT. NURSES STATION - BIG NURSE'S POV - NIGHT
+
+The patients looking at her. They turn back to their card
+
+game.
+
+REVERSE ANGLE
+
+CAMERA HOLDS on Big Nurse as McMurphy's VOICE is HEARD over
+
+INTERCOM.
+
+			MCMURPHY (V.O.)
+
+		(through intercom)
+
+	Yeah, an' I'm tellin' ya, she's
+
+	just an icy-hearted over-the-hump
+
+	gal who never got enough of the old
+
+	wham-bam to straighten 'er out...
+
+	Okay, who wants a card?
+
+			MARTINI (V.O.)
+
+		(through intercom)
+
+	Me. Hit me!
+
+Big Nurse looks up and studies the men gathered round the
+
+table.
+
+INT. MEN'S DORM - NIGHT
+
+The patients are asleep except for Bromden, who stands by the
+
+window looking out.
+
+McMurphy is asleep in the bed next to his. A beat when
+
+TURKLE, a fifty-year-old Negro night attendant, slightly
+
+drunk, lays a gentle hand on Bromden's shoulder.
+
+			TURKLE
+
+	Le's get back to bed, Mistah
+
+	Bromden...
+
+Bromden allows himself to be led back to bed. Turkle fumbles
+
+around for the security belt, finds it, straps Bromden
+
+loosely in bed, then goes off clucking to himself.
+
+Bromden reaches under his bed and plucks a stale piece of gum
+
+from under the bed frame. He starts chewing it when he sees
+
+McMurphy looking at him.
+
+Bromden goes right on chewing and looking McMurphy right in
+
+the eye.
+
+			MCMURPHY
+
+		(whispering)
+
+	Chief? I wanna ask ya somethin'.
+
+		(sings)
+
+	Oh, does the spearmint lose its
+
+	flavor on the bedpost overnight?
+
+	When you chew it in the morning,
+
+	will it be too hard to bite? This
+
+	question's got me goin', won't
+
+	somebody set me right; does the
+
+	spearmint lose its flavor on the
+
+	bedpost overnight?
+
+McMurphy holds the last note, reaches over and rustles
+
+through his nightstand.
+
+			MCMURPHY
+
+	Here ya go, Chief...
+
+A small object lands on Bromden's bed. It is a fresh package
+
+of gum. Bromden picks it up. Examines it. Unwraps it.
+
+Deposits his old piece of gum under the bed frame, then
+
+inserts the fresh gum in his mouth and starts chewing.
+
+SERIES OF SHOTS
+
+SHOWING the MEN'S DORM, the empty DAY ROOM, TURKLE ASLEEP in
+
+the NURSES' STATION, EMPTY HALLWAYS, the NIGHT SUPERINTENDENT
+
+AT HER DESK, MORE HALLWAYS... ENDING ON:
+
+INT. MEN'S DORM - SUNRISE
+
+ABERRATED SHOT of INSTITUTIONAL GROUNDS SEEN THROUGH STEEL
+
+MESH SCREEN -- as the sun rises above the treetops.
+
+REVERSE SHOT - BROMDEN
+
+looking out of the window. His face washed by the sunlight.
+
+His eyes have a vague look, almost vacuous, as...
+
+			BIG NURSE (V.O.)
+
+		(through loudspeaker)
+
+	Good morning, boys. Rise and shine.
+
+	Rise and shine.
+
+INT. MEN'S DORM - DAY
+
+as Washington, Warren and Miller roust the patients out of
+
+bed.
+
+			BIG NURSE (V.O.)
+
+		(through loudspeaker)
+
+	Time to got up! Come on now, it's a
+
+	beautiful day! Let's not straggle!
+
+	Everybody up, up, up!
+
+McMurphy is in bed, not ready for the world, when Washington
+
+crosses to Bromden, who is looking out the window, and leads
+
+him off.
+
+			WASHINGTON
+
+	Le's go, Chief. Le's go get
+
+	ourselves all nice and clean...
+
+		(to McMurphy)
+
+	You too, Mistah Mack-Murphy!
+
+Washington goes off with Bromden.
+
+CAMERA HOLDS on McMurphy as he slowly pulls it together and
+
+sits on the edge of the bed. He's naked as he opens the
+
+drawer to his nightstand and fishes around for a cigarette.
+
+			MCMURPHY
+
+		(looking in the drawer)
+
+	What the...
+
+		(looking around)
+
+	Who the fuck stole my cigarettes!
+
+INT. DAY ROOM - DAY
+
+as the Acutes straggle past Big Nurse.
+
+			BIG NURSE
+
+	Good morning, Mister Sefelt, are
+
+	your teeth any better?... Good
+
+	morning, Mister Fredrickson... Good
+
+	morning, Mister Harding;
+
+	my, my, you've been biting your
+
+	fingernails again...
+
+She sees McMurphy approaching, wearing a towel around his
+
+waist and a scowl on his face.
+
+			BIG NURSE (CONT'D)
+
+	Mister McMurphy, patients are not
+
+	permitted to run around in towels.
+
+			MCMURPHY
+
+	I wanna report a robbery!
+
+			BIG NURSE
+
+	On this ward?
+
+			MCMURPHY
+
+	Yeah, some creep stole my
+
+	cigarettes!
+
+			BIG NURSE 
+
+	Oh, I had them removed.
+
+			MCMURPHY
+
+	What for?
+
+			BIG NURSE 
+
+	Patients are rationed to one pack
+
+	of cigarettes a day.
+
+Bromden comes drifting by, going in the opposite direction.
+
+Big Nurse takes his hand.
+
+			BIG NURSE (CONT'D)
+
+		(calling out)
+
+	Mister Washington!
+
+Washington comes running.
+
+			WASHINGTON
+
+	Yes, Miss Ratched?
+
+			BIG NURSE
+
+	Please see to Mister Bromden.
+
+			WASHINGTON
+
+		(taking Bromden by the
+
+		hand)
+
+	Yes, Miss Ratched...
+
+Washington leads Bromden off. Big Nurse turns to Cheswick and
+
+several other Acutes, who have crowded around.
+
+			BIG NURSE
+
+	Now you boys hurry along and wash
+
+	up for breakfast...
+
+		(to McMurphy)
+
+	You too, Mister McMurphy.
+
+			MCMURPHY
+
+	Well, say. How 'bout springing a
+
+	pack of cigarettes loose?
+
+			BIG NURSE
+
+	After breakfast, Mister McMurphy,
+
+	after breakfast.
+
+			MCMURPHY
+
+	You sure run a tight-assed ship
+
+	'round here, don't ya!
+
+			BIG NURSE
+
+	Yes. Now run along like a good boy
+
+	and see that you wash up properly.
+
+WIDER ANGLE
+
+A beat, as the Acutes wait for McMurphy's next move, then:
+
+			MCMURPHY
+
+	'Kay, let's go brush our teeth,
+
+	fellas...
+
+McMurphy turns and crosses toward the washroom, singing at
+
+the top of his lungs.
+
+			MCMURPHY
+
+	Oh, Lulu had a baby,
+
+	His name was Sunny Jim,
+
+	She put 'im in a piss pot,
+
+	To teach 'im how to swim.
+
+	Oh, he swam to the bottom,
+
+	He swam to the top,
+
+	Lulu got excited,
+
+	An' pulled 'im by his...
+
+	Cock-tail ginger-ale,
+
+	Five cents a glass,
+
+	An' if ya don't like it
+
+	Ya can shove it up your...
+
+	Ask me no more questions,
+
+	I'll tell ya no more lies.
+
+BIG NURSE
+
+watching McMurphy who removes his towel as he enters the
+
+washroom.
+
+INT. WASHROOM - DAY
+
+as McMurphy enters to see Warren take a firm grip on
+
+Bromaen's head and Washington goes to work on Bromden's face.
+
+CAMERA PUSHES INTO EXTREME CLOSEUP of Bromden's fearfully
+
+distorted face as the BUZZING SOUND of the ELECTRIC RAZOR
+
+INTENSIFIES until it is INSUPPORTABLE.
+
+INT. MESS HALL - DAY
+
+We SEE the attendants spooning food into the sucking pink
+
+mouths of the vegetables, a shade too fast for swallowing.
+
+			MCMURPHY (O.S.)
+
+	What's wrong with you guys?
+
+We SEE McMurphy seated with the Acutes, shoveling food down
+
+his guillet. The others are barely touching their food.
+
+			MCMURPHY
+
+	Why, if I'd have known how soft
+
+	this place was gonna be, I'd have
+
+	arranged for my transfer sooner...
+
+		(holding up his orange
+
+		juice)
+
+	Look at this here, real orange
+
+	juice!
+
+		(slugging it down)
+
+	Hooee, that's good. Why, you
+
+	couldn't pay me to leave this
+
+	place!
+
+		(slaps his belly)
+
+	All this place lacks is a couple of
+
+	sweet gals to liven things up...
+
+He gets up and carries his tray to the proper place, where he
+
+notices Miller loading several other trays onto a dumbwaiter.
+
+Miller pushes a button and the dumbwaiter goes down. McMurphy
+
+crosses to the door to find it blocked by Washington.
+
+			MCMURPHY
+
+	Stand aside, Sam, Nature's callin'.
+
+			WASHINGTON
+
+	Nobody leaves here till seven
+
+	thirty.
+
+McMurphy turns Washington over in his mind, then he looks up
+
+at the clock above the door.
+
+The time is 7:28. The second hand sweeping its way toward
+
+7:29.
+
+			MCMURPHY
+
+	Don't know if I can hold it that
+
+	long, Sam.
+
+			WASHINGTON (CONT'D)
+
+	Tha's your problem.
+
+			MCMURPHY
+
+		(confidentially)
+
+	Who do you like in the opening
+
+	game, Sam?
+
+			WASHINGTON (CONT'D)
+
+	Huh?
+
+			MCMURPHY
+
+		(turning away)
+
+	Asshole.
+
+McMurphy turns and walks away.
+
+Washington watches him go.
+
+			CHESWICK (V.O.)
+
+	I wanna know about my cigarettes!
+
+INT. DAY ROOM - DAY
+
+A group meeting is in progress. Doctor Spivey is there.
+
+Cheswick is on his feet.
+
+			BIG NURSE
+
+	Sit down, Mister Cheswick.
+
+			CHESWTCK
+
+		(not sitting)
+
+	No, I ain't no kid to have my
+
+	cigarettes keep from me like
+
+	cookies! Ain't that right, Mack!
+
+		(McMurphy doesn't respond)
+
+	Mack???
+
+			BIG NURSE
+
+	Sit down, Mister Cheswick!
+
+Cheswick sits -- stunned. A beat; then:
+
+			BIG NURSE (CONT'D)
+
+		(to Cheswick)
+
+	You should have thought about that
+
+	before you gambled all your
+
+	cigarettes away. Is that clear?
+
+Cheswick sulks in his seat.
+
+			BIG NURSE (CONT'D)
+
+	Mister Cheswick, is that clear!
+
+			CHESWICK
+
+	Yeah...
+
+			BIG NURSE
+
+	Good...
+
+		(opens her book)
+
+	Now, as I recall, we were making
+
+	quite a bit of headway, last time,
+
+	with Mister Harding's problem. So,
+
+	does anyone care to begin?
+
+McMurphy's hand goes up. No one else's does.
+
+			BIG NURSE (CONT'D)
+
+	Yes, Mister McMurphy.
+
+			MCMURPHY
+
+	Right... I've been givin' some
+
+	serious consideration to what you
+
+	told me about the democratic
+
+	something of this therapeutic
+
+	community of ours, an' I got a few
+
+	things I wanna get off my chest,
+
+	before we get back to Harding's
+
+	problem.
+
+			BIG NURSE
+
+	Certainly, Mister McMurphy.
+
+			MCMURPHY
+
+	Right!
+
+McMurphy takes a folded sheet of paper out of his pocket,
+
+unfolds it, studies it and begins.
+
+			MCMURPHY
+
+	'Kay... Item one... I've been
+
+	thinkin' 'bout the age problem we
+
+	got on this ward. You know, the
+
+	young an' old livin' together, an'
+
+	I was thinkin' what a great thing
+
+	it would be if the music was turned
+
+	up louder. Louder so the old fellas
+
+	could hear better...
+
+Doctor Spivey nods with approval.
+
+Big Nurse doesn't.
+
+The Acutes are bewildered.
+
+			MCMURPHY
+
+	But then I got to thinkin', the
+
+	music is so loud already, it makes
+
+	it difficult for the young fellas
+
+	to hold a decent conversation...
+
+Nods and murmurs of approval from the Acutes.
+
+Big Nurse can only wait for McMurphy's next move.
+
+			MCMURPHY
+
+	Well, I was turnin' this dilemma
+
+	over in my head, when I happened to
+
+	hit on that old tub room out there,
+
+	an' I said to myself, McMurphy, I
+
+	said, that place would make a great
+
+	second day room. A sort of game
+
+	room for the young fellas. Whadaya
+
+	think, Doc?
+
+			SPIVEY
+
+	It is worth considering... Miss
+
+	Ratched?
+
+			BIG NURSE
+
+	The point is well taken, Doctor,
+
+	but do we have the necessary
+
+	personnel to cover a second day
+
+	room?
+
+			SPIVEY
+
+	Well, since it will be largely the
+
+	Chronics who remain here, one aide
+
+	and one nurse should easily be able
+
+	to handle any situation that might
+
+	occur.
+
+		(he turns to the patients)
+
+	What do you think, men, is it
+
+	workable?
+
+			CHESWICK
+
+	Right, Doc. It's workable.
+
+Several other Acutes voice in the affirmative.
+
+			SPIVEY
+
+	Fine!
+
+			BIG NURSE
+
+	Good. Good. Yes, yes, I think we
+
+	should give it a trial period. So!
+
+	May we get back to Mister Harding's
+
+	problem...
+
+		(she sees McMurphy's hand
+
+		up)
+
+	Yes, Mister McMurphy?
+
+			MCMURPHY
+
+	I'm not finished yet.
+
+			BIG NURSE 
+
+	Go on...
+
+			MCMURPHY
+
+		(looking at his list)
+
+	'Kay, item two. Tomorrow, and
+
+	listen carefully to me, you ding-a
+
+	lings. Tomorrow is the opening game
+
+	of the World Series an' what I want
+
+	is to take a vote on switchin' the
+
+	group meetin' to later on in the
+
+	day, so we can watch the ballgame.
+
+			BIG NURSE
+
+	Just a minute, Mister McMurphy!
+
+			MCMURPHY
+
+	Yeah?
+
+			BIG NURSE 
+
+	Please understand, the schedule has
+
+	been set up for a delicately
+
+	balanced reason that would be
+
+	thrown into turmoil by a switch of
+
+	routines.
+
+			MCMURPHY
+
+	The hell with the schedule, you can
+
+	get back to the schedule next week
+
+	when the series is over. What I
+
+	want is a vote on it right now!
+
+			CHESWICK
+
+	I second the motion!
+
+			MCMURPHY
+
+	Atta boy, Cheswick!
+
+			BIG NURSE
+
+	Very well! All those in favor,
+
+	please raise your hands.
+
+Big Nurse casts a watchful eye over the patients.
+
+			MCMURPHY
+
+		(raising his hand)
+
+	Okay, raise your hands.
+
+Only Cheswick's goes up.
+
+			MCMURPHY
+
+	Come on', what is this crap? Who
+
+	wants to watch the World Series?
+
+Martini and Scanlon's hands go up.
+
+Several Acutes look at them.
+
+Scanlon and Martini's hands go down.
+
+McMurphy can't believe his eyes.
+
+			BIG NURSE (CONT'D)
+
+		(politely)
+
+	I count only two, including you,
+
+	Mister McMurphy. Certainly not
+
+	enough to change ward policy.
+
+McMurphy's hand goes down.
+
+			BIG NURSE (CONT'D)
+
+	Yes. Now was there anything else
+
+	you wanted to discuss, Mister
+
+	McMurphy?
+
+			MCMURPHY
+
+	No way.
+
+			CHESWICK
+
+	No way.
+
+McMurphy starts tearing his sheet of paper up into a thousand
+
+pieces.
+
+			BIG NURSE
+
+		(checking her watch)
+
+	Then I suggest we turn our
+
+	attention back to Mister Harding's
+
+	problem. Would anybody care to
+
+	begin?
+
+She looks around.
+
+McMurphy is slouched in his chair.
+
+Harding puts his hands up. No one else does.
+
+			BIG NURSE (CONT'D)
+
+	Yes, Mister Harding?
+
+			HARDING
+
+	Yes, thank you, Miss Ratched. Since
+
+	our last meeting I have been
+
+	reflecting, quite seriously, on the
+
+	nature of my problem. Naturally,
+
+	I'm referring to the capacity to
+
+	obtain the necessary results in
+
+	order to obtain... No, no. To
+
+	personify the very existence of
+
+	that relationship regardless of the
+
+	function...
+
+		(he stops, chews his lip,
+
+		then continues)
+
+	Regardless of the function, we will
+
+	confront the question of... Yes.
+
+	Yes. The question of...
+
+	Existence... Relationship...
+
+	Function... Confront... Yes,
+
+	confronting us in the moment of
+
+	deepest crisis... Yes, the crisis
+
+	of our souls. Of our souls, which I
+
+	am trying to fully understand the
+
+	problem... the problem. Not to shut
+
+	ourselves off, but somehow...
+
+	Somehow to understand fully our
+
+	capacity... to obtain... to
+
+	personify... the question...
+
+	existence depends... depends on the
+
+	question... to reflect... to
+
+	reflect...
+
+Harding, breaks off, sweating; he begins to knead his
+
+forehead and chew his nails.
+
+			HARDING (CONT'D)
+
+	To reflect...
+
+ANGLE
+
+Silence as the CAMERA REFLECTS: the room, the patients, the
+
+staff, the hallways, the hospital, the grounds, the trees,
+
+the sky, ending on.
+
+			MARTINI (V.O.)
+
+	Hold it a minute. What's a man need
+
+	to buy thum hotels?
+
+INT. TUB ROOM - NIGHT
+
+Bromden is pressed against the wall, watching McMurphy,
+
+Martini, Scanlon and Cheswick play a game of monopoly. The
+
+others are playing cards or just hanging around, a little
+
+chagrined. Billy is most disturbed by this separation.
+
+			MCMURPHY
+
+	You need four houses on every lot
+
+	of the same color, Martini. Now
+
+	let's go, for Christsakes.
+
+			MARTINI
+
+	Hold it a minute.
+
+There's a flurry of money from Martini, red, green and yellow
+
+bills blowing in every direction.
+
+			CHESWICK
+
+	Let's go, for Christsakes...
+
+			MCMURPHY
+
+	It's your dirty roll, Cheswick.
+
+Cheswick rolls the dice.
+
+			MCMURPHY
+
+	Snake eyes! Hoooeee, that puts you
+
+	on my Marvin Gardens, which means
+
+	you owe me three hundred and fifty
+
+	dollars.
+
+Cheswick starts counting out the money.
+
+			MARTINI
+
+	What's thum other things? Hold it a
+
+	minute. What's thum other things
+
+	all over the board?
+
+			CHESWICK
+
+		(to Martini)
+
+	How can a man concentrate with you
+
+	sitting there hallucinating a mile
+
+	a minute...
+
+			MCMURPHY
+
+	You just come on with that three
+
+	fifty and Martini will take care of
+
+	himself... Your dice, Scanlon.
+
+			SCANLON
+
+	Gimme those dice. I'll blow this
+
+	board to pieces. Here we go... 
+
+		(throws the dice)
+
+	Lebenty leben, count me over
+
+	eleven, Martini...
+
+Martini picks up a house...
+
+			SCANLON (CONT'D)
+
+	Not that one, you crazy bastard,
+
+	that's my house...
+
+Scanlon grabs Martini's hand and tries to get his piece back.
+
+Martini won't let go.
+
+			MCMURPHY
+
+	Break it up, God dammit! Ain't I
+
+	got enough troubles without you
+
+	guys messin' around... can't depend
+
+	on nobody.
+
+			BILLY
+
+		(from the next table)
+
+	Some of us ha-ha-have b-b-been here
+
+	a long t-t-time, Randle, and will b
+
+	b-be here long after this Wo-Wo
+
+	World Series of yours is oh-oh-oh,
+
+	what's the use anyway...
+
+McMurphy slams his fist down on the table, sending the
+
+monopoly pieces flying. Martini is crestfallen.
+
+			MCMURPHY
+
+	What's the use! Hooee! It'd do you
+
+	birds some good just to get a
+
+	little exercise lifting your arms
+
+	to vote!
+
+			HARDING
+
+	A baseball game isn't worth the
+
+	risk, my friend.
+
+			MCMURPHY
+
+	It is to me! An' if I hafta bust
+
+	way outta this place to see it, I
+
+	will!
+
+			CHESWICK
+
+	Right!
+
+			FREDRICKSON
+
+	Oh, yeah?
+
+			MCMURPHY
+
+	Yeah!
+
+			SEFELT
+
+	Big man!
+
+			MCMURPHY
+
+	Yeah, how much you wanna bet?
+
+			SEFELT 
+
+	On what?
+
+			MCMURPHY
+
+	That me an' my buddy, Cheswick,
+
+	we'll be downtown tomorrow watchin'
+
+	the ballgame while you suckers are
+
+	sittin' around this goddamn
+
+	nursery!
+
+			HARDING
+
+	And how do you propose to
+
+	accomplish that little feat, my
+
+	friend?
+
+			MCMURPHY
+
+	That's between me an' myself. So
+
+	why don't you boys just shove off.
+
+	I got some planning to do.
+
+McMurphy sits and resumes his game of solitaire. Martini and
+
+Scanlon are putting the monopoly game back together again.
+
+Bromden spots (or he thinks he spots) one of the attendants
+
+listening at the door. He wants to warn the others, but
+
+doesn't know how.
+
+			SEFELT
+
+	Maybe he'll just show Miss Ratched
+
+	his big thing an' she'll open the
+
+	door for him.
+
+Sefelt and Frederickson smile at each other.
+
+Bromden slides along the wall toward the door.
+
+			MCMURPHY
+
+	Maybe I'll just use that thick
+
+	skull of yours as a batterin' ram,
+
+	Sefelt.
+
+			SEFELT (CONT'D)
+
+	Why, my head would just squash like
+
+	an eggplant, McMurphy.
+
+Fredrickson and Sefelt snicker in their hands.
+
+			MCMURPHY
+
+	You think it's funny, huh?
+
+			TABER
+
+	Yeah, you don't know how to get
+
+	outta this place!
+
+Bromden reaches the door and looks out. No one is there.
+
+			MCMURPHY
+
+	Put your money where your mouth is,
+
+	Taber.
+
+			TABER (CONT'D)
+
+	Yeah, yeah, you're a fucking phony,
+
+	McMurphy!
+
+Bromden turns back to the room to see McMurphy slam his fist
+
+down on the table; the monopoly game goes flying.
+
+			MCMURPHY
+
+		(rising and turning on the
+
+		others, who back off)
+
+	You want me to show ya! You want me
+
+	to show ya how!
+
+			TABER (CONT'D)
+
+	Yeah, yeah, show me. Show me how!
+
+			MCMURPHY
+
+	All right!
+
+He looks wildly around the room, spots the machine, crosses
+
+to it and smacks it with his hand.
+
+			MCMURPHY
+
+	With this thing! I'm gonna put this
+
+	thing right through the window,
+
+	that's how!
+
+			HARDING
+
+	You mean you're going to try to
+
+	pick that thing up and shove it
+
+	through the window?
+
+			MCMURPHY
+
+	You're fuckin' A-right, I am!
+
+			HARDING (CONT'D)
+
+	With your own two hands?
+
+			MCMURPHY
+
+	You heard me the first time!
+
+			TABER
+
+	I'll bet a buck you don't do it!
+
+			MCMURPHY
+
+	You're on!
+
+			BILLY
+
+	M-M-Mack, y-y-y-you c-c-can't l-l
+
+	lift that thing!
+
+			MCMURPHY
+
+	Stand aside, son. Any more takers?
+
+			SEFELT
+
+	I'll bet a dollar.
+
+			FREDRICKSON
+
+	Me, too...
+
+			MCMURPHY
+
+	Right!
+
+			MARTINI
+
+	A nickel.
+
+			SCANLON
+
+	A dime.
+
+			MCMURPHY
+
+	Okay. Who else?
+
+			HARDING
+
+	Twenty-five dollars.
+
+			MCMURPHY
+
+		(knows he's taking a bad
+
+		bet)
+
+	Okay, Harding, you're on.
+
+			HARDING 
+
+	Okay, sucker.
+
+			MCMURPHY
+
+	Yeah... Okay, stand aside, you
+
+	guys! You're usin' up my oxygen!
+
+The Acutes stand aside and McMurphy steps up to the machine.
+
+He shifts his feet to get a good stance, wipes his hands on
+
+his thighs, leans down and gets hold of the levers on each
+
+side, and strains.
+
+Bromden watches, in awe of McMurphy.
+
+McMurphy turns loose, straightens up and shifts his feet for
+
+a better position.
+
+			HARDING
+
+	Giving up?
+
+			MCMURPHY
+
+	Just warmin' up.
+
+He grabs the levers again. His whole body shakes with the
+
+strain. For just a second we HEAR the cement GRIND. Then his
+
+breath explodes and he falls back limp against the wall.
+
+There's blood on his hands. No sound but his rasping breath.
+
+He opens his eyes and looks around. Then pulls out a
+
+pocketful of IOU's and tries to sort them out, but his hands
+
+are frozen into red claws. He throws the whole bundle on the
+
+floor and walks out. At the door, he turns back.
+
+			MCMURPHY
+
+	But I tried. Goddammit, I sure as
+
+	hell did that much. Didn't I?
+
+McMurphy exits.
+
+REACTION SHOT OF ACUTES
+
+SHOT OF BROMDEN
+
+looking at the machine. A long beat.
+
+INT. MEN'S DORM - NIGHT
+
+The patients are getting ready for bed when Billy approaches
+
+McMurpby, who is in bed.
+
+			BILLY
+
+	M-M-Mack...
+
+McMurphy turns away from Billy, who crosses to the other side
+
+of the bed.
+
+			BILLY (CONT'D)
+
+	M-M-Mack, I-I-I'm sorry!
+
+			HARDING
+
+	Leave him alone, he's pouting.
+
+			BILLY
+
+	Y-Y-Y-You leave him alone!
+
+			MCMURPHY
+
+	That's okay, kid...
+
+			BILLY 
+
+	Th-th-then y-y-you're n-n-not m-m
+
+	mad?
+
+			MCMURPHY
+
+	No, kid, it was my own stupidity,
+
+	that's what pissed me off.
+
+			BILLY 
+
+	O-o-o-oh...
+
+			MCMURPHY
+
+	What we're gonna have to do is pull
+
+	this ballclub together for our next
+
+	play. 'Kay!
+
+			BILLY
+
+	'K-k-kay, Mack!
+
+INT. HALLWAY - DAY
+
+Washington, Warren and Miller are at the end of the hallway,
+
+listening to a small RADIO. We can HEAR the SPORTS ANNOUNCER
+
+giving the line-up for the opening game of the World Series.
+
+			WASHINGTON'S POV
+
+	Way down the hall, the Group
+
+	Meeting is SEEN in progress.
+
+INT. DAY ROOM - DAY
+
+A Group Meeting is in progress and Big Nurse is honed in on
+
+Billy.
+
+			BIG NURSE
+
+	Try, Billy, try...
+
+Billy tries, but can't talk.
+
+The other Acutes are bored, restive, waiting.
+
+McMurphy has ants in his pants as Big Nurse speaks to Billy.
+
+			BIG NURSE (CONT'D)
+
+	Was it your idea to visit her on
+
+	Sunday?
+
+			BILLY
+
+	Y-y-y-yes...
+
+			BIG NURSE
+
+	Tell us about it...
+
+			BILLY
+
+	I-I-I-I c-c-c-came over S-S-S
+
+	Sunday m-m-m-morning after ch-ch-ch
+
+	church and br-br-brought her s-s
+
+	some flowers, and I s-s-said, I
+
+	said, 'C-C-C-Celia, will you muh
+
+	muh-muh-muh-muh...' till the girl
+
+	broke out l-l-laughing.
+
+Billy laughs at himself.
+
+			BIG NURSE
+
+	What was it about her that
+
+	disturbed you so, Billy?
+
+			BILLY
+
+		(rubbing scars on his
+
+		wrist)
+
+	I was in luh-love with her.
+
+			BIG NURSE
+
+	Billy, were you afraid of her, or
+
+	of her love?
+
+No response from Billy.
+
+			BIG NURSE (CONT'D)
+
+	That was the first time you
+
+	attempted to commit suicide, wasn't
+
+	it?
+
+		(no response)
+
+	You must try to talk about it,
+
+	Billy.
+
+			MCMURPHY
+
+	Jesus Christ, the man doesn't want
+
+	to talk, so get off his back an'
+
+	let's get on to some new business.
+
+			BIG NURSE 
+
+	Mister McMurphy, the purpose of
+
+	this meeting is therapy. Group
+
+	therapy.
+
+			MCMURPHY
+
+	Yeah, yeah, the hell with that
+
+	crap! The World Series is goin' on
+
+	right' now an' that's therapy also!
+
+			BIG NURSE 
+
+	Let me pose a question to the
+
+	group: do any of you feel that
+
+	Mister McMurphy is perhaps imposing
+
+	his personal desires on you too
+
+	much?
+
+			MCMURPHY
+
+	What the hell does that have to do
+
+	with it? This is an important event
+
+	and I want a vote on it!
+
+			CHESWICK
+
+	Yeah, let's vote on it!
+
+			BIG NURSE
+
+	Will one more vote satisfy you?
+
+			MCMURPHY
+
+	Yeah, it'll satisfy me.
+
+			BIG NURSE 
+
+	Very well. What is it you're
+
+	proposing, Mister McMurphy?
+
+			MCMURPHY
+
+	I'm proposing a re-vote on watchin'
+
+	the ballgame!
+
+			BIG NURSE 
+
+		(to the patients)
+
+	A vote is before the group.
+
+			MCMURPHY
+
+	Okay, I wanna see the hands. I
+
+	wanna see which of you birds has
+
+	any guts.
+
+			BIG NURSE 
+
+	Everyone in favor of changing the
+
+	schedule raise his hand.
+
+The first hand to come up is Cheswick's. Then McMurphy's.
+
+Then Martini, Scanlon, Sefelt, Fredrickson, Billy and Taber.
+
+Harding doesn't vote.
+
+Big Nurse starts counting the hands.
+
+McMurphy, his face beaming, counts the hands.
+
+			MCMURPHY
+
+	That's it! We made it!
+
+			BIG NURSE
+
+	I'm sorry, Mister McMurphy, I count
+
+	only eight.
+
+			MCMURPHY
+
+	So do I!
+
+			BIG NURSE 
+
+	But there are eighteen patients on
+
+	the ward, Mister McMurphy.
+
+			MCMURPHY
+
+		(the light dawning)
+
+	You mean to tell me you're gonna
+
+	count those old birds over there?
+
+			BIG NURSE 
+
+	I'm sorry, Mister McMurphy, but you
+
+	must have a majority to change ward
+
+	policy.
+
+			MCMURPHY
+
+	Well, I'll be a son-of-a-bitch...
+
+			BILLY
+
+	B-But, M-M-Miss R-Ratched, y-you n
+
+	never c-c-counted th-their votes
+
+	before!
+
+A beat.
+
+			BIG NURSE
+
+		(losing ground)
+
+	You mean you don't want their votes
+
+	to count, Billy!
+
+			BILLY
+
+	I-I-I...
+
+			MCMURPHY
+
+	Well, screw that noise!
+
+McMurphy rises and, taking his chair, he crosses toward the
+
+television set.
+
+			BIG NURSE
+
+	Sit down, Mister McMurphy!
+
+McMurphy turns the TV on, flips the channel, then sits and
+
+waits for a picture.
+
+			BIG NURSE (CONT'D)
+
+	I want you to turn the television
+
+	off and return to your place!
+
+A picture swirls onto the TV screen. The ballgame is in
+
+progress (documentary footage to be used).
+
+Martini rushes over and joins McMurphy. Scanlon follows hot
+
+on his heels as --
+
+			MCMURPHY
+
+	Hoo-wee! Man, all I need me now is
+
+	a can of beer and a red-hot.
+
+Cheswick gets up and starts across when --
+
+			BIG NURSE
+
+	Sit down, Mister Cheswick.
+
+Cheswick stops and stands there, helpless to move.
+
+			CHESWICK
+
+	Mack...
+
+McMurphy is deep into the game.
+
+INSERT - TV SCREEN
+
+On the screen a great play is taking place, and at the
+
+breathtaking moment the TV picture swirls into a little eye
+
+of light -- then nothing.
+
+BACK TO SCENE
+
+The Acutes are left with their mouths hanging open.
+
+			BIG NURSE (V.O.)
+
+		(over loudspeaker)
+
+	I want you men to return to your
+
+	proper places. The group meeting is
+
+	not over!
+
+McMurphy continues looking at the blank TV screen as the
+
+Acutes look from McMurphy to Big Nurse, not knowing what to
+
+do next when --
+
+			MCMURPHY
+
+		(jumping up and shouting
+
+		at the blank TV screen)
+
+	A hit! It's a hit! He's rounding
+
+	first, heading for second. Here
+
+	comes the throw. He's sliding...
+
+	and... he's safe! He's safe!
+
+		(McMurphy whistles and
+
+		claps his hands)
+
+	Hoo-wee! Whatta game! Whatta game!
+
+	Come on, Koufax! Strike 'em out!
+
+The Acutes are stunned at McMurphy's outburst.
+
+			BIG NURSE (V.O.)
+
+		(over loudspeaker)
+
+	Mister McMurphy, you are
+
+	deliberately violating the
+
+	rules!...
+
+			MCMURPHY
+
+	He's into his wind-up. Here comes
+
+	the pitch. Strike on the inside
+
+	corner!
+
+Sefelt, Fredrickson, Billy and Taber get up and cross toward
+
+the TV. Harding is the only one who doesn't join them.
+
+			BIG NURSE (V.O.)
+
+		(over loudspeaker)
+
+	You men remain seated!
+
+			MCMURPHY
+
+		(focusing in on TV screen)
+
+	He's into his wind-up. Here's the
+
+	next pitch... and it's a hit! It's
+
+	a hit!
+
+			MARTINI
+
+		(jumping up and down)
+
+	I saw thum! I saw thum!
+
+			SCANLON
+
+	Me, too! Me, too!
+
+			SEFELT
+
+	Yes, I see it! I see it!
+
+			MCMURPHY
+
+		(on his feet, shouting)
+
+	Ya-hoo, let's'play ball!
+
+The other Acutes pick up on McMurphy and start shouting at
+
+the blank TV screen.
+
+			ACUTES
+
+	Ya-hoo! 
+
+	It's a hit! 
+
+	A triple! 
+
+	It's a home run! 
+
+	A double! 
+
+	He's out! 
+
+	Whadaya blind? 
+
+	He's safe by a mile! 
+
+		(AD LIB)
+
+			BIG NURSE (V.O.)
+
+		(over loudspeaker)
+
+	You boys, stop this and go to your
+
+	assignments! Mister McMurphy, I
+
+	want you to set an example...
+
+			MCMURPHY
+
+	'Kay, it's two outs, bases loaded
+
+	as Koufax steps up to the mound...
+
+	Checks the runners... goes into his
+
+	wind-up... Here comes the three-two
+
+	pitch... And it's a fly ball into
+
+	deep center. Mantle is going back.
+
+	He's going back! Back! His back is
+
+	up against the wall... and... he
+
+	catches it! He catches it!
+
+The Acutes are shouting, cheering, stomping and dancing in
+
+each other's arms.
+
+			BIG NURSE'S VOICE
+
+		(over loudspeaker)
+
+	You men stop this! Mister
+
+	Washington! Miller! Warren!
+
+Big Nurse's last words overload the intercom and the system
+
+peaks out. Big Nurse's mouth continues to work in frantic
+
+circles as Washington, Miller and Warren rush to quell the
+
+uproar.
+
+INT. SPIVEY'S OFFICE - DAY
+
+Doctor Spivey is seated behind his desk, looking over
+
+McMurphy's papers.
+
+McMurphy sits facing him.
+
+			SPIVEY
+
+	How are you feeling?
+
+			MCMURPHY
+
+	Just fine, Doc... In fact, I think
+
+	I might've put on a couple of
+
+	pounds since I got here.
+
+			SPIVEY
+
+	Good, good, and how are you getting
+
+	along on the ward?
+
+			MCMURPHY
+
+	Come on, Doc, you know as well as I
+
+	do what's been comin' down in that
+
+	loony bin.
+
+			SPIVEY 
+
+	Yes, well, Miss Ratched feels that
+
+	you're a disturbing influence on
+
+	the other patients.
+
+			MCMURPHY
+
+	Shoot, Doc, the only one I'm
+
+	disturbing is that old nurse and
+
+	her fixed ways. That's all.
+
+			SPIVEY 
+
+	Yes, that may be so, but in making
+
+	a careful study of your past
+
+	record, along with your behavior
+
+	since you arrived here, my feeling
+
+	is that you are not mentally ill
+
+	and it is going to be my
+
+	recommendation that you be returned
+
+	to Pendleton where they are better
+
+	equipped to handle your case.
+
+This is the kiss of death to McMurphy.
+
+			MCMURPHY
+
+	Come on, Doc, you must be kiddin'.
+
+			SPIVEY
+
+	I'm afraid not.
+
+			MCMURPHY
+
+	Jesus, that old nurse sure wants my
+
+	ass in a sling, don't she!
+
+			SPIVEY 
+
+	No, Mister McMurphy, it's just that
+
+	we cannot offer you the guidance
+
+	and assistance that you would
+
+	receive at Pendleton.
+
+			MCMURPHY
+
+	Guidance and assistance! That's
+
+	insane! Doc, ya gotta help me.
+
+			SPIVEY 
+
+	I'm sorry, but I can't keep you
+
+	here.
+
+			MCMURPHY
+
+	When?
+
+			SPIVEY
+
+	We'll let you know.
+
+REACTION SHOT of McMurphy.
+
+EXT. BASKETBALL COURT - DAY
+
+Washington and Warren are sitting on the grass watching
+
+Martini, Scanlon, Harding and Billy, who are positioned on
+
+the court waiting on McMurphy who is under the board with
+
+Bromden.
+
+Cheswick and the other patients hang around off court as:
+
+			MCMURPHY
+
+		(with great physical and
+
+		vocal emphasis throughout
+
+		entire scene)
+
+	Okay, Chief. This is your spot! I
+
+	don't want you to move from this
+
+	spot! Never!... 'Kay, now, take the
+
+	ball! Raise your hands, like
+
+	this...
+
+McMurphy raises his hands above his head. Bromden follows
+
+suit.
+
+			MCMURPHY
+
+	That's good! That's a good boy,
+
+	Chief! Now jump and put it in!
+
+McMurphy jumps. Bromden doesn't. McMurphy does this a couple
+
+of times. Each time Bromden remains motionless.
+
+			HARDING
+
+	He can't hear you!
+
+			MCMURPHY
+
+	I know, goddammit! You don't have
+
+	ta tell me that!
+
+			HARDING 
+
+	So why are you talking to him?
+
+			MCMURPHY
+
+	I'm not talkin' to him! I'm talkin'
+
+	to myself! It helps me think!
+
+			HARDING 
+
+	It doesn't help him.
+
+			MCMURPHY
+
+	Well, it doesn't hurt him either!
+
+		(turning to Bromden)
+
+	Does it, Chief!
+
+		(no response)
+
+	See, it doesn't hurt him.
+
+		(to Bromden)
+
+	Jump! An' put it in!
+
+McMurphy jumps. Bromden doesn't move.
+
+			HARDING
+
+	Well, I think you're just confusing
+
+	him...
+
+Bromden jumps.
+
+			MCMURPHY
+
+	Ha! Did ya see that!
+
+		(calling to Cheswick on
+
+		the sidelines)
+
+	Hey, Cheswick!
+
+			CHESWICK
+
+	Yeah, Mack?
+
+			MCMURPHY
+
+	Come here!
+
+Cheswick runs over.
+
+			CHESWICK
+
+	Yeah, Mack?
+
+			MCMURPHY
+
+	Let me get on your shoulders.
+
+			CHESWICK 
+
+	Sure, Mack...
+
+McMurphy climbs on his shoulders.
+
+			MCMURPHY
+
+	'Kay, wheel me around to the
+
+	basket... 'Kay, easy, easy. Hold
+
+	it! 'Kay, now.
+
+		(he sees Bromden has
+
+		walked away)
+
+	Hey, Chief, come back!
+
+Bromden doesn't hear.
+
+			MCMURPHY
+
+	Cheswick, go get 'im!
+
+Cheswick goes after Bromden, catches him, and McMurphy
+
+latches onto him.
+
+			MCMURPHY
+
+	Now, wheel me to the basket.
+
+Cheswick, straining under the weight of McMurphy, turns
+
+toward the basket.
+
+INT. MEN'S DORM - NIGHT
+
+as Bromden, chewing his gum, watches McMurphy ease his way
+
+out of bed and silently cross down the aisle, past the sleep
+
+patients, toward the day room.
+
+INT. DAY ROOM - NIGHT
+
+as McMurphy crosses the day room, past the nurses' station
+
+where Turkle is asleep.
+
+INT. HALLWAY - NIGHT
+
+as McMurphy crosses down the hallway and stops at the mess
+
+hall door. He tries the handle. The door is locked. McMurphy
+
+looks up at the open transom, ponders it, then jumps up and
+
+grabs the door lintel. He tries to lift himself up, but can't
+
+make it when suddenly he is lifted up to the level of the
+
+transom by Bromden.
+
+McMurphy worms his way through the transom and disappears
+
+down the other side.
+
+CAMERA HOLDS on Bromden who waits. A long beat. There is a
+
+strange HUMMING SOUND HEARD O.S. Another beat, then the door
+
+opens.
+
+McMurphy smiles at Bromden.
+
+			MCMURPHY
+
+		(pointing to the floor)
+
+	Wait here, Chief.
+
+		(more to himself as he
+
+		starts down hall)
+
+	Heh, heh, I'll show 'em who's
+
+	crazy.
+
+INT. MEN'S DORM - NIGHT
+
+McMurphy is nudging Cheswick awake.
+
+			MCMURPHY
+
+	Hey, Cheswick! Wake up!
+
+			CHESWICK
+
+		(waking up)
+
+	Yeah, Mack, what is it?
+
+			MCMURPHY
+
+	I'm leaving. Goodbye!
+
+			CHESWICK
+
+		(sitting up)
+
+	Where ya goin', Mac?
+
+			MCMURPHY
+
+	Shhh...
+
+McMurphy turns and crosses to Billy.
+
+			MCMURPHY
+
+		(waking Billy)
+
+	Hey, Billy. Billy boy, wake up and
+
+	say goodbye to your ol' buddy.
+
+			BILLY
+
+		(waking up)
+
+	W-w-w-what is it, M-M-Mac?
+
+			MCMURPHY
+
+	So long, kid.
+
+			BILLY
+
+	Wh-wh-wh-wh...
+
+			MCMURPHY
+
+	Shhh...
+
+McMurphy turns from the bewildered Billy and crosses to
+
+Martini.
+
+			MCMURPHY
+
+		(nudging Martini awake)
+
+	Psst! Hey, Martini, wake up!
+
+			MARTINI
+
+		(waking up)
+
+	Yeah, Mac?
+
+			MCMURPHY
+
+	Bye-bye.
+
+McMurphy turns to Scanlon.
+
+			MCMURPHY
+
+	Scanlon! Hey, Scanlon, wake up!
+
+			SCANLON
+
+		(waking up)
+
+	Yeah, what's up?
+
+			MCMURPHY
+
+	Shhhh. See ya around the ball park.
+
+McMurphy crosses to Fredrickson and wakes him.
+
+			FREDRICKSON
+
+		(waking up)
+
+	What? What?
+
+			MCMURPHY
+
+	So long, Freddy. Don't take any
+
+	wooden nickles.
+
+			FREDRICKSON
+
+		(sitting up)
+
+	What?
+
+			MCMURPHY
+
+	Shhh...
+
+The other patients are sitting up, some of them getting out
+
+of bed as McMurphy turns to Sefelt who is snoring. McMurphy
+
+pinches his nose and Sefelt wakes up.
+
+			MCMURPHY
+
+	Bye-bye, pussy cat.
+
+McMurphy crosses to Taber.
+
+			MCMURPHY
+
+		(waking Taber)
+
+	Up an' at 'em, Taber.
+
+			TABER
+
+		(waking up)
+
+	What's going on?
+
+			MCMURPHY
+
+	Shhhh. Time to say goodbye.
+
+McMurphy turns and crosses to Harding.
+
+			MCMURPHY
+
+	Hey, Hard-on. Wake up, Dumbo.
+
+Harding opens his eyes and looks at McMurphy.
+
+			MCMURPHY (CONT'D)
+
+	Ya owe me twenty-five bucks.
+
+			HARDING
+
+	What for?
+
+			MCMURPHY
+
+	I'm busting outta this place.
+
+			HARDING 
+
+	That's nice. Send me a post card.
+
+Harding turns his back to McMurphy.
+
+			MCMURPHY
+
+		(turning to the others who
+
+		have gathered around)
+
+	So long suckers.
+
+			BILLY
+
+	Wh-wh-where ya going, M-M-Mac?
+
+			CHESWICK
+
+	How ya gettin' out, Mac?
+
+			MCMURPHY
+
+	Shhh... That's for me to know an'
+
+	you to find out.
+
+			TABER
+
+	Bullshit. You ain't got no way out!
+
+			MCMURPHY
+
+	Oh, yeah?
+
+			TABER
+
+	Yeah!
+
+			MCMURPHY
+
+	How much ya wanna bet?
+
+			TABER (CONT'D)
+
+	Ten bucks.
+
+			MCMURPHY
+
+	You're on.
+
+		(to the others)
+
+	Let's go! An' keep it quiet.
+
+McMurphy starts down the aisle. The others follow.
+
+INT. DAY ROOM - NIGHT
+
+as McMurphy and the other patients cross the day room, past
+
+the nurses' station, where Turkle shifts in his sleep.
+
+INT. HALLWAY - NIGHT
+
+as McMurphy and the patients cross down the hallway and enter
+
+the mess hall followed by Bromden.
+
+INT. MESS HALL - NIGHT
+
+Cheswick, Bromden, Martini, Scanlon, Sefelt, Fredrickson,
+
+Billy, Taber and McMurphy, stand looking at the dumbwaiter.
+
+			BILLY
+
+	Wh-wh-what's d-d-down th-there, M-M
+
+	Mac?
+
+			TABER
+
+	Where's it go?
+
+			MCMURPHY
+
+	Out. It's the way out. So just keep
+
+	it in your minds if ya ever wanna
+
+	make use of it.
+
+			TABER 
+
+	I don't believe it...
+
+			FREDRICKSON
+
+	Neither do I...
+
+			SEFELT
+
+	Me too...
+
+			MARTINI
+
+	I wanna see it...
+
+			SCANLON
+
+	Me too! Me too!
+
+			BILLY
+
+	Y-y-yeah, p-p-prove it, M-M-Mac!
+
+			CHESWICK
+
+	Yeah, show us, Mac!
+
+			MCMURPHY
+
+	Shhh. Wait a minute. You guys are
+
+	gonna screw up my plans. So just
+
+	gone on back to bed like nothin'
+
+	happened.
+
+			MARTINI
+
+	No! I wanna go!
+
+			SCANLON
+
+	Me too! Me too!
+
+Several of the others chime in.
+
+			MCMURPHY
+
+	Shhh. Hold it down! I'll take you
+
+	guys down, but ya gotta come right
+
+	back up! 'Kay?
+
+			PATIENTS
+
+		(simultaneously)
+
+	'Kay, Mac!
+
+			MCMURPHY
+
+	Shhh... Remember this is a
+
+	privilege, so I don't want none of
+
+	you goons fuckin' up. Kay?
+
+			PATIENTS
+
+		(simultaneously)
+
+	'Kay, Mac!
+
+			MCMURPHY
+
+	'Kay, let's see...
+
+		(he checks the men out)
+
+	Cheswick first ... then Billy...
+
+	Martini... Scanlon... Sefelt...
+
+	Fredrickson... Taber an' the
+
+	Chief... 'Kay
+
+			PATIENTS
+
+		(simultaneously)
+
+	'Kay!
+
+			MCMURPHY
+
+	Shhh!
+
+INT. TUNNEL - NIGHT
+
+The patients are waiting in the tunnel, which is used as an
+
+underground connecting system to the institutional buildings,
+
+as McMurphy gets out of the dumbwaiter.
+
+			MCMURPHY
+
+		(looking around)
+
+	Where's Martini and Scanlon?
+
+			CHESWICK
+
+		(pointing)
+
+	They went that way.
+
+			MCMURPHY
+
+	Charlie, ya can't ever let those
+
+	goons outta ya sight! Understand!
+
+			CHESWICK
+
+	Right, Mack!
+
+Far down the tunnel Martini and Scanlon are briefly SEEN as
+
+they skitter across the tunnel.
+
+			SEFELT
+
+	There they are!
+
+			MCMURPHY
+
+	Hey, Martini! Psst! Scanlon! Ya
+
+	dumb goons, come back here!
+
+		(starting after them)
+
+	Come on, let's get 'em!
+
+McMurphy starts down the tunnel. The others don't move.
+
+			MCMURPHY
+
+		(calling back)
+
+	Come on, you guys, let's stick
+
+	together.
+
+The Acutes follow McMurphy. They run down to the intersection
+
+and turn the corner.
+
+No sign of Martini or Scanlon.
+
+Somewhere a DOOR is HEARD SLAMMING CLOSED and FOOTSTEPS are
+
+HEARD coming their way.
+
+			TABER
+
+	Somebody's coming!
+
+			MCMURPHY
+
+	Shhh!
+
+		(he listens then)
+
+	This way!
+
+McMurphy hustles the men round the corner as two aides
+
+pushing a gurney come wheeling by.
+
+			BILLY
+
+	I-I-I th-th-think we sh-sh-should
+
+	go back!
+
+			SEFELT
+
+	Yeah, my feet are gettin' cold.
+
+			FREDRICKSON
+
+	Mine, too!
+
+			MCMURPHY
+
+	We'll go back just as soon as we
+
+	find those guys! 'Kay?
+
+			ACUTES
+
+		(simultaneously)
+
+	'Kay, Mack!
+
+The band takes off down tbe tunnel, calling out in loud
+
+whispers, "Martini! Scanlon! Psst! Where are you?"
+
+Down one tunnel and up another -- till they turn a corner and
+
+see an open door.
+
+They go to the door and peer out. Steps lead up to the
+
+outside world.
+
+			MCMURPHY
+
+	They must be up there!
+
+			CHESWICK
+
+	Yeah!
+
+			BILLY
+
+	L-L-Let-'s go b-back!
+
+Several Acutes express the same desire.
+
+			MCMURPHY
+
+	Come on, don't crap out on me now.
+
+	We got two buddies out there!
+
+			BILLY (CONT'D)
+
+	I-I d-d-don't know! M-M-Miss R
+
+	Ratched g-g-g-g...
+
+			MCMURPHY
+
+	Fuck Miss Ratched!
+
+McMurphy crosses out and up the stairs.
+
+The Acutes look at each other. A beat, then:
+
+			MCMURPHY (O.S.)
+
+	Wow! Look at this!
+
+The Acutes don't move.
+
+			MCMURPHY (O.S.)
+
+	Hey, you guys, come on up here and
+
+	take a gander at this!
+
+The Acutes inch their way out the door and up the steps.
+
+EXT. INSTITUTIONAL GROUNDS - NIGHT
+
+as the Acutes join McMurphy to see the moon low in the sky,
+
+silhouetting the trees and buildings, and Martini chasing
+
+Scanlon across the wet grounds.
+
+			CHESWICK
+
+	There they are!
+
+			MCMURPHY
+
+		(his attention elsewhere)
+
+	Hey, what's that?
+
+			SEVERAL ACUTES
+
+		(simultaneously)
+
+	What? Where?
+
+			MCMURPHY
+
+		(pointing)
+
+	Over there!
+
+			SEFELT
+
+		(squinting)
+
+	I don't know...
+
+			BILLY
+
+	I-i-it's a b-b-bus!
+
+			MCMURPHY
+
+	A bus?
+
+			BILLY (CONT'D)
+
+	Y-y-yes, a b-b-bus!
+
+			MCMURPHY
+
+	Well, shoot, man! Whadaya say we
+
+	take ourselves a little spin around
+
+	the place.
+
+			TABER
+
+	We'll get in trouble...
+
+			CHESWICK
+
+	Yeah, maybe we ought to go back,
+
+	Mac...
+
+			FREDRICKSON
+
+	Yeah, my feet are cold...
+
+			SEFELT
+
+	My feet hurt...
+
+			BILLY
+
+	I-I-I'm w-w-wet...
+
+			MCMURPHY
+
+		(walking towards the bus)
+
+	Go ahead! Go back!
+
+The Acutes cast frightened looks at each other then go after
+
+McMurphy. Martini and Scanlon join them.
+
+			BILLY (CONT'D)
+
+	H-H-How d-d-do we g-g-get b-back?
+
+McMurphy has reached the bus and begins checking it out.
+
+			TABER
+
+	Yeah, take us back to the
+
+	dumbwaiter, Mac.
+
+			MCMURPHY
+
+	I'm not going back in there. I told
+
+	ya this was a one way trip. Now
+
+	stand aside.
+
+McMurphy lifts the hood to the bus and begins jumping the
+
+wire. The Acutes stand helplessly by as the engine turns over
+
+and catches. McMurphy closes the hood and gets on the bus to
+
+a chorus of, "Please, Mac, take us back... Please..."
+
+McMurphy puts the bus in gear and the bus starts moving. The
+
+Acutes start running alongside of the bus calling out for
+
+McMurphy to take them back.
+
+			MCMURPHY
+
+		(shouting to them)
+
+	Get on assholes!
+
+They leap on.
+
+EXT. INSTITUTIONAL GROUNDS - ANOTHER ANGLE - NIGHT
+
+As the bus makes a full circle and stops alongside of
+
+Bromden.
+
+			MCMURPHY
+
+		(waving Bromden onto the
+
+		bus)
+
+	Come on, Chief! Let's go!
+
+Bromden boards the bus. McMurphy lets out a war whoop as he
+
+closes the door and starts the bus moving.
+
+EXT. INSTITUTIONAL GROUNDS - NIGHT
+
+as the bus picks up speed and churns across the grounds.
+
+INT. BUS - NIGHT
+
+the Acutes look out with wild-eyed excitement.
+
+EXT. INSTITUTIONAL GROUNDS - NIGHT
+
+as the bus careens out the main entrance and down the
+
+thoroughfare.
+
+INT. BUS - NIGHT
+
+as the Acutes cast worried looks at each other.
+
+EXT. HIGHWAY
+
+as the bus turns a corner past a sign that reads: 
+
+DALLES 6, SALMON CREEK 8, DEPOE BAY 11, CAPE LOOKOUT 22,
+
+PORTLAND 46
+
+INT. BUS - NIGHT
+
+McMurphy is singing at the top of his lungs.
+
+			MCMURPHY
+
+		(singing)
+
+	Your horses are hungry,
+
+	That's what she did say,
+
+	Come sit down beside me,
+
+	An' feed them some hay.
+
+	My horses ain't hungry,
+
+	They wontt eat your hay-ay-aeee...
+
+			BILLY
+
+	H-Hey, M-Mack.
+
+			MCMURPHY
+
+	Yeah, kid?
+
+			BILLY 
+
+	W-W-Where we g-g-going?
+
+			CHESWICK
+
+	Yeah, where we going?
+
+			MCMURPHY
+
+	I dunno. Where do ya wanna go?
+
+			MARTINI
+
+	I wanna go home!
+
+			SCANLON
+
+	Yeah, it's cold!
+
+			MARTINI
+
+	I'm hungry.
+
+			TABER
+
+	Yeah, we'll miss breakfast!
+
+			MCMURPHY
+
+	Breakfast! Hell, I know just the
+
+	place where we can chow down an'
+
+	thaw out before we shoot back on
+
+	home. 'Kay?
+
+			BILLY
+
+	'K-Kay, M-Mack!
+
+			MCMURPHY
+
+		(singing)
+
+	Soo, fare-the-weel, darlin'.
+
+	I'm gone on my way,
+
+	My wagons are loaded,
+
+	My whip's in my hand...
+
+					DISSOLVE TO:
+
+EXT. DEPOE BAY - DAWN
+
+The dawn is just cracking the horizon as the bus pulls up
+
+behind a corroded tin sheet building. A sign reads: 
+
+DEPOE BAY, SEAMANIS SERVICE, SPORT FISHING, BOATS FOR CHARTER
+
+Beyond the boathouse is the dock with several fishing
+
+trawlers and beyond that -- the open sea.
+
+The door to the bus opens and McMurphy gets out.
+
+			MCMURPHY
+
+		(as he steps out of the
+
+		bus)
+
+	This is it!
+
+as McMurphy walks directly to the wall, alongside the door,
+
+lifts the edge of the siding, comes up with a key, opens the
+
+door and enters.
+
+A beat, then the lights go on inside the building.
+
+SHOT OF BUS
+
+The Acutes' faces pressed against the windows, looking out.
+
+INT. SEAMAN'S BUILDING - DAWN
+
+as McMurphy lifts a cold bottle of beer out of a Coca-Cola
+
+cooler, opens it, takes a long pull on the bottle, then
+
+crosses to the heater and turns it on.
+
+Nearby, a sign reads: ALL EQUIPMENT CAN BE RENTED
+
+On the walls are old photographs of people with their prize
+
+catches. Fishing equipment, tackle and wet weather gear crowd
+
+the room.
+
+There is a counter which McMurphy walks behind and takes a
+
+bag of potato chips off a wall rack, full of beer nuts,
+
+hostess cupcakes, etc.
+
+McMurphy eyes the keyboard to the fishing boats. Several keys
+
+are there.
+
+INSERT - KEYBOARD
+
+with the names of the fishing boats: The Lark. Mary Ann.
+
+Noel. Annabella. The Capri.
+
+INT. BUILDING DEPOE BAY - DAWN
+
+McMurphy studying the board as the Acutes stick their heads
+
+in the door. They're all miserable and cold.
+
+			MCMURPHY
+
+	Come on in an' warm up. You can put
+
+	some of that gear on to keep warm.
+
+	An' there's beer an' Coke in the
+
+	cooler an' some food over here...
+
+They hesitate.
+
+			MCMURPHY
+
+	Come on, don't be shy now, you're
+
+	among friends.
+
+The Acutes come in, Bromden bringing up the rear.
+
+Martini goes for the candy. Scanlon goes for the Coke. Sefelt
+
+and Fredrickson go for the wet weather gear and boots. The
+
+others go to the heater. Bromden stands in the middle of the
+
+room.
+
+			MCMURPHY
+
+	Why don't one of you boys help ol'
+
+	Chief there get warmed up?
+
+Billy goes to Bromden's aid as McMurphy crosses to a window
+
+and looks out.
+
+McMurphy turns and looks out the window. A long beat.
+
+			CHESWICK
+
+	When do you think we'll be going
+
+	back, Mack?
+
+			MCMURPHY
+
+		(looking out the window)
+
+	Come here a minute, Cheswick. You,
+
+	too, Sefelt. Hey, all you guys,
+
+	come over here, I wanna show you
+
+	somethin'.
+
+The Acutes cross to the window and look out, saying, "What?
+
+What is it? Whadaya lookin' at? I don't see a thing."
+
+			MARTINI
+
+	Oh, look at the pretty boat.
+
+ACUTES' POV
+
+Nestled against the dock is a trim fishing trawler,
+
+beautifully framed in the bay window.
+
+			MCMURPHY (V.O.)
+
+	Yeah, did you ever see a boat like
+
+	that? Why, I'll bet you could go
+
+	all the way to Hawaii in that boat!
+
+	Tahiti... the Philippines...
+
+	Tibet...
+
+CAMERA HOLDS on FULL SHOT of the boat.
+
+BACK TO SCENE
+
+A long beat, then we SEE the Acutes, wearing wet weather
+
+gear, complete with boots and squall hats, each man carrying
+
+soda pop, food, fishing equipment, etc., being led onto the
+
+boat by McMurphy who carries a case of beer.
+
+EXT. FISHING BOAT - DAWN
+
+as a white gorge of smoke and water pours from the stern and
+
+the boat pulls away from the dock, leaving a boiling foam of
+
+water.
+
+INT. SHIP'S BRIDGE - DAWN
+
+The entire crew is jammed into the bridge, McMurphy behind
+
+the wheel.
+
+McMURPHY'S POV
+
+as the dock and other fishing boats slip by.
+
+EXT. HARBOR JETTY - DAWN
+
+as the boat passes out of the harbor and heads for the open
+
+sea.
+
+					DISSOLVE TO:
+
+EXT. BOAT DECK - DAY
+
+The sun is up. The engine is dead. The ballgame is HEARD OVER
+
+ship's RADIO. The men are scattered over the boat. Taber and
+
+McMurphy, beer in hand, are sunning themselves, listening to
+
+the ballgame. On the stern Martini and Scanlon are trying to
+
+rig up a pole. Fredrickson gives them a hand. Billy has a
+
+line out. So does Bromden and Sefelt who is seated nearby,
+
+fishing the ocean floor when he suddenly gets a bite and
+
+looks over the side, surprised. His line goes straight down
+
+into the depths. His glasses fall off into the water. Sefelt
+
+sighs and slowly begins reeling his line in.
+
+Billy gets a strike and starts fighting the fish.
+
+			BILLY
+
+	H-H-Help!
+
+			MCMURPHY
+
+	Ease up on the star drag, keep the
+
+	tie up, up and work hell outta that
+
+	fella.
+
+Martini gets a strike and loses it. Scanlon comes up and
+
+starts to take the pole from him.
+
+			SCANLON
+
+	My turn.
+
+			MARTINI
+
+		(hanging onto the pole)
+
+	No.
+
+They start a tug of war. Fredrickson tries to break it up,
+
+when he gets a strike and his line spins out.
+
+Billy's fish breaks into the sun in a shower of silver
+
+scales, and he gets so excited he lets the end of the pole go
+
+down and the line snaps.
+
+			MCMURPHY
+
+	Up, I told you! Keep that tip up...
+
+	up! You had you one big silver
+
+	there.
+
+Fredrickson lands his salmon in a spray of scales and blood.
+
+The fish is flopping all over the deck. Billy grabs the fish
+
+and wrestles it down.
+
+Bromden lands a fish when --
+
+			SEFELT (O.S.)
+
+	Oh, my God! I see something!
+
+Everyone rushes over to Sefelt and looks down into the water.
+
+REVERSE SHOT
+
+Deep down in the water a gigantic white form slowly rises out
+
+of the depths, becoming solid, alive.
+
+			SCANLON
+
+	Jesus God...
+
+			MARTINI
+
+	What is it?
+
+			FREDRICKSON
+
+	We'll never get that on the boat.
+
+The fish is now clearly SEEN.
+
+			BILLY
+
+		(calling)
+
+	M-M-Mack! M-M-Mack!
+
+McMurphy pulls himself up.
+
+			MCMURPHY
+
+	What is it, kid?
+
+			BILLY 
+
+	C-C-Come here and l-look at th
+
+	this!
+
+McMurphy crosses down and looks over the side.
+
+			MCMURPHY
+
+	He's a big flounder. Could weigh
+
+	two, three hundred. You got to lift
+
+	him in with a winch.
+
+			FREDRICKSON
+
+	Does that mean we have to cut him
+
+	loose?
+
+			MCMURPHY
+
+	Like hell we will! We got the
+
+	muscle standing right here. All we
+
+	need is a couple gaffin' hooks and
+
+	some rope.
+
+			BILLY
+
+	I-I-I'll get them.
+
+			MARTINI
+
+	Me, too.
+
+			SCANLON
+
+	Me, too.
+
+McMurphy turns to Sefelt who is sweating under the strain.
+
+			MCMURPHY
+
+	Steady does it, Sefelt!
+
+SEFELT'S POV
+
+The massive fish is closer to the surface.
+
+					DISSOLVE TO:
+
+BACK TO SCENE
+
+All the men are standing by as gaffing hooks and rope are
+
+made ready. The fish is gaffed and slowly hauled out of the
+
+water.
+
+McMurphy and Bromden lean over, held by the others, grab the
+
+big fish by its gills and, with a heave-ho, the fish is slid
+
+in and flopped to the bottom of the boat. The men go
+
+sprawling over the big fish. There's a lot of laughter,
+
+handshakes and back-slapping going on when --
+
+			VOICE
+
+		(over bull horn)
+
+	All right! Stand to! Stand to!
+
+The men look up.
+
+REVERSE SHOT - ACUTES' POV
+
+Off the bow is a Coast Guard cutter, and on the deck stands
+
+Doctor Spivey, Washington, Warren and several other aides
+
+dressed in white.
+
+INT. HALLWAY - STATE HOSPITAL - LATE AFTERNOON
+
+as the Acutes, sunburned and covered with dried brine and
+
+fish scales, are escorted down the hallway by Washington,
+
+Warren and Doctor Spivey.
+
+It's a triumphant procession as they wheel the giant flounder
+
+with a sheet over it on a gurney, holding up their catches
+
+for all to see.
+
+McMurphy is lagging a bit behind as they pass the mess hall
+
+where workmen are busy installing a security screen over the
+
+transom, while inside the mess hall another workman is SEEN
+
+welding a lock on the dumbwaiter.
+
+INT. DAY ROOM
+
+as Big Nurse steps out of the Nurses' Station.
+
+			SPIVEY
+
+		(to Big Nurse)
+
+	Here they are, Miss Ratched. Safe
+
+	and sound!
+
+			BIG NURSE
+
+	Good. Well, boys, did you enjoy
+
+	yourselves?
+
+A burst of exuberance as the inmates hold up their fish.
+
+			FREDRICKSON
+
+		(to Sefelt)
+
+	Show her the one you caught, Jim.
+
+Sefelt whips the sheet off the big fish.
+
+			BIG NURSE
+
+	My, my...
+
+No one can find superlatives or gestures big enough to
+
+describe his catching of the big fish, "brought it in
+
+himself" AD LIB.
+
+			MCMURPHY
+
+	Yeah, ya should've come along with
+
+	us, Miss Ratched, an' gotten a
+
+	little sun on your cheeks and maybe
+
+	caught a fish or two.
+
+			BIG NURSE
+
+	Mr. McMurphy, you had no right to
+
+	take these men out with you!
+
+			MCMURPHY
+
+		(loudly)
+
+	Yeah, that's kind of crazy, ain't
+
+	it!
+
+			BIG NURSE
+
+	No, it was irresponsible!
+
+Big Nurse turns to the others, leaving McMurphy dangling.
+
+			BIG NURSE (CONT'D)
+
+		(respectfully)
+
+	That's quite a catch, Jim. Whaat
+
+	are you going to do with it?
+
+			MARTINI
+
+		(crossing to McMurphy)
+
+	Gimme a cigarette!
+
+			SEFELT
+
+	I thought I might donate it to the
+
+	mess hall.
+
+			MCMURPHY
+
+		(reaches in his pocket; he
+
+		has none)
+
+	I don't have any.
+
+AD LIBS: "They could use it." "Take a picture first."
+
+			BIG NURSE (CONT'D)
+
+	That's an excellent idea. Now, why
+
+	don't you boys place your fish on
+
+	the gurney and we'll see to it that
+
+	everyone enjoys a fresh fish
+
+	dinner.
+
+The men toss their fish on the gurney as Martini joins the
+
+group and starts hitting the others up for a cigarette. All
+
+he gets for his troubles are a series of "No," "Get lost," "I
+
+don't have any."
+
+			BIG NURSE (CONT'D)
+
+	Thank you, boys. Now if you'll just
+
+	go along with Mister Washington to
+
+	the showers, supper is in half an
+
+	hour.
+
+The inmates start AD LIBBING and laughing, "We're not
+
+hungry," as Martini sees Harding light up a cigarette and
+
+crosses to him.
+
+			MARTINI
+
+		(to Harding)
+
+	Gimme a cigarette!
+
+			HARDING
+
+	No!
+
+			MARTINI
+
+	Why not?
+
+			HARDING
+
+	I'm not running a charity ward...
+
+Martini snaps the cigarette out of Harding's hand, and takes
+
+off with Harding chasing him.
+
+Martini dashes around the room, pulling chairs in Harding's
+
+way, taking a drag on the cigarette whenever he can.
+
+Harding corners Martini, but Martini tosses the cigarette
+
+over Harding's head to Scanlon.
+
+Scanlon takes off with Harding after him, absolutely livid.
+
+Scanlon passes to Billy who passes to Martini. Everyone in
+
+the room is getting wired.
+
+Martini throws it away as Harding jumps him and nails him to
+
+the floor.
+
+			MARTINI
+
+		(holding his hands up;
+
+		empty)
+
+	All gone! All gone! Don't hit!
+
+	Don't hit!
+
+Harding starts pounding Martini's head on the floor when
+
+Billy and Scanlon jump Harding and start pounding him.
+
+Fredrickson picks up the cigarette and stands there watching
+
+the fight as he smokes the cigarette as Washington, Warren
+
+and Miller move in and start separating the men.
+
+McMurphy, watching the fight, sighs, then deliberately
+
+crosses toward the Nurses' Station.
+
+INT. NURSES' STATION - MISS PILBOW'S POV - DAY
+
+as McMurphy reaches the Nurses' Station and puts his hand
+
+through the plate glass window, his fist stopping inches from
+
+Miss Pilbow's startled face. Miss Pilbow's scream is added to
+
+the SOUND OF THE SHATTERED WINDOW.
+
+INT. DAY ROOM - DAY
+
+McMurphy reaches in and picks up his carton of cigarettes.
+
+			MCMURPHY
+
+	I'm sure sorry, ma'am. Gawd, but I
+
+	am. That window glass was so clean
+
+	I didn't even see it...
+
+McMurphy turns and crosses back to the day room, opening the
+
+carton of cigarettes as he goes.
+
+			MCMURPHY
+
+	You guys want cigarettes! Here's
+
+	the goddamn cigarettes!
+
+McMurphy starts tossing packages of cigarettes into the mass
+
+of struggling bodies as Washington grabs McMurphy by the arm
+
+and tries to wheel him away.
+
+McMurphy shakes him off and throws a pack of cigarettes in
+
+Washington's face.
+
+Washington goes after McMurphy, grabs him, and drives him
+
+against the wall, right next to Bromden, who watches as
+
+McMurphy shoves Washington away, goes into a crouch and
+
+starts circling Washington. Washington dances in and out,
+
+chipping away at McMurphy's face until McMurphy drives his
+
+fist square into Washington's white, starched chest, drawing
+
+him against the wall.
+
+McMurphy moves in for the kill.
+
+			WASHINGTON
+
+	Warren! Miller!
+
+The Acutes have stopped fighting and are watching.
+
+McMurphy tags Washington, then is grabbed from behind by
+
+Warren, who pulls him back.
+
+Washington moves in and goes to work on McMurphy, when
+
+Bromden grabs Washington, from behind, in a bear hug.
+
+Miller jumps on Bromden's back. Bromden, still holding
+
+Washington, backs up into the wall, squashing Miller, who
+
+screams out.
+
+EXT. HALLWAY TO DISTURBANCE WARD - LATE AFTERNOON
+
+as McMurphy, bruised from the fight, and Bromden, handcuffed
+
+to a special belt, wait while an aide unlocks the first of a
+
+double set of heavy security doors.
+
+The first door is locked, leaving McMurphy, Bromden, and the
+
+three aides crammed in the small space between the two doors
+
+while another aide opens the second door and McMurphy and
+
+Bromden step through, followed by the aides.
+
+INT. DISTURBANCE WARD - LATE AFTERNOON
+
+As the aide locks the door behind them, the other aides lead
+
+Bromden and McMurphy toward a bench, where they unshackle
+
+them.
+
+			AIDE
+
+		(pointing to a bench)
+
+	Wait over there...
+
+The three aides go down the hall, leaving McMurphy and
+
+Bromden who sit and look at their new surroundings. There is
+
+a man sitting next to them.
+
+McMURPHY'S POV
+
+The architecture is the same as the ward we left below, but
+
+it is the atmosphere that is different. A heaviness pervades
+
+all. Heavily sedated patients sit isolated from each other.
+
+Others stand shifting from one foot to the other, while
+
+others walk up and down the hallway, their locomotive powers
+
+not unlike that of Parkinson's Disease (caused by too much
+
+sedation).
+
+Suddenly, one patient gets up, speaking very angrily,
+
+shouting incoherently at no one; he crosses the hall and
+
+enters a side room. An aide goes in after him. A long beat,
+
+then the aide comes out with the patient and gently leads him
+
+back to his seat, talking softly to the man.
+
+Further down the hallway, a gurney is wheeled out of the east
+
+room with a patient lying on it, out cold; he is wheeled
+
+further down the hall to the men's dorms, where he is left to
+
+sleep it off.
+
+Two aides come out of the EST room and head in McMurphy's
+
+direction, where one of the aides motions to the patient
+
+sitting next to McMurpby.
+
+			AIDE (CONT'D)
+
+		(approaching him very
+
+		gently)
+
+	Come on, Joey... this isn't going
+
+	to hurt you... good for you... make
+
+	you feel better...
+
+The patient clings to the bench, terrified, weeping.
+
+The aides peel him off the bench and escort him down the hall
+
+to the EST room.
+
+ANOTHER ANGLE
+
+As McMurphy watches the patient go, he takes out a package of
+
+gum. Takes a stick for himself and gives Bromden one.
+
+McMurphy turns back to his own thoughts.
+
+			BROMDEN
+
+	Thank you.
+
+McMurphy looks up. A long beat.
+
+			MCMURPHY
+
+	Say it again.
+
+			BROMDEN
+
+	Thank you.
+
+Another beat.
+
+			MCMURPHY
+
+	Say... God Bless America!
+
+			BROMDEN
+
+	God Bless America.
+
+			MCMURPHY
+
+		(slapping his thigh)
+
+	Goddammit, you sly son-of-a-bitch!
+
+	Does anybody else know?
+
+			BROMDEN 
+
+	No.
+
+			MCMURPHY
+
+	Shit! This is too much!
+
+		(his mind going a mile a
+
+		minute)
+
+	Chief, I tell you we're gonna bust
+
+	outta this place an' make it all
+
+	the way to Canada before they know
+
+	what bit 'em.
+
+			BROMDEN 
+
+	Ca-na-da...
+
+			MCMURPHY
+
+	Ya like that, Chief, huh?
+
+			BROMDEN
+
+	Yeah...
+
+			MCMURPHY
+
+	Yeah, well, well, well. 'Bout time
+
+	the rest of the world got a gander
+
+	at Big Chief Bromden cuttin' down
+
+	the boulevard, stopping just long
+
+	enough for virgins... Oh, man, I
+
+	tell you, I tell you, you'll have
+
+	women trippin' you and beating you
+
+	to the floor...
+
+			BROMDEN
+
+	Ca-na-da...
+
+			MCMURPHY
+
+	Shhh, Chief, don't talk. Never
+
+	talk! Remember, this is just
+
+	between you an' me. Do ya
+
+	understand?
+
+Bromden nods.
+
+			NURSE ITSU (O.S.)
+
+	Mister McMurphy.
+
+McMurphy turns to see Nurse Itsu. The two aides are standing
+
+behind her.
+
+			MCMURPHY
+
+		(recognizing a long-lost
+
+		friend)
+
+	Hey, how ya doin'?
+
+			NURSE ITSU
+
+	Fine, thank you.
+
+		(offering pills)
+
+	Here, please take these.
+
+			MCMURPHY
+
+	What are they?
+
+			NURSE ITSU
+
+	To help you relax... please...
+
+McMurphy takes the pills and downs them. Bromden takes his
+
+pills.
+
+			NURSE ITSU (CONT'D)
+
+	Please take off your shoes.
+
+McMurphy takes off his shoes.
+
+			NURSE ITSU (CONT'D)
+
+	Please follow me.
+
+			MCMURPHY
+
+		(rising, thumbs up)
+
+	You an' me, Chief.
+
+McMurphy, flanked by the two aides, follows Nurse Itsu to the
+
+EST room.
+
+			MCMURPHY
+
+		(to Itsu)
+
+	You know, I never got your name.
+
+			NURSE ITSU
+
+		(stopping at the door)
+
+	Miss Itsu.
+
+		(indicating the room)
+
+	In here, please.
+
+			MCMURPHY
+
+	You comin' in to hold my hand?
+
+			NURSE ITSU
+
+	No...
+
+			MCMURPHY
+
+	Yeah... Well, see ya around, Itsu.
+
+Itsu smiles at McMurphy.
+
+			MCMURPHY
+
+	Yeah...
+
+McMurphy gives Bromden one last wave and goes in.
+
+Bromden watches the door close behind McMurphy.
+
+INT. EST ROOM - LATE AFTERNOON
+
+There are four other aides in there, standing around an empty
+
+gurney.
+
+A DOCTOR is at the head of the gurney, a NURSE alongside of
+
+him.
+
+			MCMURPHY
+
+		(as he enters)
+
+	Hi...
+
+McMurphy looks around at the six aides.
+
+			MCMURPHY
+
+	You boys can take a cigarette break
+
+	now...
+
+The Nurse smiles at him.
+
+			DOCTOR
+
+	That's all right, Mister McMurphy,
+
+	just climb on the bed and lie
+
+	down...
+
+			MCMURPHY
+
+	Whatever you say, Doc...
+
+McMurphy climbs on the bed and lies down.
+
+The Doctor moves around to the side of the bed and takes
+
+McMurphy's pulse, while the Nurse dips her fingers into a jar
+
+of salve.
+
+			DOCTOR
+
+		(to McMurphy)
+
+	This won't hurt you at all...
+
+			MCMURPHY
+
+	Uh, uh...
+
+The Nurse starts applying salve to McMurphy's temples.
+
+			MCMURPHY
+
+	What's that for?
+
+			NURSE
+
+	Conductant.
+
+			MCMURPHY
+
+		(smiling up at her)
+
+	Surely, goodness and mercy will
+
+	follow this, eh, honey?
+
+			DOCTOR
+
+		(holding a mouthpiece)
+
+	Please, put this in your mouth...
+
+McMurphy takes the bit in his teeth. The Doctor moves back to
+
+the head of the gurney and places the thongs on McMurphy's
+
+temples.
+
+The Doctor nods to the six aides, who move in and gently
+
+place their hands, in a very professional manner, on
+
+McMurphy's knees, hips and shoulders. Once set, the Doctor
+
+turns to his controls.
+
+SHOT OF McMURPHY
+
+as he looks around, not nearly as scared as he is mystified
+
+by the whole process, when suddenly, without warning,
+
+McMurphy is hit by the shock. His face is a contorted mask of
+
+surprise and pain. His whole body caught in a sudden spasm. A
+
+moment of rigidity, then McMurphy passes out and his body
+
+relaxes. Another moment, then a series of violent body spasms
+
+begin flowing down his body. Now the aides' function is very
+
+clear, as they press down, holding McMurphy firmly to the
+
+gurney, until the last spasm subsides.
+
+					SLOW FADE OUT
+
+					TO:
+
+FADE IN:
+
+INT. DAY ROOM - DAY
+
+A Group Meeting is in progress. Doctor Spivey is there.
+
+			BIG NURSE
+
+		(to Sefelt)
+
+	It's been brought to my attention
+
+	that you're giving Mister
+
+	Fredrickson your medication, aren't
+
+	you, Mister Sefelt?
+
+			SEFELT
+
+	It's the Dilantin that makes my
+
+	gums soft!
+
+			BIG NURSE
+
+	Now, Jim, you must be honest with
+
+	yourself.
+
+At the end of the hall, the door opens and McMurphy and
+
+Bromden enter the visitors' room, accompanied by Washington
+
+and Warren. They cross to the security gate, open it and pass
+
+into the hallway.
+
+Washington and Warren disappear into a room, leaving McMurphy
+
+and Bromden, who walk slowly towards the day room.
+
+The Group Meeting continues over as Fredrickson raises his
+
+hand.
+
+			BIG NURSE (CONT'D)
+
+	Yes, Mister Fredrickson?
+
+			FREDRICKSON
+
+	I wanna know why the dorm has to be
+
+	locked in the daytime and on
+
+	weekends?
+
+			TABER
+
+	Yeah, why can't a fellow even have
+
+	the weekends to himself?
+
+			CHESWICK
+
+		(standing up)
+
+	Yeah, whadabout our cigarettes?
+
+			BIG NURSE
+
+	Sit down, Mister Cheswick, and wait
+
+	your turn!
+
+He sits.
+
+			BIG NURSE (CONT'D)
+
+	If the dorms were left open, you
+
+	would just return to bed after
+
+	breakfast...
+
+			FREDRICKSON
+
+	So what? Is it a mortal sin? I
+
+	mean, normal people get to sleep
+
+	late on weekends...
+
+			BIG NURSE
+
+	With few exceptions, time spent in
+
+	the company of others is
+
+	therapeutic, while every minute
+
+	spent brooding alone only increases
+
+	separation.
+
+			CHESWICK
+
+		(jumping up as he sees
+
+		McMurphy)
+
+	Mack!
+
+Everyone looks at McMurphy and Bromden.
+
+Bromden is as he always was, as McMurphy slowly drags himself
+
+into the day room. He looks like a zombie as he takes the
+
+room in. Then, suddenly, he slaps his thigh.
+
+	McMURPHY
+
+	Hey, hey, you ding-a-lings, you
+
+	creeps, you goons...
+
+He enters the room doing a jig. The Acutes' faces light up.
+
+			MCMURPHY
+
+	I got ten thousand watts and hot to
+
+	trot. First woman takes me on is
+
+	gonna light up like a pinball
+
+	machine an' pay off in silver
+
+	dollars...
+
+McMurphy does a full circle of the room, greeting the
+
+Chronics. But it's an effort for him. His voice is slower,
+
+his footwork slightly out of sync.
+
+			BILLY
+
+	H-h-how's it g-g-going, Mack?
+
+			MCMURPHY
+
+	Just fine, Billy boy, just fine.
+
+	Full of piss an' vinegar! They
+
+	checked my plugs and cleaned my
+
+	points...
+
+			BIG NURSE
+
+	Mister McMurphy.
+
+			MCMURPHY
+
+		(turning)
+
+	Yes, ma'am?
+
+			BIG NURSE
+
+	Welcome back.
+
+			MCMURPHY
+
+	Thank you, ma'am.
+
+			BIG NURSE
+
+	I hope everything is settled.
+
+			MCMURPHY
+
+	Ma'am, I'm as gentle as a puppy
+
+	dog. Why, I haven't licked the tar
+
+	out of an aide for two weeks! Hi
+
+	ya, Doc!
+
+Spivey greets McMurphy.
+
+			BIG NURSE 
+
+	Good. Why don't you join us?
+
+			MCMURPHY
+
+	Why, thank you, ma'am...
+
+		(he gets a seat and sits
+
+		heavily)
+
+	Whew. Man, I tell you, that place
+
+	up there is somethin' else!
+
+		(pulling it together)
+
+	Well, ya boys been practicin' up
+
+	for the big game?
+
+		(no response)
+
+	I figured as much...
+
+			BILLY
+
+	W-W-We h-heard y-you w-were n-never
+
+	c-c-coming back!
+
+			MCMURPHY
+
+	Yeah, well, let me tell ya
+
+	somethin'... While I was up there
+
+	gettin' in-lightened, I came up
+
+	with one hellava plan...
+
+A great sadness suddenly sweeps over McMurphy's face and he
+
+breaks off.
+
+			BILLY
+
+	Wh-wh-what p-plan, M-Mack!
+
+No response from McMurphy.
+
+			HARDING
+
+	What's your plan, Mack?
+
+			MCMURPHY
+
+		(coming out of it)
+
+	Plan?... Oh, yeah, the plan...
+
+	Yeah...
+
+McMurphy gets up and crosses to the window, where he joins
+
+Bromden who is looking out the window.
+
+REACTION SHOT of the others as they look at McMurphy and each
+
+other with quizzical looks.
+
+INT. GYMNASIUM - DAY
+
+On the court both teams are lined up taking photographs for
+
+the local newspaper. The bulb pops a few times.
+
+			PHOTOGRAPHER
+
+		(wrapping it up)
+
+	Thank you, boys.
+
+The line breaks up. McMurphy crosses to Big Nurse, who sits
+
+in the front row.
+
+It's the big Saturday game between the Acutes and Aides, as
+
+spectators enter the gymnasium already half-filled with male
+
+and female patients, staff members and visitors.
+
+Doctor Spivey stands nearby at the timers' table, basketball
+
+in hand, whistle around his neck, talking to the timer.
+
+			MCMURPHY
+
+	Miss Ratched, would you please save
+
+	a space for my aunt? She's comin'
+
+	down from Portland.
+
+			BIG NURSE
+
+	Certainly, Mister McMurphy, with
+
+	pleasure.
+
+			MCMURPHY
+
+	Thank you, ma'am...
+
+O.S. the WHISTLE BLOWS.
+
+			MCMURPHY
+
+	Gotta go now, ma'am...
+
+			BIG NURSE
+
+	Yes. Good luck, Mister McMurphy.
+
+			MCMURPHY
+
+	Thank you, ma'am.
+
+McMurphy crosses onto the court. Big Nurse watches him go.
+
+BASKETBALL COURT
+
+Doctor Spivey is at half-court, basketball in hand as the
+
+players take up their positions: Washington faces McMurphy
+
+for the jump at center. Harding and Billy are playing guard
+
+with Warren and Miller on them. Martini and Scanlon are in
+
+the forward position, with the two white Aides covering them.
+
+The other Acutes sit on the bench as substitutes.
+
+			MCMURPHY
+
+		(to Washington)
+
+	Hey, Sam, bet ya two bucks ya lose.
+
+			WASHINGTON
+
+	Shit, man, tha' ain't even worth
+
+	considerin'.
+
+			MCMURPHY
+
+	How 'bout twenty?
+
+			WASHINGTON
+
+	Now you talkin'.
+
+			MCMURPHY
+
+	Bet!
+
+			WASHINGTON
+
+	Bet you ass...
+
+			MCMURPHY
+
+		(to Spivey)
+
+	You're a witness, Doc!
+
+			SPIVEY
+
+	Me? I didn't hear a thing! Let's
+
+	play ball!
+
+Spivey checks the court, then blows the whistle as he tosses
+
+the ball into the air.
+
+Washington taps the ball to Warren, who passes to Miller, who
+
+hands off to Washington, who goes up for a layup. Two points.
+
+The Acutes haven't even moved from their spots. The
+
+scoreboard reads: AIDES 2 PATIENTS 0.
+
+			MCMURPHY
+
+		(taking the ball out)
+
+	Come on, wake up, you ding-a-lings.
+
+	The game is on.
+
+The Acutes snap to and McMurphy passes the ball into Harding,
+
+who fiercely dribbles down court, McMurphy running alongside
+
+him.
+
+			MCMURPHY
+
+	Pass the ball, Harding...
+
+		(no pass)
+
+	Don't hang onto it...
+
+		(no response)
+
+	Pass it, goddammit!
+
+Harding dribbles into the corner and finds himself bottled in
+
+by two Aides.
+
+			MCMURPHY
+
+	Harding, here, over here!
+
+The ball is snagged from Harding's hands by an Aide, who
+
+passes it down court to another Aide, who turns and makes
+
+another basket.
+
+Scoreboard: AIDES 4 PATIENTS 0
+
+			MCMURPHY
+
+		(to Harding)
+
+	Ya deaf! I said pass the ball!
+
+			HARDING
+
+	What are you talking about???
+
+	Everybody was covered!!! Everybody
+
+	was covered!!!
+
+			MCMURPHY
+
+	I was open! Come on, let's play
+
+	ball!
+
+McMurphy and Harding turn to see Martini, down court, passing
+
+the ball into Billy.
+
+			WASHINGTON
+
+		(slapping his hands)
+
+	Gimme tha' ball!
+
+Billy panics and hands the ball to Washington, who turns
+
+around and makes another basket. Score: AIDES 6 PATIENTS 0.
+
+McMurphy and Harding run down court, McMurphy taking the ball
+
+away from Martini, who would like to bring it in.
+
+			MCMURPHY
+
+		(to Washington)
+
+	What kind of crap is that???
+
+			WASHINGTON (CONT'D)
+
+	Jus' playin' the game, sucker...
+
+Washington chuckles and trots on down court.
+
+			MCMURPHY
+
+		(to Martini)
+
+	Get down there where ya belong,
+
+	Martini. You, too, Scanlon.
+
+		(tosses ball to Harding)
+
+	You take it out, Harding!
+
+Harding takes the ball and passes it in to McMurphy, who
+
+turns and dribbles down court exactly like Harding did.
+
+			HARDING
+
+		(running alongside
+
+		McMurphy)
+
+	Pass the ball!
+
+		(no response)
+
+	Pass it!
+
+		(no response)
+
+	Pass it! Pass it! I'm open,
+
+	McMurphy, pass the ball!
+
+McMurphy stops dead in his tracks and flings the ball at
+
+Harding. The ball bounces off Harding's head and goes out of
+
+bounds. The WHISTLE BLOWS. Harding spins a few times.
+
+			MCMURPHY (O.S.)
+
+	Harding, get back here!
+
+Harding turns to see the other team go by. They score another
+
+basket. Score: AIDES 8 PATIENTS 0.
+
+Billy takes the ball and passes into McMurphy, who turns to
+
+see CANDY enter the gym, with her friend, ROSE.
+
+			MCMURPHY
+
+		(calling out)
+
+	Candy. Candy, over here.
+
+		(to Doctor Spivey)
+
+	Hey, Doc, time out.
+
+			SPIVEY
+
+		(blowing his whistle)
+
+	Time out!
+
+McMurphy tosses the ball to Spivey, then crosses the court to
+
+Candy and Rose, who have had a couple of drinks on the way
+
+down.
+
+			CANDY
+
+	Mack, you sonofabitch, you ol'
+
+	fucker, how've you been?
+
+			MCMURPHY
+
+		(swinging her around in
+
+		his arms)
+
+	Terrific, baby, terrific!
+
+		(to Rose)
+
+	Hi ya doin', Rose?
+
+			ROSE
+
+	Okay, Mack!
+
+		(looking around)
+
+	Whoowe, Candy girl, are we in an
+
+	insane asylum or ain't we?
+
+			MCMURPHY
+
+		(to Candy)
+
+	How's your ass been holdin' up,
+
+	honey?
+
+Candy pokes her ass at McMurphy. He gives it a squeeze. O.S.
+
+a WHISTLE BLOWS.
+
+			MCMURPHY
+
+	Come on, girls, we're holding up
+
+	the game!
+
+McMurphy leads the two ladies across the court.
+
+The entire gymnasium is riveted on the three of them. As they
+
+reach Big Nurse:
+
+			MCMURPHY
+
+	Miss Ratched, this is my Aunt Candy
+
+	and her friend Rose...
+
+Greetings are exchanged.
+
+			MCMURPHY
+
+	Miss Ratched was kind enough to
+
+	save you ladies a seat...
+
+The two ladies wedge themselves in next to Big Nurse. O.S.
+
+the WHISTLE BLOWS.
+
+			MCMURPHY
+
+	Talk to ya at half time!
+
+McMurphy turns and crosses onto the court.
+
+			CANDY
+
+		(calling after him)
+
+	Sock it to 'em, kid!
+
+			ROSE
+
+		(taking in the players)
+
+	Are they all crazies?
+
+			BIG NURSE
+
+	No.
+
+			ROSE
+
+	Oh, just those guys dressed in
+
+	white?
+
+			BIG NURSE
+
+	No, miss, it's the other way
+
+	around.
+
+			ROSE
+
+	Well, you could've fooled me.
+
+On the court, McMurphy throws the ball to Martini.
+
+Martini throws the ball to McMurphy.
+
+McMurphy throws the ball back to Martini.
+
+Martini throws the ball into the stands.
+
+The WHISTLE BLOWS O.S.
+
+			MCMURPHY
+
+	Whadaya doin', there's no one
+
+	there!
+
+			MARTINI
+
+	I saw 'em! I saw 'em.
+
+			HARDING (O.S.)
+
+		(shouting)
+
+	Mack, get back here!
+
+McMurphy turns to see the other team go by and score a
+
+basket.
+
+Billy passes the ball into MeMurphy.
+
+			MARTINI
+
+	Gimme the ball!
+
+			MCMURPHY
+
+		(holding the ball)
+
+	Okay, Martini. That's okay. Now you
+
+	watch me.
+
+McMurphy dribbles the ball down the sideline. Stops.
+
+Goes into his routine of ball tricks: faking one way, then
+
+the other, over his head, under his legs, finally ending on a
+
+pass behind his back which goes straight into Washington's
+
+hands. Washington dribbles down court for an easy layup.
+
+Score: AIDES 10 PATIENTS 0
+
+			MCMURPHY
+
+		(to Spivey)
+
+	Time out!
+
+			SPIVEY
+
+		(blowing his whistle)
+
+	Time out!
+
+			MCMURPHY
+
+		(shouting to Timer)
+
+	Replacement coming in! Harding out!
+
+McMurphy crosses to Bromden, takes his hand, and leads him
+
+onto the court and under the Acutes' basket, where he
+
+maneuvers him into the proper position. Then McMurphy raises
+
+his hands above his head and Bromden follows suit.
+
+			MCMURPHY
+
+		(starting back up court)
+
+	Time in!
+
+		(sees Harding still on
+
+		court)
+
+	Hold it! Time out!
+
+		(to Harding)
+
+	I said Harding out!
+
+			HARDING
+
+	I refuse!
+
+			MCMURPHY
+
+	I said out!
+
+			HARDING
+
+		(casting a quick look at
+
+		his wife)
+
+	No!
+
+			MCMURPHY
+
+	I'm the coach!
+
+			HARDING
+
+	I just started!
+
+			MCMURPHY
+
+	You can come back later!
+
+			HARDING
+
+	I don't trust you!
+
+			MCMURPHY
+
+	(looking for another victim)
+
+	Scanlon out!
+
+			SCANLON
+
+	No!
+
+			MCMURPHY
+
+	Martini out!
+
+			MARTINI
+
+	No!
+
+McMurphy looks at Billy.
+
+			BILLY
+
+	I-I-I-I-I'll g-g-g-go, M-M-Mack...
+
+			MCMURPHY
+
+	Good boy, thank you, Billy.
+
+Billy goes off and sits by Big Nurse. Now, the lineup on the
+
+bench is Billy, Big Nurse, Candy and Rose.
+
+Spivey blows the whistle.
+
+Under the Aides' basket, Harding passes the ball into
+
+McMurphy, who dribbles to half court, takes his mark, and
+
+lobs the ball over the outstretched arms of the Aides right
+
+into Bromden's waiting hands. Bromden turns and slams the
+
+ball into the basket.
+
+The crowd goes bananas. Score: AIDES 10 PATIENTS 2
+
+Bromden walks in majestic dignity the full length of the
+
+court and takes up his position under the Aides' basket,
+
+while McMurphy and his teammates have been putting tremendous
+
+pressure on the Aides, not allowing them to pass the ball in.
+
+As soon as McMurphy sees that Bromden is firmly set, hands
+
+held up, under the Aides' basket, McMurphy turns and runs
+
+down court, followed by the other Acutes, where they take up
+
+their defensive position.
+
+Washington and the Aides easily bring the ball down court,
+
+work themselves into position, and take a shot at the basket,
+
+which Bromden swats aside.
+
+Each Aide gets a shot at the basket, and each time Bromden
+
+swats it aside; sending the last swat into McMurphy's waiting
+
+hands.
+
+McMurphy dribbles the ball up court, where he runs into heavy
+
+pressure from Washington.
+
+			HARDING
+
+		(off to the side of
+
+		McMurphy)
+
+	McMurphy, pass the ball!
+
+McMurphy passes the ball to Harding and cuts toward the
+
+basket.
+
+			MCMURPHY
+
+		(as he cuts past Harding)
+
+	Harding, pass the ball!
+
+Harding ignores McMurphy, as he runs by, and throws the ball
+
+to Bromden, who turns and slams the ball into the basket.
+
+The crowd goes bananas.
+
+Score: AIDES 10 PATIENTS 4
+
+			CANDY
+
+		(at the top of her lungs)
+
+	Atta boy, Mack!
+
+		(to Big Nurse)
+
+	What's he in for?
+
+			BIG NURSE
+
+	Who?
+
+			CANDY
+
+	Mack!
+
+			BIG NURSE
+
+	Miss, it's a complicated case. It
+
+	would take too long to explain.
+
+			CANDY
+
+	Yeah, well, he looks like hell!
+
+CHEERS are HEARD O.S. Candy turns back to the game.
+
+CAMERA HOLDS on Candy, Big Nurse and Billy, who is staring at
+
+Candy.
+
+			BIG NURSE
+
+		(to Billy)
+
+	Billy, it's not polite to stare!
+
+Billy sinks back, thinks it over, then presses forward.
+
+			BILLY
+
+		(to Candy)
+
+	Miss!
+
+Candy looks at Billy.
+
+			BILLY (CONT'D)
+
+	Hi!
+
+			CANDY
+
+		(giving him a big smile)
+
+	Hi...
+
+Billy sinks back in his seat.
+
+On the court, McMurphy dribbles down to half court where he
+
+is stopped by Washington and Warren, who put the squeeze on
+
+him. McMurphy turns and gives them his ass to contend with,
+
+then manages to throw the ball under his legs and
+
+Washington's legs. The ball rolls to Martini, who scoops it
+
+up and throwing it wildly away, the ball ricochets off the
+
+backboard and goes in for two points.
+
+The crowd goes bananas. Score: AIDES 10 PATIENTS 6
+
+Bromden starts striding down court when the Aides make a fast
+
+break past him, but miss their shot.
+
+McMurphy retrieves the ball as Bromden, not more than several
+
+feet from his own basket, does an about-face and returns to
+
+his basket where he turns to see McMurphy lob the ball full
+
+court to Bromden, who catches the ball on one bounce, turns
+
+and slams the ball in for another basket.
+
+Score: AIDES 10 PATIENTS 8
+
+The crowd goes bananas and Bromden turns and starts striding
+
+down the court when he sees McMurphy at the far end of the
+
+court yelling at him.
+
+			MCMURPHY
+
+		(yelling and gesturing)
+
+	Run, Chief, run!
+
+Bromden gets the idea and starts loping down court abreast of
+
+Washington, who is making another fast break towards his own
+
+basket.
+
+Washington and Bromden go up together and Bromden swats the
+
+ball to Scanlon.
+
+			MCMURPHY
+
+		(yelling and gesturing)
+
+	Run, Chief, run!
+
+Bromden starts running towards his own basket, Washington hot
+
+on his heels, when the ball is passed to him and he goes up,
+
+makes the point, but takes a bad spill, crashing head over
+
+heels to the floor.
+
+The crowd gasps. The WHISTLE BLOWS.
+
+			SPIVEY
+
+		(shouting)
+
+	Foul!
+
+As McMurphy charges across court and grabs Washington by his
+
+shirt...
+
+			MCMURPHY
+
+		(breathing in Washington's
+
+		face)
+
+	Ya fuckin' coon, you're not on the
+
+	ward now!
+
+			WASHINGTON
+
+		(cool as a cucumber)
+
+	Take you han's offa me!
+
+Spivey comes running, blowing his whistle.
+
+			SPIVEY
+
+	Break it up, boys!
+
+		(to Timer)
+
+	Point counts. One free throw!
+
+McMurphy pushes Washington away and turns to Bromden, who is
+
+being helped off the floor by Harding, as...
+
+			MARTINI AND SCANLON
+
+	Great shot, Chief! Ya okay? You're
+
+	doin' great!
+
+They lead Bromden to the foul line.
+
+			MCMURPHY
+
+		(to Washington as they
+
+		line up at the foul line)
+
+	We got your black ass now,
+
+	Washington, wanna bet another
+
+	twenty?
+
+			WASHINGTON
+
+	No way...
+
+Bromden takes the ball at the foul line. Sets himself up and
+
+lobs the ball underhand. It goes in.
+
+The crowd goes wild.
+
+INT. MEN'S DORM - NIGHT
+
+The patients are asleep except for Bromden who sits on the
+
+edge of his bed watching McMurphy, his face pressed against
+
+the window, looking out.
+
+			TURKLE
+
+		(approaching)
+
+	What you boys doin' up at this
+
+	ungodly time o' the night?
+
+			MCMURPHY
+
+	Prayin', brother. Prayin'.
+
+			TURKLE 
+
+	Well, you boys finish it up an'
+
+	climb back into your beds. 'Kay?
+
+			MCMURPHY
+
+	'Kay...
+
+The men slide into their beds and Turkle goes off, clucking
+
+to himself.
+
+A beat, then McMurphy rushes back to the window and looks
+
+out.
+
+McMURPHY'S POV
+
+Outside, in the dark, Candy and Rose are seen wandering
+
+around.
+
+REVERSE ANGLE - BROMDEN AND McMURPHY
+
+			MCMURPHY
+
+	There they are, Chief!
+
+McMurphy tries to get the girl's attention and fails.
+
+			MCMURPHY
+
+	Where are they goin'?
+
+McMurphy takes off, towards the day room, followed by
+
+Bromden.
+
+INT. DAY ROOM - NIGHT
+
+As the two of them cross into the day room heading for the
+
+window, Turkle sticks his head out of the nurses' station.
+
+			TURKLE
+
+	I thought I told you boys to go to
+
+	bed!
+
+			MCMURPHY
+
+		(flagging the girls)
+
+	Our prayers have been answered,
+
+	Turkle! Our prayers have been
+
+	answered!
+
+McMURPHY'S POV
+
+as we SEE the girls coming.
+
+REVERSE ANGLE
+
+			TURKLE
+
+	Oh yeah...
+
+			MCMURPHY
+
+	I tell ya, there's an angel of
+
+	mercy standing out there, Turkle.
+
+			TURKLE
+
+	Hallelujah, brother, now get back
+
+	in bed!
+
+			MCMURPHY
+
+	Come an' see.
+
+Turkle comes out of the nurses' station, leaving the side
+
+window open.
+
+			TURKLE
+
+		(crossing to McMurphy)
+
+	That angel of mercy, he ain't a
+
+	she, is he?
+
+			MCMURPHY
+
+	You's better believe it, brother!
+
+Turkle reaches the window and sees the girls outside.
+
+CANDY and ROSE'S POV - THE MEN looking out.
+
+BACK TO SCENE
+
+as Turkle turns to McMurphy.
+
+			TURKLE 
+
+	Ah believe ya, brother. Ah believe
+
+	ya!
+
+			MCMURPHY
+
+		(taking Turkle aside;
+
+		holds up $20 bill)
+
+	Now, wouldn't you pray for twenty
+
+	bucks, a bottle booze an' a piece
+
+	of that angel cake?
+
+			TURKLE
+
+		(taking the $20 and
+
+		reaching for his keys)
+
+	Ah'm on my knees, brother, ah'm on
+
+	my knees.
+
+Turkle unlocks the security screen and raises the window.
+
+McMurphy sticks his head out the window.
+
+			CANDY AND ROSE
+
+		(both slightly tipsy)
+
+	Hiya, Mack.
+
+			MCMURPHY
+
+	Hiya, girls...
+
+			TURKLE
+
+	Shhh...
+
+Candy passes a heavy bag of bottles in. Then McMurphy and
+
+Turkle help her in. Her dress is above her thighs, her ass
+
+visible as she swings over the windowsill and into McMurphy's
+
+arms.
+
+			CANDY
+
+	Whew! Made it!
+
+			MCMURPHY
+
+		(embracing Candy)
+
+	Man, you look good 'nough to eat!
+
+			CANDY
+
+	Yeah, well you look like hell
+
+	warmed over...
+
+			ROSE (O.S.)
+
+	Hey, pssst! Whadda 'bout me?
+
+Turkle turns to help Rose in, but she's not as easy to
+
+handle, being a good deal heavier and twice as plastered as
+
+Candy.
+
+			TURKLE
+
+	Hey, Mac! Gimme a hand, will ya!
+
+McMurphy disengages himself from Candy and lends Turkle a
+
+hand. Rose is finally hauled into the room.
+
+			ROSE
+
+		(giggling; loud)
+
+	Whew! Hiya, boys!
+
+			TURKLE
+
+	Shhh... let's move it away from the
+
+	window...
+
+The group shifts a few feet as Turkle closes the window and
+
+locks the screen. McMurphy turns back to Candy.
+
+			MCMURPHY
+
+		(arms open)
+
+	Come here, sugar...
+
+Candy moves into McMurphy's arms as Rose, straightening her
+
+dress, turns to see Bromden looming. Rose SCREAMS.
+
+			TURKLE
+
+	What happened?
+
+			ROSE
+
+		(backing into Turkle)
+
+	What's that?
+
+			TURKLE
+
+		(mystified)
+
+	What?
+
+			ROSE
+
+		(pointing at Bromden)
+
+	That!
+
+			TURKLE
+
+	Oh, that. That ain't nothin' to be
+
+	afraid of, ma'am. Just ol Chief
+
+	Bromden. That's all...
+
+			ROSE
+
+	Is he one of the loonies?
+
+			MCMURPHY
+
+	He's a patient, Rose...
+
+			ROSE 
+
+	Oh, yeah...
+
+			MCMURPHY
+
+	Yeah...
+
+			ROSE 
+
+		(approaching Bromden
+
+		tentatively)
+
+	Hi ya, big boy? How's it goin'?
+
+	Like it in here?
+
+			MCMURPHY
+
+	He can't hear you, Rose. He's just
+
+	a big deaf an' dumb indian...
+
+			CANDY
+
+	Pssst! Hey Rose! There they are!
+
+			ROSE
+
+		(looking around)
+
+	What? Where?
+
+CANDY points to the patients sleeping in the men's dorm.
+
+			CANDY
+
+	In there.
+
+			ROSE
+
+	Wow! They're so quiet.
+
+			TURKLE
+
+	They're sleeping, Miss. They're
+
+	sleeping. An' we gotta keep it down
+
+	so we don't disturb their sleep.
+
+			ROSE
+
+	Are they dangerous when they're
+
+	awake?
+
+			TURKLE
+
+	Oh, no, Miss. Not these loonies.
+
+	These are nice guys. Nice guys.
+
+			CANDY
+
+	What's that smell?
+
+			TURKLE
+
+	What smell?
+
+			CANDY
+
+	Smells weird. Smells like
+
+	pneumonia.
+
+			TURKLE
+
+	Ammonia, Miss...
+
+			ROSE
+
+	Smells like piss. Is this real,
+
+	Candy? Is this really real? I mean
+
+	we are in an insane asylum, an' I
+
+	wanna know how we got ourselves
+
+	into this scene.
+
+			TURKLE
+
+	Shhh, please, Miss. Keep it down...
+
+Rose turns to McMurphy who has opened a bottle of booze and
+
+is taking a long pull.
+
+			ROSE
+
+		(to McMurphy)
+
+	Who is he?
+
+			MCMURPHY
+
+		(passing the bottle to
+
+		Turkle)
+
+	He's in charge.
+
+			ROSE 
+
+	Are you a doctor?
+
+			TURKLE
+
+		(passing the bottle to
+
+		Rose)
+
+	Not exactly, Miss. Not exactly.
+
+			ROSE
+
+		(drinking and passing the
+
+		bottle to Candy)
+
+	Yeah, well, I'll tell ya somethin'.
+
+	I'll tell ya somethin'. I had this
+
+	boyfriend, Chuck.
+
+		(to McMurphy)
+
+	Ya know him, Mac. Ya remember,
+
+	Chuck.
+
+			MCMURPHY
+
+	Sure, I know Chuck. I know him.
+
+			ROSE
+
+	Well, listen to this. He got mad at
+
+	me one day. Boy, did he get mad at
+
+	me. He took the light bulb, ya
+
+	know. I thought he was going to
+
+	cram it right up me, ya know. But
+
+	he ate it. He ate the whole fucking
+
+	light bulb.
+
+		(to Turkle)
+
+	Now, tell me! Is he crazy? Tell me!
+
+	Is he crazy?
+
+			TURKLE
+
+	Well, Miss... I would say... I
+
+	would say, yes. Yes, he's crazy.
+
+			ROSE
+
+	I thought so.
+
+			TURKLE
+
+	Is he in an asylum?
+
+			ROSE
+
+	He's dead.
+
+			TURKLE
+
+	Oh, I see. He was a very sick man.
+
+	Very sick.
+
+			ROSE
+
+	That's what I told his mother. And
+
+	she said I was crazy. Her son ate
+
+	the whole fucking light bulb and
+
+	she said I was crazy.
+
+			TURKLE
+
+	I don't know anything about that,
+
+	Miss. I would have to examine you
+
+	first...
+
+			ROSE
+
+	You ol' fucker!
+
+			TURKLE
+
+	Well, I'm running a risk by letting
+
+	you in, Miss. You know I'm runnin'
+
+	a risk of gettin' my black ass
+
+	fired. If you understand what I
+
+	mean...
+
+			MCMURPHY
+
+	Sure, she understands what you
+
+	mean. She's not dumb. Why do you
+
+	think Rose came to visit us? Rose
+
+	is very interested in hospitals and
+
+	hospital facilities. Aren't you,
+
+	Rose?
+
+			ROSE
+
+	What?
+
+			TURKLE
+
+	I'll be very glad to show you
+
+	around, Miss...
+
+			MCMURPHY
+
+	Yeah, that's a good idea, Turkle.
+
+	Why don't ya take Rose on a little
+
+	tour of our facilities...
+
+			ROSE
+
+	Wait a minute...
+
+			CANDY
+
+	It's okay, Rose. You can go with
+
+	him.
+
+			ROSE
+
+	Oh yeah! Well if ya don't mind,
+
+	I'll decide on my own date!
+
+			CANDY
+
+	Shit, Rose! What's there to decide?
+
+	There's only four of us.
+
+			ROSE
+
+	Whaddaya talkin' about? There's at
+
+	least twenty guys in there. Let's
+
+	wake 'em up and get this party on
+
+	the road.
+
+			TURKLE
+
+	Now, Miss. What do you want with
+
+	twenty zombies when you got a
+
+	twenty gun salute looking you right
+
+	in the face.
+
+			ROSE
+
+	Oh, yeah...
+
+			TURKLE
+
+	You better believe it, you sweet
+
+	little thing. You better believe
+
+	it...
+
+			ROSE
+
+	Don't you sweet talk me you ol'
+
+	spook, you!
+
+			TURKLE
+
+	Oh, I'm all through talkin'. Now,
+
+	let's just you an' me trip on down
+
+	that hall.
+
+			CANDY
+
+	Go with him, Rose. Go with him.
+
+			ROSE
+
+	Well, okay, but I just want to look
+
+	at the facilities. That's all.
+
+			TURKLE
+
+	That's all I'm going to show you.
+
+McMURPHY'S POV - TURKLE AND ROSE
+
+as the two of them cross out of the day room toward the
+
+hallway, Turkle suddenly turns and hurries back to McMurphy,
+
+takes the bottle of booze and hurries off clucking to
+
+himself.
+
+BACK TO McMURPHY and CANDY.
+
+			MCMURPHY
+
+	'Kay, lets get under way.
+
+McMurphy crosses to package of booze, selects another bottle,
+
+unscrews the top and takes a long pull, then hands the bottle
+
+to Bromden.
+
+			MCMURPHY
+
+	Down the ol' hatch, Chief.
+
+Bromden takes a long pull on the bottle, gags and passes the
+
+bottle to McMurphy who crosses to the nurses' station and
+
+peeks around the corner.
+
+McMURPHY
+
+as he peeks around the corner.
+
+McMURPHY'S POV - TURKLE AND ROSE
+
+far down the hallway, as Turkle shows Rose one room, then
+
+another, and then the seclusion room, into which Turkle
+
+playfully lures Rose, who playfully resists, but finally
+
+enters. A beat passes and they don't come out.
+
+BACK TO McMURPHY
+
+Satisfied, he crosses to the nurses' station, reaches in the
+
+open side-door window, opens the door and enters.
+
+INT. NURSES' STATION - NIGHT
+
+as McMurphy enters the nurses' station and looks around.
+
+INT. MEN'S DORM - NIGHT
+
+The patients are all asleep. A very long beat, then --
+
+			MCMURPHY (V.O.)
+
+		(through loudspeaker; very
+
+		low, ominous, drawn out)
+
+	Who knows what evil lurks in the
+
+	hearts of men...
+
+Ominous LAUGHTER, then the lights go flashing on and off.
+
+			MCMURPHY (V.O)
+
+		(through loudspeaker)
+
+	Medication time! Medication time!
+
+	Rise and shine! Rise and shine!
+
+	Time to say goodbye... Everybody
+
+	up, up, up!
+
+Some of the patients immediately pop awake as Candy comes in
+
+and starts hustling the patients out of bed.
+
+			CANDY
+
+	Up and at 'em, boys.
+
+			BILLY
+
+		(waking up)
+
+	H-H-Hi, Candy...
+
+			CANDY
+
+	Hi, Billy.
+
+INT. DAY ROOM - NIGHT
+
+MUSIC OVER as the patients are queued up at the nurses'
+
+station where Candy is handing out cups full of whiskey,
+
+McMurphy backing her up, pouring the booze into the cups.
+
+Harding takes his cup and moves back into the day room as
+
+Ellis automatically downs the booze, gags and goes spinning
+
+off across the hallway and is nailed to the wall.
+
+					QUICK CUT TO:
+
+DOWN THE HALL - TURKLE
+
+sticks his head out the door to check the scene out. Sees
+
+what's happening and comes rushing down the hallway, without
+
+his shirt, and zipping up his pants.
+
+INT. NURSES' STATION - NIGHT
+
+as Turkle shoves his way to the intercom system and switches
+
+off the lights and music.
+
+			TURKLE
+
+		(furiously pushing them
+
+		out)
+
+	You crazy goons... shut up an' get
+
+	outta here... Out! Out! Out!
+
+INT. HALLWAY - NIGHT
+
+Silence as the last man is driven out of the nurses' station.
+
+Down the hallway, a light goes on in the visitors' room.
+
+			TURKLE
+
+	Shit, it's the soo-per-visor come
+
+	to fire my black ass.
+
+A KEY is HEARD hitting the lock at the end of the hallway.
+
+Without losing a beat, Turkle reverses his movement and
+
+starts pushing everybody back into the nurses' station.
+
+			TURKLE (CONT'D)
+
+		(pushing)
+
+	Get back in there! In! In! In!
+
+As Turkle pushes the last man into the nurses' station, he
+
+sees Rose stick her head out of the seclusion room.
+
+			TURKLE (CONT'D)
+
+		(motioning and shouting)
+
+	Stay in there! Stay in there!
+
+Rose ducks back into the seclusion room as, simultaneously,
+
+Turkle closes the door behind him to the nurses' station as
+
+the door to the ward opens and the NIGHT SUPERVISOR, a middle
+
+aged woman, enters the ward.
+
+INT. NURSES' STATION - NIGHT
+
+as Turkle, shushing the crowd, makes his way to the nurses'
+
+lounge and opens the door.
+
+			TURKLE
+
+		(harsh whisper)
+
+	Alla ya goons, get in here!
+
+The patients pile into the nurses' lounge, Turkle cramming
+
+the last one through the door and closing it. He turns and
+
+crosses to the side door and steps out.
+
+INT. HALLWAY - NIGHT
+
+as Turkle steps out of the nurses' station, closing the door
+
+behind him.
+
+			NIGHT SUPERVISOR
+
+	Oh, there you are, Mister Turkle.
+
+			TURKLE
+
+	Evenin', ma'am.
+
+			NIGHT SUPERVISOR
+
+	Is everything all right?
+
+			TURKLE
+
+		(blocking her way to the
+
+		day room)
+
+	Why, sure, ma'am...
+
+			NIGHT SUPERVISOR
+
+	The lights were flashing on and
+
+	off, Mister Turkle.
+
+			TURKLE
+
+	Jus' cleanin' up, ma'am.
+
+			NIGHT SUPERVISOR
+
+	At this hour?
+
+			TURKLE
+
+	Cleanliness is a twenty-four-hour
+
+	job, ma'am...
+
+Harding passes by and enters the latrine.
+
+			NIGHT SUPERVISOR
+
+	What are these men doing up
+
+	wandering around?
+
+			TURKLE
+
+		(leaning in)
+
+	Ah guess the natives are restless,
+
+	ma'am...
+
+			NIGHT SUPERVISOR
+
+		(getting a whiff of his
+
+		breath)
+
+	You've been drinking on the job
+
+	again, haven't you, Mister Turkle!
+
+			TURKLE
+
+	Ah, no, ma'am... well, yes,
+
+	ma'am...
+
+		(leaning in close)
+
+	A man get awful lonely at night, if
+
+	ya know what Ah mean, ma'am...
+
+Down the hall, Rose sticks her head out the door, sees what's
+
+happening, and ducks back in as the Night Supervisor turns on
+
+her heel and starts back down the hallway, Turkle at her
+
+heels.
+
+			NIGHT SUPERVISOR
+
+	I want those men put back to bed,
+
+	Mister Turkle!
+
+			TURKLE
+
+	Yes, ma'am...
+
+			NIGHT SUPERVISOR
+
+	And you haven't heard the last of
+
+	this!
+
+			TURKLE
+
+	Yes, ma'am...
+
+She opens the gate, slams it behind her, crosses to the main
+
+door, opers it and exits to:
+
+			TURKLE (CONT'D)
+
+		(calling after her)
+
+	Night, night.
+
+Turkle turns and the smile leaves his face as he hurries down
+
+the hallway.
+
+O.S. the TOILET FLUSHES as Turkle stops at the seclusion room
+
+and sticks his head in.
+
+			TURKLE (CONT'D)
+
+	Be right back, honey...
+
+Turkle closes the door, crosses down to the nurses' station,
+
+and enters as Harding comes out of the latrine.
+
+INT. NURSES' STATION - NIGHT
+
+as Turkle enters, crosses to the nurses' lounge and opens the
+
+door to see the patients, silhouetted against the open
+
+refrigerator light, moving around, pulling the room apart. It
+
+smacks of Dante's Inferno as Turkle snaps on the light and
+
+steps into the room.
+
+INT. NURSES' LOUNGE - NIGHT
+
+as Turkle steps into the room and sees the extent of the
+
+plundering. The filing cabinet is open. So is the medicine
+
+cabinet. Rolls of medical gauze are strewn around, cough
+
+syrup and orange juice are flowing.
+
+The patients start piling out of the room, carrying their
+
+plunder.
+
+Fredrickson and Sefelt are SEEN sitting on the floor, in
+
+front of the open refrigerator, looking through their
+
+dossiers.
+
+			FREDRICKSON
+
+	Christ, they even got my first
+
+	grade report card here...
+
+			SEFELT
+
+	Lemme see...
+
+Sefelt leans in, unintentionally tipping a bottle of cough
+
+syrup in his hand which goes "glug, glug, glug..." all over
+
+the papers.
+
+			SEFELT (CONT'D)
+
+	Jesus, they're terrible grades,
+
+	Fred...
+
+Turkle stoically takes in the shattered remains of his job,
+
+unscrews the top to his bottle of whiskey, and takes the
+
+biggest swig of his life as, O.S., Rose is HEARD SCREAMING.
+
+INT. HALLWAY - NIGHT
+
+as Rose, naked as the day she was born, runs screaming down
+
+the hall, Ellis loping after her, reaching out his hand.
+
+INT. DAY ROOM - NIGHT
+
+as the others, who are laying out food, drinking booze and
+
+stringing up hospital gauze, turn to see Rose enter the room.
+
+She runs behind McMurphy, pressing her body to his, as he
+
+gently takes hold of Ellis' outstretched hands.
+
+			MCMURPHY
+
+		(to Rose)
+
+	Don't scream, honey...
+
+He gently guides Ellis to the wall, with Rose still clinging
+
+to his back.
+
+			MCMURPHY
+
+	Ellis ain't gonna hurt you... Ellis
+
+	is nice... Nice Ellis... see the
+
+	nice lady...
+
+He pins Ellis to the wall.
+
+			MCMURPHY
+
+	There, see, nice lady touch
+
+	Ellis...
+
+Rose reaches out and touches Ellis.
+
+The others stand agog, looking at this Holy Trinity.
+
+					DISSOLVE TO:
+
+INT. DAY ROOM - NIGHT
+
+A SOFT NOSTALGIC NUMBER is HEARD OVER LOUDSPEAKER as Harding,
+
+Billy and Cheswick watch McMurphy dance with Candy,
+
+Fredrickson with Sefelt and Rose, who is dressed, dance with
+
+Taber.
+
+Martini and Scanlon are busy draping hospital gauze around
+
+the room.
+
+Bromden sits by the window -- waiting.
+
+					DISSOLVE TO:
+
+INT. DAY ROOM - NIGHT
+
+Another SOFT NOSTALGIC NUMBER is HEARD OVER LOUDSPEAKER as
+
+McMurphy, Candy, Harding, Cheswick, Taber, Sefelt and
+
+Fredrickson watch Rose, on a table, doing a solo bump-and
+
+grind dance, while Martini and Scanlon race around the room
+
+in wheelchairs.
+
+Billy sits, watching Candy and McMurphy, who sit across the
+
+room.
+
+Candy is tired and bored.
+
+McMurphy is drunk and starting to fade.
+
+			CANDY
+
+	It's time to hit the road, Mack...
+
+			MCMURPHY
+
+		(snapping at her)
+
+	Don't worry 'bout the road! We'll
+
+	hit the road! It'll be there when
+
+	we're ready!
+
+		(to the room)
+
+	Ain't that right, fellas?
+
+He gets up and crosses to his friends.
+
+			MCMURPHY
+
+	I jus' want you guys to have a good
+
+	time... Are ya havin' a good time?
+
+	You... you... good... good... Lez
+
+	have some fun...
+
+He turns to see Billy, who isn't having fun.
+
+			MCMURPHY
+
+	Whatsa matter with ya...
+
+Billy turns away and McMurphy crosses to him.
+
+			MCMURPHY
+
+	Ain'tcha havin' a good time...
+
+		(no response)
+
+	Whadaya want? Ya wanna drink? A
+
+	cigarette...
+
+Billy looks up at McMurphy, his eyes are flooded with tears.
+
+			MCMURPHY
+
+	Whatsamatter, kid, what's botherin'
+
+	you...?
+
+			BILLY
+
+	Ah-ah-ah-are y-y-y-you g-g-g-going
+
+	t-t-t-to muh-muh-muh-marry her?
+
+			MCMURPHY
+
+	Marry who?
+
+			BILLY 
+
+	C-C-C-C-Candy!
+
+			MCMURPHY
+
+	Candy? Hell no, Billy, she's just a
+
+	good friend, that's all...
+
+			BILLY
+
+	Wu-wu-wu I-I-I-I th-th-think sh-sh
+
+	sh-she's th-th-th-the ma-ma-ma-most
+
+	bu-bu-bu-beautiful wu-wu-wu-woman
+
+	in th-th-the whole world!
+
+A long beat as McMurphy looks at Billy, then Candy, then
+
+Billy.
+
+			MCMURPHY
+
+		(softly)
+
+	Why don't ya go tell 'er...
+
+Billy doesn't move.
+
+			MCMURPHY
+
+	Go on, son, now's your chance...
+
+Billy slowly crosses toward Candy, stopping halfway to look
+
+back at McMurphy, who gives him an affirmative gesture. He
+
+crosses to Candy, who just looks at him.
+
+			BILLY
+
+	C-C-Candy, wu-wu-will y-y-you mu-mu
+
+	marry me!
+
+			CANDY
+
+	Ah, Billy...
+
+Candy rises, kisses Billy on the cheek, and dances with him.
+
+McMurphy beams on the twosome, unscrews his whiskey bottle,
+
+takes a long pull on the juice, and looks at Bromden.
+
+Bromden sits by the window waiting.
+
+					DISSOLVE TO:
+
+INT. DAY ROOM - NIGHT
+
+as the MUSIC ENDS. A long silence, then another NUMBER begins
+
+as McMurphy, who has nodded off, starts awake and looks
+
+around.
+
+McMURPHY'S POV
+
+Bromden sits by the window waiting.
+
+Cheswick is asleep on the table.
+
+Martini and Scanlon are sitting in their wheelchairs filling
+
+their cups from through the enema tube.
+
+Harding sits, maintaining his aloofness, smoking a cigarette.
+
+Sefelt is sitting on the floor, in a drunken stupor, while
+
+Fredrickson dances around him.
+
+Candy and Billy stand, locked in each other's arms, swaying
+
+to the MUSIC.
+
+McMURPHY
+
+struggles to his feet, steadies himself, crosses to the
+
+nurses' station.
+
+INT. NURSES' LOUNGE - NIGHT
+
+as McMurphy enters and goes to Turkle, who is dead asleep.
+
+McMurphy lifts Turkle's keys and leaves.
+
+INT. DAY ROOM - NIGHT
+
+as McMurphy crosses to Billy and Candy, and gently parting
+
+them, he puts his arms around them -- as much for support as
+
+affection.
+
+			MCMURPHY
+
+	Come on, you lovers, it's gettin'
+
+	late...
+
+They move toward the hallway.
+
+Bromden and Harding are the only two who watch them go.
+
+INT. HALLWAY - NIGHT
+
+as McMurphy passes several doors, reaches the door of his
+
+choice, fumbles with the keys, finds the right one, and opens
+
+the door to the seclusion room.
+
+			MCMURPHY
+
+		(standing aside)
+
+	In ya go...
+
+			BILLY
+
+		(holding back)
+
+	M-M-M-Mack?
+
+			MCMURPHY
+
+	It's okay, kid. Everything it going
+
+	to be okay... I'll come back an'
+
+	getcha in a while... 'Kay...
+
+Candy and Billy, hand in hand, enter the small room, which
+
+has a bed in it.
+
+McMurphy closes the door, looks at the keys, and pockets
+
+them. CAMERA TRACKS with McMurphy, who is a very weary man,
+
+back into the day room.
+
+INT. DAY ROOM - NIGHT
+
+MUSIC OVER LOUDSPEAKER as McMurphy crashes heavily into his
+
+chair. He can hardly keep his eyes open as he looks around.
+
+Harding sits nearby.
+
+Taber is lying on a couch, his head in Rose's lap.
+
+Cheswick is asleep on the table.
+
+Ellis stands nailed to the wall.
+
+Bromden sits by the window -- waiting. CAMERA HOLDS on
+
+Bromden.
+
+			MCMURPHY (V.O.)
+
+	Hey, Harding, wake me in an hour.
+
+			HARDING (V.O.)
+
+	Sure, Mack...
+
+CAMERA PUSHES INTO WINDOW. TIME LAPSE SHOT of the DAWN and
+
+SUN RISING.
+
+			WASHINGTON (V.O.)
+
+		(very far away; getting
+
+		closer)
+
+	Bibbit? Where's Bill Bibbit, ya
+
+	damn goons?
+
+INT. DAY ROOM - EARLY MORNING
+
+as Washington jostles McMurphy awake.
+
+			WASHINGTON
+
+	Come on, get over there!
+
+McMurphy allows himself to be led to the heavy security
+
+partition, by the men's dorm, where all the patients are
+
+lined up.
+
+It is morning and the day room is a mess:
+
+A few chairs turned over. Paper cups and empty bottles.
+
+Puddles of cough syrup, orange juice and apple juice worked
+
+into sticky masses.
+
+Rose sits by herself on the couch.
+
+Bromden is the last one led to the lineup, where Big Nurse
+
+waits.
+
+			BIG NURSE
+
+	Thank you, Mister Washington!
+
+	Mister McMurphy, do you know where
+
+	Billy is?
+
+McMurphy shrugs "no."
+
+			BIG NURSE (CONT'D)
+
+	Mister Harding, have you seen
+
+	Billy?
+
+Harding shrugs "no."
+
+			BIG NURSE (CONT'D)
+
+	Mister Sefelt...
+
+Big Nurse's question is cut off as all the patients and
+
+attendants turn their heads toward the hallway and start
+
+laughing. Big Nurse turns to see Turkle, without his shirt
+
+on, walk into the seclusion room and close the door behind
+
+him.
+
+Big Nurse turns and starts down the hallway, the laughter
+
+trailing after her when, suddenly, the laughter breaks off as
+
+Big Nurse stops and in the silence, she opens the door.
+
+INT. SECLUSION ROOM - EARLY MORNING
+
+as Big Nurse opens the door to see Candy snuggled up to
+
+Billy, who lies there, eyes closed, a smile on his face.
+
+			TURKLE
+
+		(buttoning up his shirt)
+
+	Morning, Miss Ratched...
+
+He slides out of the room as Billy opens his eyes. A long
+
+beat as they look at each other.
+
+			BILLY
+
+	M-M-M-M-M-M-
+
+Big Nurse shakes her head and exits, closing the door behind
+
+her.
+
+INT. HALLWAY - MORNING
+
+as Big Nurse heads for the day room, walking straight for
+
+McMurphy when:
+
+			BILLY (O.S.)
+
+		(shouting)
+
+	M-M-M-Miss Ratched!
+
+Big Nurse stops and turns to see Billy, half naked, pulling
+
+his pajama pants up as he runs, stumbling toward Big Nurse.
+
+			BILLY (CONT'D)
+
+		(crying out as he runs)
+
+	P-p-p-please du-du-don't t-t-t-tell
+
+	m-m-my muh-muh-muh-mummy!
+
+He trips on his pajamas and falls sprawling at Big Nurse's
+
+feet, his bare ass exposed to all.
+
+			BILLY (CONT'D)
+
+		(blubbering as he rises)
+
+	P-p-p-please du-du-du-don't t-t
+
+	tell her, p-p-please...
+
+			BIG NURSE
+
+	You should have thought about that
+
+	before you brought that woman in
+
+	here!
+
+			BILLY
+
+	N-n-n-n-no, no, I du-du-du-didn't,
+
+	I didn't!
+
+			BIG NURSE
+
+	I don't want your mother to believe
+
+	something like this but what am I
+
+	to think?
+
+			BILLY
+
+	Sh-sh-sh-she m-m-made m-m-me do it!
+
+			BIG NURSE
+
+	Billy, that girl couldn't have
+
+	pulled you in there forcibly...
+
+			BILLY
+
+	Sh-sh-she did! Everybody did!
+
+			BIG NURSE
+
+	Who? Tell me!
+
+			BILLY
+
+	M-M-Muh-Muh-McMurphy!
+
+			MCMURPHY
+
+	Ahhh, Billy...
+
+			BILLY 
+
+		(caught in his own
+
+		anxiety)
+
+	P-p-p-please duh-duh-duh-duh t-t
+
+	tell, M-M-M-Miss R-R-Ratched, y-y
+
+	you don't need to!
+
+			BIG NURSE
+
+	Get up, Billy.
+
+			BILLY
+
+		(screaming)
+
+	No! No! No!
+
+Billy pitches forward and collapses on the floor, screaming,
+
+pounding his fists and feet against the floor.
+
+			BILLY (CONT'D)
+
+	N-n-n-n-duh-duh-duh-pl-pl-pl-pl-muh
+
+	muh-muh...
+
+			BIG NURSE
+
+		(ignoring McMurphy)
+
+	Mister Washington.
+
+			MCMURPHY
+
+		(helplessly to Billy)
+
+	Hey, Billy, stop cryin'. You don't
+
+	have to cry... You ain't got
+
+	nothin' to be ashamed of. She ain't
+
+	gonna tell you mother... stop
+
+	crying...
+
+			WASHINGTON
+
+	Yes, Miss Ratched!
+
+			BIG NURSE
+
+		(to Washington)
+
+	Put him in Doctor Spivey's office!
+
+			WASHINGTON
+
+	Yes, Miss Ratched...
+
+Washington nods to Warren and the two of them scoop Billy off
+
+the floor and carry him screaming to Doctor Spivey's office
+
+as Big Nurse crosses into the nurses' station and picks up
+
+the phone as Candy eases her way into the day room and joins
+
+McMurphy.
+
+A beat, then Miller starts herding the patients toward the
+
+washroom, staying clear of McMurphy and Bromden, who don't
+
+move.
+
+McMurphy pulls the keys out of his pocket.
+
+			MCMURPHY
+
+		(to Candy)
+
+	Let's go!
+
+McMurphy checks the nurses' station, sees Big Nurse is busy
+
+on the telephone.
+
+			MCMURPHY
+
+		(to Bromden)
+
+	Let's go, Chief...
+
+McMurphy crosses to the window, followed by Bromden, Candy
+
+and Rose, where he begins fumbling with the lock.
+
+MILLER
+
+as he herds the patients out of the day room. He turns to see
+
+McMurphy trying to open the screen. Miller crosses to
+
+McMurphy.
+
+			MILLER
+
+	Hey, what's gone here?
+
+McMurphy turns around and punches Miller.
+
+INT. NURSES' STATION - MORNING
+
+as Big Nurse, still on the phone, sees Miller go sprawling
+
+across the floor. She grabs the intercom.
+
+			BIG NURSE (V.O.)
+
+		(through loudspeaker)
+
+	Washington! Warren! To the day
+
+	room, immediately!
+
+INT. DAY ROOM - MORNING
+
+McMurphy opens the screen, raises the window, and helps Candy
+
+and Rose out as Washington and Warren converge on them.
+
+McMurphy and Bromden wheel around.
+
+Washington, Warren and Miller appear around the corner, take
+
+one look, and head straight for McMurphy.
+
+			WASHINGTON
+
+		(stopping just short)
+
+	'Kay, let's have the keys an'
+
+	nobody get hurt!
+
+Washington's words are cut off as, O.S., Nurse Pilbow
+
+SCREAMS... a bloodcurdling scream. They turn to see Nurse
+
+Pilbow enter the nurses' station, her uniform splattered with
+
+blood, hysterically talking to Big Nurse (we can't hear her).
+
+Big Nurse and Nurse Pilbow rush out of the nurses' station
+
+and head down the hallway.
+
+McMurphy is glued to the spot.
+
+			CANDY
+
+		(calling from outside)
+
+	Come on, come on, let's go!
+
+McMurphy hesitates, then moves across the day room toward the
+
+hallway.
+
+INT. DOCTOR SPIVEY'S OFFICE - MORNING
+
+CAMERA SHOOTING TOWARD the door, crammed full of patients,
+
+who stare at the scene with curious detached looks, as Big
+
+Nurse and Nurse Pilbow force their way through the patients.
+
+The crowd parts and Big Nurse stops in the doorway, horrified
+
+at what she sees. CAMERA HOLDS on Big Nurse's reaction. A
+
+beat, then McMurphy appears alongside Big Nurse and is
+
+stricken by what he sees.
+
+McMURPHY AND BIG NURSE'S POV - REVERSE SHOT - DOCTOR SPIVEY'S
+
+OFFICE
+
+The office is splattered with blood. Billy is lying face up,
+
+hanging over Spivey's desk, dead. His throat and both wrists
+
+are cut. A broken picture frame, containing a photograph of
+
+Spivey's family, lies nearby.
+
+			MCMURPHY
+
+	Billy, oh, Billy boy...
+
+McMurphy crosses into the room and kneels alongside Billy's
+
+body. He gently lays his hand on Billy's face.
+
+			BIG NURSE
+
+	Get away from him! Don't you dare
+
+	touch him!
+
+McMurphy turns and leaps at Big Nurse, grabbing her throat;
+
+he drives her into the Acutes and Nurse Pilbow.
+
+INT. HALLWAY - MORNING
+
+as McMurphy, Big Nurse, Nurse Pilbow and several Acutes go
+
+down, arms and legs intertwined, kicking, trying to get away
+
+as McMurphy strangles Big Nurse.
+
+Nurse Pilbow screaming, as Washington, Warren, Miller rush
+
+in, trying to break his hold on Big Nurse's throat, her face
+
+turning blue. McMurphy's face, twisted by his passion, when
+
+Washington lands a rabbit punch and MeMurphy's face relaxes
+
+as he passes out.
+
+					DISSOLVE TO:
+
+INT. DAY ROOM - DAY
+
+MUSIC OVER LOUDSPEAKER. The day room is as it was in the
+
+beginning. Harding is dealing out a game of blackjack to
+
+Martini,
+
+Scanlon, Cheswick and Fredrickson.
+
+Taber, pencil in band, sits pondering over a blank sheet of
+
+paper.
+
+Ruckly is turning a grimy photograph over in his hands.
+
+Bancini sits wagging his head, mumbling over and over,
+
+"Tired... awful tired..." Ellis stands against the wall, arms
+
+outstretched.
+
+			HARDING (V.O.)
+
+		(over last scene, in
+
+		McMurphy's style)
+
+	Okay, suckers, place your bets...
+
+INT. HALLWAY - DAY
+
+Bromden is mopping the floor near the security gate to the
+
+visitors' room, when a key hits the lock. Bromden looks up
+
+expectantly.
+
+BROMDEN'S POV
+
+as Sefelt and Miller enter the visitors' room, cross to the
+
+security gate and pass into the hallway. Bromden goes back to
+
+his mopping.
+
+INT. DAY ROOM - DAY
+
+as Sefelt jauntily enters the day room.
+
+			BIG NURSE (V.O.)
+
+		(through loudspeaker)
+
+	Did everything go well, Mister
+
+	Sefelt?
+
+Sefelt turns to the nurses' station where, inside, Big Nurse
+
+sits very erect, wearing a back brace that reaches up around
+
+her neck. Sefelt shows his teeth and gums to Big Nurse.
+
+			BIG NURSE (V.O.) (CONT'D)
+
+		(through loudspeaker)
+
+	That's very nice. Now, doesn't that
+
+	make you feel better, Mister
+
+	Sefelt?
+
+			SEFELT
+
+	Yes, ma'am...
+
+			BIG NURSE
+
+	Good...
+
+She turns back to her work.
+
+Sefelt crosses to the card game, where he sits and catches
+
+Fredrickson's attention; showing him his teeth. Fredrickson
+
+smiles at Sefelt and blows him a kiss.
+
+			HARDING
+
+		(who has been dealing)
+
+	Big Ace... a lovely lady... another
+
+	ace... an' a little trey, hey, hey,
+
+	whadaya say... hit or sit?
+
+			SCANLON
+
+	Hit!
+
+			SEFELT
+
+		(to Fredrickson)
+
+	Ya know what, Fred?
+
+			FREDRICKSON
+
+	What?
+
+			HARDING
+
+		(dealing a card to
+
+		Scanlon)
+
+	Big king, too bad...
+
+			SEFELT
+
+	Just wait till you hear...
+
+			HARDING
+
+	Hear what?
+
+			SEFELT
+
+	McMurphy killed two attendants and
+
+	escaped...
+
+			HARDING
+
+	When?
+
+			SEFELT
+
+	Yesterday...
+
+			HARDING
+
+	Who told you that?
+
+			SEFELT
+
+	Gary Blinker...
+
+			SCANLON
+
+	Gary Blinker's fulla shit!
+
+			MARTINI
+
+	He's not!
+
+			SCANLON
+
+	He is!
+
+Harding slams his card down on the table, rises and crosses
+
+to the nurses' station where he taps on the side window.
+
+Big Nurse gets up, crosses to the window and slides it open.
+
+			BIG NURSE
+
+	Yes, Mister Harding?
+
+			HARDING
+
+	Is it true McMurphy killed two
+
+	attendants and escaped yesterday?
+
+			BIG NURSE
+
+	No. Mister Harding, that is not
+
+	true.
+
+					DISSOLVE TO:
+
+INT. HALLWAY - LATE AFTERNOON
+
+Bromden is squatting, leaning against the wall near the
+
+security gate to the visitors' room, when a KEY HITS THE
+
+LOCK. He looks up expectantly. This time it is McMurphy. Or
+
+what was McMurphy, for his head is bandaged, and his tongue
+
+hangs out of his mouth as he is led across the visitors' room
+
+by an ATTENDANT.
+
+McMurphy shows Bromden no sign of recognition, which Bromden
+
+pays no attention to, thinking McMurphy is putting on the
+
+same act he did when he came back from Electro-Shock Therapy.
+
+Bromden joyously turns and runs down the hallway to the day
+
+room.
+
+INT. DAY ROOM - LATE AFTERNOON
+
+as Bromden crosses into the day room, gets a seat, and sits
+
+facing the hallway, bursting with expectation.
+
+A long beat, then the Attendant appears with McMurphy and
+
+taps at the side door to the nurses' station.
+
+The Acutes break off their card game and look at McMurphy;
+
+their faces hang open at his appearance.
+
+Big Nurse crosses to the side door, opens it, and steps out
+
+into the day room. To the Attendant as she takes McMurphy by
+
+the arm:
+
+			BIG NURSE
+
+	Thank you...
+
+			ATTENDANT
+
+	Yes, ma'am...
+
+The Attendant exits.
+
+			BIG NURSE
+
+		(to McMurphy)
+
+	Now, let's find you a place to sit,
+
+	shall we, Mister McMurphy?
+
+Big Nurse gently guides McMurphy to a seat on the Chronics'
+
+side of the room.
+
+Bromden can hardly contain himself as he waits for McMurphy
+
+to go into his act.
+
+The Acutes have already absorbed the reality of McMurphy's
+
+condition as they exchange looks with each other.
+
+			FREDRICKSON
+
+		(whispering)
+
+	Lobotomy...
+
+			HARDING
+
+	Yeah...
+
+			SCANLON
+
+	Yeah, that Gary Blinker is fulla
+
+	shit...
+
+The Acutes turn back to their card game as Harding shuffles
+
+and deals the cards out.
+
+Bromden keeps his eyes glued to Big Nurse and McMurphy.
+
+			BIG NURSE
+
+		(sitting McMurphy down)
+
+	Here now, you sit here... That's
+
+	it...
+
+Big Nurse pats McMurphy's face and crosses back to the
+
+nurses' station.
+
+McMurphy just sits there, his head lolling to one side.
+
+Bromden waits for McMurphy to go into his routine.
+
+McMurphy just sits there.
+
+Bromden snaps his fingers and slaps his thigh, then waits for
+
+McMurphy to follow suit.
+
+McMurphy just sits there slobbering.
+
+Bromden slaps his thigh again.
+
+No response from McMurphy.
+
+The MUSIC PLAYS ON.
+
+					DISSOLVE TO:
+
+INT. MEN'S DORM - DAYBREAK
+
+as Bromden stands by the window looking out. A long beat,
+
+then he turns into the room and looks around.
+
+BROMDEN'S POV
+
+The patients are all asleep. The new night attendant is fast
+
+asleep in the nurses' station.
+
+Bromden quietly takes his pillow and goes to McMurphy's bed,
+
+where he kneels and puts his head very close to McMurphy's. A
+
+long beat as Bromden studies McMurphy's face.
+
+			BROMDEN
+
+		(whispering in McMurphy's
+
+		ear)
+
+	When I first came here I was so
+
+	scared of being lost I had to
+
+	holler so they could track me... I
+
+	figured anything was better than
+
+	being lost...
+
+On the last word, Bromden places his pillow over McMurphy's
+
+face and begins to suffocate him. McMurphy starts thrashing
+
+and Bromden lies full length on McMurphy. A long beat, then
+
+the thrashing ends. Bromden gets off McMurphy, replaces his
+
+pillow, and crosses down the aisle toward the day room.
+
+INT. DAY ROOM - DAYBREAK
+
+The night attendant continues to sleep as Bromden passes the
+
+nurses' station, heading for the tub room.
+
+INT. TUB ROOM - DAWN
+
+as Bromden crosses to the heavy machine which McMurphy had
+
+once tried to lift, sizes it up, then bends over and takes
+
+hold and heaves. The GRINDING WEIGHT is HEARD as Bromden
+
+exerts all his strength, slowly lifts the machine off the
+
+floor, balances it above his shoulders, then crosses out of
+
+the tub room.
+
+INT. DAY ROOM - DAWN
+
+as Bromden comes around the corner and past the sleeping
+
+night attendant in the nurses' station.
+
+Bromden lines himself up with the window across the room,
+
+then starts toward it, picking up speed as he goes. Then, at
+
+the last moment, he stops and, with an enormous effort, he
+
+hurls the machine through the security screen and the window.
+
+A LOUD CRASH.
+
+In the nurses' station, the night attendant starts awake and
+
+looks around. Too late as Bromden vaults through the window.
+
+CAMERA HOLDS on window as Bromden runs across the grounds and
+
+disappears into the pine trees.
+
+INT. DAY ROOM - DAWN
+
+as the night attendant comes out of the nurses' station and
+
+looks confusedly around. Then he spots the shattered window.
+
+EXT. COUNTRYSIDE - EXTREME LONG SHOT - SUNRISE
+
+Rolling hills, forests and distant mountains, bathed in
+
+sunlight, as Bromden runs across a far-off meadow.
+
+CREDITS OVER.
+
+			THE END
+

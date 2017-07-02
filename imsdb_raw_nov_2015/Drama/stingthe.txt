@@ -1,0 +1,9210 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+The Sting
+
+				T H E   S T I N G
+
+				Second Draft Screenplay
+
+					by
+
+					DAVID S. WARD
+
+					THE STING
+
+	FADE IN:
+
+	A white on black TITLE appears in the lower left hand corner
+
+	of the screen:
+
+	AUGUST, 1936
+
+								FADE OUT.
+
+	FADE IN:
+
+	EXT. A SLUM AREA OF JOLIET - DAY
+
+	It's a bleak, windy morning, the kind that clears the
+
+	streets of all but the winos (who carry their own heaters),
+
+	and the point-men for juvenile gangs.  We pick up a solitary
+
+	figure, Joe Mottola, coming down the street and entering
+
+	what appears to be an abandoned tenement.  He pauses a
+
+	second to dust his white-winged alligator shoes on the back
+
+	of his pants leg.  Sharply dressed and surrounded by the
+
+	aura of one who is making money for the first time and
+
+	broadcasting it on all bands, he seems an incongruity in
+
+	this part of town.
+
+	We follow him up a flight of rickety stairs to a second
+
+	floor flat.  He knocks on the door, is admitted by a cautious
+
+	doorman.
+
+	INT. NUMBERS SPOT - DAY
+
+	Suddenly we are plunged into a room of chattering, clamoring
+
+	people.  This is a spot for the numbers racket, a place
+
+	immune from legal interference, where any sucker can bet on
+
+	a number between 1 and 1000 in the hope of getting the 600
+
+	to 1 payoff that goes to those few who guess right.  The
+
+	bettors are queued up in several lines before a long table,
+
+	where they place their bets and are given receipts in return.
+
+	Others wait at a cashier's window to pick up previous
+
+	earnings or to ask for credit.
+
+	Mottola moves through the crowd to a back room where betting
+
+	slips are being sorted and money counted under the watchful
+
+	and somewhat impatient gaze of a Supervisor, an older man
+
+	named Mr. Granger.  The Yankee-White Sox game is heard on
+
+	the radio in the background.
+
+	Mottola, noticing that his entrance has aroused little
+
+	interest, saunters over to the Phone Girl and gives her a
+
+	little pinch on the cheek.  The girl slaps his hand away,
+
+	obviously having been through this before.
+
+					PHONE GIRL
+
+			Beat it, Mottola.
+
+	Granger glances up and exchanges a token nod with Mottola,
+
+	who plops down in a folding chair next to the radio.  The
+
+	phone rings.
+
+					PHONE GIRL
+
+			8720...Yes, hold on a second.
+
+				(calling over to the Supervisor)
+
+			Mr. Granger, Chicago on the line.
+
+	Granger is a little apprehensive about talking to Chicago,
+
+	but takes the phone anyway.
+
+					GRANGER
+
+			Yeh?
+
+								CUT TO:
+
+	INT. A WATERFRONT PROCESSING PLANT - CHICAGO - DAY
+
+	A flabby, bald man named Combs is on the other end of the
+
+	line.  Visible beyond the door and interior window of his
+
+	office is a large room, cluttered with tables, typewriters,
+
+	clerks and adding machines.  This room is the clearinghouse
+
+	for all the transaction of the numbers game.  All the
+
+	betting slips and income from the spots are brought in here
+
+	and processed.
+
+					COMBS
+
+			Granger, this is Combs.  Why
+
+			haven't we heard from ya?  Everybody
+
+			else is in.
+
+					GRANGER
+
+			We had a few problems with the Law
+
+			this morning.  The Mayor promised
+
+			the Jaycees to get tough on the
+
+			rackets again, so he shut everybody
+
+			down for a couple hours to make it
+
+			look good.  Nothing serious, it
+
+			just put us a little behind for the
+
+			day.
+
+					COMBS
+
+			You been making your payoffs,
+
+			haven't ya?
+
+					GRANGER
+
+			Hell yes.  He does this every year.
+
+			There's nothing to worry about.
+
+					COMBS
+
+			Okay, finish your count and get it
+
+			up here as soon as you can.  I
+
+			don't wanta be here all night.
+
+					GRANGER
+
+			Believe me, the Man's gonna be real
+
+			happy.  Looks like we cleared over
+
+			ten grand this week.
+
+					COMBS
+
+				(not impressed)
+
+			We cleared 22 here.
+
+					GRANGER
+
+			Well, hell, you got the whole
+
+			Chicago south side.  How do ya
+
+			expect the eight lousy spots I've
+
+			got to compete with that?
+
+					COMBS
+
+				(reading off a sheet
+
+				of paper on his desk)
+
+			They did 14 grand in Evanston, 16.5
+
+			is Gary, and 20 in Cicero.  Looks
+
+			like you're bringing up the rear,
+
+			Granger.
+
+	INT. NUMBERS SPOT - DAY
+
+	Granger burns inside.  One of the girls who's been sorting
+
+	and counting hands him a slip of paper.
+
+					GRANGER
+
+			I just got the count.  We'll put
+
+			the take on the 4:15.
+
+					COMBS
+
+			We'll be waitin'.
+
+	Combs hangs up, smiling to himself, proud of the way he gave
+
+	the needle to Granger.
+
+								CUT TO:
+
+	INT. NUMBERS SPOT - DAY
+
+	Granger storming over to a safe and jerking open the door.
+
+					GRANGER
+
+				(snapping)
+
+			Mottola.
+
+	Mottola hustles out of his chair.
+
+					GRANGER
+
+				(handing him a bundle
+
+				of bills)
+
+			Take this up to the city on the
+
+			4:15.  They'll be waitin' for it at
+
+			the clearing house.  And don't stop
+
+			for no drinks.  You can get a cab
+
+			down the street.
+
+	Mottola takes the money and slips it into his inside coat
+
+	pocket with all the dramatic flair of the true flunky.  No
+
+	one would ever guess that he was just an overdressed
+
+	messenger boy.
+
+	EXT. OF THE TENEMENT AGAIN
+
+	Mottola emerges from a side entrance into a narrow alley.
+
+	He walks briskly down to the end and turns left into a large
+
+	alleyway; this one connecting two streets.  The alley is
+
+	deserted save for one scruffy, slovenly dressed young
+
+	stranger coming toward him from the opposite direction.  The
+
+	man carries a battered suitcase and seems to be in a hurry.
+
+	Suddenly, Mottola hears shouting coming from somewhere
+
+	behind him.  He turns around to see a small, weathered
+
+	looking thief come racing around the corner and down the
+
+	alley toward him, frantically pursued by a gray-haired black
+
+	man.  Limping noticeably, the black man manages a few cries
+
+	for help and then stumbles and falls.  The stranger yells at
+
+	Mottola to cover his side of the alley, and then readies
+
+	himself for the arrival of the thief.  Mottola just stands
+
+	there, not the least interested in the exercise of justice.
+
+	Just as the thief is about to run on by, the stranger throws
+
+	his suitcase at the little man's legs, sending him sprawling
+
+	and separating him from the wallet he's been carrying in his
+
+	left hand.
+
+	The stranger makes a dash for the wallet and kicks it back
+
+	to where Mottola is standing.  Almost by reflex, Mottola
+
+	picks it up.  The thief scrambles to his feet and starts
+
+	back toward his new-found enemy, brandishing a knife.  Both
+
+	the stranger and Mottola brace themselves for an attack.
+
+	The thief, realizing that there are two people to fight,
+
+	begins to think better of it.  He is not a young man, nor
+
+	particularly strong.
+
+					THIEF
+
+				(shaking his fist at
+
+				the stranger)
+
+			You fuckin' nigger-lover.  I'll get
+
+			you for this someday, sucker egg.
+
+	Mottola and the stranger exchange glances of relief as the
+
+	thief flees out onto the street and disappears.
+
+	The black man, meanwhile, has struggled to his feet and is
+
+	staggering toward them.  He collapses against the alley wall
+
+	after a few steps.  The stranger rushes over to him, followed
+
+	somewhat absently by Mottola.
+
+					BLACK MAN
+
+			The wallet.  You gotta go after him.
+
+			He's got all the money.
+
+					STRANGER
+
+			Don't worry, we got the wallet.
+
+			What happened?  He get ya with the
+
+			knife?
+
+	The stranger opens the Black Man's coat to reveal a bloody
+
+	wound at the top of his leg.
+
+					BLACK MAN
+
+				(trying to move)
+
+			Give it to me!  Please.  I gotta
+
+			know it's all there!
+
+					STRANGER
+
+			You just sit tight, old man.  We're
+
+			gonna have to get you to a doctor.
+
+				(starting to leave)
+
+			I'll call a cop.
+
+					BLACK MAN
+
+			No, no cops!
+
+	Mottola has given him his wallet, which the black man now
+
+	opens, disclosing a fat bundle of bills tied by a rubber
+
+	band.  Mottola and the stranger are amazed by the amount of
+
+	money.
+
+					STRANGER
+
+				(a little uneasy)
+
+			You wanted by the law or somethin'?
+
+					BLACK MAN
+
+			Naw, it's okay.
+
+					STRANGER
+
+			You're crazy carryin' that kinda
+
+			money in this neighborhood.  No
+
+			wonder you got hit.
+
+					BLACK MAN
+
+				(trying to get to his feet)
+
+			Thanks.  I'm obliged to ya, but I
+
+			gotta get goin'.
+
+				(his leg gives way
+
+				under him)
+
+					STRANGER
+
+			You ain't goin' nowhere on that leg.
+
+					BLACK MAN
+
+			I gotta!  Look, I run some slots
+
+			down in West Bend for a mob here.
+
+			I got a little behind on my payoffs
+
+			so they figure I been holdin' out
+
+			on 'em.  They gave me to 4:00 to
+
+			come up with the cash.  I don't get
+
+			it there I'm dead.
+
+					STRANGER
+
+			It don't look good, gramps, it's
+
+			ten of now.
+
+					BLACK MAN
+
+			I got a hundred bucks for you and
+
+			your friend if you deliver the
+
+			money for me.
+
+					STRANGER
+
+				(hesitates)
+
+			I dunno.  That little mug that got
+
+			ya is mad enough at me already --
+
+			what if he's out there waitin'
+
+			around a corner with some friends.
+
+					BLACK MAN
+
+			He won't know you're carryin' it.
+
+			C'mon, you gotta help me out.
+
+					STRANGER
+
+				(makes up his mind)
+
+			Sorry, pal.  I'll fix you up, call
+
+			you a doc, but I ain't gonna walk
+
+			into a bunch of knives for ya.
+
+					BLACK MAN
+
+				(desperate to Mottola)
+
+			How bout you?  I'll give you the
+
+			whole hundred!
+
+					STRANGER
+
+			What makes you think you can trust
+
+			him?  He didn't do shit.
+
+					MOTTOLA
+
+			Hey, butt out, chicken liver.  I
+
+			gave him back his wallet, didn't I?
+
+				(to black man)
+
+			How far is this place?
+
+					BLACK MAN
+
+			1811 Mason.  Put it in Box 3C.  You
+
+			won't have no trouble.  There's
+
+			five thousand dollars there and
+
+			here's a hundred for you.
+
+					MOTTOLA
+
+				(taking the bundle of
+
+				bills from the black
+
+				man, plus the $100 bill)
+
+			All right.  I'll make your drop for
+
+			you, old man.  And don't worry, you
+
+			can trust me.
+
+	Mottola puts the bills in his inside coat pocket, right next
+
+	to the numbers money.  The stranger, who has now finished
+
+	bandaging, watches him do it.
+
+					STRANGER
+
+			If that punk and his pals decide to
+
+			search ya, you'll never fool 'em
+
+			carryin' it there.
+
+					BLACK MAN
+
+				(suddenly afraid again)
+
+			What do we do?
+
+					STRANGER
+
+			You got a bag or somethin?
+
+					BLACK MAN
+
+			No.
+
+					STRANGER
+
+			How 'bout a handkerchief?
+
+					BLACK MAN
+
+			Here.
+
+	The stranger goes into the right coat pocket and pulls out a
+
+	wrinkled handkerchief.
+
+					STRANGER
+
+			Let me have the money.
+
+	Mottola takes out the Black Man's five grand and hands it to
+
+	the Stranger.  He puts it in the handkerchief.
+
+					STRANGER
+
+			You better stick that other in here
+
+			too, if you wanta keep it.
+
+					BLACK MAN
+
+				(pleading)
+
+			Just hurry, will ya.
+
+	Mottola pulls out the numbers money and puts it in the
+
+	handkerchief too.  The stranger ties it all up.
+
+					STRANGER
+
+				(demonstrating by
+
+				slipping the bundle
+
+				down into crotch)
+
+			All right.  Carry it down in your
+
+			pants here.
+
+				(pulling it back out
+
+				and tucking it in
+
+				Mottola's pants)
+
+			Ain't no hard guy in the world
+
+			gonna frisk ya there.
+
+					MOTTOLA
+
+			Thanks.
+
+				(to the black man)
+
+			So long, partner.  Don't worry,
+
+			everything's gonna be all right.
+
+	The Black Man nods gratefully, but there's still a trace of
+
+	worry on his face.  Mottola trots off down the alley and out
+
+	onto the street, glancing around cautiously for signs of
+
+	trouble.  He walks hurriedly down the sidewalk toward the
+
+	cab stand in the distance.  Suddenly the little man with the
+
+	knife appears out of a doorway about 15 yards behind him.
+
+	Mottola notices him and quickens his pace, finally breaking
+
+	into a dead run.
+
+	We follow him as he dashes headlong down the street, opening
+
+	a big lead on the guy with the knife.  He reaches the taxi
+
+	zone.  He hops in a cab and slams the door.
+
+	INT. TAXI - DAY
+
+	He jumps in, closes the door, and breathes a sigh of relief.
+
+					CABBIE
+
+			Where to?
+
+					MOTTOLA
+
+			Which way is Mason?
+
+					CABBIE
+
+			About 20 blocks south.
+
+					MOTTOLA
+
+			Okay, go north.  The Joliet
+
+			Station -- Fast.
+
+Mottola settles back in his seat and starts to laugh.
+
+					CABBIE
+
+			What's so funny?
+
+					MOTTOLA
+
+			I just made the world's easiest
+
+			five grand.
+
+	He takes the bundle out from inside his pants in order to
+
+	gaze upon his new-found fortune.  He unties the handkerchief.
+
+	It's full of toilet paper.  Mottola looks like he's just
+
+	been shot.
+
+								CUT TO:
+
+	EXT. ALLEY - DAY - THE STRANGER AND BLACK MAN
+
+	hightailing it down the street, two newly solvent con
+
+	artists on the lam.  It's hard to run they're laughing so
+
+	hard.  The stranger chucks his suitcase in a trash can and
+
+	pulls the real handkerchief out of his pants.
+
+					BLACK MAN
+
+			Jesus, what a bundle.  Did you know
+
+			he was that loaded?
+
+					STRANGER
+
+			Hell no, I just cut into him.  I
+
+			woulda settled for pawning one of
+
+			them shoes.
+
+	As they split off, music begins, and we go into a
+
+	TITLES SEQUENCE
+
+	Done to a driving Chicago blues, the sequence is designed to
+
+	establish somewhat the milieu of the stranger, known to
+
+	friends and enemies alike as Hooker.  We see the following:
+
+	EXT. PAWNSHOP - LOOKING INSIDE - DAY
+
+	Hooker is getting a radio and well-worn suit out of hook.
+
+	It's like seeing old friends again.  All pantomime.
+
+	INT. HOOKER'S ROOM - DAY
+
+	A shabby little place he rents above a cigar store.  We pick
+
+	him up in a jerry-built outdoor shower, which he's rigged up
+
+	on the fire escape.  The rinse water drips down through the
+
+	landing into the grimy alley below.
+
+					HOOKER
+
+				(singing)
+
+			'With plenty of money and you-oo-
+
+			oo,
+
+			Oh baby, what I wouldn't do-oo-
+
+			oo...'
+
+	ON THE STREET AGAIN
+
+	jauntily carrying a magnum of champagne and some flowers,
+
+	obviously on his way to see someone special.
+
+	IN A BURLESQUE HOUSE
+
+	Hooker stands in the wings holding the flowers and champagne,
+
+	watching his date for the evening, a 6'3" stripper named
+
+	Crystal, do her routine.
+
+	Crystal finishes up and comes off the stage.
+
+					CRYSTAL
+
+				(tired)
+
+			Hi, Hooker, you gettin' married or
+
+			somethin'?
+
+					HOOKER
+
+			Come into a little dough.  You
+
+			wanna get outa here tonight?
+
+					CRYSTAL
+
+			Can't.  I got a 10 o'clock show.  I
+
+			need the five bucks.
+
+					HOOKER
+
+			I'll spend fifty on ya.
+
+	Crystal looks at him a second and starts to giggle.  We're
+
+	pretty sure she's gonna get outa here tonight.
+
+	COMING INTO A POOR MAN'S GAMBLING JOINT
+
+	Little more than a reconverted brick basement, the place
+
+	contains three shoddy, homemade roulette tables.  Hooker,
+
+	accompanied now by Crystal, nods a greeting to the doorman
+
+	and proceeds to a table where there are already several
+
+	other people laying their bets for the next spin.  Hooker
+
+	knows the wheel man, an old-timer named Jimmy.
+
+					JIMMY
+
+				(glad to see him)
+
+			Hooker!
+
+					HOOKER
+
+			How ya doin', Jimmy.
+
+					JIMMY
+
+				(collecting bets and
+
+				paying off the winners)
+
+			Ain't seen you in months, boy.
+
+			Thought maybe you took a fall.
+
+					HOOKER
+
+			Naw, just a little hard times,
+
+			that's all.  It's all over now.
+
+					JIMMY
+
+			You gonna have a go here?
+
+				(pointing to the
+
+				betting board)
+
+			How 'bout a ten spot on the line
+
+			here.  The 4-9 been lookin' good
+
+			today.  Lotsa action on 28th Street
+
+			down there, too.  Pay ya 10-1.
+
+	As Jimmy finishes his spiel, he starts the wheel spinning
+
+	and drops in the ball.  Betting is allowed to continue until
+
+	the ball drops from the outer ring into the center.
+
+					HOOKER
+
+				(taking out his wallet)
+
+			Three grand on the black.
+
+	Jimmy is stunned.  The others at the table, used to dollar
+
+	bets, look at Hooker like he's some kind of foreign dignitary.
+
+					JIMMY
+
+				(worried)
+
+			You sure you wanna start off that
+
+			big?  Bet like that could put a
+
+			real dent in us.
+
+					HOOKER
+
+			I feel lucky tonight.
+
+					JIMMY
+
+			Aw, come on, Hooker, why don't you
+
+			just...
+
+					HOOKER
+
+			Three grand on the black, Jimmy.
+
+	Jimmy wants to argue some more, but the ball is getting
+
+	ready to drop into the center.  We see Jimmy quickly press a
+
+	hidden lever under the table with his foot.  The ball falls
+
+	and settles into red 27 with a motion that is not quite
+
+	right.  The others at the table fail to notice, but Hooker
+
+	is not fooled.  He stares venomously at Jimmy, who knows
+
+	that Hooker is on to him.
+
+					JIMMY
+
+			Sorry, Hooker.
+
+				(making an attempt at
+
+				levity, in order to explain)
+
+			Good thing that ball came up red.
+
+			Guy could get in trouble around
+
+			here, losin' a bet that big.
+
+	Jimmy reaches for Hooker's money.  Hooker stops him by
+
+	putting his hand on it.
+
+					HOOKER
+
+			Spin it again.
+
+	Jimmy doesn't know what the hell to do.  He gives Hooker a
+
+	little head motion to indicate a small window high up in one
+
+	of the walls.  Behind it, we see a pair of eyes.  Suddenly,
+
+	Hooker understands why Jimmy had to cheat him, but it
+
+	doesn't change his demand.
+
+					HOOKER
+
+			Spin it anyway, Jimmy.
+
+	Jimmy is beside himself.  If he doesn't spin again, Hooker
+
+	may expose him.  If he does spin, and loses, his management
+
+	will fire him.  He pleads to Hooker with his eyes, but it's
+
+	no use.  Jimmy spins the wheel and reluctantly drops in the
+
+	ball.  This time there is no foot on the lever, and it
+
+	settles into black 15.  Hooker stares at the ball a second
+
+	and then looks up at his terrified friend.
+
+					HOOKER
+
+			Don't worry, pal.  I knew it was my
+
+			night.
+
+	Hooker pushes the money over to Jimmy and walks out of the
+
+	room.  He's lost $3,000, but he's still working on a lucky
+
+	night.
+
+								CUT TO:
+
+	EXT. GAMBLING JOINT
+
+	Hooker and Crystal out on the street.
+
+					CRYSTAL
+
+				(irritated)
+
+			Thanks for the evening, Hooker.  I
+
+			can still make the 10 o'clock.  If
+
+			you wanna spend 50 bucks on me
+
+			again, mail it.
+
+	She walks off down the street.
+
+					HOOKER
+
+				(going into his
+
+				pocket for more money)
+
+			Hey wait a minute.
+
+				(he comes up with 30)
+
+			Aw, the hell with ya.
+
+								CUT TO:
+
+	EXT. THE WATERFRONT PROCESSING PLANT - LATE AFTERNOON
+
+	A late model Ford roars up and screeches to a stop in front
+
+	of the plant.  Out bursts a carefully-groomed, tight-lipped
+
+	young man named Greer, who hustles into the plant.  We
+
+	follow him through a maze of machinery to the service
+
+	elevator and up to the third floor where we find ourselves
+
+	in the clearinghouse room we saw earlier.
+
+	INT. PLANT - AFTERNOON - LATE
+
+	The working day is over now, and everyone has gone, except
+
+	for Combs, who sits somberly in his office.
+
+					GREER
+
+			They found Mottola.  He was drunk
+
+			in a dive in Joliet.  Never got on
+
+			the train.
+
+					COMBS
+
+				(aggravated)
+
+			I don't wanta hear about his day,
+
+			Greer.  What happened to the money?
+
+					GREER
+
+			He lost it to a coupla con artists
+
+			on his way outa the spot.
+
+					COMBS
+
+			How much?
+
+					GREER
+
+			Twelve thousand.
+
+	Combs sits in quiet thought for a second.  Finally:
+
+					COMBS
+
+			All right.  Better get on the phone
+
+			to New York.  See what the big mick
+
+			wants to do about it.
+
+				(pause)
+
+			I gotta pretty good idea, though.
+
+								CUT TO:
+
+	INT. AN EXCLUSIVE NEW YORK GAMBLING CLUB - LATE AFTERNOON
+
+	An agitated young man, Floyd, weaves his way through the
+
+	craps and roulette tables, and hustles up a staircase to a
+
+	second floor room with a drawing of a snarling tiger on the
+
+	door.  Below the tiger, the word "FARO" appears.  There is a
+
+	large man, of thuggish demeanor, guarding the door, but
+
+	Floyd gives him a small hand signal and walks right by him.
+
+								CUT TO:
+
+	INSIDE THE FARO ROOM
+
+	In the center is a beautifully-carved wooden table, on which
+
+	sit a faro board and a dealing box, tended by a stone-faced
+
+	Dealer, who calls the progress of the game in a continuous
+
+	abacus-like device that keeps track of the cards which have
+
+	already been played.  On the opposite side of the table,
+
+	completely absorbed in the rhythmic appearance of the cards
+
+	from the dealing box, sits Doyle Lonnegan.  Although is
+
+	clothes and accessories are those of a wealthy man, there is
+
+	a coarseness to both his movement and speech which bespeak
+
+	lower class origins, for which he now has nothing but
+
+	contempt.
+
+	Floyd enters the room and approaches him cautiously, trying
+
+	hard to make as little noise as possible.
+
+					FLOYD
+
+			Doyle, can I see you a minute?
+
+					LONNEGAN
+
+				(not looking up from
+
+				the table)
+
+			I'm busy, Floyd.
+
+					FLOYD
+
+			It's important.  We had a little
+
+			trouble in Chicago today.  One of
+
+			our runners got hit for 12 grand.
+
+					LONNEGAN
+
+				(calmly)
+
+			Which one?
+
+					FLOYD
+
+			Mottola.
+
+					LONNEGAN
+
+			You sure he didn't just pocket it?
+
+					FLOYD
+
+			No, we checked his story with a
+
+			tipster.  He was cleaned by two
+
+			grifters on 47th.
+
+					LONNEGAN
+
+			They workin' for anybody?
+
+					FLOYD
+
+			I don't know.  Could be.  We're
+
+			runnin' that down now.
+
+					LONNEGAN
+
+			All right, mark Mottola up a little
+
+			and put him on a bus.  Nothin'
+
+			fancy, just enough to keep him from
+
+			coming back.  Get some local people
+
+			to take care of the other two.
+
+				(impassively)
+
+			We gotta discourage this kinda thing.
+
+								CUT TO:
+
+	INT. AN OLD BROWNSTONE - NIGHT
+
+	Hooker, still in his suit, but looking a little worse for
+
+	wear, knocks on the door of one of the apartments.  A young
+
+	black woman, Louise, answers the door, holding a baby.
+
+					HOOKER
+
+			Howdy, Louise.
+
+					LOUISE
+
+				(admiring Hooker in
+
+				his suit)
+
+			Goddamn, Johnny Hooker, you're a
+
+			sharp hunky in them linens.  If you
+
+			wasn't so pale, I'da sworn you had
+
+			class.
+
+	Hooker steps inside and walks right into a big hug from an
+
+	older black woman, Alva.  Alva has a hat on, obviously just
+
+	about to go out.  Beyond her we see the Eirie kid and the
+
+	Black Man (known from here on as Luther Coleman) playing a
+
+	game of mah jong on the dining table with a man whose back
+
+	is to us.  An 11-year-old boy is listening to the radio.
+
+					COLEMAN
+
+			Turn that down, Leroy.
+
+					ALVA
+
+			Oh, Johnny, Luther said you was
+
+			somethin' to see today.
+
+					HOOKER
+
+			I'll never be as good as that mark,
+
+			Alva.
+
+					ALVA
+
+			Well, we gonna hear all about it
+
+			when we get back from church.
+
+			Leroy, get your jacket on, boy.
+
+	Leroy goes to get his jacket.  Louise is finished putting
+
+	the baby to bed.
+
+					HOOKER
+
+			You goin' to church now?
+
+					ALVA
+
+			They been havin' late bingo down
+
+			there.  I'm gonna call on the Lord
+
+			for a little cash, while he's still
+
+			payin' off.  Luther, you look in on
+
+			that child from time to time, will
+
+			ya?
+
+	Luther nods that he will.  Alva, Leroy and Louise leave for
+
+	church as Hooker strolls over and tosses two packets on the
+
+	table.  Luther doesn't pick his up, but the other man does.
+
+	We now see that he is the thief in the opening sequence.  He
+
+	is called the Eirie kid and he is delighted at his share.
+
+					EIRIE KID
+
+			Hey, Luther told me he was carrying
+
+			a wad, but I didn't figure this much.
+
+					HOOKER
+
+			Which way did he do, Eirie?
+
+					EIRIE KID
+
+			Straight north.  He was gonna take
+
+			it all and run.
+
+					HOOKER
+
+				(laughs)
+
+			The bastard.  He can blow his nose
+
+			all the way.
+
+	They laugh again, but Luther doesn't share their enthusiasm.
+
+	He watches Hooker who becomes uncomfortable under his gaze.
+
+					COLEMAN
+
+			You're late.  Where you been?
+
+					HOOKER
+
+				(flopping into a chair)
+
+			I had some appointments.
+
+					COLEMAN
+
+				(not fooled)
+
+			How much did ya lose?
+
+					HOOKER
+
+				(after a pause)
+
+			All of it.
+
+					COLEMAN
+
+				(pissed)
+
+			In one goddamn night?  What are ya
+
+			sprayin' money around like that for?
+
+			You coulda been nailed.
+
+					HOOKER
+
+			I checked the place out.  There
+
+			weren't no dicks in there.
+
+					COLEMAN
+
+			You're a con man, and you blew it
+
+			like a pimp.  I didn't teach ya to
+
+			be no pimp.
+
+					HOOKER
+
+			What's eatin' you?  I've blown
+
+			money before.
+
+					COLEMAN
+
+			No class grifter woulda' done it,
+
+			that's all.
+
+					HOOKER
+
+			You think my play is bad?
+
+					COLEMAN
+
+			I think it's the best...
+
+	Hooker sinks back, embarrassed that he misread Coleman's
+
+	intentions.
+
+					COLEMAN
+
+			...It's the only reason I ain't
+
+			quit before now.
+
+					HOOKER
+
+				(bewildered)
+
+			What?
+
+					COLEMAN
+
+			I'm gettin' too slow for this
+
+			racket.  I done the best I'm gonna
+
+			do.  You hang on too long, you
+
+			start embarrassin' yourself.
+
+					HOOKER
+
+			What are you talkin' about?  We
+
+			just took off the biggest score
+
+			we've ever had.  We can do anything
+
+			we want now.
+
+					COLEMAN
+
+			It's nothin' compared to what you
+
+			could be makin' on the Big Con.
+
+			You're wastin' your time workin'
+
+			street marks.
+
+					HOOKER
+
+			Hey look.  You think I'm gonna run
+
+			out on ya or somethin'?  Just cause
+
+			we hit it big.  Luther, I owe you
+
+			everything.  If you hadn't taught
+
+			me con, I wouldn't know nothin'.
+
+					COLEMAN
+
+				(a little embarrassed)
+
+			Aw hell, you sound like some
+
+			goddamn sucker.  You know everything
+
+			I know.  You got nothin' more to
+
+			learn from me.
+
+					HOOKER
+
+			But you played the Big Con.  You
+
+			said it was nothin'.  A game for
+
+			flakes and mama's boys.
+
+					COLEMAN
+
+			And I'm tellin' ya now, you're a
+
+			fool if you don't get into it.  A
+
+			bigger fool than I was.
+
+				(pause, holding up
+
+				the money)
+
+			I been lookin' for this one all my
+
+			life, Johnny.  Now I got a chance
+
+			to step out at the top.
+
+	Hooker knows it's no use.
+
+					HOOKER
+
+				(after a long silence)
+
+			What the hell you gonna do with
+
+			yourself?
+
+					COLEMAN
+
+			Aw, I got a brother down in K.C.,
+
+			runs a freight outlet.  I can go
+
+			halfsies with 'em!  It ain't too
+
+			exciting, but it's mostly legal.
+
+	Hooker just nods.
+
+					COLEMAN
+
+			Straighten up, kid.  I wouldn't
+
+			turn ya out if ya weren't ready.
+
+				(flipping Hooker a
+
+				piece of paper)
+
+			I got a guy named Henry Gondorff I
+
+			want you to look up.  There ain't a
+
+			better insideman alive.  He'll
+
+			teach ya everything ya gotta know.
+
+					HOOKER
+
+			You'll take a cut of what I make,
+
+			won't ya?
+
+					COLEMAN
+
+			I'm out, Johnny.
+
+					HOOKER
+
+			If that's the way you want it.
+
+					COLEMAN
+
+			That's the way I want it.
+
+								CUT TO:
+
+	EXT. A DIMLY LIT STREET - NIGHT
+
+	It's late at night now.  Hooker and Eirie wander along the
+
+	street together, not really ready to go home, but with no
+
+	other ideas either.  Hooker, obviously preoccupied, idly
+
+	strikes a match on a street lamp as he passes and lets it
+
+	burn out.  He does this several times.
+
+					HOOKER
+
+			How do you like that Coleman, huh?
+
+			After three years.
+
+					EIRIE KID
+
+			Aw come on, it was the only thing
+
+			to do.  He knew he was holdin' ya
+
+			back.
+
+					HOOKER
+
+			We were partners.  If it weren't
+
+			for Luther I'd still be hustlin'
+
+			pinball down at Gianelli's.  I
+
+			don't need anything more than I got.
+
+					HOOKER
+
+			You ain't gonna have nothin' if you
+
+			don't lay off them games of chance.
+
+			There's a depression on ya know.
+
+					HOOKER
+
+			There's always a depression on.
+
+					EIRIE KID
+
+			If you saved a little, you wouldn't
+
+			have to grift so much.
+
+					HOOKER
+
+			I like griftin'.
+
+					EIRIE KID
+
+			You could buy yourself some things.
+
+			Clothes, or a nice car...
+
+					HOOKER
+
+			I don't look any good in clothes
+
+			and I don't know how to drive.
+
+			What else ya got to sell, Eirie?
+
+					EIRIE KID
+
+			Forget it.
+
+	They walk on a few more feet, when suddenly a police car
+
+	pulls up alongside them and two men jump out.  The first, a
+
+	uniformed policeman, grabs Eirie around the neck.
+
+	Hooker makes a break for it, but the second Figure, a burly
+
+	detective named Snyder, tackles him in the middle of the
+
+	street, drags him back into the alley and plasters him up
+
+	against a brick wall.  The two have met before.
+
+					HOOKER
+
+			Hi there, Snyder.  Things a little
+
+			slow down at the Bunco Department
+
+			tonight, eh?  Somebody lose the
+
+			dominoes?
+
+					SNYDER
+
+			You scored blood money today,
+
+			Hooker.  You need a friend.
+
+					HOOKER
+
+				(knocking Snyder's
+
+				hand away)
+
+			Aw, find yourself a shoplifter to
+
+			roll.
+
+	Snyder gives Hooker a swift knee in the thigh and follows it
+
+	with an elbow across the head.  Hooker flies into a row of
+
+	boxes and garbage cans.
+
+					HOOKER
+
+				(getting up slowly)
+
+			You got the wrong guy, pal.  I been
+
+			home with the flu all day.
+
+				(rising to a fuller height)
+
+			You can stake out my toilet if you
+
+			want.
+
+	Bang.  Snyder, infuriated by Hooker's irreverence, slams him
+
+	to the ground again.  The policeman is no longer holding
+
+	Eirie but is almost daring him to make a move.  Eirie wants
+
+	to go to Hooker's aid, but he knows the policeman will beat
+
+	him to a pulp.
+
+					SNYDER
+
+				(pulling Hooker out
+
+				of the heap and
+
+				smashing him against
+
+				the wall again)
+
+			I'll tell ya what you did, smart
+
+			boy.  You tied into a loaded mark
+
+			on 47th across from Maxies.  You
+
+			and Coleman played the switch for
+
+			him and blew him off to a cab on
+
+			49th.  If he hadn't been a numbers
+
+			runner for Doyle Lonnegan, it
+
+			woulda been perfect.
+
+					HOOKER
+
+				(startled by the information)
+
+			You're crazy.  I'm not stupid
+
+			enough to play for rackets money.
+
+					SNYDER
+
+			Not intentionally maybe, but that
+
+			don't make no difference to Lonnegan.
+
+			He'll swat you like any fly.
+
+					HOOKER
+
+			I'll square it with the fixer.
+
+					SNYDER
+
+			Nobody can buy you a prayer, if I
+
+			put the finger on ya.
+
+	Snyder lets go.  Hooker sinks back against the wall.  He
+
+	says nothing; he's waiting for the price.
+
+					SNYDER
+
+			I figure your end of the score was
+
+			at least 3 gees.  I want 2 no
+
+			matter what it was.
+
+					HOOKER
+
+				(lying)
+
+			My end was only one.
+
+					SNYDER
+
+				(not taking the fake)
+
+			Then you'll have to come up with
+
+			another grand somewhere.
+
+	Hooker is beat and he knows it.
+
+					HOOKER
+
+			All right.
+
+	He reaches into his coat, pulls out a stack of bills and
+
+	counts out $2000 to Snyder.  Eirie looks on in amazement; he
+
+	didn't think Hooker had it.
+
+					SNYDER
+
+				(pocketing the money
+
+				and motioning his
+
+				partner to put his
+
+				gun away)
+
+			You're a smart egg, Hooker.  No use
+
+			dyin' for 2 grand.
+
+	Snyder and his policeman friend get in their car and start
+
+	down the street.  Hooker and Eirie walk nonchalantly in the
+
+	other direction.
+
+					EIRIE KID
+
+			I thought you blew all your money.
+
+					HOOKER
+
+			I did.  That stuff I gave him was
+
+			counterfeit.  They'll pinch him the
+
+			first place he tries to spend it.
+
+	Snyder and his partner disappear around a corner.  Hooker
+
+	suddenly takes off like a shot.
+
+	INT. DRUGSTORE - NIGHT
+
+	He runs into a drugstore and goes to the phone booth.
+
+	There's already a woman in it.  Hooker rips open the door
+
+	and throws her out.  Hurriedly, he begins to dial.
+
+					EIRIE KID
+
+				(standing outside the booth)
+
+			What the hell you gonna do when
+
+			Snyder rushes his finger right to
+
+			Lonnegan?  You're committin'
+
+			suicide, kid.
+
+					HOOKER
+
+				(waiting for the ring)
+
+			Aw Christ, it doesn't make no
+
+			difference now.  If Snyder knows
+
+			about it so does everybody else.
+
+			He never gets anything first...Damn,
+
+			there's no answer at Luther's.
+
+					EIRIE KID
+
+			Listen to me, Hooker.  What ever
+
+			you do, don't go back to your place
+
+			tonight, don't go anyplace you
+
+			usually go, ya hear me?  Get outa
+
+			town or somethin', but...
+
+	Hooker, still getting no answer, slams the phone down and
+
+	blasts out of the booth.
+
+	EXT. STREET - NIGHT
+
+	Eirie chases him frantically, calling him to come back, but
+
+	he's giving away too many years and there's no stopping
+
+	Hooker at this point.
+
+								CUT TO:
+
+	EXT. STREET - NIGHT - SHOTS OF HOOKER
+
+	Pumping down the street.
+
+	EXT. LUTHER'S BROWNSTONE - NIGHT
+
+	Hooker races into Luther's brownstone, charges up to the
+
+	third floor.
+
+	INT. LUTHER'S BROWNSTONE - NIGHT
+
+	Hooker runs up through a small group of people on the stairs.
+
+	He bursts into Luther's room, the door of which is already
+
+	open.  The room shows signs of a struggle, a turned-over
+
+	chair, a broken lamp, but there is no Coleman.  Hooker goes
+
+	slowly to the window.  He looks down into the courtyard and
+
+	then suddenly sprints back out the door.  As we hear him
+
+	scrambling down the stairs, the camera dollies to the window
+
+	and looks out.
+
+	EXT. COURTYARD - NIGHT
+
+	There on the concrete below, face down, is the body of
+
+	Luther Coleman.  Hooker races out to it and kneels down.
+
+					HOOKER
+
+				(shaking the body)
+
+			C'mon Luther, get up.  You gotta
+
+			get up, Luther.
+
+	In the distance, sirens are heard.  Heads are out of the
+
+	windows and some people are starting to gather in the
+
+	courtyard.
+
+					HOOKER (CONT'D)
+
+			Goddamn you, Luther, will you get
+
+			up?
+
+				(pounding on the body)
+
+			I'm not waitin' for you, Luther.
+
+			I'm not waitin' anymore.  Get up,
+
+			you son of a bitch.  Goddamn you,
+
+			Luther, goddamn.
+
+	The sirens are close now, and Hooker tears himself away from
+
+	Luther and runs.  The others gather to look at the body.
+
+								FADE OUT.
+
+	FADE IN:
+
+	THE SET-UP
+
+								FADE OUT.
+
+	FADE IN:
+
+	INT. THE TRAIN STATION - DAY
+
+	We open on Hooker sleeping in some remote corner of the
+
+	station, covered with newspapers for warmth, and barely
+
+	distinguishable from the clutter of junk surrounding him.  A
+
+	station security officer, on his morning sweep, wanders by
+
+	and delivers a terrific blow to the soles of Hooker's feet
+
+	with a nightstick.  Hooker jolts awake with a cry of pain,
+
+	as the officer diffidently moves on toward another sleeping
+
+	victim.
+
+	Tired and sore from his night in the station, Hooker
+
+	struggles to his feet and attempts to take stock of the
+
+	situation.  He tries to smooth the wrinkles out of his suit,
+
+	but it's futile.  A quick check of his wallet finds it as
+
+	empty as he'd remembered it.
+
+								CUT TO:
+
+	THE STATION - GIFT SHOP - DAY
+
+	Hooker walks in and goes to the toy section.  He looks
+
+	through several small novelties, till he finds what he's
+
+	looking for -- a little tin replica of a policeman's badge.
+
+	He looks around for station detectives, and seeing none,
+
+	slips the badge into his pocket.
+
+								CUT TO:
+
+	THE STATION - WASHROOM - DAY
+
+	Hooker rinses out his mouth, towels off his face and slicks
+
+	his hair back with water.  It's a drop in the bucket, but it
+
+	seems to revitalize him a little.
+
+								CUT TO:
+
+	STATION - HALLWAY - DAY
+
+	We see Hooker removing a sign from a door, but the angle
+
+	prohibits us from reading it.
+
+	INT. STATION - DAY
+
+	He drops the sign in a waste can and walks out into the
+
+	crowded passenger lobby.  After scanning the area carefully
+
+	for a minute, he goes up to a conservative young business
+
+	man, who's busy reading the schedule board.
+
+					HOOKER
+
+				(flashing open his
+
+				wallet to reveal the
+
+				little tin badge and
+
+				then closing it again quickly)
+
+			Excuse me, sir.  Treasury Dept...
+
+			I'd like to ask you a few questions.
+
+					MAN
+
+				(flustered)
+
+			What for?  I haven't done anything.
+
+					HOOKER
+
+			We don't doubt that, but there's a
+
+			counterfeiting operation passing
+
+			bad money in the station.  Have you
+
+			made any purchases here today?
+
+					MAN
+
+				(reluctantly)
+
+			Yes, a ticket to Chicago.
+
+					HOOKER
+
+			Then I'm afraid we'll have to
+
+			impound your money until we're sure
+
+			that it's all good.  Can I see your
+
+			wallet and your ticket, please?
+
+					MAN
+
+				(handing them over)
+
+			But I got a train to make.
+
+					HOOKER
+
+				(taking out the money
+
+				and returning the wallet)
+
+			It'll only take 20 minutes or so.
+
+			You can pick it up at the window
+
+			down the hall.
+
+					MAN
+
+			But what about all these other
+
+			people?
+
+					HOOKER
+
+				(blowing up)
+
+			We'll get 'em!  Give us a chance.
+
+			I'm not the only agent in here, ya
+
+			know.  We go around advertising
+
+			ourselves, how many counterfeiters
+
+			do you think we'd catch, huh?
+
+				(pointing to his suit)
+
+			You think I'm wearin' this rag here
+
+			'cause I like it?  Christ, everybody
+
+			thinks life's a holiday or somethin'
+
+			when you got a badge.
+
+				(pouring it on)
+
+			I been here since three this
+
+			morning, Charlie, and I never knew
+
+			there was so much ugliness in
+
+			people.  You try to help 'em and
+
+			they spit on you.  I shoulda let ya
+
+			go and gotten yourself arrested for
+
+			passin' false notes.
+
+	The Businessman is totally shamed.
+
+					MAN
+
+			I'm sorry, really I am, but my
+
+			train leaves in ten minutes.
+
+					HOOKER
+
+			All right, I'll give ya a break.
+
+				(pointing to a hall)
+
+			Down that hall there, there's an
+
+			unmarked door on the left.  Go on
+
+			in there and wait at the window.
+
+			I'll take this...
+
+				(he holds up the money)
+
+			...in the back and run it through
+
+			right away.  We'll have you outta
+
+			there in a couple minutes.
+
+					MAN
+
+			Thank you.  You don't know how much
+
+			I appreciate this.
+
+					HOOKER
+
+				(with a little wave)
+
+			Think nothin' of it.
+
+	The man goes off down the hall, more than grateful to be
+
+	given a break like this.  Hooker heads for the "back".  We
+
+	follow the Man down the hall to the unmarked door.  He
+
+	strides on through to find himself face to face with a wall
+
+	of busily flushing urinals.
+
+								CUT TO:
+
+	EXT. STATION - DAY - HOOKER
+
+	Boarding the 8:10 for Chicago.
+
+								CUT TO:
+
+	INT. STATION - DAY
+
+	The Man wandering up and down the hall, wondering how he
+
+	could have missed that room.
+
+	EXT. CHICAGO STREET - DAY
+
+	The street runs along side an elevated train track.  We pick
+
+	up Hooker coming down the street, eating a hot dog he bought
+
+	with the money he just earned in the train station.
+
+	He appears to be looking for an address, referring every now
+
+	and then to the piece of paper Luther gave him the night
+
+	before.  Finally he stops in front of an old three-story
+
+	building which contains a carousel on the bottom 2 floors
+
+	and what appear to be apartments on the third floor.  He
+
+	peers inside the big, sliding glass doors and seeing no sign
+
+	of life, goes around to the side to look for a way in.
+
+	A 35 year-old woman, Billie, appears in her bathrobe on the
+
+	second floor landing and descends the stairs to get the
+
+	morning paper.  She's eating an apple.  Although she has
+
+	just gotten up and looks it, she has the presence of one who
+
+	is probably quite striking at other hours.  The sight of
+
+	Hooker fazes her not at all.
+
+					HOOKER
+
+			Excuse me, I'm looking for a guy
+
+			named Henry Gondorff.  You know him?
+
+					BILLIE
+
+				(starting back up the stairs)
+
+			No.
+
+					HOOKER
+
+			Luther Coleman sent me.
+
+	Billie stops and comes back down the stairs.  It's the first
+
+	time she's stopped chewing.
+
+					BILLIE
+
+				(checking him out)
+
+			You Hooker?
+
+					HOOKER
+
+			Yeh.
+
+					BILLIE
+
+			Why didn't you say so.  I thought
+
+			maybe you was a copper or somethin'.
+
+	She goes to a side door and unlocks it.
+
+					BILLIE
+
+			It's the room in the back.  He
+
+			wasn't expecting you so soon though.
+
+	Hooker's not quite sure what that means, but there's
+
+	something about Billie that makes him know that you don't ask.
+
+	INT. CAROUSEL - DAY
+
+	Hooker walks past the now motionless carousel to the room in
+
+	the back and knocks on the door.  No answer.  He gives the
+
+	door a little push and it swings open.
+
+	INT. GONDORFF'S ROOM - DAY
+
+	The room inside if small and cluttered, consisting of a bed,
+
+	a sink, and a bathroom, all covered by a layer of books,
+
+	dirty clothes and beer bottles.  Draped over a chair, fully
+
+	dressed, but completely passed out is the one and only Henry
+
+	Gondorff.
+
+					HOOKER
+
+				(to himself)
+
+			The great Henry Gondorff.
+
+								CUT TO:
+
+	INT. A SHOWER - DAY
+
+	Water blasting out of the fixture.  We see Gondorff, still
+
+	fully clothed, sitting in the bottom of the shower, the
+
+	spray streaming off his face.  An imposing figure, with deep
+
+	set eyes and full beard, he just sits there stoically,
+
+	looking like a soggy lumberjack.  Hooker, sitting on the
+
+	floor between the toilet and the sink, watches listlessly.
+
+	Finally --
+
+					GONDORFF
+
+			Turn the goddamn thing off, will ya.
+
+					HOOKER
+
+			You sober?
+
+					GONDORFF
+
+			I can talk, can't I?
+
+	Hooker makes no move to get up.  Gondorff struggles to his
+
+	knees, turns off the water, and slumps back against the wall.
+
+	The two men just look past each other a second.  Down in the
+
+	bottom.
+
+					GONDORFF
+
+			Glad to meet ya, kid.  You're a
+
+			real horse's ass.
+
+					HOOKER
+
+			Yeh, Luther said you could teach me
+
+			something.  I already know how to
+
+			drink.
+
+	Gondorff wipes his face with his hand.  His mood softens a
+
+	little.
+
+					GONDORFF
+
+				(quietly)
+
+			I'm sorry about Luther.  He was the
+
+			best street worker I ever saw.
+
+					HOOKER
+
+			He had you down as a big-timer.
+
+			What happened?
+
+					GONDORFF
+
+			Aw, I conned a Senator from Florida
+
+			on a stocks deal.  A real lop-ear.
+
+			He thought he was gonna take over
+
+			General Electric.  Some Chantoozie
+
+			woke him up, though, and he put the
+
+			feds on me.
+
+					HOOKER
+
+			You mean you blew it.
+
+					GONDORFF
+
+				(pause)
+
+			Luther didn't tell me you had a big
+
+			mouth.
+
+					HOOKER
+
+			He didn't tell me you was a fuck-
+
+			up, either.
+
+				(Gondorff looks at
+
+				him coldly)
+
+			You played the Big Con since then.
+
+					GONDORFF
+
+			No, I lammed it around for a while
+
+			while things cooled off.  Philly,
+
+			Denver, Baltimore, nuthin' towns.
+
+	Hooker's disappointment is obvious.
+
+					GONDORFF
+
+			But don't kid yourself, friend, I
+
+			still know how.
+
+	Hooker nods, unconvinced.
+
+					GONDORFF
+
+				(getting up from the
+
+				floor and emptying
+
+				the water out of his pockets)
+
+			You gonna stay for breakfast, or do
+
+			you already know how to eat?
+
+					HOOKER
+
+				(tired)
+
+			I picked something up on the way.
+
+					GONDORFF
+
+				(sensing something)
+
+			Lonnegan after you, too?
+
+					HOOKER
+
+			I don't know.  Haven't seen anybody.
+
+					GONDORFF
+
+			You never do, kid.
+
+	We go to Hooker.  He hadn't thought of that.
+
+	EXT. A BEAUTIFUL OLD COLONIAL COUNTRY CLUB - LONG ISLAND -
+
+	DAY
+
+	Lonnegan, in plus fours and argyles sits on a bench as other
+
+	members of his foursome tee off.  Floyd comes up to him.
+
+					FLOYD
+
+			We got word from Chicago.  They got
+
+			one of the grifters last night.
+
+			The nigger.
+
+					LONNEGAN
+
+			What about the other one?
+
+					FLOYD
+
+			They're still looking for him.
+
+					LONNEGAN
+
+			Who's got the contract?
+
+					FLOYD
+
+			Combs gave it to Reilly and Cole.
+
+					LONNEGAN
+
+			Hackers.
+
+					FLOYD
+
+			They staked out the other guy's
+
+			place last night, but he never
+
+			showed.  They figure maybe he
+
+			skipped town.  You wanna follow 'em
+
+			up?
+
+	Lonnegan regards Floyd patiently and then pats the bench
+
+	beside him.  Floyd sits gingerly.
+
+					LONNEGAN
+
+			You see the guy in the red sweater
+
+			over there?
+
+	We cut to one of Lonnegan's foursome, a short, squat little
+
+	Irishman in a red sweater.  He was a good-time, friendly
+
+	manner and a winning Irish smile.  We like him immediately.
+
+					LONNEGAN
+
+			Name's Danny McCoy.  No Neck McCoy
+
+			we called him.  Runs a few
+
+			protection rackets for Carnello
+
+			while he's waiting for something
+
+			bigger to come along.  Me and Danny
+
+			been friends since we were six.
+
+			Take a good look at that face,
+
+			Floyd, cause if he ever finds out
+
+			we let one lousy grifter beat us,
+
+			you'll have to kill him and every
+
+			other hood in Chicago who'd like to
+
+			do the same thing.  You understand
+
+			what I'm sayin'?
+
+					FLOYD
+
+			Yes sir.
+
+					LONNEGAN
+
+			Good lad.
+
+	Lonnegan is called to the tee by one of his foursome.  He
+
+	exchanges a friendly smile with McCoy and belts the ball
+
+	down the fairway.
+
+								CUT TO:
+
+	INT. THE CAROUSEL AGAIN - DAY
+
+	Gondorff, dried off now and in a new set of clothes, is
+
+	pulling up the shades of the large facing windows of the
+
+	carousel building.  The morning light pours in, illuminating
+
+	fully for the first time the ornate merry-go-round and its
+
+	massive oaken horses.  Hooker watches him go about his
+
+	business.  Billie calls down from the mezzanine which
+
+	surrounds the carousel.
+
+					BILLIE
+
+			You feeling all right this morning,
+
+			Henry?
+
+					GONDORFF
+
+			Fine, Billie.
+
+					BILLIE
+
+			You mind opening the round a little
+
+			early today?  We got some business
+
+			coming in before hours.
+
+	Gondorff waves okay.
+
+					GONDORFF
+
+				(to Hooker)
+
+			Great little countess, that Billie.
+
+			Runs a good house up there, too.
+
+			One of the few left that Luciano
+
+			doesn't own.
+
+	Gondorff walks around on the carousel, checking straps,
+
+	bearing and poles.  Hooker follows him.
+
+					HOOKER
+
+				(getting impatient)
+
+			Gondorff, you gonna teach me the
+
+			Big Con or not?
+
+					GONDORFF
+
+				(on his back, checking
+
+				underneath one of the horses)
+
+			You didn't act much like you wanted
+
+			to learn it.
+
+					HOOKER
+
+			I wanna play for Lonnegan.
+
+					GONDORFF
+
+				(getting up)
+
+			You know anything about him?
+
+					HOOKER
+
+				(exploding)
+
+			Yeh, he croaked Luther.  What else
+
+			do I gotta know.
+
+	Gondorff just sits tight and waits for him to cool off.
+
+					HOOKER
+
+				(waving Gondorff off,
+
+				embarrassed at his
+
+				own outburst)
+
+			Aw right, he runs the numbers outta
+
+			the south side.
+
+					GONDORFF
+
+				(going over to start
+
+				the machinery)
+
+			And a packing company, a chain of
+
+			Savings and Loans and half the
+
+			politicians in Chicago and New York.
+
+			There ain't a fix in the world
+
+			gonna cool him out if he blows on ya.
+
+					HOOKER
+
+			I'll take him anyway.
+
+					GONDORFF
+
+				(whirling on him)
+
+			Why?
+
+					HOOKER
+
+				(like steel)
+
+			'Cause I don't know enough about
+
+			killin' to kill him.
+
+	It's the right answer. Gondorff didn't know it himself until
+
+	now.
+
+					GONDORFF
+
+			You can't do it alone, ya know.  It
+
+			takes a mob of guys like you and
+
+			enough money to make 'em look good.
+
+					HOOKER
+
+			We'll get by without 'em.
+
+					GONDORFF
+
+			This isn't like playin' winos on
+
+			the street.  You gotta do more than
+
+			outrun the guy.
+
+					HOOKER
+
+				(incensed)
+
+			I never played for winos.
+
+					GONDORFF
+
+				(going right on,
+
+				ignoring Hooker's remark)
+
+			You gotta keep Lonnegan's con, even
+
+			after you spent his money.  And no
+
+			matter how much you take from his,
+
+			he'll get more.
+
+					HOOKER
+
+			You're sacred of 'em, aren't ya?
+
+					GONDORFF
+
+			Right down to my socks, turkey.  If
+
+			I'da been half as scared a that
+
+			lop-ear, I wouldn't a fallen asleep
+
+			on 'em.  Lonnegan might kill me,
+
+			but at least he won't bore me to
+
+			death.
+
+					HOOKER
+
+			Then you'll do it?
+
+					GONDORFF
+
+			If I can find a mob that'll risk it.
+
+			But no matter what happens, I don't
+
+			want you comin' back to me halfway
+
+			through and sayin' it's not enough...
+
+			cause it's all you got.
+
+	Hooker nods.  Gondorff switches on the carousel and steps
+
+	back to admire his handiwork.  The carousel makes a grinding
+
+	sound, does a few lurches and stops cold.
+
+								CUT TO:
+
+	Music begins and we are into a short:
+
+	MONTAGE SEQUENCE
+
+	Detailing the arrival of the others three members of
+
+	Gondorff's "mob." Throughout, Gondorff wears the fedora hat
+
+	which is his trademark.  We begin with --
+
+	A tall, good-looking man, Kid Twist, making his way through
+
+	the railway station.  Impeccably dressed and carrying a
+
+	small suitcase, he combs the terrain carefully with his eyes.
+
+	Finally he catches a glimpse of the thing he's been looking
+
+	for.  It's Gondorff, standing by a newsstand.  Gondorff
+
+	makes a quick snubbing motion on his nose as if flicking off
+
+	a gnat.  This is known among con men as the "office." Twist
+
+	returns the sign with a barely discernible smile as he walks
+
+	on by.  Con men rarely acknowledge each other openly in
+
+	public, but it's obvious that these two are glad to see each
+
+	other.
+
+								CUT TO:
+
+	INT. BARBER SHOP - DAY
+
+	Hooker in, having his hair cut and his nails manicured.
+
+	Gondorff gives instructions to the barber.
+
+								CUT TO:
+
+	INT. HABERDASHERY - DAY
+
+	Hooker is modeling a new suit in front of a mirror.  He
+
+	doesn't look too pleased, but Gondorff peels out a bankroll
+
+	anyway.
+
+								CUT TO:
+
+	EXT. HOTEL - DAY
+
+	A pair of white spats stepping off a bus.  We follow them
+
+	into a:
+
+	INT. HOTEL LOBBY
+
+	Where we tilt up to reveal J.J. Singleton, the most
+
+	flamboyant of the bunch.  On his way to the check-in desk,
+
+	he silently exchanges the "office" with Gondorff, who is
+
+	sitting on a lounge reading the paper.
+
+								CUT TO:
+
+	INT. APARTMENT - DAY
+
+	Hooker being shown into a small apartment room by an old
+
+	woman.  It consists of a bed, a table and a sink.  Hooker
+
+	nods his acceptance to the woman and gives her a bill.  He
+
+	takes another look around the room and decides to go out
+
+	somewhere, but first he wedges a small piece of paper
+
+	between the door and the jamb, about an inch off the floor.
+
+								CUT TO:
+
+	INT. A BIG METROPOLITAN BANK - DAY
+
+	We hold on a slight, bespectacled teller, Eddie Niles, in
+
+	the process of counting a large deposit.  Niles is all
+
+	business; if he's ever smiled, no one knows about it.  He
+
+	glances up for a second and sees Gondorff "officing" him
+
+	from across the bank.  Without a word he shoves the money
+
+	he's been counting back into the hands of a startled
+
+	customer, abruptly closes up his window, flips his
+
+	identification tag on the manager's desk and walks out of
+
+	the bank.
+
+								CUT TO:
+
+	INT. AN UPSTAIRS ROOM OF THE CAROUSEL BUILDING - NIGHT
+
+	This room has obviously been relegated to the status of the
+
+	storage room.  It contains the water heater, mops and
+
+	brooms, old bed springs, etc.  In the middle of the room a
+
+	space has been cleared for a table, around which are seated
+
+	Hooker, Gondorff, Niles, Singleton and Twist.  Gondorff is
+
+	in his T-shirt, but still wears his hat.  Kid Twist is in a
+
+	suit as usual.  The room is illuminated by a single bare
+
+	bulb hanging from the ceiling.
+
+					TWIST
+
+				(showing Hooker
+
+				photographs of three men)
+
+			These are Combs' favorite torpedoes.
+
+			Riley and Cole.
+
+	We recognize Riley and Cole as the two guys who got into
+
+	Mottola's cab.
+
+					TWIST
+
+			They do most of the small jobs, but
+
+			Lonnegan might not wanna use 'em on
+
+			you 'cause they're kinda messy.  No
+
+			class.
+
+	We go to Hooker.  He's real grateful.  Billie, wearing an
+
+	evening dress, enters the room and begins gathering up the
+
+	empty beer mugs on the table.
+
+					TWIST
+
+			We got reason to believe Riley was
+
+			the guy who hit Luther.  But if you
+
+			see either one of these two, find
+
+			yourself a crowd, or take 'em
+
+			someplace you know you can handle
+
+			'em.
+
+					GONDORFF
+
+			But most of all let us know.  If
+
+			they got a hit on you, we gotta
+
+			fold up the con.  You're too
+
+			exposed.  You got that?
+
+	Hooker nods, but we know he hasn't really got that.
+
+					HOOKER
+
+			You sure it'll be one of these two?
+
+					TWIST
+
+			No.  They're just the only ones we
+
+			know of.
+
+	Billie has finished  gathering the mugs, and leaves the room
+
+	with them.  We follow her down the hall and into the:
+
+	RECEIVING ROOM OF HER BROTHEL
+
+	Carousel music filters up from the arcade below.  The room
+
+	has a bar along one wall and the rest of the space is taken
+
+	up by tables and couches.  It's a comfortable place, but not
+
+	opulent.  Some of the girls sit patiently on the couches,
+
+	others play canasta at the tables.  Most of the men are at
+
+	the bar, fortifying themselves for the task at hand.  Billie
+
+	comes over to the bar.
+
+					BILLIE
+
+				(to the bartender)
+
+			Set me up five more beers, will ya
+
+			Danny.
+
+	As Danny goes to fill the mugs, Billie's eyes fix on a man
+
+	at the end of the bar.
+
+	We move to reveal Snyder, intently scanning the room, as if
+
+	he'd lost a dancing partner in the crush.  Not finding what
+
+	he wants, he comes down the bar to Billie.
+
+					SNYDER
+
+			You the owner here?
+
+					BILLIE
+
+			That's right.
+
+					SNYDER
+
+				(flipping out his badge)
+
+			Lieutenant Snyder.  Bunco.
+
+					BILLIE
+
+			Joliet badge, Snyder.  Don't cut
+
+			much up here.
+
+					SNYDER
+
+				(trying to ignore her remark)
+
+			I'm lookin' for a guy on the lam
+
+			from a counterfeiting rap.  Thought
+
+			he mighta come in here.
+
+					BILLIE
+
+			Don't think so.  I know everybody
+
+			in the place and I always bounce
+
+			the lamsters.
+
+					SNYDER
+
+			All right if I look around your
+
+			lobby?
+
+					BILLIE
+
+			No, but you're welcome to a free
+
+			beer before you go.
+
+	Billie grabs a bottle of beer, pours some in a shot glass
+
+	and pushes it over to Snyder.  He ignores the gesture.
+
+					SNYDER
+
+				(with controlled force)
+
+			I don't really need your permission.
+
+	We go to Billie.  She knew that when he came in.
+
+								CUT TO:
+
+	THE STORAGE ROOM AGAIN
+
+	The discussion continues.  Hooker, a bit out of his depth
+
+	here, listens and stays silent.
+
+					SINGLETON
+
+			Lonnegan's a fast egg, Henry.  He's
+
+			not gonna sit still for a standard
+
+			play.
+
+					GONDORFF
+
+			Everybody'll sit still for somethin'.
+
+			What did ya find out about the
+
+			train, Eddie?
+
+					NILES
+
+			He's been taking the 8:10 Century
+
+			Limited outa New York on Friday and
+
+			getting in here early Saturday
+
+			morning.  He usually stays a day to
+
+			check on his policy operations, and
+
+			then flies back.
+
+					GONDORFF
+
+			Wonder why he doesn't fly both ways.
+
+					NILES
+
+			The porters say he runs a braced
+
+			card game in one of the cars.  $100
+
+			minimum, straight poker.  Last time
+
+			he pulled in here ten grand heavier
+
+			than he left New York.
+
+					GONDORFF
+
+			Fancies himself a gambler, huh?
+
+					TWIST
+
+			Lotta plungers ride that train just
+
+			to play him.
+
+					GONDORFF
+
+				(breaking into a smile)
+
+			See J.J., he's slowly down already.
+
+								CUT TO:
+
+	THE RECEIVING ROOM AGAIN
+
+	Snyder has completed his inspection of the "lobby" and found
+
+	nothing.  Danny, meanwhile, has set up the five beers on a
+
+	tray.
+
+					SNYDER
+
+			Which way are the rooms?
+
+					BILLIE
+
+			Who told ya this guy was in here?
+
+					SNYDER
+
+			Nobody.  I just know what kinda
+
+			women he likes.  I'm gonna check
+
+			all the joyhouses till I find him.
+
+					BILLIE
+
+			Maybe I could help ya if ya told me
+
+			his name.
+
+					SNYDER
+
+			I think I'll keep that to myself.
+
+			Which way are the rooms?
+
+					BILLIE
+
+			Right through there.  But I wouldn't
+
+			go in there if I were you.
+
+				(picks up the tray)
+
+					SNYDER
+
+				(snidely)
+
+			What are ya gonna do, call the cops?
+
+					BILLIE
+
+			I don't have to.  You'll be bustin'
+
+			in on the Chief of Police just up
+
+			the hall.
+
+				(she exits with the drinks)
+
+	Snyder is stopped cold.  He calls after her.
+
+					SNYDER
+
+			Keep your nose clean, lady.  He
+
+			can't spend all his time here.
+
+								CUT TO:
+
+	THE STORAGE ROOM AGAIN
+
+	Billie comes over to Gondorff and whispers in his ear, while
+
+	the others talk.  His eyes flick momentarily to Hooker.
+
+					SINGLETON
+
+			I think we ought to play him on the
+
+			Rag.  It's the tightest game we
+
+			got, and it's not all over the
+
+			papers yet.
+
+					NILES
+
+			No good, J.J.  You're not gonna con
+
+			stocks to a banker.  Lonnegan's too
+
+			smart for that.
+
+					TWIST
+
+			What are you going to do, con the
+
+			payoff to a gambler?
+
+					SNYDER
+
+			Twist is right.  It won't work.
+
+	Gondorff has nodded to Billie and now rejoins the
+
+	conversation.  She serves the others beer.
+
+					GONDORFF
+
+			We'll use the wire.  Never known a
+
+			gambler who wouldn't like to beat
+
+			the ponies.
+
+					NILES
+
+			The wire is ten years outa date.
+
+					GONDORFF
+
+			That's why he won't know it.
+
+					SINGLETON
+
+			I'm not sure I know it.
+
+					GONDORFF
+
+			We'll give him the hook on the
+
+			train, and play him here.  You
+
+			think I can get in that poker game,
+
+			Eddie?
+
+					NILES
+
+			All you gotta do is show up with
+
+			some money and look like a fool.
+
+					GONDORFF
+
+			I also gotta win.
+
+	He looks at Hooker.  There is a challenge in their book.
+
+	Gondorff smiles broadly, then casually, to them all.
+
+					GONDORFF
+
+			By the way, any of you guys been
+
+			passing off any green goods lately?
+
+	We go around the table.  No reply.
+
+					GONDORFF
+
+			Billie, if that Dick comes in
+
+			again, stall him till I can get a
+
+			look at him.  And let me pay ya for
+
+			these beers.
+
+					BILLIE
+
+			What are you talking about?  It's
+
+			on the house.
+
+					GONDORFF
+
+				(pulling out a $5 bill)
+
+			Naw, I want ya to have this.
+
+	He hitches up Billie's skirt, and puts the bill in her garter.
+
+					GONDORFF
+
+			Don't look at it till ya go to bed
+
+			though or it'll turn to paper.
+
+	Billie smiles and leaves the room.
+
+	INT. HALLWAY
+
+	She walks halfway down the hall and stops.  She can't wait.
+
+	Lifting up her skirt, she finds that the five has indeed
+
+	turned to paper.  As she breaks into laughter and continues
+
+	on down the hall, we:
+
+								FADE OUT.
+
+	FADE IN:
+
+	THE HOOK
+
+								FADE OUT.
+
+	FADE IN:
+
+	EXT. A SUNKEN ALLEY - DAY
+
+	Actually little more than a service area between two
+
+	apartment buildings.  Niles, Kid Twist, and a middle-aged
+
+	black man, named Benny Garfield, enter the alley with an old
+
+	man and follow him down a stairwell to a subterranean
+
+	basement.  A faded sign above the door says Stenner's
+
+	Billiards.  We follow them inside to a:
+
+	INT. A LARGE BARREN ROOM - DAY
+
+	An office comes off it at one end.  Judging from the
+
+	fluorescent lights overhead and the scattered cue racks
+
+	which still hang tenuously on the walls, the place, indeed,
+
+	used to be a pool hall.  Niles and Garfield go all the way
+
+	to the back, while Twist stays near the front with the old
+
+	man.
+
+					NILES
+
+			Looks all right.  It's big enough
+
+			and off the street.
+
+					GARFIELD
+
+			I don't know.  This is kinda short
+
+			notice.  I'm not sure we can get it
+
+			all done by Saturday.
+
+					NILES
+
+			Got to.  Gondorff's ridin' the mark
+
+			in from New York on the Century.
+
+	Garfield thinks it over a little.  He's taking another look
+
+	at the place.  We go to Twist and the old man by the door.
+
+					TWIST
+
+			We'll take it.
+
+				(pointing through the door)
+
+			You manage the building at the end
+
+			of the alley?
+
+					OLD MAN
+
+				(with pride)
+
+			For fifteen years.
+
+					TWIST
+
+			I'll need a room over there that
+
+			faces this way.  How much a week?
+
+					OLD MAN
+
+			Only rents by the month.  Two
+
+			hundred and fifty for the two of
+
+			them.
+
+					TWIST
+
+				(pulling out his wallet)
+
+			This is the last time I expect to
+
+			see you down here.
+
+					OLD MAN
+
+				(watching the bills
+
+				being counted into
+
+				his hand)
+
+			Never heard of the place.
+
+	We go back to Niles and Garfield.
+
+					GARFIELD
+
+			Been a while since I stocked a wire
+
+			store.  Not many mobs playing that
+
+			anymore.
+
+					NILES
+
+			All we need is the bookie setup for
+
+			now.  We'll worry about the
+
+			telegraph office later.
+
+					GARFIELD
+
+			All right, I'll rent ya everything
+
+			I got in the warehouse for two
+
+			grand.  That'll give ya phones,
+
+			cages, blackboards and ticker gear.
+
+			You supply the guys to move 'em.
+
+			If you want a counter and bar,
+
+			that's another grand.  I don't know
+
+			where the hell I'm gonna get 'em
+
+			though.
+
+					NILES
+
+			C'mon, you can do better than that.
+
+			We ain't no heel grifters.
+
+					GARFIELD
+
+			You want the stuff tomorrow or
+
+			don't ya?  It's gonna take hours
+
+			just to clean it up.
+
+				(pause)
+
+			Besides, Gondorff's still a hot
+
+			item.  Where am I gonna be if he
+
+			gets hit?
+
+					NILES
+
+			Just give us what ya can, Benny.
+
+			We'll send a truck down.
+
+	Twist has rejoined them by now.
+
+					TWIST
+
+				(to Garfield)
+
+			You wanna work flat rate or
+
+			percentage?
+
+					GARFIELD
+
+			Who's the mark?
+
+					TWIST
+
+			Doyle Lonnegan.
+
+					GARFIELD
+
+			Flat rate.
+
+								CUT TO:
+
+	INT. A NEW YORK TRAIN STATION - DAY
+
+	We pick up Doyle Lonnegan, accompanied by two bodyguards and
+
+	Floyd, making his way through the station.  He stops at a
+
+	cigar counter to buy some cigarettes, and we reveal Gondorff
+
+	and Hooker sitting on their suitcases on the other side of
+
+	the room.
+
+					GONDORFF
+
+				(eyes fixed on Lonnegan)
+
+			Guy in the blue pinstripe and grey
+
+			fedora.
+
+	Hooker looks and finally spots him in the crowd.  We go back
+
+	to Lonnegan, as he moves off from the cigar counter, toward
+
+	his train.  Hooker watches him with the intensity of one
+
+	gazing on a religious object.
+
+					HOOKER
+
+			He's not as tough as he'd like to
+
+			think.
+
+					GONDORFF
+
+				(picking up his suitcase)
+
+			Neither are we.
+
+								CUT TO:
+
+	EXT. TRAIN
+
+	Lonnegan and his retainers getting on the train.  Two cars
+
+	down the line, we see Hooker and Gondorff boarding also.  On
+
+	his way in, Gordorff takes the conductor aside.
+
+					GONDORFF
+
+			I hear there's a friendly poker
+
+			game on this train tonight.  You
+
+			know anything about that?
+
+					CONDUCTOR
+
+			A little.
+
+					GONDORFF
+
+			You think you could get me in that
+
+			game?
+
+					CONDUCTOR
+
+			I don't know.  There's usually a
+
+			waiting list.
+
+	Gondorff flashes a $50 bill.
+
+					CONDUCTOR
+
+				(loosening up a bit)
+
+			That'll get you first alternate, sir.
+
+	Gondorff pulls out another fifty.
+
+					CONDUCTOR
+
+				(taking the money)
+
+			I'll see what I can do.
+
+								CUT TO:
+
+	INT. A BASEMENT BAR - EARLY EVENING
+
+	Kid Twist enters and threads his way through the maze of
+
+	tables to a door at the back of the building.  A large bull
+
+	of a man is stationed there, obviously to discourage those
+
+	who don't have credentials to enter.  Twist is not such a man.
+
+					TWIST
+
+				(going right on through)
+
+			How ya doin', Lacey.
+
+					LACEY
+
+				(innocently pleased
+
+				for one so menacing)
+
+			Good to see ya again, Twist.
+
+	INT. ANOTHER ROOM - EARLY EVENING
+
+	Inside is another room, this one much better lit than the
+
+	outer one.  There are only three tables in here, around
+
+	which are seated the elite of the Con World.  Twist is
+
+	enthusiastically greeted by Duke Boudreau, a large, rotund
+
+	man whose stylish dress and authoritative manner mark him as
+
+	a powerful figure in this group.
+
+					BOUDREAU
+
+			Twist!  When did you get back in
+
+			town?
+
+					TWIST
+
+			Coupla days ago.  I'm workin' a big
+
+			one with Gondorff on the North Side.
+
+	The two men sit down together, apart from the others.
+
+					TWIST
+
+			Listen Duke, we're setting up a
+
+			wire store.  I need a twenty man
+
+			boost right away.
+
+					BOUDREAU
+
+			I got twenty or so in here tonight.
+
+			Take your pick.
+
+					TWIST
+
+			These guys have gotta be the quill,
+
+			Duky.  We can't afford to rank the
+
+			joint.
+
+					BOUDREAU
+
+				(to one of his assistants)
+
+			Get me the sheet, Jake.  Let's see
+
+			who's in town.
+
+								CUT TO:
+
+	THE OUTER PART OF THE BAR AGAIN
+
+	A silhouetted figure appears in the entrance doorway.  The
+
+	word "chill" races from table to table and the place falls
+
+	still.  The bartender pushes a button behind the bar and a
+
+	buzzer goes off in the back room.  Boudreau gets up from his
+
+	table and opens a small viewing port in the door.
+
+	The silhouetted figure is now walking slowly past the silent
+
+	tables.  It's Snyder and he's checking out every face in the
+
+	place.
+
+					BOUDREAU
+
+			Twist, you know this guy?
+
+					TWIST
+
+				(taking a look
+
+				through the viewing port)
+
+			No.  Never saw him before.  He's a
+
+			dick, though.
+
+	Snyder walks all the way to the back, and then retraces his
+
+	route.  About halfway back, he stops at one of the tables,
+
+	recognizing a grifter he knows.  It's the Eirie Kid.
+
+					EIRIE KID
+
+			Hello, Snyder.  What are you doin'
+
+			up here?
+
+					SNYDER
+
+			I'm on vacation.  You seen your
+
+			friend lately?
+
+					EIRIE KID
+
+			Yeh, he packed it in and enrolled
+
+			in detective school.
+
+	Snyder, in no mood for jokes, grabs Eirie by the hair and
+
+	slams his face into the table.  Eirie just stays there; he
+
+	knows it doesn't pay to assault a detective.  Twist is
+
+	watching all this intently from the viewing port.
+
+					SNYDER
+
+			You see him, you tell him to pay
+
+			his debts before I get him.
+
+	Eirie raises his head slowly, but says nothing.  There is a
+
+	slight trickle of blood from his nose.  Snyder turns and
+
+	walks slowly out of the bar.  When he is a safe distance
+
+	down the street, the chatter and drinking resume.
+
+								CUT TO:
+
+	THE INSIDE ROOM AGAIN
+
+	Twist gives an all clear signal and returns to the table
+
+	where he and Boudreau were talking.  Boudreau reads from a
+
+	list of names.  Twist listens with a certain preoccupation.
+
+	He's still thinking about the little confrontation he just
+
+	witnessed.
+
+					BOUDREAU
+
+			Paltrow, Sterling, Furey, and the
+
+			Big Alabama are in from New Orleans.
+
+			Fiskin and the Boone Kid from
+
+			Denver, and Phillips, Barnett and
+
+			Limehouse Chappie from New York.
+
+			Those and the guys outside should
+
+			give ya 30 or so to choose from.
+
+					TWIST
+
+			Good, have 'em down at Stenner's
+
+			old Pool Hall before 3:00.  We're
+
+			gonna run through the route tonight.
+
+					BOUDREAU
+
+			Okay, Twist, but you know if this
+
+			blows up, I can't do ya no good
+
+			downtown.  Gondorff is Federal.
+
+					TWIST
+
+			Don't worry about it, pal.
+
+								CUT TO:
+
+	EXT. SPEEDING PASSENGER TRAIN - NIGHT
+
+	Ripping through an open stretch between New York and Chicago.
+
+								CUT TO:
+
+	INT. TRAIN - NIGHT
+
+	Singleton is walking down a passageway and stops at a door
+
+	and goes in.
+
+	INT. GONDORFF'S COMPARTMENT - NIGHT
+
+	Gondorff is rapidly shuffling cards to four empty places.
+
+	He is alone.  He looks up as Singleton enters.
+
+					SINGLETON
+
+			You in?
+
+					GONDORFF
+
+			Yeh, I think so.  I gave the kay-
+
+			ducer a C-note.  You find out the
+
+			deck?
+
+					SINGLETON
+
+			He usually plays with a Royal or a
+
+			Cadenza.
+
+				(handing him two
+
+				sealed decks)
+
+			I got you one of each.  He likes to
+
+			cold deck low, 8's or 9's.
+
+					GONDORFF
+
+			Nice work, J.J.
+
+	Singleton slips out as Gondorff unpeels the packs.
+
+	INT. TRAIN - NIGHT
+
+	We pick up Lonnegan coming out of his compartment, flanked
+
+	by only one bodyguard and Floyd.  He starts through the
+
+	passenger section toward the compartment where the poker
+
+	game will be held.  Suddenly a drunken woman comes staggering
+
+	around the corner and bumps into him.
+
+	They grapple a moment and Lonnegan pushes her away in disgust.
+
+					WOMAN
+
+				(sloppy drunk)
+
+			Keep your mitts off me, ya big lug.
+
+			If I'da wanted you handlin' me I
+
+			woulda asked ya.
+
+	Lonnegan ignores her and proceeds down the passageway.  As
+
+	the woman proceeds in the other direction between passengers,
+
+	we see it is Billie.  She drops something on a seat beside a
+
+	passenger.  A hand reaches to pick it up.  It is Lonnegan's
+
+	wallet and it is Hooker who picks it up.
+
+	Hooker waits a moment, then stands and goes in the direction
+
+	Lonnegan has taken.  He passes by the open door to the card
+
+	room, hesitating only slightly to hear the greetings
+
+	exchanged inside before the door is shut.  Then he continues
+
+	on into the next car.  He turns into Gondorff's compartment.
+
+								CUT TO:
+
+	INT. GONDORFF'S COMPARTMENT - NIGHT
+
+	Gondorff is still practicing.  He looks up as Hooker enters
+
+	and tosses him the wallet.
+
+					HOOKER
+
+			She got him clean.  He hasn't
+
+			missed it.
+
+	Gondorff nods, takes the money out, counts it.
+
+					GONDORFF
+
+			Fifteen grand.  Looks like he's
+
+			expecting a big night.
+
+	He takes out his own wallet and puts the money in it, and
+
+	tosses the empty wallet back to Hooker, and resumes his
+
+	shuffling and dealing.  Hooker sits back silently and
+
+	watches him.
+
+					HOOKER
+
+			He's waitin' for you in the card
+
+			room.
+
+					GONDORFF
+
+			Let him wait.
+
+	As he deals, on the second pass he attempts to cut from the
+
+	bottom, muffs it completely and sprays half the deck on the
+
+	table.  Hooker regards him steadily as he gathers them back
+
+	up.  Gondorff finally meets his gaze.
+
+					GONDORFF
+
+			You just worry about your end, kid.
+
+					HOOKER
+
+			If we ever get to it.
+
+								CUT TO:
+
+	INT. THE POKER ROOM - NIGHT
+
+	A specially outfitted compartment with a table and chairs in
+
+	the middle and leather cushions around the outside for
+
+	kibitzers.  Lonnegan and 3 other players are already there
+
+	and seated.  They're getting slightly impatient.
+
+					LONNEGAN
+
+				(to the Conductor)
+
+			Where the hell is this guy?
+
+					CONDUCTOR
+
+			I don't know.  He said he'd be here.
+
+								CUT TO:
+
+	GONDORFF'S CABIN AGAIN
+
+	Gondorff is standing in front of the mirror dressing.  He
+
+	grabs up a clean white shirt and rumples it up in his hands.
+
+	He then picks up a half-full bottle of bourbon.  Hooker
+
+	gives him a disapproving look.  Gondorff smiles and pats
+
+	some on his face.
+
+								CUT TO:
+
+	THE POKER ROOM AGAIN
+
+	Everybody's itchy now.
+
+					LONNEGAN
+
+			All right, let's start without him.
+
+			Mr. Clemens, give me the cards.
+
+	The Conductor hands him a sealed deck.  As he begins to open
+
+	it, Gordoff comes into the room, coatless, rumpled, unshaven
+
+	and looking slightly tipsy.  The others at the table, all
+
+	men of high school or financial standing, are somewhat put
+
+	off.
+
+					GONDORFF
+
+			Sorry I'm late boys.  I was takin'
+
+			a crap.
+
+	This bit of grossness does little to improve his image.
+
+					CONDUCTOR
+
+				(making the
+
+				introductions;
+
+				referring first to Gondorff)
+
+			Mr. Shaw is a bookmaker from
+
+			Chicago.  Mr. Shaw, meet Mr.
+
+			Clayton from Pittsburgh, Mr.
+
+			Jameson, Chicago, Mr. Lonnegan, New
+
+			York and Mr. Lombard, Philadelphia.
+
+	Gondorff nods and takes a seat, none too gracefully.
+
+					CONDUCTOR
+
+			Straight poker, gentlemen.  100
+
+			dollar minimum, table stakes.  We
+
+			assume you're good for your debts.
+
+					LONNEGAN
+
+				(shuffling the cards)
+
+			Mr. Shaw, we usually require a tie
+
+			at this table.  If you don't have
+
+			one, we can get ya one.
+
+					GONDORFF
+
+			Yeh, that'd be real nice of ya, Mr.
+
+			Lonneman.
+
+					LONNEGAN
+
+				(irritated)
+
+			Lonnegan.
+
+	He begins to deal, obviously not pleased that his evening
+
+	seems to be peopled with drunks.
+
+								CUT TO:
+
+	EXT. THE SUNKEN ALLEY - NIGHT
+
+	A truck is now parked at the end of the alley, and several
+
+	workmen are busy unloading it.  One group carries a large
+
+	blackboard; others have boxes of glasses, ash tray stands,
+
+	furniture, etc.  Take several cuts.
+
+								CUT TO:
+
+	INSIDE THE ONCE-VACANT POOL HALL
+
+	Now a blaze of activity.  We take several cuts of workmen
+
+	papering the walls, tacking down carpet, putting in new
+
+	light fixtures, painting signs, all under the supervision of
+
+	Niles.  From now on, we will refer to the pool hall as the
+
+	store.
+
+	Back in the office, Kid Twist is "interviewing" one by one,
+
+	a group of con men lined up outside the office door.  A
+
+	gray-haired old buzzard, Curly Jackson, approaches the table
+
+	which is serving Twist as a desk.  Curly is practically in
+
+	rags and has several days growth on his face.  He wears a
+
+	little beret which he takes off to address Twist.
+
+					CURLY
+
+			Name's Curly Jackson.  I worked for
+
+			Gad Bryan outa Baltimore.
+
+					TWIST
+
+			You ever played the Wire, Curly?
+
+					CURLY
+
+			Used to rope for it long ago.  I
+
+			can shill, mark board, anything you
+
+			want.  I don't run with riffraff
+
+			and I only drink on weekends.
+
+				(affecting an English accent)
+
+			Me specialty is an Englishman.
+
+	Twist is taken with the man, despite his appearance.
+
+					TWIST
+
+			All right, Curly, you're in.  We
+
+			got a rack of suits over there.
+
+			Get yourself a nice tweed one.
+
+					CURLY
+
+				(exiting)
+
+			That's all right.  I got all my own
+
+			stuff.
+
+								CUT TO:
+
+	THE CARD GAME AGAIN
+
+	Gondorff and Lonnegan have most of the chips.  Lonnegan is
+
+	slightly ahead.  Gondorff has made a token attempt to wear
+
+	the provided tie, having tied it in a knot around his neck,
+
+	but not having bothered to put it under his collar.  He has
+
+	a shot glass and a bottle next to him, from which he has
+
+	been drinking heavily.  He and Lonnegan are the only ones
+
+	left in this hand.
+
+					LONNEGAN
+
+				(throwing chips in)
+
+			Raise 500.
+
+					GONDORFF
+
+				(likewise)
+
+			See ya and raise three.
+
+					LONNEGAN
+
+				(more chips)
+
+			See and raise five.
+
+					GONDORFF
+
+			Five and call.
+
+	Lonnegan lays down his hand, a solid two pair.  Gondoroff
+
+	turns out three tens.  Lonnegan is beat.
+
+					GONDORFF
+
+			Tough luck, Lonnihan, but that's
+
+			what you get for playin' with your
+
+			head up your ass.  Couple more like
+
+			that and we can all go to bed
+
+			early, huh boys.
+
+	Lonnegan burns, and the "boys" have no comment.
+
+								CUT TO:
+
+	INT. THE STORE - NIGHT
+
+	The work is still progressing.  We see two workmen installing
+
+	a ticket tape machine in a secluded area of the store.
+
+					GARFIELD
+
+			We bought ya a tap into Moe
+
+			Anenberg's wire.  He's got eyes at
+
+			every track in the country.  You'll
+
+			get race results, odds, scratches,
+
+			pole positions, everything; and
+
+			just as fast as Western Union gets
+
+			'em.
+
+					NILES
+
+			Does J.J. know how to use this thing?
+
+					GARFIELD
+
+			All he's gotta do is read.
+
+	We go to Kid Twist, still conducting interviews in the
+
+	office.  A young, rather sullen man, Buck Duff, steps to the
+
+	table.
+
+					DUFF
+
+			Buck Duff.  I was in Maxwell's
+
+			boost in Troy.
+
+					TWIST
+
+			You the Duff that didn't come up
+
+			with his end when Little Jeff was
+
+			sent up?
+
+					DUFF
+
+			Wasn't no problem a mine.
+
+					TWIST
+
+			He was a con man, wasn't he?
+
+					DUFF
+
+			He was a tear-off rat.  He got what
+
+			he deserved.  No sense helpin' pay
+
+			his bills.
+
+					TWIST
+
+				(like ice)
+
+			Shove off, Duff.
+
+	Duff stands there a second and then slouches away from the
+
+	table.  He stops however, by the door.  The next man up is
+
+	the Eirie Kid.  Twist knows he's seen him somewhere before.
+
+					EIRIE KID
+
+				(nervous as hell)
+
+			Names's Joe Eirie.
+
+	Twist waits for more, but it's not coming.
+
+					TWIST
+
+			You played for any particular mobs?
+
+					EIRIE KID
+
+			No.
+
+					TWIST
+
+			You know the Wire at all?
+
+					EIRIE KID
+
+			No...I never played no Big Con
+
+			before.  But Luther Coleman was a
+
+			friend a mine.  I thought maybe
+
+			there was something I could do.
+
+					TWIST
+
+				(pointing to Eirie
+
+				slightly swollen nose)
+
+			You get that nose in Duke Boudreau's
+
+			tonight?
+
+	Eirie nods a reluctant "yes."
+
+					TWIST
+
+			You got moxie, Eirie.  Get yourself
+
+			a suit.
+
+	Eirie is so happy, he can barely blurt out a thank you.
+
+	Buck Duff, enraged that Twist would hire a total amateur,
+
+	turns in disgust and strides vengefully out of the store.
+
+								CUT TO:
+
+	THE CARD GAME AGAIN
+
+	The room is dense with smoke now, and the players are
+
+	feeling the heat.  Gondorff has his white shirt open,
+
+	revealing a stained T-shirt underneath.  The bottle next to
+
+	him is almost empty.  He sneezes and wipes his nose with the
+
+	tie Lonnegan gave him.
+
+	The chips are now about equally divided between Gondorff and
+
+	Lonnegan.  The others are losing badly.
+
+					GONDORFF
+
+			Raise 300.
+
+					LONNEGAN
+
+			Pass.
+
+					JAMESON
+
+				(throwing in his last
+
+				few chips)
+
+			Raise 200.
+
+					GONDORFF
+
+			Two and call.
+
+	Jameson lays down two pair.  Gondorff has a flush.  Gondorff
+
+	rakes in the chips, which now put him ahead of Lonnegan.
+
+					JAMESON
+
+			Well, I'm out.
+
+					GONDORFF
+
+			Don't worry about it, pal.  Lemongan
+
+			here wouldn'ta let you in the game
+
+			if you weren't a chump.
+
+					LONNEGAN
+
+				(getting to his feet)
+
+			I've had enough of your lip, Shaw.
+
+	Gondorff grabs the whiskey bottle next to him, breaks it
+
+	against the table and waves the jagged end in Lonnegan's face.
+
+					GONDORFF
+
+				(barely able to stand up)
+
+			Just take it easy there, Larrabee.
+
+	Jameson and the conductor step in between.
+
+					JAMESON
+
+			Let's take a break for a couple
+
+			minutes and cool off.
+
+	Lonnegan storms out of the room, followed by Floyd and
+
+	Bodyguard.
+
+	INT. SMOKING ROOM
+
+	We pick up Lonnegan coming down the passageway to enter the
+
+	smoking room.
+
+					LONNEGAN
+
+				(to his assistant)
+
+			I've had it with that bum, Floyd.
+
+			Stack me a cooler.
+
+					FLOYD
+
+				(trying to settle him down)
+
+			You've only been playin three
+
+			hours, Doyle.
+
+					LONNEGAN
+
+				(not to be pacified)
+
+			I don't care.  Load me a deck.  Set
+
+			it up for threes and nines.  I'll
+
+			cut it in on his deal.
+
+					FLOYD
+
+				(taking a deck and
+
+				beginning to sort it)
+
+			What do ya want the others to get?
+
+					LONNEGAN
+
+			Nothin'.  They gotta be outa there
+
+			early.  I'm gonna bust that bastard
+
+			in one play.
+
+								CUT TO:
+
+	INT. THE POKER ROOM AGAIN - NIGHT
+
+	A pair of hands shuffling.  We pull back to reveal that
+
+	they're Gondorff's.  He passes the deck to Lonnegan to be
+
+	cut and turns to pen a new whiskey bottle.  Lonnegan takes
+
+	the deck and in one lightning motion substitutes a new deck,
+
+	while making it look like he's cutting the old one.
+
+	Gondorff picks up the deck and begins to deal.  As the hand
+
+	is picked up, we see that Gondorff has four threes, Lonnegan
+
+	four nines, and everybody else has nothing.
+
+					CLAYTON
+
+				(opening the bidding)
+
+			Fold.
+
+					LONNEGAN
+
+			250.
+
+					GONDORFF
+
+			Raise 1,000.
+
+					LONNEGAN
+
+			Raise 500.
+
+	Gondorff looks at Lonnegan very carefully for a second.
+
+	Lonnegan meets his stare.
+
+					GONDORFF
+
+				(slowly)
+
+			Raise 2,000.
+
+	The spectators shift a little.  It's the biggest bet of the
+
+	night.
+
+					LONNEGAN
+
+			See and raise 1,000.
+
+					GONDORFF
+
+				(taking it to him)
+
+			Raise 5,000.
+
+	Lonnegan fingers his remaining chips.  He knows he's won,
+
+	but he wants to bleed it for every bit of suspense.
+
+					LONNEGAN
+
+				(going for broke)
+
+			See, and raise the rest.
+
+	Lonnegan pushes in the rest of his chips.  Gondorff, who is
+
+	only required to match Lonnegan's total, throws in all his
+
+	too.  It's a showdown.
+
+					GONDORFF
+
+			Call.
+
+	Lonnegan puts down his four nines.  Gondorff just stares at
+
+	them a second, lets out a deep sigh and lays down four jacks.
+
+	Lonnegan is aghast.  This just can't be.  He glances at
+
+	Floyd, who can do nothing but sit there with his mouth open.
+
+					GONDORFF
+
+				(raking in the chips)
+
+			Well that's all for me tonight,
+
+			boys.  I'm gonna leave ya some cab
+
+			fare.
+
+	The other players look at each other in disgust, and reach
+
+	for their wallets, all of which are well stocked.
+
+					GONDORFF
+
+				(to Lonnegan)
+
+			You owe me 15 grand, pal.
+
+	Lonnegan, with a stare that could kill, reaches for his
+
+	wallet.  Suddenly the stare goes soft.  He tries a few more
+
+	pockets.  No soap.
+
+					LONNEGAN
+
+				(getting up to get it)
+
+			I guess I left it in my room.
+
+					GONDORFF
+
+				(blowing up)
+
+			What!  Don't give me that crap you
+
+			little weenie.  How do I know you
+
+			ain't gonna take a powder.
+
+				(waving his wallter,
+
+				which is full of
+
+				Lonnegan's money)
+
+			You come to a game like this, you
+
+			bring your money.
+
+	Lonnegan, having had all he can take, goes for Gondorff, but
+
+	is restrained by the conductor.
+
+					GONDORFF
+
+			All right, buddy, I'm gonna send a
+
+			boy by your room in five minutes,
+
+			and you better have that jack, or
+
+			it's gonna be all over Chicago that
+
+			your name ain't worth a dime.
+
+	Gondorff stalks out of the room.  We pick him up coming down
+
+	the passageway to his compartment.
+
+	INT. GONDORFF'S COMPARTMENT
+
+	The drunkenness has vanished.  We follow him into his cabin,
+
+	where Hooker is waiting anxiously.
+
+					HOOKER
+
+			How'd ya do?
+
+					GONDORFF
+
+				(modestly)
+
+			Well we got some workin' money
+
+			anyway.
+
+	Gondorff tosses his winnings on the table.
+
+					GONDORFF
+
+				(big smile)
+
+			Okay, kid, you're on.  But I gotta
+
+			tell ya, its a hard act to follow.
+
+								CUT TO:
+
+	INT. LONNEGAN'S CABIN - NIGHT
+
+	Lonnegan sits in a chair smoking, obviously still upset.
+
+	Floyd paces in front of him.
+
+					FLOYD
+
+			I know I give him four threes.  We
+
+			can't let him get away with that.
+
+					LONNEGAN
+
+			What am I supposed to do?  Call him
+
+			for cheating better than me?
+
+	There's a knock at the door.  Floyd goes and opens it.  It's
+
+	Hooker.
+
+					HOOKER
+
+			My name's Carver.  Mr. Shaw sent me.
+
+	Floyd motions him in without a word.
+
+					LONNEGAN
+
+			Your boss is quite a card player,
+
+			Carver.  How does he do it?
+
+					HOOKER
+
+				(very matter-of-factly)
+
+			He cheats.
+
+	Lonnegan says nothing.  He doesn't like smart asses.  He
+
+	looks Hooker over a second, as if considering whether to
+
+	have him wasted or not.
+
+					LONNEGAN
+
+				(reaching into his
+
+				coat pocket)
+
+			He'll have to take a check.
+
+				(pulling out a check)
+
+			I couldn't find my wallet.
+
+					HOOKER
+
+			Yeh, he knows that.
+
+					LONNEGAN
+
+				(startled)
+
+			What do you mean?
+
+					HOOKER
+
+				(pulling out
+
+				Lonnegan's wallet and
+
+				tossing it to him)
+
+			He hired a dame to take it from ya.
+
+	Lonnegan just holds the wallet.  He can't believe it.
+
+					HOOKER
+
+			You were set up, Lonnegan.  Shaw's
+
+			been planning to beat your game for
+
+			months.  He was just waiting for
+
+			you to cheat him so he could clip ya.
+
+					LONNEGAN
+
+				(the heat rising)
+
+			I could have you put under this
+
+			train for this, errand boy.
+
+					HOOKER
+
+				(cool as hell)
+
+			So could Shaw.
+
+					LONNEGAN
+
+			Then why the rat?
+
+					HOOKER
+
+			Cause I'm tired of bein' his nigger.
+
+				(pause)
+
+			I want you to help me break him.
+
+	Lonnegan looks at Hooker long and hard, as if the intensity
+
+	of his gaze could separate truth from fiction.  Lonnegan
+
+	hadn't expected this, but now that it's here, it better be
+
+	on the level.  The silence is suddenly broken by the noise
+
+	of the train braking into the station.
+
+					LONNEGAN
+
+				(to Hooker)
+
+			C'mon, I'll give ya a lift home.
+
+	Hooker hesitates, not sure whether to accept or not.
+
+					LONNEGAN
+
+			What's the matter?  You gotta get
+
+			back to Shaw?
+
+					HOOKER
+
+			Naw, he picked up some jane in the
+
+			bar.  Can't see him till morning
+
+			anyway.
+
+					LONNEGAN
+
+			All right, then.
+
+								CUT TO:
+
+	INT. LONNEGAN'S CAR - NIGHT
+
+	Driving through the city, the driver and Floyd in front,
+
+	Hooker and Lonnegan in back.
+
+	Hooker glances out the window from time to time, just to
+
+	make sure they're really going to his place.
+
+					LONNEGAN
+
+			Why me?  Shaw probably has lotsa
+
+			enemies to choose from.
+
+					HOOKER
+
+			I need somebody respectable...but
+
+			not completely legit.  What I'm
+
+			gonna do isn't very legal.
+
+					LONNEGAN
+
+				(insulted)
+
+			I'm a banker, friend.  That's legit
+
+			in this state.
+
+					HOOKER
+
+			All you gotta do is place a bet for
+
+			me at Shaw's place.  I'll supply
+
+			all the money and the information.
+
+	Lonnegan is listening, but you'd never know it.
+
+					HOOKER
+
+			If you help me out, I'll pay ya
+
+			back the money you owe Shaw, myself.
+
+					LONNEGAN
+
+			That's worth fifteen grand to ya?
+
+					HOOKER
+
+			Maybe a couple million.
+
+	We go to Lonnegan.  He's still not talking, but that last
+
+	phrase has registered.
+
+	EXT. HOOKER'S PLACE
+
+	The car pulls up in front of Hooker's place.
+
+					LONNEGAN
+
+			You're dreamin', kid.
+
+					HOOKER
+
+				(getting out)
+
+			660 Marshall Street.  Tomorrow at
+
+			12:30, if you're interested.
+
+					LONNEGAN
+
+				(diffidently)
+
+			If I'm not there by quarter of, I'm
+
+			not coming.
+
+	Hooker nods and walks up the steps to his apartment building.
+
+	Lonnegan's car speeds away from the curb and on out of sight.
+
+	Hooker breathes a sigh of relief.  He's passed his first
+
+	test; or has he?  We follow him up the stairs to his room.
+
+	INT. HOOKER'S APARTMENT
+
+	He's just about to unlock the door, when he notices the
+
+	little piece of paper he left in the door is on the floor.
+
+	Without the slightest hesitation, Hooker leaps over the
+
+	bannister and races back down the stairs.  Two gunmen, Riley
+
+	and Cole, burst out of his room and fire at him over the
+
+	railing, but he's already too far down.  Riley and Cole give
+
+	chase.
+
+								CUT TO:
+
+	THE FRONT OF THE BUILDING
+
+	Riley and Cole barrel out of the building and onto the
+
+	sidewalk.  There is an empty bus stopped at a light, but
+
+	they find no sign of Hooker.  As the light changes, we cut
+
+	to the other side of the bus, where we see Hooker crouched
+
+	on the rear wheel housing, hanging on to a vent.  He's a
+
+	little shaken, but most of all, he's still alive.  We hold
+
+	on him, as the bus moves off.
+
+					GONDORFF (V.O.)
+
+			Everything go all right?
+
+					HOOKER (V.O.)
+
+				(lying)
+
+			Yeh, it was easy.
+
+								CUT TO:
+
+	INT. THE STORE - NIGHT
+
+	Hooker and Gondorff are sitting alone in the back office
+
+	while the work goes on outside.  Their conversation continues.
+
+					GONDORFF
+
+			No signs of trouble?
+
+					HOOKER
+
+			What do ya mean?
+
+					GONDORFF
+
+			You know, somebody tailin' ya.  A
+
+			torpedo or somethin'.
+
+					HOOKER
+
+				(wanting to get off
+
+				the subject)
+
+			No, not a thing.
+
+	Gondorff has his doubts, but lets them ride.
+
+								CUT TO:
+
+	OTHER PARTS OF THE STORE
+
+	We concentrate on some of the fine details, i.e. Garfield
+
+	explaining how the ticker will read out to Singleton and
+
+	Billie; Curly Jackson showing a younger con man how to mark
+
+	the odds board properly.
+
+					GONDORFF (V.O.)
+
+			How 'bout Lonnegan?
+
+					HOOKER (V.O.)
+
+			I gave him the breakdown just like
+
+			ya told me to.
+
+					GONDORFF (V.O.)
+
+			And?
+
+					HOOKER (V.O.)
+
+			He threatened to kill me.
+
+					GONDORFF (V.O.)
+
+			Hell, they don't do that and you
+
+			know you're not gettin' through to
+
+			'em.
+
+	We concentrate on Niles, who's making up the "boodles" or
+
+	fake bankrollls.  He puts a real $100 bill on the bottom,
+
+	then two inches of cut green paper on top, and then another
+
+	$100 bill on top of that, so that it looks like he has a
+
+	whole stack of $100 bills.  The bundle is then bound with a
+
+	sealed label, like those used in banks, that says $10,000.
+
+	We see that he has already made several of these bundles.
+
+					HOOKER (V.O.)
+
+			Then he drove me home.  He tried to
+
+			put himself away as legit, so I
+
+			went right into the pitch.
+
+					GONDORFF (V.O.)
+
+			Did he hold you up on anything?
+
+					HOOKER (V.O.)
+
+			Naw, he just sat there and listened.
+
+			I don't know if he bought it or not.
+
+								CUT TO:
+
+	INT. THE STORE
+
+	Twist in the middle of the room giving a route to the Eirie
+
+	Kid.  He shows him where to get his drink at the bar, where
+
+	to sit and finally how to leap up and throw his racing form
+
+	down in disgust.
+
+					GONDORFF (V.O.)
+
+			That's all right.  Once they start
+
+			listening, they're in trouble.
+
+			Just don't give him more than he
+
+			asks for.  If you rattle his
+
+			imagination a little, he'll come up
+
+			with all the right answers himself.
+
+			But all he's gotta do is catch you
+
+			in one lie and you're dead.
+
+								CUT TO:
+
+	HOOKER AND GONDORFF IN THE STORE OFFICE AGAIN
+
+	They both look tired.
+
+					HOOKER
+
+			You think he'll show?
+
+					GONDORFF
+
+			Did he say he wouldn't?
+
+					HOOKER
+
+			No.
+
+					GONDORFF
+
+				(softly)
+
+			He'll show.
+
+								FADE OUT.
+
+	FADE IN:
+
+	THE TALE
+
+								FADE OUT.
+
+	FADE IN:
+
+	WE OPEN ON A WIDE SHOT OF THE ALLEY OUTSIDE THE STORE
+
+	At first it appears to be deserted, but we move to reveal a
+
+	figure in an upper window of the apartment building which
+
+	forms one side of the alley.  It's Kid Twist.  His eyes roam
+
+	the street, for what, we do not yet know.
+
+								CUT TO:
+
+	INT. AN OLD DRUGSTORE ACROSS FROM THE ALLEY - DAY
+
+	Probably prosperous at one time, it has since declined, its
+
+	large fountain and eating area bow host to two bums and
+
+	Hooker, who sits alone in a rear booth near the telephone.
+
+	Dressed in a tuxedo, he nurses a cup of coffee, and anxiously
+
+	alternates his glances between the clock and the empty
+
+	street outside.  It's 12:52.
+
+								CUT TO:
+
+	INT. THE STORE - DAY
+
+	The place is full of people, although we avoid long shot so
+
+	as not to give away the room as a whole yet.  Instead, we
+
+	concentrate on the tense, waiting faces of some of the more
+
+	familiar people:
+
+	Gondorff and Niles in tuxedos behind a barred cashier's area.
+
+	Gondorff mutilates a piece of gum in his mouth.  Niles just
+
+	stares out into space cracking his knuckles.
+
+					GONDORFF
+
+			Eddie, cut that out, will ya.
+
+	The boardmarker walking nervously back and forth in front of
+
+	his odds board, checking every letter and number.  He stops
+
+	to cross a T on one of the horses' names.  It was already
+
+	crossed, but he does it again anyway.
+
+	Billie and Singleton, in an area hidden from the rest of the
+
+	room, watching the print-out on the ticker machine.  The
+
+	clicking of the ticker is the only sound we hear in the store.
+
+	Curly Jackson in front of a mirror, pasting a fake Van Dyke
+
+	on his chin to go with his tweed suit and monocle.
+
+	A couple of Billie's girls adjusting their waitress outfits
+
+	and primping their hair.  Each has a tray full of drinks
+
+	beside her.
+
+	The Eirie Kid silently retracing his "route" to make sure he
+
+	has it down.
+
+	Despite the crowd, there is no talking and little movement,
+
+	save for the constant swirling of smoke from several cigars
+
+	and cigarettes.  The group is like a theatre company waiting
+
+	to go on opening night.
+
+								CUT TO:
+
+	THE DRUGSTORE AGAIN
+
+	It's 12:56 and Hooker is worried.  He looks up to see two
+
+	large men, obviously racket goons, come in the front door,
+
+	and take a seat facing him in the next booth.  They stare at
+
+	him impassively, waving the waitress away when she comes to
+
+	take their order.  Hooker knows they're Lonnegan's men, but
+
+	is somewhat unsettled by the fact that Lonnegan is not with
+
+	them.  Suddenly, a voice.
+
+					VOICE
+
+			Carver?
+
+	Hooker turns around to find that Lonnegan is seated in the
+
+	booth directly behind him.  His bodyguard is in the one
+
+	behind that.
+
+					LONNEGAN
+
+			You should always look to the back
+
+			too, kid.
+
+					HOOKER
+
+				(sliding out of his
+
+				booth and into Lonnegan's)
+
+			I was afraid you weren't gonna come.
+
+			We haven't got much time.
+
+					LONNEGAN
+
+				(curtly)
+
+			Get on with it then.
+
+					HOOKER
+
+				(pointing to telephone)
+
+			Sometime after 1:00 a guy's gonna
+
+			call here and give you the name of
+
+			a horse.
+
+				(pulling out a wad of bills)
+
+			All you do is take this two grand
+
+			across the street to Shaw's place
+
+			and bet it on that pony.  There's
+
+			nothin' to it, but don't take too
+
+			much time.  We only have 3 or 4
+
+			minutes after you get the call.
+
+					LONNEGAN
+
+			You're not gonna break him with a
+
+			$2,000 bet.
+
+					HOOKER
+
+			This is just a test.  The big one
+
+			comes later.  Be careful with that
+
+			though, it's all I got.
+
+					LONNEGAN
+
+			And you were gonna pay me back?
+
+					HOOKER
+
+			I am after this race.
+
+	Lonnegan says nothing.  He's not sure he likes a man who's
+
+	stupid enough to bet his last dollar on a horse race.
+
+					HOOKER
+
+			I gotta get back before Shaw misses
+
+			me.  Good luck.
+
+	EXT. STREET
+
+	Hooker hustles out across the street and into the alley.
+
+	INT. DRUGSTORE
+
+	Lonnegan watches him through the window and then settles
+
+	back in his seat to wait for the phone.
+
+	OUTSIDE STORE
+
+	As Hooker descends the stairwell into the store, he gives
+
+	Kid Twist the office.  Twist turns away from the window and
+
+	looks at his watch.  12:58.
+
+								CUT TO:
+
+	DRUGSTORE
+
+	Lonnegan waiting by the phone, idly pinging a knife on the
+
+	salt shaker.  It's 1:40.  A man enters the store and walks
+
+	over to use the phone.
+
+					LONNEGAN
+
+			We're waitin' for a call.
+
+	The man looks at Lonnegan a second, and then at his four
+
+	goons.  He decides maybe he'll make the call later.
+
+								CUT TO:
+
+	INT. THE STORE
+
+	Kid Twist again.  Billie enters the room with a piece of
+
+	paper.  Kid Twist looks at it a second and then picks up the
+
+	pohne and begins to dial.
+
+	INT. DRUGSTORE
+
+	Lonnegan again.  He's getting impatient now and lights a
+
+	cigarette, and then the phone rings.  He answers it quickly
+
+	and we hear:
+
+					TWIST
+
+			Bluenote at 6 to 1 on the nose.
+
+	The receiver clicks down at the other end.  Lonnegan hangs
+
+	up and goes out the door, followed by his entourage.
+
+	EXT. STREET
+
+	We follow him across the street and into the alley, where he
+
+	signals one of the bodyguards to check the place out.  Kid
+
+	Twist pushes a button on his window sill, and a buzzer goes
+
+	off inside the store.  The previously inert figures there
+
+	spring to life.
+
+	Lonnegan's bodyguard descends the stairwell and knocks at
+
+	the door, where he is greeted by Hooker in the capacity of
+
+	host.  He looks the place over and motions an okay to
+
+	Lonnegan.
+
+	INT. THE STORE
+
+	As Lonnegan enters, we see the room for the first time in
+
+	its entirety.  Overnight it has been transformed into a
+
+	swank private club, with bar, cigarette girls, upholstered
+
+	furniture and chandeliers.
+
+					SINGLETON
+
+			Look at that.  He's got four apes
+
+			with him.
+
+					GONDORFF
+
+			That's what I like about these
+
+			guys, J.J... They always got
+
+			protection against things we'd
+
+			never do to 'em.
+
+	Everywhere there is activity.  A bank of telephones buzzes
+
+	incessantly.  Sheet writers scurry from phone to phone,
+
+	taking bets of tremendous size from prominent people.
+
+					SHEET WRITER
+
+			Yes, Mr. Ruth, 20,000 on Dancing
+
+			Cloud.
+
+	We reveal that the phones are controlled by a master switch,
+
+	which one of the recruited con men operates from behind a
+
+	partition.
+
+	The boardmaker, wearing headphones suspended from a sliding
+
+	wire, hurriedly chalks up races and odds on a huge blackboard.
+
+	From the loudspeakers we hear the words "last flash." The
+
+	odds on Bluenote settle down to 8 to 1.
+
+	Lonnegan makes his way through the throng toward the betting
+
+	line.  His bodyguards fan out to various positions in the
+
+	room.  The betting crowd itself (known as the "boost")
+
+	consists of close to twenty people, none of whom, of course
+
+	are what they're pretending to be.  There are brokers with
+
+	pasty faces, sportsmen, tanned and casual, and financiers
+
+	with goatees and highly tailored clothes.  Large amounts of
+
+	money are changing hands at the betting window.  Boodles are
+
+	in sight everywhere.
+
+	Lonnegan slips into the betting line, feeling somewhat
+
+	estranged from the general merriment around him.  There are
+
+	two men in line ahead of him.  The first, Curly Jackson,
+
+	slaps down several bundles of cash in front of Niles, who's
+
+	the cashier, and places a $20,000 bet on War Eagle.  Gondorff
+
+	appears at the cashier's window and catches sight of Lonnegan.
+
+					GONDORFF
+
+			Never get enough, huh pal?  I'd
+
+			think you'd get tired of losin',
+
+			Honnigan.
+
+					LONNEGAN
+
+				(piercingly)
+
+			The name is Lonnegan.
+
+					GONDORFF
+
+				(to Niles)
+
+			Make sure you see cash from this
+
+			guy, Eddie.  He's got the name for
+
+			bettin' money he don't have.
+
+	The man in front of Lonnegan puts $5,000 on Dancing Cloud.
+
+	He makes the bet on credit.  Lonnegan steps to the window.
+
+					LONNEGAN
+
+			Two-thousand on Bluenote.
+
+					NILES
+
+				(writing out a ticket)
+
+			Is that all?
+
+					LONNEGAN
+
+				(pissed)
+
+			That's all.
+
+	Bluenote's race is now up on the board.  The race caller
+
+	comes on the loudspeaker.
+
+					CALLER
+
+			Ladies and Gentlemen.  This is
+
+			Arnold Rowe, your caller for the
+
+			second race at Belmont in New York.
+
+			A mile and 1/8.  Four year olds and
+
+			up.  And they're off!
+
+	We see that the caller is Singleton, and that he's calling
+
+	the race from a concealed booth next to the cashier's cage.
+
+					CALLER
+
+			Around the first turn it's a War
+
+			Eagle first by a length, Jail Bate
+
+			second by one and a half, Dancing
+
+			Cloud third by a half on the
+
+			outside, followed by Lucky Lady,
+
+			Mojo, Wits' End and Bluenote.
+
+	Lonnegan goes to the bar, orders a drink, and settles down
+
+	at one of the tables.  It happens to be the one the Eirie
+
+	Kid is at.  Gondorff and Niles watch it from the cashier's
+
+	cage.
+
+					GONDORFF
+
+				(worried)
+
+			That's not where we want him to sit.
+
+	Eirie tries to ignore Lonnegan at first, but realizes he
+
+	better make some conversation.
+
+					EIRIE KID
+
+			C'mon War Eagle.
+
+				(to Lonnegan)
+
+			That Dancing Cloud's a hell of a
+
+			finisher.  War Eagle's gonna have
+
+			to open up a little more on 'em.
+
+					LONNEGAN
+
+			You know anything about a horse
+
+			named Bluenote?
+
+					EIRIE KID
+
+			Naw, he's never done much.  Probably
+
+			in here just to round out the field.
+
+			War Eagle's where you wanna have
+
+			your money.
+
+	Eirie excuses himself and heads for the bar.
+
+					CALLER
+
+			Into the clubhouse turn, it's War
+
+			Eagle by two lengths, Dancing Cloud
+
+			has moved up to second by a half,
+
+			Lucky Lady is third by three
+
+			followed by Jail Bait, Mojo,
+
+			Bluenote and Wits' End.
+
+	The heretofore chaotic energy of the parlor is now focused
+
+	on the race.  Several of the patrons begin to yell for their
+
+	horses.  Lonnegan remains seated.  He seems bored with it
+
+	all.  Hooker comes over to clear some empty glasses from his
+
+	table.
+
+					LONNEGAN
+
+				(out of the corner of
+
+				his mouth)
+
+			You really picked a winner, kid.
+
+					HOOKER
+
+			Give 'em a little time.
+
+					CALLER
+
+			Into the backstretch it's War Eagle
+
+			still by a length, Dancing Cloud
+
+			closing on the inside, is second by
+
+			two, Lucky Lady is third by one and
+
+			a half, followed by Bluenote, Jail
+
+			Bait, Wits' End and Mojo.
+
+	Lonnegan perks up just a little.  Bluenote, at least, has
+
+	moved up.  The rest of the people in the place are really
+
+	rooting now.  Few of them remain seated.
+
+	Hooker arrives at the bar, with the glasses he cleared from
+
+	Lonnegan's table.  Eirie is already there, fortifying
+
+	himself with a scotch.
+
+					HOOKER
+
+			You're doin' great, Eirie.  He
+
+			loves ya.
+
+	Eirie nods, somewhat unconvinced, and heads bak to the table.
+
+					CALLER
+
+			Into the far turn, it's Dancing
+
+			Cloud now by half a length, War
+
+			Eagle is second by two, Bluenote is
+
+			third by a half and moving fast on
+
+			the outside.  Lucky Lady is fourth
+
+			by four lengths, followed by Jail
+
+			Bait, Wits' End and Mojo.
+
+	Lonnegan is getting more intent now.
+
+					CALLER
+
+			Coming down the stretch, it's
+
+			Dancing Cloud by one length, War
+
+			Eagle and Bluenote are neck and
+
+			neck by two.  Now it's Dancing
+
+			Cloud, Bluenote and War Eagle.
+
+				(shouting now)
+
+			Dancing Cloud and Bluenote head to
+
+			head...
+
+	The place is going crazy.  Even Singleton is standing up to
+
+	get the necessary excitement in his voice.
+
+					CALLER
+
+			Dancing Cloud, Bluenote.  Dancing
+
+			Cloud, Bluenote.  It's Bluenote by
+
+			a nose.  Dancing Cloud is second by
+
+			two, War Eagle third by three and a
+
+			half.  Time for a mile and 1/8,
+
+			2:01 and 6/10 seconds.
+
+	Most of the patrons collapse into their chairs like spent
+
+	lovers.  Eirie slams his racing form to the floor.  Nobody
+
+	had Bluenote.
+
+					CURLY
+
+				(tearing up his ticket)
+
+			Bloody awful.  Who in blazes is
+
+			Bluenote?
+
+					LONNEGAN
+
+				(to Eirie, very self-satisfied)
+
+			War Eagle's where you want to have
+
+			your money, huh?
+
+	Eirie doesn't reply.  He can't believe Bluenote won.
+
+	Lonnegan looks to Hooker.  Hooker gives him a wink.  For
+
+	the first time, Lonnegan permits a smile.
+
+								CUT TO:
+
+	LONNEGAN AT THE CASHIER'S WINDOW
+
+	Niles is counting out $16,000 to him (all of which Gondorff
+
+	won the night before).  Gondorff looks somewhat perturbed.
+
+	Lonnegan picks up the money and tauntingly waves it at him.
+
+					GONDORFF
+
+				(getting his name
+
+				right this time)
+
+			Don't bother to come back with a
+
+			piker's bet like that again,
+
+			Lonnegan.  We got a $5,000 minimum
+
+			here.
+
+				(to Hooker)
+
+			Show this bum out.
+
+	Hooker hesitates a second.
+
+					GONDORFF
+
+			Go on, ya goddamn ninny.
+
+	Gondorff gives Hooker a hard shove in the back with his
+
+	foot, sending him into a table and sprawling to the floor.
+
+					GONDORFF
+
+				(indicating Lonnegan's
+
+				bodyguards)
+
+			And tell him not to bring his
+
+			garbage men in here no more.  This
+
+			is a class joint.
+
+	Hooker, pretending to be humiliated, gets to his feet and
+
+	escorts Lonnegan to the door.  Lonnegan stops, gives Gondorff
+
+	a derisive smile, and walks out.  Once he's gone, the
+
+	general clatter and hubbub in the room cease, like it had
+
+	been turned off by a faucet.  Most of the boost sit down and
+
+	relax.  Curly Jackson rips off his Van Dyke.  It's been
+
+	itching him.
+
+					GONDORFF
+
+			He's gaffed, kid.  He should start
+
+			coming to you now.
+
+								CUT TO:
+
+	INT. COMB'S OFFICE AT THE CLEARINGHOUSE - DAY
+
+	Combs sits passively on the edge of his desk glancing across
+
+	the room every now and then at Riley, who is slumped uneasily
+
+	in a folding chair, looking like a defendant at the
+
+	Inquisition.  Both remain silent, like two men in a waiting
+
+	room.  Suddenly, what they've been waiting for arrives.
+
+	Lonnegan comes into the office, flanked by his bodyguards.
+
+	Skipping the usual pleasantries, he walks right over to Riley.
+
+					LONNEGAN
+
+			All right, Riley.  What the hell
+
+			happened?
+
+					RILEY
+
+				(not looking at him)
+
+			We missed him.
+
+					LONNEGAN
+
+			You weren't hired to miss him.
+
+					RILEY
+
+			There wasn't any way he coulda
+
+			known we was in there.  We made a
+
+			clean pick on the lock and didn't
+
+			leave no footprints in the hall.
+
+			Somebody musta wised him up.
+
+					LONNEGAN
+
+			Yeh, and what does Cole say about
+
+			that?
+
+					RILEY
+
+			I don't know.  He took it hard.
+
+					LONNEGAN
+
+			All right, get outa here.  You're
+
+			outta work.
+
+	Riley gets up and drags himself out the door like a whipped
+
+	dog.
+
+					LONNEGAN
+
+			We'll put Salino on it.  I need
+
+			somebody careful.
+
+					COMBS
+
+			Salino?  Why waste our best people
+
+			on a small-time job like this?  It
+
+			ain't no heavy gee we're after.
+
+			The guy's a five and dime grifter.
+
+					LONNEGAN
+
+			Then why ain't he dead?
+
+					COMBS
+
+			They didn't think he'd be so cagey,
+
+			that's all.  They'll get him next
+
+			time.
+
+					LONNEGAN
+
+			Use Salino.  It'll take a little
+
+			longer, but there won't be any
+
+			holes in it.
+
+	Combs gives up.  The second time's the charm.
+
+					LONNEGAN
+
+			And tell Cole I wanta see him when
+
+			he gets in.
+
+					COMBS
+
+			He's not comin' in.  Not to get
+
+			bounced off a job anyway.
+
+					LONNEGAN
+
+			He had his chance and all he did
+
+			was shoot up a rooming house.  Made
+
+			a lotte noise and woke up a few
+
+			cops, but didn't hit nothin'.
+
+	Combs keeps his mouth shut.  There's no way to talk to
+
+	Lonnegan when  he's like this.
+
+					LONNEGAN
+
+				(cooling a little)
+
+			This is Salino's job now, Vince.
+
+			If Cole wants to muscle in on it,
+
+			that's his business.  But he's
+
+			breakin' the rules and when Salino
+
+			finds out about it, I can't feel
+
+			sorry for what's gonna happen to him.
+
+								CUT TO:
+
+	INT. LONNEGAN'S HOTEL - DAY
+
+	The finest the period had to offer.  We pick up Hooker
+
+	coming down the hall to Lonnegan's suite.  He is admitted by
+
+	the Bodyguard.  Lonnegan, wearing a smoking jacket, is
+
+	seated at a table counting a pile of money.  There are two
+
+	other assistants standing behind him.  They don't look
+
+	friendly.
+
+					HOOKER
+
+			Well, what did I tell ya?
+
+					LONNEGAN
+
+			You're a lucky man, all right.
+
+					HOOKER
+
+			Lucky, hell.  I could do it every
+
+			day.
+
+					LONNEGAN
+
+			Why don't ya then.
+
+					HOOKER
+
+			'Cause it's better to do it all at
+
+			once.
+
+				(leaning close)
+
+			We're puttin' down 400 grand next
+
+			week.  At 5-1 we make 2 million.
+
+			Twenty per cent of that is yours if
+
+			ya stick with us.
+
+					LONNEGAN
+
+			You got a system, Carver?
+
+					HOOKER
+
+			You stayin' in or not?
+
+					LONNEGAN
+
+			I'm in.
+
+					HOOKER
+
+				(drawing up a chair,
+
+				barely able to
+
+				contain his enthusiasm)
+
+			It's foolproof.  We got a partner
+
+			downtown runs the central office of
+
+			the Western Union.  Race results
+
+			from all over the country come in
+
+			there and go right across his desk
+
+			on their way to the bookies.  All
+
+			he does in hold them up a couple
+
+			minutes until he can call us and
+
+			get a bet down on the winner.  Then
+
+			he releases the results to the
+
+			bookies and we clean up on a race
+
+			that's already been run.  It can't
+
+			miss, unless the Western Union
+
+			Dicks get onto it.
+
+	Lonnegan is amazed.  He sits back a second, then comes
+
+	forward again and pushes a pile of bills over to Hooker.
+
+	Hooker smiles and begins to count the money.
+
+					LONNEGAN
+
+			You got the 400 grand yet?
+
+					HOOKER
+
+			Not yet, but...
+
+				(stopping suddenly)
+
+			Hey, there's only a grand here.
+
+					LONNEGAN
+
+				(more like a command)
+
+			I think we oughta place another bet
+
+			tomorrow.
+
+					HOOKER
+
+				(getting angry)
+
+			What is this?  That's my money.
+
+			You tryin' to muscle me?
+
+					LONNEGAN
+
+				(controlled)
+
+			If your system's as foolproof as
+
+			you say, you'll get even more.
+
+	Hooker's in a jam and he knows it.
+
+					HOOKER
+
+				(after a pause)
+
+			I gotta talk to me partner first.
+
+			We can't afford to expose our game
+
+			too much.
+
+					LONNEGAN
+
+			Let me talk to him.
+
+					HOOKER
+
+				(flatly)
+
+			No.
+
+					LONNEGAN
+
+			You want your money back?  Try and
+
+			get it in a court of law.
+
+				(softening a bit)
+
+			C'mon, don't be a sorehead.  I'll
+
+			make it worth your while.  Migth
+
+			even help ya finance the big play
+
+			if this one works out.
+
+	Hooker says nothing for a minute, and then reluctantly nods
+
+	his head.
+
+					HOOKER
+
+			Four o'clock tomorrow.  Pick me up
+
+			at Dewey Lyle's.
+
+								CUT TO:
+
+	EXT. LONNEGAN'S HOTEL - DAY
+
+	We pick up Hooker coming out of the hotel and going off down
+
+	the street.  As he does so, we pull back all the way across
+
+	the street and through the interior of a parked car to
+
+	reveal the silhouette of a man seated at the wheel.  We move
+
+	to his right hand, which rests on the steering column.  It's
+
+	covered by a black glove and the middle finger is missing.
+
+	His trigger finger, however, taps lightly on the wheel.
+
+								CUT TO:
+
+	INT. AN INDOOR TELEPHONE BOOTH - DAY
+
+	One of the old, wooden kind -- accordian doors with glass
+
+	panes in the upper half.  Hooker dials rapidly.
+
+					HOOKER
+
+			Twist?  I told him the tale.  He
+
+			wants to see ya.
+
+					TWIST
+
+			All right, when?
+
+					HOOKER
+
+			Tomorrow, after 4:00.  Stay inside,
+
+			I'll come in and get ya.  And be
+
+			hard on him for a while; he's
+
+			talking money.
+
+					TWIST
+
+			Okay, Tootsie.
+
+	Hooker blows a mock kiss through the phone and hangs up.  He
+
+	turns to leave the booth, when suddenly he sees something
+
+	that stops him cold.  There looking through the glass is the
+
+	smirking face of Detective Synder.  Hooker is immobilized.
+
+	Snyder puts his hand inside his coat and slowly draws out
+
+	his gun.  He points it right at Hooker's face and then
+
+	violently smashes all the glass in the upper half of the
+
+	door with the barrel.  Fragments of glass spray into the
+
+	booth, a couple of which imbed themselves in Hooker's cheek.
+
+	Hooker quickly whips open the door, trapping Snyder's hand
+
+	in the accordian and jarring loose his gun.  Hooker sprints
+
+	out of the booth as Snyder scrambles for his pistol and
+
+	gives pursuit.
+
+	EXT. ALLEYS AND SIDESTREETS - NIGHT - THE TWO MEN
+
+	We follow the two men up alleys and sidestreets as they race
+
+	through the dregs of the city, two panting shadows moving
+
+	through places that only get light at night.  The wind blows
+
+	drops of blood off Hooker's cheek as he runs.  Snyder still
+
+	has his gun, but would rather inflict pain than death.
+
+	CONDEMNED BUILDING
+
+	Hooker makes for a condemned building and scrambles up the
+
+	stairs, steps giving way under him as he goes.
+
+	INT. BUILDING
+
+	On the fourth floor, he ducks into a room and quickly locks
+
+	the door.
+
+	We pan the room to reveal that the whole back side of the
+
+	building is gone.  Hooker runs toward the ledge and leaps
+
+	through the air, landing on the fire escape of an adjacent
+
+	building, some 15 feet away.  He kicks in a window and goes
+
+	off down the hall.  We cut back to
+
+	Snyder furiously kicking in the locked door.  He finally
+
+	crashes through, only to find an empty room and a beautiful
+
+	panorama of the city and its nearest Hooverville.
+
+								CUT TO:
+
+	LONG SHOT - HOOKER
+
+	Winding his way through the slum area of town, dashing along
+
+	backstreets, over fences and through vacant lots, making
+
+	good his escape.  From our angle, he looks like a rat in a
+
+	maze.
+
+					GONDORFF (V.O.)
+
+			Why didn't you tell me about Snyder
+
+			before?
+
+					HOOKER (V.O.)
+
+			I thought I'd lost him.
+
+								CUT TO:
+
+	INT. GONDORFF'S ROOM AT THE CAROUSEL BUILDING - DAY
+
+	Hooker sits sullenly at the table.  Billie stands over him
+
+	putting some ointment on his face to close the cuts.
+
+	Gondorff looks on.  Their discussion continues.
+
+					GONDORFF
+
+			Well you found him again and we're
+
+			gonna have to do somethin' about it.
+
+			What else haven't ya been tellin' me?
+
+					HOOKER
+
+			Nothin'.  I told ya everything
+
+			there is.
+
+					GONDORFF
+
+			Then why'd ya move outa your room?
+
+					HOOKER
+
+			It was too noisy.
+
+					GONDORFF
+
+			You can't play your friends like
+
+			marks, Hooker.
+
+	Hooker doesn't reply.  He knows Gondorff's on to him.
+
+					GONDORFF
+
+			You know how easy it'd be for one
+
+			of Lonnegan's guys to nail you?
+
+					HOOKER
+
+			All we need is a couple days, Henry.
+
+			A couple days and we'll get Lonnegan
+
+			down and stomp on 'em.
+
+					GONDORFF
+
+			You just won't learn, will ya.
+
+			Hell, you come in here, I teach you
+
+			stuff maybe five guys in this world
+
+			know, stuff most grifters couldn't
+
+			do even if they knew it, and all
+
+			you wanna do is run down a bullet.
+
+				(pause)
+
+			You're just like all them new jerks.
+
+			Lotsa nerve and no brains.  And ten
+
+			years from now when me and the
+
+			others are through and you dumb
+
+			guys are all dead there won't be
+
+			one gee left who knows the Big Con
+
+			was anything more than a way to
+
+			make a livin'.
+
+					HOOKER
+
+			A couple days; that's all I'm
+
+			askin'.  I can stay clear that long.
+
+					GONDORFF
+
+				(trying to be angry
+
+				and failing)
+
+			Christ, they'll probably miss you
+
+			and hit me.
+
+								FADE OUT.
+
+	FADE IN:
+
+	THE WIRE
+
+								FADE OUT.
+
+	FADE IN:
+
+	INT. A SLEEPY DINER - LATE AFTERNOON
+
+	Located across the street from Hooker's apartment building.
+
+	Hooker sits down alone in a booth, with a plate of ham and
+
+	eggs he's hardly touched.
+
+	The two cuts on his face have pretty much stopped bleeding.
+
+	A big fan above the counter area drones away lethargically,
+
+	it's air stream insufficient to either cool the place or
+
+	drive out the smell of onions and grease.
+
+	A waitress, Loretta, emerges from the kitchen and ambles
+
+	slowly over to Hooker's table.  Slim and raven-haired, she
+
+	manifests an indifference bred from years spent delivering
+
+	things to people who are rarely grateful for what she brings.
+
+	Only a light scar on her left cheek hints at another side.
+
+					LORETTA
+
+			You done?
+
+					HOOKER
+
+			Yeh, I guess I shoulda had the meat
+
+			loaf.
+
+					LORETTA
+
+				(deadpan)
+
+			It isn't any better.
+
+					HOOKER
+
+			Where's June today?
+
+					LORETTA
+
+				(figuring up the bill)
+
+			She don't work here no more.  I'm
+
+			fillin' in for a couple days...
+
+			till I can get a train outa here.
+
+					HOOKER
+
+			Where you goin'?
+
+					LORETTA
+
+				(putting the check
+
+				down and walking away)
+
+			I don't know.  Depends what train I
+
+			get on.
+
+	Hooker looks for some sign that she's putting him on.  He
+
+	doesn't get it.  He takes out some money, drops it on the
+
+	table and walks out.
+
+								CUT TO:
+
+	EXT. A WESTERN UNION OFFICE - LATE AFTERNOON
+
+	A truck with the words CLAYTON BROS., CUSTOM PAINTING AND
+
+	DECORATING stenciled on the side, is parked out front.  Two
+
+	men, wearing overalls and painter's caps, walk into the
+
+	office to the reception counter, we see that they are Twist
+
+	and Singleton.
+
+					TWIST
+
+				(to the receptionist)
+
+			Excuse me.  We're here to paint Mr.
+
+			Harmon's office.
+
+					RECEPTIONIST
+
+				(obviously not
+
+				expecting them)
+
+			Mr. Harmon's office?  Hold on just
+
+			a second.
+
+She goes to get Mr. Harmon.
+
+								CUT TO:
+
+	EXT. THE SLEEZY DINER - LATE AFTERNOON
+
+	Hooker is standing on the curb outside the diner, obviously
+
+	waiting for somebody.  Lonnegan's car pulls up and Hooker
+
+	hops in the back.
+
+					LONNEGAN
+
+			What happened to your face?
+
+					HOOKER
+
+			Had a little fight with a raggle
+
+			down on 13th.  She got me with her
+
+			ring.
+
+	Lonnegan laughs.
+
+								CUT TO:
+
+	INT. THE WESTERN UNION OFFICE AGAIN - LATE AFTERNOON
+
+	Mr. Harmon is looking over the authorization papers that
+
+	Twist and Singleton have given him.  He can't find anything
+
+	wrong with it.
+
+					HARMON
+
+			Brigham signed it all right.  I
+
+			can't understand why he didn't tell
+
+			me.
+
+					SINGLETON
+
+			Ah, he's like all them supervisors.
+
+			They think they're too good for
+
+			regular people.  He says he was in
+
+			here a while ago and the place was
+
+			a mess.
+
+	Harmon looks around, hoping it's not true.
+
+					TWIST
+
+			We'll try and hurry so we don't
+
+			keep you out of your office too long.
+
+					HARMON
+
+			Why can't I work with you in there?
+
+					SINGLETON
+
+			Look pal, we gotta cover the floor,
+
+			the furniture, everything, so we
+
+			don't spill on nothing.  Now if you
+
+			wanta sit in there with a tarp over
+
+			your head, you're welcome to it.
+
+					HARMON
+
+			All right, how long will you be?
+
+					TWIST
+
+			Hour or two at the most.  We do
+
+			good work.
+
+	Harmon is resigned.  Twist and Singleton pick up their gear
+
+	and march into the office.  Once inside, we notice that the
+
+	office has an exit door which opens to an outside alley.
+
+	Twist immediately removes his overalls, revealing the suit
+
+	and tie he's wearing underneath.  He takes out a picture of
+
+	himself, a woman and three small children, and puts it on
+
+	Harmon's desk, replacing a similiar picture of Harmon's
+
+	family.  Singleton, meanwhile, has spread a few tarps and
+
+	begins to paint the walls.
+
+								CUT TO:
+
+	EXT. THE WESTERN UNION OFFICE - LATE AFTERNOON
+
+	Lonnegan's car pulls up and stops across the street.
+
+					HOOKER
+
+			We'll go to the side door.
+
+	We follow Hooker and Lonnegan across the street to the side
+
+	entrance which opens into:
+
+	INT. HARMON'S OFFICE
+
+	Hooker knocks and Twist, of course, answers.
+
+					HOOKER
+
+			Les, I got Mr. Lonnegan with me.
+
+			He wants to see you a second.
+
+					TWIST
+
+				(irritated)
+
+			What the hell's the matter with you.
+
+			We coulda met at a club or somethin'.
+
+					HOOKER
+
+			I thought it might be good for him
+
+			to see the setup.
+
+					TWIST
+
+				(hushed)
+
+			Well we can't talk in here.  They're
+
+			having the place painted.
+
+	Twist walks over to the intercom on his desk.  He leaves the
+
+	door open so that Lonnegan can get a good look at the
+
+	office, Twist's picture in it, the painter, etc... Lonnegan's
+
+	not missing any of it.
+
+					TWIST
+
+				(talking into the intercom)
+
+			Miss Barnes, I'm going home a
+
+			little early today.  Tell anyone
+
+			that calls that they can reach me
+
+			here in the morning.  Thank you.
+
+								CUT TO:
+
+	INT. FRONT OFFICE
+
+	Harmon's secretary at the other end of the intercom.  Mr.
+
+	Harmon is with her.  They look at each other a second and
+
+	Harmon decides he better see what's happening in his office.
+
+	He opens the door to find it empty except for a pile of
+
+	painting equipment and one haphazardly painted wall.
+
+								CUT TO:
+
+	INT. A DILAPIDATED CHINESE RESTAURANT - EVENING
+
+	Dark and somewhat foreboding, its peeling dragons and shoddy
+
+	lanterns compete for space with the many slot machines and
+
+	arcade games that line the walls.  Hooker, Lonnegan and
+
+	Twist sit at one of the more secluded tables.  They are not
+
+	eating.
+
+					TWIST
+
+			Can't do it.  There're telegraph
+
+			inspectors all over the place.  I
+
+			got 750 grand coming in from the
+
+			coast, and I'm not gonna blow it
+
+			for a lousy 14 gees.  We'll get
+
+			somebody else to do our betting.
+
+					LONNEGAN
+
+			I could come up with 750 grand in a
+
+			day if I had a reason to.
+
+					TWIST
+
+			But who says you will.  I got a guy
+
+			I can depend on.  He's liquidating
+
+			everything he has for this.  You
+
+			wouldn't even give Carver his money
+
+			back.
+
+					LONNEGAN
+
+			I need more proof, that's all.
+
+			Anybody can get lucky once.
+
+					TWIST
+
+				(stubbornly)
+
+			On a 6-1 shot?  The hell with ya.
+
+			We'll keep the deal we got.
+
+					LONNEGAN
+
+			If it works again tomorrow, I'll
+
+			have a half million in cash here by
+
+			noon the next day.  We split 60-40.
+
+					TWIST
+
+				(feebly, beginning to break)
+
+			We were getting 50 from our guy.
+
+					LONNEGAN
+
+			With 20% coming off the top for me
+
+			laying your bet.  Either way you
+
+			end up with 40.
+
+	Twist hesitates.
+
+					LONNEGAN
+
+			A week's a long time, friend.
+
+			Anything can happen.  All of it bad.
+
+					HOOKER
+
+			He's right, Les.
+
+					TWIST
+
+			Yeh, and what if we play tomorrow
+
+			and he doesn't come up with the
+
+			money.  We risk our whole operation
+
+			for nothing.  I'll say when we make
+
+			our bets.
+
+					LONNEGAN
+
+			Not if you want me to keep makin'
+
+			'em for ya.
+
+					HOOKER
+
+			And what do we know about your guy.
+
+			He says a week, but who knows if
+
+			it's a month?  Lonnegan here's a
+
+			banker.  He can get that dough with
+
+			no questions asked.
+
+	Twist says nothing for a minute, then:
+
+					TWIST
+
+			All right.  Be at the booth at 1:00.
+
+			I'll give you all three places this
+
+			time, Lonnegan.  That better be
+
+			proof enough.
+
+	Hooker and Lonnegan smile at each other like life-long
+
+	friends.  They get up to leave, and we frame the shot with a
+
+	coffee cup large in the foreground.  As they go out the
+
+	door, a black-gloved hand with four fingers enters the frame
+
+	and puts a nickel down next to the cup.
+
+								FADE OUT.
+
+	FADE IN:
+
+	THE SHUT-OUT
+
+								FADE OUT.
+
+	FADE IN:
+
+	INT. A DOWNTOWN DINETTE - MORNING
+
+	Snyder finishes a donut and a cup of coffee, puts down a
+
+	dime for the lot and exits.  We follow him down the street:
+
+	EXT. STREET
+
+	To a corner newsstand, where he stops to buy a morning paper.
+
+	As he peruses it, he's approached by two large, clean-cut
+
+	men in white skimmers.
+
+					MAN
+
+			Are you Lieutenant William Snyder?
+
+					SNYDER
+
+			I don't know, what's up?
+
+					MAN
+
+			F.B.I... The Captain'd like a few
+
+			words with ya.  Ya got a couple
+
+			minutes?
+
+					SNYDER
+
+				(completely floored)
+
+			Yeh, sure.
+
+	The two men show him to a waiting car.
+
+								CUT TO:
+
+	INT. AN ABANDONED WAREHOUSE - DAY
+
+	Snyder stands in the middle of a dusty old machine room,
+
+	surrounded by four or five Federal Agents.  Visible around
+
+	the room are several folding cots and portable lockers.  The
+
+	agents have obviously been quartered here temporarily.  They
+
+	all wear white skimmers, save for one, a portly man, Captain
+
+	Polk, who paces the room smoking.  There is something long-
+
+	suffering about him, as if he wondered how he ever got in a
+
+	service that thought white skimmers were classy.
+
+					SNYDER
+
+			What is this?  I got work to do.
+
+					POLK
+
+			Sit down and shut up, will ya.  Try
+
+			not to live up to all my
+
+			expectations.
+
+				(not in the mood to
+
+				screw around)
+
+			We were told you know a hustle
+
+			artist named Johnny Hooker.
+
+	Snyder doesn't answer.
+
+					POLK
+
+			Do ya know him or don't ya?
+
+					SNYDER
+
+			Yeh, but I don't know where he is.
+
+					POLK
+
+			Well we do.  He's chummin' around
+
+			with a Big C named Henry Gondorff.
+
+			Ring any bells?
+
+					SNYDER
+
+			Sure.  Every bunco man in the
+
+			country knows Gondorff.
+
+					POLK
+
+			There's word he's gonna run a con
+
+			on the North Side here.  We got a
+
+			year-old Florida warrant on him,
+
+			but it's a thin beef, and he can
+
+			beat it in court unless we catch
+
+			him cold.  All we want you to do is
+
+			pick up Hooker for us.
+
+					SNYDER
+
+			Why don't you pick him up yourself?
+
+					POLK
+
+			Cause the stoolies are used to
+
+			street dicks jumpin' him.  If word
+
+			gets around that Feds are in on it
+
+			too, Gondorff'll fold up the whole
+
+			thing.
+
+					SNYDER
+
+			Wouldn't that be too bad.  You'd
+
+			hafta move outa this nice office ya
+
+			got.
+
+					POLK
+
+				(enraged)
+
+			Don't crack wise to me, flatfoot.
+
+			I spent a lotta time in dumps like
+
+			this, eatin' Gondorff's dust while
+
+			the bunco squad gets rich tippin'
+
+			him off.  But it's not gonna happen
+
+			this time.  We're not even gonna
+
+			let the police know we're here.  If
+
+			you keep your mouth shut and do a
+
+			job, there'll be a promotion in it
+
+			for ya.  And you better take it,
+
+			cause I can make ya work for us
+
+			without it.
+
+					SNYDER
+
+			What the hell good is Hooker to ya?
+
+					POLK
+
+			He's gonna set up Gondorff for us.
+
+					SNYDER
+
+			He'll never do it.
+
+					POLK
+
+				(self-satisfied)
+
+			I think he will.
+
+								CUT TO:
+
+	INT. DRUGSTORE - DAY
+
+	Lonnegan sits by the phone, watching the clock and sipping a
+
+	cup of coffee.
+
+								CUT TO:
+
+	INT. THE STORE - DAY
+
+	Specifically, the small room from which Singleton does his
+
+	race broadcasts.  Singleton, himself, is hunched over the
+
+	ticker machine, reading the print-out.  Billie sits at the
+
+	microphone table with a pencil and pad, ready to write.
+
+					SINGLETON
+
+			Visitation is still up by two at
+
+			the three-quarters.  Single Action
+
+			second, Fasanella third.
+
+					BILLIE
+
+			What's the line on Visitation?
+
+					SINGLETON
+
+				(checking further up
+
+				on the print-out sheet)
+
+			7 to 2.  That ain't bad.
+
+					BILLIE
+
+			He'll probably fall down.
+
+	Gondorff appears at the doorway.
+
+					GONDORFF
+
+			How ya doin'?
+
+					SINGLETON
+
+				(eyes still glued to
+
+				the ticker)
+
+			Nothin' yet.  I got a good one on
+
+			the lead at Hialeah, but he's fadin'.
+
+					BILLIE
+
+			Best we had was Cat's Eye in the
+
+			second at Del Mar, and he was only
+
+			5-2.  Not many longshots comin' in
+
+			today.
+
+					SINGLETON
+
+				(excited)
+
+			Billie.  You ready?
+
+	Billie prepares to write on her pad.
+
+					BILLIE
+
+			Yeh, go ahead.
+
+					SINGLETON
+
+			At the finish, it's Single Action
+
+			by two, Fasanella second, Visitation
+
+			third.
+
+				(reading up the sheet again)
+
+			Line on Single Action... 3 to 2.
+
+			Hell with it, that's no good.
+
+	Billie crumples up the piece of paper she's been writing on
+
+	and chucks it in a wastecan.
+
+					GONDORFF
+
+			We don't need big odds on this one,
+
+			J.J.  Take anything you get at 3-1
+
+			or better.
+
+	Gondorff leaves the room, as Singleton turns back to his
+
+	vigil at the ticker.
+
+					SINGLETON
+
+				(a little weary)
+
+			Okay, the Fairfield Stakes at Santa
+
+			Anita.  Mile and a quarter for 3
+
+			year olds and up.
+
+								CUT TO:
+
+	THE FLOOR AREA OF THE STORE
+
+	Everyone is in his place as before.  Today, however, Curly
+
+	Jackson is playing the part of the aging sport.
+
+	Well scrubbed and clean shaven, he cuts a dashing figure in
+
+	his blue blazer and white pants.  We go to Gondorff in the
+
+	cashier's cage.  He's talking to Niles, who's busy handing
+
+	out fake bankrolls to members of the boost.
+
+					GONDORFF
+
+			He's gonna hit ya with 20 grand,
+
+			Eddie.  How much cash we got?
+
+					NILES
+
+			Not enough to cover a bet that big.
+
+					GONDORFF
+
+			Get a couple extra guys in the
+
+			line, then.  We'll give him the
+
+			shut-out.
+
+	Niles nods.
+
+								CUT TO:
+
+	INT. DRUGSTORE - DAY
+
+	Lonnegan is still waiting.  He takes the 20 grand out of his
+
+	coat pocket and thumbs through it, just to make sure it's
+
+	all there.
+
+								CUT TO:
+
+	INT. THE STORE - DAY
+
+	Singleton and Billie at the ticker again.  Billie looks a
+
+	little sleepy.  Singleton is obviously involved with the
+
+	progress of a race.
+
+					SINGLETON
+
+			Okay, Billie, here we go.
+
+	Billie snaps to and prepares to write as Singleton reads.
+
+					SINGLETON
+
+			At the wire it's Wrecking Crew the
+
+			winner by five, Grand Theft second,
+
+			Wingless third.
+
+				(reading up)
+
+			Wrecking Crew was...4 to 1.
+
+				(ripping the sheet
+
+				out of the ticker)
+
+			That's our boy.
+
+	Billie and Singleton hustle out of the room.
+
+	EXT. ALLEY
+
+	We follow Billie through the store and across the alley to
+
+	the building from which Twist keeps his lookout.
+
+								CUT BACK TO:
+
+	INT. THE STORE
+
+	Gondorff, holding the ticker sheet Singleton has given him,
+
+	emerges from the office and starts giving instructions to
+
+	the boost.
+
+					GONDORFF
+
+			All right, Furey, your horse is
+
+			Wingless.  Paltrow, the Big Alabama
+
+			and Phillips'll take Grand Theft.
+
+			Rodgers and Eirie have Wrecking
+
+			Crew.  Jackson -- His Dandy,
+
+			Cowan -- Change of Heart, Fiskin
+
+			and Chappie -- Made to Order.
+
+				(pointing to the
+
+				Eirie Kid)
+
+			Eirie, he gets a bang outa seein'
+
+			you lose, so we oughta use that on
+
+			'em.  If you play the birds of a
+
+			feather routine we worked on, it
+
+			should steam him up pretty good.
+
+			You think you can handle that?
+
+					EIRIE KID
+
+				(a little nervous)
+
+			Yeh, sure.
+
+					GONDORFF
+
+			O.K., you guys in line take your
+
+			time, and I wanta see lotsa joy on
+
+			Wrecking Crew.
+
+								CUT TO:
+
+	INT. TWIST'S ROOM - DAY
+
+	Billie enters and gives Twist the piece of paper she wrote
+
+	the race results on.  He picks up the phone and starts to
+
+	dial.
+
+								CUT TO:
+
+	INT. DRUGSTORE - DAY
+
+	The phone rings and Lonnegan answers it.
+
+					VOICE
+
+			Wrecking Crew at 4-1, Grand Theft
+
+			to place, Made to Order to show.
+
+	Lonnegan smiles and hangs up the phone.
+
+								CUT TO:
+
+	INT. THE STORE - DAY
+
+	Lonnegan's in line at the betting window.  There are four
+
+	people in front of him this time, and they are moving rather
+
+	slowly.  The "Last Flash" call is heard on the speakers.
+
+					LONNEGAN
+
+				(getting impatient)
+
+			C'mon, let's hurry up there.
+
+	The man at the head of the line turns around and gives
+
+	Lonnegan a chilling look, as if he were beneath contempt.
+
+	He puts down $25,000 on Grand Theft.  The next man in line
+
+	plunges down $30,000 on Wrecking Crew.
+
+	Just as Lonnegan is about to step to the window, Gondorff
+
+	gives a quick signal to Singleton.  The speakers come on.
+
+					CALLER
+
+			Ladies and Gentlemen, this is
+
+			Arnold Rowe, your caller for the
+
+			$100,000 Fairfield Stakes at
+
+			Hollywood Park in Los Angeles.  A
+
+			mile and 3/8 for three year olds
+
+			and up.  And they're off!
+
+					LONNEGAN
+
+				(counting out his money)
+
+			Twenty-thousand on Wrecking Crew.
+
+					NILES
+
+			I'm sorry, sir.  We can't take bets
+
+			after the race is started.
+
+	He points to a sign above the window, which says exactly
+
+	that.  Lonnegan grabs up his money in disgust.
+
+					GONDORFF
+
+			Don't take it so hard, pal.  You
+
+			probably woulda lost it.
+
+	Lonnegan wanders over to the bar in a funk.
+
+					CALLER
+
+			And around the first turn it's
+
+			Wrecking Crew by a half length,
+
+			Grand Theft second by one, His
+
+			Dandy is third by one half, followed
+
+			by Change of Heart, Back Flip, Made
+
+			to Order and High Ground.
+
+	The assembled patrons are once again thoroughly involved in
+
+	the race.  Eirie comes up to Lonnegan at the bar.
+
+					EIRIE KID
+
+			Who you got?
+
+					LONNEGAN
+
+				(half-heartedly)
+
+			Wrecking Crew.
+
+					EIRIE KID
+
+			Me too.  Maybe it's our day.
+
+	Lonnegan nods and wanders away.  Hooker comes over to him.
+
+					HOOKER
+
+			What happened?
+
+					LONNEGAN
+
+			I didn't get the bet down in time.
+
+					HOOKER
+
+				(pissed)
+
+			Oh, Jesus.
+
+								CUT TO:
+
+	INT. STORE OFFICE
+
+	Gondorff and Niles, back in the office.
+
+					NILES
+
+				(looking out at the floor)
+
+			Looks like he's sulking.
+
+					GONDORFF
+
+			If we're lucky, this'll bring him
+
+			back stronger than ever.
+
+								CUT TO:
+
+	THE FLOOR
+
+					CALLER
+
+			Coming for home, it's Wrecking Crew
+
+			by six lengths, Made to Order is
+
+			second by two and a half, High
+
+			Ground is third by a length and
+
+			Grand Theft is coming fast on the
+
+			rail.  It's Wrecking Crew, Made to
+
+			Order and Grand Theft.  Wrecking
+
+			Crew wins it by five lengths, Grand
+
+			Theft is second by a nose, Made to
+
+			Order is third by two.  Time for
+
+			one and 3/8 mile, 2:11 and 4/10
+
+			seconds.
+
+	Eirie explodes in a joyous frenzy.  He grabs Lonnegan by the
+
+	shoulders and shakes him.
+
+					EIRIE KID
+
+			We won!  We won!  You hear that!  I
+
+			won 30,000!  You hear that!
+
+	Yeh, Lonnegan heard that.  Lonnegan shakes loose, grabs his
+
+	coat and heads for the door.
+
+	EXT. ALLEY - DAY
+
+	He finds Hooker waiting for him outside.
+
+					LONNEGAN
+
+			Tell your friend I'll have the
+
+			money here by post-time tomorrow.
+
+			We'll take the first race where the
+
+			odds are 4-1 or better.  And make
+
+			sure I can get to that window this
+
+			time.
+
+					HOOKER
+
+			How am I gonna do that?
+
+					LONNEGAN
+
+				(coarsely)
+
+			I don't know, figure something out.
+
+	Lonnegan storms across the street to his waiting car and
+
+	drives off.  Hooker relaxes into a smile.  He's already
+
+	figured something out.
+
+								CUT TO:
+
+	INT. SLEEZY DINER ACROSS FROM HOOKER'S APT. BLDG. - EVENING
+
+	Hooker sits at the counter finishing a plate of meat loaf.
+
+	Loretta is down at the cash register, leaning on the counter,
+
+	looking idly out into space.  Hooker glances over at her
+
+	every once in a while to see if she might be interested in
+
+	striking up a little conversation.  She's not.  He finishes
+
+	his meal and comes down to the register to pay his bill.
+
+					HOOKER
+
+			Meat loaf, apple pie and a cup of
+
+			coffee.
+
+					LORETTA
+
+				(ringing it up)
+
+			Sixty-five.
+
+	Hooker gives her a dollar.  She goes to the register for
+
+	change.
+
+					HOOKER
+
+			What time you get off work here?
+
+					LORETTA
+
+			2:00 A.M.
+
+					HOOKER
+
+			You doin' anything tonight?
+
+					LORETTA
+
+				(handing him his change)
+
+			Yeh, sleepin'.
+
+	Hooker figures that's enough of that.  He pockets his change
+
+	and starts out the door, when suddenly he stops short.
+
+	EXT. STREET
+
+	Across the street in a doorway is the silhouette of a man.
+
+	It's Cole.  He's pretending not to look at the diner, but
+
+	Hooker isn't fooled.
+
+	INT. DINER
+
+	He goes back to Loretta at the register.
+
+					HOOKER
+
+			You got a back door to this place?
+
+					LORETTA
+
+			No.  What's wrong with the front?
+
+					HOOKER
+
+				(urgently now)
+
+			Look, I don't have time to fuck
+
+			around.  There's somebody out there
+
+			I don't need to see.  You got a
+
+			fire escape or anything?
+
+					LORETTA
+
+			No.
+
+					HOOKER
+
+			All right, do me a favor.  Go into
+
+			the bathroom, open the window and
+
+			wait for me there.
+
+					LORETTA
+
+			What the hell for?
+
+					HOOKER
+
+			Just do what I tell ya and
+
+			everything'll be jake.
+
+	Cracks of concern begin to appear in Loretta's marble.
+
+					LORETTA
+
+			What does this guy want?
+
+					HOOKER
+
+				(evenly)
+
+			He'd like to kill me.
+
+	Loretta just looks at him a second.  Realizing that this is
+
+	no joke, she turns and walks slowly but steadily to the
+
+	bathroom.  Hooker waits until she's out of sight.
+
+	EXT. STREET
+
+	Hooker goes to the front door and steps outside.  Cole looks
+
+	up at the sound of the door.  Hooker makes a big show of
+
+	spotting him, and runs back into the diner.  Cole, his cover
+
+	blown, draws his gun and races across the street in pursuit.
+
+	Arriving just in time to see --
+
+	INT. DINER
+
+	Hooker go into the bathroom, he charges in after him, only
+
+	to find the place empty.  He goes quickly from stall to
+
+	stall, on the chance that Hooker might be hiding in one of
+
+	them.
+
+	He comes to one that's closed, and seeing a pair of woman's
+
+	legs under the door, rejects that, and moves on to the next
+
+	one.
+
+	We cut inside the stall to reveal Loretta sitting on the
+
+	toilet with her skirt hiked up.  Right behind her, crouched
+
+	on the back of the seat, is Hooker.
+
+	Cole has finished his rapid inspection now, and having found
+
+	nothing, looks around for Hooker's probable escape route.
+
+	He sees the open window and climbs out to find himself in a
+
+	small air shaft, from which he knows Hooker could not escape.
+
+	Hooker, seizing the time, bursts out of the stall and runs
+
+	back out through the diner.  Cole sees him, but too late to
+
+	get off a shot.  He climbs back in the window and gives chase.
+
+	EXT. STREET
+
+	We pick up Hooker barreling down the street with Cole a
+
+	hundred yards or so behind.  Hooker makes a sharp cut into
+
+	an alley, and we see immediately that it's a hopeless dead
+
+	end.  Inexplicably, he makes no attempt to run back out.
+
+	Cole draws up and cuts into the alley, anticipating the kill
+
+	which should be easy now.  He prepares to sight down his
+
+	victim, when suddenly he realizes there is no victim in
+
+	sight.  Hooker, miraculously, has vanished.  Cole scans the
+
+	alley frantically for some trace of him.  There are no
+
+	windows or doors at the street level.  Not even a drain pipe.
+
+	Just brick wall.  It's impossible.  Hooker has disappeared
+
+	into thin air.
+
+	Cole slams his gun into his shoulder holster with a curse,
+
+	and starts back out of the alley, when all of a sudden he
+
+	stops in utter terror.  His mouth drops open and he chokes
+
+	out the words:
+
+					COLE
+
+			Salino, hey look.  I didn't mean to
+
+			move in on...
+
+	Before anything else can come out, two bullets rip into his
+
+	chest.  He falls to the concrete, coming to rest on a
+
+	manhole cover, which we notice is slightly ajar.  We:
+
+								CUT TO:
+
+	THE SEWER PIPES
+
+	Beneath the manhole.  We see Hooker making his way through
+
+	the slop, having gained another reprieve, but unaware that
+
+	with two down, there is still one to go.
+
+								CUT TO:
+
+	INT. HOOKER'S APARTMENT BUILDING - EVENING
+
+	Hooker comes in the front entrance and goes to the elevator,
+
+	one of the old-fashioned kind with the iron grid on the
+
+	inside.  He's still a little rattled and waiting for the
+
+	elevator is making him restless.  It finally arrives, and he
+
+	steps inside, closing the grid behind him.  As he starts to
+
+	push the button for his floor, he realizes for the first
+
+	time that he's not alone.  He looks to the corner to find
+
+	Snyder, holding a gun on him.  This time there's not much
+
+	doubt that he'll use it if necessary.
+
+								CUT TO:
+
+	INT. THE ABANDONED WAREHOUSE - EVENING
+
+	Snyder brings Hooker into the crate room where Capt. Polk
+
+	and the other Agents are waiting.  Polk, as usual, has his
+
+	coat off, revealing his shoulder holster.
+
+					POLK
+
+			Hello, Mr. Hooker.  Captain Polk,
+
+			F.B.I...
+
+				(shoving a chair over
+
+				to him)
+
+			Have a seat.
+
+	Hooker remains standing.
+
+					POLK
+
+				(ignoring it, drinking
+
+				from a cup)
+
+			You want a drink or something?
+
+					HOOKER
+
+			No.
+
+					POLK
+
+			We want to talk to ya about Henry
+
+			Gondorff.
+
+					HOOKER
+
+			Don't think I know him.
+
+					POLK
+
+			Well give yourself a couple seconds,
+
+			crumb.  You wouldn't wanna lie to
+
+			me.  Lt. Snyder here says you done
+
+			a lotta griftin' in this town.
+
+					HOOKER
+
+			Lt. Snyder doesn't know shit.
+
+	Capt. Polk almost laughs, but he checks it.
+
+					HOOKER
+
+			You got nothin' on me.
+
+					POLK
+
+			We'll get it, and if we can't,
+
+			we'll just make it up.  Grand
+
+			larceny, extortion.
+
+				(with special emphasis)
+
+			Counterfeiting, anything you want.
+
+	Hooker says nothing, but it's not from defiance now.  He's
+
+	beginning to get the picture.
+
+					POLK
+
+			Look, I got nothin' against you,
+
+			but you're in trouble here.  All
+
+			you gotta do is tell us when
+
+			Gondorff's gonna play his chump.
+
+			We come in at the sting, make the
+
+			pinch, and you walk out free as a
+
+			bird.  No questions, no court
+
+			appearance, nothing.
+
+					HOOKER
+
+			No.
+
+					POLK
+
+			You've already done time twice, and
+
+			judges don't like three time losers.
+
+			You wanna sit in the can for forty
+
+			years, startin' tonight?
+
+					HOOKER
+
+			I'll make parole.
+
+					POLK
+
+			Like hell.  You won't even get a
+
+			review till you're seventy.  And if
+
+			the board starts to go soft, we'll
+
+			let ya out in the yard some night
+
+			with a hard-nose young bull who'll
+
+			put fifty slugs in your face and
+
+			ask what you were doin' there later.
+
+	Hooker wants to come back with something, but can't find it.
+
+					POLK
+
+			Don't be a sap, kid.  You could
+
+			save us a little trouble.  But
+
+			Henry Gondorff is through whether
+
+			you help us or not.  There's
+
+			nothin' left to do now but save
+
+			yourself.
+
+	Hooker's thoroughly whipped.  He sits down for the first time.
+
+					HOOKER
+
+				(softly)
+
+			Will you wait until the chump is
+
+			played?
+
+					POLK
+
+			Hell yes.  We don't care about the
+
+			mark.  He deserves what he gets.
+
+					HOOKER
+
+				(with heat)
+
+			I mean completely played.  Until
+
+			he's beat and the score is taken.
+
+			You come in before we beat him and
+
+			I'll kill him.  You'll have a tough
+
+			time explaining that, won't ya.
+
+					POLK
+
+			All right, Hooker, but you take it
+
+			on the lam, and we'll shoot you
+
+			down on sight.
+
+					HOOKER
+
+				(barely audible)
+
+			Just as long as I get to finish the
+
+			play.
+
+								CUT TO:
+
+	INT. GONDORFF'S ROOM - NIGHT
+
+	Gondorff and Hooker are playing gin rummy and drinking.
+
+	Gondorff makes little comments as he plays, but Hooker is
+
+	quiet and withdrawn.  The carousel is not in operation and a
+
+	heavy silence hangs over the place.
+
+					GONDORFF
+
+			What's the matter, kid?  You're not
+
+			sayin' much.
+
+					HOOKER
+
+			Just a little nervous, that's all.
+
+					GONDORFF
+
+			Luther always told me to bite my
+
+			toenails when I get nervous.  You
+
+			see yourself doin' that and you
+
+			realize it ain't worth it.
+
+	Hooker smiles feebly.
+
+	Billie appears at the door.
+
+					BILLIE
+
+			Things are a little slow tonight,
+
+			Henry.  I wanna open the round for
+
+			the girls.
+
+	Gondorff takes out a set of keys and tosses them to her.
+
+	She leaves to go start the merry-go-round.  Gondorff settles
+
+	back into the game.
+
+					GONDORFF
+
+			Take it easy, you won't lose him
+
+			now.  We had him 10 years ago when
+
+			he decided to be somebody.  Believe
+
+			me, I've seen enough to know.
+
+					HOOKER
+
+				(softly)
+
+			How many guys you conned in your
+
+			life, Henry?
+
+					GONDORFF
+
+			Two or three hundred I guess.
+
+			Sometimes played two a day when I
+
+			was in Shea's mob.  We had it down
+
+			to a business.
+
+				(pause)
+
+			'Course Chicago was a right town
+
+			then.  The fix was in.  The dicks
+
+			took their end without a beef.  All
+
+			the Wall Street boys wanted to make
+
+			investments for us.  Even had marks
+
+			looking us up, thinkin' they could
+
+			beat the game.
+
+				(pause)
+
+			Yeh, kid, it really stunk.  No
+
+			sense in bein' a grifter if it's
+
+			the same as bein' a citizen.
+
+	Gondorff chucks his cards on the table.  He's through for
+
+	the night.
+
+					GONDORFF
+
+			I better do some packin'.  I'm
+
+			gonna be a hot number again after
+
+			tomorrow.
+
+					HOOKER
+
+			Then why you doin' it?
+
+					GONDORFF
+
+			Seems worthwhile, doesn't it?
+
+			Maybe it's just for the cave-in on
+
+			Lonnegan's face when we put in the
+
+			sting.
+
+	That's good enough.  Hooker gets up to leave.
+
+					HOOKER
+
+			Henry.
+
+					HOOKER
+
+			Yeh.
+
+					HOOKER
+
+				(apologetically)
+
+			I appreciate your stickin' your
+
+			neck out.  I wouldn't have asked ya
+
+			if it weren't for Luther.
+
+					GONDORFF
+
+			Ain't nothin' gonna make up for
+
+			Luther, kid.
+
+				(pause)
+
+			Revenge is for suckers.  I been
+
+			griftin' 30 years and never got any.
+
+	Hooker just nods and walks out the door.
+
+	INT. CAROUSEL
+
+	We follow him past the Carousel which is now full of giggling
+
+	prostitutes in various stages of undress.  Their childish
+
+	frolicking is charming from a group usually so jaded, but
+
+	it's lost on Hooker tonight.
+
+								CUT TO:
+
+	EXT. A CITY STREET - NIGHT
+
+	It's late now and the street is deserted save for an
+
+	occasional derelict or streetwalker on her way home from a
+
+	night's work.  We pick up Hooker coming down the street
+
+	toward his apartment building.  He walks slowly, almost
+
+	reluctantly, as if he didn't care whether he ever got there
+
+	or not.
+
+	As he nears his building, he notices Loretta coming out of
+
+	the diner across the street.  He stops and watches as she
+
+	looks up and disappears into an adjacent building that
+
+	advertises rooms for rent.  After a few seconds, we see a
+
+	light come on in one of its second story windows.
+
+	Hooker just stands there a second, debating with himself,
+
+	trying to figure out a reason for doing what he's going to
+
+	do anyway.  We follow him across the street to Loretta's
+
+	building and:
+
+	INT. LORRETA'S
+
+	He goes up the stairs to the room where the light came on.
+
+	He passes a couple of derelicts on the way.  He knocks twice
+
+	and Loretta answers in her bathrobe.  She is more than a
+
+	little startled to see him.
+
+					LORETTA
+
+			Looks like he missed ya.
+
+					HOOKER
+
+			Yeh, this time anyway.
+
+	Loretta notices an old busybody peeping out at them from her
+
+	room across the hall.
+
+					LORETTA
+
+			Good night, Mrs. Hillard.
+
+	Mrs. Hillard quickly closes her door.
+
+					HOOKER
+
+				(shuffling a little)
+
+			I, ah...thought you might wanna
+
+			come out for a while.  Maybe have a
+
+			drink or somethin'.
+
+					LORETTA
+
+			You move right along, don't ya.
+
+					HOOKER
+
+				(with more innocence
+
+				than confidence)
+
+			I don't mean nothin' by it.  I just
+
+			don't know many regular girls,
+
+			that's all.
+
+					LORETTA
+
+			And you expect me to come over,
+
+			just like that.
+
+					HOOKER
+
+			If I expected somethin', I wouldn't
+
+			be still standin' out here in the
+
+			hall.
+
+	Loretta looks at him carefully.  She knows it's not a line.
+
+					LORETTA
+
+				(with less resistance now)
+
+			I don't even know you.
+
+					HOOKER
+
+				(slowly)
+
+			You know me.  I'm just like you...
+
+			It's two in the morning and I don't
+
+			know nobody.
+
+	The two just stand there in silence a second.  There's
+
+	nothing more to say.  She stands back and lets him in.
+
+								CUT TO:
+
+	INT. GONDORFF'S ROOM - NIGHT
+
+	A record spinning lazily on an old phonograph.  We hear
+
+	Robert Johnson's "Come On In My Kitchen." Gondorff is
+
+	sitting up in bed, with his hat on, lost in thought.  Billie
+
+	is curled up asleep next to him.  There's a packed suitcase
+
+	next to the bed.  Billie wakes up and turns over a second.
+
+					BILLIE
+
+			C'mon, Henry, knock off.  You've
+
+			done everything you can.
+
+	Gondorff nods his agreement like a zombie and goes right on
+
+	thinking.
+
+								CUT TO:
+
+	LORRETA'S ROOM
+
+	Hooker and Loretta are asleep against each other, their
+
+	bodies illuminated every few seconds by the light from a
+
+	neon sign across the street.  We dolly to the window and
+
+	move in on another window in the building next door.  There's
+
+	no light on in it, but we can discern the basic outline of a
+
+	face behind the curtains, which are slightly parted to
+
+	afford a view of Hooker's room by a black-gloved hand.
+
+				"I said come on in my kitchen
+
+			Cause it's gonna be rainin' outdoors."
+
+	Music ends.
+
+								FADE OUT.
+
+	FADE IN:
+
+	THE STING
+
+								FADE OUT.
+
+	FADE IN:
+
+	We open on Hooker in bed, the morning sun streaming in on
+
+	his face.  He awakens slowly, looks at the ceiling for a
+
+	second and, remembering last night, turns to the side to
+
+	find that Loretta is no longer there.  Still drowsy, he gets
+
+	out of bed and looks around the room for a note or some
+
+	evidence of her continued presence.  He opens an empty
+
+	closet, then opens empty drawers.  Finding nothing, he
+
+	suddenly hits on another possibility, and looks in his
+
+	wallet.  The money is still there.  Almost disappointed, he
+
+	slumps down in a chair, as the harsh reality of what will
+
+	happen this day floods back in on him.  Music begins and we:
+
+								CUT TO:
+
+	INT. AN UNKNOWN LOCATION - DAY
+
+	We see the black-gloved hand opening a small wooden box.
+
+	Wrapped inside is a shiny black revolver, at this point in
+
+	two pieces.  The hand reaches in and takes them out.
+
+								CUT TO:
+
+	INT. THE SLEEZY DINER - DAY
+
+	Hooker is poking at a plate of waffles and sausage.  The
+
+	waitress on duty is not Loretta and Hooker has noticed.
+
+								CUT TO:
+
+	INT. GONDORFF'S ROOM - DAY
+
+	Gondorff is standing in front of the bathroom mirror,
+
+	putting on his tuxedo.  He goes to his dresser, pulls out a
+
+	very small gun and tucks it in his cummerbund.
+
+								CUT TO:
+
+	THE GUNNMAN'S ROOM AGAIN
+
+	The hand swirls a pipe cleaner inside the barrel of the
+
+	revolver and picks some lint out of the chamber.  He then
+
+	screws the barrel onto the body.  This is all seen in closeup.
+
+								CUT TO:
+
+	HOOKER'S ROOM AGAIN
+
+	Hooker now has his tuxedo on.  He takes two small rubber
+
+	bladders out of a drawer and puts them in his pocket.
+
+								CUT TO:
+
+	INT. LONNEGAN'S SUITE - DAY
+
+	Lonnegan paces nervously around the room, looking at the
+
+	clock.  Obviously waiting for something, he's getting
+
+	extremely impatient.
+
+								CUT TO:
+
+	THE GUNNMAN'S ROOM AGAIN
+
+	We watch the hand carefully loading bullets into the chamber
+
+	of the revolver.
+
+								CUT TO:
+
+	INT. THE CAROUSEL BUILDING - DAY
+
+	Gondorff emerges from his room carrying his suitcase.  He
+
+	stops and looks up at the mezzanine where Billie is standing.
+
+	They smile sadly at each other and give a simple wave,
+
+	having done this too many times to get sentimental about it
+
+	now.  Gondorff walks out of the building.
+
+								CUT TO:
+
+	HOOKER'S ROOM AGAIN
+
+	Hooker is busily stuffing all his possessions in a paper
+
+	bag, lumping clothes with food, records and toilet articles.
+
+								CUT TO:
+
+	LONNEGAN'S SUITE AGAIN
+
+	Lonnegan goes to the door to admit Floyd and two assistants,
+
+	one of whom carries a large brief case.  Lonnegan takes the
+
+	brief case to a table and opens it.  Inside is a half
+
+	million dollars in cash.
+
+								CUT TO:
+
+	INT. THE GUNNMAN'S ROOM AGAIN
+
+	We see the hand putting a silencer on the revolver.  The
+
+	gunman puts the revolver up to his eye to check the alignment
+
+	and for the first time we see the face that goes with the
+
+	hand.  It is fully as menacing as we had imagined: Broad,
+
+	flat nose, thick cracked lips, narrow eyes and cauliflower
+
+	ears.
+
+								CUT TO:
+
+	HOOKER'S ROOM AGAIN
+
+	Hooker is on the phone now.
+
+	INT. WAREHOUSE
+
+	We see that he's talking to Captain Polk.  Snyder listens
+
+	also.
+
+	HOOKER'S ROOM
+
+	Hooker finishes the conversation, hangs up and goes to take
+
+	one last look at himself in the mirror.  Finding everything
+
+	in order, he grabs up his sack of possessions and leaves the
+
+	room.
+
+	EXT. HOOKER'S APARTMENT
+
+	We pick him up emerging from the building, and follow him
+
+	around the corner to a secluded alley which he generally
+
+	takes on his way to the store.  As he walks along, he
+
+	notices Loretta coming toward him from the other end.  She's
+
+	wearing a coat, obviously on her way somewhere.  As she
+
+	comes closer, we move to reveal the gunman appearing suddenly
+
+	in the alley behind and to the right of Hooker.
+
+	EXT. ALLEYWAY
+
+	The gunman quickly takes out his revolver, braces it in the
+
+	crook of his hand, and takes careful aim.  Loretta sees him.
+
+	The gunman fires.  Loretta falls dead on the asphalt.
+
+	Hooker spins around in confusion.  The gunman moves quickly
+
+	toward him.  Hooker starts to back up but the gunman stops
+
+	when he gets to Loretta.  He kicks her over to reveal a gun
+
+	under her body.
+
+					GUNMAN
+
+			She was gonna kill ya, kid.
+
+	Hooker is stunned.  He can't believe it.
+
+					GUNMAN
+
+				(dragging the body
+
+				over behind a trash can)
+
+			Her name's Loretta Salino.
+
+			Lonnegan's people set her up in the
+
+			diner.  C'mon, let's get outa here.
+
+	Hooker wants to stay and try to figure it all out, but the
+
+	gunman drags him away.
+
+								CUT TO:
+
+	INT. THE ABANDONED WAREHOUSE - DAY
+
+	Polk, Snyder and several federal agents are busy putting on
+
+	their shoulder holsters, and checking their weapons.
+
+					POLK
+
+				(to Snyder)
+
+			Whoever Gondorff's playin' for is
+
+			bound to be a wheel.  As soon as
+
+			we're inside, I want you to get the
+
+			guy outa there as fast as possible,
+
+			before the reporters show up.  We
+
+			can't afford to embarrass any big
+
+			shots.
+
+	Snyder nods.
+
+								CUT TO:
+
+	EXT. LONNEGAN'S HOTEL - DAY
+
+	Lonnegan, carrying the brief case personally, is seen
+
+	getting into his limousine.  Four assistants get in with him.
+
+								CUT TO:
+
+	INT. THE STORE - DAY
+
+	Gondorff enters the store carrying his suitcase.  Several of
+
+	the boost are already there.  Gondorff clasps his hands to
+
+	generate a little enthusiasm.  He's obviously up for this one.
+
+								CUT TO:
+
+	INT. TAXI CAB - DAY
+
+	Hooker sits in the back seat with the gunman right next to
+
+	him.  He's still very uneasy with this man.
+
+					HOOKER
+
+			She coulda killed me last night.
+
+					GUNMAN
+
+			Too many people coulda seen ya go
+
+			in her room.  She was a professional.
+
+			Used to work in the Dutch Schultz
+
+			gang.
+
+					HOOKER
+
+			Who are you?
+
+					GUNMAN
+
+			Gondorff asked me to look after ya.
+
+					HOOKER
+
+			How do I know you're tellin' the
+
+			truth.
+
+					GUNMAN
+
+			Don't have much choice, do ya?
+
+	We go to Hooker.  No, he doesn't.
+
+								CUT TO:
+
+	EXT. THE ABANDONED WAREHOUSE - DAY
+
+	We pick up Polk, Snyder and the other federal agents coming
+
+	out of the warehouse in their white skimmers, and piling
+
+	into cars.
+
+								CUT TO:
+
+	THE STORE AGAIN
+
+	Niles is busily spreading "boodles" all over the cashier's
+
+	area.  Singleton checks his microphone.  It works fine.  He
+
+	checks it again.
+
+								CUT TO:
+
+	LONNEGAN IN HIS LIMOUSINE
+
+	He holds the brief case in his lap, his fingers tapping
+
+	lightly on it.
+
+								CUT TO:
+
+	THE STORE AGAIN
+
+	Hooker and the gunman enter and go over to Gondorff, who
+
+	breaks into a wide smile.  Hooker returns it halfheartedly,
+
+	still ill at ease about what has happened.
+
+								CUT TO:
+
+	THE F.B.I. CARS ON THEIR WAY
+
+	There are four or five driving in a column.  Snyder and Polk
+
+	ride together in the back of the lead car.
+
+								CUT TO:
+
+	EXT. THE DRUGSTORE - DAY
+
+	Lonnegan's limousine pulls up outside, and the bodyguards
+
+	pile out.
+
+								CUT TO:
+
+	THE STORE AGAIN
+
+	Gondorff, Hooker and the others waiting, the tension
+
+	expressed in their faces.
+
+	INT. THE DRUGSTORE - DAY
+
+	Lonnegan sits tensely in the usual booth.  He keeps both
+
+	hands firmly planted on the brief case.  The phone rings and
+
+	Lonnegan goes to it.  Music ends.
+
+					VOICE
+
+			Place it on Syphon at 8-1.
+
+	Lonnegan hangs up with the look of the financial killer.
+
+	Eight to one odds is more than even he could have hoped for.
+
+	EXT. STREET
+
+	We follow Lonnegan across the street and into the store.
+
+	The bodyguards remain outside.
+
+INT. THE STORE
+
+	The store is buzzing with activity.  Money and booze are
+
+	everywhere.  The sheet writer and the boardmarker can hardly
+
+	keep up with the action.  Lonnegan walks quickly to the
+
+	betting line and finds to his relief that there's only one
+
+	man ahead of him.  The man puts $25,000 on King's Image.
+
+	Lonnegan steps to the window, swings up the brief case, and
+
+	opens it for Niles to see.
+
+					LONNEGAN
+
+				(straight-faced)
+
+			Five hundred grand on Syphon.
+
+	Niles is struck dumb.  He's never seen that much money before.
+
+					NILES
+
+				(playing the flustered
+
+				clerk)
+
+			Hold on, I'll have to get the
+
+			manager.
+
+	Niles goes and returns with Gondorff.
+
+					GONDORFF
+
+			What's the problem?
+
+					NILES
+
+				(pointing to the
+
+				brief case)
+
+			He wants to put a half million on
+
+			Syphon.
+
+	Gondorff looks at the money a second and then looks up at
+
+	Lonnegan like he's gotta be crazy.
+
+					GONDORFF
+
+				(uneasily)
+
+			I can't lay that off in time.  We
+
+			lose a bet that big, it could break
+
+			us.
+
+					LONNEGAN
+
+				(challenging)
+
+			If ya win it could make ya, too.
+
+					GONDORFF
+
+				(to Niles)
+
+			What are the odds on Syphon?
+
+					NILES
+
+			Eight to one.
+
+	Gondorff looks at Lonnegan long and hard.
+
+					GONDORFF
+
+			A half mill on an eight to one shot.
+
+			You're dumber than I thought,
+
+			Lonnegan.
+
+					LONNEGAN
+
+			You're more gutless than I thought.
+
+	The words "Last Flash" are heard on the speaker.  Gondorff
+
+	looks at Lonnegan with utter contempt.  He turns to Niles.
+
+					GONDORFF
+
+				(chopped)
+
+			Take it.
+
+	Niles hurriedly writes out a slip for 500,000 dollars.
+
+	Lonnegan, allowing himself a sly smile, picks it up and
+
+	retires to a nearby table.  He flashes a little okay sign to
+
+	Hooker who acknowledges it with a nod.
+
+					CALLER
+
+			Ladies and gentlemen, this is
+
+			Arnold Rowe, your caller for the
+
+			San Antonio Handicap at Pimlico in
+
+			Baltimore -- A mile and 1/16 for
+
+			three-year-olds.  And they're off.
+
+	Lonnegan takes a deep breath and leans forward in his chair,
+
+	the larceny boiling in his veins.  Hooker looks to Gondorff.
+
+	Gondorff gives him the "office." Hooker has to smile.
+
+					CALLER
+
+			And around the first turn it's
+
+			King's Image by a neck, Syphon is
+
+			second by one, Key to the Vault
+
+			third by one half, followed by Mr.
+
+			Moonlight, Red Ridge, Moneyman and
+
+			No Charge.
+
+	Unexpectedly, Kid Twist bursts in through the entrance.
+
+	Barely able to control his enthusiasm, he hurries over to
+
+	Lonnegan's table and sits down next to him.
+
+					TWIST
+
+			Sorry, but I just couldn't wait.
+
+			Did everything go all right?
+
+					LONNEGAN
+
+				(motioning for him to
+
+				keep his voice down)
+
+			Take it easy.  Everything's all
+
+			right.  I put it on Syphon, on the
+
+			nose.
+
+					TWIST
+
+				(in utter horror)
+
+			On the nose!  I said place.  Place
+
+			it on Syphon.  That horse is going
+
+			to run second.
+
+	Lonnegan looks like he's just been stabbed.  He vaults over
+
+	the table to the teller's window and grabs Niles.
+
+					LONNEGAN
+
+			You give me my goddamn money back!
+
+			You hear me?  There's been a mistake!
+
+					NILES
+
+			I'm sorry, sir.  The betting's
+
+			closed.
+
+	Lonnegan begins to shake him violently.
+
+					LONNEGAN
+
+			You give me my money back.  There's
+
+			been a mistake, do you hear me?
+
+	Gondorff leaps to Niles' aid when suddenly there is a crash
+
+	at the entrance door, and Polk, Snyder and eight federal
+
+	agents burst into the room, guns drawn.  The place falls
+
+	silent except for the loudspeaker, the members of the boost
+
+	afraid to move.  Gondorff and Niles look at each other
+
+	wondering how this could have possibly happened.
+
+					POLK
+
+				(motioning to Hooker)
+
+			All right, Hooker, you can go.
+
+	Hooker's eyes go to Gondorff, who looks back at him in utter
+
+	disbelief, the betrayal raging in his features.  Hooker,
+
+	unable to meet his gaze, lowers his head and starts to walk
+
+	out.  Almost unnoticed, there's a flash of movement at
+
+	Gondorff's belt.  A small gun.  A shot.  Hooker clutches his
+
+	back and falls dead on the floor, the blood spurting from
+
+	his mouth.  Polk, reacting instantly, pours four shots into
+
+	Gondorff, who goes down in a heap.  Pandemonium breaks loose.
+
+	The members of the boost race for the door.  Lonnegan is
+
+	totally stunned.  First he lost his money and now he's
+
+	involved in a murder.  Snyder rushes over to him.
+
+					SNYDER
+
+			C'mon.  We gotta get you outa here.
+
+	EXT. STREET
+
+	Snyder drags him through the crowd and out onto the street
+
+	where an F.B.I. car is waiting.  His bodyguards have long
+
+	since fled at the sight of the F.B.I. men.
+
+					LONNEGAN
+
+			My money's back there.
+
+					SNYDER
+
+			We'll worry about that later.
+
+	Snyder gets in beside Lonnegan, and the car speeds away.
+
+								CUT TO:
+
+	INSIDE THE STORE AGAIN
+
+	The pandemonium has now ceased.  Those who could escape
+
+	have; the rest are lined up against the wall in frisking
+
+	position.  Gondorff and Hooker lie on the floor dead.  The
+
+	loudspeaker drones on.  Singleton is still calling the race
+
+	from his booth, apparently oblivious to what's happened.
+
+					CALLER
+
+			And the winner is King's Image by
+
+			four lengths, Syphon is second, by
+
+			two, Moneyman third by two and one
+
+			half.  Time for 1 and 1/16 miles,
+
+			1:21 and 2/10 seconds.
+
+	Polk walks slowly over to Hooker's body and bends down.
+
+					POLK
+
+			He's gone.
+
+	Hooker opens his eyes and slowly drags himself up off the
+
+	floor, spitting out a little rubber bladder, filled with
+
+	blood, that he's had in his mouth.  Gondorff does likewise.
+
+	Niles, Twist, Singleton and the rest of the boost begin to
+
+	laugh and shake hands, as do the Federal Agents.
+
+					GONDORFF
+
+				(to Polk)
+
+			Nice con, Hickey.  I thought you
+
+			were Feds myself, when you first
+
+			came in.
+
+					HICKEY
+
+			No problem, Henry.  Snyder went for
+
+			it all the way.
+
+				(laughing)
+
+			You shoulda seen the rag he lit
+
+			under Lonnegan.
+
+	Gondorff turns to the others.
+
+					GONDORFF
+
+			Okay, let's take this place apart
+
+			and get outa here.  You can get
+
+			your splits from Eddie at Boudreau's
+
+			tonight.
+
+	Gondorff walks over to Hooker, who's wiping the blood off
+
+	his face and hands.
+
+					GONDORFF
+
+			You beat him, kid.
+
+					HOOKER
+
+				(softly)
+
+			You were right, Henry.  It's not
+
+			enough... But it's close.
+
+					GONDORFF
+
+			You wanta wait for your share?
+
+					HOOKER
+
+			Naw, I'd just blow it.
+
+	Gondorff nods, and walks slowly to behind the bar.  He comes
+
+	out with his suitcase in one hand and Hooker's paper bag in
+
+	another.  He throws the paper bag to Hooker, who stops by
+
+	the door.  Eirie Kid is standing there.  Hooker gives the
+
+	"office" to Eirie, who beams and gives it back.
+
+	EXT. ALLEY AND STREET
+
+	Then Hooker and Gondorff leave.  We hold on them, two
+
+	ragtail grifters again as they walk off down the street and
+
+	disappear around the corner.
+
+								FADE OUT.
+
+					THE END
+

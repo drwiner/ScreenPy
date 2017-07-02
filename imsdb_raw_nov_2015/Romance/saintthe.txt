@@ -1,0 +1,8926 @@
+THE SAINT
+
+BODY { background-color: "#FFFFFF"; font-family: Courier New, Helvetica, sans-serif; font-size:10.0pt }
+
+DIV { position:absolute; left:5px; top:20px; width:734px; height:500px;  }
+
+#loc { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.2in; margin-bottom:0in;
+
+margin-left:0.8in;text-transform:uppercase } 
+
+#slug {
+
+	font-family:Courier New;
+
+	font-weight: normal;
+
+	margin-top:0in;
+
+	margin-right:1.2in;
+
+	margin-bottom:0in;
+
+	margin-left:0.8in;
+
+	text-transform:uppercase;
+
+<b>	
+
+</b><b>} 
+
+</b>
+
+#act { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;
+
+margin-left:0.8in } 
+
+#speaker { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.in; margin-bottom:0in;
+
+margin-left:2.8in;text-transform:uppercase }
+
+#spkdir { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.7in; margin-bottom:0in;
+
+margin-left:2.2in }
+
+#dia { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.6in; margin-bottom:0in;
+
+margin-left:1.6in }
+
+#pg { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.75in; margin-bottom:0in;
+
+margin-left:6.5in }
+
+#right { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:0.75in; margin-bottom:0in;
+
+margin-left:5.0in }
+
+THE S A I N T 
+
+by Jonathan Hensleigh 
+
+Director: Phillip Noyce 
+
+February 8, 1995
+
+New York City 
+
+The only difference between the 
+
+saint and the sinner is that every 
+
+saint has a past and every sinner 
+
+has a future.  
+
+- O. Wilde - 
+
+FADE IN: 
+
+The majestic city and bay, as seen from the elevation of the surrounding 
+
+Shan Ho hills as we SUPER  
+
+HONG KONG  1965 
+
+PANNING away from the city, we come before the bleak facade of the SAINT 
+
+IGNATIUS ORPHANAGE.  
+
+BOY'S VOICE (o.s.) 
+
+Simon Magus was a magician and 
+
+sorcerer in uhhm... Sumatra.  
+
+INT. HONG KONG - SAINT IGNATIUS ORPHANAGE - DAY 
+
+Twenty boys, aged 7 to 12, sit at spartan desks, bibles raised. FATHER 
+
+O'NEAL walks amongst them. A career Jesuit with razor eyes and thin lips. An 
+
+awful man.  
+
+FATHER 0'NEAL 
+
+(sternly) 
+
+Sumeria.  
+
+And what happened to him Francis? 
+
+FRANCIS, 12, is the eldest and largest boy.  
+
+FRANCIS 
+
+Jesus' disciples came and performed 
+
+miracles. When Simon Magus saw the 
+
+miracles he offered disciple Peter 
+
+gold for the powers of God.  
+
+FATHER 0'NEAL 
+
+What did disciple Peter say to that? 
+
+Michael Quinn? 
+
+Father O'Neal stands before the youngest, littlest boy, who, unlike the others, 
+
+exhibits no fear in his huge, intelligent eyes. Father O'Neal hates this boy.  
+
+The boy, MICHAEL QUINN, doesn't respond.  
+
+Father O'Neal snatches his bible, revealing a SECOND BOOK hidden behind it.  
+
+It's a dime store pulp adventure with a gaudy cover entitled "THE KNIGHTS 
+
+TEMPLAR." 
+
+FATHER 0'NEAL 
+
+Answer the question Michael.  
+
+The little boy stares up at him.  
+
+MICHAEL QUINN 
+
+That's not my name.  
+
+Father O'Neal yanks the boy from the chair. Drags him by the arm across the 
+
+room and out into the corridor.  
+
+THE OTHER BOYS wait two seconds, then they spring up and run, en masse, 
+
+to the door. Grouped in the threshold, straining for a good view, they watch 
+
+as -- 
+
+FATHER O'NEIL pulls Michael Quinn into an office down the corridor. The door 
+
+has a stained-glass window.  
+
+It begins. We see it in SILHOUETTE: Father O'Neal with a CANE SWITCH in 
+
+his hand, the boy beneath him. Down the switch comes. Again. And again.  
+
+The boy YELPS. And again and again and again... and now he SCREAMS...
+
+THE BOYS HUDDLED IN THE DOORWAY begin to wince. With every repeated, 
+
+merciless descent of the switch...  
+
+INT. SAINT IGNATIUS ORPHANAGE - EATING HALL - NIGHT 
+
+THE BOYS sit at benches. Michael Quinn stares stoically ahead. The back of 
+
+his shirt is striped with blood.  
+
+FATHER YIN, 50's, a Chinese Jesuit, grim in black frock and white collar, 
+
+paces amongst the benches. Father O'Neal watches from the side.  
+
+FATHER YIN 
+
+Why one child is born into a good 
+
+home and another into poverty - that 
+
+is but part of God's design. All of 
+
+you are unwanted, put here because 
+
+of the sins of your unwedded 
+
+mothers. The church has fed you and 
+
+educated you. Given you a home. A 
+
+name. An identity.  
+
+Stopping before Michael Quinn, he points to a PORTRAIT ON THE WALL of a 
+
+stern-faced Jesuit.  
+
+FATHER YIN 
+
+Who is that, boy? 
+
+MICHAEL QUINN 
+
+Father Michael Quinn.  
+
+FATHER YIN 
+
+Yes. A great man. You ungrateful 
+
+little cur, you will sit here 
+
+without food until you appreciate 
+
+your namesake.  
+
+(to the other boys) 
+
+All of you will sit with him. Put 
+
+lunch away, Mr. Fong.  
+
+MR. FONG, the orphanage cook, wheels a FOOD CART into the kitchen and 
+
+locks the door. Father Yin exits, followed by Father O'Neal and Mr. Fong, 
+
+leaving -- 
+
+A HUNDRED BOYS staring at Michael Quinn.  
+
+DISSOLVE TO: 
+
+INT. ORPHANAGE - NIGHT 
+
+Again, Father Yin stands before Michael Quinn. The boys are seated for their 
+
+evening meal.  
+
+FATHER YIN 
+
+What is your name, boy? 
+
+Silence. Michael Quinn stares straight ahead.  
+
+FATHER YIN 
+
+Put supper away, Mr. Fong.  
+
+MR. FONG wheels the FOOD CART into the kitchen and locks the door. Again, 
+
+a hundred boys stare at Michael Quinn.  
+
+INT . ORPHANAGE BUNKROOM - NIGHT 
+
+A long, narrow room with bunkbeds. The boys aren't sleeping. They're 
+
+grouped around Michael Quinn's bunk. One boy has his hand clamped to 
+
+Michael's, mouth, the others are wailing on him... and outside -- 
+
+INT. ORPHANAGE - CORRIDOR OUTSIDE BUNKROOM - NIGHT 
+
+Fathers O'Neal and Yin watch through the door.  
+
+FATHER YIN 
+
+Spareth the rod, spoileth the child.  
+
+INT. ORPHANAGE - MORNING 
+
+Father Yin grits his teeth, staring down at Michael Quinn, whose face is 
+
+welted. Nothing has changed.  
+
+FATHER YIN 
+
+Put breakfast away, Mr. Fong. 
+
+Again, the FOOD CART goes into the kitchen. The Fathers and Mr. Fong exit.  
+
+The boys rise, moving toward Michael Quinn. They're going to kick the living 
+
+shit out of him.  
+
+MICHAEL QUINN 
+
+Stop. You'll have your breakfast.  
+
+Michael Quinn walks to the locked kitchen door.  
+
+The other boys, curious, follow.  
+
+Michael Quinn kneels before the door, examining the lock. He looks around.  
+
+On a counter next to the door are EATING UTENSILS. Michael Quinn picks up 
+
+A FORK. He bends the fork's tines. Inserts it in the lock.  
+
+He fishes around for a second. Nothing happens. He pulls the fork out, 
+
+rebends it, and inserts it in the lock again. And CLICK.. ..the lock pops.  
+
+Michael Quinn turns and smiles. The boys flood inside.  
+
+The hungry boys go for the food cart, scooping up eggs and sausage. They're 
+
+ravenous. Francis, mouth full of sausage, beams at Michael Quinn.  
+
+FRANCIS 
+
+They should've named you Simon, like 
+
+Simon Magus the sorcerer.  
+
+MICHAEL QUINN 
+
+No. Simon. . . .  
+
+(pulls the "KNIGHTS TEMPLAR" paperback from his back pocket) 
+
+...Templar.  
+
+Suddenly a SHARP WHISTLE. The boys, startled, whip their necks around.  
+
+MR. FONG stands in the doorway.  
+
+Father O'Neal and Father Yin enter quickly.  
+
+The boys back away from the food cart.  
+
+FATHER YIN 
+
+Who.. . who did this...? 
+
+The boys look at Michael Quinn. Then Francis speaks: 
+
+FRANCIS 
+
+I did father.  
+
+And another boy, James: 
+
+JAMES 
+
+I did father. .  
+
+And another and another: "I did father." They all say it. And the littlest 
+
+youngest boy, surrounded by his new confederates, smiles slightly. His eyes 
+
+glint.  
+
+CUT TO: 
+
+Begin MAIN TITLE SEQUENCE 
+
+EXT. ST. PETERSBURG, RUSSIA - NIGHT 
+
+A chilly September night. A rally is underway in the Dvortsovaya Ploshchad, 
+
+the vast square at the foot of Nevsky Prospect Boulevard. The Winter Palace 
+
+and Hermitage loom in the b.g.  
+
+500,000 ST. PETERS BURGERS' stand shoulder-to-shoulder, listening to a 
+
+SPEECH. INTERNATIONAL T.V. CREWS (the BBC, CNN, etc.) are transmitting 
+
+the event.  
+
+SPEAKER (o.s.) 
+
+In I917 Lenin stood here and 
+
+promised a new age. The result? 
+
+Tyranny. Poverty. The darkest 
+
+years in our history.  
+
+THE SPEAKER stands on a platform behind a cluster of microphones, his 
+
+image projected on a huge screen (like the Sony screen in Times Square) 
+
+above and behind him.  
+
+He is MICHAEL ROMANOV, coal-haired, fierce, ardent, eyes glinting like onyx, 
+
+voice cutting the night air.  
+
+ROMANOV 
+
+In 1987 Gorbachev stood here and 
+
+promised a new age. The result? An 
+
+end to communism. Democracy. A 
+
+free economy. And what else? 
+
+Chaos.  
+
+(crowd CHEERS) 
+
+The economy run by criminals, the 
+
+government run by charlatans. And 
+
+they are in league together! 
+
+Thieves! Traitors! 
+
+(louder CHEERS) 
+
+Men and women of St. Petersburg, 
+
+citizens of Russia, the salt of this 
+
+country, this must end! 
+
+(deafening CHEERS) 
+
+Join me then in the song of our 
+
+forefathers.  
+
+Romanov begins to sing, ably, the first verse of "Mother Russia" 
+
+(the Russian anthem before the Bolsheviks).  
+
+THE CROWD joins him. The Ploshchad rings with the voices of half a million 
+
+Russians...  
+
+CUT TO: 
+
+EXT. ST. PETERSBURG - NIKKO HOTEL - CONTINUOUS 
+
+We're 12 stories up, outside the city's Nikko hotel.  
+
+The rally across town is a distant glow.  
+
+We hear the singing crowd.  
+
+TWO HANDS appear, gripping the nooks of the exterior architecture. A MAN 
+
+IN BLACK climbs up, securing a sling to the window frame in which to sit. A 
+
+bulky BACKPACK hangs from shoulder straps.  
+
+He produces a diamond cutter; begins carving a man-sized aperture in the 
+
+window. Below, in the foyer  
+
+INT. NIKKO HOTEL - GRAND FOYER BALLROOM 
+
+-- A JAPANESE SECURITY MAN sits at his guard station, watching C.N.N.  
+
+NEWS on a small television. Wolf Blitzer is reporting live from the rally.  
+
+WOLF BLITZER 
+
+(on t.v.)
+
+An extraordinary allegation, 
+
+Bernard, that Russia's present 
+
+leadership, including President 
+
+Victor Karpov, is connected with the 
+
+country's underworld.  
+
+Inside the foyer ballroom, Japanese businessmen are hosting a reception. The 
+
+Nikko Hotel's core is hollow, like the Hilton in New York; thus, the ballroom's 
+
+"ceiling" is 12 stories up.  
+
+CHAMPAGNE SERVERS are passing out glasses. A grey-haired Japanese 
+
+businessman, HIRO MYAKI, clinks his glass. The guests pay attention.  
+
+During this we focus on a CHAMPAGNE SERVER moving toward the lobby 
+
+elevators with a full tray.  
+
+HIRO MYAKI 
+
+Ladies. Gentlemen. The Myaki 
+
+Corporation looks forward to many 
+
+profitable days ahead. To our new 
+
+manufacturing facility in St.  
+
+Petersburg. To the new Russia! 
+
+As the crowd CLAPS...  
+
+EXT. NIKKO HOTEL - EXTERIOR WALL 
+
+...the Man In Black kicks at the cut section of window, pushing it into the 
+
+hotel and plunging inside after it.  
+
+INT. NIKKO HOTEL - CEILING SUPERSTRUCTURE 
+
+The Man In Black catches hold of a steel girder and dangles, and, 
+
+miraculously -- 
+
+THE PIECE OF WINDOW doesn't fall.  
+
+It's stuck to his feet with suction cups.  
+
+The Man In Black moves, hand over hand, toward the mezzanine balcony, the 
+
+window stuck to his feet.  
+
+IN THE LOBBY BELOW 
+
+Everybody's beaming, toasting, congratulating, etc., totally oblivious to THE 
+
+MAN IN BLACK, 12 stories up, inching hand-over-hand across the roof 
+
+superstructure.  
+
+INT. NIKKO HOTEL - CEILING SUPERSTRUCTURE OVER MEZZANINE 
+
+The Man In Black has reached the mezzanine.  
+
+TWO JAPANESE SECURITY GUARDS, armed with automatic rifles, walk their 
+
+shift directly below him. They pass a wall mounted television, also carrying 
+
+the NEWS: 
+
+WOLF BLITZER
+
+(on t.v.) 
+
+One thing's certain, Bernard: 
+
+Michael Romanov, age 32, French born 
+
+and Oxford educated, descendent of 
+
+the last czar, is a political force 
+
+to be reckoned with.  
+
+The guards move down the mezzanine; one jokes, the other laughs. They 
+
+disappear around a corner.  
+
+The Man in Black hangs from the girder with one hand; with the other he 
+
+yanks the piece of window off his foot-mounted suction cups.  
+
+He drops to the mezzanine. He rests the glass against the wall. He peers over 
+
+the balustrade at the party below. Satisfied, he removes his hood, ENDING TITLES.  
+
+This is SIMON TEMPLAR. A hard, self-reliant, crafty man. You should treat him 
+
+as such or be very sorry you ever met him. It is unfortunate that a man of 
+
+Templar's various talents can be so lacking. How? 
+
+His journey has been through a tough world and he has come fast. This one 
+
+gives no quarter. Ever. Though his outward self glows with life, he is dead inside.  
+
+Templar, focused utterly, steals inside a corridor.  
+
+INT. NIKKO HOTEL - INTERIOR CORRIDOR 
+
+A long corridor with a door at the end, on which is engraved: MYAKI 
+
+CORPORATION. At the entrance, secured in a niche, is a BRONZE BUST OF 
+
+HIRO MYAKI.  
+
+Templar stops cold. A RUG (an oriental runner) extends the length of the 
+
+corridor.  
+
+Templar kneels, lifting an edge of the rug.  
+
+Revealing ANTI -THEFT PRESSURE SENSORS.  
+
+Templar produces a DARTGUN (the size of a flare gun, silenced, with a spool 
+
+of steel cable attached to the top). He aims down the corridor and fires.  
+
+A STEEL DART explodes from the barrel, spooling out the cable, and imbeds 
+
+above the door at corridor's end.  
+
+Templar yanks the other end of cable from the spool. He looks around for 
+
+something to secure it.  
+
+TEMPLAR 
+
+Sorry about this.  
+
+He ties the cable around Myaki's bronze neck.  
+
+He hangs from the cable, testing it. It will hold.  
+
+He pulls out an aluminum contraption with small wheels and two handle grips.  
+
+It's A GLIDER for the cable.  
+
+He attaches the glider to the cable, grips the handles, and glides the length of 
+
+the corridor.  
+
+THE OTHER END OF THE CORRIDOR - OVER THE DOOR 
+
+Templar bumps up against the door. He pulls his knees up and over the 
+
+handles of the glider, then flops over backwards, hanging upside down.  
+
+HIS FACE is now right next to the door handle, over which is an ELECTRONIC 
+
+LOCK (opened by punching a code).  
+
+Templar pulls out a BLACK BOX. It's a really small, really powerful computer 
+
+and its job is to run through every possible number combination in about a 
+
+minute and a half. Templar wires the computer to the lock with two needlelike 
+
+ELECTRODE PROBES.  
+
+He activates the system. The little computer starts running through 
+
+combinations of numbers. He waits, hanging upside down. Meanwhile-- 
+
+INT. NIKKO HOTEL - MEZZANINE - ELEVATOR LOBBY 
+
+The Japanese guards are smoking by the elevator, joking, laughing. One of 
+
+these guys is a riot...  
+
+The elevator opens. The CHAMPAGNE SERVER comes out, tray in hand.  
+
+CHAMPAGNE SERVER 
+
+Compliments of Mr. Myaki.  
+
+JAPANESE GUARDS 
+
+(delighted) 
+
+Ahh! 
+
+Beaming, they each take a glass. They clink and drink.  
+
+INT. NIKKO HOTEL - INTERIOR CORRIDOR 
+
+The computer BEEPS. It's finished.  
+
+Templar turns the door handle; pushes open the door.  
+
+He pulls himself up. Hangs from his hands again.  
+
+He swings his legs back and forth, getting momentum up.  
+
+He releases from the glider and lunges inside.  
+
+INT. NIKKO HOTEL - MYAKI CORPORATION OFFICES 
+
+A grand boardroom with Japanese furniture and art.  
+
+At the end of a fifty-foot mahogany table is a PAINTING OF HIRO MYAKI.  
+
+Templar walks over to it.  
+
+TEMPLAR 
+
+Sorry again.  
+
+He RIPS the painting off the wall and heaves it aside.  
+
+And here, where the painting was, is A SAFE.  
+
+Templar unshoulders his backpack. He pulls out a 40-pound CARLSBAD & 
+
+RINKER industrial diamond-tipped drill, as big as a jackhammer. No finesse 
+
+here, people.  
+
+No, there's no time for high-tech. He's going to drill right through the bitch, 
+
+right through four inches of tungsten steel. He starts setting up the drill.  
+
+INT. NIKKO HOTEL - MEZZANINE LOBBY 
+
+Two CHAMPAGNE GLASSES lie shattered on the floor, and next to that mess 
+
+lie the JAPANESE GUARDS, now unconscious. The champagne server's 
+
+gone...  
+
+INT. NIKKO HOTEL - MEZZANINE 
+
+...because he's here, moving quickly toward the Myaki Corporation's office, 
+
+and he's not a champagne server, but a thief and a killer, a blonde Russian 
+
+named ILYA.  
+
+Ilya stops just outside the interior corridor. With the GUARD'S KEYRING, he 
+
+shuts off the anti-theft mats and moves around the corner into the corridor.  
+
+INT. NIKKO HOTEL - INTERIOR CORRIDOR 
+
+Ilya stops short. His eyes spark.  
+
+He sees Templar's cable and glider.  
+
+INT. NIKKO HOTEL - MYAKI CORPORATION OFFICES 
+
+Templar, wearing goggles, leans into the drill as THE BIT CHEWS into the 
+
+tungsten lock. This is a violent exercise. SINEWS OF METAL spit out like 
+
+shrapnel.  
+
+He's through the lock in seconds. Templar heaves the drill aside; it lands with 
+
+a THUD on the beautiful mahogany table. He opens the safe.  
+
+INSIDE THE SAFE is one object: A SMALL BOX, the size of a cufflink keeper.  
+
+Templar grabs it and opens it.  
+
+INSIDE THE LITTLE BOX is a tiny MICRO-CHIP.  
+
+Templar closes the box and pockets it.  
+
+ILYA (v.o.) 
+
+Don't move.  
+
+Templar freezes. His eyes twitch.  
+
+This wasn't in the plan...  
+
+ILYA (v.o.) 
+
+Turn around. Slowly.  
+
+Templar faces Ilya. Ilya has a silenced handgun.  
+
+ILYA 
+
+On your knees.  
+
+(Templar sinks to his knees) 
+
+Give me the box. Slowly.  
+
+Templar pulls out the box. Tosses it to Ilya.  
+
+Ilya raises the handgun at Templar's head. Smiles.  
+
+Try something: throw an extension cord on the ground. I guarantee it will 
+
+land coiled in several places.  
+
+Ilya happens to be standing inside one of the coils of the drill's extension 
+
+cord.  
+
+And this is not lost on Templar.  
+
+Templar, on his knees, grabs the cord and yanks it; the coil tightens around 
+
+Ilya's ankles. His legs fly from under him and he goes down, the gun 
+
+clattering across the floor.  
+
+Ilya tries to get to his feet.  
+
+Templar floors him with a right cross.  
+
+Templar grabs the box and his backpack and sprints across the room. Ilya 
+
+gains his feet and grabs his gun; sprints after Templar.  
+
+INT. NIKKO HOTEL - MEZZANINE 
+
+Templar runs to the balustrade and climbs atop it.  
+
+He jumps, clutching the ceiling girder above.  
+
+He's going out the way he came in.  
+
+Suddenly ILYA'S HANDS are around his ankles.  
+
+Templar falls. He's going 12 stories to his death.  
+
+No. His fingers clutch the outside of the balustrade. Templar dangles there, 
+
+looking up at the sadistic face of Ilya. And suddenly below -- 
+
+INT. NIKKO HOTEL - GRAND FOYER BALLROOM 
+
+-- A JAPANESE WOMAN, looking up, pointing at the man dangling from the 
+
+balustrade above, SCREAMS. And now everybody looks up.  
+
+HIRO MYAKI 
+
+Sound the alarm! Call the police! 
+
+INT. NIKKO HOTEL - MEZZANINE 
+
+Ilya and Templar. Ilya calmly compresses his foot against Templar's left 
+
+knuckles.  
+
+ILYA 
+
+The box please.  
+
+Templar, grimacing, reaches with his right hand and pulls the box from his 
+
+pocket. Hands it slowly to Ilya, who reaches over the balustrade for it...  
+
+TEMPLAR stuffs the box in his teeth and grabs Ilya's hand, jerking him over 
+
+the balustrade.  
+
+Ilya falls 12 stories to his death.  
+
+No he doesn't. He falls one story and miraculously catches the balustrade 
+
+there
+
+.  
+
+Templar clambers up again, atop the balustrade.  
+
+He jumps to the ceiling girder.  
+
+Hand over hand, swinging like an acrobat, Templar's across the girder in 
+
+seconds.  
+
+He releases from the girder to the window frame.  
+
+There's one further problem. BULLETS. Ricocheting all around him. Fired by -- 
+
+ILYA, one floor down.  
+
+Templar reaches over his shoulder. Pulls a GUN from his backpack. To return 
+
+fire? No, it's the DART GUN.  
+
+Templar aims the dart gun out the aperture he cut in the window and fires.  
+
+EXT. NIKKO HOTEL - 12TH FLOOR 
+
+A STEEL DART launches from the window, flies fifty yards, and imbeds in the 
+
+STAIRCASE BULKHEAD OF THE BUILDING ADJACENT TO THE NIKKO.  
+
+INT. NIKKO HOTEL - CEILING SUPERSTRUCTURE 
+
+Templar ties the cable to the ceiling girder.  
+
+He pulls out his black hood and drapes it over the taught cable. He grabs both 
+
+ends of the hood.  
+
+And he jumps.  
+
+EXT. NIKKO HOTEL/ADJACENT BUILDING 
+
+Templar flies through space, across the cable, the hood acting as a makeshift 
+
+glider.  
+
+He lands on the roof of the adjacent building.  
+
+Templar looks around. SIRENS ARE WAILING.  
+
+He runs across rooftops, disappearing into the St. Petersburg night.  
+
+INT . NIKKO HOTEL - GRAND FOYER BALLROOM 
+
+Total chaos. Women screaming, everybody running around. Ilya comes 
+
+through the panicked crowd.  
+
+Ten ST. PETERSBURG POLICEMEN enter.  
+
+ILYA 
+
+I tried to stop him! He went out 
+
+the window! 
+
+Five policemen go for the elevators. Five more exit quickly. Ilya follows.  
+
+EXT. NIKKO HOTEL - ENTRANCE 
+
+The befuddled police race off, looking skyward at the top floors of the 
+
+building.  
+
+Ilya curses silently. And peels away from the cops and commotion, off into 
+
+the night.  
+
+CUT TO: 
+
+INT. A BRITISH-AIR 747 - MORNING 
+
+The First Class section. The plane is in flight.  
+
+A STEWARDESS, young, perky, comes down the aisle pushing a 
+
+magazine/newspaper cart.  
+
+STEWARDESS 
+
+Newspaper sir? 
+
+SIMON TEMPLAR sits there, dressed as usual without much heed to fashion.  
+
+Note this, reader: Templar is not a super-spy, super-hero, or super-rake. He 
+
+is a thief.  
+
+He's examining several antique Russian BRACELETS and LOCKETS. He looks 
+
+up at the stewardess.  
+
+STEWARDESS 
+
+(Cockney) 
+
+Wow, are those gorgeous or what...  
+
+TEMPLAR 
+
+You have an eye for beauty. Of course - you see it every time you 
+
+look in the mirror.  
+
+She blushes, fidgets, as his eyes bore in on her.  
+
+STEWARDESS 
+
+Why thank-you, Mr...  
+
+(reads seat assignment) 
+
+Templar.  
+
+She continues down the aisle, smiling to herself.  
+
+Templar resumes with his lockets.  
+
+INT. BRITISH AIR 747 - FIVE HOURS LATER 
+
+The plane has landed.  
+
+PASSENGERS are filing out past the Stewardess.  
+
+STEWARDESS 
+
+Goodbye, goodbye, enjoy your stay in London, etc.  
+
+Templar moves past the Stewardess, carrying TWO CARRY-ON BAGS. He 
+
+winks at her. She winks back, and fingers one of the RUSSIAN LOCKETS, now 
+
+around her neck.  
+
+STEWARDESS 
+
+Good-bye, Mr. Templar.  
+
+As Templar moves off, she smiles to herself and CUT TO: 
+
+INT. LONDON - HEATHROW AIRPORT 
+
+Templar walks briskly away from customs.  
+
+A MAN IN TRENCHCOAT falls in behind Templar.  
+
+TWO MEN appear in front of Templar, blocking his path; the man behind 
+
+Templar comes to his side. They are Scotland Yard men BAKER, TEAL, and INSPECTOR MACDUFF.  
+
+INSPECTOR MACDUFF 
+
+How's the weather in St. Petersburg? 
+
+TEMPLAR 
+
+Cold.  
+
+INSPECTOR MACDUFF 
+
+Let's warm things up for you.  
+
+Baker and Teal gruffly take Templar by the shoulder and walk him forward and CUT TO: 
+
+INT. HEATHROW CUSTOMS - INTERROGATION ROOM 
+
+A spartan room, a table and two chairs. MacDuff ransacks TEMPLAR'S BAGS 
+
+while, across the room -- 
+
+Templar kisses the wall, hands outstretched, as Baker finishes frisking him.  
+
+Templar turns.  
+
+BAKER 
+
+He's clean.  
+
+TEMPLAR 
+
+(to MacDuff) 
+
+Careful with that. It's delicate 
+
+equip...  
+
+MacDuff lifts Templar's 9MM PISTOL from the bag.  
+
+TEMPLAR 
+
+. . . ment.  
+
+MACDUFF 
+
+Yes. Very.  
+
+TEMPLAR 
+
+It's for protection.  
+
+I deal in antique....  
+
+MACDUFF 
+
+(snaps) 
+
+I know what you deal in. And these? 
+
+Your pajamas? 
+
+He holds up Templar's black bodysuit.  
+
+TEMPLAR 
+
+For jogging. My doctor's 
+
+recommended five miles a...  
+
+MACDUFF 
+
+Sit down and shut it.  
+
+Templar sits down.  
+
+Baker has Templar's papers. He holds up a certificate.  
+
+BAKER 
+
+He's licensed to carry, Inspector.  
+
+MACDUFF 
+
+Let's see the passport.  
+
+(Baker hands MacDuff 
+
+Templar's passport) 
+
+What's your nationality this week, 
+
+Templar? 
+
+TEMPLAR 
+
+I forget.  
+
+MACDUFF 
+
+(looks at passport) 
+
+Issued by the Principality 
+
+of.. . Yemen? You're bloody joking.  
+
+TEMPLAR 
+
+(shrugs) 
+
+Call the embassy 
+
+MacDuff whips the passport at Templar. Templar calmly moves his head; the 
+
+passport flies by. Hits the wall.  
+
+MACDUFF 
+
+Shut it.  
+
+MacDuff leans down, coming in close.  
+
+Templar doesn't blink. His expression never changes.  
+
+MACDUFF 
+
+You pass through Russia for a day 
+
+with that gear and, what a surprise, a prototype 
+
+computer chip worth quarter of a billion quid is nicked 
+
+from the Myaki Corporation the night you arrive. We know 
+
+you didn't fence it in Russia. Where is it? 
+
+The door opens. Teal enters, tossing several X-RAY PHOTOGRAPHS on the 
+
+table before MacDuff. Two are of Templar's bags, two are of his body.  
+
+TEAL 
+
+(Cockney) 
+
+All negative. He didn't swallow it.  
+
+An embarrassing pause.  
+
+TEMPLAR 
+
+You've got three options: charge me, 
+
+or release me.  
+
+MACDUFF 
+
+What's the third.  
+
+TEMPLAR 
+
+You can kiss my ass.  
+
+A dreadful pause. MacDuff smiles.  
+
+He turns away, then turns back and viciously backhands Templar across the 
+
+face; Templar's head jerks. The blow would knock most men out.  
+
+Now Templar smiles. Like a serpant. And says calmly: 
+
+TEMPLAR 
+
+I'm a busy man. Make up your mind.  
+
+MacDuff stares at Templar, gritting his teeth.  
+
+Templar rises. Begins collecting his things.  
+
+CUT TO: 
+
+INT. LONDON RESTAURANT - EVENING 
+
+A quaint place off Piccadilly. The STEWARDESS (from Templar's flight) gulps a 
+
+martini. She is tipsy. She shows it.  
+
+STEWARDESS 
+
+.. . then me mum says, call uncle 
+
+Charlie, he's in the airline 
+
+business, there's jobs there, good 
+
+benefits too, and.. ..where was I? 
+
+TEMPLAR, enduring this, sits opposite with a scotch.  
+
+TEMPLAR 
+
+How you got your job.  
+
+STEWARDESS 
+
+Right! 
+
+(hiccups, giggles) 
+
+'Scuze me.  
+
+Templar motions to a passing WAITRESS.  
+
+TEMPLAR 
+
+Another round please.  
+
+STEWARDESS 
+
+Ye're tryin' ta get me drunk, aren't 
+
+you? Are you cute or what? I gotta 
+
+freshen up.  
+
+(she rises) 
+
+Where's the loo in 'ere? 
+
+TEMPLAR 
+
+Back there. Leave your locket.  
+
+I'll polish it for you.  
+
+She smiles crookedly; hands over the locket.  
+
+STEWARDESS 
+
+Are you a dearheart or what...  
+
+She blows Templar a kiss and lurches off to the bathroom. Templar watches 
+
+her a moment.  
+
+When she's gone he puts the locket on the table.  
+
+He pries open the back of it with a pen-knife.  
+
+INSERT - THE LOCKET - there is a compartment in which sits THE STOLEN 
+
+MICRO-CHIP. Templar plucks out the chip and drops it into an envelope.  
+
+BACK TO SCENE - FOLLOWING THE STEWARDESS 
+
+as she returns to the table. She sits down. Looks around. Templar's gone. The 
+
+locket's gone. The waitress appears.  
+
+STEWARDESS 
+
+Maam, where's the gent who was 
+
+sitting 'ere? 
+
+WAITRESS 
+
+He left, luv. Said you'd take care 
+
+of the bill.  
+
+She hands the Stewardess the bill. She stares at it.  
+
+STEWARDESS 
+
+What? 
+
+She sinks down, confused, blinking, near tears. CUT TO: 
+
+INT. LONDON - MUSGRAVE HOTEL 
+
+A small, plush, discrete residential hotel in the heart of Mayfair (Regent Street, Grovesnor Sq. or equivalent). TEMPLAR approaches the front desk with his carry-on bags. CONCIERGE HARRY WINSTON and the HOTEL MANAGER are behind the desk.  
+
+CONCIERGE HARRY WINSTON 
+
+Mr. Templar! Good to see you sir.  
+
+Your room key - south penthouse as 
+
+usual. Your suits are up from storage, 
+
+pressed of course, and 
+
+there's a bottle of Oban on the 
+
+dresser.  
+
+TEMPLAR 
+
+Thanks Harry. Oh, and Harry...  
+
+(pulls out the envelope with the computer chip) 
+
+.. . ship this by overnight courier to that address.  
+
+CONCIERGE HARRY WINSTON 
+
+Very good sir.  
+
+JIMMY, a young Bellman, takes Ternplar's bags. Templar doesn't let go. An 
+
+uncomfortable pause.  
+
+CONCIERGE HARRY WINSTON 
+
+Jimmy, Mr. Templar carries his own bags.  
+
+Templar steps past Jimmy into the elevator.  
+
+JIMMY THE BELLMAN 
+
+What's with the bags, gov'nuh? 
+
+HOTEL MANAGER 
+
+They're all he ever brings. The 
+
+man's bills are paid by a bank in 
+
+Switzerland and his mailing address 
+
+is a corporation in Lisbon. Bloody strange...  
+
+CONCIERGE HARRY WINSTON 
+
+Mr. Templar, strange? No sir, he's 
+
+just shy.  
+
+CUT TO: 
+
+INT . MUSGRAVE HOTEL - SOUTH PENTHOUSE 
+
+Ternplar sits at a desk with a bottle of Oban scotch and glass, staring at the 
+
+screen of a modemed MINI-COMPUTER.  
+
+-- Templar types: LION CONTACTING ZEBRA: IS ZEBRA HOME? 
+
+-- And this comes back: AFFIRMATIVE, LION.  
+
+-- Templar types: PIGEON IS FLYING; WILL ARRIVE A.M.  
+
+-- And this back: EXCELLENT. LION GETS LION'S SHARE. -- Templar types a 
+
+new command. A new screen appears: 
+
+******* NATIONAL BANK OF GENEVA ******* 
+
+PRIVATE UNMARKED ACCOUNTS 
+
+PLEASE ENTER SECURITY PASSWORD 
+
+Templar types in: 77N8LS473Z. This appears: 
+
+******* NATIONAL BANK OF GENEVA ******* 
+
+ACCOUNT OF: TEMPLAR, SIMON 
+
+BALANCE (AS OF 8/1S/95): U.S. $47,895,12S.12 (Not a typo, reader. It's forty-seven million bucks.) 
+
+Templar picks up his scotch and drinks, staring at the screen. He's waiting for 
+
+something...  
+
+The first digit, "4," vanishes.  
+
+A "5" appears in it's place. Now fifty-seven million.  
+
+Templar permits a slight smile, having just made 10 million dollars, and 
+
+drinks his scotch.  
+
+The phone RINGS. Templar eyes it skeptically. He picks it up.  
+
+TEMPLAR 
+
+Yes.  
+
+A voice with an Eastern European accent: 
+
+VOICE 
+
+Is this Simon Templar? 
+
+TEMPLAR 
+
+It depends.  
+
+VOICE 
+
+A meeting. Midnight, Blackfriars 
+
+Bridge.  
+
+TEMPLAR 
+
+Involving what? 
+
+VOICE 
+
+A lot of money. If you want it.  
+
+Click. Templar recradles the receiver; He stares at it a moment and CUT TO: 
+
+INT. MUSGRAVE HOTEL LOBBY - LATER - NIGHT 
+
+Templar enters the lobby wearing a fresh suit under a black leather trench 
+
+coat. He goes to the desk, where concierge Harry Winston looks up.  
+
+TEMPLAR 
+
+Harry, I'm going for a walk over 
+
+Blackfriars Bridge. Midnight.  
+
+Pause. And Harry, just perceptibly, nods. And returns to his obsequious self.  
+
+HARRY WINSTON 
+
+Very good, sir.  
+
+Templar walks off through the lobby.  
+
+HARRY WINSTON 
+
+Jimmy 
+
+(Jimmy walks over) 
+
+It's about time I taught you how to 
+
+run the front desk.  
+
+CUT TO: 
+
+EXT. LONDON - BLACKFRIAR' S BRIDGE - MIDNIGHT 
+
+Fog. The bridge lights cast everything in a sickly yellow glow. Below, A 
+
+TUGBOAT plows the river, horn BELLOWING. The lights of Southwark twinkle 
+
+beyond.  
+
+Templar enters from Victoria Embankment.  
+
+TWO FIGURES emerge from the fog. Templar approaches.  
+
+One is a huge dim-wit with greasy hair, as tall and wide as a bookcase. His 
+
+name, aptly, is ZERO.  
+
+The other is middle-aged and strongly built. A high forehead; clipped, irongrey 
+
+hair; square jaw and aquiline nose; deep-set, ruthless, unblinking eyes.  
+
+This is GREGOR TRETIAK. To characterize him as the John Gotti of Russia is to 
+
+demean him. He is vastly more powerful.  
+
+TRETIAK 
+
+Interesting.  
+
+(sizes up Templar) 
+
+You are not a big man. But men like 
+
+you never are. It is my pleasure, 
+
+Simon Templar. My name is...  
+
+TEMPLAR 
+
+I know who you are. Tell me what 
+
+you want, or I keep walking.  
+
+TRETIAK 
+
+Suppose I don't want anything.  
+
+Suppose I want to kill you.  
+
+TEMPLAR 
+
+Suppose there's a high-powered rifle 
+
+trained at your head.  
+
+As Tretiak's eyes dart about, Templar raises his hand, waving, signaling to 
+
+someone below the bridge -- 
+
+BELOW THE BRIDGE - ON THE VICTORIA EMBANKMENT 
+
+-- that someone is CONCIERGE HARRY WINSTON, in a cloth cap and rain 
+
+mack now, and yes, he has a 30.6 scoped rifle trained at Tretiak's head.  
+
+BACK TO THE BRIDGE Tretiak's jaw muscles twitch. He smiles thinly.  
+
+TRETIAK 
+
+Rumour has not lied about you, Mr.  
+
+Templar. Last night something was 
+
+stolen in St. Petersburg. My city.  
+
+TEMPLAR 
+
+You talk about the place as if you 
+
+own it.  
+
+TRETIAK 
+
+(sinisterly) 
+
+I do, Mr. Templar. May I ask who hired you? 
+
+TEMPLAR 
+
+You can ask. I won't answer.  
+
+TRETIAK 
+
+What you stole I wanted very badly.  
+
+(beat) 
+
+Ilya.  
+
+Ilya emerges from the shadows.  
+
+Locks eyes with Templar. The thief from the Nikko! 
+
+TRETIAK 
+
+What is the saying - if you can't 
+
+beat them, why not join them? 
+
+An American phrase, no? Or are you 
+
+British? Australian? 
+
+TEMPLAR 
+
+I'm nothing. Except bored.  
+
+Get to the point.  
+
+TRETIAK 
+
+(smiles) 
+
+Of course. An American scientist 
+
+has worked ten years to develop a 
+
+certain technology. I am informed 
+
+that the technology will be made 
+
+public at the annual nuclear science 
+
+symposium in Washington D.C. I 
+
+would like the plans and 
+
+specifications for this technology. 
+
+Before
+
+ the symposium.  
+
+TEMPLAR 
+
+What are we talking about? 
+
+TRETIAK 
+
+A nuclear fusion generator. We have 
+
+a man on the inside.  
+
+TEMPLAR 
+
+Why can't he steal it? 
+
+TRETIAK 
+
+He's tried. The scientist trusts no 
+
+one and keeps no hard records of the 
+
+technology in the lab.  
+
+TEMPLAR 
+
+Nuclear fusion. They say it's 
+
+mankind's only hope after all the 
+
+oil's gone. This guy's actually done it? 
+
+TRETIAK 
+
+She.  
+
+TEMPLAR 
+
+Come again? 
+
+TRETIAK 
+
+She, Mr. Templar. The scientist is a woman.  
+
+(hands over a dossier) 
+
+Her dossier. All the information 
+
+you will need.  
+
+TEMPLAR 
+
+My fee is fifteen million U.S.  
+
+dollars, half up front, half when I 
+
+deliver. You'll hear from me.  
+
+Templar turns and walks off.  
+
+TRETIAK 
+
+Templar, one question.  
+
+Templar stops. Turns.  
+
+TRETIAK 
+
+I ask you to steal a person's entire 
+
+life's work. You have no reaction.  
+
+Are you that cold? 
+
+Templar stares back, expressionless. He turns and disappears into the fog.  
+
+TRETIAK 
+
+No, rumor 
+
+hasn't
+
+ lied about you, Templar.  
+
+CUT TO: 
+
+EXT. WESTCHESTER COUNTY - ESTABLISHING SHOTS 
+
+Various establishing shots of this suburban community just north of 
+
+Manhattan. Pretty, charming, affluent.  
+
+INT. WESTCHESTER COUNTY - SUPERMARKET 
+
+A large suburban supermarket.  
+
+The aisles are full of Westchester women: affluent, country clubby, 
+
+housewifey types.  
+
+A HAND reaches for a BOTTLE OF LEMONADE (100% Natural) , bringing it 
+
+down to the eye level of -- 
+
+JILLIAN ST. THOMAS. She is lean, a swimmer's body perhaps, with terrific 
+
+acuteness and authority in her thought, speech, and action. Debate this 
+
+woman? Fine, but you'd better know what the hell you're talking about. Her 
+
+stare can stop a train.  
+
+She's casually dressed. Only her JACKET stands out.  
+
+It's waist-cut, with a colorful diagram of protons and electrons circling a 
+
+nucleus embroidered on the back.  
+
+JILLIAN 
+
+(reads ingredients) 
+
+Filtered water, high fructose corn 
+
+syrup. Lemon juice concentrate.  
+
+Citric acid. Gum acacia...? 
+
+(grumbles) 
+
+Totally natural, yeah right.  
+
+She returns the bottle and turns, coming face-to-face with SIMON TEMPLAR, 
+
+wearing a moustache and glasses now.  
+
+He has a bottle of LEMON JUICE in his hand.  
+
+TEMPLAR 
+
+Try this.  
+
+(smiles) 
+
+Sorry, I overheard.  
+
+(hands her the bottle) 
+
+The real thing. No chemicals, 
+
+no preservatives.  
+
+She reads the label. Satisfied, she looks at Templar.  
+
+JILLIAN 
+
+Thanks.  
+
+She puts it in her cart and wheels off and CUT TO: 
+
+INT. SUPERMARKET - PRODUCE SECTION - MINUTES LATER 
+
+Jillian is examining apples. There is a THUMPING NOISE. It persists. Finally 
+
+she looks over at -- 
+
+TEMPLAR. He's standing in front of the watermelons. He's thumping one with 
+
+his thumb. He notices Jillian.  
+
+TEMPLAR 
+
+Hello again. These aren't ripe.  
+
+How are the apples? 
+
+JILLIAN 
+
+Excellent. They're in season.  
+
+Templar walks over to the apples. Picks one up. Studies it for a moment.  
+
+TEMPLAR 
+
+I wonder why He didn't want us to eat these.  
+
+A pause. She looks at him, puzzled.  
+
+JILLIAN 
+
+Who? 
+
+TEMPLAR 
+
+God. In the Garden of Eden.  
+
+JILLIAN 
+
+Oh right. Sorry, little slow today.  
+
+Bad headache.  
+
+(looks at the apple) 
+
+Uhm, actually, I don't know.  
+
+TEMPLAR 
+
+Why wasn't it: "No bananas." Or: 
+
+"Avoid, at all cost, kumquats." 
+
+Wonder what God had against apples.  
+
+She gives him a funny look and turns away.  
+
+JILLIAN 
+
+Sorry. Can't help you.  
+
+TEMPLAR 
+
+How about William Tell? You really 
+
+think he shot one of these off his 
+
+brother's head with an arrow? 
+
+Jillian turns around again. A pause.  
+
+JILLIAN 
+
+Do I know you? 
+
+TEMPLAR 
+
+Unlikely. I just moved to New York.  
+
+She stares at him. This is a very strange man.  
+
+Intriguing yes, but also possibly a lunatic. She decides to take the dismissive 
+
+route: 
+
+JILLIAN 
+
+Well uhhm, sir, to answer your apple 
+
+questions, one, I don't know what 
+
+God's problem was. Two, William 
+
+Tell, like Paul Bunyon, never 
+
+existed. And in case you're 
+
+wondering, Isaac Newton discovered 
+
+gravity through planetary 
+
+observation not because one of those 
+
+fell on his head, and I seriously doubt 
+
+that eating one a day will keep the doctor away.  
+
+(beat) 
+
+Okay? 
+
+She wheels her cart off. Says over her shoulder: 
+
+JILLIAN 
+
+By the way - welcome to the Big Apple.  
+
+Templar watches her wheel off. His eyes glint. This is going to be 
+
+interesting...  
+
+CUT TO: 
+
+EXT. WESTCHESTER SUPERMARKET - PARKING LOT - DAY 
+
+Jillian slams down the hatch of her station wagon, now filled with groceries.  
+
+She gets in.  
+
+The car pulls out of the parking lot.  
+
+INT. JILLIAN'S STATION WAGON - DRIVING 
+
+Jillian, driving, drinking her lemonade, listens to a cassette tape. An 
+
+authoritative, scholarly, Indian voice: 
+
+VIJAY SINGH (v.o., cassette) 
+
+Nuclear fusion occurs when pairs of 
+
+nuclei meet and their protons and 
+
+neutrons fuse together into a single 
+
+nucleus. The fused nuclei move off 
+
+at high speed, producing energy.  
+
+Nuclear fusion could provide us 
+
+with almost unlimited power.  
+
+JILLIAN 
+
+No, really? Moron.  
+
+VIJAY SINGH (v.o., cassette) 
+
+All you need are two hydrogen gases, 
+
+deuterium and lithium, and a machine 
+
+to make them fuse under controlled conditions.  
+
+JILLIAN 
+
+C'mon, Dr. Singh. Tell me something 
+
+I don't know.  
+
+Jillian sees something through the windshield.  
+
+She turns down the volume and squints -- 
+
+JILLIAN'S POV - THROUGH WINDSHIELD 
+
+A ROLLS ROYCE sits on the road shoulder. As we pass the Rolls, we see 
+
+SIMON TEMPLAR standing next to it wearing a hopeless expression.  
+
+BACK TO SCENE - JILLIAN 
+
+looks at the Rolls in the rear-view mirror. She frowns.  
+
+JILLIAN 
+
+Just keep driving.  
+
+Jillian frowns again. Against her better judgment, she pulls over. Throws it in 
+
+reverse.  
+
+EXT. WESTCHESTER - SUBURBAN ROAD SHOULDER - DAY 
+
+Jillian's station wagon backs up to the Rolls Royce on the road shoulder. Jillian 
+
+gets out.  
+
+TEMPLAR 
+
+Hello! 
+
+She walks up to him. Together they look down at THE REAR TIRE. It's flat, a 
+
+pancake.  
+
+JILLIAN 
+
+Where's the spare? 
+
+TEMPLAR 
+
+I.. .well.. .I'm not really certain.  
+
+JILLIAN 
+
+You do know how to change a tire.  
+
+TEMPLAR 
+
+Sorry.  
+
+(beat) 
+
+I'm not very...  
+
+mechanical.  
+
+Jillian rolls her eyes.  
+
+JILLIAN 
+
+Give me your keys.  
+
+Templar hands them over.  
+
+They walk to the rear. Jillian opens the trunk.  
+
+They both look down at -- .  
+
+THE TRUNK'S INTERIOR - THE SPARE TIRE is also flat.  
+
+TEMPLAR 
+
+(sheepish) 
+
+Sorry.  
+
+Jillian rolls her eyes again.  
+
+JILLIAN 
+
+All right, where do you live? 
+
+TEMPLAR 
+
+Close.  
+
+JILLIAN 
+
+It's your lucky day.  
+
+(begins to walk off) 
+
+Come on.  
+
+Templar watches her walk off. He smiles grimly.  
+
+CUT TO: 
+
+INT. JILLIAN'S CAR - DRIVING 
+
+The car winds through Westchester roads.  
+
+VIJAY SINGH (v.o., cassette) 
+
+Research has centered on a machine 
+
+called a tokamak, developed in 
+
+Russia, essentially a doughnut 
+
+shaped tube that contains the gases to 
+
+be fused.  
+
+At this, Templar stares at the tape cassette.  
+
+VIJAY SINGH (v.o., cassette) 
+
+The tokamak hasn't worked because 
+
+the two gases must be heated to a 
+
+temperature of hundreds of millions 
+
+of degrees, and kept together for 
+
+several seconds.  
+
+JILLIAN 
+
+Try room temperature, idiot.  
+
+The Tokamak's got it all backwards.  
+
+TEMPLAR 
+
+Uhhm. Excuse me. Who is that? 
+
+JILLIAN 
+
+Him? A powerful, well-respected man 
+
+who doesn't know a goddarnn thing 
+
+what he's talking about. If I got 
+
+one tenth of his funding...  
+
+Jillian reaches down and yanks off the cassette player.  
+
+She looks out the window, grumbling. They drive on.  
+
+TEMPLAR 
+
+It's the next left. First driveway on the right.  
+
+EXT. WESTCHESTER COUNTY - TEMPLAR 'S HOME 
+
+Jillian's station wagon pulls into the circle of the largest mansion in 
+
+Westchester County. Just stupendous.  
+
+INT. JILLIAN'S STATION WAGON 
+
+Jillian stares, open-mouthed, at the mansion.  
+
+JILLIAN 
+
+You live here? 
+
+(turns to him) 
+
+Are you for real? 
+
+He picks up Jillian's lemonade bottle.  
+
+TEMPLAR 
+
+Like the label says. No chemicals, 
+
+no preservatives.  
+
+JILLIAN 
+
+(points at the house) 
+
+You work for this or inherit it? 
+
+TEMPLAR 
+
+My father made shoes. I inherited 
+
+the company. Now I make shoes.  
+
+JILLIAN 
+
+(looks at the house) 
+
+That's a helluva lot of shoes.  
+
+TEMPLAR 
+
+Uhm listen, I'm not very good at 
+
+this and I realize we just met, 
+
+but I'm even-tempered, politically 
+
+moderate, belong to no religious 
+
+cults, have no children I know of, 
+
+am free of communicable diseases, I 
+
+happen to find you attractive...  
+
+JILLIAN 
+
+Wait a minute, hold on.  
+
+Are you asking me out on a date? 
+
+TEMPLAR 
+
+Yes.  
+
+JILLIAN 
+
+How do you know I'm not married? 
+
+TEMPLAR 
+
+I believe the fourth finger on your left hand is...  
+
+JILLIAN 
+
+(quickly) 
+
+Okay so I'm not married.  
+
+I could have a boyfriend.  
+
+TEMPLAR 
+
+I'd be surprised if you didn't have several.  
+
+JILLIAN 
+
+Be surprised. Lemme give you a hand.  
+
+Jillian pops the wagon's back hatch and gets out.  Templar follows. They walk to the wagon's rear.  
+
+JILLIAN 
+
+What about you? There's no wife stashed 
+
+on some island someplace? 
+
+TEMPLAR 
+
+No wife stashed on some island.  
+
+They pick up Templar's groceries; each takes two bags.  
+
+JILLIAN 
+
+No mistress? C'mon. No bimbo on the side? 
+
+TEMPLAR 
+
+Not a one.  
+
+They walk toward the mansion.  
+
+JILLIAN 
+
+Well, that's a start. Here's the 
+
+deal with me: I am not particularly 
+
+even-tempered, I'm staunchly 
+
+liberal, belong to no 
+
+religious cults but I do believe in God as a 
+
+basic force of good, have no 
+
+children because one has to have sex 
+
+to do that and, well, let's not 
+
+pursue that, am free of communicable 
+
+diseases, see above, and you're an 
+
+attractive man, if a little weird, 
+
+and well.. .hell, why not.  
+
+(smiles) 
+
+You've got a date, shoemaker.  
+
+What's your name? 
+
+TEMPLAR 
+
+Michael. Michael Quinn.  
+
+They reach the mansion's front veranda. They set the groceries on a wicker 
+
+couch.  
+
+JILLIAN 
+
+I'm Jillian St. Thomas.  
+
+They shake hands. Jillian fishes for a pen.  
+
+JILLIAN 
+
+I'll give you my number.  
+
+TEMPLAR 
+
+Just say it. I have a good memory.  
+
+JILLIAN 
+
+(looks at him) 
+
+Eight seven seven, five two nine eight.  
+
+TEMPLAR 
+
+Good. Great. I'll call you.  
+
+JILLIAN 
+
+I've heard that before.  
+
+TEMPLAR 
+
+I will call you. You saved me 
+
+today. Thanks again.  
+
+She walks off to her car. Templar turns toward the front door. Jillian suddenly 
+
+stops. Turns.  
+
+JILLIAN 
+
+Hey.  
+
+(Templar turns) 
+
+What's my number? 
+
+TEMPLAR 
+
+(without hesitation) 
+
+Eight seven seven, five 
+
+two nine eight.  
+
+JILLIAN smiles and continues toward the car, mumbling: 
+
+JILLIAN 
+
+And he has a brain.  
+
+What do you know.  
+
+AT THE MANSION'S FRONT DOOR - TEMPLAR watches Jillian get in her wagon 
+
+and drive off. Then Templar keys open the door and enters.  
+
+INT. WESTCHESTER MANSION - DAY 
+
+The place is empty. Totally. No furniture. Nothing.  
+
+Just Templar's two CARRY-ON BAGS on the floor in front of Templar.  
+
+DISSOLVE TO: 
+
+INT. WESTCHESTER MANSION - LIVING ROOM - NIGHT 
+
+It's late now. About 10 p.m.  
+
+Templar sits on a packing crate in the vacant living room with a glass of 
+
+scotch, studying Jillian's life.  
+
+There are pages of personal data and many photographs: Jillian in cap and 
+
+gown; Jillian in a lab coat; Jillian at the beach, etc.  
+
+DISSOLVE TIME CUT TO: 
+
+A LEGAL PAD, with Templar's handwritten note: 
+
+NO HARD COPIES - COMPUTER SOFTWEAR 
+
+TEMPLAR stares into the screen of his mini-computer.  
+
+It is two hours later.  
+
+INSERT - THE MINI-COMPUTER SCREEN - Templar has entered every detail of 
+
+Jillian's life. Looks like this: 
+
+Home state: Massachusetts 
+
+Hometown: Milton 
+
+Highschool: Milton Academy 
+
+Highschool mascot: Bulldogs 
+
+University: Harvard 
+
+University mascot: Crimson 
+
+It just goes on and on: names of parents, family members, teachers, pets, 
+
+boyfriends; favorite movies, colors, sports teams, hobbies, etc.  
+
+DISSOLVE TIME CUT TO: 
+
+TEMPLAR finishes entering the details of Jillian's life.  
+
+He copies it onto a 3 1/4 disk, pulls out the disk and shuts off the minicomputer.  
+
+He leans down and picks up a SHOE BOX. Opens it. He lifts out a WOMAN'S 
+
+SHOE and jerks the heel, which lifts away from the sole on hinges. revealing a 
+
+hidden compartment, in which Templar places a small transistor.  
+
+He clicks the heel shut. THE SHOE -- 
+
+MATCH DISSOLVES TO: 
+
+THE SAME SHOE, now on Jillian's foot and WIDEN TO -- 
+
+INT. MANHATTAN - LE CIRQUE 
+
+-- Jillian and Templar at a corner table in Le Cirque. The meal is over. They're 
+
+drinking coffee, laughing, at ease. The "date" is going well.  
+
+TEMPLAR 
+
+I am not eccentric.  
+
+JILLIAN 
+
+No? You live in the biggest house 
+
+in America but do your own shopping, 
+
+you talk to strange women about the history 
+
+of apples, and you give 
+
+a first-time date.. . shoes? 
+
+Isn't the tradition flowers? 
+
+TEMPLAR 
+
+You said you liked them.  
+
+JILLIAN 
+
+I do. I'm joking. They're 
+
+beautiful. Thank-you.  
+
+They smile at each other. A WAITER brings more coffee. There's a sudden 
+
+commotion. Jillian and Templar look -- 
+
+ACROSS THE ROOM - a group of WAITERS are clapping their hands for a 
+
+YOUNG COUPLE seated at a table.  
+
+JILLIAN 
+
+(to the waiter) 
+
+What happened? 
+
+WAITER 
+
+(smiles) 
+
+He just asked her to marry him.  
+
+Anything else? 
+
+JILLIAN looks at the radiant young couple. Smiles.  
+
+TEMPLAR 
+
+Just the check please.  
+
+(the waiter exits; Jillian looks at him) 
+
+You didn't answer my question.  
+
+Maybe it made you uncomfortable.  
+
+Maybe I should just shut up...  
+
+JILLIAN 
+
+No, it's all right. Okay: "Why 
+
+Jillian never got married, chapter 
+
+One:" I don't know where you're from. . .  
+
+TEMPLAR 
+
+Canada.  
+
+JILLIAN 
+
+I don't know what it's like there, 
+
+but here, if a teenage girl doesn't 
+
+want to be a cheerleader, or drink 
+
+'till she pukes every weekend, or 
+
+talk endlessly on the phone every 
+
+night about absolutely nothing, then she 
+
+doesn't win many popularity 
+
+contests, know what I mean? 
+
+That pretty much took care of highschool.  
+
+TEMPLAR 
+
+College? 
+
+JILLIAN 
+
+Try earning double p.h.d.'s 
+
+from Harvard before you turn twenty-three 
+
+and having a social life.  
+
+TEMPLAR 
+
+Can I ask a personal question? 
+
+(she nods) 
+
+What's your I.Q.? 
+
+JILLIAN 
+
+(laughs) 
+
+That's personal? My I.Q.? 
+
+Let's just say it's high.  
+
+TEMPLAR 
+
+Very high.  
+
+JILLIAN 
+
+Yes, very high. As high as yours.  
+
+TEMPLAR 
+
+You don't honestly mean that.  
+
+JILLIAN 
+
+Oh, you're a smart one, shoemaker.  
+
+It's in the eyes. I can always tell.  
+
+They stare at each other. Neither averts eyes.  
+
+JILLIAN 
+
+I just don't often get 
+
+the opportunity. It feels nice.  
+
+TEMPLAR 
+
+For me, too.  
+
+(and he means this:) 
+
+You're very pretty.  
+
+JILLIAN 
+
+Stop it. Flattery will get you...  
+
+someplace. I don't know where yet.  
+
+She smiles. The waiter arrives with the check; gives it to Templar. Jillian picks 
+
+up her purse and takes her wallet out. Templar sees her doing this...  
+
+TEMPLAR 
+
+No no no, absolutely not.  
+
+Put that away.  
+
+JILLIAN 
+
+It's not for us. It's for the couple over there.  
+
+(points at the couple across the room) 
+
+Waiter, put their bill on my card please.  
+
+WAITER 
+
+Maam? Are you sure? 
+
+Jillian nods. The waiter takes Jillian's card, exits.  
+
+Jillian smiles at Templar. [Due to his mean origins and evolution, Templar has witnessed approximately three charitable acts in his whole life, and this was 
+
+the third.] Thus does Simon Templar smile uneasily back.  
+
+CUT TO: 
+
+INT. WESTCHESTER COUNTY - JILLIAN'S HOUSE - NIGHT 
+
+Neat, modest, non-descript. Jillian and Templar enter. Jillian walks across the 
+
+living room into a bar alcove off the living room.  
+
+JILLIAN 
+
+I'll make the booze.  
+
+Turn on the news. I want to catch up on that 
+
+Russia thing.  
+
+Templar turns on the T.V. His eyes rove around, casing the place.  
+
+JILLIAN (o.s.) 
+
+What do you want, Michael? 
+
+I've got everything.  
+
+TEMPLAR 
+
+Scotch please. No ice.  
+
+CNN EVENING NEWS with anchor BERNARD SHAW comes on.  
+
+BERNARD SHAW (on T.V.) 
+
+.. ..of the steadily growing NeoCzarist 
+
+Party, leveled more allegations against 
+
+President Victor Karpov. According to 
+
+Romanov, two men, Gregor Tretiak...  
+
+Templar looks at the T.V. and double takes.  
+
+A PHOTO OF GREGOR TRETIAK has appeared on the screen.  
+
+BERNARD SHAW (o.s.) 
+
+.. . and Ivan Gracha...  
+
+A PHOTO OF IVAN GRACHA, 50's, short, beady-eyed, sinister, appears on the 
+
+screen.  
+
+JILLIAN pokes her head out of the bar.  
+
+JILLIAN 
+
+What brand? 
+
+BERNARD SHAW (o.s.) 
+
+...allegedly the most powerful of 
+
+Russia's underworld bosses, are 
+
+linked to President Karpov in 
+
+illegal enterprises...  
+
+JILLIAN walks over to Templar. They watch together.  
+
+JILLIAN 
+
+That country's going to explode.  
+
+TEMPLAR 
+
+It very well might. Oban.  
+
+JILLIAN 
+
+What? .  
+
+TEMPLAR 
+
+My brand of scotch.  
+
+Oban. Have any? 
+
+JILLIAN 
+
+No, but there's a liquor store 
+
+five minutes away.  
+
+She grabs her coat, heads for the door.  
+
+TEMPLAR 
+
+Wait. Don't be ridiculous.  
+
+She stops. Looks at him.  
+
+JILLIAN 
+
+I want to be ridiculous.  
+
+(pause) 
+
+Michael, I haven't had anybody 
+
+over in...a long time. And I 
+
+happen to like you. I want to do 
+
+this right. Okay? 
+
+(he smiles; nods) 
+
+I'll be back in ten minutes.  
+
+(points at fireplace) 
+
+Build a fire.  
+
+She winks at him and exits.  
+
+Templar walks to the window and stands there, waiting.  
+
+We hear Jillian's car start, see the headlights.  
+
+TEMPLAR 
+
+You're making this too 
+
+easy, dear.  
+
+He pulls from his pocket a BLACK CASE, flips it open, turns it on. On a 
+
+miniature computer screen is a detailed map of WESTCHESTER COUNTY. Two 
+
+locations are pulsing: 1) Jillian's house and 2) a moving object, transmitted 
+
+from a homing device, which we now see  
+
+INT. JILLIAN' S CAR - DRIVING 
+
+-- it's in JILLIAN'S SHOE as she stamps on the brake at a stoplight and waits 
+
+and we CUT BACK to the house...  
+
+INT. JILLIAN' SHOUSE - BACK HALLWAY 
+
+TEMPLAR moves down the hall opening doors, looking for Jillian's lab. He 
+
+moves quickly, ruthlessly.  
+
+He comes to a heavily locked FIRE DOOR. He unpockets a set of burglar's 
+
+tools.  
+
+For Templar, these locks are a joke. He opens them with alarming speed. He 
+
+pushes open the door, revealing a DESCENDING STAIRCASE. He descends.  
+
+INT. JILLIAN'S HOUSE - BASMENT 
+
+Templar finds a lightswitch and flips it on.  
+
+His eyes widen. Here we find -- 
+
+JILLIAN'S LABORATORY. A POOL OF WATER (the size of a small swimming 
+
+pool) is surrounded by HUNDREDS OF TEST TUBES of various shapes and 
+
+sizes containing chemicals.  
+
+Templar moves through, eyes scanning everything.  
+
+He sees JILLIAN'S COMPUTER. Walks over to it.  
+
+He unpockets the HOMING SYSTEM and sets it on the desk.  
+
+The PULSING LIGHT is still moving; Jillian hasn't yet reached the liquor store.  
+
+He turns on Jillian's monitor and hard drive. The COMPUTER SCREEN blinks 
+
+on. We see a MENU: 
+
+A.) Personal finances 
+
+B.) Income tax 
+
+C.) Things to do 
+
+D.) Addresses 
+
+E.) Research 
+
+Templar positions the cursor on "E.) Research" and hits "enter." The modem 
+
+engages; this appears: 
+
+******* WELCOME TO THE INTERNET ******* 
+
+PLEASE WAIT 
+
+Then this appears: RETRIEVAL CODE: _____________________ 
+
+TEMPLAR 
+
+Smart girl. Send your data into 
+
+cyberspace and only you can retrieve 
+
+it. Because only you have the code.  
+
+He unpockets the 3 1/4 disk containing the data from Jillian's life and pushes 
+
+it into the disk drive. He types a command; a new screen appears: 
+
+DATA ENTRY SYSTEM 
+
+Press any key to begin 
+
+Templar hits a key and the old screen reappears: 
+
+******* WELCOME TO THE INTERNET ******* 
+
+PLEASE WAIT 
+
+RETRIEVAL CODE: ______________________ 
+
+But now, in the space next to "Retrieval Code," Templar's data appears. word 
+
+after word, like this: 
+
+-- "Massachusetts" 
+
+-- Computer: ACCESS DENIED 
+
+-- "Boston" -- 
+
+-- Computer: ACCESS DENIED. 
+
+-- "Milton" -- 
+
+-- Computer: ACCESS DENIED 
+
+-- "Milton Academy" 
+
+-- Computer: ACCESS DENIED 
+
+-- "Bulldogs" 
+
+-- Computer: ACCESS DENIED 
+
+It's incredibly fast, a new word appearing every second, as the system tries to 
+
+crack Jillian's code. But the computer denies access to each word.  
+
+The HOMING DEVICE suddenly BEEPS. The pulsing light has stopped, 
+
+indicating Jillian is at the liquor store.  
+
+Templar grimly turns back to the computer.  
+
+CUT TO: 
+
+INT. WESTCHESTER LIQUOR STORE - NIGHT 
+
+The clerk, WALTER, hands Jillian her change.  
+
+She exits with a SCOTCH BOTTLE in a brown wrapper.  
+
+CLERK 
+
+Goodnight Jillian.  
+
+JILLIAN 
+
+Night, Walter.  
+
+INT. JILLIAN'S LABORATORY - NIGHT 
+
+Templar paces; he looks at the homing device. The PULSING LIGHT is moving 
+
+back toward Jillian's house.  
+
+Templar looks at the computer; his system continues entering words: 
+
+"Hendrix." ACCESS DENIED. "Purple Haze." ACCESS DENIED. "Red Sox." 
+
+ACCESS DENIED. "Celtics." ACCESS DENIED. On and on...each is met with 
+
+ACCESS DENIED.  
+
+INT. JILLIAN'S STATION WAGON - DRIVING - NIGHT 
+
+Jillian, driving, turns on the radio. She hums along.  
+
+INT. JILLIAN'S LABORATORY 
+
+Templar stares at the HOMING DEVICE; the pulse is getting closer; it's do or 
+
+die now...  
+
+Templar's system suddenly stops. It has run through every word. Each has 
+
+met with failure.  
+
+TEMPLAR frowns. He yanks the system disk from the disk drive. He begins 
+
+pacing...  
+
+TEMPLAR 
+
+Okay, think. Think.  
+
+Templar suddenly gets an idea.  
+
+He sits and types: "Tokamak." ACCESS DENIED Templar stares at the screen 
+
+in frustration.  
+
+He looks at the HOMING DEVICE; the pulsing light is getting really close.  
+
+Templar concentrates with every brain cell.  
+
+We can feel him think. He's remembering something.  
+
+MEMORY FLASHBACK 
+
+We're in Jillian's car again, when they first met.  
+
+JILLIAN 
+
+Try room temperature, idiot.  
+
+The Tokamak's got it all backwards.  
+
+BACK TO THE LABORATORY 
+
+Templar grabs a pencil and notepad and spells out: 
+
+TOKAMAK. Under this he spells it backwards: KAMAKOT.  
+
+He turns to the computer and types: "KAMAKOT" And instantly this flashes: 
+
+ACCESS GRANTED.  
+
+TEMPLAR 
+
+Open sesame.  
+
+The retrieval begins: A DOCUMENT appears on the screen: 
+
+THE GENERATION OF ENERGY FROM COLD NUCLEAR FUSION 
+
+Submitted by: DR. JILLIAN ST. THOMAS 
+
+Templar scrolls through the document; we see a dizzying display of graphs, 
+
+tables, plans, specifications, etc.  
+
+Templar pulls out the disk containing Jillian's data and shoves a fresh disk 
+
+into the disk drive. He begins copying Jillian's research from harddrive to disk.  
+
+He looks at the HOMING DEVICE. Christ, she's almost back.. .and indeed -- 
+
+EXT. JILLIAN'S HOUSE 
+
+-- Jillian's car comes wheeling into the driveway.  
+
+INT. JILLIAN' S LABORATORY - NIGHT 
+
+The document is copied. Templar grabs the copied disk from the disk drive 
+
+and rips the slip of paper from the notepad. He flicks off the computer and 
+
+sprints across the lab, then up the stairs.  
+
+EXT. JILLIAN'S HOUSE 
+
+Jillian reaches for the doorknob and enters -- 
+
+INT. JILLIAN'S HOUSE 
+
+She comes in. TEMPLAR, relaxed, lounges on the couch, flipping through some magazines.  
+
+He smiles: 
+
+TEMPLAR 
+
+That was quick.  
+
+She walks past him to the bar alcove.  
+
+JILLIAN 
+
+Now Mr. Michael Quinn, let's have 
+
+that scotch. Hey, what happened 
+
+to the fire? 
+
+TEMPLAR 
+
+I thought we'd create our own.  
+
+JILLIAN 
+
+(smiles) 
+
+Down boy.  
+
+He gets up; goes to the fireplace; grabs some logs and lays them across the 
+
+andirons and we -- 
+
+DISSOLVE TO: 
+
+THE LOGS, now gently burning. Cole Porter is playing.  
+
+CAMERA PANS past Jillian's shoes on the carpet, past the Oban Scotch on the 
+
+coffee table, now half empty, to -- 
+
+-- the couch, where Jillian and Templar are locked in a heavy kiss. Jillian stops.  
+
+JILLIAN 
+
+Whoah whoah whoah, time to put 
+
+on the brakes. Those lips oughtta be 
+
+licensed buddy...  
+
+TEMPLAR 
+
+Sorry. I wasn't trying to...  
+
+JILLIAN 
+
+I know you weren't but if we keep 
+
+going I'm gonna be the one who gets us 
+
+both in trouble. Whew! 
+
+(fans herself) 
+
+Haven't felt like that for awhile.  
+
+(she brushes a lock of hair from his eyes) 
+
+Am I going to see you again? 
+
+A pause. Perhaps, just perhaps, for the first time in his black life Templar's having a hard time lying...  
+
+JILLIAN 
+
+Michael? 
+
+TEMPLAR 
+
+(smiles at her) 
+
+How about breakfast? 
+
+JILLIAN 
+
+It's a date. I'll walk you 
+
+out, shoemaker.  
+
+EXT. JILLIAN'S HOUSE - NIGHT 
+
+In the threshold they kiss again.  
+
+TEMPLAR 
+
+Good-night.  
+
+JILLIAN 
+
+'Bye. Drive safe.  
+
+Templar walks off to his Rolls Royce parked in the driveway. He smiles at her and waves.  
+
+He turns toward his car; his face goes hard and cold.  
+
+DISSOLVE TO: 
+
+EXT. ST. PETERSBURG - NEVSKY PROSPECT - CONTINUOUS LATE AFTERNOON 
+
+On the Nevsky Prospect, St. Petersburg's equivalent of the Champs-Elysees  
+
+MICHAEL ROMANOV stands on a raised platform outside the gates of a 
+
+PALATIAL MANSION taking up a whole city block. TEN THOUSAND 
+
+SUPPORTERS surround him. Many carry large, slogan-filled banners.  
+
+Four THUGGISH-LOOKING MEN stand guard inside the mansion's compound, 
+
+giving Romanov the eye. One is ZERO (Tretiak's bodyguard on Blackfriars 
+
+Bridge).  
+
+MICHAEL ROMANOV 
+
+Where is Russia's capital? Moscow? The Kremlin? No, Russia's capital is...  
+
+(points at mansion) 
+
+THROUGH THOSE GATES! 
+
+(crowd CHEERS) 
+
+A den of thieves! 
+
+A LIMOUSINE pulls through the crowd, which reluctantly parts. The guards 
+
+within the compound open the gates.  
+
+MICHAEL ROMANOV 
+
+And here - the Prince of Thieves! 
+
+GREGOR TRETIAK sits in the back of the limousine, silently glaring at 
+
+Romanov. The limousine rolls inside the compound, the gates CLANGING 
+
+shut.  
+
+MICHAEL ROMANOV 
+
+Every citizen in St. Petersburg 
+
+knows what that man does, yet the 
+
+police don't arrest him. They 
+
+protect him! How can this be? 
+
+Maybe we should ask our elected 
+
+whores in Moscow! 
+
+The CROWD CHEERS WILDLY and starts hurling rocks, bottles, etc, through 
+
+the gate at -- 
+
+-- TRETIAK, emerging from the limousine. Tretiak's guards surround him; 
+
+they move quickly up the mansion's marble steps, dodging the thrown debris.  
+
+SIRENS WAIL. Four large police vans roar up, the back doors flinging open.  
+
+ST. PETERSBURG POLICE, in riot gear, deploy from the vans.  
+
+The police push into the crowd, wielding riot shields and batons. A melee 
+
+breaks out, Romanov supporters versus the police.  
+
+INT. TRETIAK' S HEADQUARTERS - EVENING 
+
+Tretiak and his men move past A GUARD STATION manned by TWO GUARDS 
+
+watching six SURVEILLANCE MONITORS (showing, at all times, certain areas of. the compound).  
+
+This is a former nobleman's residence; a 20 foot diameter CRYSTAL 
+
+CHANDELIER hangs from the domed roof fifty feet above. A spectacular 
+
+staircase ascends to a mezzanine, with offices (formerly bed chambers) off it.  
+
+Tretiak approaches a man in a lab coat, ZUBOV, wearing a grim, anxious 
+
+expression. Zubov chainsmokes constantly.  
+
+ZUBOV 
+
+There's a problem.  
+
+Tretiak follows Zubov down stairs into -- 
+
+INT. TRETIAK' S HEADQUARTERS - BASEMENT LABORATORY 
+
+-- a large room with TECHNICIANS hunched over computers.  
+
+Tretiak follows Zubov to a large bank of computers.  
+
+ZUBOV 
+
+(indicates computer) 
+
+This is the data your thief sent us.  
+
+Tretiak looks at Zubov's COMPUTER SCREEN.  
+
+INSERT - THE COMPUTER SCREEN. Again we see: 
+
+THE GENERATION OF ENERGY FROM COLD NUCLEAR FUSION 
+
+Submitted by: 
+
+DR. JILLIAN ST. THOMAS 
+
+BACK TO SCENE 
+
+TRETIAK 
+
+(confused) 
+
+Cold fusion? 
+
+ZUBOV 
+
+Yes. Fusion at room temperature.  Regarded as an impossibility by the scientific community. A myth.  
+
+(smiles) 
+
+Then I read this.  
+
+Zubov begins scrolling through the document; again we see the displav of graphs. tables. plans. Specs.. etc.  
+
+ZUBOV 
+
+She first proves why hot fusion - the tokamak - is impractical. You must heat the hydrogen gases so high, more energy is wasted than created. Here she goes into the benefits of cold fusion.  
+
+(scrolls more pages) 
+
+The hydrogen isotopes needed.  
+
+(scrolls more pages) 
+
+The physical plant. She even estimates its cost. Extraordinary.  
+
+(scrolls more pages) 
+
+The next pages are the critical part, what no one in fifty years has discovered.  
+
+(looks up at Tretiak) 
+
+The combination of chemicals in which atoms will fuse at room temperature.  
+
+Tretiak leans toward the screen, waiting.  
+
+TRETIAK 
+
+Well? Let's see.  
+
+ZUBOV 
+
+Tretiak - I think from reading 
+
+this that the woman's done it.  
+
+She may have found a source of 
+
+unlimited energy.  
+
+TRETIAK 
+
+What do you mean 
+
+may have. Show me.  
+
+ZUBOV 
+
+I said there was a problem.  
+
+Zubov hits the "scroll" key. The next page appears; we see the heading at the top of the page: THE CHEMICAL ENVIRONMENT FOR COLD FUSION 
+
+But there's something wrong with the rest of the page.  
+
+Terribly wrong. We know this because of  
+
+TRETIAK'S EXPRESSION, and it's not too happy.  
+
+TRETIAK 
+
+Where's the rest of it? 
+
+ZUBOV 
+
+It's in her head.
+
+and CUT TO: 
+
+INT. JILLIAN'S HOUSE - KITCHEN - MORNING 
+
+JILLIAN, humming the Cole Porter song from the previous evening, fills a basket with breakfast for two: eggs, bagels, etc. Sunlight streams in. Birds chirping.  
+
+She wears jeans and her jacket with the atomic diagram embroidered on the back. She grabs flowers from a vase; tosses them in the basket. Smiles.  
+
+INT. JILLIAN'S HOUSE - LIVING ROOM 
+
+She enters with the basket. Looks at the disheveled couch and the bottle of Oban. She hums the Cole Porter song, stabs her feet in THE SHOES TEMPLAR GAVE HER and goes to the front door.  
+
+EXT. JILLIAN'S HOUSE - FRONT 
+
+Jillian comes out, running into -- 
+
+YURI, her lab assistant, who comes up the front stoop. Mid-20's, heavy 
+
+Russian accent, white lab coat.  
+
+YURI 
+
+Good morning, boss.  
+
+Where are you going? 
+
+JILLIAN 
+
+To see a friend.  
+
+Be back in a couple hours.  
+
+She gets in her car.  Yuri gives her a look, goes inside.  
+
+INT. JILL IAN'S HOUSE - LIVING ROOM 
+
+Yuri enters. The foyer phone RINGS. Yuri answers.  
+
+YURI 
+
+Doctor St. Thomas' residence.  
+
+ILYA (o.s., in Russian) 
+
+There's been a change of plans.  
+
+Yuri stares at the phone and -- 
+
+CUT TO: 
+
+EXT. WESTCHESTER - TEMPLAR' S MANSION - MORNING 
+
+The huge estate, as before. Jillian's station wagon pulls into the circular driveway. Jillian gets out with the breakfast basket. Moves up the flagstoned walk.  
+
+Suddenly the front door opens. A WOMAN, mid-30's, pretty and well-dressed, comes out and locks the door.  
+
+JILLIAN watches her. The woman comes down the walk.  
+
+WOMAN 
+
+May I help you? 
+
+(beat) 
+
+Do you have an appointment? 
+
+JILLIAN 
+
+A what? 
+
+WOMAN 
+
+To see the house.  
+
+JILLIAN 
+
+The man who lives here...  
+
+who owns the house...  
+
+WOMAN 
+
+What man. The estate is rented 
+
+for weddings and corporate events.  
+
+Are you. ..interested...? 
+
+JILLIAN 
+
+No. No.  
+
+The rental agent gives Jillian a funny look and gets in her car. Drives off.  Jillian stares at the house, thunderstruck. Then she sharply inhales: 
+
+JILLIAN 
+
+Oh my god. ...  
+
+Jillian gets in her car.  
+
+CUT TO: 
+
+TEMPLAR'S COMPUTER screen, which reads: 
+
+******* NATIONAL BANK OF GENEVA ******* 
+
+PRIVATE UNMARKED ACCOUNTS 
+
+PLEASE ENTER SECURITY PASSWORD 
+
+INT. J.F.K. INT. - FIRST CLASS LOUNGE - CONTINUOUS 
+
+TEMPLAR sits in the British Air lounge. He has shaved and his eyeglasses are 
+
+gone; he looks like himself again. In the b.g., businessmen are relaxing, reading newspapers, drinking coffee. Over the intercom: 
+
+INTERCOM VOICE 
+
+Varig Air flight 157 to Rio 
+
+de Janeiro, departing at 8 a.m, 
+
+boarding now from gate seventeen.  
+
+Templar checks his wristwatch: It's 7:40 a.m.  
+
+Templar types in his password and waits.  
+
+On the screen, this: 
+
+******* NATIONAL BANK OF GENEVA ******* 
+
+ACCOUNT OF: TEMPLAR, SIMON 
+
+BALANCE (AS OF 8/15/95): U.S. $57,895,125.12 (the same balance since 
+
+London).  
+
+Templar frowns. Something's not right.  
+
+He hasn't been paid.  
+
+CUT TO: 
+
+INT. JILLIAN' SHOUSE - BACK HALLWAY - MORNING 
+
+Jillian runs down the hall, breath escaping her lungs.  
+
+JILLIAN 
+
+The supermarket, the flat tire, all a set-up. You fool. You fool.  
+
+(calls down the hall) 
+
+Yuri! 
+
+She unpockets her keyring, her hands trembling uncontrollably.  
+
+INT. JILLIAN'S HOUSE - LABORATORY - MORNING 
+
+Jillian races down the stairs and across the lab to her computer. She moves in a panic, as if in a living nightmare. She turns the computer on. She types in the code word, "kamakot," and her research paper appears on the screen. In the lower right corner it reads: LAST ENTERED: 10:23 p.m.  
+
+JILLIAN 
+
+No.. . ..  
+
+She sees something on the desk.  The NOTEPAD on which Templar wrote his notes.  The page is indented with Templar's pen marks; the words "tokamak" and "kamakot" are clearly visible.  
+
+JILLIAN 
+
+No, this can't be happening. Yuri! 
+
+(turns, calling) 
+
+YURI! 
+
+She jumps, startled, because YURI is right behind her.  
+
+He moves toward her and -- 
+
+CUT TO: 
+
+INT. J.F.K. INT. - FIRST CLASS LOUNGE - CONTINUOUS 
+
+WOMAN (o.s.) 
+
+Is that a good system? 
+
+A WOMAN, 40's, dowdy and serious in an accountant-like way, has sat down across from Templar. Points at Templar's computer.  
+
+TEMPLAR 
+
+Yes.  
+
+WOMAN ACCOUNTANT (o.s.) 
+
+Going to Europe? 
+
+(Templar ignores her) 
+
+Uhmm, I'm going for coffee.  
+
+Like some? It's really no trouble. ...  
+
+Okay lady, anything to get rid of you: 
+
+TEMPLAR 
+
+Sure. Black please.  
+
+She smiles and walks off to the coffee counter, passing A BUSINESSMAN, who sits down with a steaming cup of coffee and starts reading the WALL STREET JOURNAL.  
+
+Templar eyes the man, then looks back at his computer.  
+
+He begins typing. The phone modem engages.  
+
+Templar types: LION CONTACTING BEAR. IS BEAR HOME? 
+
+-- This comes back: AFFIRMATIVE. 
+
+-- Templar types: LION HAS NOT BEEN PAID. EXPLAIN. 
+
+-- This comes back: LION'S DATA IS DEFECTIVE. 
+
+-- Templar types: DEFINE "DEFECTIVE." 
+
+-- This comes back: LIONS EMPLOYMENT TERMINATED.  
+
+Templar stares at the screen, his mind racing...  
+
+THE ACCOUNTANT WOMAN comes back to the table with Templar's coffee.  
+
+Sets it before him. Smiles.  
+
+TEMPLAR 
+
+Thanks.  
+
+INTERCOM (v.o.) 
+
+British Air flight 74 to London 
+
+now boarding from gate fifteen.  
+
+I repeat, British Air Flight 74...  
+
+The Woman Accountant rises, picks up her bag.  
+
+WOMAN ACCOUNTANT 
+
+Well, that's me. So long.  
+
+She smiles. Templar sort of smiles back. She walks off to catch her flight.  THE BUSINESSMAN next to Templar, hidden behind his newspaper, sets his coffee cup down next to Templar's.  
+
+The Businessman flips a page, engrossed in an article.  
+
+He reaches back for his coffee, but takes Templar's cup.  
+
+He drinks from the cup.  
+
+TEMPLAR 
+
+Excuse me, that's my. . . .  
+
+The Businessman's newspaper is shaking. Violently. It falls to the table.  The Businessman's face is flushed. He twitches. He pitches over. His head THUDS on the table.  
+
+Templar feels the Businessman's carotid artery. He's dead. Templar picks up his coffee and smells it.  Templar's eyes dart to the lounge.  The Lady Accountant is gone.  Nobody in the lounge has noticed what's happened.  Templar hurriedly collects his things.  
+
+CUT TO: 
+
+EXT. WESTCHESTER - JILLIAN'S NEIGHBORHOOD - DAY 
+
+AN AIRPORT TAXI stops at the curb. Templar gets out, paying the cabbie. The taxi pulls away.  
+
+Templar approaches the house, eyes darting. He moves toward the door, 
+
+unpocketing his 9mm pistol. He checks the doorknob, turning it. It's open. ...  
+
+INT. JILLIAN'S HOUSE - DAY 
+
+Templar enters. No one is here. He moves through the living room into the back corridor, glancing into the kitchen, where we see that -- 
+
+INT. JILLIAN'S HOUSE - KITCHEN - DAY 
+
+-- SOMEONE is behind the refrigerator, holding a SILENCED GUN in a blackgloved 
+
+hand.  
+
+INT. JILLIAN'S HOUSE - BACK CORRIDOR - DAY 
+
+Templar moves through the hall, looking in each door.  
+
+He comes to the lab staircase. The door is open.  
+
+Templar heads down the stairs.  
+
+INT. JILLIAN'S HOUSE - LABORATORY - DAY 
+
+Templar comes down; he walks to the computer.  
+
+He looks at the document on the screen. He begins scrolling, going to the end 
+
+this time.  
+
+We see the graphs, tables, plans, specs., etc. Then the critical page appears: 
+
+THE CHEMICAL ENVIRONMENT FOR COLD FUSION 
+
+And under that. . . .. A NINTENDO GAME. Little spaceships are flying around chasing other little spaceships!  TEMPLAR stares at it, stunned: what he sent the Russians is essentially worthless. Templar shuts off the monitor. The screen blackens. The black screen reflects light. It reflects A PERSON coming down the stairs. A person with a gun...  
+
+Templar dives away as THREE BULLETS blow the computer monitor to shards.  
+
+THE WOMAN FROM THE J.F.K. LOUNGE, not an accountant but an assassin, 
+
+draws a bead on -- 
+
+TEMPLAR, who scrambles across the room ducking under lab tables as 
+
+BULLETS shatter bottles, beakers, test tubes; glass fills the air.  
+
+TEMPLAR stands up, his 9mm leveled at the woman.  
+
+The woman's gun is leveled at Templar. - 
+
+TEMPLAR 
+
+That's a Reuger nine shot.  
+
+I counted nine.  
+
+FEMALE ASSASSIN 
+
+What if you're wrong.  
+
+The tension boils. Templar was right: her hand flashes to the gun, ejecting the spent clip. She tries to ram in a fresh clip but she's not fast enough...  
+
+TEMPLAR'S across the room in half a second. He presses his gun to her 
+
+forehead.  
+
+TEMPLAR 
+
+When were you hired and for what? 
+
+I'm not in a very good mood...  
+
+Templar cocks the hammer. This gets her attention.  
+
+FEMALE ASSASSIN 
+
+Okay. Take it easy. I was hired a week ago to take you and the woman out, and detonate the house. It was empty when I got here.  
+
+TEMPLAR 
+
+Who's your employer? 
+
+FEMALE ASSASSIN 
+
+I don't ask names.  
+
+TEMPLAR 
+
+Did they have accents? Russian? 
+
+(she nods; he lowers his gun) 
+
+I'm paying you out of your contract.  
+
+Don't ask questions. What's your price? 
+
+FEMALE ASSASSIN 
+
+Fifty thousand for you, fifty 
+
+for her, fifty for the house.  
+
+Templar pulls out his wallet, from which he unfolds three pieces of negotiable paper. Hands them to her.  She examines them.  
+
+TEMPLAR 
+
+U.S. bearer bonds.  Good as cash.  
+
+FEMALE ASSASSIN 
+
+About the airport - no 
+
+offense you understand.  
+
+TEMPLAR 
+
+None taken. Go and 
+
+don't come back.  
+
+And she turns and walks off.  
+
+INT. JILLIAN'S HOUSE - BEDROOM 
+
+Templar enters, looking around, thinking. He looks in the bathroom. He looks in the closet. On the floor are Jillian's footwear: sneakers, pumps, cowboy boots, etc.  
+
+Right, Templar, the shoes...  
+
+TEMPLAR pulls out his HOMING DEVICE and clicks it on.  
+
+INSERT - HOMING DEVICE SCREEN 
+
+Like before, an electronic rendering of WESTCHESTER COUNTY. But no 
+
+pulsing light. Templar enters commands, adjusting the screen, widening it to GREATER NEW YORK.  Somewhere in Queens, fairly close to the Atlantic Ocean, we see a PULSING LIGHT. But it's fixed, inert.  
+
+The pulsing light begins to move east, quickly.  
+
+Templar watches it. The pulse is moving too quickly for an automobile. And it's heading for the ocean. And it goes in the ocean! 
+
+TEMPLAR 
+
+(dawning on him) 
+
+A. . . .plane.  
+
+Indeed, Simon Templar, a plane.  
+
+CUT TO: 
+
+INT. PRIVATE JET - IN FLIGHT OVER ATLANTIC 
+
+A mid-sized gulfstream. JILLIAN sits in a wheelchair, covered with a blanket.  
+
+She stirs. Mumbles something.  
+
+Slowly opens her eyes. Yuri approaches.  
+
+Yuri lifts away the blanket. Jillian's wrists are tied to the wheelchair armrests, 
+
+her ankles to the footrests.  
+
+Yuri produces a SYRINGE. He grabs Jillian's forearm and pushes in the needle.  
+
+Jillian's head bobs forward.  
+
+CUT TO: 
+
+INT. J. F. K. INTERNATIONAL - CONCOURSE 
+
+Templar hurries through the concourse with his carry-on bags, taking a left, 
+
+moving past sign: 
+
+AIR FRANCE CONCORDE - - - - > 
+
+INT. J.F.K. - "AIR FRANCE" - CONCORDE TERMINAL 
+
+The passengers are in a line, going through security. Templar walks up next 
+
+to A GUY IN A BROOKS BROTHERS SUIT. Stares at him. After a few seconds 
+
+of this...  
+
+BROOKS BROTHERS MAN 
+
+Can I help you with something? 
+
+TEMPLAR 
+
+Your ticket. What'd you pay for it? 
+
+BROOKS BROTHERS MAN 
+
+What? 
+
+TEMPLAR 
+
+I'll give you twenty grand for it.  
+
+Cash. Right now.  
+
+(they stop) 
+
+I need to get on that plane.  
+
+BROOKS BROTHERS MAN 
+
+Very badly obviously.  
+
+(studies Templar) 
+
+Fifty thousand and it's yours.  
+
+Templar rolls his eyes but the guy is unmoved.  Templar scowls and pulls out his bearer bonds...  
+
+CUT TO: 
+
+INT. MARSEILLES - AIRPLANE HANGAR - CONTINUOUS 
+
+A hangar at Marseilles' Marignane Airport. A MAN is sprawled inside the 
+
+engine cowling of a WWI classic BIWING FIGHTER. We only see his legs.  
+
+VOICE 
+
+Remy! Telephone.  
+
+REMY 
+
+(IN ENGINE COWLING) 
+
+Oui. Un moment.  
+
+REMY SAMARKAND, 40's, Algerian, pulls himself up and sits on the engine 
+
+cowling. Bandanna around neck.  Cigar. A tattoo here, a scar there...  
+
+COCO, a young mechanic, hands Remy a CELLULAR PHONE.  
+
+REMY SAMARKAND 
+
+Merci, Coco.  
+
+(Coco walks off) 
+
+Remy Samarkand Aeronautique, 
+
+Remy Samarkand.  
+
+TEMPLAR (v.o.) 
+
+I need a favour, Remy.  
+
+REMY SAMARKAND 
+
+(smiles) 
+
+Anything for Simon Templar...  
+
+CUT TO: 
+
+EXT. PARIS, FRANCE - CHARLES DE GAULLE AIRPORT - THREE HOURS LATER 
+
+The Concorde touches down as we SUPER: 
+
+CHARLES DE GAULLE INTERNATIONAL AIRPORT, PARIS, FRANCE 
+
+EXT. DE GAULLE AIRPORT - TARMAC 
+
+Templar, with his carry-on bags, and Remy Samarkand run across the tarmac toward a LEAR JET being fueled. In the b.g. sits the huge Concorde jet. They yell over the howling jet engines.  
+
+TEMPLAR 
+
+IT'S A LITTLE JET, MAYBE A TURBO 
+
+PROP. ENTERED SCOTLAND FIVE 
+
+MINUTES AGO, GO ING TO ST. PETERSBURG.  
+
+CAN WE GET TO IT BEFORE THEN? 
+
+REMY SAMARKAND 
+
+OUI . OVER FINLAND.  
+
+INT. REMY' S LEAR JET - MINUTES LATER 
+
+THE HOMING DEVICE - The screen shows a MAP OF EUROPE. Two locations 
+
+are pulsing: 1) Remy's jet, moving north from Paris; and 2) The jet carrying Jillian, moving across Scotland heading due east.  
+
+The plane is in flight. Templar's homing device and mini-computer sit on the cockpit console.  
+
+TEMPLAR 
+
+What are you smuggling these days? 
+
+REMY SAMARKAND 
+
+Oh, things. How long has it been  
+
+two year? Three? Now tell me: 
+
+what's so important about this plane? 
+
+TEMPLAR 
+
+Fifteen million dollars 
+
+of my money.  
+
+(picks up cellular phone) 
+
+And a score to settle.  
+
+Templar punches numbers and CUT TO: 
+
+EXT. EAST BERLIN - DAY 
+
+The city's decrepid industrial section. PANNING PAST buildings we come to the facade of "APEX ELECTRONICS," the only well-maintained building on the block.  
+
+A throbbing drum-beat is heard within...  
+
+INT. EAST BERLIN - APEX ELECTRONI CS - DAY 
+
+Organized. Spotless. You could eat off the floor. A STEREO plays GERMAN 
+
+TECHNO-ROCK at a zillion decibals.  
+
+A COMMUNICATIONS SATELLITE hangs from a hoist. BERTA FRANK (hereafter 
+
+"FRANKIE), late 20's, blonde spiky hair, pretty in a sort of dangerous way, is soldering a panel of transistors to the satellite.  
+
+A wall-mounted T.V. plays a news program.  
+
+GERMAN NEWS ANCHOR 
+
+(German) 
+
+In Russia, Michael Romanov has 
+
+been accused of inciting riots and 
+
+violence in St. Petersburg...  
+
+The phone RINGS. Frankie grabs it.  
+
+FRANKIE 
+
+Ja.  
+
+TEMPLAR (v.o.) 
+
+How's the weather in Berlin, Frankie? 
+
+FRANKIE 
+
+Simon? Where are you? 
+
+INTERCUT - SIMON IN REMY' S PLANE / FRANKIE IN BERLIN 
+
+TEMPLAR 
+
+Unimportant. How soon can 
+
+you be in St. Petersburg? 
+
+Frankie looks at her wristwatch.  
+
+FRANKIE 
+
+Five hours. What type of job? 
+
+TEMPLAR 
+
+Eyes and ears. Two hundred 
+
+thousand cash for two days work.  
+
+FRANKIE 
+
+Who's the mark? 
+
+TEMPLAR 
+
+Gregor Tretiak. His headquarters.  
+
+His office in particular.  
+
+Frankie lights a cigarette. Thinks.  
+
+FRANKIE 
+
+Gregor Tretiak is not a very 
+
+nice man, Simon. Four 
+
+hundred thousand.  
+
+TEMPLAR 
+
+Deal. Now listen, Frankie...  
+
+DISSOLVE TO: 
+
+INT. THE RUSSIAN GULFSTREAM - DAY 
+
+Four hours later. Jillian sits, head bowed, unconscious. Yuri sits opposite. He is nodding off.  If only Jillian could wake up...  
+
+The PILOT shouts back.  
+
+PILOT 
+
+We're over Helsinki.  
+
+Yuri wakes, sits upright. Yawns.  
+
+INT. REMY'S LEAR JET - DAY 
+
+Remy's peering out the window. Sees something.  
+
+REMY SAMARKAND 
+
+Simon, there! 
+
+Two miles ahead, THE RUSSIAN JET roars past, heading east toward St.  
+
+Petersburg. Remy jerks the stick, banking into a right turn behind the Russian jet. Remy 
+
+looks at his ALTITUDE GAUGE.  
+
+REMY SAMARKAND 
+
+They're descending.  
+
+Remy looks at Templar; Templar nods back.  
+
+Remy pushes the stick; the Lear jet begins descending.  
+
+INT. THE RUSSIAN GULFSTREAM - DAY 
+
+Jillian sits, still unconscious. Or is she?  
+
+JILLIAN' S POV - THROUGH SLITTED EYES 
+
+Through the tiniest slit of eye, so as not to appear conscious, Jillian looks at Yuri, then at TWO PARACHUTES shelved above the emergency exit.  
+
+BACK TO SCENE - YURI stands up and stretches. He goes to the window and 
+
+looks out.  [Wheelchair trivia: wheelchair armrests are removable, enabling a patient to 
+
+transfer himself from the chair to a regular chair, or car seat, etc...] 
+
+JILLIAN'S RIGHT HAND (photographed in extreme close-up under the 
+
+blanket) pulls out the PIN securing the armrest to the wheelchair. She lifts the armrest, separating the aluminum tubing, freeing her right wrist.  
+
+INT. REMY'S LEAR JET - DAY 
+
+Through the windshield is the RUSSIAN GULF STREAM.  
+
+Remy, his headset on, turns to Templar.  
+
+REMY 
+
+The St. Petersburg tower wants us to circle.  
+
+TEMPLAR 
+
+No. Follow them down.  
+
+REMY 
+
+What do we do when we land? 
+
+TEMPLAR 
+
+Haven't figured that out yet.  
+
+INT. THE RUSSIAN GULFSTREAM - DAY 
+
+The aircraft is tilted forward in descent.  
+
+The PILOT shouts back to Yuri: 
+
+PILOT 
+
+(Russian, subtitled) 
+
+Prepare for landing.  
+
+The Pilot shuts the cockpit door.  
+
+Suddenly JILLIAN'S EYES are open; her hands are free and she's throwing off 
+
+the blanket and gripping the wheels.  
+
+She pushes; the wheelchair bursts forward.  
+
+YURI gets to his feet; the wheelchair slams against his shins. Jillian WHIPS 
+
+the detached armrest across Yuri's head. Yuri falls backward, dazed.  
+
+Jillian rolls to the emergency door, one hand yanking open the door, the other 
+
+grabbing a PARACHUTE from the shelf. Wind howls through the cabin.  
+
+Jillian gets the parachute on. Her ankles are still bound to the footrests. To 
+
+hell with it, she'll lose the wheelchair in mid-air. She pushes forward as -- 
+
+-- YURI lunges across the floor, grabbing the wheels. JILLIAN AND THE CHAIR 
+
+teeter on the edge of emergency door exit, half in, half out.  
+
+Yuri clings to the chair wheels. His body jerks forward. He's sliding on his 
+
+stomach. Jillian and the chair are pulling him out. Terror in Yuri's eyes. He 
+
+grabs for the door frame. His fingers slip.  
+
+Jillian, the wheelchair, and Yuri hanging from the wheelchair, plunge from the 
+
+aircraft.  
+
+INT. REMY' S LEAR JET - DAY 
+
+Templar's bagging his computer and homing device.  
+
+REMY suddenly clutches his arm.  
+
+REMY 
+
+Simon.  
+
+Templar looks up.  
+
+TEMPLAR' S /REMY' S POV - THROUGH WINDSHIELD JILLIAN AND YURI fall from the aircraft.  
+
+INT . THE RUSS IAN GULFSTREAM 
+
+The pilot, looking down at Jillian and Yuri, clicks on his short-wave radio: 
+
+PILOT 
+
+We have a problem.  
+
+EXT. SKIES OVER ST. PETERSBURG - DAY 
+
+JILLIAN freefalls in the wheelchair, her ankles still bound to the chair's 
+
+footrests. YURI is beneath her, clutching the wheels. He tries to pull himself 
+
+up.  
+
+JILLIAN yanks the rip-cord; a plume of silk spills out and Jillian and the chair 
+
+SLINGSHOT UP, decelerating from 120 m.p.h. to 20 m.p.h. in two seconds.  
+
+Yuri can't take the "G" force; his hands rip away from the chair. He 
+
+plummets, SCREAMING, and 3000 feet later he will hit concrete in St.  
+
+Petersburg.  
+
+Jillian pulls out the footrest pins (the footrests separate from the chair in the 
+
+same manner), freeing her ankles. The chair releases, falling away.  
+
+INT. REMY' S JET - CONTINUOUS 
+
+Templar turns to the cockpit storage hatches behind him.  
+
+He yanks open one designated: PARACHUTES.  
+
+REMY SAMARKAND 
+
+Don't! 
+
+TWO HUGE TOUCANS fly out of the hatch.  
+
+They flap around the cockpit.  
+
+Templar looks askance at Remy...  
+
+TEMPLAR 
+
+Remy...  
+
+REMY SAMARKAND 
+
+I get ten grand for them in Paris.  
+
+Maybe a Russian would pay more? 
+
+Templar grabs a PARACHUTE PACK and races to the back of the plane. He 
+
+YANKS OPEN the EMERGENCY EXIT DOOR. Cold air blasts his face.  
+
+TEMPLAR 
+
+Put down in Helsinki 
+
+and wait for my call! 
+
+And Templar jumps and -- 
+
+CUT TO: 
+
+EXT. ST. PETERSBURG - STREETS 
+
+An autumn day in Peter the Great's city.  
+
+Peaceful. Normal. Pedestrians walk the streets.  
+
+[note: St. Petersburg is called "Venice of the North" because it's built atop 
+
+marshy islands connected by canals. There are over 400 bridges; on the 
+
+canals, boat traffic is often as dense as automobile traffic.] 
+
+A WOMAN, glancing up, notices something.  
+
+WOMAN (Russian) 
+
+Look.  
+
+(points skyward) 
+
+Look! 
+
+Other pedestrians stop. They, too, look up at -- 
+
+A PARACHUTIST (Jillian of course) descending into the heart of the city! 
+
+And down she comes, landing hard in the middle of an intersection. TAXIS 
+
+and AUTOMOBILES swerve aside, nearly killing her. Others SCREECH to a 
+
+stop.  
+
+JILLIAN gets to her feet, wild-eyed and frantic, tangled in cord and parachute 
+
+silk. She looks around at -- 
+
+CROWDS OF PEDESTRIANS staring at her.  
+
+JILLIAN 
+
+Help me. I'm American. Police! 
+
+A ST. PETERSBURG POLICE CRUISER comes through the intersection to a 
+
+stop. A YOUNG COP, just 20, hangs up his c.b. radio and gets out. He 
+
+approaches Jillian.  
+
+EXT. ST. PETERSBURG - PETER AND PAUL FORTRESS CITY PARK 
+
+Across the Neva River from Jillian is a city park with a HUGE EQUESTRIAN STATUE OF PETER THE GREAT.  Under the statue, two OLD RUSSIAN GEEZERS are playing chess, smoking 
+
+pipes, arguing, etc.  
+
+Down TEMPLAR comes. The parachute snags on the BRONZE HORSE'S HEAD.  
+
+Templar dangles 15 feet off the ground. He looks at the GEEZERS directly below. Hello there.  
+
+TEMPLAR 
+
+Sorry about this.  
+
+He shrugs off the parachute pack and falls, landing on the chess board, 
+
+scuttling the pieces. The Geezers fall backward on their behinds.  
+
+Templar gets to his feet, gaining his bearings, looking for Jillian. He takes off running.  
+
+INT. POLICE SEDAN, DRIVING - CONTINUOUS - DAY 
+
+Jillian sits in the back seat, catching her breath. The Young Cop looks at her in the rear-view mirror.  
+
+JILLIAN 
+
+Do you speak English? 
+
+YOUNG RUSSIAN COP 
+
+Yes. Some.  
+
+JILLIAN 
+
+Thank God.  
+
+(takes a deep breath, composes herself) 
+
+I'm an American scientist. Last night, in New York, a man stole something from me, then this morning I was kidnapped by my lab assistant, god this sounds like a bad novel . . . . .  
+
+Suddenly a ROCK bounces off the windshield.  
+
+JILLIAN 
+
+What was that? 
+
+EXT. ST. PETERSBURG STREETS - DAY 
+
+The police cruiser moves past A THRONG OF MICHAEL ROMANOV 
+
+SUPPORTERS carrying placards and banners. They begin pelting the cruiser with rocks and bottles.  
+
+INT. POLICE CRUISER - DAY 
+
+The cruiser clears the Romanov supporters.  
+
+Rocks and bottles smash on the back windshield.  
+
+YOUNG RUSSIAN COP 
+
+There could be revolution maybe.  
+
+City very dangerous.  
+
+IN THE INTERSECTION AHEAD - TWO OTHER POLICE CRUISERS pull into the 
+
+street, blocking it.  The Young Russian Cop brakes; the cruiser comes to a stop in front of the other cruisers.  
+
+An OLDER RUSSIAN COP, followed by a PLAINCLOTHESMAN, approach the 
+
+young cop's cruiser.  
+
+EXT. TROITSKY BRIDGE - CONTINUOUS - DAY 
+
+TEMPLAR sprints across the Neva River Bridge connecting the Peter and Paul Park with downtown St. Petersburg.  
+
+He suddenly stops short, seeing -- 
+
+TEMPLAR' S POV - TWO BLOCKS AWAY 
+
+-- JILLIAN in the cruiser, the Older Cop and the plainclothesman approaching.  
+
+EXT. ST. PETERSBURG - INTERSECTION - DAY 
+
+The Older Cop leans in the window.  
+
+OLDER COP 
+
+(Russian) 
+
+Is this her? 
+
+YOUNG COP 
+
+(Russian) 
+
+Yes sir Sergeant Ravik.  
+
+The plainclothesman emerges from behind the Older Cop.  
+
+In one shocking, effortless motion, he places a silenced handgun to the Young 
+
+Cop's head and squeezes the trigger. Blood spatters the windshield.  
+
+JILLIAN gasps in horror at the plainclothesman. It is...ILYA.  
+
+The Older Cop opens the door, shoving the Young Cop's corpse to the 
+
+passenger side. Ilya gets in back next to Jillian, pressing the HANDGUN into her ribs. The cruiser ROARS off into St. Petersburg traffic.  
+
+EXT. AT THE FOOT OF TROITSKY BRIDGE - CONTINUOUS 
+
+TEMPLAR looks around. He sees A MOTORCYCLE STAND filled with MOTORCYCLES. Runs to it. Chooses a big, powerful, Honda street machine.  
+
+He pulls out his burglar's tools; jams one in the ignition. He has it running in seconds. He throws it in gear and ROARS off.  
+
+EXT. ST. PETERSBURG STREETS - CONTINUOUS - DAY 
+
+Templar blasts through traffic on the Honda. He's on a street parallel to Jillian's.  
+
+AT AN INTERSECTION Templar looks to his right, where he can see, one block over on the parallel street -- 
+
+THE POLICE CRUISER moving through traffic.  Templar guns the motorcycle. The engine WHINES. He races ahead, 
+
+accelerating through the gears.  AT THE NEXT INTERSECTION - TEMPLAR throws the cycle into a skidding, hair-raising turn.  He's going 'round the block to cut off the sedan.  
+
+EXT. ST. PETERSBURG INTERSECTION - DAY 
+
+The police cruiser moves through the intersection.  Suddenly TEMPLAR'S MOTORCYCLE, Templar-less, veers into the path of the cruiser. The cruiser hits it head on. The motorcycle rides up the cruiser's hood and smashes through the front windshield. The cruiser careens out of control. It fishtails twice and crashes into A STREETLIGHT POLE.  
+
+INT. THE POLICE CRUISER - DAY 
+
+UP FRONT, the Older Cop is unconscious; he's taken the full brunt of the motorcycle through the windshield.  
+
+IN THE BACK, Ilya is groggy, semi-conscious. JILLIAN is reeling also; there's a gash on her forehead.  The BACK PASSENGER DOOR jerks open. TEMPLAR lunges inside.  Ilya raises his gun but he's weak, disoriented. Templar yanks it from his hand and pistol whips him.  This has all happened so fast.  Jillian looks at Ilya then at Templar...  
+
+JILLIAN 
+
+What...? WHO...? 
+
+And Templar yanks Jillian out.  
+
+EXT. ST. PETERSBURG INTERSECTION - CONTINUOUS - DAY 
+
+The intersection is chaos: PEDESTRIANS running up, surrounding the police cruiser, vehicles stopping, etc.  
+
+Templar, virtually dragging Jillian, plows through the crowd, passing a 
+
+Russian Army Corporal who's just gotten out of his ARMY SUPPLY TRUCK.  
+
+RUSSIAN ARMY CORPORAL 
+
+(Russian) 
+
+Let me help! 
+
+TEMPLAR 
+
+(Russian) 
+
+(pointing back at the police sedan) 
+
+Help them! 
+
+The Corporal runs to the smashed cruiser, and -- 
+
+TEMPLAR and JILLIAN run to the Corporal's SUPPLY TRUCK.  
+
+INT. RUSSIAN ARMY SUPPLY TRUCK - DAY 
+
+The driver's side door opens. In comes Jillian, then Templar. Templar shoves Jillian across the front seat and gets in, behind the wheel. He floors it.  
+
+They accelerate into traffic. Templar looks at Jillian. She's trembling, staring 
+
+catatonically straight ahead.  
+
+JILLIAN 
+
+Who are you. Tell me who you 
+
+are and what the hell is going on.  
+
+TEMPLAR 
+
+I was hired to steal your research, 
+
+but you know that by now. You left the critical 
+
+data off the disk.  
+
+Where is it? memorized, right? 
+
+(she doesn't answer) 
+
+That's a bad cut. Here.  
+
+He hands her his HANDKERCHIEF. She swats it away.  
+
+TEMPLAR 
+
+Look, you're in big trouble.  
+
+The guy who hired me will do anything 
+
+to get your research. Once he has it, you're a 
+
+corpse. Give me the missing data and I'll get 
+
+you out of here. You can trust me.  
+
+She stares at him in disbelief.  
+
+JILLIAN 
+
+Trust you? 
+
+(chews the word) 
+
+Trust you...? 
+
+She grabs the door handle and yanks it open. Templar grabs her arm, pulling her back. They wrestle back and forth...  
+
+TEMPLAR 
+
+Damn it, don't be stupid...! 
+
+She picks up the CORPORAL'S STEAMING CUP OF COFFEE, sitting in a holder 
+
+on the console between them, and throws it in Templar's face.  
+
+TEMPLAR 
+
+ARGGH! 
+
+Templar recoils, blinded, releasing Jillian. He jerks the steering wheel to the side and stomps on the brakes.   JILLIAN lunges out before the supply truck fully stops. She hits the pavement running. She hurries off, blending into the crowded sidewalk.  
+
+EXT. ST. PETERSBURG - STREETS 
+
+Templar gets out, cursing, wiping the hot liquid from his eyes. He looks around. Runs off in Jillian's direction, abandoning the supply truck.  
+
+CUT TO: 
+
+EXT. ST. PETERSBURG - LOMONOSOVA AVENUE 
+
+Templar, running, out of breath, rounds a corner onto Lomonosova Avenue, in the city's shopping district. It's jammed with PEDESTRIANS, SHOPPERS, MERCHANTS, etc. Templar moves through the crowd, eyes scanning left and right. There's no sign of Jillian.  
+
+Then he sees her.  
+
+Just a glimpse. 50 yards ahead. Moving through the crowded sidewalk toward the FONTANKA (the largest and most beautiful of the city's grand canals).  
+
+EXT. LOMONOSOVA AVENUE - FONTANKA CANAL BRIDGE - SUNSET 
+
+Templar runs over the Fontanka Canal Bridge. Nothing. He comes back the 
+
+other way. Nothing.  
+
+He stops in the middle of the bridge, exhausted, out of breath. Below him, 
+
+passing under the bridge, all types of WATER CONVEYANCES (skiffs, barges, 
+
+dinghies, etc) are navigating the canal.  
+
+And emerging from underneath the bridge, seated in the back of a WATER 
+
+TAXI,...is Jillian.  Templar races off the bridge.  
+
+EXT. FONTANKA CANAL - EMBANKMENT PROMENADE - SUNSET 
+
+Templar sprints down the sidewalk promenade next to the canal. The water 
+
+taxi is 50 yards past the bridge.  
+
+JILLIAN sees him coming.  
+
+TEMPLAR closes the gap. 30 yards. 20 yards. Now 10. Now he's running 
+
+alongside the taxi, staring at Jillian.  
+
+And she stares back at him, stony, expressionless.  
+
+The canal is wider now, and the water taxi accelerates, pulling away from the 
+
+slower skiffs.  
+
+Templar slows to a jog. He stops, lungs heaving. The sun is setting to the 
+
+west.  
+
+The water taxi speeds off into the setting sun, leaving Templar with this 
+
+image of Jillian: eyes unblinking, staring at him with pure, unadulterated 
+
+hatred.  
+
+CUT TO: 
+
+EXT. ST. PETERSBURG - NEVSKY PROSPECT - NIGHT 
+
+Night is falling. Down the street from Tretiak's headquarters, A FEDERAL 
+
+EXPRESS VAN rolls up to a traffic light.  
+
+INT. FEDERAL EXPRESS VAN - NIGHT 
+
+FRANKIE has arrived in St. Petersburg. She sits at the wheel in a Federal 
+
+Express uniform. She pulls out a charge of C-4 plastique with a timer. She 
+
+opens the van door; tosses it into a sidewalk TRASH RECEPTACLE.  
+
+She accelerates through the light, now green, and takes a left into TRETIAK' S 
+
+HEADQUARTERS, parking behind a LIMOUSINE which has just entered.  
+
+The limousine's doors open. Several dark-suited men get out. One of them is 
+
+IVAN GRACHA (the Russian mafia figure shown on the C.N.N. broadcast).  
+
+INT. TRETIAK'S OFFICE - NIGHT 
+
+A MAP OF ST. PETERSBURG AND OUTLYING REGIONS is spread out on 
+
+Tretiak's desk. Tretiak, Ilya, Zubov, and ten men are present.  
+
+ILYA 
+
+There could be another solution.  
+
+The woman is not-the only scientist 
+
+working in this field. Is she? 
+
+Tretiak turns to Zubov, who nods.  
+
+ZUBOV 
+
+No. There are others.  
+
+TRETIAK 
+
+Get on a plane. Leave tonight.  
+
+The door opens. Zero, the huge bodyguard, enters.  
+
+ZERO 
+
+Gracha is here.  
+
+Tretiak goes immediately to his desk, pressing the "RECORD" BUTTON on a 
+
+v.c.r. within. The surveillance camera in Tretiak's office begins taping the 
+
+meeting.  
+
+IVAN GRACHA and six bodyguards enter.  
+
+GRACHA 
+
+This had better be important.  
+
+It's my wife's birthday.  
+
+TRETIAK 
+
+My apologies to your wife.  
+
+GRACHA 
+
+An apology from Tretiak? 
+
+An historic moment.  
+
+TRETIAK 
+
+(placating) 
+
+Come now, Ivan, why must we feud.  
+
+GRACHA 
+
+We feud because we hate each other.  
+
+TRETIAK 
+
+It is true there have been harsh 
+
+words between us. We are rivals. But rivalry 
+
+is bad for business. Upon what conditions would 
+
+you accept a partnership? Be reasonable.  
+
+GRACHA 
+
+Fifty percent of the drug trade 
+
+in St. Petersburg and Moscow. A third of 
+
+prostitution and gambling.  
+
+TRETIAK 
+
+Agreed.  
+
+(they shake hands) 
+
+I need the men in your areas, Ivan, 
+
+for two days. Particularly Moscow 
+
+and points South.  
+
+GRACHA 
+
+Why? 
+
+Tretiak hands TWO PHOTOGRAPHS to Gracha. One is of JILLIAN, taken 
+
+somewhere in Westchester, wearing her "atomic" jacket. The second is an 
+
+Interpol photo taken of TEMPLAR in a cafe in Amsterdam.  
+
+TRETIAK 
+
+To find this woman...  
+
+and kill this man.  
+
+GRACHA 
+
+(smiles) 
+
+This is a private matter, I take it.  
+
+(Tretiak smiles) 
+
+Then you'll have them.  
+
+TRETIAK 
+
+Ilya - some wine for Ivan Gracha.  
+
+INT. TRETIAK' S HEADQUARTERS - NI GHT 
+
+TWO GUARDS man the guard station, eyeing the bank of six video monitors.  
+
+Frankie enters with a big DELIVERY BOX.  
+
+FRANKIE (Russian) 
+
+Delivery.  
+
+Frankie hands Guard 1 the box and hands Guard 2 a clipboard for his 
+
+signature. Frankie looks at the surveillance monitors and raises an eyebrow.  
+
+ON TRETIAK'S OFFICE MONITOR - we see Tretiak with Ivan Gracha raising a 
+
+toast. In the screen's lower corner are the letters "REC." The meeting is being 
+
+taped.  
+
+EXT. NEVSKY PROSPECT - NIGHT.  
+
+THE C-4 in the trash receptacle blows. It blows up TWO CARS and A TREE. A 
+
+monstrously concussive explosion.  
+
+INT. TRETIAK' S OFFI CE 
+
+Gracha drops his wine glass; it shatters on the floor. Gracha and his men 
+
+unholster their weapons. Tretiak's men go for theirs. A tense stand-off.  
+
+GRACHA 
+
+What is this, Tretiak? 
+
+TRETIAK 
+
+Put your guns down.  
+
+Tretiak goes to his desk; stabs an intercom button -- 
+
+INT. TRETIAK'S HEADQUARTERS - NIGHT 
+
+The guards, save one, barge out the front door. The remaining guard answers 
+
+the intercom, leaving FRANKIE unattended by the surveillance monitors.  
+
+Her hand moves to THE CO-AXIAL CABLE behind the video monitors, yanking 
+
+it. She plugs a TRANSMITTOR into the monitor, then replugs the co-axial 
+
+cable into the transmitter. The guard turns to Frankie.  
+
+FRANKIE 
+
+What was that? 
+
+DISSOLVE TO: 
+
+EXT. ST. PETERSBURG - STREET - NIGHT 
+
+TEMPLAR stands in a shop doorway. He pulls out his homing device. Adjusts 
+
+the screen.  
+
+INSERT - THE HOMING DEVICE 
+
+The computerized screen now shows the ST. PETERSBURG CITY GRID. Two 
+
+pulses: 1) a fixed pulse (Templar) and 2) a moving pulse (Jillian) on the other 
+
+side of town.  
+
+Templar turns his collar up; walks off into the night.  
+
+EXT. ST. PETERSBURG - STREETS - NIGHT 
+
+TEMPLAR comes down a street in a scummy part of town. A GUY in a doorway 
+
+swigs a vodka bottle, looking dangerously at Templar. A few PROSTITUTES 
+
+pass.  
+
+Templar pulls out the homing device.  
+
+INSERT - THE HOMING DEVICE - The MOVING PULSE is one block from 
+
+Templar, emanating from inside a huge building, the NEVSKY RAIL STATION.  
+
+BACK TO SCENE - Templar pockets the homing device and walks across the 
+
+street to the train station.  
+
+INT. NEVSKY STATION - MAIN CONCOURSE - NIGHT 
+
+An enormous facility, 100 yards long with a vaulted ceiling and entrances at 
+
+the north and south ends.  
+
+Templar-enters from the north, looking around. He walks quickly to the center 
+
+of the station concourse.  
+
+STATION LOUDSPEAKER (v.o.) 
+
+Next train to Moscow boarding on platform 8.  
+
+Templar approaches Platform 8. Passengers are boarding the next train to 
+
+Moscow. Against the wall, a gang of ten PROSTITUTES are smoking, drinking 
+
+vodka, laughing.  
+
+Templar freezes.  
+
+JILLIAN is with the prostitutes. Her back's to Templar, but it's her. Same 
+
+"atomic" jacket, the shoes Templar gave her, same height, same weight. ...  
+
+Templar isn't the only one who's spotted her...  
+
+TWO MEN IN BLACK TRENCHCOATS, obviously Tretiak's men, are converging 
+
+upon Jillian from the other direction. They haven't yet seen Templar...  
+
+Templar moves off quickly, drawing his gun. As Tretiak's men move in for the 
+
+kill.  
+
+TEMPLAR falls in behind them, WHIPPING the barrel of his gun over one, then 
+
+the other. They fall, unconscious. The PROSTITUTES, alarmed, whirl around 
+
+and...  
+
+...It's not Jillian.  
+
+Templar, thunderstruck, looks at THE PROSTITUTE'S feet. She's wearing 
+
+JILLIAN'S SHOES and JACKET. On her wrist is JILLIAN'S WRISTWATCH.  
+
+Templar turns. The TRAIN TO MOSCOW is pulling out of the station. ...  
+
+Templar sprints away, back toward the station concourse. It's all clear now; 
+
+Jillian sold her clothes and watch and bought a ticket to Moscow.  
+
+EXT. NEVSKY STATION - NIGHT 
+
+AUTOMOBILES are parked in front of the station. Templar picks a B.M.W. out 
+
+come the burglar's tools. Templar's through the door lock in two seconds. He 
+
+gets in and shoves a tool in the ignition lock.  
+
+CUT TO: 
+
+INT. TEMPLAR'S STOLEN B.M.W. - NIGHT 
+
+Templar speeds down the highway, moving in and out of traffic. His cellular 
+
+phone chirps. He unpockets it, clicks it on.  
+
+FRANKIE 
+
+Simon. Good news.  
+
+INT. ST. PETERSBURG - HOTEL ROOM - NIGHT 
+
+In the b.g. through a window, we see Tretiak's headquarters looming down 
+
+the street.  
+
+Frankie sits in front of six VIDEO MONITORS like those in Tretiak's 
+
+headquarters; they are receiving the video transmissions from Tretiak's 
+
+surveillance cameras. We see exteriors, Zubov's lab, corridors, etc.  
+
+Frankie is looking at A MONITOR OF TRETIAK'S OFFICE; Tretiak is pacing, 
+
+talking on the phone.  
+
+FRANKIE 
+
+They haven't found her and 
+
+they don't know where she is.  
+
+INTERCUT - FRANKIE IN HOTEL/TEMPLAR DRIVING 
+
+TEMPLAR 
+
+She's on a train to Moscow.  
+
+FRANKIE 
+
+That's bad news. They're 'stopping 
+
+every train leaving the city.  
+
+TEMPLAR 
+
+Call you later, Frankie.  
+
+Templar tosses the phone and jerks the wheel. The B.M.W. veers wildly 
+
+across three lanes of traffic, swerving off the highway down an exit ramp.  
+
+CUT TO: 
+
+EXT. ROAD SOUTH OF ST. PETERSBURG - NIGHT 
+
+The St. Petersburg city outskirts. Templar's B.M.W. rounds a corner onto a 
+
+two-lane road running next to the Moscow line train tracks.  
+
+INT. TEMPLAR'S B.M.W - NIGHT 
+
+Templar stares ahead through the windshield.  
+
+TEMPLAR'S POV - THE TRAIN TRACKS - A half mile ahead is a street crossing.  
+
+We see the blinking caboose lights of the TRAIN TO MOSCOW. It's stopped at 
+
+an intersection in front of TWO BLACK SEDANS parked across the tracks.  
+
+INT. TRAIN TO MOSCOW - NIGHT 
+
+JILLIAN sits alone, looking around nervously, wondering why the hell the 
+
+train's stopped. Her hair is brushed over the gash on her forehead. She wears 
+
+the prostitute's ratty jacket and shoes.  
+
+INT. TRAIN TO MOSCOW - FRONT CARS 
+
+Two of Tretiak's men enter the first passenger car, heads swiveling back and 
+
+forth, checking every passenger's face.  
+
+EXT. TRAIN TO MOSCOW - REAR CAR - NIGHT 
+
+Templar runs up to the rear passenger car.  
+
+INT. TRAIN TO MOSCOW - FRONT CARS - NIGHT 
+
+Tretiak's men come through the third car.  
+
+INT. TRAIN TO MOSCOW - REAR CARS - NIGHT 
+
+Templar comes the other way looking for Jillian. Through one car and into the 
+
+next.  
+
+He sees JILLIAN. This time it is her.  
+
+INT. TRAIN TO MOSCOW - FRONT CARS - NIGHT 
+
+On come Tretiak's men, into another car. They're one car away now...  
+
+INT. TRAIN TO MOSCOW - JILLIAN'S CAR 
+
+JILLIAN sits up in her seat; she looks through the connecting door into the 
+
+next car, which TRETIAK'S MEN are entering. She rises to flee, running into -- 
+
+-- TEMPLAR. Jillian's eyes bulge. She's going to scream. Templar clamps her 
+
+mouth and shoves her forward to the exit door which opens to the parallel 
+
+tracks.  
+
+Templar wrenches open the door and sticks his head outside, looking down 
+
+the tracks. We hear a TRAIN WHISTLE and RUMBLING WHEELS.  
+
+Templar comes back inside. TRETIAK'S MEN are half-way through the next 
+
+car and approaching fast.  
+
+TEMPLAR 
+
+We're going to jump. Okay? 
+
+Jillian, terrified, wide-eyed, nods. And they jump.  
+
+EXT. TRAIN TO MOSCOW - PARALLEL TRACKS 
+
+Templar and Jillian lunge from the train onto the parallel tracks. A train 
+
+whistle BLARES. Jillian looks up; her face contorts with shock at -- 
+
+A TRAIN bearing down on them at 60 m.p.h. 100 feet.  
+
+Now 70. 50. Jesus, it's right on top of them...  
+
+TEMPLAR grabs her hand and yanks her across the tracks with 10 feet to go.  
+
+The TRAIN SCREAMS past them.  
+
+INT. TRAIN TO MOSCOW - DAY 
+
+TRETIAK'S MEN enter the car where Jillian was. Outside, the St. Petersburg 
+
+train flashes by, blocking any view of Templar and Jillian on the other side of 
+
+the tracks.  
+
+They continue down the aisle, into the next car.  
+
+EXT. TRAIN TO MOSCOW - PARALLEL TRACKS 
+
+The train to St. Petersburg is gone. Jillian stares at Templar with hateful eyes.  
+
+He gets up and yanks her to her feet. Pulls her back toward the train to 
+
+Moscow.  
+
+INT. TRAIN TO MOSCOW - REAR CAR - NIGHT 
+
+A GERMAN BUSINESSMAN is having a heated conversation on a cellular 
+
+phone. Outside, we see TRETIAK'S MEN walking toward their vehicles.  
+
+Templar and Jillian enter the private berth across from the businessman. It 
+
+has reclining chairs and a curtain for privacy. The train BEGINS MOVING 
+
+again.  
+
+Templar and Jillian sit, regarding each other.  
+
+TEMPLAR 
+
+You can't get rid of me.  
+
+JILLIAN 
+
+Like a bad flu.  
+
+TEMPLAR 
+
+Pretty smart, selling the clothes and 
+
+watch. You were going for the U.S.  
+
+embassy, weren't you? 
+
+JILLIAN 
+
+Present tense please  
+
+I 
+
+am
+
+ going.  
+
+Before we discuss the present, 
+
+let's discuss the past.  
+
+She stares hard, malevolently at him.  
+
+JILLIAN 
+
+Who the hell are you. I want 
+
+full name, address, profession, 
+
+and don't - don't - say Michael Quinn 
+
+of 112 Mason Street, shoemaker.  
+
+TEMPLAR 
+
+My name is Simon Templar.  
+
+I don't have an address because I 
+
+live in hotels. I'm a professional thief.  
+
+JILLIAN 
+
+Good. We're getting somewhere.  
+
+I'd like to respond to that.  
+
+The German Businessman is looking at them.  
+
+Jillian pulls the curtain shut.  
+
+Then she SLAPS Templar, hard, across the face.  
+
+JILLIAN 
+
+You wicked man.  
+
+(slaps him again.  
+
+You liar.  
+
+(slaps him again) 
+
+Thief.  
+
+She draws back to slap him again.  
+
+He catches her arm.  
+
+They freeze this way, faces inches apart.  
+
+She's trembling, her face a mask of hatred.  
+
+JILLIAN 
+
+I hope you rot in hell.  
+
+He lets go of her. She stands up.  
+
+TEMPLAR 
+
+Where are you going? 
+
+JILLIAN 
+
+As far away from 
+
+you as I can.  
+
+Templar pulls out his 9mm pistol.  
+
+TEMPLAR 
+
+Sit down.  
+
+Jillian stares at the gun.  
+
+JILLIAN 
+
+You're joking.  
+
+TEMPLAR 
+
+Michael Quinn jokes. I don't.  
+
+She glares at him. Slowly sits. Templar pulls out his cellular phone.  Punches numbers.  
+
+TEMPLAR 
+
+Remy. Be at Moscow Airport 
+
+at eight a.m., fueled and ready to go.  
+
+Templar clicks off the phone and pockets it. Then he pockets the gun, its 
+
+barrel pointing at Jillian through his jacket. With his free hand he grabs her 
+
+arm and puts it under his arm, clamping it to his body.  
+
+TEMPLAR 
+
+We're going to sit here and not 
+
+make a scene. I'd get some rest.  
+
+Templar leans back, shutting his eyes.  
+
+TEMPLAR 
+
+I sleep light.  
+
+Jillian, out of the corner of her eye, notices something through the curtain...  
+
+ACROSS THE AISLE - THE GERMAN BUSINESSMAN is folding up his cellular 
+
+phone and stuffing it in his satchel briefcase on the floor. He leans back and 
+
+closes his eyes. The satchel briefcase sticks into the aisle.  
+
+Close enough for Jillian to touch...  
+
+DISSOLVE TO: 
+
+EXT. BENARES, INDIA - ESTABLISHING - MORNING 
+
+The exquisite, astonishing city on the Ganges River.  
+
+EXT. BENARES - UNIVERSITY OF BENARES 
+
+A courtyard in the traditional Indian style. Zubov and two of Tretiak's men 
+
+approach a building.  
+
+Zubov rings the doorbell. Seconds pass. The door opens. An Indian gentleman 
+
+peers out.  
+
+He's about 50, in a madras shirt and nehru jacket. This is DR. VIJAY SINGH, 
+
+whose taped lecture we heard in Jillian's station wagon.  
+
+ZUBOV
+
+Dr. Singh? Dr. Vijay Singh? 
+
+VIJAY SINGH 
+
+Who are you and what do you want? 
+
+ZUBOV 
+
+My name is Vapin Zubov. I would 
+
+like to discuss something with...  
+
+VIJAY SINGH 
+
+(scowls) 
+
+Come back at a decent hour...  
+
+Dr. Singh begins to shut the door. Zubov puts his hand in the door, jamming 
+
+it.  
+
+ZUBOV 
+
+I would like to discuss cold fusion, Doctor.  
+
+Dr. Singh's demeanor changes. Pushes open the door.  
+
+VIJAY SINGH 
+
+Come in.  
+
+CUT TO: 
+
+INT. THE TRAIN TO MOSCOW - MORNING 
+
+PASSENGERS are yawning, pulling up their window blinds. Sunlight streams in. A PORTER passes by. .  
+
+PORTER 
+
+Thirty minutes to Moscow, 
+
+thirty minutes...  
+
+The Porter moves past the German Businessman; he's asleep and snoring.  
+
+Across the aisle -- 
+
+JILLIAN'S EYES are darting from the German Businessman, to TEMPLAR, 
+
+who's looking out the window.  
+
+JILLIAN 
+
+I need to use the ladies' room.  
+
+I think you can trust me to...  
+
+TEMPLAR 
+
+I don't trust anybody.  
+
+Jillian gives Templar a disgusted look. She rises and moves into the aisle.  
+
+Ternplar follows.  
+
+JILLIAN 
+
+Tell me something.  
+
+How much were you paid? 
+
+TEMPLAR 
+
+It's not your business. Move.  
+
+JILLIAN 
+
+I think it is.  
+
+C'mon. Tell me.  
+
+TEMPLAR 
+
+Fifteen million dollars, 
+
+but it didn't work out. Did it.  
+
+They pass a PORTER serving snacks (fruits and cheeses) from a cart. Jillian looks' at the cart.  
+
+JILLIAN 
+
+Does it bother you? What you do? 
+
+TEMPLAR 
+
+No.  
+
+JILLIAN 
+
+You have no conscience? 
+
+No sense of morality? 
+
+TEMPLAR 
+
+Define morality.  
+
+JILLIAN 
+
+It's a commonly used and 
+
+generally understood word.  
+
+TEMPLAR 
+
+Not by me. .  
+
+They've arrived outside the LADIES ROOM. Jillian opens the door, begins to 
+
+enter.  
+
+TEMPLAR 
+
+Wait.  
+
+JILLIAN 
+
+You are not going in there with me.  
+
+Templar brushes past her, leaving the door open.  
+
+He steps up on the toilet, examining the WINDOW above.  
+
+JILLIAN 
+
+Okay, how about: Do unto others 
+
+as they would do unto you.  
+
+TEMPLAR 
+
+How about: Do unto others 
+
+before they do unto you.  
+
+Templar pulls up the window. It opens only five inches; it's prevented from 
+
+rising further by TWO SAFETY SCREWS drilled through the frame.  
+
+JILLIAN 
+
+How about: love thy neighbor.  
+
+TEMPLAR 
+
+The man who said that was 
+
+crucified by his.  
+
+Satisfied, Templar steps down and walks back to Jillian. She shakes her head, 
+
+laughs mirthlessly.  
+
+JILLIAN 
+
+Were you raised by wolves? 
+
+Who were your parents, Lucretia 
+
+Borgia and the Marquis de Sader 
+
+TEMPLAR 
+
+The two people in question weren't 
+
+as nice as that. I wouldn't know.  
+
+I never met them. Are you through? 
+
+It's all yours.  
+
+She gives him a look and shoves past him into -- 
+
+THE LADIES ROOM Jillian enters, closes the door and locks it. She stands on the toilet and examines the window. Sees the safety screws. She steps down.  
+
+She turns on the sink, then kneels and pulls up her pantleg, revealing THE 
+
+GERMAN BUSINESSMAN'S CELLULAR PHONE stuffed in her sock. She pulls it 
+
+out.  
+
+She turns the sink on full blast, creating as much noise as she can, and 
+
+punches numbers.  
+
+JILLIAN 
+
+International operator please.  
+
+(pause) 
+
+The American Embassy in Moscow, please.  
+
+Jillian waits for the call to connect and CUT TO: 
+
+INT. TRAIN TO MOSCOW - FRONT CAR - AISLES 
+
+Jillian exits the ladies' room.  
+
+JILLIAN 
+
+You really will rot in hell, 
+
+know that? 
+
+TEMPLAR 
+
+Good, all my friends will be waiting for me.  
+
+They move down the aisle, passing the SERVING PORTER, Jillian's hand 
+
+dangles over the fruit and cheese cart.  
+
+She plucks up a SERVING KNIFE with two fingers and slides it up her sleeve.  
+
+JILLIAN 
+
+Friends? I thought you trusted 
+
+no one.  
+
+TEMPLAR 
+
+I don't. Give it to me.  
+
+JILLIAN 
+
+(innocently) 
+
+What.  
+
+TEMPLAR 
+
+The knife you just took.  
+
+Jillian sighs. Pulls the serving knife out of her sleeve and hands it over. When 
+
+she turns back toward her berth, she doesn't like what she sees -- 
+
+THE GERMAN BUSINESSMAN has woken up. He's yawning, opening up a 
+
+stack of business correspondence sitting on the armrest of his chair with a 
+
+LETTER OPENER.  
+
+JILLIAN continues down the aisle, sweating it out. If the guy discovers that 
+
+his phone is missing...  
+
+Each step is a mile.  
+
+Finally Jillian and Templar come to their berth. The German Businessman is 
+
+reading a letter. The letter opener is sitting on the stack of unopened letters.  
+
+Jillian "accidentally" knocks the stack of letters and letter opener off the 
+
+armrest. They fall to the floor next to the German Businessman's satchel 
+
+briefcase.  
+
+Jillian quickly drops to a kneeling position and begins gathering up all the 
+
+letters.  
+
+JILLIAN 
+
+I'm so sorry! 
+
+As Jillian rises and hands the German Businessman his letters, we see that  
+
+THE CELLULAR PHONE is back in the German Businessman's satchel 
+
+briefcase.  
+
+Templar and Jillian sit down.  
+
+CUT TO: 
+
+EXT. MOSCOW - GORKY STATION, TRAIN PLATFORM - MORNING 
+
+The train pulls into the station.  
+
+INT. TRAIN TO MOSCOW - MORNING 
+
+The Porter comes down the aisle, calling out: 
+
+PORTER 
+
+Moscow Station, Moscow Station! 
+
+Templar and Jillian move with the other passengers toward the exits. As they 
+
+pass the ladies' room: 
+
+JILLIAN 
+
+Give me a second, will you? 
+
+I don't feel well.  
+
+TEMPLAR 
+
+Make it quick.  
+
+Jillian goes in the bathroom.  
+
+INT. TRAIN TO MOSCOW - LADIES' ROOM 
+
+Jillian enters and stands on the toilet. Out comes the German Businessman's 
+
+LETTER OPENER. She centers the opener in one of the screw heads, leans into 
+
+it, and twists. She begins unscrewing it.  
+
+INT. TRAIN TO MOSCOW - AISLE OUTSIDE LADIES' ROOM 
+
+Templar is impatiently looking at the ladies' room door.  
+
+The passengers are filing past him.  
+
+He knocks on the door.  
+
+INT. TRAIN TO MOSCOW - LADIES' ROOM 
+
+Jillian's got one screw out. The other is coming. Templar KNOCKS again.  
+
+JILLIAN 
+
+Just a second.  
+
+INT. TRAIN TO MOSCOW - AISLE OUTSIDE LADIES' ROOM 
+
+Templar knocks again, LOUDER. No response inside.  
+
+The German Businessman passes by him...  
+
+GERMAN BUSINESSMAN 
+
+Porter, I seem to have lost my letter opener...  
+
+Templar stares at the guy.  
+
+INT. TRAIN TO MOSCOW - LADIES ROOM 
+
+The door SMASHES open, splintering the lock. Templar bursts in. Something 
+
+instantly gets his attention.  
+
+The fully opened window. And no Jillian... Templar bolts out.  
+
+CUT TO: 
+
+INT. MOSCOW - GORKY STATION, MAIN CONCOURSE - MORNING 
+
+Jillian hurries up the escalator to the main concourse. A stupendous, vaulted 
+
+interior. As impressive as Grand Central in New York or Victoria in London.  
+
+She moves through the crowd. Eyes scanning everything and nothing. She 
+
+bumps into A COMMUTER, who scowls.  
+
+Jillian takes cover by one of the immense marble pillars. She pulls her collar 
+
+up. Waits it out.  
+
+ACROSS THE CONCOURSE - A MAN studies her. He's tall, blonde, looks like he 
+
+played linebacker for Ohio State.  
+
+He approaches. She eyes him. Everyone is a potential enemy. But this guy is 
+
+obviously American.  
+
+BLONDE MAN 
+
+Ms. St. Thomas? Jillian? 
+
+JILLIAN 
+
+Yes.  
+
+The Blonde Man opens his wallet, flipping out his EMBASSY BADGE and C. I. A. CREDENTIALS.  
+
+WHITEHEAD 
+
+John Whitehead, Special Agent, 
+
+Central Intelligence Agency.  
+
+Was your trip all right? 
+
+JILLIAN 
+
+Yes it was fine, oh who cares, 
+
+I'm finally safe...  
+
+(squeezes his hand) 
+
+Do you have a car? 
+
+WHITEHEAD 
+
+Yes, outside. First I'd like to ask 
+
+you some questions. That was an interesting 
+
+story you told the embassy.  
+
+JILLIAN 
+
+Interesting? It's true.  
+
+WHITEHEAD 
+
+Please understand: the United States 
+
+Embassy receives fifty calls a day.  
+
+My husband's been murdered, 
+
+my daughter's been sold into white slavery, 
+
+you get the idea. So before we waste a lot of people's 
+
+time, Ms. St. Thomas, you say you have p.h.d.s 
+
+in chemistry and nuclear physics.  
+
+What's the atomic symbol for, say. ..gold? 
+
+Pause. Jillian stares at Whitehead.  
+
+JILLIAN 
+
+You've gotta be kidding me...  
+
+CUT TO: 
+
+INT. MOSCOW - GORKY STATION - TRAIN PLATFORM - MORNING 
+
+Templar dashes across the platform, looking everywhere. Jillian has vanished.  
+
+Suddenly his cellular phone chirps. He unpockets it and clicks it on.  
+
+TEMPLAR 
+
+Talk to me, Frankie.  
+
+INT. ST. PETERSBURG - FRANKIE'S HOTEL ROOM - MORNING 
+
+FRANKIE, red-eyed and drinking coffee, is staring at the video transmission 
+
+from Tretiak's office. Tretiak and Ilya are talking. .  
+
+INTERCUT BETWEEN THE TWO (as deemed necessary) 
+
+FRANKIE 
+
+She called the U.S. Embassy a 
+
+half hour ago.  
+
+TEMPLAR 
+
+What? 
+
+(considers this) 
+
+Does Tretiak know? 
+
+FRANKIE 
+
+Simon, the U.S. Embassy has more leaks 
+
+than a Polish submarine. Who do you 
+
+think intercepted the call? 
+
+As FRANKIE says that, she doubletakes at the monitor showing Tretiak's 
+
+office. Frankie's eyes widen.  
+
+ON THE VIDEO MONITOR - A THIRD MAN has entered the room.  
+
+It is the crusading reformer, MICHAEL ROMANOV.  
+
+Frankie stabs a button on a tape recorder next to her monitors. It begins 
+
+taping the transmission from Tretiak's office.  
+
+TEMPLAR 
+
+Thanks, Frankie.  
+
+FRANKIE 
+
+Simon, wait. . . .  
+
+CLICK.  
+
+Frankie turns some dials, bringing into ZOOM FOCUS Tretiak and Romanov.  
+
+She ups the volume. We hear this: 
+
+TRETIAK 
+
+Hail Michael Romanov, Czar of the 
+
+Fatherland. How will that sound 
+
+to the average Russian? 
+
+FRANKIE 
+
+(a whisper) 
+
+I don't believe it...  
+
+CUT TO: 
+
+INT. MOSCOW - GORKY STATION - ESCALATOR - DAY 
+
+TEMPLAR runs up the escalator, plowing through the disembarking 
+
+passengers, taking two stairs at a time.  
+
+INT. MOSCOW - GORKY STATION, MAIN CONCOURSE - MORNING 
+
+Templar comes off the escalator. The place is packed with COMMUTERS. He 
+
+moves off, eyes darting in all directions for Jillian, while meanwhile  
+
+ACROSS THE CONCOURSE, BY THE PILLAR - CONTINUOUS 
+
+JILLIAN 
+
+. ..Cd, that's big "C" little "d," 
+
+cadmium's valence is 2, its atomic number 
+
+is 48 and its atomic weight is 112.411 or 
+
+would you like that carried out five more decimal 
+
+places? Good enough? 
+
+WHITEHEAD 
+
+(smiles) 
+
+Good enough. Come this way, 
+
+Ms. St. Thomas.  
+
+He ushers her off.  
+
+As they move from behind the pillar, 50 yards away -- 
+
+ACROSS THE CONCOURSE - TEMPLAR sees Jillian and Whitehead. He looks around, thinking.  He sprints for the side exit.  
+
+EXT. MOSCOW - GORKY STATION - MAIN ENTRANCE/EXIT - DAY 
+
+The circular drive where travelers are picked up and deposited by taxis, 
+
+buses, automobiles.  
+
+Jillian and Whitehead exit the station.  
+
+AHEAD - TWO MERCEDES SEDANS are waiting. Several darksuited MEN stand 
+
+next to an open back door.  
+
+JILLIAN 
+
+(shakes her head) 
+
+What a nightmare.. To think my 
+
+work could just be taken from me...  
+
+WHITEHEAD 
+
+You're safe now, Doctor St. Thomas.  
+
+We'll have you back in New York in no time.  
+
+They continue toward the parked Mercedes.  
+
+Suddenly Jillian blinks. She sees something.  
+
+It's TEMPLAR, driving a Russian sedan. He rolls to a stop across the circular 
+
+drive, staring a hole right through Jillian, grimly shaking his head at her, 
+
+trying to warn her...  
+
+JILLIAN 
+
+Agent Whitehead...  
+
+Whitehead looks at Jillian.  
+
+Pause. Jillian eyes Templar across the drive.  
+
+AGENT WHITEHEAD 
+
+Yes? 
+
+Jillian looks at the men waiting by the Mercedes. She looks at two Moscow 
+
+police officers standing to the side. Something's wrong. Something doesn't 
+
+feel right.  
+
+AGENT WHITEHEAD 
+
+Ms. St. Thomas? 
+
+You had a question? 
+
+They're drawing closer to the waiting Mercedes...  
+
+JILLIAN 
+
+Nothing, I was just thinking that 
+
+when my research was stolen I felt like 
+
+the Buffalo Bills after they lost four World Series.  
+
+WHITEHEAD 
+
+Hah hah, I bet you did. I'm a baseball 
+
+fan too hah hah...  
+
+Jillian looks at him differently.  
+
+The Buffalo Bills lost four Super Bowls, Whitehead.  
+
+They continue toward the waiting sedans.  
+
+JILLIAN'S EYES dart around. Her forehead is sweaty.  
+
+And she bolts from him, taking Whitehead by surprise.  
+
+JILLIAN sprints across the circular drive for Templar's car, Whitehead after 
+
+her. The men by the waiting Mercedes converge on Jillian from the side.  
+
+TEMPLAR throws open the passenger side door for Jillian.  
+
+The men coming from the Mercedes open fire on Templar, blowing in the 
+
+sedan's side window. Templar ducks.  
+
+JILLIAN'S almost there...  
+
+She reaches the open sedan and dives inside.  
+
+She tries to shut the door; WHITEHEAD gets hold of it.  
+
+JILLIAN SCREAMS at Templar.  
+
+JILLIAN 
+
+Go! 
+
+Templar floors it. The car SQUEALS away from the curb. Whitehead runs 
+
+alongside, trying to get the door open.  
+
+The car accelerates. Whitehead sprints but can't keep up. His feet leave the 
+
+ground; he clings to the doorframe through the blown-out window.  
+
+Whitehead pulls his gun from his shoulder holster and aims across Jillian's 
+
+body at Templar. His finger 
+
+squeezes the trigger as Jillian shoves his hand up.  
+
+BULLETS blow holes in the roof of the car.  
+
+JILLIAN hits Whitehead, hard, in the head.  
+
+Whitehead's head snaps back. She hits him again.  
+
+Whitehead falls away from the car.  
+
+He rolls twenty feet and stops, dazed but alive.  
+
+INT. TEMPLAR' S STOLEN SEDAN - DAY 
+
+Templar guns the sedan through a RED LIGHT. Cars to the left and right 
+
+SCREECH to a stop. The sedan flies on...  
+
+JILLIAN 
+
+TAKE ME TO THE EMBASSY.  
+
+TEMPLAR 
+
+We're going to the airport.  
+
+Templar guns the accelerator.  
+
+EXT. MOSCOW - GORKY STATION - CIRCULAR DRIVE - DAY 
+
+The TWO MERCEDES pull up to Whitehead, who staggers to his feet. He gets 
+
+in the lead Mercedes; the two cars race off after Templar and Jillian.  
+
+INT. TEMPLAR'S STOLEN SEDAN - DAY 
+
+Templar floors it through another intersection. he looks in his rear view 
+
+mirror. There's no sign of the two Mercedes. They've escaped.  
+
+TEMPLAR 
+
+Good.  
+
+JILLIAN 
+
+Is it? Who's worse  
+
+them or you? 
+
+Templar looks down and registers shock -- 
+
+- - IN THE INTERSECTION AHEAD, A BLIND MAN with a walking stick is tap 
+
+tapping across the intersection.  
+
+Jillian cringes, expecting the worst. Templar throws the steering wheel and -- 
+
+EXT. MOSCOW - INTERSECTION - DAY 
+
+-- The sedan swerves, clearing the BLIND MAN by two inches, skidding wildly 
+
+through the intersection.  
+
+INT. TEMPLAR'S STOLEN SEDAN - DAY 
+
+Templar fights the wheel but he's losing...  
+
+The skid can't be corrected. Jillian SCREAMS.  
+
+EXT. MOSCOW - INTERSECTION - DAY 
+
+The sedan slides sideways, hits the curb and flips over, spinning like a top 
+
+across the sidewalk.  
+
+CUT TO: 
+
+INT. WHITEHEAD'S MERCEDES - DAY 
+
+The Mercedes moves through traffic. Whitehead and the other men look 
+
+around. The Mercedes rounds a corner.  
+
+Across the intersection is the OVERTURNED SEDAN on the sidewalk, 
+
+surrounded by gawking PEDESTRIANS.  
+
+EXT. MOSCOW - INTERSECTION 
+
+The Mercedes pulls up. Whitehead and his men get out. They warily approach 
+
+the sedan, drawing guns. The pedestrians back off, getting the hell out of the 
+
+way.  
+
+Whitehead and his men surround the car. They kneel, guns trained 
+
+inside...Templar and Jillian are gone.  
+
+Whitehead barks at his men.  
+
+WHITEHEAD 
+
+Fifteen block radius.  
+
+Go house to house.  
+
+Whitehead looks around at the surrounding buildings. We FOCUS on one of 
+
+them, a RUSSIAN ORTHODOX CHURCH several blocks away, under scaffolding 
+
+and mesh wire, in the process of renovation. CAMERA pushes in on the 
+
+church's HUGE ONION SHAPED TURRET. . . . .  
+
+INT. MOSCOW - RUSSIAN ORTHODOX CHURCH 
+
+... and we're in the turret's interior: round, with stained glass windows, a desk 
+
+and chair. A trap door leading to the vestibule below BANGS OPEN.  
+
+JILLIAN comes up, followed by Templar, his gun in hand.  
+
+They're cut and bruised, exhausted.  
+
+Jillian slumps against the wall, shivering.  
+
+Templar puts his equipment on the desk and goes to each of the windows.  
+
+From this elevation he can see the entire city.  
+
+TEMPLAR'S FIRST POV - RED SQUARE, a mile across town, where a thousand 
+
+Muscovites are listening to a pro Michael Romanov speech.  
+
+Shifting from Red Square to the city outskirts, we see MOSCOW 
+
+INTERNATIONAL AIRPORT, where Remy waits.  
+
+TEMPLAR'S SECOND POV - THE UNITED STATES EMBASSY is just a few blocks 
+
+away - we see the American flag flying from the roof stanchion.  
+
+In the intersections around the embassy, Tretiak's men stand by their 
+
+vehicles, watching. Every point of access to the embassy is sealed.  
+
+We see WHITEHEAD. A Mercedes pulls up to him. ILYA gets out.  
+
+TEMPLAR 
+
+The embassy's surrounded.  
+
+BACK TO SCENE - JILLIAN 
+
+is staring at Templar's computer. The modem is engaging. JILLIAN sits up, 
+
+staring at the screen.  
+
+Jillian reads an ELECTRONIC MESSAGE which appears: 
+
+BEAR CONTACTING LION.  
+
+GIVE HER TO ME.  
+
+IN RETURN, 20 MILLION AND SAFE PASSAGE.  
+
+IF YOU REFUSE YOU WILL DIE.  
+
+Jillian's eyes grow wide with terror.  
+
+Templar looks out a third window.  
+
+TEMPLAR'S THIRD POV - Tretiak's men are going building to building in a 
+
+fifteen block radius sweep, closing in on the church.  
+
+TEMPLAR 
+
+The airport's out. They're drawing a 
+
+noose around us. We don't have much time.  
+
+TEMPLAR turns away from the window.  He sees Jillian looking at his computer.  He walks over to it and reads the message.  Jillian gets slowly to her feet, watching Templar.  JILLIAN's mouth quivers as Templar types: LION CONSIDERING OFFER.  Templar looks at Jillian. She stares back. A long moment. Neither moves.  
+
+JILLIAN 
+
+What are you going to do? Tell me.  I deserve at least that.  
+
+(desperate now) 
+
+I'll die. If you take their offer, they'll kill me.  
+
+TEMPLAR 
+
+And if I don't, they'll kill me.  
+
+Interesting situation I'd say.  
+
+Jillian sinks to the chair, her voice shaking.  
+
+JILLIAN 
+
+Oh god. It's over, it's all over...  You're not human. You're an animal.  
+
+TEMPLAR 
+
+I'm a businessman. I perform services for profit. And spare me the lecture. You didn't spend ten years in that mildewed basement for the good of humanity, you did it to get rich. Richer than anyone on earth. Richer than God.  
+
+(beat) 
+
+I'll make you an offer - pay me my fifteen million out of your royalties - should come to about one month's. . .
+
+Pause. She slowly looks up at him.  
+
+JILLIAN 
+
+I don't hold the patent rights to cold fusion.  
+
+TEMPLAR 
+
+What? 
+
+JILLIAN 
+
+You fool. Don't you understand? 
+
+(her voice cracks; she begins to softly cry) 
+
+It wasn't about money, it wasn't about becoming rich...  
+
+TEMPLAR 
+
+If you don't own the patent rights, who does? 
+
+JILLIAN 
+
+A foundation in my name. The royalties 
+
+were going to go to scientific research, 
+
+curing cancer, .. .christ how can you understand this...  
+
+She lowers her head, weeping openly.  
+
+CAMERA PUSHES in on Templar, staring at her. Even the darkest of men have a seed of goodness. Here, for the first time, does it flower in Simon Templar.  
+
+But we don't know this. Templar betrays nothing.  
+
+He picks up his homing device and clicks it on.  
+
+He types in this command: MOSCOW.  
+
+The device beeps; THE MOSCOW STREET GRID appears.  
+
+He types a new command: SUBTERRANEAN DATA.  
+
+Moscow's SUBTERRANEAN GRID appears superimposed over the street grid; 
+
+we see the guts of the city; the Moscow subway, water and gas mains, etc. In a corner of the screen is a TABLE OF SCHEDULES.  
+
+Templar analyzes the information on the screen.  
+
+He quickly rises; goes to Jillian, pulling off his belt.  
+
+He pulls her up. She stands limply, still weeping, no longer resisting. He's 
+
+bigger and stronger, there's no use. Templar gathers Jillian's wrists together 
+
+and ties them with the belt.  
+
+He pulls her to the trapdoor and CUT TO: 
+
+EXT. MOSCOW - SIDEWALK 
+
+Several pedestrians walk by. Templar walks Jillian quickly to a MANHOLE 
+
+COVER. He kneels and hoists the cover off. He points into the hole.  
+
+Jillian, her wrists bound, steps down uneasily, her feet finding the top rung of 
+
+a STEEL LADDER. She descends into the manhole. Templar follows.  
+
+INT. MOSCOW - SUBTERRANEAN SEWER SYSTEM - DAY 
+
+Jillian and Templar come down the ladder, dropping to the steel-gridded 
+
+walkway over the Moscow sewer.  
+
+Templar pulls Jillian twenty feet down the walkway.  
+
+At this point in the wall there is a HATCH with a compression HATCHWHEEL, 
+
+the turning of which opens the hatch, like on a submarine.  
+
+Within the hatch we hear RUSHING WATER.  
+
+TEMPLAR 
+
+That's a municipal water main.  
+
+In one hour you're going in there.  
+
+Templar pulls out a SWITCHBLADE. Clicks it on.  
+
+Jillian, shivering with terror, stares at the blade...  
+
+TEMPLAR 
+
+Listen. They shut it down twice a 
+
+day for five minutes to clean the filters.  
+
+Once at noon, once at midnight. Noon is in one hour.  
+
+JILLIAN 
+
+How do you know all this? 
+
+TEMPLAR 
+
+Part of my job. Now ask the logical question...  
+
+JILLIAN 
+
+.. . where does it go? 
+
+TEMPLAR 
+
+Very good. Under the United States Embassy.  
+
+There's an exit hatch into the embassy 
+
+courtyard. That's where we're going.  
+
+JILLIAN 
+
+We...? 
+
+Templar lowers his gun. He lowers the blade to her wrists and cuts the belt.  
+
+TEMPLAR 
+
+You heard me.  
+
+A long pause. They stare at each other.  
+
+JILLIAN 
+
+Then what happens? 
+
+TEMPLAR 
+
+Let's get to the embassy, 
+
+then we'll talk about it.  
+
+JILLIAN 
+
+Templar - about that night at my house... 
+
+TEMPLAR 
+
+Don't talk about it, okay? 
+
+He turns away from her. She watches him.  
+
+JILLIAN 
+
+Okay.  
+
+CUT TO: 
+
+EXT. MOSCOW - RED SQUARE - CONTINUOUS - DAY 
+
+The Michael Romanov supporters are marching past the Kremlin with 
+
+PLACARDS BEARING ROMANOV'S FACE, chanting: 
+
+KARPOV MUST GO! Ahead, awaiting them, are -- 
+
+Two units of MOSCOW POLICE in riot gear. A POLICE SERGEANT clicks on a 
+
+megaphone.  
+
+MOSCOW POLICE SERGEANT
+
+Disperse. Disperse! 
+
+On come the Romanov supporters. Rocks start flying. The Romanov 
+
+supporters push into the line of police. The police push back with shields and truncheons.  A melee breaks out. The Romanov supporters surge past the police. It is a wild, uncontrolled, chaotic scene.  
+
+EXT. MOSCOW - THE UNITED STATES EMBASSY - DAY 
+
+ROMANOV SUPPORTERS flood past the embassy gates, chased by Moscow 
+
+Policemen. Fights rage allover the street. A full-fledged riot is breaking out.  OVERTURNED CARS are burning. LOOTERS run through the streets with stolen goods. We hear the sporadic CRACKLE of small arms fire.  
+
+IN THE U. S. EMBASSY COURTYARD 
+
+A U. S. MARINE and ARMY GREEN BERET detachment, grimfaced and heavily 
+
+armed, stand silent vigil inside the embassy's wrought-iron gates.  
+
+COLONEL WILLIAM CROSBY, embassy c.o., exits the embassy and 
+
+approaches the front gates. A FULL BEER BOTTLE smashes at his feet, 
+
+showering him.  
+
+COLONEL CROSBY 
+
+Jesus H. Christ.  
+
+ACROSS THE STREET FROM THE U. S. EMBASSY 
+
+Ilya and his men stand next to their vehicles, silently watching the embassy.  
+
+CUT TO: 
+
+INT. MOSCOW SEWER SYSTEM - DAY 
+
+The WHOOSHING water in the municipal water main begins to subside. Templar looks at this watch.  
+
+INSERT - TEMPLAR'S WRISTWATCH - it is exactly 12 noon.  
+
+TEMPLAR 
+
+Right on time.  
+
+The water subsides to a trickle. Templar grips the hatchwheel and turns it.  Opens the hatch. Residual water spills out onto the walkway.  Templar pulls himself into the water main. He extends his hand to Jillian.  Jillian looks uncertainly inside.  
+
+TEMPLAR 
+
+Four blocks. Right under Tretiak's men 
+
+and up into the embassy compound. You can do this.  
+
+She grabs Templar's hand. He pulls her up and inside -- 
+
+INT. MOSCOW - MUNICIPAL WATER MAIN - DAY 
+
+-- a four foot diamater pipe. Templar pulls out a PENLIGHT, switches it on and 
+
+sticks it between his teeth. On hands and kneess Templar and Jillian move off 
+
+through the water main.  
+
+INT. MUNICIPAL WATER MAIN - EXIT HATCH UNDER STREET 
+
+Templar and Jillian crawl up. Templar shines his penlight at the ceiling; AN 
+
+EXIT HATCH WITH HATCHWHEEL is above them.  
+
+JILLIAN 
+
+It doesn't seem like we've gone far enough.  
+
+TEMPLAR 
+
+We haven't, up there's the street in 
+
+front of the embassy.  
+
+(looks at his wristwatch) 
+
+Come on. We've got two minutes.  
+
+They crawl off through the water main.  
+
+INT. MUNICIPAL WATER MAIN UNDER EMBASSY 
+
+Templar and Jillian crawl toward A SECOND EXIT HATCH.  
+
+TEMPLAR 
+
+There it is.  
+
+They reach the exit hatch. They look at it.  Jillian trembles.  
+
+JILLIAN 
+
+Oh my god...  
+
+The EXIT HATCH has no hatchwheel. It's sealed.  
+
+Jillian, panicked, looks down the water main.  
+
+JILLIAN 
+
+We. ...we've got to go back.  
+
+TEMPLAR 
+
+(checks his watch) 
+
+Not enough time.  
+
+(thinks) 
+
+The hatch under the street.  
+
+JILLIAN 
+
+What about Tretiak's men ... 
+
+TEMPLAR 
+
+Better than drowning.  
+
+They scramble off.  We hear WHOOSHING WATER coming down the pipe.  
+
+JILLIAN 
+
+The water's back on! 
+
+Back they go, crawling as fast as they can.  
+
+INT. MUNICIPAL WATER MAIN - EXIT HATCH UNDER STREET 
+
+Templar and Jillian reach the exit hatch under the street. Templar grips the 
+
+hatchwheel as -- 
+
+THE WATER ROARS through the pipe, hitting Jillian flush, blowing her 
+
+backward; she desperately clings to Templar's shoulders as he spins the 
+
+hatchwheel.  The water rises mercilessly. There's a foot of air, then six inches, then just three, then none at all, and they're under water...  TEMPLAR desperately turns the hatchwheel, spinning it one last time and WHOOOSH, the hatch door blows open  
+
+INT. MOSCOW - MANHOLE BELOW THE STREET 
+
+- - and SMASHES against A ONE FOOT DIAMETER PIPE running along the wall 
+
+of the service manhole, CRACKING a fissure in it. PRESSURIZED GAS blows 
+
+out of the pipe. TEMPLAR pulls himself up. He reaches down and pulls Jillian up. Templar kicks the exit hatchdoor closed and spins the hatchwheel shut.  
+
+JILLIAN looks at the GAS spewing from the cracked pipe.  
+
+She sniffs the air. Templar looks at the pipe. A warning is printed in five 
+
+languages: GAS - DANGEROUS.  
+
+TEMPLAR 
+
+City gas line.  
+
+JILLIAN 
+
+We can't stay here, 
+
+we'll asphyxiate.  
+
+Templar and Jillian clamber up the steel runged ladder to the manhole cover.  
+
+Templar pushes up the manhole cover, popping his head out, looking around.  HIS EYES widen with alarm --- 
+
+A POLICE VAN is rolling straight for his head. He ducks and closes the 
+
+manhole cover as the VAN RUMBLES over it.  
+
+Templar listens. Above, the van has stopped.  
+
+Templar pushes up the manhole cover. The VAN has stopped directly over the 
+
+manhole.  
+
+EXT. MOSCOW - STREET IN FRONT OF THE U. S. EMBASSY 
+
+Templar slithers out. Pulls up Jillian. They're under the van now.  
+
+The van's rear door opens; TEN MEN jump down to the pavement. We see 
+
+their BLACK BOOTS; they are MOSCOW POLICE, arriving to arrest the looters.  
+
+Templar and Jillian crawl toward the van's rear.  
+
+Templar looks toward THE U.S. EMBASSY. It's 100 yards away, but looks like 
+
+100 miles.  
+
+TEMPLAR 
+
+Both of us will never make it.  
+
+But one of us can.  
+
+(draws his gun) 
+
+Give me ten seconds, then 
+
+break for the embassy and 
+
+don't stop running until you're 
+
+at the gates. It's a hundred yards, 
+
+so move it.  
+
+JILLIAN 
+
+What are you going to...  
+
+TEMPLAR 
+
+That's my business.  
+
+JILLIAN 
+
+Wait...  
+
+(he stops) 
+
+.. .Simon. Don't do this.  
+
+They'll kill you.  
+
+A long, tense pause.  
+
+TEMPLAR 
+
+The world can do without Simon 
+
+Templar. It can't do without you.  
+
+(smiles grimly) 
+
+See you around sometime.  
+
+He takes a deep breath and logrolls out.  ABOVE THE VAN - TEMPLAR gets to his feet in the street, gun drawn. He 
+
+races from the van, heading in a direction away from the embassy.  
+
+ACROSS THE STREET - ILYA double takes, seeing Templar sprinting from the 
+
+van.  
+
+ILYA 
+
+Kill him! 
+
+Ilya, Whitehead and Tretiak's men sprint down the street after Templar, firing 
+
+as they run, leaving -- 
+
+JILLIAN UNDER THE VAN with a clear path to the embassy. She counts it off:  three. . . . four. . . . five . . . . .  
+
+TEMPLAR dives behind an OVERTURNED CAR and comes up firing on Tretiak's 
+
+men.  
+
+IN THE U. S. EMBASSY'S FRONT COURTYARD 
+
+Colonel Crosby watches the situation unfold.  
+
+COLONEL CROSBY 
+
+What the hell is going on.  
+
+IN THE STREET - ILYA, WHITEHEAD and the other men close in on Templar, 
+
+laying down a withering fusillade of fire. Templar returns fire from behind the 
+
+car.  
+
+UNDER THE VAN - JILLIAN 
+
+JILLIAN 
+
+. . . nine. . . . TEN. . . .  
+
+Jillian logrolls out from under the van.  
+
+She sprints for the embassy gates.  
+
+BEHIND THE OVERTURNED CAR - TEMPLAR 
+
+sees Jillian running for the embassy. As he returns fire, he exhorts her under 
+
+his breath.  
+
+TEMPLAR 
+
+Go. Faster.. . .  
+
+ILYA, firing on Templar, sees Jillian. He spins, running in a new direction. He's 
+
+going to get Jillian before she can reach the embassy.  JILLIAN, sprinting, screams to the embassy marines.  
+
+JILLIAN 
+
+Open the gate! 
+
+IN THE EMBASSY COURTYARD - COLONEL CROSBY turns to his second in command, a Lieutenant JONES.  
+
+COLONEL CROSBY 
+
+Do it.  
+
+Lieutenant Jones and a MARINE PRIVATE push open the embassy gates.  
+
+COLONEL CROSBY watches Jillian helplessly. There's nothing he can do. Not until she reaches the embassy.  On Jillian comes, legs pumping, feet pounding the pavement. ILYA is right behind her.  She can feel his breath he's so close. Twenty yards. Fifteen yards. Ten...  
+
+BEHIND THE OVERTURNED CAR - TEMPLAR dodges bullets, corning thick and heavy now, and watches in terror as --- 
+
+ILYA, with a desperate reach, collars Jillian. She shrugs off her jacket, leaving Ilya with the jacket but no Jillian. Jillian lunges through the embassy gates...  
+
+... and is instantly surrounded by U.S. Marines. Jillian looks up at Colonel Crosby, panting.  
+
+JILLIAN 
+
+I'm an American citizen.  
+
+COLONEL CROSBY 
+
+You have our full protection ma'am.  
+
+(looks at Ilya) 
+
+Back away from the gate.  
+
+Ilya's black eyes stare at Colonel Crosby. He backs away from the gate. He turns and sees  
+
+AT THE OVERTURNED CAR - TEMPLAR, out of bullets with his hands raised, 
+
+surrounded by Tretiak's men behind the overturned automobile.  Ilya, fuming, walks across the street to Templar.  AT THE OVERTURNED CAR - ILYA walks up to Templar. With the calm efficiency of a hangman, Ilya puts his hand on Templar's shoulder and forces him down, down to his knees. He sticks his gun to Templar's head.  
+
+He's going to execute Templar right there, behind the overturned car in the street.  
+
+IN THE EMBASSY COURTYARD - JILLIAN, watching, frantically turns to Colonel Crosby.  
+
+JILLIAN 
+
+Do something! 
+
+COLONEL CROSBY 
+
+That's Russian soil out there, ma'am.  
+
+Jillian turns away, horrified, shielding her eyes.  
+
+BY THE OVERTURNED CAR - TEMPLAR AND ILYA 
+
+TEMPLAR (Russian) 
+
+Wait. A cigarette. It's customary.  
+
+Ilya looks at Templar. Looks at his men.  
+
+And Ilya laughs. Chuckling at first, then open-mouthed.  
+
+All of TRETIAK'S MEN laugh in Templar's face.  
+
+Ilya takes out a cigarette. Hands it to Templar.  
+
+Lights it for him.  
+
+TEMPLAR (Russian) 
+
+Thank-you.  
+
+And Ilya and Tretiak's men continue to laugh.  
+
+They won't be for long...  
+
+Because Templar is looking at A GRATE above the municipal lines below. And 
+
+TRETIAK'S MEN are sniffing the air, wondering why it smells like rotten 
+
+eggs...  
+
+Templar flicks the cigarette into the grate and dives away as -- 
+
+THE ENTIRE STREET IN FRONT OF THE U. S. EMBASSY blows sky high as THE 
+
+GAS MAIN ignites .  
+
+Ilya, Whitehead, and the other men are blown off their feet. Some are killed.  
+
+Asphalt and dirt rain down, followed by -- 
+
+WATER, as the municipal water main goes up.  
+
+Ilya and Whitehead get to their feet, looking around, water falling like a 
+
+monsoon.  
+
+Templar is gone.  
+
+And the police van is SPEEDING away.  
+
+INT. POLICE VAN - DAY 
+
+Templar guns the van through Moscow streets. He pulls out his cellular 
+
+phone. Punches numbers.  
+
+EXT. MOSCOW INTERNATIONAL AIRPORT - DAY 
+
+Remy stands by his jet, smoking a cigar, looking impatiently at his watch. His 
+
+cellular phone beeps.  
+
+REMY 
+
+Simon, where the hell are you...  
+
+You want me to do what? 
+
+Remy clicks off the phone and scrambles up into the cockpit of the Lear.  
+
+INT. POLICE VAN - DAY 
+
+Templar guns the van straight for -- 
+
+A group of TRETIAK'S MEN conducting the building-to building search. They 
+
+pull two sedans into the intersection, blocking it.  
+
+INT. MOSCOW INTERSECTION - DAY 
+
+Templar doesn't slow - he accelerates, and hits the two cars where their 
+
+bumpers meet, BLASTING through them -- 
+
+-- and races on past the intersection.  
+
+INT. REMY' S LEAR JET - DAY 
+
+Remy's Lear jet skirts Moscow rooftops, just 200 feet off the ground. As the jet clears the KREMLIN roof, we see majestic Red Square spreading before 
+
+us...  
+
+EXT. RED SQUARE - DAY 
+
+TEMPLAR'S POLICE VAN roars into Red Square as -- 
+
+ON THE OTHER SIDE OF THE SQUARE - REMY'S LEAR JET touches down. In 
+
+Red Square. It taxis to a stop next to Lenin's tomb.  
+
+The police van SCREECHS up next to the Lear. Templar races from the van to 
+
+the jet, dodging BULLETS fired from -- 
+
+TRETIAK'S MEN, firing from sedans entering the square.  
+
+The Lear jet accelerates straight for the oncoming sedans, lifting off, almost 
+
+scraping the landing gear against their windshields. It wings into the air, 
+
+clearing the top of the Ivan Memorial by a foot.  
+
+And heads west. To freedom.  
+
+DISSOLVE TO: 
+
+EXT. ST. PETERSBURG - NIGHT - REESTABLISHING 
+
+A shot of the city as we SUPER: 
+
+St. Petersburg - two days later 
+
+EXT. ST. PETERSBURG - TRETIAK'S HEADQUARTERS - NIGHT 
+
+The gates open. A BLACK SEDAN pulls into the drive and stops. Zubov gets 
+
+out, then Dr. Singh, dressed in a conservative Indian suit, carrying a 
+
+briefcase. Tretiak emerges from the mansion, greeting Doctor Singh.  
+
+INT. TRETIAK'S HEADQUARTERS - ZUBOV'S LAB - NIGHT 
+
+Dr. Singh enters behind Tretiak and Zubov. They move to Zubov's lab table.  
+
+Dr. Singh dons reading glasses. Zubov places Jillian's research before him.  
+
+Singh flips a page, then another.  
+
+He is awed. It's like Salieri looking at Mozart's sheet music. He's searched all 
+
+his life for something and... another person has found it.  
+
+DR. SINGH 
+
+Yes.  
+
+(beat) 
+
+Yes.  
+
+(beat) 
+
+Yes, yes. . . . .  
+
+(looks up) 
+
+I will give you a list of the things I will need.  I request solitude.  Remove those men.  
+
+(turns back to Jillian's document) 
+
+Leave me now. Please.  
+
+Tretiak and Zubov exchange a look. They exit. Dr. Singh rubs his brow, 
+
+bearing down on the material, flipping through the pages which DISSOLVE INTO: 
+
+PAGES being flipped, but these contain photographs...  
+
+JILLIAN 
+
+No.  
+
+(beat) 
+
+No.  
+
+(beat) 
+
+No.  
+
+WIDEN TO -- 
+
+INT. F. B. I. - MANHATTAN BUREAU - DAY 
+
+JILLIAN sits with F.B.I. agents RABINEAU and LONNER.  
+
+AGENT RABINEAU 
+
+One more.  
+
+Rabineau flips the page. SIMON TEMPLAR'S PHOTO stares at Jillian. She 
+
+studies it a moment. Shakes her head.  
+
+AGENT LONNER 
+
+Be certain, Ms. St. Thomas. Look again.  
+
+She looks again. Studies Templar's photograph.  
+
+JILLIAN 
+
+I'm certain. It's not him.  
+
+Agents Rabineau and Lonner exchange a look.  
+
+EXT. MANHATTAN - CENTRAL PARK - DAY 
+
+Jillian walks down the tree-lined mall.  
+
+Templar is standing there.  
+
+She walks up to him. A moment.  
+
+JILLIAN 
+
+They showed me photographs 
+
+of criminals.  
+
+(beat) 
+
+And a photograph of you.  
+
+TEMPLAR 
+
+And...? 
+
+JILLIAN 
+
+I said that the man in the photograph doesn't have the eyes of a criminal.  
+
+(pause; they stare at each other) 
+
+The Washington symposium is tomorrow afternoon.  I'm going. I'm presenting my research to the scientific community.  
+
+TEMPLAR 
+
+What about your data...  
+
+JILLIAN 
+
+It's in my head. I'll wing it.  
+
+TEMPLAR 
+
+(draws closer to her) 
+
+You need to conduct further research anyway. I'll help you.  
+
+JILLIAN 
+
+What are we researching. ..? 
+
+Jillian draws closer. Their lips are almost touching...  
+
+TEMPLAR 
+
+The benefits of warm fusion.  
+
+Templar pulls her lips to his and CUT TO...  
+
+INT. JILLIAN'S BEDROOM - NIGHT 
+
+There follows a love scene.  Afterward, in each other's arms: 
+
+JILLIAN 
+
+It is in the eyes.  You're not bad.  
+
+TEMPLAR 
+
+Being bad is the only thing 
+
+I've ever been good at.  
+
+JILLIAN 
+
+You can be good at being good.  
+
+(she strokes his hair) 
+
+If you're afraid of the dark, remember the night rainbow.  If tomorrow morning the sky falls, have clouds for breakfast.  If the birds forget their songs, listen to the wind. And if between right and wrong, do what is right.  
+
+TEMPLAR 
+
+Who said that? 
+
+JILLIAN 
+
+(smiles privately) 
+
+My grandmother.  
+
+Templar gently takes her face in his hands.  Whispers to her.  
+
+TEMPLAR 
+
+How did I meet you.  This saint.  
+
+(smiles) 
+
+Saint Thomas.  
+
+They kiss.  
+
+DISSOLVE TO: 
+
+INT. TRETIAK'S HEADQUARTERS - ZUBOV'S LAB - NIGHT 
+
+Late at night. Dr. Singh is working feverishly. The desk is stacked with papers 
+
+and books. He is surrounded by three chalk boards with chemical isotope 
+
+diagrams.  He is adding chemicals to a bath of hydrogen in a COMPRESSION CHAMBER.  
+
+DR. SINGH 
+
+Zinc oxide. Iridium mercurate.  
+
+Sodium bicarbon nitrate.  
+
+A cobalt magnesium isotope.  
+
+Liquify the cobalt at 665 degrees 
+
+fahrenheit, add the magnesium. ...  
+
+The chemicals begin to mix.  He picks up an ELECTRODE NEEDLE attached to a LIGHTBULB.  
+
+Dr. Singh takes a deep breath. He introduces the electrode needle into the 
+
+compression chamber through a rubber valve.  
+
+And like a miracle, the LIGHTBULB ILLUMINATES. Dr. Singh looks up as if he's 
+
+just seen Shiva.  
+
+DR. SINGH 
+
+My god. It actually works.  
+
+DISSOLVE TO: 
+
+EXT. WASHINGTON D.C. - ESTABLISHING SHOTS - DAY 
+
+The Capital on a cold, drizzly autumn day.  
+
+A ROW OF FLASHBULBS EXPLODE POP POP POP...  
+
+EXT. CAPITAL MALL - THE SMITHSONIAN INSTITUTE - DAY 
+
+PHOTOGRAPHERS are taking Jillian's picture as she moves through a crowd 
+
+outside the Smithsonian. She is formally dressed. TWO F.B.I. AGENTS walk 
+
+with her.  
+
+It is raining. The place is a sea of umbrellas.  
+
+Several REPORTERS trail after her.  
+
+REPORTER 1 
+
+Doctor St. Thomas! Ben Rothstein, 
+
+Omni Magazine. Is it true? Have you done it? 
+
+JILLIAN 
+
+That question will be answered in 
+
+ten minutes, Mr. Rothstein.  
+
+REPORTER 2 
+
+Marilyn Jones, Doctor St. Thomas.  
+
+Dr. Vijay Singh has said that 
+
+your theories are insupportable...  
+
+JILLIAN 
+
+(smiles) 
+
+Sorry, but I'm not interested in 
+
+Doctor Singh's opinions on this 
+
+or anything else.  
+
+JILLIAN moves up the steps, radiant and beautiful; it is the pinnacle of her 
+
+life. She looks across the Mall.  
+
+TEMPLAR stands there. Alone, smiling at her.  
+
+Jillian winks at him, mouthing the words: "open it." 
+
+TEMPLAR understands. He pulls a GIFTWRAPPED BOX from his pocket and 
+
+opens it. Inside is a TIE-PIN; a stick figure man with a halo over his head.  
+
+Templar sticks it through his tie. Picks up the accompanying card.  
+
+INSERT - THE CARD reads: 
+
+Anyone can be a saint, Simon Templar.  
+
+Templar looks back at Jillian. He sees something.  
+
+Behind Jillian, moving toward her through the crowd, is a BLONDE MAN 
+
+UNDER AN UMBRELLA. It looks like... Ilya.  
+
+Templar squints for clearer vision. He begins walking toward the Smithsonian.  
+
+He quickens to a jog, now he's running...  
+
+ON THE SMITHSONIAN STEPS - THE REPORTERS crush into Jillian.  
+
+REPORTERS 
+
+Ms. St. Thomas, Ms. St. Thomas...  
+
+JILLIAN 
+
+Please, no more questions. ...  
+
+Across the sea of people, TEMPLAR reaches the Blonde Man. Templar grabs 
+
+his arm; whips him around.  
+
+BLONDE REPORTER 
+
+Hey! What's the idea? 
+
+It's not Ilya, just a reporter with blonde hair.  
+
+Meanwhile JILLIAN, backing up the stairs from the reporters, draws closer to - - 
+
+A DARK-HAIRED MAN, seen from behind, who lowers an umbrella, pushing a 
+
+button on the handle, revealing a GLISTENING NEEDLE POINT. CAMERA 
+
+moves over his shoulder, revealing...ILYA. With dyed black hair.  
+
+JILLIAN keeps backing up the stairs...  
+
+...Behind her, Ilya's needled umbrella strikes her.  
+
+JILLIAN feels something. Like a bee sting. Her hand moves to her hip...  
+
+.. .as ILYA moves off through the crowd...  
+
+...TEMPLAR comes through the crowd to Jillian. The F.B.I. AGENTS grab him.  
+
+JILLIAN 
+
+Stop it! I know him! 
+
+The Agents release Templar.  
+
+Jillian looks at him. Templar's panting, out of breath.  
+
+JILLIAN 
+
+Simon? What is it? 
+
+TEMPLAR 
+
+Are you all right? 
+
+JILLIAN 
+
+Yes.  
+
+(smiles) 
+
+Go get a seat.  
+
+Jillian moves up the stairs into the Smithsonian.  
+
+ACROSS THE MALL.. .ILYA is gone, melting into the sea of umbrellas.  
+
+INT. SMITHSONIAN INSTITUTE - MAIN HALL - DAY 
+
+The room is packed with scientists and reporters. Jillian mounts a podium in 
+
+front of the room.  
+
+JILLIAN 
+
+Good afternoon. In 1989, two 
+
+physicists claimed to have perfected...  
+
+(her eyelids flutter) 
+
+.. .cold nuclear fusion.  
+
+Their results couldn't be duplicated. ...  
+
+Jillian is perspiring. She has cotton mouth. She picks up her ice water. Her 
+
+hand shakes.  
+
+TEMPLAR, seated in the back, watches her.  
+
+JILLIAN 
+
+It is my pleasure to 
+
+announce that 
+
+I . . . .  
+
+(her eyes roll back) 
+
+...have...  
+
+She opens her eyes. They're glassy.  
+
+And the world is swirling...  
+
+Jillian falls, her ice water SMASHING on the floor.  
+
+TEMPLAR runs to her, shoving people aside.  
+
+TEMPLAR 
+
+JILLIAN!! ! 
+
+(kneels to her) 
+
+No. No. No...  
+
+AMBULANCE, GET AN AMBULANCE! 
+
+One of the F.B.I. agents races off.  
+
+JILLIAN 
+
+Simon...  
+
+(she's fading fast) 
+
+I love you...  
+
+(gasps for breath) 
+
+My Saint. . . . .  
+
+TEMPLAR 
+
+No. . . No. . .  
+
+God please no...  
+
+But God won't help you, Simon Templar...  
+
+...God will take her anyway.  
+
+FADE TO BLACK.  
+
+FADE IN: 
+
+The next images collide and merge upon one another: 
+
+A REPORTER 
+
+REPORTER 
+
+Nuclear physicist Jillian St. Thomas 
+
+suffered a cerebral aneurism...  
+
+A CORONER 
+
+CORONER 
+
+Death occurred at two-fifty one p.m. ... 
+
+THE INQUEST JUDGE 
+
+JUDGE 
+
+It is the ruling of this court that 
+
+death was due to natural...  
+
+A REPORTER 
+
+REPORTER 
+
+.. ..and foul play was ruled out.  
+
+In international news, the 
+
+situation in St. Petersburg worsened...  
+
+CUT TO: 
+
+EXT. ST. PETERSBURG - DVORTSOVAYA PLOSHCHAD - DAY 
+
+The square is filled with thousands of MICHAEL ROMANOV SUPPORTERS.  
+
+They're camped out now.  
+
+A C.N.N. NEWS TEAM transmits from the square.  
+
+WOLF BLITZER 
+
+The scene is reminiscent 
+
+of the Tiananmen Square 
+
+crisis, Bernard.  
+
+The death toll stands at 
+
+forty-eight civilians and 
+
+at least twenty-one armed 
+
+forces personnel.  
+
+Rumors escalated today that...  
+
+EXT. ST. PETERSBURG - ADMIRALTY - ESTABLISHING 
+
+A LIMOUSINE pulls through a 'crowd of ROMANOV SUPPORTERS outside the 
+
+heavily guarded gates of the Admiralty, 
+
+Russia's Naval headquarters, akin to Annapolis.  
+
+WOLF BLITZER 
+
+.. . General Nicolai Radischev...  
+
+(we see a photo of Radischev) 
+
+...has promised Michael 
+
+Romanov his support, pending 
+
+the outcome of today's meeting 
+
+between Romanov and President Karpov.  
+
+ROMANOV, in the back of the limousine, waves to his supporters. They go 
+
+wild, clapping and cheering. The limo continues into the Admiralty compound.  
+
+EXT. ADMIRALTY - DAY 
+
+The limousine rolls through a guarded checkpoint, stopping before -- 
+
+THE ADMIRALTY'S NUCLEAR SITUATION FACILITY: in a more dangerous time, 
+
+this is the place from which Russian military leaders would conduct nuclear 
+
+war.  
+
+It's an acre-sized field of concrete, recessed 30 feet into the earth. It looks 
+
+like a very large, very deep swimming pool emptied of water.  
+
+In the middle is a concave-shaped entrance hatch (visualize an enormous 
+
+bowl turned upside down). The two halves of the concave hatch open down 
+
+the middle, each side retracting into the facility.  
+
+On the concrete floor next to the hatch is a SMALL DETECTION UNIT. We'll 
+
+find about the unit shortly...  
+
+Romanov and four bodyguards exit the limousine. Two RUSSIAN SECRET 
+
+SERVICEMEN escort Romanov to the entrance hatch. They descend down 
+
+stairs to -- 
+
+INT. ADMIRALTY - NUCLEAR OPERATIONS - DAY 
+
+- - a large room dominated by an ELECTRONIC MAP OF THE WORLD. Rows of 
+
+computer stations run the length of the room. It looks like a N.A.S.A. control 
+
+room.  
+
+The Secret Servicemen lead Romanov across the room to -- 
+
+INT. ADMIRALTY - NUCLEAR OPERATIONS OFFICE - DAY 
+
+An office, relatively comfortable, with a computer, a television and v.c.r., and 
+
+a small satellite link.  
+
+VICTOR KARPOV, the popularly elected President of Russia, rises. Karpov is 
+
+55, intelligent, with a calm, professional demeanor.  
+
+ROMANOV 
+
+A nuclear bunker, Mr. President? 
+
+You must worry for your safety.  
+
+KARPOV 
+
+I have reason to.  
+
+ROMANOV 
+
+Yes. You do.  
+
+They glare at each other.  
+
+KARPOV 
+
+You understand my policy 
+
+on taping meetings.  
+
+Romanov consents with a wave of his hand. Karpov motions to his ATTACHE, 
+
+who flips the switch on a VIDEO CAMERA mounted in the wall.  
+
+KARPOV 
+
+I'll get to the point.  
+
+Your remarks are irresponsible; 
+
+they've caused civil unrest. Unless 
+
+you appeal to your supporters 
+
+to stop rioting, I will institute martial law.  
+
+(beat) 
+
+Tell me what you want.  
+
+ROMANOV 
+
+A public debate, then new 
+
+elections. We'll let the 
+
+people decide.  
+
+KARPOV 
+
+(considers this) 
+
+Agreed.  
+
+They shake hands.  
+
+Romanov rises and exits.  
+
+CUT TO: 
+
+A HAND reaching for a SHOTGLASS. The hand shakes so badly.. .it has to set 
+
+the glass down. WIDEN TO -- 
+
+INT. MANHATTAN - LOWER EAST SIDE BAR - DAY 
+
+-- TEMPLAR, drunk at noon in a wretched little dive on Avenue A. His face is 
+
+drawn and pale. Haunted. Hasn't slept or shaved for days. His fingernails are 
+
+dirty.  
+
+TWO DARK-SUITED MEN enter. One pauses by the entrance, the other goes 
+
+to the bar. He sets a FOLDER on the bartop and slides it to Templar.  
+
+The two men exit.  
+
+Templar opens the folder. Inside is a plane ticket. A plane ticket to St. Petersburg...  
+
+DISSOLVE TO: 
+
+INT. TRETIAK'S OFFICE - DAY 
+
+Tretiak sits behind his desk. The room is dark.  
+
+TRETIAK 
+
+The woman's death 
+
+was unfortunate.  
+
+You lost. I lost. To think 
+
+what we could have done 
+
+with her formula.  
+
+But life goes on, no? 
+
+TEMPLAR sits opposite Tretiak, staring at him. He is shaved and rested, his 
+
+eyes utterly alert.  
+
+TRETIAK 
+
+When Romanov gains the 
+
+presidency Russia will be ours.  
+
+The possibilities are, you would 
+
+agree, endless.  
+
+(beat) 
+
+You have talent. Unique talent.  
+
+I need that talent to break into an 
+
+impregnable facility. Be part of 
+
+this, Templar.  
+
+TEMPLAR 
+
+(considers this) 
+
+Fifteen million, plus the fifteen 
+
+you owe me.  
+
+TRETIAK 
+
+I owe you nothing.  
+
+You were hired to steal 
+
+something and you failed.  
+
+TEMPLAR 
+
+Thirty million, 
+
+and I use my own men.  
+
+TRETIAK 
+
+Twenty million, and one 
+
+of my men goes with you.  
+
+Templar nods in agreement. Rises. Goes to the door.  
+
+TRETIAK 
+
+Templar. A question.  
+
+(Templar turns) 
+
+You had feelings for 
+
+the woman, didn't you? 
+
+TEMPLAR 
+
+I don't have feelings, Tretiak.  
+
+Templar, his face hard, cold, expressionless, exits.  
+
+Tretiak watches him.  
+
+CUT TO: 
+
+INT. ST. PETERSBURG - HOTEL SUITE - OFFICE - DAY 
+
+A hotel in the heart of the city. We hear sounds of demonstrations and rioting 
+
+in the street below.  
+
+Templar sits at a table with Harry Winston, Remy Samarkand, and Frankie.  
+
+ARCHITECTURAL PLANS and PHOTOGRAPHS of the Admiralty's Nuclear 
+
+Situation Facility are spread amongst room service trays.  
+
+ILYA, and the massive ZERO sit on the couch, listening.  
+
+Ilya eyes Templar. Templar periodically meets Ilya's eyes. These exchanged 
+
+glances are rife with hostility.  
+
+They've been at this a while and everyone's frustrated.  
+
+FRANKIE 
+
+No, no, no, Karpov's office 
+
+is in the nuclear operations 
+
+room. The entry hatch 
+
+can't be activated from 
+
+above - only below.  
+
+REMY 
+
+It's lead-lined and reinforced 
+
+with eight feet of concrete.  
+
+Explosives and drills are out.  
+
+TEMPLAR 
+
+Electronic by-pass? 
+
+FRANKIE 
+
+Negative. Understand something, 
+
+Simon, please: this is not a bank.  
+
+This is the former Soviet Union's 
+
+missile command.  
+
+Forced entry is impossible.  
+
+A long pause. Everyone looks at each other.  
+
+Templar examines A PHOTOGRAPH of the facility.  
+
+He fixates on it. He sees something.  
+
+TEMPLAR 
+
+What's that? 
+
+Templar points at the SMALL DETECTION UNIT next to the Nuclear Operations 
+
+entrance hatch.  
+
+Frankie looks at the photograph, then picks up a set of blueprints. Starts 
+
+flipping through...  
+
+FRANKIE 
+
+Uhhm.. .that is the facility's...  
+
+(comes to the relevant page and reads:) 
+
+... radiation detector.  
+
+In the event of nuclear 
+
+fall-out it automatically closes 
+
+the hatch.  
+
+Everyone turns to Templar.  
+
+TEMPLAR 
+
+You're saying the system can think.  
+
+FRANKIE 
+
+Yes.  
+
+TEMPLAR 
+
+Then it can be lied to.  
+
+CUT TO: 
+
+INT. TRETIAK'S HEADQUARTERS - ZUBOV'S LAB - DAY 
+
+Romanov and Tretiak stand on one side of the lab.  
+
+ACROSS THE LAB, ZUBOV and DR. SINGH are huddled over a hydrogen tank, 
+
+just like the one we saw in Jillian's lab. The tank is surrounded by hundreds of 
+
+testtubes and beakers containing chemicals.  
+
+TRETIAK 
+
+The world will continue to spend half 
+
+its gross national product on oil.  
+
+ROMANOV 
+
+And Russia will spend none. Within five years we will be the 
+
+wealthiest nation on earth.  
+
+TRETIAK 
+
+And it's leaders, Romanov, 
+
+the most powerful people.  
+
+CUT TO: 
+
+EXT. ST. PETERSBURG - ADMIRALTY - NIGHT 
+
+The situation in the city has worsened.  
+
+The ROMANOV SUPPORTERS outside the admiralty now number several 
+
+thousand. They carry pro-Romanov banners and shout: DOWN WITH 
+
+KARPOV! In the b.g., we see more rioting. Gunfire crackling. An overturned 
+
+truck.  
+
+A MILITARY AMBULANCE careens around the corner and rolls past the 
+
+Romanov supporters up to the Admiralty gates.  
+
+TWO RUSSIAN NAVY M.P.'s open the gates. The ambulance pulls inside. The 
+
+driver's window rolls down. It's Harry Winston dressed as a RUSSIAN ARMY 
+
+PARAMEDIC.  
+
+HARRY WINSTON (Russian) 
+
+Two soldiers shot by looters! 
+
+The M.P. waves the ambulance through. Harry waves back.  
+
+The ambulance pulls into the Admiralty compound, going past to the rear, to 
+
+the NAVAL HOSPITAL EMERGENCY WARD.  
+
+EXT. ADMIRALTY - NAVAL HOSPITAL 
+
+The ambulance pulls up next to the emergency ward.  
+
+The back door opens. Remy, dressed as a PARAMEDIC, gets out. Remy and 
+
+Harry haul out two heavily bandaged RUSSIAN SOLDIERS on stretchers.  
+
+The stretchers expand into rolling gurneys. Harry and Remy roll the wounded 
+
+soldiers inside.  
+
+INT. ADMIRALTY - NAVAL HOSPITAL 
+
+Harry and Remy roll the gurneys through the emergency ward. NAVAL 
+
+DOCTORS and NURSES are scrambling around, attending to WOUNDED 
+
+SOLDIERS. The scene is frenetic.  
+
+The gurneys roll past the operating rooms, through double doors, into a 
+
+room. No one notices.  
+
+INT. ADMIRALTY - HOSPITAL STORAGE ROOM 
+
+A room stocked with hospital supplies. The wounded "soldiers" spring off the 
+
+gurneys. They are TEMPLAR and ILYA. Ilya wears the uniform of a NAVAL 
+
+M.P. Templar wears a bulky, lead-lined anti-radiation suit.  
+
+Templar shoulders his backpack.  
+
+Harry Winston stands on a counter, pushing up the CEILING TILE. Templar 
+
+and Ilya climb atop the counter.  
+
+Harry forms a stirrup with his hands and hoists Templar, then Ilya, through 
+
+the hole in the ceiling.  
+
+INT. ADMIRALTY - VENTILATION DUCTS - NIGHT 
+
+Templar and Ilya crawl through the ventilation duct to a WIRE MESH 
+
+OPENING.  
+
+Templar rips off the wire mesh screen.  Thirty feet below, in the recessed entrance to the nuclear situation facility, 
+
+TWO NAVAL GUARDS are walking their shift. They walk around the corner. . . 
+
+TEMPLAR 
+
+We've got sixty seconds. Move.  
+
+EXT. ADMIRALTY - SIDE OF BUILDING 
+
+Templar crawls out of the ventilation duct, his feet finding a windowsill. Just 
+
+three inches to stand on.  
+
+Ilya crawls out, his feet finding the same windowsill.  
+
+The two men are side-by-side.  
+
+They begin inching across the sill to a STEEL-RUNGED ladder leading to the 
+
+concrete floor below.  
+
+Ilya's FOOT suddenly slips. His arms flail. He tries to keep his balance, but 
+
+fails.  
+
+Templar catches Ilya's wrist.  
+
+A terrifying tableau: Ilya, hanging over the concrete floor below, held up only 
+
+by Templar. If Templar let's go, Ilya's dead. They stare at each other...  
+
+And Templar pulls Ilya back. Ilya gets his footing. Catches his breath. Nods to 
+
+Templar. They continue to the ladder and descend.  
+
+EXT. ADMIRALTY - PERIMETER WALLS 
+
+The naval guards walk their shift.  
+
+EXT. ADMIRALTY - NUCLEAR SITUATION FACILITY - NIGHT 
+
+Templar and Ilya hurry across the concrete floor to the entrance hatch.  
+
+Templar kneels next to the RADIATION DETECTOR, unshouldering his 
+
+backpack.  
+
+Templar's anti-radiation suit has a goggled hood, which he dons. He then 
+
+carefully lifts from his backpack a PLEXIGLASS RECTANGULAR BOX the size 
+
+and shape of a shoe box, and a high-powered cordless BOLTDRIVER.  
+
+The plexiglass box has two' compartments, one empty, the other filled with 
+
+SMOKY GAS.  
+
+Templar positions the plexiglass box over the radiation detector. He 
+
+unpockets FOUR CONCRETE BOLTS CREWS and bolts the box tightly to the 
+
+concrete floor with the cordless boltdriver. (The plexiglass box has a steel 
+
+mount with holes for this purpose.) 
+
+EXT. ADMIRALTY - PERIMETER WALLS 
+
+The naval guards reach the end of the perimeter wall, then turn back toward 
+
+the nuclear situation facility...  
+
+EXT. ADMIRALTY - NUCLEAR SITUATION FACILITY - NIGHT 
+
+Templar turns a knob on the plexiglass box; THE DOOR separating the two 
+
+compartments within the box OPENS.  
+
+Inside, THE SMOKY GAS releases. It wafts into the radiation detector's 
+
+sensors.. ..Templar watches anxiously, talking to it...  
+
+TEMPLAR 
+
+Radon isn't plutonium but 
+
+you don't know that...  
+
+The detector's EMERGENCY LIGHT begins BLINKING.  
+
+TEMPLAR 
+
+Boom, you just got nuked.  
+
+(unbolts the box) 
+
+Now it's two months later and 
+
+the radiation's gone...  
+
+Templar rips the plexiglass box away from the detector, releasing the RADON 
+
+GAS into the air. A moment passes.  
+
+The EMERGENCY LIGHT turns off and, open sesame, THE CONCRETE 
+
+HATCHDOORS separate, revealing STAIRS.  
+
+Templar rips off his hood. He and Ilya descend.  
+
+EXT. ADMIRALTY - PERIMETER WALLS 
+
+The naval guards are nearing the rear of the Admiralty. Around the corner is 
+
+the nuclear situation facility...  
+
+INT. ADMIRALTY - NUCLEAR SITUATION ROOM - DAY 
+
+Templar and Ilya race down. At the base of the stairs is the HATCHDOOR 
+
+open/close switch. Templar throws the "close" switch. Above, the hatch doors 
+
+start to close..  
+
+EXT. ADMIRALTY - PERIMETER WALLS 
+
+The naval guards come around the corner just as...  
+
+... THE CONCRETE HATCH DOORS pull shut.  
+
+INT. ADMIRALTY - NUCLEAR SITUATION ROOM - DAY 
+
+Templar and Ilya move through the nuclear situation room to President 
+
+Karpov's office.  
+
+INT. ADMIRALTY - NUCLEAR OPERATIONS OFFICE - DAY 
+
+Ilya and Templar enter. Ilya opens the credenza behind Karpov's desk, 
+
+revealing ROWS OF VIDEOTAPE CASSETTES.  
+
+Ilya rifles through the tapes.  
+
+Templar kneels behind the T.V. and V.C.R. He switches the T.V.'s satellite link 
+
+from "RECEIVE" to "TRANSMIT," and adjusts the satellite frequency.  
+
+Ilya hands Templar a VIDEO CASSETTE TAPE. Templar throws it in the V.C.R.  
+
+and hits a button. The V.C.R. transmits the tape over the satellite link to the - - 
+
+EXT. ADMIRALTY ROOF 
+
+-- Satellite DISH on the Admiralty's roof, which sends the transmission into 
+
+outer space, where it bounces off a satellite and returns to -- 
+
+INT. ST. PETERSBURG - HOTEL SUITE - NIGHT 
+
+-- a V.C.R. in the hotel suite, where Frankie hovers over an array of 
+
+sophisticated editing equipment.  
+
+Tretiak, Romanov, and several of Tretiak's men stand to the side.  
+
+Templar's transmission plays on a T.V. It's a tape of the Karpov/Romanov 
+
+meeting: 
+
+KARPOV 
+
+Tell me what you want.  
+
+ROMANOV 
+
+A public debate, then new elections.  
+
+We'll let the people decide.  
+
+KARPOV 
+
+(considers this) 
+
+Agreed.  
+
+Frankie hits "play" on A SECOND V.C.R.: Here, we see the Tretiak/Ivan 
+
+Grachameeting, taped earlier: 
+
+TRETIAK 
+
+Upon what conditions would 
+
+you accept a partnership? 
+
+Be reasonable.  
+
+GRACHA 
+
+Fifty percent of the drug trade 
+
+in St. Petersburg and Moscow.  
+
+A third of prostitution and gambling.  
+
+Both V.C.R.'s are connected to a VIDEO MORPHING SYSTEM not unlike those 
+
+used by filmmakers. Frankie hits some buttons on the morphing machine.  
+
+On the first V.C.R. MONITOR - ROMANOV'S IMAGE is lifted from the 
+
+videotape. It simply disappears.  
+
+CUT TO: 
+
+INT. ADMIRALTY - NUCLEAR SITUATIONS FACILITY - NIGHT 
+
+Templar and Ilya, waiting. Templar looks at his watch.  
+
+TEMPLAR 
+
+Come on, Frankie...  
+
+INT. ST. PETERSBURG - HOTEL SUITE - NIGHT 
+
+Frankie, finished, hits "play." We see an altered version of the 
+
+Karpov/Romanov meeting. Romanov has been morphed out and Ivan Gracha 
+
+bas been morphed in.  
+
+ON THE SCREEN, it now looks like this: 
+
+PRESIDENT KARPOV 
+
+Tell me what you want.  
+
+GRACHA 
+
+Fifty percent of the drug trade 
+
+in St. Petersburg and Moscow.  
+
+A third of prostitution and gambling.  
+
+PRESIDENT KARPOV 
+
+Agreed.  
+
+President Karpov shakes Gracha's hand.  
+
+BACK TO SCENE 
+
+Frankie turns to Tretiak and Romanov.  
+
+FRANKIE 
+
+Should I send it? 
+
+TRETIAK 
+
+Not yet.  
+
+Romanov clicks on his cellular phone.  
+
+ROMANOV 
+
+General Radischev please.  
+
+Yes, an emergency.  
+
+Frankie, alarmed, turns to Tretiak.  
+
+FRANKIE 
+
+What's he doing? Templar won't 
+
+have time to get out of there...  
+
+Tretiak nods to ZERO who opens the door into the hall.  
+
+TWO MOSCOW POLICEMEN enter. They stride over to Frankie, yank her up 
+
+and handcuff her, dragging her off.  
+
+CUT TO: 
+
+EXT. ADMIRALTY - GARRISON - NIGHT 
+
+The Naval Guard in the garrison looks up with wide, startled eyes at -- 
+
+THREE RUSSIAN TANKS rumble up to the Admiralty, followed by a 
+
+detachment of RUSSIAN ARMY SPECIAL FORCES.  
+
+NAVAL GUARD 
+
+(under his breath) 
+
+Mother of God...  
+
+The tanks smash through the gate, rolling into the Admiralty compound. The 
+
+Special Forces Men walk silently past the startled Naval Guard, who rushes 
+
+inside and hits a KLAXON HORN.  
+
+INT. ADMIRALTY - NAVAL HOSPITAL STORAGE ROOM - NIGHT 
+
+Harry and Remy, startled by the klaxon, look out the storage room window 
+
+at...the tanks.  
+
+HARRY 
+
+Come on, Simon, move it...  
+
+EXT. ADMIRALTY - COMPOUND - NIGHT 
+
+THE TANKS roll into the Admiralty compound: a message blares from one of 
+
+the tank's loudspeaker: 
+
+TANK LOUDSPEAKER (v. o .) 
+
+This is a matter of national security.  
+
+I repeat, this is matter of national...  
+
+The tanks roll up to the nuclear situation facility.  
+
+The Special Forces Men walk up to the open hatch.  
+
+INT. ADMIRALTY - NUCLEAR OPERATIONS OFFICE 
+
+Templar looks at his watch. He's waiting for Frankie to send back the 
+
+morphed tape...  
+
+TEMPLAR 
+
+Come on, Frankie.  
+
+Suddenly the transmission starts coming across the satellite link, recording 
+
+over the old tape. It's almost finished...  
+
+INT. ADMIRALTY - OPERATIONS ROOM - NIGHT 
+
+The Special Forces Men come down the stairs and across the room toward 
+
+Karpov's office...  
+
+INT. ADMIRALTY - NUCLEAR BUNKER - KARPOV'S OFFICE 
+
+Templar yanks the MORPHED TAPE from the v.c.r and goes back to Karpov's 
+
+credenza. He kneels by the drawer.  
+
+Something fast and unexpected happens, like slight-of hand. Templar pulls A 
+
+SECOND TAPE from inside his suit and puts it back in the drawer, sliding the 
+
+morphed tape under the credenza. He stands, turns, and freezes...  
+
+ILYA (remember, he is dressed as a NAVAL M.P.) has his gun leveled on Templar.  Ilya steps past Templar.  Lifts the tape from the drawer 
+
+- the tape from Templar's waistband.  The door bursts open. The Special Forces men pile inside. The Special Forces 
+
+MAJOR regards the situation.  
+
+ILYA 
+
+I found him over there.  
+
+(holds up the tape) 
+
+With this.  
+
+SPECIAL FORCES MAJOR 
+
+Give it to me.  
+
+(turns to his men) 
+
+Arrest President Karpov.  
+
+Four Special Forces Men race out.  
+
+INT. ADMIRALTY - NIGHT 
+
+President Karpov and his wife are sleeping. The door blasts open, throwing a 
+
+beam of light on Karpov, who sits up, staring with a confused expression at -- 
+
+The SPECIAL FORCES MEN, glaring back at him.  
+
+CUT TO: 
+
+EXT. DVORTSOVAYA PLOSCHAD - EARLY MORNING 
+
+It's 4 a.m., but revolution is in the air. Thousands of St. Petersburgers are 
+
+pouring into the square. It is an anxious, surreal scene.  
+
+RUSSIAN TANKS and ARMOURED VEHICLES surround the square.  
+
+THE CROWD explodes with thunderous cheers as -- 
+
+MICHAEL ROMANOV, escorted by soldiers, comes through the crowd.  
+
+GENERAL NICOLAI RADISCHEV, tall, stern, career Army man, follows with a 
+
+contingent of junior officers.  
+
+Behind Radischev are TEMPLAR, FRANKIE and PRESIDENT KARPOV, under 
+
+arrest, escorted by SPECIAL FORCES MEN.  
+
+Romanov climbs atop a TANK TURRET.  
+
+He looks out over the crowd.  
+
+THE CROWD comes to a hush. Like Lenin's arrival at Finland Station. A 
+
+history-in-the-making atmosphere.  
+
+ROMANOV 
+
+Friends, countrymen, I give you 
+
+Major Antonin Scarpinin.  
+
+Major Scarpinin (the Special Forces Major), climbs atop the tank turret.  
+
+MAJOR SCARPININ 
+
+Twenty minutes ago a team of 
+
+Russian Special Forces, acting on 
+
+confidential information, raided 
+
+President Karpov's office...  
+
+ACROSS THE SQUARE - TRETIAK and his men emerge from several 
+
+limousines.  
+
+As Tretiak moves through the crowd, IVAN GRACHA and twenty of his men 
+
+approach.  
+
+TRETIAK 
+
+Thank you for coming, Ivan, 
+
+it is a great night for Russia.  
+
+IVAN GRACHA 
+
+I don't give a damn who's president.  
+
+I'll make my money either way.  
+
+TRETIAK 
+
+Maybe you should take greater 
+
+interest in politics, Ivan Gracha.  
+
+Tretiak and Gracha turn to Major Scarpinin, listening...  
+
+ON THE TANK TURRET - TEMPLAR and FRANKIE are shoved by soldiers up 
+
+next to Scarpinin. Templar and Frankie exchange a steely glance.  
+
+ON THE OTHER SIDE OF THE SQUARE - REMY and HARRY come through the 
+
+crowd. Seeing Templar and Frankie atop the tank, they stop in their tracks 
+
+and watch...  
+
+MAJOR SCARPININ 
+
+This man, a known international thief, 
+
+aided by this woman, a German 
+
+operative, were arrested stealing a 
+
+surveillance videotape from 
+
+President Karpov's office.  
+
+Scarpinin shows THE SEIZED TAPE to the crowd, then hands it to Romanov, 
+
+who climbs atop the tank.  
+
+TEMPLAR AND FRANKIE are pulled down from the turret and led away to TWO 
+
+ARMY TRUCKS in the background.  
+
+ROMANOV 
+
+One month ago I said I would 
+
+prove that those who call 
+
+themselves our leaders...  
+
+(points at KARPOV) 
+
+.. .are in league with those who we 
+
+know to be thieves, traitors, 
+
+rapists of our once-great country.  
+
+Do you want to see this proof? 
+
+THE CROWD 
+
+(out for blood) 
+
+YES! 
+
+Romanov hands the tape to Major Scarpinnin, who walks it over to an army 
+
+communications TECHNICIAN standing by a portable V.C.R. linked to the 
+
+HUGE SCREEN (seen in Romanov's earlier speech) above Romanov.  
+
+ON THE TANK TURRET - ROMANOV points at the HUGE SCREEN.  
+
+The crowd waits breathlessly. .:.  
+
+ON THE SCREEN - the tape begins playing, but we don't see Karpov's office.  
+
+Shockingly, we see...Tretiak's.  
+
+Simon Templar stashed the tape Frankie recorded of the Tretiak/Romanov 
+
+meeting in Karpov's office. We see: 
+
+TRETIAK 
+
+Hail Michael Romanov, Czar 
+
+of the Fatherland. How will 
+
+that sound to the average Russian? 
+
+ROMANOV 
+
+The average Russian is a fool.  
+
+IN THE CROWD there is confusion, incredulity.  
+
+ROMANOV'S eyes widen.  
+
+TRETIAK and MEN stare in disbelief at the screen.  
+
+IVAN GRACHA and his men slowly back away from Tretiak.  
+
+ROMANOV 
+
+He exists to be dominated.  
+
+To partnership in government.  
+
+TRETIAK 
+
+No Romanov  
+
+to partnership in crime.  
+
+MICHAEL ROMANOV looks down at the crowd and...  
+
+. ...500,000 RUSSIANS stare back at him in silence.  
+
+ROMANOV 
+
+That.. . that it is a fraud...  
+
+(turns to General Radischev) 
+
+I can explain.  
+
+RADISCHEV 
+
+(motions to MAJOR SCARPININ) 
+
+Arrest him.  
+
+Scarpinin and his Special Forces Men close in on Michael Romanov, the 
+
+crusading reformer.  
+
+ACROSS THE SQUARE - TRETIAK AND HIS MEN, huddled in a protective 
+
+circle, stare into the angry faces of half a million Russian citizens.  
+
+Total silence. A pin could drop.  
+
+Tretiak and his men brandish their weapons. The intimidated crowd backs off.  
+
+They move quickly toward their vehicles, the CROWD parting for them.  
+
+A DETACHMENT OF RUSSIAN MARINES comes through the crowd.  
+
+They are heavily armed and ready for business.  
+
+Tretiak aims and fires. A MARINE goes down.  
+
+CIVILIANS SCREAM and dive away. pandemonium breaks out.  
+
+TRETIAK'S MEN open fire. The MARINES return fire. A harrowing amount of 
+
+ammunition is expended in seconds.  
+
+Ten of Tretiak's men and many marines take hits. ZERO dies instantly. A 
+
+brutal, close-quarters firefight. The outnumbered marines take the worst of it.  
+
+Tretiak, Ilya, and Tretiak's surviving men run past the fallen marines to their 
+
+vehicles.  
+
+They pile into the first two cars and SQUEAL away, heading down the Nevsky 
+
+Prospect.  
+
+ACROSS THE SQUARE - AT THE ARMY TRUCKS 
+
+Panic and pandemonium. Soldiers running here and there amidst panicked 
+
+civilians. A SPECIAL FORCES SERGEANT stands guard outside one of the 
+
+trucks. A NAVAL PARAMEDIC, supporting a WOUNDED PARAMEDIC, staggers 
+
+up.  
+
+Harry Winston and Remy, of course.  
+
+HARRY WINSTON (Russian) 
+
+Sergeant, give me a hand.  
+
+The Sergeant gives Harry a hand. REMY stands up; whips the barrel of his 
+
+gun across the Sergeant's head, who collapses onto Harry. Harry drags him 
+
+off and  
+
+REMY pulls the pin on the truck's doorlock. The door swings open. Templar 
+
+hops down ... 
+
+TEMPLAR 
+
+Get Frankie.  
+
+Remy and Harry hurry off to the other army truck.  
+
+TEMPLAR gets in the truck, sliding behind the wheel. He starts the ignition 
+
+and throws it in drive. The truck rumbles forward, hopping the curb.  
+
+THE ARMY TRUCK ROARS out of the square, pursuing Tretiak's vehicles down 
+
+the Nevsky Prospect as, behind him -- 
+
+- - the TANKS and ARMOURED VEHICLES also roar out of the square, followed 
+
+by Russian Marines, Special Forces, and the enraged crowd. They too head 
+
+down the Nevsky Prospect for the mafia headquarters...  
+
+CUT TO: 
+
+EXT. TRETIAK' S HEADQUARTERS - NIGHT 
+
+Tretiak's vehicles wheel into the circular drive. No guards are present. Tretiak 
+
+and men exit the vehicles and race inside -- 
+
+INT. TRETIAK'S HEADQUARTERS - NIGHT 
+
+Tretiak and his men hurry in. No guards here, either.  
+
+Tretiak's on his cellular phone.  
+
+TRETIAK 
+
+Get the plane running, we'll 
+
+be there in five minutes.  
+
+(to his men) 
+
+Clean out the safe. Burn the 
+
+records in my office.  
+
+Tretiak and Ilya go quickly to the basement stairs.  
+
+Tretiak's men go for the upstairs staircase.  
+
+INT. TRETIAK' S HEADQUARTERS - ZUBOV' S LAB 
+
+A T.V. shows a newscast from the Ploschad. Dr. Singh and Zubov, having 
+
+seen everything that just transpired, are frantically destroying their data and 
+
+records.  
+
+Zubov is burning the cold fusion hardcopies in a waste basket. Dr. Singh is 
+
+deleting the computer files.  
+
+Tretiak and Ilya come down the stairs. Zubov pops a 3 1/4 disk from the 
+
+computer.  
+
+ZUBOV 
+
+We reduced the fusion 
+
+formula to one disk and 
+
+destroyed everything else.  
+
+TRETIAK 
+
+Good.  
+
+And Tretiak draws his gun. As does Ilya. Zubov and Dr. Singh stare at the 
+
+guns.  
+
+DR. SINGH 
+
+What.. . what are you...? 
+
+Tretiak shoots Zubov. Ilya shoots Dr. Singh. The two scientists fall, dead. So 
+
+much for honor among thieves.  
+
+Then Tretiak wheels on Ilya, his gun coming up. Yes, so much for honor 
+
+among thieves...  
+
+Tretiak freezes, startled.  
+
+Because Ilya has his gun leveled on Tretiak.  
+
+Tretiak tries to speak. Words won't form. Ilya FIRES. Tretiak pitches over 
+
+backward.  
+
+Ilya walks past Tretiak's corpse, yanks the computer disk from Zubov's 
+
+lifeless hand and turns -- 
+
+TEMPLAR stands across the lab, gun in hand.  
+
+Ilya's eyes dart around the room.  
+
+ILYA 
+
+We can share this, Templar.  
+
+TEMPLAR 
+
+We don't own it.  
+
+ILYA 
+
+Who does? 
+
+TEMPLAR 
+
+(eyes glinting) 
+
+The Jillian St. Thomas Foundation.  
+
+There is a sudden shrill WHISTLING SOUND. Templar and Ilya look around.  
+
+ILYA 
+
+Don't be a fool.  
+
+TEMPLAR 
+
+I'm a fool? You thought you 
+
+could get away with murder.  
+
+Used curare didn't you? 
+
+Induces blood-clotting.  
+
+Templar clicks back the hammer...  
+
+ILYA 
+
+What do you want? 
+
+The WHISTLING is louder. Anyone with military service knows the sound of 
+
+incoming ordnance...  
+
+TEMPLAR 
+
+What do I want? 
+
+I want.. . revenge.  
+
+Now give me the disk.  
+
+There's a massive EXPLOSION above. The laboratory is ROCKED. A SHELF OF 
+
+CHEMICALS teeters over, falling on TEMPLAR, knocking the gun from his 
+
+hand. The beakers of chemicals SMASH all around Templar 
+
+Ilya sprints for the stairs.  
+
+Templar grabs for his gun, lying in a puddle of CARBOLIC ACID. He grabs the 
+
+gun; the acid burns his flesh. He drops it and races for the stairs.  
+
+INT. TRETIAK' S HEADQUARTERS - NIGHT 
+
+Ilya emerges from the basement stairwell and races for the front door.  
+
+Templar comes up; sprints after Ilya.  
+
+Ilya, with Templar hotly behind, gets to the front door, flings it open, and...  
+
+freezes. And Ilya and Templar are suddenly staring down the barrel of -- 
+
+A RUSSIAN TANK. Just sitting there in the mansion courtyard. Russian 
+
+soldiers behind it.  
+
+Ilya and Templar duck. The tank FIRES. The MISSILE PROJECTILE explodes 
+
+from the tank's barrel, flies through the mansion's front door over Ilya and 
+
+Templar's heads...  
+
+... wings across the interior of the mansion...  
+
+.. . and SLAMS into the rear wall of the mansion, exploding, blowing the wall 
+
+down, revealing ANOTHER TANK at the mansion's rear, lumbering toward it.  
+
+Ilya slams the door shut and whirls on Templar. They trade blows. Ilya has 
+
+the better of this. He shoves Templar aside and races back through the foyer.  
+
+Templar recovers and races after Ilya, tackling him in the middle of the floor.  
+
+They roll on the floor, trading vicious blow after vicious blow, when --- 
+
+-- A TANK SHELL RIPS into the mansion's domed cupola.  
+
+Templar and Ilya look up in horror as -- 
+
+THE 20 FOOT DIAMETER CRYSTAL CHANDELIER descends.  
+
+Templar and Ilya dive away. The chandelier CRASHES 
+
+spectacularly in the middle of the foyer, exploding like a glass grenade. A 
+
+HUGE PIECE OF CRYSTAL hits Templar in the side of the head, opening a 
+
+gash, dazing him.  
+
+There's no place to go. Except up.  
+
+Ilya races for the staircase.  
+
+Templar recovers and takes up the chase again.  
+
+Up the staircase they go.  
+
+A SECOND TANK MISSLE slams into the dome, imploding it.  
+
+CHUNKS OF STONE and MASONRY fall on Ilya and Templar, knocking them 
+
+both backward.  
+
+INT. TRETIAK'S MANSION - ZUBOV'S LAB - NIGHT 
+
+The lab is rocked by the explosions.  
+
+RACKS OF CHEMICALS in beakers fall to the floor, SMASHING. The chemicals 
+
+begin to ooze together.  
+
+A chemical reaction is occurring. The mixing chemicals begin emitting smoke.  
+
+INT. TRETIAK'S MANSION - CORRIDOR/TRETIAK'S OFFICE 
+
+Tretiak's men are at the windows with automatic weapons, firing on the army 
+
+below. Two men drag a crate into the office. They open it, revealing an  
+
+ANTI-TANK GRENADE LAUNCHER. They pull it from the crate and set up the 
+
+tri-pod...  
+
+ON THE STAIRCASE - TEMPLAR AND ILYA 
+
+continue up the staircase. Ilya reaches the mezzanine. He climbs atop the 
+
+balustrade and jumps to the lip of the crater in the dome. He pulls himself up.  
+
+Templar repeats Ilya's actions: climbs atop the balustrade and jumps to the 
+
+lip of the crater. As he pulls himself up... ILYA appears.  
+
+He compresses his foot against Templar's knuckles.  
+
+Templar grimaces. There's no way out this time.  
+
+There's a burst of ORANGE LIGHT as A TANK SHELL explodes on the roof, 
+
+knocking Ilya off his feet, allowing -- 
+
+-- Templar to pull himself up to the roof.  
+
+EXT. TRETIAK' S HEADQUARTERS / NEVSKY PROSPECT - NIGHT 
+
+The tanks continue firing. Russian Marines fire round after round into the 
+
+mansion. Tretiak's men inside return the fire.  
+
+Harry, Remy and Frankie run up, looking with alarm at the vicious firefight.  
+
+Realizing Templar is within...  
+
+INT. TRETIAK'S OFFICE 
+
+The anti-tank grenade launcher is operational. One of Tretiak's men loads, the 
+
+other fires, and -- 
+
+EXT. TRETIAK'S MANSION - NIGHT 
+
+-- an ANTI-TANK SHELL launches from the window and hits the tank in the 
+
+courtyard, blowing its turret off.  
+
+Tretiak's men fire assault rifles from the windows.  
+
+No one's surrendering. It's a fight to the death...  
+
+EXT. TRETIAK'S MANSION - ROOF - NIGHT 
+
+Templar and Ilya, on the mansion's roof. The view is mind-boggling: the 
+
+nighttime St. Petersburg skyline looming in the background and, below, three 
+
+Russian tanks firing shell after shell into the mansion.  
+
+Across the exploding, crumbling rooftop, Ilya and Templar go. A TANK SHELL 
+
+explodes in front of Ilya.  
+
+Ilya falls, concussed by the shell. Templar dives upon him, wrenching the 
+
+COMPUTER DISK from Ilya's pocket.  
+
+Ilya slams his forearm into Templar's head. The disk flies from Templar's 
+
+hand, scuttles across the roof shingles, falling through a crater...  
+
+... it flutters to the mansion floor, 50 feet down.  
+
+They get to their feet, circling each other. Their footing is not trustworthy, like 
+
+ice in Spring.  
+
+Tank shells SLAM into the mansion's upper architecture and roof. A shell hits 
+
+the mansion's east wall, detaching the DRAIN PIPE running up it.  
+
+Ilya draws a SWITCHBLADE. Backing Templar up.  
+
+Templar's at the very edge of the building.  
+
+There's no place to go.  
+
+Templar's feet are unsteady. Because the cornice of the building is crumbling 
+
+beneath him. ...  
+
+And Templar falls. He looks over his shoulder, his wrists turning, hands 
+
+opening, and...  
+
+... Templar catches the detached DRAINPIPE.  
+
+The drainpipe sags under Templar's weight, bending... And it stops. Templar 
+
+hangs there, bobbing up and down above the alley between the mansion and 
+
+the adjacent building, fifty feet below.  
+
+Ilya turns back.  
+
+He's going after the disk.  
+
+Ilya jumps through the crater to the mezzanine and races down the 
+
+staircase...while in the basement...  
+
+INT. TRETIAK'S MANSION - ZUBOV'S LAB - NIGHT 
+
+Another whole shelf of chemicals falls, smashing. The chemicals continue to 
+
+mix...  
+
+EXT. TRETIAK'S HEADQUARTERS - ROOF 
+
+Templar dangles from the drainpipe.  
+
+KA-CHUNG. It gives. It gives again. The drainpipe is about to break. Templar 
+
+looks down into the flames and demolition below...  
+
+INT. TRETIAK's MANSION - STAIRCASE/FOYER - NIGHT 
+
+Ilya races reaches the foyer. The building is imploding, chunks of stone falling 
+
+all around him.  
+
+Ilya's eyes are wild. He wants that disk...  
+
+Ilya gets to it.  
+
+Clutches it. It's finally in his hands.  
+
+He goes for the staircase. ...  
+
+INT. TRETIAK'S MANSION - ZUBOV'S LAB - NIGHT 
+
+The chemicals are steaming now, in a froth, becoming more and more and 
+
+more volatile...  
+
+EXT. TRETIAK'S MANSION - NIGHT 
+
+Templar, dangling from the drainpipe, looks wildly around for an escape. If he 
+
+could just get to that adjacent building...  
+
+It's too far. And his hands are slipping...  
+
+Then, from the mansion's basement, the very guts of the building, the 
+
+chemicals in the lab detonate and -- 
+
+THE MANSION EXPLODES FROM WITHIN.  
+
+INT. TRETIAK' S MANS ION - STAIRCASE - NIGHT 
+
+Ilya's eyes bulge in terror as the staircase collapses under him. Ilya falls, 
+
+engulfed in flame, still clutching the cold fusion disk.  
+
+EXT. TRETIAK'S MANSION - NIGHT 
+
+The drainpipe fully detaches from the collapsing mansion wall. It falls away 
+
+from the mansion, with Templar still holding on...  
+
+Templar releases from the drainpipe and catches the lip of the roof cornice of 
+
+the adjacent building.  
+
+Templar pulls himself up and looks back at...  
+
+TRETIAK'S MANSION. The entire building comes apart at the seams. It 
+
+crashes into a heap of rubble.  
+
+FADE OUT: 
+
+FADE IN: 
+
+EXT. MANHATTAN - REESTABLISHING - DAY 
+
+The skyline of the great city as we SUPER: NEW YORK CITY - ONE MONTH LATER 
+
+EXT. ROCKEFELLER CENTER - ESTABLISHING 
+
+It's mid-day. People coming and going.  
+
+INT. ROCKEFELLER - AN OFFICE 
+
+CAMERA PANS past the office door, stenciled -- ROCKEFELLER FOUNDATION - CHARITABLE DONATIONS -- to a huge desk. Two middle-aged LADIES are going through a four-foot 
+
+stack of MAILED DONATIONS.  
+
+They are LUCY and DELORES.  
+
+LUCY 
+
+Here's one from that guy who owns 
+
+most of Brooklyn. Ten bucks again.  
+
+LUCY 
+
+I'll alert the media.  
+
+Guy's richer than god...  
+
+DELORES 
+
+(reads a check) 
+
+Hey, Mr. Anderson at the Met 
+
+gave a thousand this year. Lucy? 
+
+But LUCY'S not listening.  
+
+She's staring at a check. Her eyes are like hubcaps.  
+
+LUCY 
+
+Oh my goodness gracious...  
+
+(looks at Delores) 
+
+Get Mr. Thomas, Delores.  
+
+DELORES 
+
+What is it? 
+
+LUCY 
+
+A check for fifty...  
+
+(gulps) 
+
+...million dollars.  
+
+Delores gets up, goes to Lucy, who's hyperventilating.  
+
+Lucy hands her the check. Delores starts hyperventilating. Lucy reads the 
+
+letter: 
+
+LUCY 
+
+It's from a "Jillian St.  
+
+Thomas Foundation," 
+
+for the benefit of scientific research.  
+
+DELORES 
+
+Never heard of it. Lemme see.  
+
+Lucy hands Delores the letter.  
+
+INSERT - THE LETTER is printed under a letterhead with a logo design: the 
+
+stick figure man with halo, the same design as the tiepin Jillian gave Templar.  
+
+BACK TO SCENE 
+
+Delores looks at Lucy. Lucy looks back.  
+
+And over this we hear a voice. We've heard it before...  
+
+JILLIAN ST. THOMAS 
+
+If you're afraid of the dark, 
+
+remember the night rainbow...  
+
+EXT. MANHATTAN - BROOKLYN BRIDGE - SUNSET 
+
+A lone man stands on the bridge.  
+
+The spires of Manhattan rise above him.  
+
+The sun is setting...  
+
+JILLIAN ST. THOMAS 
+
+If tomorrow morning the 
+
+sky falls, have clouds for 
+
+breakfast. If the birds 
+
+forget their songs, 
+
+listen to the wind...  
+
+CAMERA closes in on the hard, defiant face of a man who has changed a great 
+
+deal in these months.  
+
+JILLIAN ST. THOMAS 
+
+And if between right and wrong...  
+
+And Simon Templar joins Jillian here, speaking with her 
+
+soul... 
+
+SIMON AND JILLIAN 
+
+...do what is right.  
+
+And Simon whispers to himself...  
+
+SIMON 
+
+I will do what is right.  
+
+PULLING BACK, we see that the sunset has cast rays through the bridgework.  
+
+And we can't be certain, it is vague, but the rays filtering through the 
+
+bridgework seem to cast a halo over Templar's head.  
+
+He is, now, The Saint.  
+
+THE END 
+
+to be continued...  
+

@@ -1,0 +1,11498 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Broadcast News
+
+Broadcast  News
+
+by 
+
+James L. Brooks.
+
+	FADE IN
+
+	EXT. CITY STREET - DAY
+
+	A restaurant supply truck is curbside, near a small 
+
+	restaurant.  GERALD GRUNICK, forty-one, is closing the back 
+
+	door of his truck, feeling good about the world, a common
+
+	state for him.  He moves towards the cab of the truck and gets
+
+	inside as we SUPER:
+
+		KANSAS CITY, MO. - 1963
+
+	INT. TRUCK - DAY
+
+	As he sits down beaming over his recent good fortune... now we
+
+	REVEAL his twelve-year-old son, TOM, seated quietly beside him. 
+
+	He seems a bit down.  Gerald glances at his son.
+
+				GERALD
+
+		I don't know a recent Saturday I've
+
+		sold more.  You didn't think I'd
+
+		sell that health restaurant, did you?
+
+				TOM
+
+		No.  Not even you.
+
+				GERALD
+
+		Why so glum?
+
+				TOM
+
+		I don't know.
+
+				GERALD
+
+			(a beat)
+
+		Go ahead.
+
+				TOM
+
+		No, nothing.  I've got a problem,
+
+		I guess.
+
+				GERALD
+
+		Were you bothering by those
+
+		waitresses making a fuss?
+
+				TOM
+
+		No.  But, honest.  What are you
+
+		supposed to say when they keep
+
+		talking about your looks?  I don't
+
+		even know what they mean -- "Beat
+
+		them off with a stick."
+
+	Gerald stiffs a grin.
+
+				GERALD
+
+		You know, Tom, I feel a little
+
+		proud when people comment on your
+
+		looks.  Maybe you should feel that
+
+		way.
+
+				TOM
+
+		Proud?  I'm just embarrassed that
+
+		I like when they say those things.
+
+				GERALD
+
+		As long as that's your only problem
+
+		you're...
+
+				TOM
+
+		It's not.
+
+	He looks directly at his father and talks quietly, and sincerely.
+
+				TOM
+
+		I got my report card.  Three Cs,
+
+		two Ds and an incomplete.
+
+				GERALD
+
+		Oh my.  I see you studying so hard,
+
+		Tom.  What do you think the problem is?
+
+				TOM
+
+		I'll just have to try harder.  I don't 
+
+		know.  I will.
+
+			(talking himself
+
+			 into it)
+
+		I will.  I will.  I will.
+
+	He shakes his head for emphasis, glad he's received this pep
+
+	talk from himself -- he hands the card to his father.
+
+				TOM
+
+		Thanks, Dad, this talk helped.  Will 
+
+		you sign it, please?
+
+				GERALD
+
+			(as he signs)
+
+		Would it help if I got you a tutor?
+
+				TOM
+
+			(suddenly hopeful)
+
+		That would be great.
+
+			(worried)
+
+		It better help.  What can you do with
+
+		yourself if all you do is look good?
+
+	SUPER THE LEGEND -- "FUTURE NETWORK ANCHORMAN"
+
+							FADE OUT
+
+	FADE IN
+
+	BOSTON, MASS. - 1965
+
+	INT. HIGH SCHOOL - AUDITORIUM - DAY
+
+	AARON ALTMAN, looking almost preposterously young in his
+
+	graduation gown -- is delivering his valedictory.  He is a
+
+	rare bread -- a battle-scarred innocent.
+
+				AARON
+
+		...and finally to the teachers of
+
+		Whitman High School, I don't have the
+
+		words to express my gratitude which
+
+		may have more to say about the quality 
+
+		of the English Department here than 
+
+		my own limitations...
+
+	He awaits a laugh and gets only the weird sound of collective
+
+	discomfort.
+
+				AARON
+
+		...that was, of course, not meant to
+
+		be taken seriously.  A personal note.  
+
+		I am frequently asked what the special 
+
+		difficulties are in being graduated 
+
+		from High School two months shy of my 
+
+		fifteenth birthday.  I sometimes 
+
+		think it was the difficulties 
+
+		themselves which enabled me to do it.
+
+		If I'd been appreciated or even tolerated
+
+		I wouldn't have been in such a hurry to
+
+		graduate.  I hope the next student who
+
+		comes along and is able to excel isn't
+
+		made to feel so much an outcast.  But
+
+		I'm looking forward to college; this is
+
+		the happiest day I've had in a long
+
+		time.  I thank you and I forgive you.
+
+	This is very little applause.
+
+	ANGLE ON TEACHERS
+
+				MALE TEACHER
+
+		I'm always so confused by Aaron.
+
+		Is he brave and earnest or just
+
+		a conceited little dick-head?
+
+	BACK TO AARON AS WE SUPER: "FUTURE NETWORK NEWS REPORTER"
+
+	ANGLE ON STAGE
+
+	As Aaron walks to his seat past three full grown tough looking
+
+	semi-literate high school graduates.
+
+				YOUTH #1
+
+		Later, Aaron.
+
+	EXT. SCHOOL YARD - DAY
+
+	Clusters of graduates at the fence bordering the sunken school
+
+	yard looking down as the tough cap and gowners seen earlier
+
+	cuff Aaron around.
+
+	CLOSER IN
+
+	Aaron feeling from a blow -- his lip bleeding -- his teeth
+
+	covered with blood...as he gets to his feet.  He is livid --
+
+	something primal triggered by this brutality.
+
+				AARON
+
+		Go ahead, Stephen -- take your
+
+		last licks.
+
+			(points at his
+
+			 face)
+
+		But this will heal -- what I'm
+
+		going to say to you will scar you
+
+		forever.  Ready?  Here it is.
+
+	He dodges as they come after him.  They catch him by the hair
+
+	and hurl him to the ground.  As he gets up he hurls his
+
+	devastating verbal blow.
+
+				AARON
+
+		You'll never make more than
+
+		nineteen thousand dollars a year.
+
+		Ha ha ha.
+
+	They twist his arm and grip him -- his face scraped on the
+
+	concrete.
+
+				AARON
+
+		Okay, take this:  You'll never
+
+		leave South Boston and I'm going
+
+		to see the whole damn world.  You'll
+
+		never know the pleasure of writing
+
+		a graceful sentence or having an
+
+		original thought.  Think about it.
+
+	He's punched in the stomach and sinks to the ground.  As the
+
+	Young Toughs walk off Aaron catches a phrase of their
+
+	conversation.
+
+				YOUTH TOUGH
+
+		Nineteen thousand dollars...
+
+		Not bad.
+
+	FADE IN
+
+	ATLANTA, GEORGIA - 1968
+
+	INT. SUBURBAN HOME - NIGHT
+
+	JANE CRAIG, ten years old, is in her room typing.  Above the
+
+	desk where she works is a bulletin board with letters and
+
+	pictures tacked to each one.  Her desk has several file racks
+
+	which contain bulging but neat stacks of air mail envelopes --
+
+	a roll of stamps in a dispenser is to one side.  Jane types
+
+	very well in the glare of her desk lamp.
+
+				JANE
+
+			(voice over; as
+
+			 she types)
+
+		Dear Felatzia, it's truly amazing
+
+		to me that we live a world apart
+
+		and yet have the same favorite music.
+
+		I loved the picture you sent and
+
+		have it up on my bulletin board.
+
+		You're growing so much faster than
+
+		I am that I...
+
+	OTHER ANGLE
+
+	SHOWING Jane's FATHER standing near the door.
+
+				JANE
+
+			(voice over)
+
+		...am starting to get jealous.
+
+		I read in the newspapers about
+
+		the Italian strike and riots in
+
+		Milan.  I hope you weren't...
+
+				FATHER
+
+			(softly)
+
+		Honey?...
+
+	Jane SCREAMS, and grabs her heart, breathing heavily, babbles
+
+	nervously at her Dad.
+
+				JANE
+
+		Oh God -- Daddy -- don't...don't...
+
+		don't ever scare me like that --
+
+		please.
+
+	We SUPER:  "FUTURE NETWORK NEWS PRODUCER"
+
+	Her father is himself taken aback with the shock of her reaction.
+
+	Falling back towards the door:
+
+				FATHER
+
+		Jane -- For God's sake...
+
+			(recovering)
+
+		Look, it's time for you to go
+
+		to sleep.
+
+				JANE
+
+		I just have two more pen pals and
+
+		then I'm done.
+
+				FATHER
+
+		You don't have to finish tonight.
+
+				JANE
+
+			(he doesn't get in)
+
+		Nooo.  This way the rotation stays
+
+		the same.
+
+				FATHER
+
+		Finish quickly.  I don't want you
+
+		getting obsessive about these 
+
+		things.  Good night.
+
+	We REMAIN WITH Jane who has obviously become disconcerted and
+
+	troubled.
+
+	INT. HOUSE - NIGHT
+
+	As Jane moves to room at the other end of the hall -- a family
+
+	room where her Father reads the latest 
+
+Rolling Stone
+
+ of the
+
+	mid-60's -- Hunter Thompson, the New Journalism, the slim
+
+	Jann Wenner -- Jane bursts into the room.
+
+				JANE
+
+		Dad, you want me to choose my words
+
+		so carefully and then you just throw
+
+		a word like 'obsessive' at me.  Now,
+
+		unless I'm wrong and...
+
+			(enunciating)
+
+		...please correct me if I am, 'obsession'
+
+		is practically a psychiatric term...
+
+		concerning people who don't have anything
+
+		else but the object of their obsession --
+
+		who can't stop and do anything else.  Well,
+
+		Here I am stopping to tell you this.  Okay?
+
+		So would you please try and be a little
+
+		more precise instead of calling a person
+
+		something like 'obsessive.'
+
+	She advances furiously on her Father since even this strung out,
+
+	even with two additional pen pal letters to get off, she had
+
+	enough sense of duty to kiss him good night before storming from 
+
+	the room.  She exits the room INTO BLACK.
+
+	Stay on BLACK as we begin MAIN TITLES:
+
+	OVER EXT. SMALL MID-WESTERN CITY - DAY
+
+	Emerging from the blackness -- Jane Craig -- now a
+
+	twenty-eight-year-old woman -- a long speed walker wearing a
+
+	jacket to which reflecting stripes have been glued -- the kind
+
+	of gear only possessed by someone who runs at off-hours.  The
+
+	Jacket itself is a wish-I-had-it souvenir from some important
+
+	news assignment, the sort of treasure you love about all else
+
+	yet never mention.  She stops running as she feeds quarters into
+
+	the first of a phalanx of newspaper machines -- getting seven
+
+	different papers before moving on.
+
+	INT. MOTEL ROOM - DAY
+
+	As she enters from the bathroom, having showered and dressed.
+
+	The sun is jus now rising.  She sits next to her phone.
+
+	INSERT:  JANE'S ROOM
+
+	The Filofax book is almost an additional character -- a crucial
+
+	hand-fashioned tool of Jane's trade.  She flicks at a page --
+
+	takes down a typewritten sheet scotch-taped to it showing the
+
+	room number of her crew and reporter.
+
+	ON JANE
+
+	As she dials one room number.
+
+				JANE
+
+			(into phone)
+
+		Hi...It's me...
+
+	INT. DUPLICATE MOTEL ROOM - DAY
+
+	ANGLE ON CAMERAMAN -- his equipment in evidence though
+
+	essentially asleep holding his bedmate's hand, as he listens
+
+	to Jane.
+
+				JANE'S VOICE
+
+			(voice over)
+
+		It's thirty minutes before you have
+
+		to meet me in the lobby -- nudge
+
+		your wife.
+
+	BACK TO SCENE
+
+				JANE
+
+		There's probably no time to eat...
+
+		but there's a cafeteria at the bus
+
+		depot once we get down there.  I
+
+		love working with you two...It 
+
+		saves me a call.
+
+	She dales.
+
+	INT. DUPLICATE MOTEL ROOM
+
+	Where Aaron is switching his TV from station to station,
+
+	monitoring the early morning news.  His PHONE RINGS.
+
+				AARON
+
+		Hi.  Turn on your TV...
+
+Good Morning America
+
+, the
+
+Morning News
+
+ and 
+
+Today
+
+ are all
+
+		about to talk to Arnold 
+
+		Schwarzenegger and I think he's 
+
+		live on at least two of them.
+
+	BACK TO SCENE
+
+				JANE
+
+		At six o'clock on the wake-up
+
+		news they used the wrong missile
+
+		graphic.
+
+				AARON
+
+			(Austrian accent)
+
+		Now listen, Arnold just said that
+
+		he's been making three million a
+
+		movie now.  But he's not ever 
+
+		gonna change.  He's still the same
+
+		person when he was making two 
+
+		million dollars a movie.  He feels
+
+		no different.  He also bought a brand-
+
+		new condo with Maria, they gonna
+
+		furnish tastefully.
+
+				JANE
+
+		A half hour in the lobby.
+
+				AARON
+
+			(Austrian accent)
+
+		Okay, I'll see you in the lobbies [
+
+sic
+
+].
+
+	She hangs up -- takes the phone off the hook and lays it on the
+
+	bed for a moment's solitude.  She sits stiffly, palms on top of
+
+	her legs.  It looks like someone with unusually good posture,
+
+	waiting for something, and now we BEGIN TO SEE the first signs
+
+	redden and she begins to cry.  Now she sobs -- then miraculously
+
+	shakes it off and exits quickly to the bathroom.  This crying
+
+	episode is clearly part of her morning routine.
+
+	INT. BUS STATION - DAY
+
+	Jane standing behind her husband-wife - camera-sound team
+
+	as they train their attention on Aaron; who is getting ready to 
+
+	do a stand-up.  There is a DERELICT off to one side.  Aaron holds 
+
+	his microphone at the ready.
+
+				AARON
+
+		Ready.
+
+				CAMERAMAN
+
+		Your hair's a little funny.
+
+				AARON
+
+		It's an ethnic curl, I can't do
+
+		anything about it.
+
+				CAMERAMAN
+
+		In front of a little -- it's a bit...
+
+		You want a mirror?
+
+				AARON
+
+		No -- Don't worry about it.  Let's
+
+		do this.
+
+	Jane nods her assent.
+
+				CAMERAMAN
+
+		Okay.
+
+	AARON SEEN THROUGH CAMERA
+
+				AARON
+
+		In other times, for other purposes,
+
+		there might be a band and bunting
+
+		here at the bus depot for J.D. Singer's
+
+		return from war.  He...
+
+				JANE
+
+			(interrupting)
+
+		I'm sorry.  But look at how
+
+		wonderful his face is.
+
+	She points to the derelict.
+
+				AARON
+
+		Oh, you mean use him...That's
+
+		nice.  Okay.
+
+				CAMERAMAN
+
+		I'll put him in the low corner of
+
+		the frame -- good.
+
+				AARON
+
+		In other times, with other purposes,
+
+		there might be a band and bunting
+
+		here at the bus depot for J.D. Singer's
+
+		return from war.  Last week he was
+
+		decorated by a president for heroism
+
+		in a war.  But it was the civil war --
+
+		in Angola -- and he was in it for the
+
+		money.
+
+	He puts the microphone down.
+
+				AARON
+
+		Thanks.
+
+	He passes a vending machine and checks the stray hair.
+
+	INT. GATE AREA - DAY
+
+	Jane in the distant b.g. on the phone.  Aaron and crew shooting
+
+	as the bus pulls up, hisses to a stop and tired, rumpled
+
+	passengers exit the bus.  J.D. SINGER, strong, 9'6" figure
+
+	emerges and is displeased to find a camera trained on him.
+
+	He reacts with all the grace of a short mercenary.
+
+				J.D.
+
+		Go 'way.
+
+	J.D. gets his luggage from the compartment under the bus.  The
+
+	crew shooting.
+
+				AARON
+
+		Just a few questions?
+
+				J.D.
+
+		No.
+
+	He starts walking -- the four person newsteam staying with him.
+
+				AARON
+
+		We came from Washington.
+
+				J.D.
+
+		Move away from me.
+
+				AARON
+
+			(holding out
+
+			 microphone)
+
+		How long has it been since you've
+
+		been home.
+
+				J.D.
+
+			(moving)
+
+		Fuck.  Fuck.  Fuck.  Fuckes.  Snot...
+
+		Fuckee.  You want to use that?
+
+				AARON
+
+		It depends on how big a news day it 
+
+		is.
+
+	They reach Jane.  She calls to him.
+
+				JANE
+
+		J.D.  I'm Jane Craig.  I spoke to
+
+		you in Angola.  I gave you some
+
+		sugarless gum and Handi-Wipes.
+
+	As he reacts to her:
+
+	INT. JANE'S ROOM - NIGHT
+
+	Jane sitting next to Aaron making detailed timing notes as she
+
+	screens the material shot that day on a portable monitor unit.
+
+				AARON
+
+		Where's where I asked him about
+
+		being scared?
+
+			(then)
+
+		You should work on your speech.
+
+				JANE
+
+		No.  It makes me nervous to think
+
+		about it.  Let's do this.
+
+	She consults her notes and goes back to the exact spot.
+
+				AARON
+
+			(on tape)
+
+		All this business of war -- do you
+
+		get scared?
+
+				J.D.
+
+			(on tape; he smiles)
+
+		Uh-uh.
+
+			(then)
+
+		I'm a little freaked right now about
+
+		seeing my father though.
+
+	He laughs self-consciously and turns briefly away.
+
+				JANE
+
+		I love that turn away.
+
+	INT. AUDITORIUM - DAY
+
+	Jane is at the lectern in the darkened auditorium as two large
+
+	monitors display some 
+
+taped news pieces
+
+ she has assembled.  On
+
+	the lectern is a sign telling us we are at the Conference of
+
+	Local Television News Broadcasters.
+
+				JANE
+
+			(in darkness)
+
+		There's a point I'm trying to make
+
+		about these pieces coming up.
+
+	A WOMAN'S OUTLINE blacked out from behind -- her VOICE
+
+	ELECTRICALLY DISGUISED.
+
+				WOMAN
+
+			(o.s.; angrily)
+
+		I don't think any client of mine
+
+		makes less than fifty thousand dollars
+
+		a year which means they can afford the
+
+		best and you're damn right I feel good
+
+		that that includes me.
+
+							CUT TO:
+
+	ANOTHER ANGLE - ANOTHER WOMAN
+
+	in blackness, her VOICE DISGUISED.
+
+				WOMAN TWO
+
+			(o.s.)
+
+		No.  You'd be surprised at who a
+
+		working girl meets.  I've been a
+
+		working girl for what? -- over a year
+
+		anyway and that must be a thousand
+
+		men and I don't think there's an age
+
+		or type that hasn't been in there.
+
+				INTERVIEWER'S VOICE
+
+			(voice over)
+
+		Policemen?  -- Doctor? -- Lawyer...?
+
+				WOMAN TWO
+
+			(o.s.)
+
+		Oh, sure.  Television reporters.
+
+	A laugh from the audience.  There is a:
+
+							CUT TO:
+
+	ANOTHER ANGLE - FULL FIGURE
+
+	A WOMAN in blackness.
+
+				WOMAN THREE
+
+			(o.s.)
+
+		I'm seventeen now and I've been
+
+		working the streets for two years
+
+		and I guess to be honest -- I stopped
+
+		thinking of it as temporary.
+
+	The lights come up on the room.  The two screens go black...
+
+	there is general APPLAUSE.  Jane blinks nervously.
+
+				JANE
+
+		Please don't applaud.
+
+	ON AUDIENCE
+
+	Sitting in groups of three -- NEWS TEAM from around the country,
+
+	remarkably similar in comparison...a great looking woman, good
+
+	looking man (either young or attractively avuncular) and a Black
+
+	or Hispanic.  They still APPLAUD -- not yet having grasped the
+
+	sincerity of Jane's plea which she presses with more urgency.
+
+				JANE
+
+		Please.  Don't!!
+
+			(she yells)
+
+		I gathered these pieces as an
+
+		example of what's 
+
+WRONG
+
+ with local
+
+		television news.
+
+	The applause stops.
+
+				JANE
+
+		The excerpts from THREE SEPARATE
+
+		SERIES on prostitution were
+
+		SIMULTANEOUSLY broadcast by all
+
+		stations in one city during sweeps
+
+		week.  By what bend of either or
+
+		suspension of duty is that broadcast
+
+		news?
+
+	She pauses half a beat for possible applause -- hearing none,
+
+	she continues.  An anchorman sneezes -- four people shout
+
+	"gesundheit" simultaneously -- they laugh.
+
+				JANE
+
+		The legacy of Edward R. Murrow,
+
+		Eric Sevareid, William Shirer,
+
+		David Brinkley and Walter Cronkite
+
+		is being squandered in a desperate
+
+		popularity contest.  Our profession
+
+		is in danger:
+
+	TRACKING SHOT
+
+	As Jane continues, REVEALING that the news team now have even
+
+	more in common.  They do not like Jane.
+
+				JANE
+
+		Yesterday's compliment has somehow
+
+		managed to become today's kiss of
+
+		death.  To be considered a serious
+
+		journalist is no longer flattering.
+
+		It presents the risk of being labeled
+
+		ponderous, or worse yet, elitest, 
+
+		right?
+
+	SHOT CONTINUES
+
+	Women playing with their hair, young man bored...one
+
+	middle-aged anchorman fusses with a spot on his tie...
+
+	ON JANE
+
+	Briefly departing from text.
+
+				JANE
+
+		All of you know what I'm talking about.  
+
+		We're all trying to act together than 
+
+		we are.  But we care.  So, we're all 
+
+		secretly terrified, aren't we?
+
+	Not a peep -- she is thrown but doggedly presses on with her
+
+	prepared speech though her throat constricts a bit, her voice
+
+	begins to rasp.
+
+				JANE
+
+		We are being increasingly influenced
+
+		by the star system.  The network
+
+		anchormen are so powerful they 
+
+		compromise our last best hope.  The 
+
+		current group is clearly qualified, 
+
+		tied still to our best traditions, but 
+
+		who follows these men?
+
+	TRACKING SHOT MOVES TO TOM GRUNICK
+
+	Seated with other members of his news team, a young blonde
+
+	woman whose hand is resting on his inner leg, a good looking
+
+	Hispanic.  Tom feels a growing excitement -- Jane is not just
+
+	a speaker, she seems a savior.
+
+				TOM
+
+		Wow.
+
+	His female colleague looks at him.
+
+				FEMALE COLLEAGUE
+
+		Oh, I've known so many women like
+
+		that.  They don't like their looks
+
+		so they're angry.
+
+	BACK TO JANE
+
+	Fumbling with her cards, sunk but game -- gamer than she would
+
+	wish.
+
+				JANE
+
+		I was going to talk about other
+
+		trends but...
+
+			(mumbling)
+
+		...the magazine shows, news at
+
+		profit, influence of
+
+Entertainment Tonight
+
+, the danger, the
+
+		hope, the dream, the question...Oh, I
+
+		was going to show you a tape -- a story
+
+		that was carried by all networks on the
+
+		same night -- the same night -- not one
+
+		network noted a major policy change in
+
+		Salt Two nuclear disarmament talks...
+
+		Here's what they ran instead...Go ahead. 
+
+		Show the tape.
+
+	ON MONITORS
+
+	Showing the Japanese Domino Championships as broadcast by all
+
+	networks in the Spring of 1985.  It is quite spectacular -- the
+
+	dominoes falling into one another provoking waves, crossing tiny
+
+	bridges, setting off little fireworks.  JANE'S AUDIENCE applauds
+
+	loudly and squeals with delight.
+
+	ON SCENE
+
+	Jane between the two monitors.  She begins to speak loudly OVER
+
+	the AUDIENCE NOISES of approval.
+
+				JANE
+
+			(loudly)
+
+		I know it's good film.  I know it's
+
+		fun.  I like fun.  It's just not news.
+
+			(as they continue
+
+			 to applaud)
+
+		Well, you're lucky you love it --
+
+		you're going to get a lot more just
+
+		like it.
+
+	STRAY VOICE - SHOUT "GOOD"
+
+	OTHER ANGLE
+
+	Jane sitting rocked into momentary catatonia, by the event.
+
+	Dazed as an animal stung by a tranquilizer dart.  She takes
+
+	some irregular breaths waiting for normal life to return.
+
+	WIDER
+
+	Tom the last person remaining in the room.  He approaches her --
+
+	she is totally unaware of his presence, even when he casually
+
+	mounts the stage with an athletic leap.  It takes courage for
+
+	Tom to fully intrude himself, which he now does:
+
+				TOM
+
+		Hello.
+
+	She looks up at him.
+
+	ANGLE ON TOM
+
+	Earnest, nervous -- handsome...Just when she needed a mirage
+
+	there it is.
+
+				JANE
+
+		Hi.
+
+				TOM
+
+		I just wanted to tell you  how great 
+
+		you were.  My name's Tom Grunick.
+
+				JANE
+
+			(dumbly)
+
+		Thank you.
+
+			(then)
+
+		They hated me.  I don't hate them.
+
+				TOM
+
+		Well, they say if you can reach
+
+		even one person, it means something...
+
+		And you did that.
+
+	Jane looks up at his smile -- a beat then:
+
+				JANE
+
+		Would you like to have dinner
+
+		with me?
+
+	INT. HOTEL RESTAURANT - NIGHT
+
+	Jane arrives at the maitre d' stand.  She has attempted to dress
+
+	up to the extent that  packing for a short-day trip allows.  She
+
+	looks for Tom.  Tom rises from a table and is immediately at
+
+	her side.
+
+				JANE
+
+		Hi.  I was worried I was early.
+
+				TOM
+
+		I was a lot earlier.
+
+	They are lead to a table and sit down.
+
+				TOM
+
+		I kept thinking what a great break
+
+		it was for me to get to see you
+
+		tonight.  More than a great break,
+
+		maybe just what I needed...just when
+
+		I needed it...Angel of mercy --
+
+		godsend...lifesaver...what?
+
+				JANE
+
+			(picking one)
+
+		I like "godsend."
+
+				TOM
+
+		I haven't been in news that long.
+
+		I've just been looking for the
+
+		right person to talk to.  I have
+
+		about two thousand questions for you.
+
+	He notices that her head has gone into her hands where it
+
+	continues to rest.  He looks at her a beat.
+
+				TOM
+
+		It's possible now's not the right
+
+		time.
+
+	She lifts her head.
+
+				JANE
+
+		If we could just eat first.
+
+				TOM
+
+		Totally understood.  Totally
+
+		wrong of me to talk shop after
+
+		the day you've had.  Totally
+
+		sorry.
+
+				JANE
+
+		Nooo.  If I could just have a
+
+		roll, I'd be okay.
+
+	She takes a roll from the roll plate.  He smiles at her.  She
+
+	takes a bite.
+
+				JANE
+
+		Thank you.
+
+	EXT. CONVENTION HOTEL - NIGHT
+
+	As they walk along -- dumping occasionally and self-consciously.
+
+	Jane is feeling a version of being turned on -- that is, a little
+
+	adrift and temporarily free of obligations.  She is open to
+
+	making a memorable mistake.
+
+				JANE
+
+		Another thing I can't stand --
+
+		Is this dull?
+
+	Tom shakes his head almost violently.
+
+				TOM
+
+		No, no, no, no...
+
+	Jane looks at him curiously -- then:
+
+				JANE
+
+			(broadly)
+
+		Another thing I can't stand is
+
+		...when White House reporters
+
+		bullshit with each other after
+
+		a briefing and then one of them
+
+		has a theory and the other quotes
+
+		it in his story as "White House"
+
+		sources say...
+
+				TOM
+
+		That actually goes on...
+
+				JANE
+
+		Yes.  My room is down here --
+
+		I'm not tired.  Do you want to
+
+		keep talking?
+
+				TOM
+
+		Yes, sure.
+
+	INT. JANE'S ROOM - NIGHT
+
+	A small good room -- her working paraphernalia very much in
+
+	evidence...the quality briefcase...the reams of well organized
+
+	notes...the thick contact book -- Jane is sitting on the bed --
+
+	Tom, not far away in the room's only chair.  One lamp is on
+
+	and it serves to place Jane in the shadows and cast Tom in an
+
+	enormously flattering light.  MUSIC comes from her miniature
+
+	portable STEREO system.
+
+				JANE
+
+		Come on...Even I'm not that
+
+		hard on myself.
+
+				TOM
+
+		No, I really got this job on a
+
+		fluke and wait till you hear where
+
+		it ends up.
+
+	Jane smiles a calming smile.
+
+				JANE
+
+		I was doing sports at the station.
+
+		The newspaper ran this untrue story
+
+		that I was leaving and they got all
+
+		these tons of protest mail.  So they
+
+		made me anchor.
+
+				JANE
+
+		So great -- right?
+
+				TOM
+
+		Except I'm no good at what I'm being
+
+		a success at.
+
+				JANE
+
+		How are you at back rubs?
+
+	Jane shifts her position so that her back is to Tom... He is
+
+	immobilized by the sudden turn.  Jane waits, just a bit longer
+
+	than it would take a man to run from the chair to her side before
+
+	experiencing the ghost-like clutch of rejection.  She moves
+
+	briskly past the moment -- grabbing a "good night" chocolate
+
+	from the pillow and munching it as she return to 
+
+his
+
+ agenda.
+
+				JANE
+
+		It's sort of normal -- the way you
+
+		feel.  In graduate school everyone
+
+		thought the only mistake the
+
+		admission committee made was letting
+
+		them in.
+
+	He moves to the bed.
+
+				TOM
+
+		Listen to me.  You keep on thinking
+
+		I'm somebody ho lacks...confidence.
+
+		That's not it.  I know I can talk well
+
+		enough and I'm not bad at making contact
+
+		with people, but I don't like the 
+
+		feeling that I'm pretending to be a 
+
+		reporter.
+
+			(cont'd)
+
+		And half the time I don't really get 
+
+		the news I'm talking about.  It isn't
+
+		that I'm down on myself.  Trust me,
+
+		I stink.
+
+				JANE
+
+			(levelly)
+
+		I trust you.
+
+				TOM
+
+		I didn't even have the chance to get
+
+		really good at sports.  I wasn't bad.
+
+		I thought I was starting to do
+
+		interesting features but hockey is
+
+		big at the station and...
+
+				JANE
+
+			(interrupting)
+
+		What about the obvious remedy?
+
+		Reversing things.  Maybe getting a
+
+		job on a newspaper.
+
+				TOM
+
+		I don't write.
+
+	Jane laughs or, more accurately, scoffs as Tom Continues.
+
+				TOM
+
+		But that didn't stop me from
+
+		sending out audition tapes to
+
+		bigger stations and the networks.
+
+				JANE
+
+		Well, come on -- it is your life.
+
+		Nobody is tying you to the fast
+
+		track.  Did you go to college?
+
+				TOM
+
+		One year...almost one year.
+
+				JANE
+
+		So, you're not well educated and
+
+		you have almost no experience and
+
+		you can't write.
+
+	He nods agreement.
+
+				TOM
+
+		And I'm making a fortune.
+
+	Jane laughs very briefly -- then rubs her face vigorously with
+
+	her hands... He's making her feel a little crazy.  She gets off
+
+	the bed.
+
+				JANE
+
+		It's hard for me to advise you
+
+		since you personify something that
+
+		I truly think is dangerous.
+
+				TOM
+
+		Uh-huh.
+
+				JANE
+
+			(holding it in)
+
+		I agree with you -- you're not qualified.
+
+			(letting it out)
+
+		So get qualified.  You can insist on
+
+		being better prepared.  You don't have
+
+		to just leave it as...
+
+			(mimicking him)
+
+		'I don't write.  I'm not schooled.
+
+		I don't understand the news I'm reading.
+
+		But at least I'm upset about it, folks.'
+
+	A beat, then he mumbles softly to himself.
+
+				TOM
+
+		Whoa, this was a mistake.
+
+				JANE
+
+		Just what do you want from me, anyway?
+
+		Permission to be a fake?  Stop whining
+
+		and do something about it.
+
+	He gets up to leave.  She follows him.
+
+				JANE
+
+		Well, you don't have to start right now.
+
+	He turns to her.
+
+				TOM
+
+		I hated the way you talked to me just
+
+		now...and it wasn't just because you
+
+		were right.
+
+	He exits.
+
+	INT. JANE'S HOTEL - NIGHT
+
+	She is on the phone.
+
+				JANE
+
+			(into phone)
+
+		No.  It wasn't just the speech --
+
+		the same thing happened with this
+
+		guy.  I have passed some line some
+
+		place.  I am beginning to repel people
+
+		I'm trying to seduce.
+
+	INT. AARON'S APARTMENT - NIGHT
+
+	As he talks with Jane.
+
+				AARON
+
+			(agreeably)
+
+		He must have been great-looking, right?
+
+				JANE
+
+		Why do you say that?
+
+				AARON
+
+		Because nobody invites a bad-
+
+		looking idiot to their bedroom.
+
+	She smiles.
+
+				AARON
+
+		Okay.  Let's do me.
+
+				JANE
+
+		Sure.
+
+				AARON
+
+		Okay.  I feel like I'm slipping but
+
+		do people who are actually slipping
+
+		feel that way or is it always the
+
+		really good people who are moving up
+
+		who invariably think they're slipping
+
+		because their standards are so high?
+
+				JANE
+
+		This conversation is not worthy of you.
+
+				AARON
+
+		I'd give anything if that were true.
+
+				JANE
+
+			(laughing)
+
+		Good night.
+
+				AARON
+
+		Wouldn't this be a great world if
+
+		insecurity and desperation made us
+
+		more attractive?  If needy were a
+
+		turn-on?
+
+				JANE
+
+		Call if you get weird.
+
+	INT. JANE'S HOTEL - NIGHT
+
+	She hangs up -- pulls back the bedspread on the double bed --
+
+	on the other half are papers, schedules -- tapes.  She doesn't 
+
+	clear them off so that she is literally sleeping with her work.  
+
+	The PHONE RINGS.
+
+				JANE
+
+			(answering)
+
+		I was just thinking it was the
+
+		shortest phone conversation we
+
+		ever had.
+
+	EXT. PHONE BOOTH
+
+	A deserted well-lit area.  Tom on the phone.
+
+				TOM
+
+		I never told you the reason I was
+
+		telling you everything for.
+
+				JANE
+
+			(pleasantly surprised
+
+			 it's him)
+
+		Hey?
+
+	INTERCUT:
+
+	ON TOM
+
+				TOM
+
+		Those audition tapes I sent out...
+
+		I've been hired by your network for
+
+		the Washington bureau.  So I'll
+
+		probably see you at work.  Sorry.
+
+	Jane is rocked and soured.
+
+				JANE
+
+		What???
+
+	EXT. WASHINGTON D.C. STREET - MORNING
+
+	Jane and Aaron walking to work -- agitated.
+
+				AARON
+
+		They didn't hire Peter Stiller from
+
+		the 
+
+Times
+
+ and he had a great
+
+		audition tape.
+
+				JANE
+
+		You want to start going over who they
+
+		could have gotten?  They can't take on
+
+		people like this for network news.  For
+
+		God's sake.  What's going on?
+
+	INT. NEWS BUILDING LOBBY - DAY
+
+	Tom arrives for first day of work.
+
+	INT. ERNIE MERRIMAN'S OFFICE
+
+	ERNIE MERRIMAN is the network's Washington Bureau Chief.  He
+
+	is in his early 60's, has worked for the network about 40 years
+
+	-- part of the golden age -- a family man, an honorable man,
+
+	a good guy.  Right now he is welcoming Tom to the network
+
+	thereby good-naturedly helping with the destruction of all he
+
+	holds dear.  As he hands Tom his credentials:
+
+				ERNIE
+
+		Any particular area you feel
+
+		strongest in?
+
+				TOM
+
+		To be honest, I was best at anchor.
+
+	Ernie gives him a long look -- is he kidding?
+
+				ERNIE
+
+		Why don't you take a few days observing
+
+		the system?  Then we'll put you on
+
+		general assignment.
+
+	EDITING ROOM - NIGHT
+
+	Two small TV monitors -- a smallish room.  Jane goes over her
+
+	timing notes which correspond to the time code SUPERED on the
+
+	monitors.  BOBBIE -- an extraordinarily silent man -- is doing
+
+	Jane's bidding.  On the monitor we SEE the mercenary piece
+
+	which Jane is editing against a tightening deadline.  The
+
+	PHONE RINGS periodically -- Jane conducting abrupt conversations
+
+	which continuing to edit.  The pressure is palpable to begin
+
+	with but builds and builds; almost like a family fight getting
+
+	out of hand and threatening to bend lives.  Through it all, Jane
+
+	remains remarkable calm.  Her focus is amazing; her command sexy.
+
+				JANE
+
+			(consulting notes)
+
+		Go back to 316, Bobbie.  The sound
+
+		bite in the cab -- it starts, 'I
+
+		don't know how I'll feel...'
+
+				BOBBIE
+
+		We could...
+
+				JANE
+
+			(interrupting)
+
+		Please, Bobbie, we're pushing.
+
+	As Bobbie expertly reverses the tape, Tom's face appears in
+
+	the glass doorway and then he enters the already crowded room --
+
+	Jane's eyes click to him briefly.  She makes not a move to
+
+	welcome him.  He pauses, but is committed and tries to find
+
+	a piece for himself against the wall.
+
+				TOM
+
+		They said I should observe the...
+
+	Jane is distracted by the noise... Tom leaning over towards her.
+
+				TOM
+
+		They said it would be okay if...
+
+				JANE
+
+			(incredulous)
+
+		We're working here!!  You can stand
+
+		over in the uh, uh, uh...
+
+	She momentarily can't think of the word 'corner.'  Then back
+
+	to Bobbie:
+
+				JANE
+
+		Play back the last line...
+
+				BOBBIE
+
+		He said something about...
+
+				JANE
+
+			(sharply)
+
+		Let me hear it!
+
+	Bobbie, taking the sharp commands with ever increasing,
+
+	yet still repressed resentment.
+
+	The Assistant Director, BLAIR LITTON, enters the editing room.
+
+	She is about 26 and every night since she got her job as
+
+	Assistant Director she has been the first to crack under pressure.
+
+				BLAIR
+
+		We'll need it in ten minutes.  We're
+
+		putting it directly into...
+
+	Jane holds up a finger of warning to Blair as she picks up a
+
+	ringing phone and talks to Bobbie at the same time.
+
+				JANE
+
+			(into phone)
+
+		Craig, just a second --
+
+			(to Bobbie)
+
+		Let me hear it!
+
+	Through much of this chaos we focus on:
+
+	TOM
+
+	Wedged into an uncomfortable position between two tape racks --
+
+	He is wide-eyed at this circus of tension and fear.  His eyes
+
+	dart around constantly -- trying to take in as much as he can,
+
+	always returning with wonder to focus on Jane.
+
+				MERCENARY
+
+			(voice over)
+
+		It's been a long time since I've seen
+
+		my folks and all but...I don't expect
+
+		any big-deal homecoming.
+
+				JANE
+
+		Stop there.
+
+			(into phone she's
+
+			 been holding)
+
+		I want to shoot a picture from
+
+		a book I have in the office.
+
+				BLAIR
+
+		You don't have time.  Not a chance.
+
+				JANE
+
+			(into phone)
+
+		I'll be right down.  It's right tight.
+
+	She crosses out.
+
+				BLAIR
+
+		I've got to tell Ernie...because
+
+		there isn't enough time.
+
+				JANE
+
+		Yes, there is.
+
+	Blair leaves, as Jane gathers up her notes.  She charges out
+
+	leaving Tom awkwardly along with Bobbie.
+
+				TOM
+
+		I'm Tom Grunick.  I started on
+
+		General Assignment today.
+
+	Bobbie stops the machine, turns in his chair and shakes hands.
+
+	Then he smiles secretly and speaks his first full sentence.
+
+				BOBBIE
+
+		I don't think she's going to make it.
+
+	Tom exits.
+
+	INT. BUREAU NEWSROOM
+
+	Aaron is having a theoretical discussion with Ernie and
+
+	JENNIFER MACK, a correspondent in her early 40's, a pioneer
+
+	beauties in news.  She is well-schooled, bred, trained and
+
+	known... GEORGE WEIN, a black correspondent in his 40s, and
+
+	MARTIN KLEIN, formerly with the Johnson administration --
+
+	State Department correspondent for the network.
+
+				KLEIN
+
+		Okay, what about this?  Here's a
+
+		tough ethical one.  Would you tell
+
+		a source that you loved them just
+
+		to get some information?
+
+				AARON
+
+		Yes.
+
+				GEORGE
+
+		Yes.
+
+				ERNIE
+
+		Me too.
+
+				JENNIFER
+
+		Sure.
+
+				AARON
+
+		Jennifer didn't know there
+
+		was an alternative.
+
+	Jennifer laughs that laugh one always hopes beautiful women
+
+	will laugh when one says something funny.  Aaron smiles at her.
+
+				AARON
+
+		Here's one.  They allow us to have
+
+		cameras at an execution in Florida.
+
+		Do you broadcast tape of the guy  in
+
+		the chair when they turn on the
+
+		voltage?
+
+				KLEIN
+
+		Sure.
+
+				JENNIFER
+
+		Why not?
+
+				ERNIE
+
+		Absolutely.
+
+				GEORGE
+
+		You bet.
+
+				AARON
+
+		Nothing like wrestling with a
+
+		moral dilemma is there?
+
+	Blair enters the scene, Tom trailing several feet behind,
+
+	continuing to monitor the budding deadline crises.
+
+				BLAIR
+
+		Excuse me, Ernie, we're several minutes
+
+		to air and Jane's shooting an insert
+
+		still for tonight's piece.
+
+				ERNIE
+
+		She knows how much time she has.
+
+	Blair flashes a tortured smile -- panic is growing.
+
+				BLAIR
+
+		Okay.  I just wanted you to know.
+
+				AARON
+
+		What is she shooting?
+
+				BLAIR
+
+		Norman Rockwell's 'Homecoming.'
+
+				AARON
+
+			(thinks then)
+
+		Oh, that's nice...
+
+			(walking away)
+
+		We'll need some new lines.
+
+	INT. EDITING ROOM - NIGHT
+
+	Jane up against it now -- but still seemingly calm.  Tom
+
+	watching, keeps on glancing at the clock fascinated,
+
+	impressed.
+
+				JANE
+
+		Okay, Bobbie, just a two-second
+
+		dissolve to the Rockwell.
+
+				BOBBIE
+
+		Should I...
+
+				JANE
+
+			(interrupting)
+
+		Just a two-second dissolve.
+
+				BLAIR
+
+			(hurting)
+
+		Oh, Jesus, we have three minutes...
+
+		Why do you do this to me.  Is it
+
+		because I won an award?
+
+	INT. RECORDING BOOTH - NIGHT
+
+	Where Aaron is writing his last line on a folded over piece of
+
+	paper even as he gets ready to record.  He times it with a
+
+	stop watch.
+
+				AARON
+
+		Norman Rockwell's enduring portrait
+
+		of a 
+
+Homecoming
+
+  The return of a
+
+		fighting man has always been one of
+
+		the more moving ceremonies of war...
+
+		Tearful women, proud men, excited
+
+		children.  But J.D. Singer was right --
+
+		his homecoming was no big deal.
+
+	INT. EDITING ROOM - NIGHT
+
+				BLAIR
+
+		We have a minute and a half.  It's my
+
+		responsibility to tell them we won't
+
+		be ready.
+
+				JANE
+
+		Uh-uh.  We're be ready.
+
+	Blair glances frantically at her watch.
+
+				BLAIR
+
+		In 84 seconds?
+
+	ON CLOCK
+
+	Sweeping from 28 minutes to -- 84 seconds from deadline.  Aaron
+
+	walks in, Jane looks up.
+
+				JANE
+
+			(hopefully)
+
+		Nine seconds.
+
+				AARON
+
+		Eleven and a half.
+
+				JANE
+
+		Oh, God.  Back it, Bobbie -- Bobbie?
+
+	ALMOST SIMULTANEOUS DIALOGUE FOLLOWS.  IT BUILDS UNTIL IT
+
+	DUPLICATE THE SOUND OF LOUD AND BAWDY SEX.
+
+				BLAIR
+
+		You're saying 'Oh, God..."  They are
+
+		going to go to up and the screen will
+
+		be black -- they're going to go to black
+
+		because we're not there.  How about
+
+		careers, huh?  How about careers?
+
+	ON CLOCK
+
+	42 seconds away.
+
+				BLAIR
+
+		We're not going to make it.
+
+	Bobbie makes a small bobble -- Jane giving the merest evidence
+
+	of the strain, scratching her face repeatedly.
+
+				BOBBIE
+
+		Whoops.
+
+				BLAIR
+
+			(unravelling)
+
+		Whoops?!?  Whoops?!?  No, please...
+
+		no, ooh, ahhh, ohhh.
+
+				AARON
+
+		Shit, shit, shit...
+
+				TOM
+
+			(caught up)
+
+		You're almost there, you can do it --
+
+		can do -- can do.
+
+	And as the pitch reaches its zenith, 27 seconds left.  Bobbie
+
+	hands the tape to Blair.
+
+				BOBBIE
+
+		Ready.
+
+	INT. NEWSROOM - NIGHT
+
+	Blair hikes up her skirt and takes off.
+
+	VARIOUS SHOTS
+
+	Our "chase scene" as Blair soars through the newsroom, leaping a
+
+	chair smoothly, smashing her leg against a table in full flight,
+
+	the adrenaline deadening the pain -- she arrives at a waiting
+
+	elevator -- uses a key dangling from her neck to unlock it... jumps
+
+	nervously during the ride and now, in FULL EXTENDED FLIGHT, barrels
+
+	down the long corridor heading to the control room where she
+
+	arrives; slamming the tape into a technician's hand even as it is
+
+	introduced on the air.
+
+	INT. NEWSROOM - NIGHT
+
+	Aaron, Jane, the others looking at the end of the piece on the
+
+	air -- Tom in the b.g. as Blair enters -- relaxed, almost jaunty.
+
+				BLAIR
+
+		I was a little nervous there for
+
+		a minute.
+
+				AARON
+
+		Oh, come on -- tell us another.
+
+	ON MONITOR
+
+	The end of the piece -- the Rockwell painting giving way to the
+
+	mercenary's actual homecoming which matches the portrait.  The 
+
+	irony works nicely.  The network anchorman comes up for his close.  
+
+	BILL RORISH, 50 years old and able to flutter much younger pulses.  
+
+	He is able and experienced -- a reporter who has become a 
+
+	journalistic king.
+
+				BILL
+
+			(on monitor, smiling)
+
+		Bill Rorish...Thank you...Good night.
+
+				JENNIFER
+
+		Look at that smile.  Oh, that was
+
+		good and oh my, Bill 
+
+smiled
+
+ -- he
+
+		liked it.
+
+				AARON
+
+		He loved it.  Big smile.
+
+	He gives Jane a congratulatory sock in the shoulder which she
+
+	returns -- Tom in the b.g. of the SHOT.
+
+				BLAIR
+
+		I haven't seen Bill smile like that
+
+		in weeks.
+
+	Ernie has walked a few steps to the office.
+
+				BLAIR
+
+		Ernie, you missed his close... He smiled.
+
+			(mimicking)
+
+		Thank you...Good night.
+
+	She smiles.
+
+				ERNIE
+
+		I saw the smile -- good piece.
+
+				AARON
+
+		I'm gonna go look at it again.
+
+	They leave -- Aaron waving to Tom who stands in the b.g.  The
+
+	others leave.  Tom approaches Jane.
+
+				TOM
+
+		I'm sorry if I was in the way.  It
+
+		was totally impressive.  Great piece.
+
+				JANE
+
+			(somewhat formal)
+
+		You weren't.  Thanks.  How does it
+
+		feel being here?
+
+				TOM
+
+		I can't believe I'm really here.  No
+
+		kidding.  If you're through work now --
+
+				JANE
+
+		No.  Aaron and I go to Central America
+
+		on Wednesday -- so I'm cramming.
+
+				TOM
+
+		I thought you were incredible in there.
+
+		I know how much I have to learn.  I'd
+
+		really -- a lot -- appreciate it...if...
+
+				JANE
+
+		'Really a lot appreciate it...'
+
+				TOM
+
+		You  make me nervous.  Anyway if I
+
+		can pick your brain --
+
+	Jane grimaces at "pick your brain."
+
+				JANE
+
+		I can't help you, sorry.  I'm not
+
+		here to teach remedial reporting.
+
+				TOM
+
+		And it has nothing to do with the fact
+
+		I left your room instead of staying 
+
+		there?
+
+	Jane looks at him.
+
+				JANE
+
+		Oh, please.
+
+			(then, almost gently)
+
+		You're gonna have to understand
+
+		something.  This isn't personal.
+
+	She exits.
+
+	EXT. CENTRAL AMERICAN JUNGLE - MORNING
+
+	As Aaron, Jane and their CREW march along with a CONTRA SQUAD deep
+
+	in their own conversation.  Except for the DIN of TROPICAL BIRDS
+
+	they seem almost like a cranky married couple on their way to work.
+
+				AARON
+
+		I didn't sleep.  They're giving me less
+
+		and less air time.  They don't think
+
+		I'm at all anchor material.
+
+				JANE
+
+		If we don't get to their camp soon,
+
+		we won't be able to tape the supplies
+
+		coming in.
+
+				AARON
+
+		Last time Paul was sick they gave
+
+		Connie the weekend news instead of me.
+
+				JANE
+
+		You spend too much time -- much too
+
+		much worrying about that crap...
+
+			(suddenly reacting)
+
+		Oh good.
+
+	They have entered a clearing where supplies have been dropped,
+
+	the Guerrillas already tearing apart boxes with army boots
+
+	inside.
+
+	ANGLE ON
+
+	A guerrilla soldier rubbing his shoeless foot.  A pair of new boots 
+
+	sit alongside him.  Jane's Cameraman prepares to shoot, saying in 
+
+	Spanish, then English:
+
+				CAMERAMAN
+
+		Put on the boot.
+
+	Jane rushes into the scene incensed.
+
+				JANE
+
+		Stop!  We are not here to stage the news.
+
+		Wait and see what he does.
+
+	Then to the totally confused soldier.
+
+				JANE (cont'd)
+
+		Sir, you do whatever you want.  It's
+
+		your choice.
+
+	By now there is a fair-sized cluster of armed men as well as
+
+	the news team staring at the guerrilla, who is at loss as to
+
+	what is expected.  He looks to Jane, who can offer no help
+
+	save her own determination not to interfere.  Finally he puts
+
+	on the boot.
+
+				JANE
+
+			(to Cameraman)
+
+		Okay.
+
+	He shoots the scene.
+
+	INT. HAY ADAMS HOTEL
+
+	Tom, in shirt and tie, is on the phone.  This is a big day.
+
+				TOM
+
+		Okay, I'll meet the crew there then.
+
+		Could you give me that address again?
+
+		Great.  Yes, it's good to finally be
+
+		getting to work.  Okay that's
+
+		17204?  1-7-2-0-4.  Thanks.
+
+	INT. HOTEL LOBBY - DAY
+
+	As Tom gets directions from the CONCIERGE.
+
+				CONCIERGE
+
+		It's only ten minutes if you prefer
+
+		to walk...
+
+			(as he walks away)
+
+		I'll look for you on the news tonight.
+
+	EXT. HOTEL - DAY
+
+	Tom has a real sense of the moment -- of having arrived.  The
+
+	strange bubble of pleasure rises to the surface as he walks off
+
+	to cover his first story.  He laughs out loud, loving his lot.
+
+	EXT. CENTRAL AMERICAN JUNGLE - LATER AFTERNOON
+
+	Jane in the f.g. with her crew while Aaron talks in rapid Spanish
+
+	to the GUERRILLA LEADERS.
+
+				AARON (in Spanish)
+
+		Are you guys kidding or do you really
+
+		think you'll run into something...?
+
+		I mean, do you feel that every time
+
+		and it never happens?  Or is it the
+
+		first time it felt that way and it's
+
+		going to happen?... I mean, how bad
+
+		can it be?... Are you nervous...?
+
+		What's the chances on a scale of one
+
+		to ten -- that we're going to be in
+
+		a war within the next few hours?...
+
+		Really?
+
+	He starts to walk towards Jane -- one of the men he was
+
+	talking with calling after him with an added thought.
+
+				AARON
+
+		Thanks, you speak English very well
+
+		too.
+
+			(to Jane)
+
+		Great news.  He says they've been
+
+		engaging the Sandinistas pretty
+
+		regularly and that he'd be really
+
+		surprised if we didn't take fire 
+
+		tonight.
+
+	Jane reacts -- a flash of exhilaration.  Aaron is amazed at her
+
+	attitude.
+
+				AARON
+
+		Look at her.
+
+			(to Jane)
+
+		If anything happens to me tell every
+
+		woman I've ever dated I was talking
+
+		about them at the end.  That way they'll
+
+		have to reevaluate me.
+
+	Jane laughs out loud, attracting the Guerrillas' attention.
+
+	Aaron repeats his speech in Spanish.  The Guerrillas laugh.
+
+	EXT. JUNGLE - NIGHT
+
+	Aaron and Jane in line behind the Guerrillas.  They HEAR A SHOT.
+
+	The head of the patrol gestures -- deploying his men.  Aaron
+
+	grabs Jane and heads for some cover to the left.  As they run --
+
+	more SHOTS.  Jane in work mode.  As soon as they settle.
+
+				JANE
+
+		Let's tape.
+
+				CAMERAMAN
+
+			(Spanish accent)
+
+		Much too dark.  Black.
+
+				JANE
+
+		That's okay.
+
+	ON AARON BARELY DISCERNIBLE
+
+	As they start taping he is breathless with the nervousness of
+
+	the nearly gunfire.
+
+				AARON
+
+		The first shots were fired not thirty
+
+		seconds ago.  The Contras feel they
+
+		must be outnumbered this is so small
+
+		a unit:  that's a given.  Still they
+
+		hold their ground despite the fact
+
+		that their weapons have been acting
+
+		up -- misfiring or jamming.  A new
+
+		shipment of rifles is expected tomorrow --
+
+		all they got today were the shoes.
+
+	There is the SOUND OF GUNFIRE.
+
+				JANE
+
+			(to Cameraman)
+
+		Okay.
+
+			(to Aaron)
+
+		Great line at the end.
+
+				AARON
+
+		Did you shoot their boots?
+
+				JANE
+
+		Of course.
+
+				AARON
+
+		We can cut back at the end.
+
+				JANE
+
+		To the pan of the supplies boxes --
+
+				AARON
+
+		Can you believe it?  I just risked my
+
+		life for a network that tests my face
+
+		with focus groups.
+
+	EXT. GOVERNMENT BLDG - AFTERNOON
+
+	Tom, squashed in amidst a small mob of reporters... behind a
+
+	police line.  He HEARS a reporter next to him say:
+
+				REPORTER
+
+		I think he's coming out now.
+
+				TOM
+
+			(to his crew)
+
+		They say he's coming out now.
+
+	A surge.
+
+				TOM
+
+			(to Reporter)
+
+		Is that him?
+
+				TOM'S CAMERAMAN
+
+		Yes.
+
+	Tom checks his notes.
+
+	INSERT - TOM'S BLACK BOOK
+
+	The same model we've seen Jane use.  A list of questions
+
+	written in big color highlighted letters.  As he looks down
+
+	to study them, everyone else moves suddenly off.
+
+	TOM'S P.O.V.
+
+	The mass of journalists and technicians shouting questions.
+
+	"Will you dispatch troops?" after the Ambassador they've been
+
+	awaiting -- clumping on his limo and then being shaken by the
+
+	movement of the vehicle.
+
+	ON TOM
+
+	Standing alone and forlorn as his crew trots back.
+
+				CAMERAMAN
+
+			(observing Tom)
+
+		What's wrong?
+
+				TOM
+
+		I had a lot of questions here.  I
+
+		missed the story.
+
+				CAMERAMAN
+
+		Don't worry, it's okay.  I got
+
+		a piece of his face.
+
+	EXT. GUERRILLAS CAMP - MORNING
+
+	Jane is standing -- talking to her crew.  Others asleep
+
+	in b.g. -- a drowsy, morning-after feeling.
+
+				JANE
+
+		Are you all packed and ready?
+
+				CAMERAMAN
+
+		The stuff in the dark is not good.
+
+		Nobody wants news lit like that.
+
+				JANE
+
+		Will you just get packed?
+
+	She waves him off -- then she walks several yards away, holding
+
+	a knapsack in her hand.  She takes off a brush and runs it
+
+	through her hair -- opens a plastic case and takes out a travel
+
+	toothbrush, brushes her teeth and rinses her mouth with water
+
+	from her canteen.  She puts everything back in place, then looks
+
+	about, sobs for several beats.  One of the Guerrillas hears her
+
+	sobbing and enters the scene -- he stands a respectful distance
+
+	away.  Jane finishes, notices him, makes a face by way of
+
+	explanation, and exits the scene feeling measurably better.
+
+	INT. WASHINGTON CONTROL ROOM - NIGHT
+
+	The Washington Control Room.  Jennifer, Jane, Aaron, Blair stand
+
+	watching the intro to the Central American piece.  Tom stands in
+
+	the distant b.g.  There are over a dozen monitors -- including
+
+	one which is constantly on the anchor man, Bill Rorish.
+
+	ON TELEVISION MONITORS
+
+	Bill Rorish on camera -- an INSERT behind showing Aaron in
+
+	blackness planted into a Central American map bordered by rifles.
+
+	A separate monitor shows the INSERT alone.
+
+				BILL (voice over)
+
+		A fire fight along the Nicaraguan
+
+		border...in one minute.
+
+	The INSERT MOVES OUT AT US TO FILL THE SCREEN -- WE SEE Aaron's
+
+	dim outline and HEAR him say:
+
+				AARON (voice over; on camera)
+
+		The first shots were fired not thirty
+
+		seconds ago.
+
+	The MUSICAL "EVENING NEWS" SIGNATURE COMES IN ever-so-briefly.
+
+	The SCREEN GOES TO A COMMERCIAL -- as Blair screams
+
+	enthusiastically.
+
+				BLAIR
+
+		Great graphic, great graphic.
+
+	Ernie ENTERS THE  SCENE... He kisses Jane in greeting -- pats
+
+	Aaron on the back.
+
+				ERNIE
+
+		You finally got a piece in a few
+
+		minutes early and I hear Bill loved it.
+
+	Jennifer gives Jane a mock pat on the back.
+
+				ERNIE (continuing)
+
+		I have somebody downstairs who one of
+
+		the clerks brought in and vouches for.
+
+		He says he has something to say about
+
+		gays getting promotions at State...
+
+		It can't hurt to tape him.
+
+	ON JANE
+
+	As she feels Tom staring at her -- turns and notices him
+
+	for the first time.
+
+				TOM
+
+		Hi.
+
+				JANE
+
+		How's it going?
+
+				TOM
+
+		Can I buy you dinner sometime soon?
+
+				JANE
+
+			(thrown)
+
+		I just got back -- I don't know
+
+		which end is up.
+
+				TOM
+
+		Okay.
+
+	In the b.g. WE MAY HAVE NOTICED Bill Rorish on one monitor as he
+
+	picks up the phone at his anchor desk, during the commercial
+
+	break.
+
+				BLAIR
+
+		Jane!  Bill Rorish wants to speak
+
+		to you at the break.
+
+			(as she hands it to her)
+
+		I never heard of him handing over
+
+		compliments in the middle of the
+
+		show.
+
+	There is a stillness in the Control Room as Jane speaks to the
+
+	anchor man in New York who WE CAN VIEW on a monitor.
+
+	ON MONITOR
+
+	We see Bill Rorish.
+
+				BILL
+
+			(into phone)
+
+		Jane?
+
+				JANE
+
+			(into phone)
+
+		Yes.
+
+				BILL
+
+			(into phone)
+
+		Well, darling, if it gets any better than
+
+		that, I'm going to have to bring you up
+
+		here to New York.
+
+				JANE
+
+			(into phone)
+
+		Thanks.  I just wish you'd kept the first
+
+		twenty seconds.
+
+	Blair cringes at Jane's blunt reply.
+
+				JANE
+
+			(into phone)
+
+		But thanks.
+
+				BILL
+
+			(over phone)
+
+		Well, the visual with the boots at the
+
+		end was just perfect.
+
+	Jane covers the mouthpiece and turns to Aaron.
+
+				JANE
+
+		God, he loved the boots.
+
+	Aaron reaches happily for the phone.
+
+				JANE
+
+			(into phone)
+
+		Aaron should be hearing this so I
+
+		have an extra witness.
+
+				BILL
+
+			(over phone)
+
+		Well, you always want to give the 
+
+		credit away, do you?
+
+				JANE
+
+			(into phone)
+
+		No, I don't.  He happens to deserve
+
+		the credit.  He's right here.
+
+				BILL
+
+			(over phone)
+
+		I'll speak to you soon
+
+	We see Rorish over the monitor.  He hangs up.
+
+				JANE
+
+			(to Aaron)
+
+		He had to read over some new copy.
+
+	We see on the monitor that this is not so.  It's a very eggy moment
+
+	Aaron.  Tom breaks the silence.
+
+				TOM
+
+			(to the rescue)
+
+		Okay if I watch you tape that interview
+
+		downstairs?
+
+				AARON
+
+		Yeah.
+
+	As he passes Jane he leans next to her and WE HEAR him WHISPER.
+
+				AARON
+
+		Please laugh so they think I'm not
+
+		dying inside but have so much style
+
+		I just said something funny.
+
+	Jane does her part enormously well -- laughing with amusement...
+
+	but her eyes blaze -- her friend has been needlessly humiliated.
+
+	Blair wants desperately to be inside Aaron's joke.
+
+				BLAIR
+
+		What did he say?
+
+				JANE
+
+			(as if still amused)
+
+		I'll never tell.
+
+	INT. SMALL TELEVISION STUDIO - NIGHT
+
+	BUDDY FELTON waits alone.  A CAMERA CREW watches him.  He is
+
+	well dressed, exceedingly nervous.  He summons the courage to
+
+	ask a question.
+
+				BUDDY
+
+		Could I see how I photograph?
+
+				CAMERAWOMAN
+
+		Huh?  Sorry?
+
+				BUDDY
+
+		'Cause for the interview they're
+
+		going to use a screen and disguise
+
+		me to protect my anonymity so could
+
+		I see myself before that?
+
+				CAMERAWOMAN
+
+		Sure.
+
+	The Camerawoman punches a button and immediately Buddy's image
+
+	comes up on a standing monitor on the studio floor.  He's not
+
+	happy with the image -- but works at concealing his reaction --
+
+	gasping a bit of air -- trying to touch it.  Aaron enters.
+
+	Tom smiles a friendly smile which flusters Buddy momentarily.
+
+	But again he almost manages to conceal his private rush.  Buddy's
+
+	internal drama is such he invariably finds himself covering up,
+
+	fearful roomfuls of people will simultaneously guess his
+
+	thoughts.
+
+	Aaron directs him behind a screen and looks at his notes.
+
+				AARON
+
+		It's Mr. Buddy Felton?
+
+				BUDDY
+
+		Yes.
+
+				AARON
+
+		That's your full name?
+
+				BUDDY
+
+		Yes.
+
+				AARON
+
+		I might as well ask you the questions
+
+		on tape.  Is that all right?
+
+				BUDDY
+
+		Yes.
+
+				AARON
+
+		You worked at one time as 
+
+		Foreign Service Trainee in the
+
+		State Department.
+
+				BUDDY
+
+		I was there two years and was promoted
+
+		on merit nine times.
+
+				AARON
+
+		Eventually rising to...
+
+				BUDDY
+
+		Office Bimbo. 
+
+			(curbing his amusement) 
+
+		No, I'm sorry.
+
+	Aaron is having a hard enough day,  He is visibly annoyed.
+
+				AARON
+
+		You're saying the fact that you're
+
+		gay had something directly to do with
+
+		your promotions?
+
+				AARON
+
+		Eventually rising to?
+
+				BUDDY
+
+		G.S.  I don't know.
+
+			(scratches his head)
+
+		I don't know numbers.
+
+	Tom laughs.  Aaron shoots him a look.
+
+				AARON
+
+		You're saying the fact that you're gay had
+
+		something directly to do with your promotions?
+
+				BUDDY
+
+		I don't like the word gay.
+
+				AARON
+
+		Which would you prefer?
+
+				BUDDY
+
+		Ravenous homosexual.
+
+				AARON
+
+		Stop the tape, okay.  Forget it,
+
+		Ellen.  Let's call security and
+
+		get him out.
+
+	As Aaron walks out -- Tom is momentarily fixed on the sight of Buddy
+
+	walking in small circles giving himself a talking to.
+
+				BUDDY
+
+			(self flagellating)
+
+		Great time to act out, Buddy.  You
+
+		won't be happy until you turn the
+
+		whole world off.
+
+	He notices Tom.
+
+				BUDDY
+
+		They're not really going to call
+
+		security are they?
+
+				TOM
+
+		No, I don't think so.
+
+				BUDDY
+
+		How do I get out of here?
+
+				TOM
+
+		Follow me.
+
+				BUDDY
+
+			(dazzled)
+
+		You talked me into it.
+
+	INT. ELEVATOR - NIGHT
+
+	Tom distracted -- his day has been a bit of a bummer.  Buddy
+
+	self conscious -- the proximity creating an almost unbearable
+
+	tension of romance and adventure.
+
+	INT. BUILDING LOBBY - NIGHT
+
+	A Guard on duty -- a BLACK WOMAN.  She sees Buddy.
+
+				GUARD
+
+		Oh, you're the gay guy.  I was just
+
+		coming to find you.
+
+				BUDDY
+
+		I'm leaving.
+
+				TOM
+
+			(to Guard)
+
+		It's okay.
+
+	EXT. STREET - NIGHT
+
+	Walking.  Buddy in step with him.
+
+				BUDDY
+
+		Sir?
+
+	Tom turns.  Buddy talks rather quickly -- He cares very much
+
+	about leaving Tom with the right impression.  The last words
+
+	of his speech he hadn't expected to say.
+
+				BUDDY (cont'd)
+
+		Thank you for not shunning me and
+
+		all.
+
+			(more)
+
+		I really did have all that information
+
+		but I thought I might just be being
+
+		vindictive to get a little hunk of
+
+		the ol' spotlight.  I know, horrible --
+
+		but I didn't do it, so okay?  And
+
+		thanks again and would you like to
+
+		have a drink -- at a regular bar?
+
+				TOM
+
+		Oh, sure.  Okay.
+
+	His heart racing, Buddy attempts casual matter-of-factness.
+
+				BUDDY
+
+		Is there a regular bar around here?
+
+	INT./ENT. REGULAR BAR - NIGHT
+
+	Tom and Buddy on adjoining stools.  For Tom, the last weeks have
+
+	been humbling, antagonistic.  He's enjoying Buddy who listens
+
+	attentively and wholeheartedly endorses every word Tom speaks.
+
+				TOM
+
+		I've been doing some morning show
+
+		stuff, but mostly radio -- that doesn't
+
+		bother me.  I'm in no rush for
+
+		anything.  It's just the snotty
+
+		attitude, even if I have it coming,
+
+		it's still...
+
+				BUDDY
+
+		Bad manners.
+
+				TOM
+
+		Yes.  That's right.
+
+				BUDDY
+
+		I know...I mean you didn't do anything
+
+		special for me tonight.  You just had
+
+		what I think are good manners, decency.
+
+		And it really makes me want to be nice
+
+		back and it has nothing to do with any
+
+		homosexual thing.
+
+			(looks right at him)
+
+		Honestly.
+
+			(then away)
+
+		Because I don't know if you've
+
+		homosexual or not and -- you're not,
+
+		are you?
+
+				TOM
+
+		No...no.
+
+				BUDDY
+
+		One's enough.
+
+	Tom signals for the check.
+
+				BUDDY (cont'd)
+
+		I wasn't doing anything.
+
+				TOM
+
+		I really have to go.
+
+				BUDDY
+
+		Okay.  At least let me show my
+
+		appreciation.  The Secretary of Labor
+
+		is going to be indicted on Wednesday.
+
+		For the graft thing he supposedly did
+
+		before he was appointed.
+
+				TOM
+
+		What?
+
+				BUDDY
+
+		Yes, it's true.  They're going to
+
+		make it public Wednesday but isn't
+
+		it a big deal for you to have it a
+
+		day and a half early?
+
+				TOM
+
+		Yes.  How do you know?
+
+				BUDDY
+
+			(shrugs)
+
+		My roommate's very social -- somebody
+
+		from Justice was over and...I always
+
+		hear things before they happen.  Hey,
+
+		and from now on, so do you.
+
+	INT. ERNIE'S OFFICE - DAY
+
+	George Weln, the black correspondent and Tom are seated in the
+
+	office with Ernie -- they are in mid-meeting.
+
+				GEORGE
+
+		I'm virtually certain it's not true.
+
+		He may be indicted eventually, but I
+
+		don't think it will be this month.
+
+				ERNIE
+
+			(to Tom)
+
+		You want to be alone with me --
+
+		tell me your source?
+
+				TOM
+
+		If I told you I'm not sure it would 
+
+		totally convince you, but I totally 
+
+		believe the guy.
+
+				GEORGE
+
+			(insufferable)
+
+		Labor is my Department -- I can't
+
+		conform it and my contacts go very
+
+		deep.
+
+				TOM
+
+		So if it's true -- I'm terrific,
+
+		right?
+
+				ERNIE
+
+		It's not even a close call.  Of
+
+		course we can't go with it.
+
+	INT. EDITING ROOM - FOLLOWING DAY
+
+	Jane is working with Bobbie the editor... Snatches of the tape
+
+	make it obvious that the Labor Secretary has been indicted --
+
+	George Weln stands behind Jane, who is dialing a number.
+
+				BOBBIE
+
+		Do you want him all the way to the 
+
+		car?
+
+				JANE
+
+		No stop where he's all besieged.
+
+				BOBBIE
+
+		Because...
+
+				JANE
+
+			(to Bobbie)
+
+		Right there, Bobbie.
+
+	Tom enters.
+
+				TOM
+
+		So he was indicted?
+
+				JANE
+
+		Yes.
+
+				GEORGE
+
+		We were right not to go with it.
+
+				TOM
+
+		But I was right -- just somebody give
+
+		it to me.  I had a good story.
+
+				JANE
+
+			(to George)
+
+		Give it to him -- so we can concentrate.
+
+				TOM
+
+		Ah, I don't want any credit.  Bobbie
+
+		and I serve anonymously.
+
+	He pats Bobbie on the back... and exits.
+
+				BOBBIE
+
+			(pausing in his work)
+
+		You know, I like Tom, because hi...
+
+				JANE
+
+		Bobbie, please.
+
+	INT. METRO BUS - DAY
+
+	Crowded rush hour... Buddy and Tom stand next to each other.
+
+				BUDDY
+
+		...and the White House is hoping to
+
+		keep a lid on it for a few days till
+
+		they figure out what to do.
+
+				TOM
+
+		Thanks a lot, Buddy.
+
+				BUDDY
+
+			(brushing it off)
+
+		Oh, please.  So they were really
+
+		impressed with you at work.
+
+				TOM
+
+		Not impressed exactly -- but a break
+
+		in the clouds.
+
+				BUDDY
+
+		I see the change in you -- I see it.
+
+	INT. WHITE HOUSE PRESS ROOM - DAY
+
+	The 10 A.M. briefing just breaking up -- Jennifer leaves her
+
+	network seat in the front row, only to be grabbed by Tom who
+
+	steers her outside.
+
+	EXT. WHITE HOUSE EAST WING - DAY
+
+	In the near distance a circular driveway and a silent armed
+
+	MARINE GUARD, standing at attention.
+
+				TOM
+
+			(to Jennifer)
+
+		So he bought this Peugeot sedan at
+
+		a greatly reduced price while he was
+
+		there in charge of the White House
+
+		Advance Team.
+
+				JENNIFER
+
+		How come you're not chasing it down
+
+		yourself?
+
+				TOM
+
+		Look, I'm junior man -- and it's
+
+		your beat.
+
+				JENNIFER
+
+		Boy, that's nice...I wish we could
+
+		all deal with each other like this.
+
+		I'll check it.  Anything I can do
+
+		for you?
+
+				TOM
+
+		This is my first time at the White House.
+
+		Is there any chance to look at where
+
+		he works and the rest of it?
+
+				JENNIFER
+
+		I didn't have the guts to ask when
+
+		I first came up.  I'll get you a
+
+		great tour.
+
+	INT. BAR - EARLY EVENING
+
+	Buddy and Tom watching the Evening News as Jennifer finishes
+
+	her story.
+
+				JENNIFER
+
+			(voice over; on TV set)
+
+		The President says it's not a violation
+
+		but nonetheless White House sources
+
+		say the full price will be paid for the
+
+		Peugeot and new rules will put future
+
+		bargain hunting off limits for
+
+		Presidential Aides.  This is Jennifer Mack
+
+		at the White House.
+
+	Tom and Buddy smile at each other... energized -- up.
+
+				BUDDY
+
+		Forgive me, but it really is intoxicating
+
+		being a news source.
+
+				TOM
+
+		Nobody else had it.
+
+				BUDDY
+
+		I wish it were you giving the story.
+
+				TOM
+
+		That's okay.
+
+				BUDDY
+
+		What if we just don't tell them
+
+		anything anymore unless they let
+
+		you do the story?
+
+				TOM
+
+		No.  Really...don't worry about it.
+
+				BUDDY
+
+		Okay.  And look, in the future I can
+
+		call you when I have news for you.
+
+		Don't feel you have to spend time
+
+		with me just to get the information.
+
+			(a breath; then
+
+			 to himself)
+
+		Well, that wasn't as hard to say as
+
+		you thought, was it, Buddy?
+
+				TOM
+
+		What do you mean?  You're one of the
+
+		few people in this town I can talk
+
+		to.
+
+	Buddy puts his hand to his heart and makes a LOUD SOUND OF
+
+	RAPTURE.
+
+				BUDDY
+
+		Hoooo.
+
+	The BARTENDER and some nearby patrons turn and look.  Tom shifts
+
+	with discomfort.
+
+				TOM
+
+		Hey, Buddy, don't do that anymore.
+
+				BUDDY
+
+			(simply)
+
+		Okay.
+
+	INT. WASHINGTON BUREAU - NIGHT
+
+	Jane waiting for an elevator... It comes and she steps on just
+
+	as Tom clearly excited comes around the bend from Ernie's office
+
+	calling for her.  He goes to the stairs.
+
+	INT. WALKWAY - NIGHT
+
+	He runs out and sees Jane in the lobby below, then takes off
+
+	after her.
+
+	INT. LOBBY - NIGHT
+
+	As he enters and runs outside, looking in both directions then
+
+	running off to the right.  A BEAT -- REVEALING Jane has stopped
+
+	to talk with Blair -- now she exits.
+
+	EXT. WASHINGTON STREET - NIGHT
+
+	Tom on the street, ahead of her, thinking he's behind her...
+
+	He runs another half a block and stops dejected... Turns to walk
+
+	back to the office.  He keeps looking back to see if he missed
+
+	her, so that his head is turned as Jane reaches him, says a
+
+	fairly social:
+
+				JANE
+
+		Hi, how are you?
+
+	She keeps moving -- Tom spinning after her.
+
+				TOM
+
+		Wait -- I need you.
+
+	She stops.
+
+				TOM
+
+		I've got another story.
+
+				JANE
+
+		Some public official skipped a week
+
+		on his Christmas Club?
+
+				TOM
+
+		The House Armed Service Committee
+
+		has a secret report which says that
+
+		the General Stillwell tank the Army
+
+		has dumped a fortune into plain 
+
+		won't work.  I have it cold,
+
+		confirmed.  They have five million
+
+		dollars in this thing already.
+
+				JANE
+
+		Billion.
+
+				TOM
+
+		Okay, billion...right, of course.
+
+		They told me I could have any producer
+
+		I wanted -- and I want you.
+
+	As Tom savors the moment.
+
+	INT. TELEVISION STUDIO - EVENING
+
+	Various bureau personnel standing at their desks watching Tom's
+
+	piece being broadcast.  We SEE a TANK MISFIRING.
+
+				TOM
+
+			(voice over)
+
+		One source referred to it as a
+
+		five billion dollar metal sculpture
+
+		to ugly to look at and too big to bury.
+
+				AARON
+
+			(to Jane)
+
+		You write this?
+
+				JANE
+
+		I write for you sometimes.
+
+				AARON
+
+		Not because you have to.
+
+	ON MONITOR
+
+	We SEE a General walking away from Tom.
+
+				TOM
+
+			(voice over)
+
+		General Elton McGuire is in charge of
+
+		the weapon system.
+
+	ON MONITOR - TWO SHOT
+
+				GENERAL
+
+		I've been in the Army twenty-seven
+
+		years -- so I'll let the Army ask
+
+		the questions, not you.
+
+				TOM
+
+		General, I don't want to bother you
+
+		anymore or your family.  But tomorrow
+
+		there will be a mob of me back here --
+
+		so, if you have anything to say, why
+
+		not say it now, sir, the way you want?
+
+	ON TOM
+
+	He is a study.
+
+	Looking at himself -- and though it's far from his first time on
+
+	television -- it's the first time he's seen himself doing serious
+
+	work and, by all appearances, doing it well.  As the General
+
+	answers in the b.g. --
+
+				BLAIR
+
+		I think it's great of us to have left
+
+		in what you said -- just great of us.
+
+	Tom smiles modestly.
+
+				AARON
+
+		Yeah, let's never forget.  We're
+
+		the real story.  Not them.
+
+	Tom and Jane look over -- then Tom looks to Jane for a verdict.
+
+	In the b.g., the news goes to a commercial.
+
+				JANE
+
+		Yeah, I know, I went back and forth
+
+		on it.
+
+				BLAIR
+
+		I liked it.  He's not afraid to be
+
+		human.
+
+	Ernie ENTERS THE SCENE with his fourteen-year-old DAUGHTER
+
+	in tow... He approaches Tom.
+
+				ERNIE
+
+		My youngest wanted to meet you.
+
+		This is Ellie.
+
+				TOM
+
+		Hi, Ellie.
+
+				ERNIE
+
+		You should be honored -- she
+
+		never cares about meeting
+
+		anyone here.  But she liked you
+
+		on television just now.
+
+				AARON
+
+			(entering scene)
+
+		Hi, Ellie -- remember me?
+
+				ELLIE
+
+		I'm sorry -- from where?
+
+				AARON
+
+		I've been to your house a lot...
+
+				ERNIE
+
+			(helping)
+
+		And Aaron went on that fourteen
+
+		day raft trip with us last year.
+
+				ELLIE
+
+			(vaguely)
+
+		Oh yes -- hi.
+
+	INT. NEWSROOM - NIGHT (LATE)
+
+	Tom is on the phone.
+
+				TOM
+
+			(into phone)
+
+		Hi, Dad...Did you see it?  Great --
+
+		I'll send you a tape...I'm sorry I
+
+		haven't called.  Things were a little
+
+		bumpy for a while.  It's not important...
+
+		I'm fine now.
+
+			(what he's been
+
+			 wanting to say aloud)
+
+		Hey, Dad -- I just may be able to
+
+		do this job...Well, I'm glad you
+
+		were sure.
+
+	INT. ERNIE MARRIMAN'S VIRGINIA HOME - DAY
+
+	Ernie is hosting the news staff for Sunday brunch -- they stand
+
+	around drinking in small groups... Aaron is standing with Blair
+
+	and a MAN in his fifties we have not seen before.
+
+				BLAIR
+
+		I don't know why we have to feel
+
+		defensive about it.  Newspapers
+
+		are in business to make money --
+
+		why not us?
+
+	Aaron looks at her in amazement.
+
+				BLAIR
+
+		They criticize us for supposedly
+
+		pandering while they run WINGO
+
+		Games.
+
+				GREY HAIRED MAN
+
+			(amused)
+
+		Exactly right.  Excuse me.  I'm
+
+		paid to mix.
+
+	Blair and Aaron laugh appreciatively as he walks off to another
+
+	group.
+
+				BLAIR
+
+		Goodbye, Paul.
+
+				AARON
+
+		Take care, Paul.
+
+			(back to Blair)
+
+		It takes a certain kind of courage
+
+		for you to say that in front of
+
+		the President of the News Division.
+
+				BLAIR
+
+		You think anyone who's proud of
+
+		the work we do is an ass kisser.
+
+				AARON
+
+		No.  I think anyone who puckers their
+
+		lips and presses it against his boss'
+
+		buttocks and then smooches is an ass
+
+		kisser.
+
+				BLAIR
+
+		My gosh, and for a while there, I was
+
+		attracted to you.
+
+	She walks off.
+
+				AARON
+
+		Wait a minute -- that changes
+
+		everything.
+
+	ON JANE
+
+	At the bar getting a drink.
+
+	Jennifer ENTERS THE SCENE... and leads Jane down the hall until
+
+	they are standing alone.
+
+				JENNIFER
+
+		This is very awkward.
+
+				JANE
+
+		Go ahead -- what?
+
+				JENNIFER
+
+		Ummm -- it's dumb dorm stuff but
+
+		I see Tom around you a lot and this
+
+		is such a small office and I'd like
+
+		to see him outside of work, unless
+
+		there's some reason for you to mind...
+
+		in which case I just won't do anything.
+
+				JANE
+
+		God Almighty -- Whew.  Do I mind?
+
+		Why do I mind?  I do mind.  What
+
+		a shock -- I don't have a right to...
+
+		I don't think I like him.  I know
+
+		I don't respect him...So what am
+
+		I talking about -- what am I saying
+
+		to you?
+
+				JENNIFER
+
+		You're saying stay away from him.
+
+				JANE
+
+			(stupefied)
+
+		I can't be.
+
+	She blinks in wonder.
+
+				JENNIFER
+
+		We don't have to settle this
+
+		definitively right now.
+
+	Jennifer moves toward the drinking table -- Jane, unsteadied
+
+	by the dose of self-revelation, moves towards Aaron's circle
+
+	and scratches his back in friendship... Tom approaches an she
+
+	moves off -- not wanting to deal with him.  She takes a few
+
+	breaths as she keeps walking.  We HEAR snatches of PARTY
+
+	CONVERSATIONS, i.e:
+
+				GEORGE WELN
+
+		Tell me one person who ever left
+
+		television news to work on a
+
+		newspaper.
+
+	She moves on; Tom still following.
+
+				ERNIE'S WIFE
+
+			(holding Paul's arm)
+
+		I felt so proud when he turned
+
+		down News Vice President so we
+
+		could stay here.  Suddenly, after
+
+		all these years, we have a life.
+
+	Jane turns -- sees that Tom is still looking at her from a few
+
+	feet away.
+
+				JANE
+
+			(badly)
+
+		Hi, Tom.
+
+	She stands there, genuinely frightened.  She must deal with him
+
+	now.  He crosses to her.
+
+				TOM
+
+		It's the firs time I've seen 
+
+		you dressed like this.  You look
+
+		so clean and pretty.
+
+				JANE
+
+		What do you mean clean?
+
+				TOM
+
+		At work there's always this
+
+		sort of film over you.
+
+				JANE
+
+		Well, thumps like me leave appearance
+
+		to guys like you.
+
+				TOM
+
+		You're great at taking the edge
+
+		off a good time.
+
+	Jane starts twitching.  She pauses -- holds a hand lightly on
+
+	his arm to steady herself.
+
+				TOM
+
+		You okay?
+
+				JANE
+
+		Yes.  Just don't say anything mean
+
+		for a while.  Thanks.
+
+	She meets his gaze for an instant -- and, in that instant, loses
+
+	control for the first time in her memory.  She looks strange as
+
+	she retreats from this glimpse of upheaval.
+
+				JANE
+
+		I've got to find someone.  It's
+
+		important.  Excuse me.
+
+	She walks away.
+
+	ON AARON AND ERNIE
+
+				ERNIE
+
+		I had the strangest thing happen
+
+		yesterday.  Anne and I have been
+
+		married what? -- Thirty-six years...
+
+		Everything fine -- two days after the
+
+		promotion came through, I was checking
+
+		myself in the mirror and she was
+
+		making a face at me behind my back.
+
+		So yesterday I looked in the mirror
+
+		and she was doing it again.
+
+				AARON
+
+		You didn't say anything to her?
+
+	He shakes his head.
+
+				ERNIE
+
+		My instincts tell me not to.
+
+	Annie comes up.
+
+				ANNE
+
+		The office is phoning, honey.
+
+	He EXITS SCENE as Anne watches him go.
+
+				ANNE
+
+		I hope he moves that fast when
+
+		it's me on the line.
+
+	ON JANE
+
+	As she passes a chair with an afghan shawl on the back -- she
+
+	picks it up and wraps it around herself, a bit chilled.  She
+
+	sees Jennifer on the stairs and moves toward her calling in a
+
+	too loud, anxiety-ridden voice as she goes.
+
+				JANE
+
+		Jennifer.  Hey, Jennifer.
+
+	ON STAIRCASE
+
+	Jennifer turning as Jane whips up the stairs.
+
+				JANE
+
+		Forget what I said -- you do
+
+		whatever you want to with him.
+
+	She pushes at Jennifer a little.
+
+				JENNIFER
+
+		Well, there's nothing I'm going
+
+		to do right this second.
+
+	Jane pushes her again.
+
+				JENNIFER
+
+		But it's a party, right?
+
+	Jane smiles back feigning female bonding -- Jennifer goes back
+
+	down the steps and crosses to Tom.
+
+	FULL SCENE
+
+	Aaron takes in Jane, who is taking in Jennifer and Tom -- then
+
+	Aaron begins to sense a new dynamic in the room as Ernie re-enters
+
+	and huddles briefly with Paul... The News President is intent...
+
+	The two of them walk over to Tom and Jennifer.  We PICK UP just
+
+	a few words:
+
+				ERNIE
+
+		This would be a good time to tap
+
+		that source of yours.  He could
+
+		have an angle or something.
+
+	AARON'S P.O.V.
+
+	Tom is startled but cool -- nods his head -- Jennifer is amazed
+
+	looking at Tom with new and even prettier eyes... Paul and Ernie
+
+	now move toward Jane, a whole flow of movement creating a new
+
+	energy in the area.  Jane sheds her Afghan as she rises to meet
+
+	them.
+
+				ERNIE
+
+			(to Jane)
+
+		We want you to exec produce a
+
+		Special Report...
+
+				JANE
+
+		What?
+
+	Aaron has come over to join them now in time to HEAR.
+
+				ERNIE
+
+		A Libyan plane shot up one of our
+
+		bases in Egypt.  It's all still
+
+		happening.
+
+				JANE
+
+		Let's figure out the field.
+
+				ERNIE
+
+		Unfortunately, since Paul's here,
+
+		he's made out the assignments...
+
+		Jennifer at the White House...
+
+		George at the Pentagon...Martin
+
+		at State...and we need an anchor
+
+		since Rorish is in his boat, so we're
+
+		gonna do the whole report this
+
+		afternoon from here...with Tom.
+
+				AARON
+
+		That's it.  I resign as of now.
+
+				ERNIE
+
+			(to Aaron)
+
+		Stop it.
+
+				AARON
+
+		I'll tell you what.  I'll stay if
+
+		Tom knows how to spell Gaddafi.
+
+				JANE
+
+		Ernie, as much as I like you, I
+
+		think I have to tell Paul what I
+
+		think, because this is really sort
+
+		of obscenely stupid.
+
+				ERNIE
+
+		Jane, if you want to, go ahead.  I
+
+		don't disagree with you.
+
+	Jane moves quickly off, awed at the prospect of taking on the
+
+	big boss.
+
+	ON JANE
+
+	As she moves past Tom who is talking on the phone, eventually
+
+	catching up with Paul.  In the b.g. Tom has just HEARD the
+
+	"BEEP" of an ANSWERING MACHINE.
+
+				TOM
+
+		Hello, Buddy.  It's 1:35 -- and
+
+		this is Tom.  You can reach me
+
+		at the office.  It's important.
+
+		I can use a little help.
+
+	Jane, because of the proximity to Tom is speaking in whispered
+
+	intensity.
+
+				JANE
+
+		Tom isn't ready for the job
+
+		you're about to hand him.  Not
+
+		near ready.  Not by the longest
+
+		shot.  Aaron's spent six weeks
+
+		in Tripoli, he's interviewed
+
+		Gaddafi -- he reported on the
+
+		Eight-one story.  I think he's
+
+		essential to do the job we're
+
+		capable of and I think it's my
+
+		responsibility to tell you that.
+
+				PAUL
+
+		Okay, that's your opinion.  I
+
+		don't agree.
+
+				JANE
+
+		It's not opinion.
+
+				PAUL
+
+		You're just absolutely right
+
+		and I'm absolutely wrong?
+
+	She nods.
+
+				PAUL
+
+		It must be nice to always believe
+
+		you know better.  To think you're
+
+		always the smartest person in the
+
+		room.
+
+				JANE
+
+			(from her depths)
+
+		No, it's awful.  Oh my, it's awful.
+
+				JANE
+
+			(turning to leave)
+
+		We'd better get moving.
+
+	As they move out... Jane goes to Aaron... He moves with her
+
+	towards the door.
+
+				AARON
+
+		What happened?
+
+				JANE
+
+		I'll tell you later -- where
+
+		you going to watch from?
+
+				AARON
+
+		Watch? --
+
+				JANE
+
+		I'll come by your place, right
+
+		after...drink, take pills...
+
+		Love you.
+
+	She runs out the door.  Aaron turns mean and mocks Jane's
+
+	last words -- screwing up his face in a savage burlesque.
+
+				AARON
+
+		Yeah, love you, too.
+
+	EXT. DRIVEWAY - DAY
+
+	As Jane briefly pauses to see which war has room.  Tom opens
+
+	the passenger seat of his car -- she gets in.  It moves off.
+
+	INT. TOM'S CAR - DAY
+
+	As it moves off.
+
+				JANE
+
+		Nervous?
+
+				TOM
+
+		Excited.
+
+	Jane looks over at him -- there's no question he's just told
+
+	the truth.
+
+	INT. TOM'S OFFICE - DAY
+
+	In the b.g. we SEE the Bureau Newsroom beginning to pulse with
+
+	activity.  Tom closes the door.  He sits down behind his desk
+
+	and opens a bottom drawer -- a clean whit shirt lies there.
+
+	He opens the center drawer -- two ties are inside.  He picks
+
+	one.  He reaches for a package of new red suspenders.  He takes
+
+	off the shirt and puts on the new one -- all of this the work
+
+	of an expert craftsman.  By the time he finishes he looks like
+
+	the authority figure we know he's now.
+
+	INT. BUREAU NEWSROOM - JANE AND BLAIR
+
+	Jane is NOT hyper.  She is purposeful -- organized -- even
+
+	calming Blair with a little physical contact -- a touch on
+
+	the arm, to still her colleague's hysterical demons.
+
+				JANE
+
+		Tell George and Jessica to try
+
+		and cover everything without
+
+		Tom having to ask additional
+
+		questions.
+
+				BLAIR
+
+		And Bobbie says...
+
+				JANE
+
+		Did you hear what I just said --
+
+		do you have that?  Take a breath.
+
+				BLAIR
+
+			(a breath, then)
+
+		Yes.
+
+	In the b.g. Tom has exited his office and looks about --
+
+	waiting for some indication as to what to do next.
+
+				JANE
+
+		And the most important thing
+
+		make sure his earpiece works,
+
+		have back-ups ready.  That's
+
+		never been more vital.  He
+
+		must be able to hear me at
+
+		every second and clearly.
+
+	Jane sees him.  She moves across the room -- takes Tom by the
+
+	arm.
+
+				JANE
+
+		We have twenty minutes -- you can
+
+		wait in the studio.
+
+	Tom coughs nervously into his hand and takes a pen from a
+
+	nearby desk, clips it into his inside pocket and walks off.
+
+	GRAPHICS ROOM - DAY
+
+	Jane is screening and asking corrections in a graphic
+
+	representation of an F-14 shooting down a Libyan Air Force
+
+	Mirage Fighter.
+
+				JANE
+
+		Put in the radar plane that spotted
+
+		them to begin with.
+
+				GRAPHIC ARTIST
+
+		We have no pictures on file.
+
+				JANE
+
+		I can't draw -- but this is a
+
+		rough idea.
+
+	She uses the stylus from the ELECTRONIC PAINT MACHINE to outline
+
+	an American Air Force E-2C Hawkeyes Radar Plane.  Her work is
+
+	stunning.
+
+	INT. AARON'S APARTMENT - DAY
+
+	He has a glass in hand -- some chips on the table with a
+
+	bottle of wine as he selects a Cassette Desk to play.  He picks
+
+	a French song -- looks at some of his books.  He might even
+
+	read.  He is feigning disinterest for an audience of no one.
+
+	He SINGS ALONG with the RECORD in perfect French.
+
+	INT. STUDIO HALLWAY - DAY
+
+	Tom checking copy in the long hallway leading to the studio --
+
+	there is the merest of hubbubs causing him to look up.  Buddy
+
+	is being stopped at the other end of the hallway.
+
+	ON BUDDY AND SECURITY GUARD
+
+				GUARD
+
+		I have to check first.
+
+				BUDDY
+
+			(a bit frantic)
+
+		Well, then check -- but hurry --
+
+		There he is!!!
+
+	Buddy runs the length of the hallway to Tom's aide despite Tom's
+
+	gestures to slow down.
+
+				BUDDY
+
+		Is everything all right?
+
+				TOM
+
+		Yes.  You didn't have to come here.
+
+		It's just that I'm going to anchor
+
+		this special report on this Libyan
+
+		thing...
+
+				BUDDY
+
+			(delighted)
+
+		Anchor?
+
+				TOM
+
+			(amused despite
+
+			 situation)
+
+		Yes, stop!  I wondered if you could
+
+		find out anything about what's
+
+		happening.
+
+			(on Buddy's reaction)
+
+		What's wrong?
+
+				BUDDY
+
+		I broke up with my roommate --
+
+		He was really the magnet for
+
+		everyone who knew anything.
+
+				TOM
+
+		Oh.
+
+				BUDDY
+
+		Look, I can start up with him again
+
+		if you really...
+
+				TOM
+
+		No.  I'm doing fine...Look.
+
+	Tom stands there -- a man at home in this media castle.
+
+				BUDDY
+
+		Good.  He's on the world's longest
+
+		ego trip, let him take it alone.
+
+				TOM
+
+		Hey, okay.  Look Buddy -- I've 
+
+		got to go to work.
+
+				BUDDY
+
+			(to Tom)
+
+		...good-bye then.
+
+				TOM
+
+		I'll speak to you.
+
+				BUDDY
+
+		Well, who knows.  Just let m tell
+
+		you what my favorite teacher ever,
+
+		told me -- 'Don't be afraid to be
+
+		wonderful.'
+
+	He leans forward, gives Tom a quick embrace, a small kiss on
+
+	the cheek.  Tom turns and walks off down the hallway to meet
+
+	his immediate destiny as Buddy looks on.
+
+	INT. CONTROL ROOM - DAY
+
+	Jane mounts some steps in the control room -- she moves past
+
+	the DIRECTOR and TECHNICAL CREW up to the next level where the
+
+	two news execs, Ernie and Paul stand with their backs to the
+
+	wall, and then up one more step slightly above the desk and
+
+	table occupied by Blair.  Now she slips into the large well
+
+	paddled throne-like seat -- as WE BEGIN MUSIC CUE.
+
+	Literally at her fingertips is the row of buttons which provide
+
+	immediate access to the field reporters at the Pentagon, State
+
+	and the White House.  In front of her the bank of monitors, the
+
+	Technical Team and past them the studio where Tom is seated at
+
+	Anchor, a FLOOR PRODUCER and WRITER feeding him copy.
+
+	ANGLE FAVORING BLAIR
+
+	As she looks at Jane, poised to control the complicated apparatus
+
+	of minds and machines comprising the big time network news.
+
+	And Jane Craig is at the helm.  Blair experiences a flash of 
+
+	emotion which transcends envy and verbalizes it.
+
+				BLAIR
+
+			(sotto to Jane)
+
+		Executive Producer -- wow.
+
+	Jane looks at her and, in a moment of atypical merriment, does
+
+	a choking gesture at her own throat as the monitors flash a
+
+	graphic reading:  SPECIAL REPORT... We HEAR an ANNOUNCER'S VOICE
+
+	say, "This is a Special Report from..."
+
+	INSERT:  JANE'S CONTROL PANEL
+
+	Each of four buttons labeled so that the microphone can connect
+
+	her to Tom and the Field Reporters.  She presses the button
+
+	marked "Tom."
+
+				JANE
+
+		You hear me, Tom?  Tom?  Tom?
+
+		Damn it...He can't hear me...
+
+			(to Blair)
+
+		I told you if there was one thing...
+
+	Tom's VOICE on speakers.
+
+				TOM
+
+			(voice over; relaxed)
+
+		I can hear you.  I was just teasing.
+
+	Gulping the air in relief, she slumps nonetheless impressed by
+
+	the macho cool as:
+
+	Tom smiles towards her then -- poises himself just as the
+
+	Announcer's last words clear.
+
+				ANNOUNCER'S VOICE
+
+			(voice over)
+
+		...in Washington, Tom Grunick.
+
+	He begins his report.  He seems authoritative, compelling, even
+
+	in a low key way.  We trust him.
+
+				TOM
+
+		Good afternoon.  A Libyan fighter
+
+		plane attacked a United States
+
+		Military Installation early this
+
+		morning and was, itself, shot down
+
+		by American F-14 Interceptors.
+
+	Another monitor shows the Graphic running.  In the b.g. two
+
+	men approaches Paul.  They look out of place, decidedly
+
+	non-business like.
+
+				MAN ONE
+
+		Mr. Moore, I'm Marvin Usher and this 
+
+		is my brother, Stuart.
+
+				PAUL
+
+		Not now!!!
+
+			(gesturing)
+
+		Look.
+
+				TOM
+
+		The Libyan Missile destroyed an Army
+
+		Warehouse which, just thirty minutes
+
+		earlier, had been crowded with 
+
+		servicemen.  No one was injured.
+
+	INT. AARON'S APARTMENT - DAY
+
+	Aaron is seated, feet up, drinking, listening to MUSIC -- reading
+
+	a book, two remote controls are on the cushion next to him.  He
+
+	SINGS OUT LOUD with the record as he reads -- at one point
+
+	providing his own lyric line OVER THE MUSIC.
+
+				AARON
+
+			(SINGING LOUDLY)
+
+		And I can read while I sing.
+
+	He picks up the television remote-control device an puts the
+
+	television on, the SOUND OFF.
+
+	ON TV
+
+	We SEE the graphic of the Libyan plane's flight route, its
+
+	missile firing -- the U.S. planes taking off and the shooting
+
+	down of the Mirage jet... At one point Aaron lowering the MUSIC
+
+	and raising the TV SOUND hearing Tom.
+
+				TOM'S VOICE
+
+			(voice over)
+
+		The heat seeking missile virtually
+
+		disintegrated the  plane on...
+
+	Aaron turns down the TV SOUND and turns up the MUSIC.
+
+	INT. BOOTH
+
+	Jane's hand flicks at the button marked "PENTAGON."
+
+				JANE
+
+		George, you're ready.
+
+	ON PENTAGON MONITOR
+
+	We SEE George and HEAR him through Jane's voice box.
+
+				GEORGE
+
+			(voice over)
+
+		Should I cover everything or should
+
+		I save something for Tom to ask about?
+
+				JANE
+
+		Cover everything!
+
+	George nods.
+
+				JANE
+
+			(hitting Tom's button)
+
+		We're going to George.  Say 'the
+
+		Joint Chiefs are meeting -- we have
+
+		George Weln at the Pentagon'.
+
+	ON TOM
+
+				TOM
+
+		George Weln is at the Pentagon where
+
+		the attack launched by the lone
+
+		Libyan pilot has resulted in a massive
+
+		movement of military might.
+
+	INT. AARON'S APARTMENT - DAY
+
+	Where he still balances STEREO and TV SOUND.
+
+				AARON
+
+		A lot of alliteration from anxious
+
+		anchors placed in powerful posts.
+
+	He picks up the phone.
+
+	INT. CONTROL ROOM - DAY
+
+	As Blair hands it to Jane.
+
+				BLAIR
+
+		It's Aaron.
+
+				JANE
+
+		Yes?
+
+				AARON
+
+		I think the pilot that shot down the
+
+		Libyan in 1981 is stationed right
+
+		here.  Maybe you could get him --
+
+		and maybe Tom should say that our F-14
+
+		is one of the hardest planes to fly.
+
+		They're nicknamed 'Tomcats'.
+
+				JANE
+
+		Thanks.
+
+			(to Tom)
+
+		The F-14 is one of the most difficult
+
+		planes to master.
+
+			(remembering)
+
+		Oh, you call them 'Tomcats' and in
+
+		the 70's the first crop had a number
+
+		of crashes.
+
+				TOM
+
+		George, isn't the F-14 Tomcat one of 
+
+		the most difficult machines for a
+
+		pilot to master?
+
+				GEORGE
+
+		I think you're right -- it's certainly
+
+		one of our hottest planes.
+
+	INT. AARON'S ROOM - DAY
+
+				AARON
+
+		I say it here -- it comes out there.
+
+	He giggles.
+
+				TOM
+
+			(voice over)
+
+		There was trouble with them in the
+
+		early days -- back in the 70's.
+
+	Aaron dials again... As we SEE Jennifer standing at the
+
+	White House.
+
+				AARON
+
+			(into phone)
+
+		Me again.  Hi.  Listen Gaddafi doesn't
+
+		foam at the mouth or anything.  When
+
+		you speak to him he's not at all nuts.
+
+		He seems like a leader -- very
+
+		impressive, self-control...that's
+
+		what's so strange.
+
+	ON JANE
+
+				JANE
+
+		Right and we have the '81
+
+		pilot on the way in -- Nobody else
+
+		will have him.
+
+				AARON
+
+			(voice over)
+
+		You're welcome.  Sow how does it
+
+		feel to...I know you gotta go --
+
+		Me too.  We're very busy here.
+
+	He hangs up -- LONG SHOT... Aaron with his remote controls.
+
+	The picture switches back to Tom.  He turns UP the VOLUME.
+
+				TOM
+
+			(voice over)
+
+		...outlaw nation but strangely those
+
+		who have interviewed Gaddafi find
+
+		him, in a phrase we like to use in
+
+		this country, very 'presidential'.
+
+				AARON
+
+		Nice, Jane.
+
+	INT. CONTROL ROOM - DAY
+
+	Jane is on the phone.  The atmosphere buckling with strain.
+
+				JANE
+
+			(into phone)
+
+		Just a minute.
+
+	Her finger hits the "Tom" button.
+
+				JANE
+
+			(to Tom)
+
+		To State for the message from Libya,
+
+		then you'll have the carrier pilot
+
+		from the Sidra in time to...
+
+			(a sudden shriek)
+
+		What?  No!
+
+	ON TOM
+
+	Jolted by the shriek in his earpiece but nonetheless continuing.
+
+	BACK TO JANE
+
+	As she SCREAMS INTO the phone -- this is more than volume, she
+
+	is over-the-top livid, her face red, neck cords popping.
+
+				JANE
+
+		We only have ten minutes left --
+
+		how can you talk to me about parking
+
+		problems?  No, not you'll try...you'll
+
+		do it -- do it or I'll fry your fat
+
+		ass, Estelle.  Good-bye.
+
+	As she BANGS the PHONE down.  Paul comments sotto to Ernie.
+
+				PAUL
+
+			(sotto)
+
+		I had no idea she was this good.
+
+				JANE
+
+			(hitting Tom's button)
+
+		Fill for a second.
+
+				TOM
+
+			(fluidly)
+
+		The latest message seems to indicate
+
+		that the Libyan pilot was acting on
+
+		his own without authority from anyone
+
+		else.
+
+			(into camera directly)
+
+		In other words, I think we're okay.
+
+	INT. STUDIO - EIGHT MINUTES LATER
+
+	MOVING CAMERA FROM Tom's left profile TOWARDS HIS RIGHT PROFILE,
+
+	TAKING IN THE Production Assistant who madly shuffles pages,
+
+	even as Tom talks on camera, the monitor through which he sees
+
+	the subject of his interview at the Pentagon, the clusters of a
+
+	assistants on the floor and now WE CONTINUE TO CIRCLE BEHIND him,
+
+	beginning to SEE the Control Room in the b.g. and as we MOVE IN
+
+	TOWARDS HIS EAR, the white ear piece firmly in place, we BEGIN
+
+	TO HEAR, the barely audible crackle of Jane's VOICE as she tells
+
+	him roughly what to say and how long he has to say it.
+
+				TOM
+
+		...So, Commander, it must have been
+
+		a bit tougher today -- shooting down
+
+		the French-made Mirage Jet.  The one
+
+		you got was a SU-22...etc...
+
+	And NOW ALL IS OBSCURED EXCEPT THE ANCHOR'S EARS, the ear piece
+
+	and the RED LIGHT on the CAMERA and beyond... almost an abstract
+
+	vision.
+
+	INT. CONTROL ROOM - DAY
+
+				TOM'S VOICE
+
+		...Once again:  The Libyan Government
+
+		has disavowed any prior knowledge of
+
+		the flight.  This has been Tom Grunick
+
+		reporting from Washington.
+
+	The special report ended, Jane breathes a breath -- she and
+
+	Blair momentarily grasp hands.  The first talk concerns Tom.
+
+				PAUL
+
+		He was brilliant.  I've never been
+
+		as proud of one of my decisions.
+
+				ERNIE
+
+			(calls back to Jane)
+
+		Great work, Jane, really -- You know?
+
+		Really.
+
+	She nods... totally depleted.
+
+				JANE
+
+		Well, there were no major gaffs anyway.
+
+	Ernie scoffs in her direction.
+
+				JANE
+
+		Thanks, everybody.
+
+	She exits the scene.
+
+				PAUL
+
+			(to the Usher brothers)
+
+		This was important for Tom -- there's
+
+		that bonding thing that happens with
+
+		the public and an anchorman during a
+
+		crisis.  It's not the conventions
+
+		anymore; it's this kind of moment.
+
+	Tom enters.  He is exuberant.
+
+				PAUL
+
+			(to Tom)
+
+		What a baptismal.  Congratulations.
+
+				TOM
+
+		Thanks.  With all the help you get,
+
+		it's sure easier than local.
+
+	Paul and Ernie exchange a glance.
+
+				TOM (cont'd)
+
+		Where's Jane?  I'm still juiced.
+
+	Ernie points off... as Tom exits.  The Usher brothers hover.
+
+				ERNIE
+
+			(to the Usher brothers)
+
+		Can I help you?
+
+				MARVIN
+
+		We're here to play the new news theme.
+
+				ERNIE
+
+		New theme?  You don't need me for this.
+
+				PAUL
+
+		Stay.  Why should I be the only one
+
+		to feel silly?
+
+				MAN ONE
+
+		We need a synthesizer -- but this
+
+		will give you an idea.
+
+				PAUL
+
+		Go ahead.
+
+			(to Ernie)
+
+		Wasn't he great?
+
+				ERNIE
+
+		It worked.
+
+	Man Two has the keyboard out and begins playing the prospective
+
+	news theme:  a suite meant to have majesty and drive, a towering
+
+	composition -- the effect of it somewhat lessened by the fact
+
+	that the two men VOCALIZE OTHER INSTRUMENTS over the keyboard.
+
+	INT. NEWSROOM - DAY
+
+	As Tom makes his way across it -- crews are drifting in... He
+
+	enters Jane's cubby, flushed with the electricity of the "win"
+
+	the most noteworthy moment of his working life.
+
+	INT. JANE'S CUBBY - DAY
+
+				TOM
+
+		You're an amazing woman.  What a feeling
+
+		having you inside my head.
+
+				JANE
+
+			(a bit thrown)
+
+		Yeah.  It was an unusual place to be.
+
+				TOM
+
+		Indescribable -- you knew just when to 
+
+		feed me the next thing, just a split 
+
+		second before I needed it.  There was a 
+
+		rhythm we got into, like great sex.
+
+	Jane looks at him and nods slightly -- an unconscious spasm of
+
+	truthfulness.
+
+				TOM
+
+		You have to celebrate with me, don't
+
+		you?  Everybody's going to that bar
+
+		on the corner, 'Caps.'
+
+				JANE
+
+		I'm going over to Aaron's.  Maybe I'll
+
+		hoop up with all of you later.  How
+
+		long do you think you'll be there?
+
+	Tom indicates that it's an impossible question to answer.  They
+
+	enters the elevator.
+
+	EXT. NEWS BUILDING - NIGHT
+
+	As several people cross the street towards the bar.  Tom has
+
+	been holding back on one question.
+
+				TOM
+
+		It's tempting to ask you how you think
+
+		I did.
+
+			(she starts to reply)
+
+		No.  I'm enjoying myself.  Take it easy.
+
+	He starts across the street.
+
+				JANE
+
+			(trying to be casual)
+
+		Maybe I'll see you over there.
+
+	Indicates Bar.
+
+				TOM
+
+		You'll never show up.
+
+	He starts across the street -- then turns and calls to her.
+
+				TOM
+
+		Jane?
+
+				JANE
+
+		Yeah?
+
+				TOM
+
+		I'll wait for you till seven.
+
+				JANE
+
+			(shouting back)
+
+		Okay.
+
+	Tom races to catch up with the others -- Jane in the distant b.g.
+
+	pauses a beat before walking off in the opposite direction.  Jane
+
+	moving quickly along.
+
+	SOUND OF MEN VOCALIZING NEWS THEME comes UP AND continues
+
+	through:
+
+	EXT. AARON'S APARTMENT - EARLY EVENING
+
+	As Jane approaches and is surprised to find him sitting on the
+
+	stoop outside.
+
+	ON AARON
+
+	Happy to see her, rising fairly soberly to his feet.  He APPLAUDS
+
+	as she comes toward him.
+
+				JANE
+
+		Really?  It was good.
+
+	He nods and APPLAUDS some more.
+
+				JANE
+
+		Your calling in that information --
+
+		you're the classiest guy I know.
+
+	He waves her off... And sits down on the stoop.
+
+				AARON
+
+		It was strange to watch him.  What's
+
+		the next step?  Lip synching?
+
+	She sits a step or two above him, waiting to gauge his mood.
+
+				AARON
+
+		I've been doing some of the most
+
+		important thinking of my life.  I
+
+		wonder if this is the right time to
+
+		tell you about it.
+
+	She steals a glance at her watch.
+
+				JANE
+
+		Well, whatever you think.
+
+				AARON
+
+		I figured out exactly why it is I'm so
+
+		hung up on getting a chance at weekend
+
+		anchor...It's because if I do that well,
+
+		they'll pay me more, treat me great and
+
+		my life will be better.  That's why.
+
+				JANE
+
+		Sounds like you may be on to something.
+
+				AARON
+
+		Which means I'm at their mercy and who
+
+		wants that?...I'm not going to tell
+
+		you where this thought led me...
+
+		Anyway, well, why not  tell you? --
+
+		it's a happy thing.  In the middle of
+
+		all this I start to think about something
+
+		that does nothing but make me feel good
+
+		and makes immediate sense and that's you
+
+		...And I'll stop here but, Jane, I'd give
+
+		anything if you were two people so I could
+
+		call up the one who's my friend and tell
+
+		her about the one I'm in I...I don't think
+
+		I should go any further.  Come on --
+
+		I'll walk you to the corner.
+
+	He tales her by the arm and leads her to the corner.
+
+				JANE
+
+		You know you've had a strange day...
+
+		I'd sleep on all these things you've
+
+		been thinking.
+
+				AARON
+
+		Absolutely...You go have a good time...
+
+		You have some place to go?
+
+				JANE
+
+		Yes.
+
+				AARON
+
+		Good.
+
+	He grabs her and hugs her exuberantly -- takes her face in his
+
+	hands and kisses her full on the lips.
+
+				AARON
+
+		Well, I felt something.
+
+	He leaves her on the corner and walks back.
+
+	ON JANE
+
+	As the SOUND OF NEWS THEME VOCALIZING PICKS UP ONE MORE...
+
+	Jane moving quickly, hailing a cab.
+
+	INT. CAB - EVENING
+
+				JANE
+
+		We're going to Caps Bar at
+
+		Seventeenth and Vermont;
+
+		Connecticut is clear on Sunday...
+
+		take that over to Fifteenth, then
+
+		around Vermont and we'll bypass
+
+		the circle that way...if you don't
+
+		go over forty we should catch mostly
+
+		green lights.
+
+	ON the DRIVER'S annoyed look.
+
+				JANE
+
+		Come on -- don't take it the
+
+		wrong way.  I just know about
+
+		things.
+
+	He hits the meter.
+
+	EXT. CAPS BAR - EVENING
+
+	As the cab pulls up, Jane gets out and pays him.
+
+				DRIVER
+
+		Great route.  I never made
+
+		anywhere near that fast before.
+
+				JANE
+
+		Thanks -- good driving --
+
+				DRIVER
+
+		Thanks.  Coming from you I
+
+		appreciate it.
+
+				JANE
+
+		Thanks.
+
+	As she turns to enter the restaurant -- Tom and Jennifer exit.
+
+	As they confront each other:
+
+				TOM
+
+		I didn't think you'd make it.
+
+				JANE
+
+		Well, I thought I'd check if all
+
+		of you were still here.  I'll just
+
+		go in and join the gang and you
+
+		two go on.
+
+				TOM
+
+		There's no gang in there -- We
+
+		were the last ones.
+
+				JANE
+
+		Well, I'll go in and have a bite.
+
+				TOM
+
+			(to Jennifer)
+
+		Jennifer, you want to have another
+
+		drink?
+
+				JANE
+
+		Hey, I know how to have a burger by
+
+		myself.  I feel like a little solitude.
+
+				JENNIFER
+
+			(as they move off)
+
+		I sure know that feeling.  Terrific
+
+		work today.
+
+				JANE
+
+			(too jock-like)
+
+		Right back to you.
+
+				TOM
+
+		Thanks for getting me through.
+
+	He puts his hand behind her neck in an awkward gesture of
+
+	camaraderie.  She awkwardly disengages... waves and steps
+
+	inside the door to the restaurant... standing there between
+
+	the two sets of doors watching Tom and Jennifer walk away.
+
+	ON TOM AND JENNIFER
+
+	As they walk to his car, first exchanging a look of reflection
+
+	over Jane... then bumping accidentally, then bumping back, a
+
+	look, then kissing with passion, wrapped around each other.
+
+	INT. JENNIFER'S APT - NIGHT
+
+	As Tom and Jennifer rush in locked in an embrace, shedding
+
+	clothes even as they enter.
+
+	INT. JENNIFER'S APT - NIGHT
+
+	We are aware of MOVING FORMS.
+
+				JENNIFER
+
+			(intense shout)
+
+		Damn all you sons-of-bitches.  Oh
+
+		shit, you bastards...
+
+	They finish.  A beat, then:
+
+				JENNIFER
+
+		Sorry.
+
+	ON TOM AND JENNIFER
+
+	Tom taken aback by the outburst from this woman he's just made
+
+	love to.
+
+				TOM
+
+		No, it's okay...People say different
+
+		things.  They do...the plural threw
+
+		me.
+
+	She laughs.
+
+				JENNIFER
+
+		The last time I was with someone we
+
+		went through this awful mutual disease
+
+		questionnaire but I guess it beats
+
+		getting paranoid the next day.  Okay,
+
+		I'll go first.  I haven't...
+
+				TOM
+
+			(stopping her)
+
+		It would never occur to me to worry
+
+		at all about you.
+
+	Jennifer is touched...
+
+				JENNIFER
+
+		You know something?  I'm deeply
+
+		complimented.   Isn't it strange to
+
+		be deeply complimented because the
+
+		man you're with doesn't think you
+
+		have a venereal disease?...
+
+	Tom slides out of bed naked -- she moves quickly across the bed
+
+	one outstretched hand reaching for his ass, a free -- even lusty
+
+	sort of motion punctuated by her comment:
+
+				JENNIFER
+
+		Give me some of that.
+
+	He dances away -- out of range -- liking the action, a stupid
+
+	grin on his face.
+
+				TOM
+
+		Where's the bathroom?
+
+				JENNIFER
+
+		Through the closet.
+
+	He opens the door and turns on the light in the closet.
+
+	INT. CLOSET - NIGHT
+
+	It is a converted room -- given over the racks of clothes and
+
+	shoes extraordinarily well organized.  Tom stands there agape.
+
+	Various rain coats -- clothes for all climates -- lots of
+
+	luggage.
+
+	She joins him in the closet -- holding out a sheet in front of
+
+	her.
+
+				JENNIFER
+
+		I converted a bedroom -- this
+
+		stuff builds up.  Wait till
+
+		you've been doing this sixteen
+
+		years.
+
+				TOM
+
+		I'm not knocking it.  It's a
+
+		great solution.  Not only the
+
+		storage but you can see everything
+
+		you have.
+
+	Jennifer laughs -- he follows her gaze and sees himself in
+
+	silhouette against the door -- his penis prominent in outline.
+
+				JENNIFER
+
+		Do you do bunny rabbits?
+
+	Tom is enjoying himself immensely.
+
+				TOM
+
+		Isn't this a great date?
+
+	We HEAR the SOUND OF SCRATCHING as we:
+
+	INT. JANE'S EDITING CUBICLE - MORNING
+
+	Jane feeds another tape in -- she is taking editing notes alone
+
+	and SCRATCHING her arm.  She looks worn out -- STOCK FOOTAGE OF
+
+	STATESMEN move across the small screen.  She sighs and, without
+
+	realizing, implores the heavens to help cure a malady she's yet
+
+	to recognize in herself.
+
+				JANE
+
+			(to herself)
+
+		God help me.
+
+	People have begun to filter into the newsroom in the b.g.
+
+				AARON
+
+		Jesus, Jane.  How long have you
+
+		been here?
+
+				JANE
+
+		A long time.  I was restless.
+
+		Will you crack my neck?
+
+	He starts massaging her neck as the phone rings.  she lets it
+
+	ring for a beat as Aaron works on her.  As she picks up the
+
+	receiver we HEAR a CRACK.  She reacts to it at the same time
+
+	she utters a greeting.
+
+				JANE
+
+		Aaah --
+
+			(into phone)
+
+		-- ello.  You sure they said the
+
+		management meeting?
+
+			(hangs up; then
+
+			 to Aaron)
+
+		They want me to be at the
+
+		management meeting.
+
+				AARON
+
+		They're not that dumb, after all.
+
+	He pats her on the back.
+
+	INT. WALKWAY - DAY
+
+				BLAIR
+
+		Do you know you're the second woman
+
+		in network news history to produce?
+
+				JANE
+
+			(though distracted)
+
+		No, I'm not.  I'm the fourth.
+
+		Joan Richmond.  Pauline Fredericks
+
+		got that credit once on a U.N.
+
+		special and there's Susan Zirinsky.
+
+	INT. MANAGEMENT MEETING - DAY
+
+	Paul is running the meeting from behind Ernie's desk.
+
+	TWO OTHER NON-EDITORIAL MEN are in attendance.  As Paul
+
+	discusses the more pressing problems of the network news
+
+	division, Jane sits near the window strangely unmoved by
+
+	her first moment at the seat of power.  She has the blues.
+
+				PAUL
+
+		Anyway, they seem to be very serious
+
+		about making me out eight million from
+
+		the budget and that means massive firings.
+
+		I'm doing everything I can... It's too
+
+		early to make up a 'death list' but I
+
+		just wanted you to be aware of the
+
+		situation... We're also going to cover
+
+		the Alaskan serial killer trial on a
+
+		continuing basis.  I'd like it done out
+
+		of Washington which means we've got to
+
+		get somebody on a plane for Anchorage.
+
+		We can't fool around anymore...Jane...
+
+	She looks up at him -- a bit sleepy-eyed.
+
+				PAUL (cont'd)
+
+		This is going to be high-profile on
+
+		the Evening News -- who do you think?
+
+		George Weln or Jennifer?
+
+				JANE
+
+			(much, much too quickly)
+
+		Jennifer.
+
+	The men look at her curiously.  She repeats herself more
+
+	rationally.
+
+				JANE (cont'd)
+
+		Jennifer.
+
+	INT. TOM'S OFFICE - LATE AFTERNOON
+
+	He has been reading from a respectable stack of mail -- Jane
+
+	appears in his doorway.  For the first time, we notice that
+
+	she is woefully ba at at least one endeavor -- flirting.
+
+				JANE
+
+		Come on, I'll buy you a drink.
+
+		There's a big thing over at the
+
+		Italian embassy.
+
+				TOM
+
+		I'm not sure I'd be good
+
+		company tonight.
+
+				JANE
+
+			(self-conscious joke)
+
+		I'll be the judge of that.
+
+	INT. ITALIAN EMBASSY - NIGHT
+
+	As they walk in -- one MAN looks at Tom with a glint of
+
+	recognition.  Then another -- a handshake -- A WOMAN introduces
+
+	herself.  A small knot of people form.
+
+				JANE
+
+		It's much too soon for you to have
+
+		this kind of buzz around you.
+
+				TOM
+
+		Do I have to stand here in the middle
+
+		and meet them all?
+
+				JANE
+
+		I'll get you through.  Move and smile.
+
+			(she pushes him
+
+			 a little)
+
+		And smile and move...
+
+	They start crossing the room -- he is moving now, making progress.
+
+	But an EGYPTIAN BUSINESSMAN stops him.
+
+				EGYPTIAN BUSINESSMAN
+
+		Is it safe for me to fly home?
+
+				TOM
+
+		Yes.  We're fine now.
+
+				JANE
+
+		AND SMILE.
+
+	He smiles -- people smile back.
+
+				JANE
+
+		AND MOVE.
+
+	ANGLE ON STAIR LANDING
+
+	Where Aaron (Pimm's Cut in hand -- a cucumber sticking out)
+
+	stands with Martin Klein.  Martin is eating from a huge platter
+
+	of appetizers.
+
+				MARTIN KLEIN
+
+		The Italians serve the second best
+
+		things right after the Chinese...I
+
+		could do an article comparing Embassy
+
+		food...Gourmet free-loading...sell it
+
+		anyplace.  I'm sure not getting the
+
+		assignments.
+
+				AARON
+
+		Who the heck could that be?
+
+	AARON'S P.O.V.
+
+	From the excited group of people blocking his view,
+
+	it's clear there is some personage in attendance.
+
+	ON AARON
+
+	And now he sees that it's Tom.
+
+				AARON
+
+		Is God testing me or something?
+
+				MARTIN KLEIN
+
+		Paul loves him.  I heard him give
+
+		him the most poetic compliment in
+
+		his command.  'He's hot.'  Sometimes
+
+		groups of executives get together just
+
+		to say that work back and forth...'He's
+
+		hot, oh, she's hot.  Oh, he's really
+
+		hot.'  Hot-hot-hot-hot-hot-hot-hot...
+
+			(looking at Aaron)
+
+		And here we are.
+
+				AARON
+
+		Martin, you're not allowed to use the
+
+		word 'we' or I'm moving.
+
+				MARTIN KLEIN
+
+			(sudden thought)
+
+		Maybe Jane would like my food idea as
+
+		a spot...Try the one in the middle.
+
+	He moves off to intercept Jane -- as he stops her... Tom is
+
+	stranded -- then sees Aaron and moves over to his side.
+
+				TOM
+
+		Hi, Aaron...What's doing?
+
+				AARON
+
+		Same old stuff.  I'm watching a man
+
+		who won three Overseas Press Awards
+
+		pitch an hors d'oeuvre idea.
+
+	A MAN stops and introduces himself to Tom -- shaking his hand:
+
+				TOM
+
+		You want to go out there --
+
+			(indicating balcony)
+
+		get out of this for a second?
+
+				AARON
+
+		Why don't you lead?  I'll just
+
+		follow the flurry you cause.
+
+	Tom turns -- the sharpness of the tone unsettles him.
+
+				TOM
+
+		What did I do to you?
+
+				AARON
+
+		You've made my dreams silly.
+
+	Tom decides not to deal with the remark.  He's jolted by the
+
+	hostility.  He leads the way out French Doors to a ground floor
+
+	terrace, where Aaron joins him, closes the door and the two men
+
+	stare at the party.
+
+				TOM
+
+			(gesturing at the
+
+  			 party)
+
+		Heavy hitters.
+
+	Aaron nods.
+
+	They look inside.
+
+				AARON
+
+			(several beats; then)
+
+		How 
+
+you
+
+ doing?
+
+				TOM
+
+			(warming)
+
+		Great.  Network news, Washington...
+
+		I love it.  What do you do when your
+
+		real life exceeds your dreams?
+
+				AARON
+
+		Keep it to yourself.
+
+				TOM
+
+		You know the other day I really wanted
+
+		your reaction to how we did with the
+
+		Libyan report -- I was going to ask but
+
+		I guess I feel a little intimidated with
+
+		you.
+
+				AARON
+
+		Oh, stop it.
+
+	On Tom's reaction.
+
+				AARON
+
+		You can't talk about feeling
+
+		intimidated when you're on top of
+
+		the world.  It's unseemly.
+
+				TOM
+
+		I'm not buying into any of that.  I
+
+		have a load to learn.  I'm not going
+
+		to act as if...
+
+				AARON
+
+			(finishing for him)
+
+		You have the job you have...
+
+	The sudden debate is important to Tom -- but it's moving too
+
+	fast for him.
+
+				TOM
+
+		Shut up a second...
+
+				AARON
+
+			(amiably)
+
+		Okay.  Pretty petty party, isn't
+
+		it, pal?
+
+				TOM
+
+			(picking his words)
+
+		I made one rule for myself when this
+
+		started and I realized I was going
+
+		to take a lot from you people because
+
+		of being from sports...
+
+				AARON
+
+		And the rule was...
+
+				TOM
+
+		Never to pretend to know more than
+
+		I did.
+
+				AARON
+
+		Can you name all the members of the
+
+		Cabinet?
+
+				TOM
+
+			(flustered)
+
+		Okay, let's drop it.  I didn't mean
+
+		I'd take a test for you -- I mean if
+
+		that came up in conversation I'd...
+
+				AARON
+
+		We're conversing...Oh my, the names
+
+		of the entire Cabinet has slipped my
+
+		mind.  What are they?
+
+	Tom is getting pissed.
+
+				AARON
+
+			(compromising)
+
+		Don't name them.  Just tell me if
+
+		you know.
+
+				TOM
+
+		Yes, Aaron.  I know the names of
+
+		the Cabinet.
+
+				AARON
+
+		Okay.
+
+	A beat.
+
+				AARON (cont'd)
+
+		All twelve?
+
+				TOM
+
+		Yes.
+
+				AARON
+
+		There are only ten.
+
+	Aaron's suddenly a good deal happier -- damned if it
+
+	isn't a little infectious.
+
+				TOM
+
+		You're feeling good, aren't you?
+
+				AARON
+
+			(sincerely)
+
+		I'm starting to... We may do
+
+		the capitols of the states.
+
+				TOM
+
+			(dry)
+
+		Fifty, right?
+
+	Aaron almost smiles.
+
+	Tom enters the party leaving the door open.
+
+	LONG SHOT
+
+	Aaron in the f.g. -- his BACK TO CAMERA... Beyond him
+
+	Tom being approached... then joining Jane.
+
+	EXT. JANE'S STREET - NIGHT
+
+	As Tom's car comes to a stop.
+
+	INT. TOM'S CAR - NIGHT
+
+				TOM
+
+		I'm so exhausted.  Punchy.  Sick
+
+		tired.  I can't think and I can't move.
+
+		I'm just a dead lump of poured out
+
+		flesh.
+
+			(then)
+
+		Would you like to come up?
+
+	Tom thinks -- then:
+
+				TOM
+
+		Maybe we could just sit here --
+
+		talk a little?
+
+				JANE
+
+		Okay.  You didn't like the party, huh?
+
+				TOM
+
+		Too many smart people in one room --
+
+		it's not healthy...
+
+	Jane's confused by this.  She looks at him.
+
+				TOM
+
+		I'm going to have to do a story
+
+		from beginning to end on my own.
+
+				JANE
+
+		Eventually.  Does it have to be
+
+		right now?
+
+				TOM
+
+			(nodding)
+
+		Believe me, I wouldn't be doing this
+
+		unless it was absolutely necessary.
+
+		I have an idea for something.
+
+				JANE
+
+		What?
+
+				TOM
+
+		I just read about it in a magazine
+
+		and it affected me.
+
+				JANE
+
+		Well, what is it?
+
+				TOM
+
+		If I tell you, can you manage not
+
+		to put it down or tell me why it
+
+		won't work or is in bad journalistic
+
+		taste or anything like that?
+
+				JANE
+
+			(broadly)
+
+		Yes, Tom -- I think I can manage.
+
+	He turns towards her -- about to stick his chin out.  Hesitates.
+
+				JANE (cont'd)
+
+		I promise.
+
+				TOM
+
+		It's about women who are attacked
+
+		by someone they know on a date...
+
+		'Date-rape,' that's the piece...
+
+		Well?
+
+	Jane clamps a hand over her own mouth.
+
+				TOM
+
+		Okay -- good move.  Keep it there.
+
+	She continues to clamp her mouth shut as he exits the car,
+
+	opens her door and then begins to half carry, half pull her out.
+
+	She keeps her hand clamped over her mouth.  Laughing from 
+
+	behind her door and runs for it.
+
+	ON TOM
+
+	His spirits lifted.
+
+	ON JANE
+
+	Behind the door, trying to hide the glow in her eyes.
+
+	INT. JANE'S APARTMENT - NIGHT
+
+	The phone rings... Jane's hand bounces off her nightstand to
+
+	turn on the light knocking over and breaking the clock radio
+
+	instead.  Three alarm clocks stand next to the clock radio...
+
+	Finally the light comes on.  Jane's voice is so thick with
+
+	sleep the words she utters are just barely distinguishable.
+
+				JANE
+
+		Hello.
+
+				TO
+
+			(uncertain)
+
+		Hello?
+
+				JANE
+
+		Hello...Who is it?
+
+	INTERCUT:
+
+	INT. TOM'S APARTMENT - NIGHT
+
+				TOM
+
+		I'm not sure I dialed right --
+
+		Jane?
+
+				JANE
+
+		Jane, yes.  Tom?  Tom, is that you?
+
+		Is this Tom?
+
+				TOM
+
+		Yes.
+
+				JANE
+
+		I had to sleep fast so I took two
+
+		allergy pills to help me...I'm
+
+		sorry...Hey, you called me.
+
+				TOM
+
+		It's not important.
+
+				JANE
+
+		Says who?  Not important -- ha-ha-ha.
+
+		I was dreaming -- Oh, no -- can't
+
+		tell -- how embarrassing for me.
+
+		Gosh.
+
+				TOM
+
+		What pills did you take?  You
+
+		sound more like someone on a general
+
+		anesthetic.  Maybe I'd better speak
+
+		to you tomorrow.
+
+				JANE
+
+		Nooo.  Is it your story?
+
+				TOM
+
+		No.  Are you going to the
+
+		Correspondents' Dinner on Saturday?
+
+				JANE
+
+		Why, you need me for the story?
+
+				TOM
+
+		No.  Were you going to you?
+
+				JANE
+
+		Uh-huh.
+
+				TOM
+
+		Maybe I'll get off work.  I'd like
+
+		to go.
+
+				JANE
+
+		Oh, good.
+
+				TOM
+
+		We can go together.
+
+				JANE
+
+		So you like me, huh?
+
+				TOM
+
+		I like you as much as I can like
+
+		anyone who thinks I'm an asshole.
+
+	INT. JANE'S EDITING ROOM - DAY
+
+	Tom editing a piece with Bobby -- He also has a little typewriter
+
+	table set up.  He is reading from the page in the typewriter as
+
+	he looks at the piece he has written.
+
+				TOM
+
+			(reading)
+
+		But cops on the street continue to
+
+		view it as...
+
+		Shit -- too long.  But street cops
+
+		say...that fits.  That last cut work
+
+		for you, Bobbie?
+
+				BOBBIE
+
+		Yes, and thanks for asking.
+
+	INT. NEWSROOM - NIGHT
+
+	As the regulars watch the Evening News, in particular the Date
+
+	Rape piece which is now in progress.  Tom anxiously eyeing Jane
+
+	out of the corner of his eye as she watches the monitor.  Her
+
+	face impossible to read as she studies the screen.
+
+	ON MONITOR
+
+				UNIFORMED COP
+
+		What can you do?  If a woman invites
+
+		a man in and he says they uh, had
+
+		sex and she says he raped her and
+
+		then you find out they've been out
+
+		together two, three times...how can
+
+		you prove a crime?
+
+	NEW SHOT ON MONITOR
+
+	Tom and a woman of about thirty -- dignified but fragile -- she
+
+	looks like someone who might be cast for a church production
+
+	of "Glass Menagerie."
+
+				YOUNG WOMAN
+
+		It will be a year next month since it
+
+		happened...I never thought I'd talk
+
+		about it outside of counseling...
+
+	ON NEWSROOM
+
+	As Aaron enters the scene.
+
+				AARON
+
+		Hi.
+
+	He is shushed by every woman in the room, accepts this and takes
+
+	up a position near Tom and Jane to watch them.
+
+	ON MONITOR
+
+				YOUNG WOMAN
+
+		We'd gone out twice and I hadn't
+
+		enjoyed myself that much but it gets
+
+		to a point -- I don't know if you can
+
+		appreciate this but where you don't
+
+		want to sit home or be with your
+
+		girlfriends and people had always been
+
+		telling me that I was 'too picky.'
+
+		I'm not.  It's just you want to meet
+
+		a nice guy...So anyways, it was that
+
+		'give-him-a-chance' thing.  No, it
+
+		wasn't.  I was lonely.  So we went
+
+		to a movie and when he brought me home
+
+		he said could he just come up and have
+
+		one beer and then he'd go.  How do you
+
+		say 'no', to that?  So first it was
+
+		this wrestling match which was awful
+
+		enough because it got to be really
+
+		a fight...because I'm a modest person...
+
+		then he ripped my clothes and he 
+
+		forced me to...make love.  He stayed in
+
+		my apartment and forced me more times
+
+		-- he didn't leave until...
+
+			(she has started to cry)
+
+		I promised myself I wouldn't cry...
+
+		It's just hard not to --
+
+			(ruefully)
+
+		You sure have a sympathetic face.
+
+			(she cries a bit more)
+
+		...I was so sure I wouldn't do this --
+
+		but the whole thing messed me up --
+
+		maybe more than it should...
+
+	ON MONITOR
+
+	As the news piece cut to:  Tom's face -- he turns clearing a tear
+
+	from his eyes.
+
+	ON NEWSROOM
+
+	These watching struck -- perhaps embarrassed but riveted.  Aaron
+
+	is aghast.  Aaron approaches the set.
+
+				AARON
+
+		Can I turn on the news for a second?
+
+		...Oh, wait a minute.  Sex -- Tears --
+
+		This must be the news.
+
+	Tom stares daggers at him as a public official appears on the
+
+	monitor.
+
+	ON MONITOR
+
+				PUBLIC OFFICIAL
+
+		I don't think you can overestimate it --
+
+		on any given Saturday night tens of
+
+		thousands of women are being attacked
+
+		and there isn't much they or we can do
+
+		about it...
+
+				TOM
+
+			(on monitor)
+
+		The victims often remain too terrified
+
+		to talk -- the police powerless and all
+
+		the social welfare groups can finally do
+
+		is monitor this epidemic of crime without
+
+		punishment.  This is Tom Grunick in
+
+		Annandale, Virginia.
+
+	As his piece concludes.
+
+	NEWSROOM
+
+	Tom continues to glare at Aaron.
+
+				AARON
+
+		I'm in a pissy mood.  I'm sorry.
+
+				TOM
+
+		What's wrong with it?
+
+				AARON
+
+		Nothing.  I think you really blew
+
+		the lid off nookie.
+
+	Blair moans with displeasure.  Aaron exits scene.  Others start
+
+	to congratulate Tom on the piece -- in the b.g. on the:
+
+	MONITOR
+
+	We SEE frozen wilderness -- men digging in the ground -- clumps
+
+	of people watching them work.
+
+	ON JANE
+
+	Probing her own ambivalence -- or, to be more accurate, working
+
+	towards a positive stance.
+
+				JANE
+
+			(to Tom)
+
+		Nice work...
+
+			(checks watch)
+
+		I've got to get a crew off the clock.
+
+	She starts off -- Tom stopping her.
+
+	ON TOM AND JANE
+
+	Now off a bit by themselves.
+
+				TOM
+
+		So what did you think?
+
+				JANE
+
+		It moved me.  I did relate to it -- I
+
+		really did.  It was unusual for you to
+
+		cut to yourself when you tear up -- and
+
+		that might not have been my choice...but
+
+		it's real and it got me...and I think a
+
+		lot of the time I'm too conservative about
+
+		that kind of stuff.  Okay?
+
+				TOM
+
+			(enormously pleased)
+
+		Yeah.
+
+	He walks back towards the area of the monitor.
+
+	ON MONITOR
+
+				JENNIFER
+
+		Tomorrow the jury returns to this
+
+		site as each day brings more revelations
+
+		of horror, four more bodies now taken
+
+		from the frozen earth...This is Jennifer
+
+		Mack in Wota Hamlet, Alaska.
+
+	INT. NEWSROOM - TWO WEEKS LATER (SPRING) - DAY
+
+				BLAIR
+
+		Ernie's been looking for you.
+
+	As Aaron walks to his office.
+
+	INT. AARON'S OFFICE - DAY
+
+	As he enters and finds Ernie bent over his desk.
+
+				ERNIE
+
+		Oh, I was just writing you a note.
+
+		What do you say we take a walk?
+
+				AARON
+
+			(puzzled)
+
+		Outside?
+
+				ERNIE
+
+		Yeah --
+
+	EXT. WASHINGTON STREET - DAY
+
+	Ernie is silent... He's having difficulty.  Aaron is feeling knots
+
+	form.  Finally Ernie breaks his silence.
+
+				ERNIE
+
+		I don't know if we have any
+
+		younger man more respected in our
+
+		operation than you.
+
+				AARON
+
+		Just tell me what's really going
+
+		on.  I think we know each other
+
+		well enough for me to expect that.
+
+				ERNIE
+
+			(agitated)
+
+		We know each other well enough
+
+		for me to care how I put something
+
+		to you which could wipe you out.
+
+		So I will phrase things the way I
+
+		think they should be phrased.  All
+
+		right?
+
+				AARON
+
+		Wipe me out?
+
+	Ernie sits on a bench.
+
+				ERNIE
+
+		Anyway.  I want you to think of this as...
+
+				AARON
+
+		Just blunt talk, okay?  I'd really
+
+		appreciate bluntness.
+
+				ERNIE
+
+		Upper management thinks you're dull.
+
+	Aaron deflates.
+
+				ERNIE
+
+		Aaron, I've never seen them like
+
+		this -- I think Paul's nervous
+
+		about his own job and for some
+
+		reason he thinks you only appeal to...
+
+				AARON
+
+		Wait.  Bullshit me a little...I'm
+
+		beginning to appreciate it.
+
+				ERNIE
+
+		I'm no suggesting the worst will
+
+		happen...but someone with your
+
+		brilliance gets nibbles about other
+
+		jobs and maybe, the next time that
+
+		happens, down the road -- you should
+
+		look into it.
+
+				AARON
+
+			(emotional)
+
+		Ah, damn -- the fucking jerks -- My,
+
+		God.  They want to fire me.
+
+				ERNIE
+
+		All I know is that they've got to
+
+		fire a large number of people...
+
+		and they're not going by seniority.
+
+		There's a recklessness in the air.  
+
+		They...
+
+				AARON
+
+			(interrupting)
+
+		Do one thing to me?  Get me one shot
+
+		at anchoring the Weekend News -- they've
+
+		never seen me do it.  I think it could
+
+		turn them around.
+
+				ERNIE
+
+		I could do it this Saturday -- everyone
+
+		wants off for the Correspondents' Dinner.
+
+	Aaron turns -- his spirit lifted by the unexpected ray of hope.
+
+				AARON
+
+		Do it then.
+
+				ERNIE
+
+		Please prepare carefully.  This
+
+		couldn't come at a better time.
+
+				AARON
+
+		Prepare what?  You have Saturday's
+
+		news handy?
+
+				ERNIE
+
+		It's been a while since you read
+
+		the news -- I'll have somebody work
+
+		with you.  Just on superficial
+
+		performance things.
+
+	Several beats.
+
+				ERNIE (cont'd)
+
+		Please.
+
+				AARON
+
+		Okay.  I think I'd better be alone
+
+		for a while.
+
+				ERNIE
+
+		I understand.  I'll go with you.
+
+				AARON
+
+		Thanks.
+
+	INT. SMALL TELEVISION STUDIO - NIGHT
+
+	Aaron is seated behind a desk -- some old news copy in
+
+	his hand.  An unmanned camera is pointing at him.  Tom
+
+	is standing a few feet further back studying him.
+
+				AARON
+
+		This is uncomfortable for me --
+
+		because, well, I don't mean it as
+
+		a knock, but we approach this
+
+		differently.
+
+				TOM
+
+		We sure do.  I don't mean it as a
+
+		knock either.
+
+			(he smiles)
+
+		Go ahead.  I'll just say what I think
+
+		and you can disregard it if you want.
+
+				AARON
+
+		It just might not work for me because
+
+		of our different approaches.
+
+	Tom nods and gestures that he proceed.  Aaron begins reading
+
+	the news.  Barely a sentence in, he is interrupted.
+
+				TOM
+
+		Wait.
+
+				AARON
+
+		What?
+
+				TOM
+
+		Your coat jacket is rising up in 
+
+		back.
+
+	Aaron ignores the tip.
+
+				TOM
+
+		When you sit down -- sit on your
+
+		jacket a little -- that gives you
+
+		a good line.  Look at yourself in
+
+		the monitor.
+
+	Aaron looks but is unimpressed and resumes reading the news.
+
+	Tom, not about to be ignored when he knows it's important, moves
+
+	behind Aaron and begins to force his jacket down.
+
+				AARON
+
+			(very uncomfortable)
+
+		I don't like being handled.
+
+				TOM
+
+		Sit on it!  
+
+Now
+
+ look.
+
+				AARON
+
+		Just don't physically...
+
+			(he sees himself in the
+
+			 monitor and is suddenly
+
+ 			 enthusiastic)
+
+		Fantastic tip -- fantastic.
+
+	He starts to read again.
+
+				TOM
+
+		No.  That's not going to tell us
+
+		anything.  Let's get this prompter
+
+		going.
+
+				AARON
+
+		It's not loaded.
+
+				TOM
+
+		I'll find some copy.  Be right back.
+
+	Tom exits -- Aaron looking after him, clearly taken with the
+
+	genuine camaraderie... the unmistakable joy Tom derives from 
+
+	helping out.  Several beats and Tom comes back with a CAMERAMAN in 
+
+	tow.
+
+				TOM
+
+		I got copy, I got Ellen to heat up
+
+		the camera and I got Master Control
+
+		taping so you can study it later.
+
+	He puts the roll of copy in the prompter.
+
+				AARON
+
+		Hey, Tom...
+
+	Tom turns.
+
+				AARON
+
+		I'm very appreciative.
+
+	SAME SCENE - LATER
+
+	Tom totally focused on him down one knee checking him from
+
+	various angles.  He interrupts.  Aaron reading from the prompter.
+
+				TOM
+
+		No.  No.
+
+				AARON
+
+		No?
+
+				TOM
+
+		Don't let your eyes go from the
+
+		beginning of the sentence to the end
+
+		like that.  You don't want to look
+
+		shifty, do you?
+
+				AARON
+
+		Oh, God, no!
+
+				TOM
+
+		And the left side of your face is the
+
+		good one.  Go again.  And try to punch
+
+		one word or phrase in every sentence --
+
+		punch one idea a story.  Punch -- come
+
+		on --
+
+	Aaron does same with the story he is reading...
+
+				TOM
+
+		Good...very nice.
+
+	Aaron acknowledges the compliment in news mode.  Punching the
+
+	first words.
+
+				AARON
+
+Thank you
+
+ for the compliment, Tom.
+
+	He draws a laugh from the Cameraman as he goes right into the
+
+	next story.
+
+				TOM
+
+		Try not to move your head or wrinkle
+
+		your forehead...this is good, very
+
+		good...
+
+	EXT. NEWS BUREAU - NIGHT
+
+	Aaron, tape in head, is saying his farewell to Tom.  He is facing
+
+	his left side as he will do for the rest of his life on earth.
+
+				TOM
+
+		You were smokin' toward the end there.
+
+				AARON
+
+		The pointers were great.  I'll study
+
+		the tape.
+
+	Tom is into helping Aaron he finds himself delivering a locker
+
+	room pep talk:
+
+				TOM
+
+		And remember -- you're not just reading
+
+		the news or narrating.  Everybody has to
+
+		sell a little.  You're selling them this
+
+		idea of you.  You know, what you're sort
+
+		of saying is, 'trust me.  I'm, uh,
+
+		credible.'  So whenever you catch yourself
+
+		just reading...stop and start selling a
+
+		little.  So long.
+
+	He moves off -- Aaron watching him go, feeling decidedly
+
+	uncomfortable by this last piece of advice and vaguely corrupted.
+
+	INT. JANE'S APARTMENT - NIGHT
+
+	Jane FLIES INTO FRAME, carrying her dress, two large shoulder
+
+	pads clipped to her bra-straps.  She is obviously running a little
+
+	late.  Now she slips on the dress -- her pace so quickened that
+
+	it momentarily dulls the effect of seeing her in a pretty formal
+
+	gown; the kind good girls wear on special nights.  The DOORBELL
+
+	RINGS... She opens the door while trying to put on her necklace...
+
+	Aaron enters carrying four bulging garment bags and a fistful
+
+	of neckties.
+
+				AARON
+
+		I spilled some rum on the outfit you
+
+		picked out.  Let me show you the
+
+		alternates.
+
+	She eyes the amount of clothing, goes to the phone and dials.
+
+				JANE
+
+			(into phone)
+
+		Tom...why don't I meet you there?
+
+		I've got some last minute stuff I've
+
+		got to take care of...Hey, how did
+
+		you resolve your dilemma -- did you
+
+		rent the tux or buy it...I knew it.
+
+		How much?  Wow...Okay...See you
+
+		there...
+
+				AARON
+
+		I didn't know you were going with him.
+
+				JANE
+
+		Did you bring your grey suit?
+
+				AARON
+
+		Yes...I was thinking that way too...
+
+		Which tie?
+
+	She holds them in her hand -- indicates with the necklace that
+
+	she wants him to help her... he fastens her necklace while looking
+
+	over her bare right shoulder as she riffles through his tie
+
+	collection.
+
+				JANE
+
+			(the clasp in place)
+
+		Thanks.  Try this one.
+
+	She hands him the tie and he extracts his grey jacket from a bag --
+
+	puts it on and ties the tie... She reaches into a white paper bag
+
+	full of fresh purchases and takes out a vial of perfume with a
+
+	built-in atomizer and sprays the air in front of hr and walks into
+
+	the mist.  ON Aaron's reaction:
+
+				JANE
+
+		I read about it -- that's how you can
+
+		make sure you don't put on too much
+
+		perfume...
+
+				AARON
+
+		Could you at least pretend that this
+
+		is an awkward situation for you --
+
+		me showing up while you're getting
+
+		ready for a date.
+
+				JANE
+
+			(flaring)
+
+		It's not a date.  It's co-workers going
+
+		to a professional conclave.
+
+	Jane, unnoticed, reaches into the paper bag, takes a small box
+
+	of condoms and drops it into her evening bag.
+
+	EXT. WASHINGTON STREET - NIGHT
+
+	Jane on a public phone, Aaron standing nearby within sight
+
+	of a taxi stand.
+
+				JANE
+
+			(on phone)
+
+		How long will it tale you to send
+
+		one?...
+
+	She hangs up... paces... Then looks at Aaron, relaxes.
+
+				JANE
+
+		You look terrific.
+
+	Aaron poses a question which he feels in his deepest core:
+
+				AARON
+
+		Really?
+
+	Jane nods.
+
+				AARON
+
+		Because this is important -- so don't
+
+		just be polite.  I'd really like to
+
+		look...what's the word I'm looking for?...
+
+				JANE
+
+		As good as humanly possible.
+
+				AARON
+
+		Yes.
+
+				JANE
+
+		Well, the line of the jacket -- No
+
+		really....just very nice...just right.
+
+		I wish I could be there.
+
+				AARON
+
+		Me too...Hey...if it gets dull a little
+
+		before 11:00, drop by the studio.
+
+				JANE
+
+		I'm not sure I'll be able to...I...
+
+				AARON
+
+If
+
+...if not, I'll have the tape...I'll
+
+		wait for you at my apartment.
+
+				JANE
+
+		Okay, great -- good luck.
+
+	Before she can deal with that, a cab arrives.
+
+				AARON
+
+		Thanks, Jane.  Have a good time tonight.
+
+				JANE
+
+		You too.
+
+	Aaron takes her in -- she looks lovely.
+
+				AARON
+
+		I'd hug you, but why risk mussing
+
+		either of us?
+
+	She half-laughs... kisses him, wipes the slight lipstick mark
+
+	from his cheek and, in a sudden decision, takes each of her
+
+	shoulder pads from her jacket and puts them in his -- improving
+
+	his look while diminishing her own.  She gets in the cab.
+
+	AARON'S P.O.V.
+
+	Jane, leaning all the way over the front seat, giving detailed
+
+	instructions to the DRIVER as the cab pulls away... As Aaron
+
+	turns and walks off.
+
+	INT. CAB - NIGHT
+
+	Jane, in her formal, sitting back -- anticipating her date.
+
+	EXT. WASHINGTON HOTEL - NIGHT
+
+	A hefty percentage of the Washington journalism industry's
+
+	men and women dressed formally for one of those evenings where
+
+	they can finally assert their own glamour.  Jane ENTERS THE SCENE.
+
+	INT. WASHINGTON HOTEL - ATRIUM - NIGHT
+
+	As Jane enters, lost momentarily in the lobby -- greenhouse,
+
+	the majority of the throng passing through in formal clothes.
+
+	A bit of DIALOGUE OVERHEAD from TWO MEN in dinner jackets.
+
+				MAN ONE
+
+		The L.A. times is a great outfit.  Best
+
+		severance pay in the business.
+
+	Jane keeps looking for Tom -- passing another MAN, talking to
+
+	his SHARP-LOOKING DATE.
+
+				MAN THREE
+
+		He was lecturing me and finally
+
+		I just said -- I'm sorry, I refuse
+
+		to look at it as a negative that
+
+		I'm young and my news appeals to
+
+		people my age.
+
+				WOMAN
+
+		And it's not like he just didn't
+
+		hire a twenty-six-year-old producer
+
+		himself.
+
+				MAN
+
+		No kidding, twenty-six.
+
+	Jane moves to the steps and starts up, greeting several
+
+	people nervously.  More bits of DIALOGUE, leaking from
+
+	conversations of both substance and expedience.
+
+				ANONYMOUS OLDER MAN
+
+		Remember Brinkley's great line
+
+		-- "It's as irrevocable as a
+
+		haircut."
+
+	Now, on the second level, she scans the crowd.
+
+	JANE'S P.O.V.
+
+	The floor below.  Tom in the world's best-fitting tux... Clusters
+
+	of people from around him but he works his way easily through them
+
+	as he looks for Jane and grins his greetings, men are buoyed,
+
+	women's pulses throb.
+
+	ON JANE
+
+	As she silently mouths the words -- "smile and move and smile
+
+	and move."  Which is exactly what he's doing.  Then a contract
+
+	with the gods.
+
+				JANE
+
+			(to herself)
+
+		If he doesn't see me soon, we're not
+
+		supposed to be together.
+
+	ON TOM
+
+	Seeing her.  -- He does a tap step -- a brief giddy burst, the
+
+	meaning of which is not lost on Jane.  He is acting like her
+
+	boyfriend.
+
+	ON JANE
+
+	Anxiety stripped away revealing a first glimpse of Jane as a
+
+	joyous pretty young woman.
+
+	ON TOM
+
+	Moving quickly up the stairs -- as she walks toward him.
+
+				TOM
+
+			(excitedly)
+
+		It's incredible who's here.
+
+				JANE
+
+		Who?
+
+				TOM
+
+		Me!
+
+	She laughs.  Almost completes an affectionate gesture -- takes
+
+	his arm instead.
+
+	INT. NEWSROOM - NIGHT
+
+	Aaron seated in the main newsroom in shirt-sleeves, writing.  He
+
+	takes the just-completed page out of the typewriter and walks over
+
+	to the weekend news PRODUCER. (W.N.P.)
+
+				AARON
+
+		Want to look at this?
+
+				W.N.P.
+
+		Sure.
+
+	George Weln appears...
+
+				GEORGE
+
+			(to Aaron)
+
+		What are you doing here?
+
+				AARON
+
+			(feigning casualness)
+
+		The weekend news...anchoring...
+
+		anchoring the weekend news.
+
+				GEORGE
+
+		Way to go.
+
+	Aaron nods, as the Producer finishes the copy.
+
+				W.N.P.
+
+		This is terrific news, Aaron.  It's
+
+		a pleasure to read.
+
+				AARON
+
+		Thanks.  Oh, there's water on the set,
+
+		isn't there, in case I get an attack
+
+		of cotton mouth.
+
+				W.N.P.
+
+		Sure.  You'll be fine.
+
+				AARON
+
+			(feeling patronized
+
+  			 and repelling)
+
+		I'll be fine!  Yes!!  I know!!!
+
+	INT. BALLROOM - NIGHT
+
+	Bomb sniffing dogs, SECRET SERVICE MEN and D.C. POLICE monitoring
+
+	the members of Washington's most trustworthy elite as they pass
+
+	through the metal detector.  The line moves slowly -- Jane and
+
+	Tom several couples back.
+
+				OFF-CAMERA VOICE
+
+			(o.s.)
+
+		Can I have your autograph for my wife?
+
+	Tom and Jane turn to see a grinning Paul.
+
+				TOM
+
+		How you doing, Paul?
+
+				PAUL
+
+		So this is why you wouldn't do the
+
+		Weekend New, you can't turn down
+
+		a free meal.
+
+				TOM
+
+		Yes, born to party.
+
+	Paul enjoys the riposte, looks at Jane who is shrinking within
+
+	herself.
+
+				PAUL
+
+		I'll see you two inside -- I think
+
+		we're all at the same table.
+
+			(sotto to Jane)
+
+		You're finally learning to be flexible.
+
+		Glad you changed your mind about Tom.
+
+	He passes through the detector... Tom starts to step through it --
+
+	she pulls him back.
+
+				JANE
+
+		I'm sorry.  I don't want to go in
+
+		there and sit with everybody.
+
+			(imagining it)
+
+		I can't...why don't you go?
+
+	He considers this option as she waits.
+
+				TOM
+
+		Suppose I go in for a little while and
+
+		you wait in the lobby-bar.  How's that?
+
+				JANE
+
+		Good.  That's it...See you.
+
+	She walks off.  He runs a few steps to stop her.
+
+				TOM
+
+		Jane.
+
+	She turns.
+
+				TOM
+
+		You're not going to take off on
+
+		me, are you?
+
+				JANE
+
+		Uh-uh.
+
+	She steps on the escalator... Riding upwards, concern deepens,
+
+	anxiety flows.
+
+	ON TOM
+
+	Watching her to up the escalator, he finds himself doing
+
+	simplest thing, stepping onto a moving step.
+
+	FULL SHOT
+
+	Jane four steps ahead of him -- not yet aware of him.  He moves
+
+	past one other man until he is standing directly behind her.
+
+				TOM
+
+		I just want you to know that my
+
+		giving up the Correspondents' Dinner
+
+		puts tremendous pressure on you.
+
+	Jane turns and is a bit blown away by his gesture -- life
+
+	threatens to be good.  And now Jane bumps a bit at the top of
+
+	the escalator, regaining her balance by grabbing Tom's offered
+
+	hand.  As they walk they continue to deliberately hold hands.
+
+	INT. NEWS STUDIO - NIGHT
+
+	WE are on the studio floor, FOCUSING on the activity around
+
+	the Anchor Desk and three cameras... The FLOOR MANAGER stands
+
+	ready to cue Aaron, the script is ready to roll on the prompter
+
+	machine.
+
+				FLOOR MANAGER
+
+		Twenty seconds.
+
+	ON AARON
+
+	Making sure he is seated on his jacket -- taking one last look
+
+	at the hand mirror being held by the MAKEUP WOMAN.  She starts
+
+	off -- but Aaron regrabs the mirror almost making her lose her
+
+	footing -- a check -- then another check -- he points to a spot
+
+	on his forehead which she dabs with the makeup sponge... Both of
+
+	them fuss enormously with his hair -- four busy hands.
+
+				FLOOR MANAGER
+
+		Ten seconds.
+
+				AARON
+
+		How many?
+
+				FLOOR MANAGER
+
+		Ten.
+
+				AARON
+
+		Okay.
+
+	He watches the Makeup Woman scurry underneath a camera lens,
+
+	resits on his jacket and finally has the moment the system has
+
+	been denying him for years.  We can HEAR the END OF HIS CUE
+
+	in a barely AUDIBLE CRACKLE from the Floor Manager's earphones...
+
+	"...with Aaron Altman."
+
+				AARON
+
+			(on TV)
+
+		Good Evening...In mood and language
+
+		better suited to an espionage novel
+
+		than the delicate world of the Western
+
+		Alliance, the British Foreign Secretary
+
+		today pounced on what he termed, 'The
+
+		nest of profession spies and amateur
+
+		traitors who were turning NATO
+
+		Headquarters into an instrument whose
+
+		only true function is folly.'  We begin
+
+		our coverage with Edward Towne in London.
+
+	Aaron looks up -- takes a breath.  He's done well -- he's
+
+	punched his words and his one thought for the story.  His gaze
+
+	has been steady, his voice firm but he has begun to perspire.
+
+	He dabs with his finger at the first trickles from his brow --
+
+	brushes some more prominent sweat from his upper lip... He
+
+	beckons nervously to the Makeup Woman -- who comes in and dabs --
+
+	then dabs again as Aaron feels himself under his arms...
+
+				MAKEUP WOMAN
+
+		Gee whiz.
+
+				FLOOR MANAGER
+
+		Five seconds.
+
+	She scurries away, Aaron reaching for another Kleenex from her
+
+	box and missing it... A graphic illustrating his next scripted
+
+	section appears behind him.
+
+				AARON
+
+		...the sub-bases referred to are
+
+		located in five countries...
+
+	And now the moisture on his face is clearly discernible -- the
+
+	Floor Manager and Makeup Woman grimacing at the growing specter
+
+	as they look at a large monitor.
+
+				AARON
+
+		France, Belgium, the Netherlands,
+
+		Spain as...
+
+	And now so much moisture sprouts from his upper lip that he
+
+	pushes his lower lip out to slurp away the sweat... The Makeup
+
+	Woman laughs briefly out loud before catching herself...
+
+	Aaron's eyes dart angrily in her direction.
+
+				AARON
+
+		We well as Great Britain...Our own
+
+		State Department was rocked not only
+
+		by the revelation but from the highly
+
+		unusual persistence from the State 
+
+		Press Corps.  Martin Klein reports on 
+
+		the ruckus at Foggy Bottom.
+
+	Half-beat until he's sure that he's off -- his shirt now
+
+	showing distinct sweat stains...
+
+				AARON
+
+		Help me.
+
+	The Makeup Woman picks up her Kleenex box -- then thinks
+
+	better of it...
+
+				MAKEUP WOMAN
+
+		Someone finds me some big towels.
+
+	ON AARON
+
+	He blots his face -- some makeup streaked -- by the towel.
+
+				FLOOR MANAGER
+
+		Five seconds.
+
+	ON MAKEUP WOMAN
+
+	As she scurries away, this time entering the control room
+
+	trotting up one stair to look at the monitor... the Director
+
+	talking to his Camera Operators.
+
+				DIRECTOR
+
+		I'd go looser but we wouldn't
+
+		see the graphic.
+
+				TECHNICIAN
+
+			(to other Technician)
+
+		No -- this is 
+
+more
+
+ than Nixon ever
+
+		sweated.
+
+	The Makeup Woman now looks at the bank of monitors.
+
+				MAKEUP WOMAN
+
+		Can't you just die for him?
+
+	ON MONITOR
+
+	Aaron's makeup-streaked face.
+
+	EXT. WASHINGTON STREET - NIGHT
+
+	Tom and Jane walking drinks in hand, her arm around his waist.
+
+	They stop -- he rests a drink on a ledge and boosts her up
+
+	and then sits next to her.
+
+				TOM
+
+		You okay?
+
+				JANE
+
+		Great.
+
+	FULL SHOT
+
+	REVEALING that they are sitting on an anti-terrorist concrete
+
+	abutment protecting a major government building on a beautiful
+
+	night in our capitol.  He is still holding her hand -- and
+
+	now he notes this.
+
+				TOM
+
+			(loudly to himself)
+
+		Why can't I let go of this woman?
+
+				JANE
+
+		Well...
+
+	He interrupts her with the smallest of kisses -- so mall and
+
+	swift a kiss that she is left doing her return kisses to mid-
+
+	air.  And then he does something he's thought about many times
+
+	before -- he briefly caresses her breasts -- while continuing
+
+	to look at her.
+
+				JANE
+
+		At least kiss me when you do
+
+		that.
+
+				TOM
+
+			(a grin)
+
+		You just can't stop editing me.
+
+		Huh?
+
+				JANE
+
+		This is hysterical.
+
+	She laughs a little -- then kisses him.  They break --
+
+	surprised and aroused and look at each other...
+
+				JANE
+
+		I was half hoping I wouldn't
+
+		have a good time tonight.  You
+
+		know why?
+
+				TOM
+
+		Because you're nuts.
+
+				JANE
+
+		Right, right -- Isn't she fun to
+
+		tease?
+
+	He leans forward and speaks softly and truly.
+
+				TOM
+
+		More and more lately when I've
+
+		watched you in action -- seen all
+
+		your energy -- I've been
+
+		wondering what it would be like
+
+		to be inside all that energy.
+
+	She takes a gulp of her drink -- puts a hand to feel the heat
+
+	on her own cheek.  Then turns to him.
+
+				JANE
+
+		Right back at you.
+
+	Several beats.
+
+				TOM
+
+		I don't remember saying anything
+
+		like that -- exactly...I don't
+
+		know why I just did.
+
+				JANE
+
+			(immediately at work)
+
+		Oh let's see -- wait a minute, well,
+
+		I can think of two reasons.
+
+				TOM
+
+		What?
+
+				JANE
+
+		Three...I just thought of a third...
+
+		If you talk about it, you don't have
+
+		to do it.
+
+				TOM
+
+		That's not it.
+
+				JANE
+
+		Good...Another is you're trying to
+
+		make it all about sex and heat and
+
+		nothing else.
+
+	She looks at him -- he's thinking.
+
+				JANE
+
+		Or it's that great feeling that you
+
+		don't want to hold anything back.
+
+		You know, intimacy.
+
+	She elbows him.  Tom takes in the choices -- then:
+
+				JANE
+
+			(suddenly)
+
+		Oh, shit.  I'm a creep.
+
+	She moves off the concrete wall.
+
+				JANE
+
+		I forgot all about Aaron.  I
+
+		promised to stop by and see
+
+		how he did.
+
+				TOM
+
+		I'd like to know.  I'll go along.
+
+				JANE
+
+		No.  I'll see you at your apartment
+
+		as soon as I can.
+
+	She starts to flurry with activity -- moves to the curb when
+
+	out of nowhere Tom barks a sharp command, the first time any
+
+	of his actions has been tinged with fury.
+
+				TOM
+
+		JANE!
+
+	Thrown, she stops and turns.  He walks to her.
+
+				JANE
+
+		What happened?
+
+				TOM
+
+		Don't run off --  like everything's
+
+		settled the minute you make up your
+
+		mind.
+
+				JANE
+
+		He might be weird -- he can talk more
+
+		freely if I go alone -- why's that so
+
+		hard to understand?
+
+				TOM
+
+		It's not that it's hard.  I just want you
+
+		to give me a minute to catch up.
+
+				JANE
+
+		Okay.
+
+			(she hugs him)
+
+		Sorry.
+
+			(another beat)
+
+		Don't yell at me like that again,
+
+		you scared the life out of me.
+
+	EXT. AARON'S HOUSE - NIGHT
+
+	As Jane exits a cab and moves up the steps.
+
+	INT. AARON'S APARTMENT - HALLWAY - NIGHT
+
+	It is at the top of a flight of steps.  She KNOCKS on the DOOR.
+
+	RINGS.  KNOCKS.  Aaron opens it.  He is wearing a sweatshirt
+
+	and cords.
+
+				AARON
+
+		I was in the shower.
+
+	She enters.
+
+	INT. AARON'S APARTMENT - NIGHT
+
+				JANE
+
+		How'd it go?
+
+				AARON
+
+		You didn't see it or speak to
+
+		anybody?
+
+				JANE
+
+		No.
+
+				AARON
+
+		Then it went well.
+
+				JANE
+
+		Did it really go well?
+
+				AARON
+
+		Define your terms.
+
+				JANE
+
+		Do you feel good about it?
+
+				AARON
+
+		No.
+
+				JANE
+
+		Do others feel that you did well?
+
+				AARON
+
+		No.
+
+				JANE
+
+		Then what was good about it?
+
+				AARON
+
+		I lost six pounds...
+
+				JANE
+
+		Aaron, will you tell me?
+
+				AARON
+
+		It was great...writing my little
+
+		first rate copy, sitting on my
+
+		jacket, punching my one thought.
+
+		But I had this historic attack of
+
+		flop sweat so they'll never let
+
+		me another again.  Oh, I lost one
+
+		of your shoulder pads -- how was
+
+		your evening anyway?
+
+				JANE
+
+		What do you mean, flop sweat? --
+
+		you're making too much out of
+
+		it...I'll bet you were the only
+
+		one aware of it...
+
+				AARON
+
+		People phoned in.
+
+				JANE
+
+		Stop kidding.  I want to know
+
+		what happened.
+
+				AARON
+
+		I'm not kidding.
+
+				JANE
+
+		There were complaining phone calls
+
+		because you were sweating?
+
+				AARON
+
+		No, nice ones worried that I was
+
+		having a heart attack.
+
+				JANE
+
+		If all that happened, how come you're
+
+		so chipper?
+
+				AARON
+
+		I don't know.  At a certain point
+
+		it was so off the chart bad --
+
+		it got funny.  My central nervous
+
+		system was telling me something.
+
+		Jane -- sweat running down my face --
+
+		makeup falling into my eyes -- people
+
+		turning this fusillade of blow dryers
+
+		on me -- all so I could read
+
+		introductions to other people who
+
+		were covering stories which is
+
+		what I like to do anyway.  And I'm
+
+		chipper because you finally showed
+
+		up.  I thought I'd cook for us.
+
+		Tequila and eggs sound good?
+
+				JANE
+
+		I have to be somewhere.
+
+	He looks at a clock reading 1:15 in the morning.
+
+				JANE
+
+		I told what's his name -- Tom --
+
+		that I'd meet him.
+
+				AARON
+
+		Call him -- I mean it can wait, 
+
+		right?
+
+				JANE
+
+			(now the plunge)
+
+		I don't know.  I may be in love
+
+		with him.
+
+				AARON
+
+			(as if he just burned
+
+			 his hand)
+
+		No!!!!!
+
+	She starts for the door.
+
+				AARON
+
+		Don't go.
+
+				JANE
+
+		This is important to me.
+
+				AARON
+
+		Yeah.  Well...I think it is
+
+		important for you too.  Sit down.
+
+	She sits.  He walks to a desk and looks at her briefly... Silence.
+
+				JANE
+
+		What?
+
+				AARON
+
+			(looking at her)
+
+		Let me think a second.  It's
+
+		tough.
+
+	A remarkably long silence -- her mind wanders, she takes stock...
+
+	it is evident that he is straining to get it right, reaching
+
+	into himself.
+
+				AARON
+
+		Aaach...Jane...
+
+			(glancing at note)
+
+		Let's take the part that has
+
+		nothing to do with me.  Let's let
+
+		me be your most trusted friend,
+
+		the one that gets to say awful
+
+		things to you.  You know?
+
+				JANE
+
+			(testy and wary
+
+			 but fair)
+
+		Yes, I guess.  Yes.
+
+				AARON
+
+		You can't end up with Tom because
+
+		it goes totally against everything
+
+		you're about.
+
+				JANE
+
+		Yeah -- being a basket case.
+
+				AARON
+
+		I know you care about him.  I've
+
+		never seen you like this about
+
+		anyone, so please don't take it
+
+		wrong when I tell you that I believe
+
+		that Tom, while a very nice guy, is
+
+		the Devil.
+
+				JANE
+
+			(quickly)
+
+		This isn't friendship.
+
+				AARON
+
+		What do you think the Devil is going
+
+		to look like if he's around?  Nobody
+
+		is going to be taken in if he has a
+
+		long, red, pointy tail.  No.  I'm
+
+		semi-serious here.  He will look
+
+		attractive and he will be nice and
+
+		helpful and he will get a job where
+
+		he influences a great God-fearing
+
+		nation and he will never do an evil
+
+		thing...he will just bit by little bit
+
+		lower standards where they are important.
+
+		Just coax along flash over substance...
+
+		Just a tiny bit.  And he will talk about
+
+		all of us really being salesmen.
+
+			(seeing he's not
+
+			 reaching her)
+
+		And he'll get all the great women.
+
+	She is getting pissed.
+
+				JANE
+
+		I think you're the Devil.
+
+				AARON
+
+		No.  You know that I'm not.
+
+				JANE
+
+		How?
+
+				AARON
+
+		Because we have the kind of
+
+		relationship where if I were the
+
+		Devil, you'd be the only one I
+
+		told.
+
+	She's briefly impressed.  He has a point.
+
+				JANE
+
+		You were quick enough to get
+
+		Tom's help when...
+
+				AARON
+
+		Yes, yes.  I know.  Right.  And
+
+		if it had gone well for me tonight,
+
+		maybe I'd be keeping quiet about all
+
+		this...I grant you everything but
+
+		give me this...he does personify
+
+		everything you've been fighting
+
+		against...And I'm in love with you.
+
+			(realizing)
+
+		How do you like that? -- I buried
+
+		the lead.
+
+	He pauses to catch his breath -- breathing deeply through his
+
+	nose.
+
+				AARON
+
+			(an aside)
+
+		I've got to not say that aloud;
+
+		it takes too much out of me.
+
+				JANE
+
+			(thawing)
+
+		Sit down, stop.
+
+	Aaron slumps down -- it's been a long round.
+
+				AARON
+
+		I've never fought for anyone before.
+
+		Does anybody win one of these things?
+
+	INT. TOM'S APARTMENT - NIGHT
+
+	A CAR DOOR SLAMS in the street below -- he goes towards the
+
+	window which is blocked by his sofa -- puts his knees in and
+
+	looks out.
+
+	TOM'S P.O.V.
+
+	A woman walking from a car.
+
+	ON TOM
+
+	Momentarily thinking it's Jane.  Elated.
+
+	TOM'S P.O.V.
+
+	It is not Jane.  The PHONE RINGS.
+
+	INTERCUT:
+
+	BACK TO SCENE
+
+	As he answers and we have the following conversation between
+
+	Jane, who is using the phone, with Aaron seen just a few feet
+
+	away.  Tom in his apartment.
+
+				JANE
+
+		Hi.  It's me.
+
+				TOM
+
+		Where are you?
+
+				JANE
+
+		I can't get away just yet.  I'm 
+
+		at Aaron's.
+
+				TOM
+
+		Well, when?
+
+				JANE
+
+		I'm not sure.  It seems like he
+
+		had sort of a mishap on the news.
+
+				TOM
+
+		I know.  I taped it.
+
+				JANE
+
+		It wasn't as bad as he think, was
+
+		it? -- it wasn't unprecedented or
+
+		anything?
+
+				TOM
+
+		Not if you count 'Singing in the
+
+		Rain.'  Do him a favor and don't
+
+		treat it like a tragedy.  You want
+
+		me to talk to him?
+
+	Her eyes meet Aaron's.
+
+				JANE
+
+		Uh-uh.
+
+			(to Aaron)
+
+		He says you could hardly notice it.
+
+	Aaron beckons for the phone.  Jane hands it to him, as she does
+
+	so:
+
+				JANE
+
+		Don't say anything about anything.
+
+				AARON
+
+		Hi.  Will I ever sing again?
+
+				TOM
+
+		Everybody has one like that.  I
+
+		thought it was great when you
+
+		started to laugh at the end.
+
+				AARON
+
+		Yeah -- well, I'm sorry I'm tying
+
+		up Jane, I didn't realize you two
+
+		would be going this late.  Sorry.
+
+				TOM
+
+		No.  Don't worry about it.
+
+				AARON
+
+		I'll put her on.
+
+	She takes the phone.
+
+				JANE
+
+		Hi, again.  Sorry about...
+
+				TOM
+
+		No.  That sounds more important.
+
+		Let's forget about tonight.
+
+				JANE
+
+		I don't know if that's absolutely
+
+		necessary.
+
+				TOM
+
+		I've got my father coming through
+
+		tomorrow anyway.  I should get
+
+		some sleep.
+
+				JANE
+
+			(hampered by Aaron's
+
+			 presence)
+
+		Uh-huh.
+
+				TOM
+
+		I'll see you at the office.  Good night.
+
+	Several beats of silence.  Finally:
+
+				TOM
+
+			(finally)
+
+		Hello?
+
+				JANE
+
+		Yes.
+
+				TOM
+
+		Okay.  Good night.
+
+				JANE
+
+			(aghast)
+
+		Good night??!
+
+				TOM
+
+		Jane, I'm not some chore you have
+
+		to finish so you can stay on schedule.
+
+				JANE
+
+		Okay, great, Grunick -- Easy shots
+
+		now -- huh?  Good night.
+
+ 	She puts the phone down.  A beat -- she looks stricken.  Aaron
+
+	looks at her.
+
+				JANE
+
+		He just cancelled.  He had a
+
+		chance to think and he
+
+		cancelled.
+
+	She bows her head.
+
+				JANE
+
+		I can't breathe.
+
+			(aghast)
+
+		Over a guy?!?
+
+			(then)
+
+		But I can't -- I can't breathe.
+
+		Damn it!
+
+	She gulps a breath.  Her hands on her knees, leaning over --
+
+	another deep breath.  Aaron takes in the specter.
+
+				AARON
+
+		Well, Jane, it was nice of you
+
+		to drop by.
+
+	INT. JANE'S APARTMENT - NIGHT
+
+	As she enters -- goes immediately to the phone.
+
+	ON PHONE...
+
+	Cradled in an answering machine -- indexes for sixteen
+
+	one-button calls, mostly people from work -- "Parents" etc.
+
+	Jane plays her answering tape.  It is silent -- no messages...
+
+	She fast forwards to double-check.  Just the SOUND of blank
+
+	tape.  She pushes the button next to the "Tom Grunick."  We
+
+	HEAR a busy signal.
+
+	ON JANE
+
+	She hangs up the phone.  Then compulsively hits the "Tom"
+
+	button again.  Busy.  And again.  Busy.  She considers for
+
+	a moment hitting the button next to Aaron's name.
+
+				JANE
+
+			(stopping herself)
+
+		Be fair.
+
+	She presses the button next to Tom's name.  Busy.  And again.
+
+	Busy.
+
+	EXT. ERNIE MERRIMAN'S HOUSE - MONDAY MORNING
+
+	As he picks up for newspapers dotting his lawn and opens the
+
+	door of his car -- just as his wife calls from the door.
+
+				WIFE
+
+		Ernie, they're calling from work.
+
+				ERNIE
+
+		Tell me I'm on the way in.
+
+				WIFE
+
+		It's Paul.
+
+	Ernie, just a bit concerned, walks back to his house -- the
+
+	four newspapers thick enough to be an awkward carry.
+
+	INT. ERNIE'S HOUSE
+
+	A phone in the immaculate living room.
+
+				ERNIE
+
+			(into phone)
+
+		Hello.  Yes...
+
+	He holds the phone down at his side for a beat, composing
+
+	himself in the face of a sudden and horrible turn of events.
+
+				ERNIE
+
+		Would there be any point to my going	
+
+		to New York and talking to them?  Would
+
+		there be any point in going over it with
+
+		you?  No, I'm still coming in.
+
+	He hangs up.
+
+				WIFE
+
+		What?
+
+				ERNIE
+
+		They fired me.
+
+	She takes his hand and kisses it -- then hugs him.
+
+				WIFE
+
+			(weeping)
+
+		How horrible.  We'll be fine.  You'll
+
+		be fine.  Stay here with me -- we'll
+
+		go for a drive, have some drinks, make
+
+		happy plans.
+
+				ERNIE
+
+		No.  They're firing even more people
+
+		than they said.  Some will want to
+
+		talk.  It could help.
+
+				WIFE
+
+			(timidly)
+
+		I could use somebody to talk to on
+
+		a day like this.
+
+			(on his reaction)
+
+		Sorry. Go ahead.
+
+	He kisses her sad face.
+
+				ERNIE
+
+		Bye, sweetie.
+
+				WIFE
+
+		Okay, sweetie.
+
+	He walks towards the door -- picks up his newspapers on the
+
+	tray beneath the hall mirror and does a start.
+
+	HIS P.O.V.
+
+	In the mirror he SEES his wife making faces at him behind his
+
+	back.  He EXITS his home without comment.
+
+	INT. EDITING ROOM - DAY
+
+	Jane is sitting in her editing cubby -- it is past noon.  She
+
+	rises and stands in her doorway looking toward Tom's office --
+
+	the door is open, the room is empty.  Blair ENTERS carrying
+
+	an armload of tapes.  She looks extraordinary.
+
+				BLAIR
+
+		I've got four hours of French
+
+		demonstrations --
+
+	Jane waves it off.
+
+				BLAIR
+
+		Some of it they use water cannons.
+
+	Jane takes the tape.
+
+				JANE
+
+		What are you dressed up for?  Oh,
+
+		that's right -- because the Evening
+
+		News is here this week.
+
+				BLAIR
+
+		I spent a fortune on this.
+
+	Blair EXITS... Jane pops the tape in, automatically making
+
+	timing notes, then standing -- looking again towards Tom's
+
+	door.
+
+	JANE'S P.O.V.
+
+	The door now closed.
+
+	JANE
+
+	She stops the tape -- summons herself.  She walks towards Tom's
+
+	office and opens the door.  Tom is seated behind his desk.
+
+				JANE
+
+			(without passion)
+
+		I kept trying to call you -- you
+
+		never called me.  Were you just
+
+		diddling me?  Is that it--?  I'm
+
+		great if I'm helping your career.
+
+			(mimicking)
+
+		But when I'm a woman for a second, I
+
+		get immediately fucked around by
+
+		you.
+
+	She is obviously in pain but still alert enough to catch Tom's
+
+	answer.
+
+	INT. TOM'S OFFICE - DAY
+
+				TOM
+
+		Jane, this is my Dad.
+
+	And, now OPENING the door a bit more -- Tom's father is REVEALED
+
+	seated across from him.
+
+				JANE
+
+			(that quickly)
+
+		Please forgive what I said.
+
+			(to Tom)
+
+		Sorry.
+
+	As she retreats:
+
+				TOM
+
+		You just light up a room and leave,
+
+		huh?
+
+	She laughs nervously as she exits.
+
+	TOM AND HIS DAD
+
+				DAD
+
+		You want my opinion?
+
+				TOM
+
+		The thing that's easy to miss about
+
+		Jane is...
+
+				DAD
+
+		You want my opinion?  And it's okay
+
+		if you don't.
+
+	Tom thinks a beat.
+
+				TOM
+
+		Yes, I would.
+
+				DAD
+
+		The way she just acted is not the
+
+		way an affectionate person acts.
+
+	Tom finds the comment off-the-wall enough to be thought
+
+	provoking.
+
+	INT. NEWSROOM - DAY
+
+	Paul arriving with Bill Rorish.  The first time we have seen
+
+	the multi-millionaire anchorman in the flesh.  He has the grace
+
+	and dignity of a man who spends every waking moment working on
+
+	grace and dignity,
+
+	He and Paul are in the midst of an important conversation --
+
+	muted and ominous.
+
+				BILL
+
+		Just when do you start, telling people?
+
+				PAUL
+
+		Almost immediately.
+
+				BILL
+
+		I'd like to take everyone out after
+
+		the show.
+
+				PAUL
+
+		Bill...This is hard on all of us
+
+		and it's no time for compliments.
+
+		But I think it's extraordinary of
+
+		you to come down here for this.
+
+				BILL
+
+		If we're not here for each other
+
+		during the tough time, we're not a
+
+		news organization.
+
+	Blair ENTERS scene.  The smallest flicker of interest from Bill,
+
+	but more than enough to justify her going into hock for the
+
+	outfit.
+
+				BLAIR
+
+		Welcome back to Washington.
+
+				BILL
+
+		Thanks.
+
+	A self-conscious look of greeting to Paul and she's gone.
+
+				BILL
+
+		I've forgotten.  Was she on the list?
+
+	Paul nods "yes."
+
+				BILL
+
+		This is a brutal layoff...And all
+
+		because they couldn't program Wednesdays.
+
+				PAUL
+
+			(can't resist)
+
+		You can make it a little less brutal
+
+		by knocking a million dollars or so off
+
+		your salary.
+
+	AS Bill turns:
+
+				PAUL
+
+		Just a bad joke.  I'm sorry.  Awful.
+
+		It's a miserable day and that was
+
+		some kind of totally sick-joke
+
+		defense mechanism which does not
+
+		indicate any of my feelings -- not
+
+		one -- but just shows the kind of
+
+		stress this represents for all of us.
+
+	Tom and his Father ENTER the scene from Tom's office.  Bill
+
+	walks to Tom.
+
+				BILL
+
+		Hi.  It's about time.
+
+				TOM
+
+		Good to see you, Bill.
+
+	AS they shake:
+
+	INSERT
+
+	A great handshake.
+
+	ON MR. GRUNICK'S FACE
+
+	touched, as he watches the networks' most prominent journalist
+
+	greet his son.
+
+				TOM
+
+		This is my father.
+
+				BILL
+
+		Good to meet you, sir.
+
+	ON TOM
+
+	Equally touched as he watches the world's most prominent
+
+	journalist greet his Dad, who turns goofy with excitement.
+
+				MR. GRUNICK
+
+		Good-bye, Tom.
+
+	He puts a big hand on his son's cheek -- a farewell pat.  Then
+
+	whispers in his ear.
+
+				MR. GRUNICK
+
+		I'm going to go back home and tell
+
+		all your old teachers.
+
+	Tom watches his father walk off and moves immediately to Jane's
+
+	editing room.
+
+	INT. JANE'S EDITING ROOM - DAY
+
+	AS Tom enters...
+
+				JANE
+
+		I feel terrible about what happened.
+
+		What did he say?
+
+				TOM
+
+		He -- uh -- said he liked you because
+
+		you looked like you had -- fire and
+
+		honesty.
+
+				JANE
+
+			(enormously pleased)
+
+		No.  Did he really?
+
+				TOM
+
+		Yes.  Then he said a really weird
+
+		thing...
+
+				JANE
+
+			(so softly)
+
+		What?
+
+				TOM
+
+			(he means this)
+
+		That it would be a treat to make
+
+		someone like you feel better...
+
+		He gets like that sometimes.
+
+				JANE
+
+		That's so perfectly...It really
+
+		makes me feel a little faint...
+
+			(actually woozy)
+
+		Whooo.
+
+	Blair enters wildly into the scene.
+
+				BLAIR
+
+		They canned me.  Well, my brother
+
+		will feel great -- now he's not the
+
+		only screw-up.
+
+				JANE
+
+		It's started.
+
+	Bobbie sticks his head out of his office...
+
+				BOBBIE
+
+		Tom -- Paul wants to see you.
+
+	AS Tom focuses and moves off:
+
+	INT. NEWSROOM AND HALLWAYS - DAY
+
+	Moving with Tom.  Nervousness growing, confidence gone, he
+
+	proceeds down the hallway.
+
+	INT. ERNIE'S OUTER OFFICE - DAY
+
+				SECRETARY
+
+		He'll just be a minute.
+
+	Tom sits down -- pats his tie in place... A beat and the door
+
+	opens.  Paul leads out Martin Klein.  They shake hands.
+
+				MARTIN KLEIN
+
+		You know I'm just old enough to be
+
+		flattered by the term, 'early retirement.'
+
+				PAUL
+
+		That's wonderful...what a lovely line.
+
+		If there's anything I can do.
+
+	They shake.
+
+				MARTIN KLEIN
+
+			(evenly)
+
+		I certainly hope you die soon.
+
+	A little smile to Tom and he's off.
+
+				PAUL
+
+		Tom.
+
+	Tom enters the room.  A nervous cough in evidence as he
+
+	crosses to a seat.
+
+				PAUL
+
+		We're having a severe cutback, Tom --
+
+		17 people in this bureau including
+
+		technical personnel and we're going
+
+		to reorganize at the same time.
+
+		We're going to take you out of Washington
+
+		for a while and assign you to London.
+
+	INT. NEWSROOM - LATE AFTERNOON
+
+	Aaron and Ernie are off to the side in the newsroom -- People
+
+	are packing their belongings -- as secretaries cry and embrace --
+
+	from an office rumbles a shouted denunciation:
+
+				ANONYMOUS VOICE
+
+		No.  I won't keep my voice down.
+
+		Those sons-of-bitches...They are
+
+		worse than accountants -- they
+
+		are bad accountants.
+
+	Tom enters scene.
+
+				TOM
+
+		Have you guys seen Jane?
+
+				ERNIE
+
+		She's in there becoming the first
+
+		woman bureau chief we've had here.
+
+	Tom takes this in.
+
+				AARON
+
+		What did they do with you?
+
+				TOM
+
+		They booted me out of Washington.
+
+				AARON
+
+		Impossible.  There's no system that
+
+		wouldn't value one of us.
+
+				TOM
+
+		Why?  What did they do to you?
+
+				ERNIE
+
+			(pointing at Aaron)
+
+		It's what he did.  I'm proud of
+
+		him.
+
+				AARON
+
+		They told me they'd keep me because
+
+		they could plug me into any story
+
+		and my salary was in line.
+
+				ERNIE
+
+		The cost-efficient reporter.
+
+				AARON
+
+		So I quit.
+
+	A weeping woman bursts into their circle and sweeps Ernie away.
+
+	Tom and Aaron stand there -- comrades at last -- victims of
+
+	the same sword.
+
+				TOM
+
+		You packing up tonight?
+
+				AARON
+
+		Yes.  And I'm sorry that they're
+
+		sending you down for a while, but
+
+		you'll make it back...Where they
+
+		sending you?
+
+				TOM
+
+		London.
+
+				AARON
+
+			(incensed)
+
+		London.  That's a promotion!
+
+				TOM
+
+			(defensively)
+
+		I don't think so.
+
+				AARON
+
+		It is.  Yes -- that's where they
+
+		had Rorish, for God's sake, before
+
+		they made him anchor.  I can't stand
+
+		it -- they're grooming you for it
+
+		all and you don't even know it.
+
+				TOM
+
+		Hold it down, okay?
+
+				AARON
+
+		Can I ask you something?  You only
+
+		had one crew on the date rape piece,
+
+		right?
+
+	He extends his hand.
+
+				TOM
+
+		Yes.  You're not going to stick
+
+		around for the farewell party?
+
+				AARON
+
+		No.  I don't know how much fun it
+
+		will be when Martin Klein and Ernie
+
+		have to drop off their credentials
+
+		with the security guard.
+
+	Aaron looks at people packing their belongings in boxes -- a
+
+	few pockets of conversation... Ernie reading some copy.
+
+				AARON
+
+		This story they won't cover.  And if
+
+		the network doesn't cover it -- it
+
+		must not be important so why worry.
+
+				TOM
+
+			(eyeing him)
+
+		I'm going to miss you -- you're a
+
+		prick in a great way...
+
+	Aaron taken by surprise -- laughs.
+
+				TOM
+
+		You know what I...
+
+				AARON
+
+		No, I liked the way it made me sound.
+
+		Okay.  Be good.  So long.
+
+	He exits.
+
+	INT. TOM'S OFFICE - DAY
+
+	AS he picks up a clean wastebasket and deposits his belongings.
+
+	A scheduled book, clean shirt, two ties, cuff-links, a travel
+
+	mirror, cassettes of his Washington reporting.  His desk clear --
+
+	he writes on a clean piece of copy paper.  He centers it on his
+
+	desk.
+
+	INSERT - PAPER
+
+	"Good luck, you'll love the bureau chief... Previous Occupants."
+
+	INT. NEWSROOM - DAY
+
+	AS Tom enters from his office, a wake is slowly igniting.  Tom
+
+	moves along the edge of the room, carrying his wastebasket full
+
+	of belongings, not really a part of the mournful festivities.
+
+	TOM'S P.O.V.
+
+	Jane across the room hugging one person after another.
+
+	ON JANE
+
+	AS she embraces an older secretary.
+
+				OLDER SECRETARY
+
+		You know what I always wanted to
+
+		tell you -- that...
+
+				JANE
+
+		Shhh.  This isn't the last time
+
+		we'll see each other.  It's not.
+
+	A two-armed tight embrace of Martin Klein.
+
+				JANE
+
+		We'll get them back -- it's going
+
+		to change.
+
+	Blair is at hand as they embrace.
+
+				BLAIR
+
+		Except for socially, you're my role
+
+		model.
+
+	And now she sees Tom -- he mouths one word at her -- "London."
+
+	She nods that she already knows and then lets her body sag a
+
+	little.  He gestures her towards her editing room, so they can
+
+	rendezvous.
+
+	INT. EDITING ROOM - DAY
+
+	AS Tom enters and waits for Jane.  When she enters he closes
+
+	the door.
+
+				JANE
+
+		These people -- it's all so awful.
+
+		It just hurts physically, doesn't
+
+		it?  Like something's wrong with
+
+		your bones, like your organs are
+
+		shifting inside your body.
+
+	She looks at him expectantly.  It's not what he's feeling.
+
+				TOM
+
+		Maybe I haven't been here long
+
+		enough.
+
+			(great)
+
+		But, hey, congratulations on the
+
+		promotion.
+
+				JANE
+
+		How can you say that to me?
+
+				TOM
+
+		Sorry.
+
+			(a beat)
+
+		I can't stand here feeing bad that
+
+		I don't feel worse.  This has happened
+
+		at every station I ever worked for.
+
+		Look, I think it's crazy for you to
+
+		come in here tomorrow and start a
+
+		new job.  I have a week to get to
+
+		my job.  Let's get the hell away to some
+
+		island fast and find out how we are
+
+		together away from this.
+
+	A beat -- Jane takes it in.
+
+				JANE
+
+		Well, I just think that' an extraordinary 
+
+		proposal.
+
+				TOM
+
+		That's yes?
+
+				JANE
+
+		That's more than 'yes' -- that's
+
+		'you bet.'
+
+	They kiss.
+
+	INT. AARON'S APARTMENT - NIGHT
+
+	The phone rings.  He answers.
+
+				AARON
+
+		Hello.
+
+	INT. JANE'S OFFICE - NIGHT
+
+	Jane -- still at the office -- it is quite late.
+
+				JANE
+
+		Bastard, sneak, quitter.
+
+				AARON
+
+		Speaking.
+
+				JANE
+
+		I just found out.  You didn't say
+
+		anything to me?  You just resign?
+
+		Will you meet me now? -- No, now!
+
+		I'm going away tomorrow.  Please.
+
+	INT. SIDEWALK - RESTAURANT - NIGHT
+
+	Across the street from the bureau's building.  Aaron and Jane
+
+	are having a beer.  They are in mid-conversation.
+
+				JANE
+
+		Why not try it for a few weeks?
+
+				AARON
+
+		Stop.  Ernie thought I was good too --
+
+		he couldn't help.  My agent has a
+
+		hot prospect -- the number two station
+
+		in Portland.  The general manager says
+
+		he wants to be every bit as good as the
+
+		networks.  Personally, I think he should
+
+		aim higher.
+
+				JANE
+
+		Tell me the God's honest truth --
+
+		are you leaving because of me?
+
+		Because if you are...
+
+				AARON
+
+		Ernie told this story.  How he used
+
+		to write obits and when the people
+
+		in town called him up with death
+
+		notices, he cried.  He was till
+
+		that way when they promoted him
+
+		out of obits.  He says you're lucky
+
+		if you can get out while you could
+
+		still cry.
+
+			(a beat)
+
+		I should have quit this place  three
+
+		years ago.
+
+				JANE
+
+		You're just trying to say all great
+
+		stuff so I'll feel even worse that
+
+		you're not around.
+
+	He laughs.
+
+				AARON
+
+		Let's go...
+
+				JANE
+
+		I just want to sit here longer, I mean
+
+		the feeling is powerful -- why's that?
+
+				AARON
+
+		Maybe the best part of your life is over
+
+		and you don't want to get up and start
+
+		the bad part.
+
+	Jane looks at him levelly.
+
+				JANE
+
+		You are now required to sit here with
+
+		me.
+
+			(a beat; then)
+
+		Come on...be smart for a second --
+
+		what do you think will happen to us?
+
+				AARON
+
+		Okay, that's very easy.  Five, six
+
+		years from now I'll be in town to
+
+		collect an award representing the surge
+
+		in foreign coverage by local stations.
+
+				JANE
+
+			(smile, it's like 
+
+			 old times)
+
+		Yes.
+
+				AARON
+
+		I'll be walking with my wife and two
+
+		children -- we'll bump into you on
+
+		the street, my youngest son will say
+
+		something and I'll tell him...
+
+			(deliberately)
+
+		...it's not nice to make fun of single,
+
+		fat ladies.
+
+				JANE
+
+		You won't be able to stay mad at me,
+
+		right?
+
+				AARON
+
+		I hope so...
+
+			(on her look he relents)
+
+		No.  I'm not really mad.
+
+			(nodding head as if
+
+			 reciting a catechism)
+
+		I'll miss you, we'll talk, we'll always
+
+		be friends...we'll get hot for each other
+
+		every few years at dinner and never act
+
+		on it, okay?
+
+	Jane smiles -- Aaron has grown suddenly angry.  He rises,
+
+	walks away, then turns.
+
+				AARON
+
+		Jane, you know how Tom had tears in
+
+		the piece the other night?  Ask
+
+		yourself how we were able to see
+
+		them when he only had one camera
+
+		and that was pointing at the girl
+
+		during the interview.
+
+			(on her reaction)
+
+		I'm fairly sure I was right to tell 
+
+		you.
+
+	EXT. OFFICE - NIGHT
+
+	We LOOK THROUGH THE WINDOW as Jane enters -- in a frenzy --
+
+	searching the stacks.
+
+	INT. TAPE LIBRARY - NIGHT
+
+	As she locates the cassette labelled "DATE-RAPE - 9/26 -
+
+	EVENING NEWS - OUTTAKES."
+
+	INT. TAPE CUBBY - NIGHT
+
+	As she inserts the tape into the player.
+
+	ANGLE ON JANE... AND MONITOR
+
+	As she watches... this is what she sees...
+
+				YOUNG WOMAN
+
+		...but the whole thing messed me
+
+		up more than it should.
+
+	She cries.  We HEAR Tom.
+
+				TOM'S VOICE
+
+		Okay, that will do it.  You okay?
+
+	The tape is rocky now -- the Sound Woman and Cameraman
+
+	continue to roll as they move towards their next shot --
+
+	at times the camera pointing towards the carpet -- but
+
+	the sound continues.  The crew chatting -- mentioning
+
+	that the tape is still rolling.
+
+				TOM
+
+		That's enough.  That's enough.
+
+				YOUNG WOMAN
+
+		I'm sorry.
+
+				TOM
+
+		Are you okay?
+
+				YOUNG WOMAN
+
+		Yes, I'm sorry.
+
+				TOM
+
+		Don't be silly.  What are you sorry 
+
+		about?
+
+				YOUNG WOMAN
+
+		The way you were looking at me, I just went.
+
+	Tom moves through the SHOT.
+
+				TOM
+
+		I just need you for another minute now,
+
+		so we can shoot from behind towards me,
+
+		and, um...
+
+				YOUNG WOMAN
+
+		Uh-huh.
+
+				TOM
+
+		...that way we have someplace to go when 
+
+		we cut.  And I just sit here, I nod my 
+
+		head and look nerdy.
+
+	Young Woman chuckles.
+
+	Jane chuckles.
+
+				SOUNDWOMAN'S VOICE
+
+		Tom
+
+				TOM
+
+		Yeah.
+
+				SOUNDWOMAN'S VOICE
+
+		It kills me we didn't have a second camera.  
+
+		It was so powerful seeing your reaction.
+
+				TOM
+
+		Really?
+
+				YOUNG WOMAN'S VOICE
+
+		Yes, it is.
+
+				SOUND WOMAN'S VOICE
+
+		For a second there, I thought you were 
+
+		gonna cry yourself.  That would have 
+
+		been something.
+
+				TOM
+
+			(considering, then)
+
+		Then give me a minute...
+
+				JANE
+
+			(fully realizing)
+
+		You fucking...
+
+	As Jane watches we SEE Tom work up the tears we saw in the
+
+	Evening News piece -- as he does so:
+
+				YOUNG WOMAN'S VOICE
+
+		Oh, that's amazing.
+
+	ON Jane's shocked reaction:
+
+	EXT. BWI AIRPORT - DAY
+
+	Jane's cab pulls up to the curb.  She gets out -- she is
+
+	carrying no luggage.  She sees Tom who hurriedly walks up
+
+	to her.  Jane is fighting to maintain a calm.
+
+				TOM
+
+		Look who's the organized one.
+
+		I've got everything.
+
+	He briefly opens a paper gift shop bag he is holding and shows
+
+	her he has bought them each a bathing suit.
+
+				JANE
+
+		I'm not going.
+
+	He looks at her with anticipatory distaste evident on his face.
+
+				TOM
+
+		Why?
+
+				JANE
+
+		I saw the taped outtakes of the
+
+		interview with the girl.  I know
+
+		you 'acted' your reaction after
+
+		the interview.
+
+	Tom half turns from her and moves back toward the bench.  Jane close 
+
+	behind, stalking him.
+
+				TOM
+
+		I felt funny about it afterwards.  It's
+
+		verboten, huh?  I thought since I did
+
+		it for real the first time -- but I get
+
+		you.  That's not the reason you're not
+
+		coming?
+
+				JANE
+
+			(raising her voice)
+
+		Of course it's the reason.  It's
+
+		terrible what you did.
+
+				TOM
+
+		We disagree on how God-awful it
+
+		was.  Why don't you come with me
+
+		and we can disagree and get a tan
+
+		at the same time?
+
+				JANE
+
+			(livid)
+
+		Jesus, if you're glib about this
+
+		I'm going to lose it.  I was up
+
+		all night and...
+
+				TOM
+
+			(calmly)
+
+		Jane, Jane, Jane, Jane, Jane...
+
+				JANE
+
+		It made me ill.  You could get
+
+		fired for things like that.
+
+				TOM
+
+		I got promoted for things like that.
+
+				JANE
+
+		Working up tears for a new piece
+
+		cutaway...You totally crossed the
+
+		line between...
+
+				TOM
+
+		It's hard not to cross it; they keep
+
+		moving the little sucker, don't they?
+
+				JANE
+
+			(distaste)
+
+		It just proves that the difference we 
+
+		have are...
+
+				TOM
+
+		This is a one-way argument.  We've got
+
+		six days; if you go and we fight and
+
+		we hate it -- we'll come home.  If you
+
+		don't go?  Well, that's a much bigger
+
+		deal.  I go to London right after that.
+
+		So, it'd be very big deal if you stay
+
+		here.  The plane's boarding.  You're
+
+		good at deadline.  Here's your ticket.
+
+				JANE
+
+			(taking ticket)
+
+		It's amazing.  You commit this
+
+		incredible breach of ethics and
+
+		you act as if I'm nitpicking.  Try
+
+		and get this.  When you edited that...
+
+				TOM
+
+			(deliberately)
+
+		I'm leaving now.  Gate 43.
+
+	He simply turns and walks away -- looking back once as Jane
+
+	stands there mucked up by his sudden departure -- the lack
+
+	of resolution to their confrontation is palpable.
+
+	INT. TERMINAL - DAY
+
+	On Tom moving past the metal detector.  He too is frustrated
+
+	-- pissed off at her.
+
+	INT. OTHER TERMINAL AREA
+
+	Jane moving quickly along towards the metal detectors.
+
+	INT. METAL DETECTOR
+
+	As Jane passes through and sets off the buzzer.  She stands
+
+	there -- the heel of her hand pressed to her brow trying to
+
+	stem the tears.  As others look on, she takes a huge key ring
+
+	from her pocket -- deposits it in the box -- walks through
+
+	without a buzzer and moves on.
+
+	INT. BOARDING RAMP - DAY
+
+	Tom waiting while in the b.g.  "People Eater" busses ferry
+
+	passengers to the plane.
+
+	As one full "People Eater" pulls away and another empty one arrives.
+
+				TICKET AGENT
+
+			(to Tom)
+
+		This is the last one.
+
+	Others start to board.  He sees Jane moving towards him.
+
+	He walks to her, she gestures back towards the street.
+
+				JANE
+
+		That's not going to be the way
+
+		we say good-bye.  Even though I
+
+		think what you did was rotten --
+
+		it's not all impersonal.  You mean
+
+		something to me.
+
+				TOM
+
+			(interrupting)
+
+		You keep coming after me and
+
+		looking down on me.  It's starting
+
+		to make me batty.
+
+	She looks at him.
+
+				TOM (cont'd)
+
+		I can't help it that they like me.
+
+		And I like that they like me.  And
+
+		I think there's a lot of this job that
+
+		I do well.  What do you think it takes
+
+		to do this job -- the way they have
+
+		it now?
+
+				JANE
+
+		I don't wan to discuss work.
+
+				TOM
+
+		Well, let's do a special report on
+
+		that...I mean that's news.
+
+				JANE
+
+		I knew what you meant.
+
+				TOM
+
+		What I don't know, I can learn and
+
+		what I know, nobody can teach.
+
+		Excuse me for saying it about myself,
+
+		but I think it's true.
+
+			(old habit)
+
+		What do you think?
+
+			(catching himself)
+
+		Never mind what you think.
+
+	They look at each other.
+
+				JANE
+
+		You're lucky I came after you so
+
+		you got that off your...
+
+				TOM
+
+		Yes, I am.  Thanks.  I mean it.
+
+				JANE
+
+		It's okay.
+
+				TICKET AGENT
+
+		Sir?
+
+	The pressure begins to bend Jane's resolve.
+
+				JANE
+
+		So you have an extra bathing suit, huh?
+
+				TOM
+
+			(wary but hopeful)
+
+		You want to come?
+
+				JANE
+
+			(totally open)
+
+		It's just that one of the few things
+
+		I'm not confused about is what I
+
+		was saying downstairs, that...
+
+				TOM
+
+			(giving up -- sadly,
+
+			 finally)
+
+		Then you should stay here.
+
+				JANE
+
+			(softly)
+
+		It's better when you let me say it.
+
+	He hugs her.  Now that it's over, they can each openly care
+
+	for each other.  While in the embrace:
+
+				TOM
+
+		Take it easy.
+
+				JANE
+
+		Why did I have to do this to
+
+		myself?  Watch you take off.
+
+			(then)
+
+		Call me if you need anything.
+
+	He kisses her lightly -- looking at her... Then heartfelt:
+
+				TOM
+
+		Oh, honey.
+
+	He walks to the People Eater and gets on, still holding his
+
+	paper bags of bathing suits.  The bus pulls away.
+
+	ON JANE
+
+	Watching him go.
+
+	JANE'S P.O.V.
+
+	Tom standing at the front window of the bus -- framed very
+
+	much as he is when on television.
+
+	INT. AIRPORT TAXICAB - DAY
+
+	Jane gets quickly into cab.
+
+				CABBIE
+
+		Good morning.
+
+				JANE
+
+		Good morning.
+
+			(after collecting herself)
+
+		Dupont Circle, please.
+
+	The cab pulls away.
+
+				JANE
+
+		Don't take the beltway, because at this
+
+		time of day there's gonna be a lot...
+
+			(stops herself, then)
+
+		...Go any way you want.
+
+	She sits back in the seat (containing herself) before finally and 
+
+	quietly adding what she knows to be true:
+
+				JANE
+
+		But New York Avenue's faster.
+
+							FADE OUT:
+
+	FADE IN:
+
+	EXT. CONVENTION CENTER - DAY
+
+	Much the same place where Jane and Tom first met.  The
+
+	words "SEVEN YEAS LATER" appears on the screen.
+
+	A sign off to one side tells us it's the annual meeting of the
+
+	Local Television Broadcasters... and that at 2 P.M.  Tom Grunick
+
+	will be speaking on "Responsibilities of Broadcast Journalism
+
+	for the '90s."
+
+	INT. AUDITORIUM - DAY
+
+	Much the same audience, though two members of the audience
+
+	may strike particular interest -- curly haired man seen
+
+	from behind holding a similarly curly haired five-year-old.
+
+	Tom is in mid-speech.
+
+				TOM
+
+		... when they told me Bill had decided
+
+		to retire and offered me the Evening
+
+		News, I thought it was the same kind
+
+		of joke we used to pull back at the
+
+		station -- turning off somebody's
+
+		prompter in the middle of a show.
+
+	Some good-natured laughter.
+
+				TOM (cont'd)
+
+		And then when they heard my reaction --
+
+		they thought I was kidding.  I told them
+
+		I'd be their anchor but I didn't want
+
+		to be the Managing Editor -- that there
+
+		were people better qualified than I to 
+
+		control the content and if there 
+
+		weren't we were all in trouble.
+
+	The audience really enjoys this:
+
+	SAME SCENE -- SOME MINUTES LATER
+
+	MOVING SHOT...
+
+	The anchor teams -- leaning forward.  They love this man,
+
+	a humble specialist refusing the generalist trap.  Imagine
+
+	the feeling -- you see, on the top of the mountain, a man
+
+	not unlike yourself.
+
+				TOM
+
+		And now to something more
+
+		important... I'd like to introduce
+
+		my bride.
+
+			(gestures to a woman in
+
+			 the front row)
+
+		Lila?
+
+	A svelte, classic, warm beauty gets to her feet.
+
+	ON CURLY HAIRED MAN AND BOY...
+
+	Aaron and his son as Aaron cranes for a look at Mrs. Grunick.
+
+	INT. AUDITORIUM - STAGE AREA - MOMENTS LATER
+
+	Tom and Lila shaking hand.  Aaron, his son in his arms, wait.
+
+	ON TOM
+
+	As he sees Aaron... he is clearly delighted.
+
+				TOM
+
+		Holy shit, Aaron.
+
+	He claps him on the back... Aaron is as pleased as he is
+
+	uncomfortable with the attention.
+
+				TOM
+
+		Lila -- this is Aaron Altman.
+
+				LILA
+
+			(high British accent)
+
+		Oh, yes -- you're one of Tom's
+
+		50 or so role models.
+
+				AARON
+
+		Hi.
+
+				TOM
+
+		Well, this kid couldn't possibly
+
+		belong to anyone else.  What's
+
+		your name?
+
+				BOY
+
+		Clifford...
+
+				AARON
+
+			(indicating Tom)
+
+		Do you know who this is, Cliff?
+
+				BOY
+
+		The big joke?
+
+	Tom looks at him -- Aaron gives his son a disciplinary nudge.
+
+				AARON
+
+		I'm just bringing him over to give
+
+		Jane a look at him --
+
+				TOM
+
+		I thought she'd be here.  I'll
+
+		go with you.
+
+				AARON
+
+		Okay.
+
+				TOM
+
+			(to Lila)
+
+		I'll see you back at the hotel.
+
+				LILA
+
+			(cool)
+
+		All right.
+
+	He starts off.  She pulls him back for an urgent communication.
+
+				LILA
+
+		Tom, the speech was magnificent.
+
+				AARON
+
+		Oh, I didn't say anything about
+
+		your speech.
+
+				TOM
+
+		I appreciate it.
+
+	INT. WALKWAY - DAY
+
+	Tom, Aaron and the boy walking along.  Tom plays with Cliff
+
+	as they move.  The boy is delighted.  Jane is in a park -- a
+
+	blanket spread out -- she is wearing shorts and a top -- she
+
+	has some wine and a small picnic -- a toy for Clifford.
+
+	She HEARS her name being called.
+
+	ON JANE
+
+	Shielding her eyes from the sun -- now making out Tom.  As 
+
+	they reach her.
+
+				JANE
+
+			(to herself)
+
+		Well, why not?
+
+			(as they arrive)
+
+		Hey, what is this?  My life's
+
+		rushing in front of my eyes.
+
+				TOM
+
+		A picnic?
+
+				JANE
+
+		I thought for ol' Cliff here --
+
+		Look at you?  You're more adorable
+
+		than your pictures.  Look what I
+
+		got for you.
+
+	She hands him a toy.
+
+				AARON
+
+		What do you say, Cliff?
+
+	The boy kisses Jane's hand.
+
+				AARON
+
+		He excels at gratitude.
+
+				TOM
+
+			(to Jane)
+
+		Are you any closer to a decision?
+
+				JANE
+
+		I think so...They've been talking
+
+		to me about being Tom's Managing
+
+		Editor.
+
+				AARON
+
+		Really?
+
+				JANE
+
+			(to Tom)
+
+		I'm going to take it.
+
+				TOM
+
+		What a great surprise.  I didn't
+
+		think we had a chance.  I heard
+
+		you wanted to stay in Washington.
+
+				JANE
+
+		Well, there's a guy, but he says he'll
+
+		fly up a lot.
+
+				TOM
+
+		Well, we should talk.  You going to
+
+		have time for  dinner?  I'd like
+
+		you to meet Lila.
+
+				JANE
+
+		I'm sorry because I was looking
+
+		forward to that, but I' m going
+
+		back in a few hours.
+
+				TOM
+
+		Okay...It's so good to see you.
+
+	She gives him a quick kiss.  He shakes hands with Aaron.
+
+				TOM
+
+			(to Aaron)
+
+		It's nice to see you.
+
+				AARON
+
+		Congratulations on history's longest
+
+		winning streak.
+
+				TOM
+
+		If you ever get restless in Portland,
+
+		let me know.
+
+				AARON
+
+		Why?
+
+	Tom shuffles uncomfortably.
+
+	ON JANE
+
+	Smiling, appreciating Aaron's attitude toward a blandishment of the
+
+	powerful.
+
+				TOM
+
+			(to Jane as he leaves)
+
+		Bye...boss.
+
+	Tom walks away.  He's a good twenty yards away when Aaron looks up
+
+	to see his son running after Tom.
+
+				AARON
+
+			(calling)
+
+		Hey!  Cliff!  Cliff!
+
+	Tom now notices the boy, leans down and pats him.
+
+				TOM
+
+			(to Clifford)
+
+		Go back to your daddy.
+
+	The boy starts back.
+
+				AARON
+
+		Come on, Cliff.  Come on.
+
+	As Clifford runs back to his father, Aaron sits next to Jane.
+
+				AARON
+
+			(to Jane)
+
+		So who's the guy?
+
+				JANE
+
+		Well, we met about three months ago.
+
+		He works at the surgeon general office.
+
+		He loves boating.  So, he's been 
+
+		getting me into water skiing.
+
+	Aaron laughs at the very notion of Jane finding water sports a lure.
+
+	Jane deliberately moves past this moment.
+
+				JANE
+
+		I like it!  So, doll, what about you
+
+		lately?
+
+				AARON
+
+		Well -- my wife got this new job...
+
+	He continues to talk.  As the two former colleagues catch up,
+
+	their ease returns, if not their intimacy, as the frame locks and
+
+	the scene slowly recedes into a black b.g. and we...
+
+							FADE OUT.
+

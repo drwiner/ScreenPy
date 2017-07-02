@@ -1,0 +1,6990 @@
+PUNCH-DRUNK LOVE by Paul Thomas Anderson
+
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+                    PUNCH-DRUNK LOVE
+
+                           by
+
+                  Paul Thomas Anderson
+
+LOGO
+
+Presentation cards with white, red, blue, blue-green
+
+backgrounds, then:
+
+                                            CUT TO:
+
+INT. WAREHOUSE - EARLY MORNING
+
+CAMERA (STEADICAM) holds on a man in a suit, sitting behind
+
+a desk, on the phone: BARRY EGAN (Adam Sandler)
+
+                         BARRY
+
+            ...yes I'm still on hold...
+
+                         OPERATOR
+
+            And what was this?
+
+                         BARRY
+
+            I'm looking at your advertisement
+
+            for the airline promotion and
+
+            giveaway?
+
+                         OPERATOR
+
+            This is "Fly With Us?"
+
+                         BARRY
+
+            It's hard to understand because it
+
+            says in addition to but I can't
+
+            exactly understand in addition to
+
+            what because there's actually
+
+            nothing to add it too...
+
+                         OPERATOR
+
+            I think that's a type-o then, that
+
+            would be a mistake.
+
+                         BARRY
+
+            So, just to clarify, I'm sorry: Ten
+
+            purchases of any of your Healthy
+
+            Choice products equals five hundred
+
+            miles and then with the coupon the
+
+            same purchases would value one
+
+            thousand miles --
+
+                         OPERATOR
+
+            That's it.
+
+                         BARRY
+
+            Do you realize that the monetary
+
+            value of this promotion and the
+
+            prize is potentially worth more
+
+            than the purchases?
+
+                         OPERATOR
+
+            I don't know...I mean: I don't know.
+
+OC DISTANT SOUND OF A CAR SKIDDING TO A STOP, SOME VAGUE,
+
+DISTANT SCREAMING IS HEARD...THEN SILENCE. Barry hears this,
+
+gets distracted, then back to the phone call;
+
+                         BARRY
+
+            Can I call you back if I have any
+
+            further questions...? Can I get
+
+            your extension?
+
+                         OPERATOR
+
+            It's extension 215 if you want to
+
+            try me back.
+
+                         BARRY
+
+            Ok. Thank you.
+
+He hangs up the phone and walks through his warehouse. It's
+
+fairly non-descript place, boxing materials, etc. Products
+
+seem to be mainly silly novelties (pens that light up, key
+
+chains, novelty toilet plungers, etc)
+
+He lifts a LOADING DOOR and LIGHT POURS INSIDE, WASHES OUT
+
+THE FRAME....he's silhouette....CAMERA follows him
+
+out...stays overexposed and over his shoulder as he looks
+
+down towards the street.....
+
+...his business is situated at the end of a common driveway,
+
+shared with a few other nondescript places and an Auto
+
+mechanic....distant SOUND of a car SPEEDING and SKIDDING....
+
+....hold, then:
+
+....a JEEP CHEROKEE comes FLIPPING into FRAME, far off at
+
+the mouth of the alley, on the street. The JEEP ends up
+
+landing RIGHT SIDE UP....HOLD....
+
+.....Barry flinches a little, stares.....the JEEP sits idle
+
+for a moment....then it drives off....then:
+
+A speeding, small TOYOTA comes into view at the mouth of the
+
+alley, screeching to a halt. The passenger side door opens
+
+and a small, wooden HARMONIUM (like a portable organ) is
+
+placed on the ground. The TOYOTA speeds away.....
+
+....a moment or two later another NON-DESCRIPT CAR flies
+
+past very fast....
+
+BEAT. Barry squints, looks at the small HARMONIUM sitting
+
+alone in the middle of the street.
+
+He hesitates, looks around, holds, then walks back inside
+
+his warehouse.
+
+                                            CUT TO:
+
+INT. BARRY'S WAREHOUSE - THAT MOMENT
+
+Barry on the phone again;
+
+                         BARRY
+
+            ....I'm not exactly sure what that
+
+            means...
+
+                         VOICE
+
+            If they break or something. What is
+
+            it, plastic?
+
+                         BARRY
+
+            It's a plastic, yeah.
+
+                         VOICE
+
+            Right. Alright, lemme call you
+
+            first thing tomorrow, I'm gonna run
+
+            the numbers, see what's what and
+
+            I'll give you a call back --
+
+                         BARRY
+
+            Did you have my home phone number?
+
+                         VOICE
+
+            For what?
+
+                         BARRY
+
+            If you wanted to call me back I
+
+            could...
+
+                         VOICE
+
+            I'm fine, I have your work number.
+
+                         BARRY
+
+            Ok...because of the time difference
+
+            if you needed to call me early?
+
+                         VOICE
+
+            It's fine. I can just get you at
+
+            your office.
+
+                         BARRY
+
+            Ok.
+
+                         VOICE
+
+            Ok, bye, bye.
+
+                         BARRY
+
+            Bye.
+
+He hangs up the phone and walks outside, CAMERA follows him
+
+again, out to the alley, over his shoulder......he looks
+
+down the length of the alley at the Harmonium. HOLD, THEN:
+
+A small FORD ESCORT pulls into the driveway, around the
+
+Harmonium, parks......a young woman named LENA LEONARD
+
+(Emily Watson) exits the car and starts to walk down the
+
+length of the alley towards him.....CAMERA stays over his
+
+shoulder and turns into a profile 2-shot;
+
+                         LENA
+
+            Hi. Do you work at the mechanic?
+
+                         BARRY
+
+            No.
+
+                         LENA
+
+            They're not open yet?
+
+                         BARRY
+
+            They don't get opened until eight.
+
+BEAT. Barry gently steps back and out of the FRAME.
+
+                         LENA
+
+            Is it ok if I leave my car you think?
+
+                         BARRY
+
+            I don't know.
+
+                         LENA
+
+            I thought they opened at seven.
+
+                   (beat)
+
+            If I left my car would it be ok?
+
+                         BARRY
+
+            I don't know.
+
+                         LENA
+
+            Do you know them.
+
+                         BARRY
+
+            Not very well.
+
+                         LENA
+
+            Can I ask you, can I trust to leave
+
+            my keys with you and give them to
+
+            you so that when they get here you
+
+            could give them to them?
+
+                         BARRY
+
+            Ok.
+
+                         LENA
+
+            You think it's ok where I left it,
+
+            right there?
+
+                         BARRY
+
+            I think that'll be fine.
+
+Lena hands him her keys, he steps back into FRAME, THEN:
+
+                         LENA
+
+            There's a piano in the street.
+
+                         BARRY
+
+            Yeah.
+
+BEAT.
+
+                         LENA
+
+            Ok. Maybe I'll see you later. Thank
+
+            you for your help.
+
+                         BARRY
+
+            Thank you.
+
+                         LENA
+
+            Maybe I'll see you later, when I
+
+            pick up my car?
+
+                         BARRY
+
+            Ok.
+
+She walks away....he starts back inside the warehouse,
+
+hesitates, watches her go.....right before she reaches the
+
+end of the alley, she glances back quickly, over her
+
+shoulder....he dodges inside real quick.....
+
+HOLD THE EMPTY FRAME......then he steps back out.....looks
+
+off at the Harmonium.....and the empty street.....he looks
+
+around some more....then he makes the long walk down the
+
+street.
+
+ON THE STREET.
+
+Barry stares at the Harmonium a little bit, looks around,
+
+both ways, then casually picks it up and walks back towards
+
+his business.....
+
+He brings it into his office and places it on his desk. He
+
+tries a few keys....pressing down...there's no sound.
+
+He presses his hand on the foot pedal and presses a key and
+
+a small note is made.....BEAT....he does it again....and
+
+holds the note.....
+
+                                            CUT TO BLACK.
+
+INT. WAREHOUSE - OFFICE - EARLY MORNING
+
+Barry enters the warehouse with harmonium and runs into his
+
+office. He places it on the desk and hits a key: no sound.
+
+Barry goes to his knees and unlatched the bellows. He pumps
+
+the bellow, reaches up, presses a note, and another...then
+
+stands up into CU. and presses the 5 note
+
+melody......SUDDENLY: THE SOUND OF THE POD BAY DOOR SLIDING....
+
+....Barry spins around, scared shitless, sees: LANCE, who
+
+enters the warehouse, Barry rushes out to greet him;
+
+                         LANCE
+
+            Hey, good morning, Barry.
+
+                         BARRY
+
+            Hey...Lance....can I.....
+
+                         LANCE
+
+            You ok?
+
+                         BARRY
+
+            Yes I'm fine.
+
+                         LANCE
+
+            Why you wearin' a suit?
+
+                         BARRY
+
+            Um....I bought one. I thought maybe
+
+            it would be nice to get dressed for
+
+            work, can I show you something?
+
+                         LANCE
+
+            Yeah.....you got here early huh?
+
+                         BARRY
+
+            ....yes.....
+
+They enter into the office, Lance sees the harmonium;
+
+                         LANCE
+
+            What is this?
+
+                         BARRY
+
+            I don't know. I think it's a
+
+            piano....a small piano.
+
+                         LANCE
+
+            That's not a piano.....I have a
+
+            piano at home.....where'd you get it?
+
+Lance walks around behind the harmonium....leaving Barry
+
+alone....towards the warehouse......he starts to back up a
+
+little.....
+
+                         BARRY
+
+            Well.....it was dropped on the
+
+            street.....
+
+Sal, Ernesto and Rico all start to come into work behind
+
+Barry.....he sees them: CAMERA pushes in on Barry....
+
+                         LANCE (OC)
+
+            Why is it here? Barry....Barry?
+
+                         BARRY
+
+            ...it just....I don't know....I
+
+            don't know.
+
+LAND IN CU. ON BARRY. CUT TO BLACK.
+
+TITLE CARD Punch-drunk Love Movie
+
+(maybe color blooms/overture here)
+
+INT. WAREHOUSE/MAIN AREA - DAY
+
+CAMERA pushes in slow as Barry and Lance talk to TWO
+
+CUSTOMERS about the plungers which are on display in front
+
+of them. They speak all over each other doing shop talk, etc;
+
+                         CUSTOMER
+
+            You do guaranteed sale? etc.
+
+                         BARRY
+
+            We back our plungers 100% and we do
+
+            ask for a 30 to 60 day display on
+
+            the floor.....
+
+In the b.g., RICO over the laud speaker says:
+
+                         RICO
+
+            Barry, your sister's on line one.
+
+Barry doesn't move....
+
+                         BARRY
+
+            Yes.....we do ask for....30 to 60
+
+            days....
+
+                         CUSTOMER
+
+            I think you have a call?
+
+Rico turns around, without loudspeaker;
+
+                         RICO
+
+            Barry, your sister is on line one.
+
+They look at him a moment....
+
+                         BARRY
+
+            I'm just gonna grab this call real
+
+            quick?
+
+ANGLE, REVERSE. Barry turns and heads for the phone nearby
+
+at Rico's station;
+
+                         BARRY
+
+                   (into phone)
+
+            .....This is Barry.
+
+                         RHONDA
+
+            Hey it's me, it's Rhonda. Are you
+
+            coming to the party tonight?
+
+                         BARRY
+
+            Hi, Rhonda, yes I am.
+
+                         RHONDA
+
+            Bye.
+
+She hangs up.
+
+                         BARRY
+
+            Ok. Yes I'll see you tonight.
+
+Barry takes a few steps back to the Customers:
+
+                         BARRY
+
+            Sorry about that: One thing I
+
+            wanted to point out, Dave, is that
+
+            we've just received a large order
+
+            from the Rio Hotel and Casino in
+
+            Las Vegas where we're going to be
+
+            supplying their hotel rooms with
+
+            the dice and money plunger, so
+
+            these babies are really moving well
+
+            right now...
+
+                         RICO
+
+                   (over loudspeaker)
+
+            Barry, your sister's on line two.
+
+            Barry, your sister's on line two.
+
+Barry tries again to ignore it....
+
+                         BARRY
+
+            With the Aqua Blast Whales and
+
+            Speed Boats we're gonna ask for a
+
+            display at eye level for the little
+
+            kids.....
+
+                         RICO
+
+            Barry --
+
+                         BARRY
+
+            -- excuse me.
+
+Barry walks back to the phone;
+
+                         BARRY
+
+            This is Barry.
+
+                         KAREN
+
+            Hey it's me, what are you doing?
+
+                         BARRY
+
+            Hello, Karen. I'm just working.
+
+                         KAREN
+
+            Yeah but what are you doing?
+
+                         BARRY
+
+            I'm just working....I have some
+
+            customers here.....
+
+                         KAREN
+
+            So you can't talk to me?
+
+                         BARRY
+
+            I have a few people here, I can't
+
+            really chat right now.
+
+                         KAREN
+
+            "chat?" Did you just say "chat?"
+
+                         BARRY
+
+            Well, I can't talk though --
+
+                         KAREN
+
+            You just fucking said "chat," that
+
+            is so -- what are you now? "chat."
+
+            I'm just calling to make sure you
+
+            show up at this party tonight.
+
+                         BARRY
+
+            Yes, I'll be there.
+
+                         KAREN
+
+            Fine. You get back to chatting with
+
+            your precious customers.
+
+                         BARRY
+
+            Ok, bye-bye.
+
+Barry snaps out of this, turns, claps his hands in confidence
+
+and walks back to the customers and says:
+
+                         BARRY
+
+            Sorry about that.
+
+                         CUSTOMER
+
+            I didn't know you had a sister?
+
+                         BARRY
+
+            .....Well yes I do....
+
+                   (beat)
+
+            But one more thing I wanted to tell
+
+            you guys about the new plungers is
+
+            that we're making the handles now
+
+            in a non-breakable material
+
+            called.....
+
+He takes one of the plungers and to demonstrate smacks it on
+
+the table....it SMASHES and rice falls out everywhere....
+
+                         BARRY
+
+            Ok...this is one of the old ones, I
+
+            think. Lance do we have any new
+
+            plungers around?
+
+Lance moves to get a new plunger....
+
+                         BARRY
+
+            That was a little embarrassing and
+
+            that was one of the old handles so
+
+            let me get a new one to show you --
+
+                         RICO
+
+                   (loudspeaker)
+
+            Barry, your sister is on line one.
+
+Barry holds, then;
+
+                         CUSTOMER
+
+            How many sisters do you have?
+
+                         BARRY
+
+            ....I have seven.
+
+                         CUSTOMER #2
+
+            Holy shit. You have seven sisters?
+
+                         BARRY
+
+            They're calling because we're
+
+            having a party tonight for my
+
+            sister and the they're just
+
+            calling....can you hang on for just
+
+            two more minutes....?
+
+Barry walks this time into his office......CAMERA tracks
+
+with Barry to his office, seeing him try and shake this
+
+off.....He EXITS FRAME.
+
+                                            CUT TO:
+
+INT. WAREHOUSE - OFFICE - THAT MOMENT
+
+Barry enters, takes a quick moment to size up the
+
+harmonium.....He picks up the phone and through the
+
+conversation gently moves the harmonium to a different spot
+
+on the desk;
+
+                         BARRY
+
+            This is Barry.
+
+                         KATHLEEN
+
+            What are you doing?
+
+                         BARRY
+
+            Hi, Kathleen, I'm just working.
+
+                         KATHLEEN
+
+            Are you going to the party tonight?
+
+                         BARRY
+
+            Yes I am.
+
+                         KATHLEEN
+
+            What are you doing?
+
+                         BARRY
+
+            Nothing.
+
+                         KATHLEEN
+
+            Right now, you're doing nothing?
+
+                         BARRY
+
+            I'm just talking on the phone to
+
+            you and standing.
+
+                         KATHLEEN
+
+            What time are you gonna be there?
+
+                         BARRY
+
+            Seven o'clock.
+
+                         KATHLEEN
+
+            You can't be late.
+
+                         BARRY
+
+            I won't.
+
+                         KATHLEEN
+
+            I'm serious.
+
+                         BARRY
+
+            I know.
+
+                         KATHLEEN
+
+            Seriously.
+
+                         BARRY
+
+            Ok.
+
+                         KATHLEEN
+
+            You can't be late though.
+
+                         BARRY
+
+            I know.
+
+                         KATHLEEN
+
+            You can't just not show up like you
+
+            do, you have to go.
+
+                         BARRY
+
+            I know.
+
+                         KATHLEEN
+
+            Seriously.
+
+                         BARRY
+
+            I know.
+
+                         KATHLEEN
+
+            You can't just stay in your house.
+
+                         BARRY
+
+            I know.
+
+                         KATHLEEN
+
+            Yeah but I'm serious.
+
+                         BARRY
+
+            Ok.
+
+                         KATHLEEN
+
+            I'll see you there.
+
+                         BARRY
+
+            I'll see you there.
+
+                         KATHLEEN
+
+            Don't puss out.
+
+                         BARRY
+
+            I won't.
+
+Barry plays the 5 note melody on the Harmonium (carries over
+
+into next scene....)
+
+                                            CUT TO:
+
+INT./EXT. WAREHOUSE - LATER (BRIDGE/BREAK MUSIC WISE)
+
+Barry and his workers are having lunch. A LUNCH TRUCK is
+
+parked by the driveway. Barry sees the CAR that Lena brought
+
+by at the start of the movie....OC CALL from one of the
+
+workers;
+
+                         WORKER
+
+            Telephone Barry on line one.
+
+A mechanic passes by at this moment, keeps walking past;
+
+                         BARRY
+
+            What's wrong with her car?
+
+                         MECHANIC
+
+            Wha?
+
+                         BARRY
+
+            Is that car gonna be ok?
+
+                         MECHANIC
+
+            It's fine.
+
+The mechanic keeps walking....Barry enters.
+
+                                            CUT TO:
+
+INT. WAREHOUSE/NEAR LANCE'S DESK - LATE AFTERNOON
+
+Barry and the boys are prepping some boxes for shipping.
+
+Ernesto walks over, says;
+
+                         ERNESTO
+
+            Barry, your sister's here.
+
+Barry stands up fast, stumbles back a bit over some boxes,
+
+recovers, ELIZABETH enters:
+
+                         ELIZABETH
+
+            Hey, how are you?
+
+                         BARRY
+
+            I'm fine, hi, how are you?
+
+                         ELIZABETH
+
+            I'm just stopping by to say hello.
+
+                         BARRY
+
+            Hello.
+
+                         ELIZABETH
+
+            So you're coming tonight, right?
+
+                         BARRY
+
+            Yes, indeed, yes I am.
+
+                         ELIZABETH
+
+            There's this girl, this friend of
+
+            mine from work that I think is
+
+            really cute and really cool and I
+
+            want you to meet her so I was
+
+            thinking about bringing her to the
+
+            party tonight.
+
+                         BARRY
+
+            Oh yeah no I don't want to do that.
+
+                         ELIZABETH
+
+            Why?
+
+                         BARRY
+
+            Well I don't want to do something
+
+            like that.
+
+                         ELIZABETH
+
+            She's my friend and you should meet
+
+            her. You'd like her.
+
+                         BARRY
+
+            Yeah, but please don't do that.
+
+                         ELIZABETH
+
+            I'm not really asking you, I'm
+
+            telling you.
+
+                         BARRY
+
+            Yeah but please don't do that:
+
+            everyone would be looking at me.
+
+                         ELIZABETH
+
+            It's a free country, we can look at
+
+            you if we want to.
+
+                         BARRY
+
+            Yes but I get tense and I feel like
+
+            I can't be myself if that happens.
+
+                         ELIZABETH
+
+            That's your fault not mine.
+
+                         BARRY
+
+            I don't think I'm going to the party.
+
+                         ELIZABETH
+
+            So it's ok if I bring her.
+
+                         BARRY
+
+            Please don't.
+
+                         ELIZABETH
+
+            She's really cute and she's really
+
+            nice.
+
+                         BARRY
+
+            ...please, I just don't want it....
+
+                         ELIZABETH
+
+            ....wait a minute: why is this
+
+            about you now? Why is it always
+
+            about you?
+
+                         BARRY
+
+            Yeah, no, it's not, it's just --
+
+                         ELIZABETH
+
+            I'm trying to be your friend.
+
+                         BARRY
+
+            I know.
+
+                         ELIZABETH
+
+            I'm trying to get you a girlfriend.
+
+                         BARRY
+
+            Well, yeah, thank you, but --
+
+                         ELIZABETH
+
+            -- but since you're not going I
+
+            guess none of this matters and I'll
+
+            bring her anyway.
+
+BEAT. HOLD. She stares him down.
+
+                         ELIZABETH
+
+            All I'm trying to do is be your
+
+            friend.
+
+She leaves. HOLD ON BARRY. He air punches/twitch.
+
+                                            CUT TO:
+
+INT. WAREHOUSE - LATER/BLUE HOUR - NIGHT
+
+Barry is alone, closing up. He takes a look at the Harmonium
+
+and presses it, makes a sound....a little bit more....makes
+
+a few notes. END SCORE QUE as it blends and fades into the
+
+notes that Barry plays.
+
+BEAT. He closes its small cover, does something on his desk
+
+and then:
+
+His face gets bright red, he holds back tears, opens his
+
+mouth and has a serious but small burst of overwhelming
+
+emotion and then it's over.
+
+INT. SUPERMARKET - NIGHT
+
+CU. BIRTHDAY CARD.
+
+Barry's hands reaches in and picks a birthday card.
+
+ANGLE, WIDER, THAT MOMENT.
+
+Barry grabs the card and starts to push his cart....but he
+
+pushes it straight into a SIX YEAR OLD KID who's pushing a
+
+cart around....they slam into each other....
+
+Barry apologizes....the KID just takes off....Barry's cart
+
+now has a slightly damaged wheel that wobbles like crazy....
+
+ANGLE, FROZEN FOOD AISLE.
+
+CAMERA tracks left to right with Barry as he heads for the
+
+Healthy Choice Frozen Dinner. He grabs one.
+
+CU. BARRY. LOW ANGLE.
+
+He looks at box.
+
+BARRY'S POV - THE BOX
+
+Slow zoom in. The sticker reads: "Fly Away With Us! The More
+
+You Buy The More You Earn."
+
+ANGLE, SOUP SECTION.
+
+CAMERA tracks along right to left with Barry as he moves
+
+towards some SOUP. He grabs one, inspects it.....then puts
+
+it back.
+
+CU. SOUP CAN.
+
+It's put back on the shelf: TILT down to price: 79 cents.
+
+Barry turns his cart around and SMACKS right into someone
+
+else again, screwing up another wheel on his cart.
+
+ANGLE, BARRY.
+
+CAMERA, tracks alongside him, left to right as he comes
+
+across: PUDDING. The price: 4/$1.00.
+
+MED. BARRY in the middle of the aisle.
+
+He reacts......smiles...holds....thinks....looks around,
+
+then starts to load up on the pudding.
+
+ANGLE, BARRY.
+
+He pushes TWO SHOPPING CARTS FULL OF PUDDING over to the
+
+STORE MANAGER who's on his knees, stacking milk.....Barry
+
+kneels down, CAMERA PUSHES INTO A CU. as he speaks sotto;
+
+                         MANAGER
+
+            Hello.
+
+                         BARRY
+
+            Hello, sir. My name is Barry Egan
+
+            and I'd like to ask if you have any
+
+            more Healthy Choice pudding in the
+
+            back?
+
+                                            CUT TO:
+
+INT. SUSAN'S HOUSE - NIGHT
+
+The door opens slowly and Barry peers his head around and
+
+into the house very cautiously, CAMERA PUSHES IN and PANS
+
+slightly LEFT to reveal: THE KITCHEN.
+
+Barry's SEVEN SISTERS are all there, preparing dinner and
+
+talking away....they turn and see him;
+
+                         SUSAN
+
+            There he is! Do you remember when
+
+            we used to call you gay and you'd
+
+            get all mad?
+
+                         KATHLEEN
+
+            -- we were calling you gay and you
+
+            got so mad that you threw a hammer
+
+            through the sliding glass door --
+
+            do you remember?
+
+                         BARRY
+
+            I don't really remember that.
+
+                         KATHLEEN
+
+            Yes you do. We were calling you Gay
+
+            Boy and you got so mad....
+
+                         BARRY
+
+            Yes, yes, right.
+
+                         SUSAN
+
+            We're trying to remember why you
+
+            had the hammer in the first place?
+
+                         BARRY
+
+            ...um.....
+
+                         KATHLEEN
+
+            The hammer that you threw....why
+
+            did you have it?
+
+                         SUSAN
+
+            You don't remember -- you had the
+
+            hammer and you threw it -- ?
+
+                         BARRY
+
+            I remember, yes.....
+
+                         SUSAN
+
+            Why did you have it?
+
+Another sister, RHONDA, enters from behind, Barry jumps, says:
+
+                         RHONDA
+
+            He was building a ramp for the dog.
+
+                         KATHLEEN
+
+            He was making a ramp for the dog!
+
+            That's right!
+
+                         SUSAN
+
+            That's right....ramp for the
+
+            dog..... And you just threw the
+
+            hammer.
+
+                         BARRY
+
+                   (to Rhonda)
+
+            Happy Birthday, Rhonda.
+
+                         RHONDA
+
+            Thank you. Thank you so much, Barry.
+
+She gives him a very quick hug and kiss and sets the cake
+
+next to a bigger, cooler looking cake.
+
+Mia approaches holding a baby.....Barry tries to say hello
+
+to the baby, but Mia slowly turns the baby out of Barry's
+
+grasp....making herself the center of his attention;
+
+KITCHEN/DINING ROOM, THAT MOMENT
+
+Barry gets slightly turned around trying to reach the
+
+baby...and ends up in a doorway that leads to the dining
+
+room, revealing himself to: ELIZABETH, KAREN, NICOLE AND
+
+ANNA. There are also: THREE BROTHER IN LAW'S (WALTER, LARRY
+
+AND STEVE)
+
+                         ELIZABETH
+
+            Hey....I was just telling everyone
+
+            about how I was gonna bring this
+
+            girl for you but you wouldn't let
+
+            me do it.
+
+                         BARRY
+
+            Hello everyone.
+
+KAREN steps up and greets him;
+
+                         KAREN
+
+            Did you think that we'd all be
+
+            looking at you?
+
+                         BARRY
+
+            No, no, no.
+
+                         KAREN
+
+            Well it's just not true. We
+
+            wouldn't be looking at you -- why
+
+            are you wearing this suit? Did you
+
+            say hello to your brother in law's?
+
+                         STEVE/LARRY
+
+            Hi, Barry. How ya doin? Good, good.
+
+                         KAREN
+
+            Say hello to them, that's right,
+
+            good, good. Ok. Come on, we're
+
+            gonna eat now.....let's go.....
+
+Barry shakes hands and hello's with the brother in law's.
+
+He's left alone for a moment with Walter and Elizabeth;
+
+                         WALTER
+
+            How you doin' Barry?
+
+                         BARRY
+
+            Hi Walter.
+
+                         WALTER
+
+            How's business?
+
+                         BARRY
+
+            Business is very food, thanks.
+
+                         ELIZABETH
+
+            What's very food?
+
+                         BARRY
+
+            What?
+
+                         ELIZABETH
+
+            You just said very food.
+
+                         BARRY
+
+            Did I say that?
+
+                         WALTER
+
+            Yeah.
+
+                         BARRY
+
+            That was weird. I meant good.
+
+                         WALTER
+
+            Maybe you said that because you're
+
+            hungry.....
+
+Walter moves to help everyone...they're moving to set the
+
+table......
+
+CAMERA CLOSES IN ON BARRY AND ELIZABETH alone for a beat:
+
+                         ELIZABETH
+
+            You're lucky. She couldn't come
+
+            anyway --
+
+                         BARRY
+
+            Well I'm glad you didn't, thank you.
+
+                         ELIZABETH
+
+            She couldn't come I said. Are you
+
+            nervous?
+
+                         BARRY
+
+            No.
+
+                         ELIZABETH
+
+            You look nervous.
+
+                         BARRY
+
+            I'm not, I'm very happy.
+
+RHONDA passes;
+
+                         RHONDA
+
+            Come on homo-boy, we're eating now.
+
+Elizabeth leaves, HOLD ON BARRY.
+
+CAMERA PUSHES IN TOWARDS EVERYONE SETTING THE
+
+TABLE.....CAMERA ROTATES AROUND.....everyone is still
+
+chatting a bit about "Barry gay boy," and "the girl that was
+
+gonna be here that Barry wouldn't allow."
+
+ANGLE, REVERSE. Barry is standing in front of the floor to
+
+ceiling sliding glass doors.....in an INSTANT, he TURNS AND
+
+THROWS HIS FIST STRAIGHT THROUGH THREE OF THEM, THEY
+
+SHATTER....he turns back, they are all staring straight at
+
+him in silence. HOLD, THEN:
+
+In unison they all go ape shit:
+
+                         GROUP
+
+            WHAT THE FUCK IS YOUR PROBLEM.
+
+            GODDAMNIT BARRY. YOU FUCKIN' MANIAC.
+
+            ETC. ETC.
+
+                                            CUT TO:
+
+INT. SUSAN'S HOUSE - HALLWAY - LATER
+
+It's later and WALTER and BARRY walk down a small hall and
+
+into a kids room. They're OC for a few moments as the CAMERA
+
+slowly pushes in and towards the room. Following sotto;
+
+                         WALTER
+
+            What's up?
+
+                         BARRY
+
+            Well I'm sorry. Before...
+
+                         WALTER
+
+            Mhm.
+
+                         BARRY
+
+            And I'm sorry that I did that.
+
+                         WALTER
+
+            It's alright.
+
+                         BARRY
+
+            I wanted to ask you because you're
+
+            a doctor, right?
+
+                         WALTER
+
+            Yeah.
+
+                         BARRY
+
+            I don't like the way I am sometimes.
+
+                   (beat)
+
+            Can you help me?
+
+                         WALTER
+
+            Barry, I'm a dentist, what kind of
+
+            help do you think I can give you?
+
+                         BARRY
+
+            I know that. Maybe you know other
+
+            doctors?
+
+                         WALTER
+
+            Like a psychiatrist?
+
+                         BARRY
+
+            I don't have anyone to talk to
+
+            things about and I understand it's
+
+            confidential with a doctor - I'm
+
+            embarrassed about that and I don't
+
+            want my sisters to know?
+
+                         WALTER
+
+            You want a number for a
+
+            psychiatrist, I can get you one,
+
+            that's not a problem. but what
+
+            exactly is wrong?
+
+                         BARRY
+
+            I don't know if there's anything
+
+            wrong with me because I don't know
+
+            how other people are.....Sometimes
+
+            I cry a lot.....for no reason.
+
+Barry starts to cry. Walter just stares at his. HOLD.
+
+Barry stops, recuperates, then leaves.....as he does;
+
+                         BARRY
+
+            Please don't tell my sisters.
+
+                                            CUT TO:
+
+INT. BARRY'S APARTMENT - LATER
+
+CU. HEALTHY CHOICE COUPON.
+
+Barry's scissors cut out a coupon and reveal an image
+
+beneath in another section of the newspaper...it's the sexy
+
+LEG of a woman....
+
+BARRY very casually pushes some papers aside and looks at
+
+the ad...
+
+HOLD ON HIS FACE. He looks....then:
+
+MOMENTS LATER, BARRY ON THE PHONE.
+
+He listens;
+
+                         OPERATOR GIRL (OC)
+
+            Hi, this is Janice The Operator,
+
+            who's this?
+
+                         BARRY
+
+            Hello, how are you?
+
+                         OPERATOR GIRL (OC)
+
+            Hi, is this your first time calling?
+
+                         BARRY
+
+            Yes it is.
+
+                         OPERATOR GIRL (OC)
+
+            Can I have your credit card number,
+
+            followed by the expiration date?
+
+                         BARRY
+
+            Can I ask how much is this?
+
+                         OPERATOR GIRL (OC)
+
+            -- it's $2.99 per minute for the
+
+            first half hour and $1.99 per
+
+            minute after that.
+
+                         BARRY
+
+            ......and this is confidential?
+
+                         OPERATOR GIRL (OC)
+
+            What do you mean?
+
+                         BARRY
+
+            It's....confidential, the call, my
+
+            information is private.
+
+                         OPERATOR GIRL (OC)
+
+            Of course. Would you like to talk
+
+            to a girl? I can connect you with a
+
+            beautiful girl if I can just get
+
+            your credit card number followed by
+
+            the expiration date?
+
+                         BARRY
+
+            ...3407 2627 3444 8095 expiration
+
+            05/04.
+
+                         OPERATOR GIRL (OC)
+
+            And your billing address and the
+
+            name as it appears on the card?
+
+                         BARRY
+
+            .....1274 Moorpark. Sherman Oaks,
+
+            California. #4. 91403.
+
+                         OPERATOR GIRL (OC)
+
+            And your name?
+
+                         BARRY
+
+            Barry Egan.
+
+                         OPERATOR GIRL (OC)
+
+            And your Social Security number.
+
+                         BARRY
+
+            What's that for?
+
+                         OPERATOR GIRL (OC)
+
+            It's just for verification through
+
+            the credit card company.
+
+                         BARRY
+
+            -- and this is confidential?
+
+                         OPERATOR GIRL (OC)
+
+            Of course, it's just for us to
+
+            verify your credit card information.
+
+            It's completely confidential and it
+
+            appears on your credit card billing
+
+            statement as D&D Mattress Man.
+
+                         BARRY
+
+            337.....I'm sorry....
+
+                         OPERATOR GIRL (OC)
+
+            It's ok, take your time.
+
+                         BARRY
+
+            337-09-9876. But I don't want
+
+            anyone to know my name.
+
+                         OPERATOR GIRL (OC)
+
+            No one will know your name.
+
+                         BARRY
+
+            Can you say that my name is Jack?
+
+                         OPERATOR GIRL (OC)
+
+            You want her to call you Jack?
+
+                         BARRY
+
+            I just don't want anyone to know
+
+            it's me.
+
+                         OPERATOR GIRL (OC)
+
+            That's fine. Can I have a telephone
+
+            number, area code first on where we
+
+            can call you back?
+
+                         BARRY
+
+            No I just....I don't want to, I
+
+            just want to be connected to talk
+
+            to a girl.
+
+                         OPERATOR GIRL (OC)
+
+            It's a call back service -- a girl
+
+            will call you back.
+
+                         BARRY
+
+            I thought I was just gonna be
+
+            connected to talk to a girl -
+
+            that's fine, ok, I'm sorry, it's,
+
+            um.....818....
+
+                                            CUT TO:
+
+INT. BARRY'S APARTMENT - MOMENTS LATER
+
+Barry waiting at his dining room table. HOLD. The PHONE
+
+RINGS. He picks it up;
+
+                         BARRY
+
+            Hello, this is Back.
+
+                         SEXY VOICE
+
+            Hi, is this Jack?
+
+                         BARRY
+
+            Yes.
+
+                         SEXY VOICE
+
+            This is Georgia.
+
+                         BARRY
+
+            Hi. This is Jack.
+
+                         SEXY VOICE
+
+            So what are you doing tonight, Jack?
+
+                         BARRY
+
+            Nothing.
+
+                         SEXY VOICE
+
+            Nothing, huh, do you know what I'm
+
+            doing?
+
+                         BARRY
+
+            No.
+
+                         SEXY VOICE
+
+            I'm just laying on my bed.
+
+                         BARRY
+
+            Where are you?
+
+                         SEXY VOICE
+
+            I'm in my bedroom.
+
+                         BARRY
+
+            No, I mean, what city, what state
+
+            are you in?
+
+                         SEXY VOICE
+
+            Are you watching a porno movie?
+
+                         BARRY
+
+            No.
+
+                         SEXY VOICE
+
+            Do you like porno movies?
+
+                         BARRY
+
+            Sure.
+
+                         SEXY VOICE
+
+            Yeah....? So...Jack...are you
+
+            stroking that big fat fucking cock
+
+            of yours?
+
+He walks into something.
+
+                         BARRY
+
+            ....no....
+
+                         SEXY VOICE
+
+            Yeah? So what are you doing, then?
+
+                         BARRY
+
+            ...just talking to you....
+
+                         SEXY VOICE
+
+            Are your pants off?
+
+                         BARRY
+
+            No.
+
+                         SEXY VOICE
+
+            I'm wearing a t-shirt and panties.
+
+                         BARRY
+
+            Really?
+
+                         SEXY VOICE
+
+            Yeah. And looking at myself in the
+
+            mirror. Do you wanna know what I
+
+            look like?
+
+                         BARRY
+
+            It doesn't matter.
+
+                         SEXY VOICE
+
+            What do you mean it doesn't matter?
+
+                         BARRY
+
+            Well. I have no way of knowing. So
+
+            it doesn't matter.
+
+                         SEXY VOICE
+
+            I don't lie, Jack. I'm about 5'8,
+
+            blonde 34,28,34. Pretty thin, I
+
+            work out. My pussy's shaved. My
+
+            friends say I'm pretty cute, so....
+
+                         BARRY
+
+            Really?
+
+                         SEXY VOICE
+
+            What do you mean, "really?" Yeah.
+
+            Really. What about you?
+
+                         BARRY
+
+            It doesn't matter.
+
+                         SEXY VOICE
+
+            Yeah....you're married aren't you,
+
+            Jack?
+
+                         BARRY
+
+            No.
+
+                         SEXY VOICE
+
+            You have a girlfriend?
+
+                         BARRY
+
+            ...yes...
+
+                         SEXY VOICE
+
+            Where is she?
+
+                         BARRY
+
+            She's...not here...she went out.
+
+            She went out of town, she travels a
+
+            lot.
+
+Barry holds his head in his hands for minute, then stands
+
+out of it --
+
+INT. BARRY'S APARTMENT - MOMENTS LATER
+
+                         SEXY VOICE
+
+            I'm horny, Jack, what about you?
+
+                         BARRY
+
+            ...yeah.....
+
+                         SEXY VOICE
+
+            Does Jack like to Jack Off?
+
+                         BARRY
+
+            Sometimes when I'm lonely.
+
+                         SEXY VOICE
+
+            ...yeah....well you have me now.
+
+                         BARRY
+
+            You sound very cute, very nice.
+
+                         SEXY VOICE
+
+            Thank you. What do you do, Barry?
+
+                         BARRY
+
+            I have my own business....I work. I
+
+            work hard at doing my business.
+
+                         SEXY VOICE
+
+            Yeah....do you do well, do you make
+
+            alotta money?
+
+                         BARRY
+
+            I do pretty good, I think. I wish I
+
+            was making more, doing a little bit
+
+            better. I can,t get over a certain
+
+            hump. I will...I will crack
+
+            something soon I think and really
+
+            do better...I'd like to
+
+            diversify...but I'm doing great, I
+
+            think, as a start.
+
+                         SEXY VOICE
+
+            So.....are you stroking it, yet,
+
+            honey?
+
+                         BARRY
+
+            No.
+
+                         SEXY VOICE
+
+            Well why don't you take your pants
+
+            off and stroke it for me?
+
+                         BARRY
+
+            Ok.
+
+                         SEXY VOICE
+
+            Yeah...that's it...God I Am So
+
+            Horny...I wish I was there to help
+
+            you.....I wish I was there for you,
+
+            Barry.
+
+                                            CUT TO:
+
+INT. BARRY'S BATHROOM/BEDROOM - LATER
+
+It's a little bit later and Barry stands in his bathroom,
+
+washes his face....HOLD....then he dries his face, walks
+
+into his bedroom, gets into bed wearing T-shirt and
+
+underwear.....he crawls in, curls up in fetal position....
+
+                                            JUMP CUT TO:
+
+INT. SAME EXACT ANGLE - MORNING
+
+Sun comes in now. Barry is somehow dressed in a FULL ADIDAS
+
+SWEAT SUIT complete with SNEAKERS. He wakes up, looks down
+
+and sees this, confused;
+
+                         BARRY
+
+            Whassis?
+
+                                            CUT TO:
+
+INT. KITCHEN - MOMENTS LATER
+
+Barry is dressed for work in another suit now. He grabs some
+
+stuff and heads for the door when the phone rings;
+
+                         BARRY
+
+            Hello?
+
+                         SEXY VOICE
+
+            Hey. What are you doing? How are you?
+
+                         BARRY
+
+            I'm fine. Who is this?
+
+                         SEXY VOICE
+
+            Georgia.
+
+BEAT.
+
+                         BARRY
+
+            Hi....what....what's up....?
+
+                         SEXY VOICE
+
+            It's ok that I'm calling, right, I
+
+            mean? It's ok.
+
+                         BARRY
+
+            Yeah. No. It's ok. What's goin' on?
+
+                         SEXY VOICE
+
+            I just wanted to call and talk to
+
+            you, thank you for last night, try
+
+            and get you before you went to work
+
+            and say, "hey."
+
+BEAT.
+
+                         BARRY
+
+            I'm going to work.
+
+                         SEXY VOICE
+
+            Uhhh...I am sooo tired...I stayed
+
+            up too late last night, what about
+
+            you, when did you go to sleep?
+
+                         BARRY
+
+            Not very late.
+
+                         SEXY VOICE
+
+            You're going to work now?
+
+                         BARRY
+
+            Yes.
+
+                         SEXY VOICE
+
+            Can I ask you a question?
+
+                         BARRY
+
+            Uh-huh.
+
+                         SEXY VOICE
+
+            Remember last night I was talking
+
+            to you and I was telling you about
+
+            my apartment, my rent -- ?
+
+                   (beat)
+
+            Do you remember?
+
+                         BARRY
+
+            Yes.
+
+                         SEXY VOICE
+
+            This is really weird and really
+
+            embarrassing for me but....uh....
+
+                   (beat)
+
+            I was wondering if you could help
+
+            me out with a little bit of money.
+
+                         BARRY
+
+            Me?
+
+                         SEXY VOICE
+
+            Yeah.
+
+                         BARRY
+
+            I can't really. Yeah, no. I mean. I
+
+            can't afford it.
+
+                         SEXY VOICE
+
+            You don't even know how much it is.
+
+                         BARRY
+
+            I know but I....how much is it?
+
+                         SEXY VOICE
+
+            Like seven-fifty. Seven hundred fifty?
+
+                         BARRY
+
+            Yes, no, yes. I can't. I can't
+
+            afford that. I'm sorry. Sorry.
+
+                         SEXY VOICE
+
+            Really? Please?
+
+                         BARRY
+
+            You have trouble, financial trouble?
+
+                         SEXY VOICE
+
+            Yeah. It's so hard these days and I
+
+            really need it.
+
+                         BARRY
+
+            Yes I can't....I don't make enough
+
+            money to be able to do that.
+
+                         SEXY VOICE
+
+            I thought you had your own business.
+
+            You said you were gonna diversify
+
+            and all that stuff....
+
+BEAT. Barry steps back a little....
+
+                         SEXY VOICE
+
+            So you think you can?
+
+                         BARRY
+
+            No. I'm sorry.
+
+                         SEXY VOICE
+
+            Should I call back and talk to your
+
+            girlfriend?
+
+                         BARRY
+
+            ....what....?
+
+                         SEXY VOICE
+
+            I was wondering if it's better to
+
+            ask your girlfriend for the money?
+
+            It could be really easy. I mean, I
+
+            have all your information, credit
+
+            card information and billing stuff --
+
+Barry hangs up the phone real fast. HOLD. He doesn't move.
+
+                                            CUT TO:
+
+INT. BARRY'S WORK/WAREHOUSE - MORNING/LATER
+
+CAMERA (HAND HELD) behind Barry, as he walks through the
+
+warehouse, greets the boys, says hello to Lance, etc. Lance,
+
+taking his cue from Barry, is a bit more dressed up today....
+
+                         LANCE
+
+            Good morning, Barry....
+
+                         BARRY
+
+            Hi, Lance.
+
+                         LANCE
+
+            What's with all this pudding, what
+
+            is this?
+
+CAMERA sees that all the pudding Barry bought has been
+
+stacked neatly in a corner. Barry stops dead in his tracks
+
+to explain;
+
+                         BARRY
+
+            That's part of a very interesting
+
+            airline promotion giveaway that's
+
+            really tremendous. I'm going to
+
+            start a collection of pudding and
+
+            coupons that can be redeemed for
+
+            frequent flyer miles through
+
+            Healthy Choice and American
+
+            Airlines --
+
+                         LANCE
+
+            You're goin' on a trip?
+
+                         BARRY
+
+            No.........but airline miles are
+
+            just like a currency these days.
+
+                         LANCE
+
+            You should go on a trip.
+
+                         BARRY
+
+            No thanks.
+
+                         LANCE
+
+            So what should I do with the pudding?
+
+                         BARRY
+
+            Let's just leave it there for now.
+
+Barry goes into his office and looks at the Harmonium. BEAT.
+
+He presses some keys, makes a little more noise with it. (a
+
+quarter of some sort of melody starts here...)
+
+ANGLE, MOMENTS LATER.
+
+Barry is cutting up his CREDIT CARD with some scissors. He
+
+throws it away.
+
+ANGLE, MOMENTS LATER.
+
+Barry paces around a little bit.....CAMERA stays inside and
+
+watches him as he walks outside for a moment, looks
+
+around....he sees something outside, hesitates, then dodges
+
+back inside the warehouse --
+
+-- once inside, he takes a horrendous, hurtful fall over
+
+something....He stands up quick;
+
+                         BARRY
+
+            This is not supposed to be here.
+
+            Seriously. Carlos, Carlos, this is
+
+            really not supposed to be here. I
+
+            don't mean to be a dick; but that's
+
+            gonna hurt someone. It already did
+
+            hurt someone: It hurt me, so please
+
+            let's move that.
+
+He backs away, then steps OUT OF FRAME...a moment later
+
+ELIZABETH (his sister) and LENA (from the opening) enter the
+
+warehouse, walking towards Barry;
+
+                         ELIZABETH
+
+                   (to Lena)
+
+            He's wearing a suit again, I don't
+
+            know why he's wearing a suit, he
+
+            doesn't usually dress like that --
+
+                         LENA
+
+            It's fine.
+
+CAMERA pushes in towards LENA and blends to 30fps...she
+
+smiles, looks ahead, CAMERA slowly pans a 180 around to
+
+become her POV.
+
+Barry is standing near the harmonium, fiddling around. He
+
+looks up, sees Elizabeth and Lena walking towards him and
+
+tenses....they meet in the middle of the warehouse;
+
+                         ELIZABETH
+
+            Hey, what are you doing? Why are
+
+            you wearing a suit again?
+
+                         BARRY
+
+            I don't know.
+
+                         LENA
+
+            Hi.
+
+                         BARRY
+
+            Hi.
+
+                         LENA
+
+            Do you remember me, I left my car,
+
+            yesterday.
+
+                         BARRY
+
+            Yes I do.
+
+                         ELIZABETH
+
+            This is Lena, she's a good friend
+
+            of mine from work. We were in the
+
+            neighborhood and she had to pick up
+
+            her car and we're getting breakfast
+
+            before we go in, so did you want to
+
+            go? We're gonna go and eat, let's go.
+
+                         BARRY
+
+            Yeah I can't.
+
+                         ELIZABETH
+
+            Why?
+
+                         BARRY
+
+            I have work, I can't leave.
+
+                         ELIZABETH
+
+            Seriously, though: We're going to
+
+            eat, I said.
+
+                         BARRY
+
+            I'm sorry.
+
+                         LENA
+
+            It's ok. That's alright.
+
+                         ELIZABETH
+
+            Are you learning how to play the
+
+            piano? What is that?
+
+                         BARRY
+
+            It's not a piano. LANCE! LANCE!
+
+            MAKE SURE THAT YOU CALL THAT GUY IN
+
+            TOLEDO.
+
+                         LANCE (OC)
+
+            WHICH?
+
+                         BARRY
+
+            ...I'll tell you later.
+
+                         ELIZABETH
+
+            You don't wanna come to eat with us?
+
+                         WORKER VOICE
+
+            TELEPHONE BARRY ON LINE TWO!
+
+                         ELIZABETH
+
+            What's all this pudding?
+
+                         BARRY
+
+            I don't know. Can you hang on a
+
+            second?
+
+CAMERA follows Barry as he walks back to his little office,
+
+picks up the phone;
+
+                         BARRY
+
+            Hello?
+
+                         SEXY VOICE
+
+            We got disconnected before....
+
+                         BARRY
+
+            No. No. We got disconnect --
+
+            why?.....you're calling me at
+
+            work....how did you get this
+
+            number -- ?
+
+                         SEXY VOICE
+
+            See the thing is I could make it
+
+            really easy on you -- I already
+
+            have your credit card number, your
+
+            information, address and stuff.
+
+            This is so awkward asking like
+
+            this, I'm sorry --
+
+                         BARRY
+
+            This makes me very uncomfortable.
+
+                         SEXY VOICE
+
+            I need help.
+
+BEAT.
+
+                         SEXY VOICE
+
+            Should I just ask your girlfriend?
+
+                   (beat)
+
+            Maybe I should call back and talk
+
+            to your girlfriend?
+
+                         BARRY
+
+            I don't have a girlfriend --
+
+                         SEXY VOICE
+
+            -- you said you did.
+
+                         BARRY
+
+            I know I did. But I don't.
+
+                         SEXY VOICE
+
+            You lied to me?
+
+                         BARRY
+
+            I didn't lie.
+
+                         SEXY VOICE
+
+            Why did you tell me you did, then?
+
+                         BARRY
+
+            This is....illegal....I'll call the
+
+            police.
+
+                         SEXY VOICE
+
+            No you won't.
+
+ANGLE, ELIZABETH AND LENA
+
+                         LENA
+
+            I'll go pay for my car.
+
+                         ELIZABETH
+
+            Are you sure?
+
+                         LENA
+
+            Yeah.
+
+                         ELIZABETH
+
+            He's being weird, I'm sorry. I have
+
+            no idea why he's being weird and
+
+            dressed in a suit --
+
+                         LENA
+
+            It's not bad, it's ok.
+
+                         ELIZABETH
+
+            -- he's so strange I don't know if
+
+            you really even would want to go
+
+            out with him, someone like him, I
+
+            said I'd try, but it's just --
+
+                         LENA
+
+            It's ok, it's alright. I'll come
+
+            right back, I'll just go pay for my
+
+            car.
+
+                         ELIZABETH
+
+            Sorry.
+
+She leaves. Elizabeth heads for Barry's office;
+
+ANGLE, BARRY on the phone
+
+                         SEXY VOICE
+
+            Come on, I thought we had fun, rich
+
+            boy --
+
+                         BARRY
+
+            This is not cool.
+
+                         SEXY VOICE
+
+            It was cool last night.
+
+                         BARRY
+
+            I have to go.
+
+                         SEXY VOICE
+
+            Are you telling me no?
+
+                         BARRY
+
+            No I'm sorry, now I have to get off
+
+            the phone....
+
+                         SEXY VOICE
+
+            ....this is your mistake....
+
+Elizabeth comes walking into his office, starts whispering
+
+to him as he's on the phone;
+
+                         ELIZABETH
+
+            Hey, hey, you should ask her out --
+
+            what do you think, she's cute, right?
+
+                         BARRY
+
+                   (into phone)
+
+            I'm gonna call you back.
+
+He starts to hang up the phone, turns to Elizabeth as we hear;
+
+                         SEXY VOICE
+
+                   (trailing off)
+
+            ...MOTHERFUCKER, NO....
+
+                         BARRY
+
+            She is. I think, why did you come
+
+            here like this?
+
+                         ELIZABETH
+
+            It's not cool?
+
+                         BARRY
+
+            It's fine, but --
+
+                         ELIZABETH
+
+            -- do you think you'll ask her out?
+
+                         BARRY
+
+            I feel really on the spot now.
+
+                         ELIZABETH
+
+            Are you gonna do it?
+
+                         BARRY
+
+            I don't do that. I don't - things
+
+            like that.
+
+                         ELIZABETH
+
+            You don't do anything, why are you
+
+            being scared?
+
+                         BARRY
+
+            I'm not being scared, you're just
+
+            going to rag me if I do this --
+
+                         ELIZABETH
+
+            I'm not gonna rag you. Why would I
+
+            do this just to rag you?
+
+                         BARRY
+
+            I don't know.
+
+                         ELIZABETH
+
+            I'll leave then, I'll go to get
+
+            something from my car, go away so
+
+            you don't feel pressure. Can I ask
+
+            you a serious question:
+
+                         BARRY
+
+            What?
+
+                         ELIZABETH
+
+            Did you ask Walter to get you a
+
+            shrink?
+
+                   (beat)
+
+            Barry, did you ask Walter to get
+
+            you a shrink? What's wrong with you?
+
+            Are you ok?
+
+                         BARRY
+
+            I didn't ask him that. He's lying.
+
+                         ELIZABETH
+
+            You're being weird again, see. Come
+
+            on. Please don't be weird.
+
+ANGLE, BARRY AND ELIZABETH, MOMENTS LATER
+
+They walk out and as they do, Lena comes back in with her
+
+keys in her hand, Elizabeth keeps walking past;
+
+                         ELIZABETH
+
+            I gotta grab something from my car....
+
+                         LENA
+
+            We should be going --
+
+                         ELIZABETH
+
+                   (over her shoulder)
+
+            Yeah, no, I have to get something
+
+            from my car, I said.
+
+Barry and Lena about to be alone as Lance walks up;
+
+                         LANCE
+
+            Which guy in Toledo are you talking
+
+            about?
+
+                         BARRY
+
+            I'll tell you...the
+
+            guy...with...just talk to me later
+
+            about it, ok?
+
+                         LANCE
+
+            You talkin' to me about Ramada Inn?
+
+                         BARRY
+
+            I have to talk to you in a second
+
+            about that, Lance, ok?
+
+He walks away, Lena turns to him;
+
+                         LENA
+
+            I'm sorry I couldn't come to your
+
+            sister's birthday party last night,
+
+            Elizabeth had invited me and I
+
+            couldn't make it --
+
+                         BARRY
+
+            It's fine. It was fun, though.
+
+                         LENA
+
+            It must be weird for you to have so
+
+            many sisters?
+
+                         BARRY
+
+            No. Not at all. It's nice.
+
+                         WORKER (OC)
+
+            Telephone, Barry Line One!
+
+Barry turns instantly and walks away....he turns back as he
+
+walks....TWO SHOT - track left with him....
+
+                         BARRY
+
+                   (turns back)
+
+            One second, sorry.
+
+IN THE OFFICE, THAT MOMENT
+
+He picks up the phone.
+
+                         BARRY
+
+            Hello?
+
+                         SEXY VOICE
+
+            Hang up again and see the trouble
+
+            it's gonna make.
+
+Barry instantly hangs up the phone, turns around and walks
+
+back to Lena;
+
+                         LENA
+
+            Business is good, you're busy?
+
+                         BARRY
+
+            Yeah, not really.
+
+                         LENA
+
+            I saw a picture of you.
+
+                         BARRY
+
+            Yes.
+
+                         LENA
+
+            Elizabeth has a picture of you
+
+            guys -- your sisters and you, it's
+
+            a lot of family, it must be nice.
+
+                         BARRY
+
+            Do you have brothers or sisters?
+
+                         LENA
+
+            No. I'm the exact opposite --
+
+                         BARRY
+
+            That must be nice. That must be
+
+            really, really, really great.
+
+                         LENA
+
+            It's terrible, no.
+
+No response from Barry. (cut to reverse 2-shot as they look)
+
+                         LENA
+
+            What do you do with all this pudding?
+
+                         BARRY
+
+            That's not mine it's one of the
+
+            guys that works here. That
+
+            pudding's not mine.
+
+BEAT. In the b.g., two WORKERS are dealing with getting a
+
+large crate on top of a large stack of crates, they're using
+
+a fork lift....in an instant the large CRATE tumbles to the
+
+ground and SMASHES....Barry attempts to not notice this;
+
+                         LENA
+
+            Oh My God.
+
+                         BARRY
+
+            It's ok. That's ok. How long have
+
+            you worked with Elizabeth?
+
+The workers start calling out and apologizing for this to
+
+Barry, who keeps looking straight ahead to Lena;
+
+                         LENA
+
+            Six months, maybe five, five or six
+
+            months...do you wanna check that?
+
+                         BARRY
+
+                   (to the guys)
+
+            Are you guys hurt?
+
+                         WORKERS/LANCE
+
+            No, no, we're ok....Barry, sorry --
+
+                         BARRY
+
+                   (back to Lena)
+
+            So you do what she does, the same
+
+            work, the same job?
+
+                         LENA
+
+            I do, but I do field consultations
+
+            mainly too which is cool because I
+
+            get to travel. I travel. A lot of
+
+            the time. I'm going to Hawaii on
+
+            Friday.
+
+                         BARRY
+
+            That's great -- Hawaii. I was
+
+            thinking about going there.
+
+                         LENA
+
+            Really?
+
+                         BARRY
+
+            I was, yeah, I was thinking about
+
+            going there for business --
+
+                         LENA
+
+            -- well, if you're gonna go --
+
+                         BARRY
+
+            -- I'm probably not gonna go though.
+
+                         LENA
+
+            -- oh that's too bad, it's so great
+
+            over there and if you were there we
+
+            could say hello to each other or
+
+            something --
+
+                         BARRY
+
+            -- yeah that would be great, if I
+
+            was gonna go but I'm not exactly
+
+            sure, I have so much goin on
+
+            here -- A lot depends on this thing
+
+            I might do here and if that happens
+
+            I can't go and if it doesn't happen
+
+            then I probably will, but I doubt it.
+
+There's another LOUD CRASH as they try to reposition the box
+
+that's fallen, giving way to something else that FALLS. In
+
+other words, to correct the mistake they've already made,
+
+they have to sacrifice another CRATE that CRASHES. She
+
+looks, Barry just flinches, tries to stay looking straight
+
+ahead; CAMERA (HAND HELD) with Elizabeth, comes walking back
+
+in.....says to Barry:
+
+                         ELIZABETH
+
+            I can't find that thing in my car,
+
+            I can't find it so I'll just get it
+
+            and give it to you later. So?
+
+                         LENA
+
+                   (to Elizabeth)
+
+            You ready?
+
+                         ELIZABETH
+
+            Are you coming to eat with us?
+
+                         BARRY
+
+            Yeah I can't.
+
+                         ELIZABETH
+
+                   (at the crates)
+
+            OH MY GOD. Look at that.
+
+                         LENA
+
+                   (to Barry)
+
+            It was great to meet you again. To
+
+            see you again, thanks for helping
+
+            me yesterday --
+
+                         BARRY
+
+            Ok.
+
+                         ELIZABETH
+
+                   (to Barry)
+
+            What's all this pudding?
+
+                         BARRY
+
+            It's not mine.
+
+                         ELIZABETH
+
+            Why's it here?
+
+                         BARRY
+
+            I have no idea.
+
+                         LENA
+
+                   (to Elizabeth)
+
+            Are you ready?
+
+                         ELIZABETH
+
+                   (to Barry)
+
+            Will you call me later to talk
+
+            about asking Walter for the shrink?
+
+            And we can talk about - he said you
+
+            have this crying problem or something?
+
+                         LENA
+
+            Bye, Barry.
+
+                         BARRY
+
+            Goodbye.
+
+                         ELIZABETH
+
+            Call me later.
+
+Lena and Elizabeth leave. CAMERA leads them as they walk;
+
+Sound starts to drop out, we see Barry and the boys cleaning
+
+up the boxes in the back....move into a CU on Lena....Music
+
+Cue. Score. treated piano, small rhythm/melodic(notes of
+
+harmonium so far)/gentle.
+
+                         ELIZABETH
+
+            So I'll meet you at the restaraunt?
+
+                         LENA
+
+            Ok.
+
+Lena gets into her car. Elizabeth keeps walking. She waits
+
+until Elizabeth is out of sight at the mouth of the driveway
+
+and then she gets back out of her car and walks straight
+
+back into the warehouse.
+
+                                            CUT TO:
+
+INT. WAREHOUSE - THAT MOMENT
+
+She comes walking in and over to Barry;
+
+                         LENA
+
+            I'm going to go and eat tomorrow
+
+            night do you want to go with me?
+
+                         BARRY
+
+            Sure.
+
+                         LENA
+
+            Do you want to pick me up?
+
+                         BARRY
+
+            Sure.
+
+                         LENA
+
+            Can I write down my address and
+
+            phone number for you?
+
+                         BARRY
+
+            Sure.
+
+They do a small search for a piece of paper, get it all
+
+written down and sorted out and then -- as they do this
+
+there is even more CRASHING AND SMASHING in the b.g., by the
+
+boys -- Barry and Lena settle up and say so long.
+
+                         BARRY
+
+            This is funny.
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            I didn't ask anyone for a shrink,
+
+            that was someone else. Also: This
+
+            pudding is not mine. Also: I'm
+
+            wearing a suit because I had a very
+
+            important business meeting this
+
+            morning and I don't have a crying
+
+            problem.
+
+                         LENA
+
+            Ok.
+
+                         BARRY
+
+            Alright?
+
+                         LENA
+
+            ....Hi.....
+
+                         BARRY
+
+            ....Hi.....
+
+She walks off. CAMERA leads her out, holds a CU. as she
+
+smiles to herself -- lead her a bit more until she's
+
+outside, and she gets in her car --
+
+CU. BARRY. He smiles, looks around, holds back his emotion
+
+so it looks like he'll explode....tenses, smiles, tears,
+
+looks around....HOLD. End Music Que.
+
+                         LANCE (OC)
+
+            Barry, Line One, Telephone!
+
+Barry walks in. HOLD. He picks up the phone.
+
+                         BARRY
+
+            Hello?
+
+                         SEXY VOICE
+
+            You've just made a war that you
+
+            cannot afford.
+
+She hangs up real quick. HOLD. Barry and his harmonium.
+
+                                            CUT TO BLACK.
+
+Title Card: Provo, Utah
+
+FADE IN:
+
+INT. STEVENS BROTHERS HOUSE - DAY
+
+CAMERA behind a BLONDE GIRLS HEAD (LATISHA). She speaks to
+
+two blonde brothers, DAVID and JIM. In the b.g., walking
+
+around holding a BABY is NATE. (Maybe a girlfriend or wife
+
+or two).
+
+                         DAVID
+
+            I'll do it.
+
+                         JIM
+
+            I'll do it too.
+
+                         DAVID
+
+            But it's gotta wait until my knee
+
+            is better. I can't risk it.
+
+                         LATISHA
+
+            You have to do it now.
+
+                         JIM
+
+            If we drive there it's a problem.
+
+                         LATISHA
+
+            Dean will loan you one of his cars.
+
+                         JIM
+
+            Which one?
+
+                         LATISHA
+
+            You have to talk to him --
+
+                         DAVID
+
+            How do you know he's rich?
+
+                         LATISHA
+
+            Because I know, I just know. I
+
+            mean, I talked to him, I know.
+
+Nate emerges a bit from the b.g.
+
+                         NATE
+
+            Where are you guys going?
+
+                         DAVID
+
+            California. Los Angeles.
+
+                         NATE
+
+            When are you leaving?
+
+                         DAVID
+
+            Right now.
+
+                         LATISHA
+
+            Let's go talk to Dean.
+
+                                            CUT TO:
+
+INT. LOCAL BAR/PROVO - LATER
+
+LATISHA, DAVID, JIM and NATE enter and meet DEAN TRUMBELL,
+
+listening to AFTER EDEN play onstage, standing in the middle
+
+of the room.
+
+                         DEAN
+
+            Hey guys.
+
+                         DAVID/JIM/NATE
+
+            Hey, Dean.
+
+                         LATISHA
+
+            So they'll go.
+
+                         DEAN
+
+            I'm only paying two of you guys.
+
+                         DAVID
+
+            That's cool.
+
+                         DEAN
+
+            When can you leave?
+
+                         DAVID
+
+            As soon as you want.
+
+                         DEAN
+
+            I want you to go right away, I
+
+            think that's best. I also need you
+
+            to check out a car for me down
+
+            there that this guy is selling.
+
+They walk towards a back room, as they do they pass a
+
+REGULAR JOE who bumps into Dean accidentally, Dean explodes;
+
+                         DEAN
+
+            You wanna fuck around, asshole? You
+
+            wanna get tough, wanna see me kick
+
+            some motherfuck around here?
+
+                         REGULAR JOE
+
+            Take it easy, man, relax. Don't --
+
+                         DEAN
+
+            I'll relax your fucking head --
+
+            this is my personal space, man,
+
+            this is my personal fucking space,
+
+            you don't violate that, you don't
+
+            do that.
+
+                         REGULAR JOE
+
+            I've got a glass in my hand why
+
+            don't you chill out?
+
+                         DEAN
+
+            You've got a glass?
+
+Dean takes a BEER BOTTLE and SMASHES it in half on the bar,
+
+holds it up to the guy --
+
+                         DEAN
+
+            YEAH. YOU'VE GOT A GLASS, NOW I'VE
+
+            GOT A GLASS. I'VE GOT A GLASS TOO
+
+            MOTHERFUCK.
+
+                                            JUMP CUT TO:
+
+INT. LOCAL BAR/PROVO - MOMENTS LATER
+
+They're all walking towards a back room of the bar, they
+
+walk past a COUPLE that is fighting. The WOMAN is screaming
+
+at the top of her lungs at the MAN;
+
+                         WOMAN
+
+            I WILL CRUSH YOU. I WILL FUCKING
+
+            CRUSH YOU AND YOUR FRIENDS.
+
+Dean gets in the middle of it;
+
+                         DEAN
+
+            Take it easy, take it easy you guys
+
+            in here, I need to talk to you
+
+            later, Tommy -- I wanna know if you
+
+            wanna book the boys --
+
+He motions over his shoulder to Ashes to Ashes.
+
+                         MAN
+
+            I'll talk to you later.
+
+                         WOMAN
+
+            YOU WON'T FUCKIN' TALK TO HIM
+
+            LATER, I WILL CRUSH YOU. I WILL
+
+            CRUSH YOU, ASSHOLE.
+
+                                            CUT TO:
+
+INT. DEAN'S OFFICE/UPSTAIRS/BACKROOM - MOMENTS LATER
+
+They enter into an upstairs office area. It has a couple
+
+desks and off to the side, in a small, partitioned off room
+
+is The Phone Sex Area; a GIRL on the phone. (We hear bits of
+
+her call, e.g. "Me? I'm in Florida. Laying on my bed.")
+
+There are posters for Ashes to Ashes, filing cabinets,
+
+posters of CARS, lots of various small business items like
+
+order forms and pamphlets, etc. Dean collects a piece of
+
+paper and hands it to David/Nate/Jim;
+
+                         DEAN
+
+            Your expenses are your own.
+
+                         DAVID
+
+            I thought Latisha said you would --
+
+                         DEAN
+
+            -- she didn't know what she was
+
+            talking about --
+
+                         DAVID
+
+            It's....whatever....that's not cool.
+
+                         DEAN
+
+            David, Don't. Just. Seriously. It
+
+            doesn't make sense if you think
+
+            about it in a fair deal like sense.
+
+            Ok? It's business. Seriously. One
+
+            hundred dollars for two days work
+
+            is a lot more than your family is
+
+            making sitting around your house.
+
+            I'm serious now. Ok. Please. Now.
+
+            Just stop.
+
+He hands him a set of KEYS and goes through the info;
+
+                         DEAN
+
+            ...keys for the track. You have to
+
+            gas it up and save the receipts on
+
+            that. His address. We have a
+
+            business address too if you need
+
+            that -- but hit him at his house
+
+            first, see what this little bad boy
+
+            is all about and shake him up --
+
+            give him a little doe-see-doe --
+
+                         LATISHA
+
+            Uch. Shut up, Dean.
+
+                         DEAN
+
+            What's the problem?
+
+                         LATISHA
+
+            You don't need to talk all macho,
+
+            "shake him out, little bad boy."
+
+            Whatever -- you're not an action
+
+            hero, tough guy, you're not a
+
+            gangster --
+
+He makes a very SUDDEN AND QUICK MOVE towards her and she
+
+FLINCHES.
+
+                         DEAN
+
+            Flinchy. That's what I thought.
+
+            Shut up.
+
+                   (to Greg)
+
+            Call me when you see this guy --
+
+            check him out see what's what. She
+
+            asked him for seven fifty when she
+
+            was on the phone with him, so --
+
+            just call me when you get there.
+
+He hands him another piece of paper and a photo;
+
+                         DEAN
+
+            This is this place called Ace
+
+            Vintage, you gotta find it, I don't
+
+            know exactly where this is and I
+
+            don't understand these maps so just
+
+            go there and check it out. It's a
+
+            '61 AC Cobra that this old guy says
+
+            is fine, but I need to figure out
+
+            why he's only asking 23 for it. So
+
+            take a look, the whole thing, call
+
+            me about that, if it seems alright
+
+            then I'll head down there and check
+
+            it out.
+
+                         DAVID
+
+            Ok.
+
+                         DEAN
+
+            That's it.
+
+                         DAVID
+
+            Can we maybe ask for more money on
+
+            this?
+
+                         LATISHA
+
+            Why?
+
+                         DAVID
+
+            ...because it's California? I mean
+
+            it's like a nine or ten hour drive.
+
+            It's not like going to Salt Lake
+
+            and getting the Mormon's, it's
+
+            different...
+
+After a long, long staring contest with David, Dean SUDDENLY
+
+AND VERY VIOLENTLY PUTS HIS FIST THROUGH THE WALL....then
+
+turns to David......Latisha rolls her eyes. David, Nate and
+
+Jim leave.
+
+                                            CUT TO:
+
+EXT. UTAH STREET/TRUCK/MOVING - DAY/MAGIC HOUR
+
+CAMERA behind the heads of Nate, Jim, Dave as they drive
+
+down the street.....they call their brother "Mike D" on the
+
+phone and say, "what's up, we're goin' to Los Angeles, you
+
+wanna go?"
+
+                                            JUMP CUT TO:
+
+EXT. UTAH STREET/TRUCK/MOVING - MOMENTS LATER
+
+CAMERA PANS left and picks up the fourth brother MIKE D as
+
+he walks from work and gets in the car.....CAMERA HOLDS
+
+behind the heads of the four blonde brothers as they drive off.
+
+                                           LONG DISSOLVE TO:
+
+EXT/INT. LENA'S APARTMENT COMPLEX - EVENING
+
+This is a SPLIT SCREEN SEQUENCE shot with TWO CAMERAS.
+
+THE LEFT SIDE OF THE SCREEN holds Lena. She waits in her
+
+small, nondescript apartment doing the things you do while
+
+waiting for someone else. She sits, stands, sits, stands....
+
+THE RIGHT SIDE OF THE THE SCREEN travels (STEADICAM) with
+
+Barry as he walks into the RECEPTION AREA. There is a
+
+SECURITY GUARD (black, female) who asks him his name, where
+
+he's going and to sign in. The Security Guard calls up to
+
+Lena's place....
+
+....and we watch Lena answer the phone....
+
+...The Security Guard gives Barry some very complicated
+
+directions....we follow/lead Barry as he makes his way
+
+through the maze/up elevators/down corridors looking for
+
+Lena's apartment.....Finally, he arrives, knocks;
+
+                         LENA
+
+            Who is it?
+
+                         BARRY
+
+            It's Barry.
+
+As she opens the door, THE SPLIT SCREEN SLIDES AWAY AND THE
+
+IMAGES GIVE WAY TO THE ONE OF LENA standing;
+
+                         LENA
+
+            Hi.
+
+                                            CUT TO:
+
+INT. RESTAURANT - NIGHT
+
+Lena and Barry at a table. They talk (see notes.)
+
+                         LENA
+
+            So I want to tell you something, I
+
+            gotta tell you: I saw a picture of
+
+            you guys, your sisters and you and
+
+            I saw your picture and I really
+
+            wanted to meet you.
+
+                   (beat)
+
+            I came to drop my car off there on
+
+            purpose, to try and meet you.
+
+Barry leans a little bit out of FRAME.
+
+                         BARRY
+
+            ...really? That's nice...are you
+
+            lying?
+
+                         LENA
+
+            ...I thought I should tell you. I
+
+            didn't want to get too far along on
+
+            going out and be hiding something --
+
+BEAT. He leans slightly back in FRAME.
+
+                         BARRY
+
+            That's very nice. Thank you. Thank
+
+            you for saying that.
+
+                   (beat)
+
+            You're friends with my sister?
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            How long have you known her?
+
+                         LENA
+
+            About six months.
+
+                         BARRY
+
+            You like her?
+
+                         LENA
+
+            Yeah. Yeah we get along well.
+
+                   (beat)
+
+            You didn't get along with her very
+
+            well?
+
+                         BARRY
+
+            Did you really come to meet me on
+
+            purpose or are you lying about that?
+
+                         LENA
+
+            No, no. I did.
+
+                         BARRY
+
+            That's nice. It's nice.
+
+                   (beat)
+
+            I've been looking around a lot
+
+            lately at promotional giveaways,
+
+            cross promotional work by some
+
+            companies. Do you remember all that
+
+            pudding?
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            So that pudding was bought, I
+
+            bought that pudding because of a
+
+            pretty interesting promotion that's
+
+            sponsored by Healthy Choice and
+
+            American Airlines. It's designed to
+
+            encourage airline travel and
+
+            obviously designed to encourage
+
+            buying Healthy Choice products.
+
+            They make frozen meals, deli meats,
+
+            pasta sauce, breads, soups and ice
+
+            creams, this sort of thing.....
+
+                         LENA
+
+            Yeah?
+
+                         BARRY
+
+            ....I'm sorry....I lost my
+
+            thoughts, what I was saying....
+
+                         LENA
+
+            You were talking about the
+
+            promotion --
+
+                         BARRY
+
+            -- the promotion says: buy any 10
+
+            Healthy Choice products and get 500
+
+            miles of airline travel or 1,000
+
+            for purchases made with a special
+
+            coupon. So in the supermarket, you
+
+            notice their products, first you
+
+            notice they have a Teriyaki Chicken
+
+            Dinner at $1.79 - that's a pretty
+
+            good deal....but then I noticed
+
+            they had soup at 89 cents a
+
+            can.....and you start to do the
+
+            math and you start to notice that
+
+            it's a really amazing deal because
+
+            I stumbled across the pudding at 25
+
+            cents a cup. Now the crucial thing
+
+            is the bar codes on the label.
+
+            That's those little bar codes, you
+
+            know? The universal product codes?
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            That's what's used to redeem the
+
+            mileage, so in noticing the
+
+            pudding, each cup had an individual
+
+            bar code -- in other words: Two
+
+            dollars and fifty cents for ten
+
+            cups of pudding is 500 miles. Add
+
+            in the coupon: it's one thousand.
+
+            You see?
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            You see?
+
+                         LENA
+
+            Yeah, no, I see --
+
+                         BARRY
+
+            You see if you spent $3,000 dollars
+
+            on pudding you could earn over one
+
+            million frequent flyer miles.
+
+                         LENA
+
+            That's insane. That is really,
+
+            really crazy. That's just crazy if
+
+            you spend three thousand dollars on
+
+            pudding.
+
+                         BARRY
+
+            ....yeah....
+
+                         LENA
+
+            So that was your pudding?
+
+                         BARRY
+
+            ....No....
+
+                         LENA
+
+            I'm sorry. I thought you said --
+
+                         BARRY
+
+            No I didn't say that.
+
+                         LENA
+
+            I thought you said you bought all
+
+            that pudding --
+
+                         BARRY
+
+            My friend Carlos is doing it who
+
+            works with me. It's his. It's his
+
+            pudding, he's doing it. It's not
+
+            mine. He's crazy. I told him not to
+
+            do it. He's the one who's insane.
+
+            He only spent about one hundred
+
+            dollars so far though --
+
+                         LENA
+
+            Your sister was telling me a pretty
+
+            funny story about you, when you
+
+            guys were kids and you were
+
+            building a ramp for your dog and
+
+            you threw a hammer through a window?
+
+            Is that right? You threw a hammer
+
+            through a sliding glass door?
+
+Barry starts to WELL WITH TEARS, which he hides very
+
+quickly, holds a hand up to his face as if he's touching his
+
+nose, and then he smiles;
+
+                         BARRY
+
+            I don't remember that, she might be
+
+            lying. I have to go the bathroom.
+
+He gets up and goes.
+
+                                            CUT TO:
+
+INT. BATHROOM - MOMENTS LATER
+
+Barry walks in and goes a little crazy. He's mad at himself
+
+and he HITS a stall....it seems loose already and falls
+
+straight to the floor.
+
+This makes him go crazier and he continues to BEAT and KICK
+
+the shit out of the bathroom/stall.
+
+HOLD. He collects himself and then he hesitates, looks
+
+around, tries to collect the bathroom but it's in ruins, he
+
+exits....
+
+                                            CUT TO:
+
+INT. RESTARAUNT - MOMENTS LATER
+
+Barry comes back and sits down, seems a little better. Tries
+
+to be a little flirtatious for half a moment before: the
+
+MANAGER comes over, leans in carefully;
+
+                         MANAGER
+
+            Hello.
+
+                         LENA & BARRY
+
+            Hi.
+
+                         MANAGER
+
+            Sir, can I talk to you?
+
+                         BARRY
+
+            Why?
+
+                         MANAGER
+
+            Just have you for one second, please.
+
+He looks to Lena, excuses himself.
+
+ANGLE, OFF TO THE SIDE.
+
+The Manager and Barry step away, in a quiet section of the
+
+restaraunt, 2-shot, profile, in sotto; SLOW ZOOM IN.
+
+                         MANAGER
+
+            Sir, the bathroom was just torn apart.
+
+                         BARRY
+
+            Yeah.
+
+                         MANAGER
+
+            Did you do it?
+
+                         BARRY
+
+            No.
+
+                         MANAGER
+
+            You didn't just smash up the bathroom?
+
+                         BARRY
+
+            No.
+
+                         MANAGER
+
+            Well who did?
+
+                         BARRY
+
+            I don't know.
+
+                         MANAGER
+
+            You're hand is bleeding.
+
+                         BARRY
+
+            I cut myself.
+
+                         MANAGER
+
+            How?
+
+                         BARRY
+
+            On my knife.
+
+                         MANAGER
+
+            Sir, a young man saw you coming out
+
+            of the bathroom.
+
+                         BARRY
+
+            I didn't do that.
+
+BEAT.
+
+                         BARRY
+
+            Why? ...what?
+
+                         MANAGER
+
+            Your hand is bleeding.
+
+                         BARRY
+
+            I know.
+
+                         MANAGER
+
+            I'm gonna have to ask you to leave.
+
+                         BARRY
+
+            Why?
+
+                         MANAGER
+
+            Sir, I have no way of proving that
+
+            you demolished the bathroom --
+
+                         BARRY
+
+            I didn't do it.
+
+                         MANAGER
+
+            Alright, well you're gonna have to
+
+            leave. You're gonna have to go.
+
+                         BARRY
+
+            Yeah, but I didn't do anything.
+
+                         MANAGER
+
+            I'm gonna call the police then, sir.
+
+                         BARRY
+
+            Please don't do this to me.
+
+                         MANAGER
+
+            The police are on their way.
+
+                         BARRY
+
+            Sorry.
+
+He starts to move back....
+
+                         BARRY
+
+            Can I pay you here? Can I pay you
+
+            for our drinks and salad?
+
+                         MANAGER
+
+            That's fine.
+
+Barry takes out some money and hands it over.
+
+                         BARRY
+
+            Keep the change, please.
+
+ANGLE, BACK AT THE TABLE.
+
+They walk back to the table and Barry whispers down to her,
+
+very close, STEADICAM (leads them out - continuous)
+
+                         BARRY
+
+            We should go I think, I don't like
+
+            it here.
+
+                         LENA
+
+            Ok.
+
+They head out of the restaraunt.
+
+                         LENA
+
+            Is everything ok?
+
+                         BARRY
+
+            Yes.
+
+                         LENA
+
+            What happened?
+
+                         BARRY
+
+            Nothing.
+
+                         LENA
+
+            What did he want?
+
+                         BARRY
+
+            Nothing.
+
+They walk a bit.
+
+                         BARRY
+
+            I have a better idea of where we
+
+            can go.
+
+                         LENA
+
+            Ok.
+
+They walk some more.
+
+                         BARRY
+
+            There's a better place for us to eat.
+
+                         LENA
+
+            Did something happen; are you alright?
+
+                         BARRY
+
+            Yes I'm fine. Everything is ok.
+
+            It's fine. Everything is fine.
+
+They walk some more and get in the car.
+
+                                            CUT TO:
+
+INT. BARRY'S CAR - DRIVING - NIGHT
+
+75mm OVER ONTO BARRY. 75mm OVER ONTO LENA. Rear process or
+
+poor man's process.
+
+                         LENA
+
+            So....how is your harmonium doing?
+
+Barry looks at her......
+
+                         LENA
+
+            Your portable reed organ....the piano.
+
+                         BARRY
+
+            Well, it's fine. Thank you.
+
+                         LENA
+
+            Did you pick it up from the street?
+
+                         BARRY
+
+            What?
+
+                         LENA
+
+            Did you take it from the street in
+
+            front of your work?
+
+                         BARRY
+
+            ...yes I did...?
+
+                         LENA
+
+            Are you learning how to play it?
+
+                         BARRY
+
+            Yes? I'm trying.
+
+                         LENA
+
+            Oh that's great.
+
+BEAT.
+
+                         LENA
+
+            So you must travel a lot with all
+
+            that pudding you bought?
+
+                         BARRY
+
+            Yes no not really.
+
+INT. LENA'S APARTMENT - LATER
+
+Lena and Barry finishing up the date;
+
+                         BARRY
+
+            Ok....well...I'm gonna go.
+
+                         LENA
+
+            ...yeah...
+
+                         BARRY
+
+            It was nice to see you again, to
+
+            see your face again, to go out with
+
+            you --
+
+                         LENA
+
+            I'll be around and back in town in
+
+            a few days --
+
+                         BARRY
+
+            Yeah.
+
+                         LENA
+
+            If you come to Hawaii --
+
+                         BARRY
+
+            Yeah, I don't know, we'll see about
+
+            that.
+
+                         LENA
+
+            You don't think you'll go --
+
+                         BARRY
+
+            I don't know.
+
+                         LENA
+
+            Ok. Well call me when you get back,
+
+            I mean, I'll call you when I get
+
+            back. I'll be back for three weeks
+
+            and then I go away for a month
+
+            after that. So maybe in that time....
+
+                         BARRY
+
+            Ok. Have a good trip.
+
+They do a shake hands/kiss on cheek goodbye.
+
+CAMERA IN THE HALLWAY with Barry as he walks away .....
+
+CAMERA follows him as he swiftly walks away.
+
+                                            CUT TO:
+
+INT. RECEPTION AREA/LENA'S BUILDING
+
+Barry steps out of the elevator and walks to the exit,
+
+passing a RECEPTION DESK WOMAN.....we hear the PHONE
+
+RINGING......she calls out;
+
+                         RECEPTION WOMAN
+
+            Are you Barry?
+
+                         BARRY
+
+            Yes.
+
+                         RECEPTION WOMAN
+
+            It's for you.
+
+Barry walks towards the phone;
+
+                         BARRY
+
+            This is Barry.
+
+                         LENA (OC)
+
+            This is Lena.
+
+                         BARRY
+
+            Hi.
+
+                         LENA (OC)
+
+            I just wanted you to know, wherever
+
+            you're going or whatever you're
+
+            doing right now I want you to know
+
+            that I wanted to kiss you just then.
+
+                         BARRY
+
+            Really?
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            So what do I do then?
+
+INT. MAZE OF CORRIDORS - MOMENTS LATER
+
+Barry is walking up and around, looking for the spot. Two or
+
+three shots of various, him getting a little/slightly
+
+lost.....running/walking....
+
+                                            CUT TO:
+
+INT. HALLWAY - THAT MOMENT
+
+CAMERA pushes down towards him as he walks towards the door.
+
+He knocks, she opens up, CAMERA SLIDES right in and lands as
+
+they KISS and then the kiss turns into a small hug and then
+
+they talk, real close. HOLD.
+
+                         BARRY
+
+            That was good.
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            I'll see you later.
+
+                         LENA
+
+            Ok.
+
+                         BARRY
+
+            I don't freak out very often.
+
+                         LENA
+
+            What do you mean?
+
+                         BARRY
+
+            I don't, no matter what my sisters
+
+            say, ok?
+
+                         LENA
+
+            ...I don't know what you mean....
+
+                         BARRY
+
+            I don't freak out.
+
+                         LENA
+
+            Ok.
+
+                         BARRY
+
+            Have a good trip.
+
+                         LENA
+
+            Thank you.
+
+CAMERA behind Barry as he walks away...HOLD BEHIND HIM FOR A
+
+BIT LONGER THEN EXPECTED;
+
+                                            CUT TO:
+
+INT. BARRY'S APARTMENT/GARAGE
+
+CAMERA inside the garage. Barry pulls inside and parks his car.
+
+ANGLE, BEHIND THE CAR. Brake lights turned off, Barry steps
+
+out.
+
+INT. BARRY'S APARTMENT/KITCHEN - THAT MOMENT
+
+CAMERA on Barry's trash can, the kitchen light comes
+
+on....SLOW PUSH IN....He enters FRAME and lifts the trash
+
+bag out.
+
+EXT. BARRY'S APARTMENT - LATER
+
+CAMERA is behind Barry now in a new location....he's walking
+
+from his garage where he's just parked his car over to his
+
+garbage area as he throws something out...
+
+....he looks up and sees... Jim and Nate driving the Toyota
+
+Pick Up Truck...he cruises past slowly....keeps going....then
+
+makes a u-turn...Barry turns around and DAVID and MIKE D are
+
+right there...
+
+                         DAVID
+
+            Hey.
+
+                         BARRY
+
+            Hi.
+
+                         DAVID
+
+            I need to talk to you for a second.
+
+                         BARRY
+
+            What?
+
+                         DAVID
+
+            You gotta give me some money.
+
+Barry starts to walk away....David walks alongside him,
+
+casually.....Barry looks over and sees the car has pulled
+
+up....
+
+                         DAVID
+
+            You made a phone call and you said
+
+            you'd help a girl out and then you
+
+            didn't....I'm here to get the money.
+
+                         BARRY
+
+            Wait a minute --
+
+                         DAVID
+
+            No, no, no, no c'mon man, don't
+
+            make it a thing --
+
+                         BARRY
+
+            Please don't do this.
+
+                         DAVID
+
+            It's just you need to give me the
+
+            money...do you have it right now?
+
+MIKE D violently PUSHES BARRY STRAIGHT TO THE GROUND.
+
+                         BARRY
+
+            Whoa...whoa...wait, wait -- don't
+
+            please....
+
+                         DAVID
+
+            How much money do you have in your
+
+            pockets?
+
+                         BARRY
+
+            Just take it, take the money in my
+
+            pockets, take it, it's fine --
+
+They grab the money from his pockets as they hold him down
+
+on the ground;
+
+                         BARRY
+
+            It's three hundred and twenty
+
+            dollars, just take it.
+
+                         DAVID
+
+            What do you have in the house?
+
+                         BARRY
+
+            Nothing....I mean, really...change,
+
+            nothing....that's the cash I have....
+
+                         DAVID
+
+            You have an ATM?
+
+                         BARRY
+
+            Yes.
+
+                         DAVID
+
+            Is this where you live?
+
+                         BARRY
+
+            Yes.
+
+                         DAVID
+
+            You have another house somewhere or
+
+            something?
+
+                         BARRY
+
+            No.
+
+                         MIKE D
+
+            This is three hundred and twenty.
+
+            Let's just go to your ATM and
+
+            that'll be it --
+
+                         BARRY
+
+            I didn't promise her money. She
+
+            said that it was confidential, this
+
+            isn't fair --
+
+Mike D pushes Barry's face.
+
+                         MIKE D
+
+            Shut up, be quiet. Be quiet.
+
+                         BARRY
+
+            -- don't --
+
+                         DAVID
+
+            HEY. You made a fucking sex call
+
+            and now you're gonna pay. It's not
+
+            a big thing -- just give us some
+
+            money and then it's over -- we'll
+
+            just walk down to the ATM and get
+
+            your money out --
+
+                         BARRY
+
+            Alright, alright.
+
+They pick him up and then;
+
+                         BARRY
+
+            How do you want to do this?
+
+                         MIKE D
+
+            Let's just go to the corner, we saw
+
+            a place on the corner, you'll just
+
+            get your max out and that's it --
+
+            you get out what you can and that's
+
+            it --
+
+                                            CUT TO:
+
+EXT. GROCERY STORE/BANK PARKING LOT - NIGHT
+
+CU. BARRY at the ATM. Various CU's as he puts his card in,
+
+presses his info, etc. He looks over his shoulder;
+
+ANGLE, THE BROTHERS.
+
+CAMERA SLOWLY PUSHES IN on the three of them watching Barry.
+
+CU.'s MONEY comes out of ATM. Card comes out. Receipt comes
+
+out. Barry grabs the money.
+
+                         DAVID
+
+            Ok. This is what you get when
+
+            you're a pervert -- you said you'd
+
+            help someone out and you didn't so
+
+            we're just getting some money for
+
+            her and that's that.
+
+                         BARRY
+
+            You know, please, I just wanna say
+
+            that I didn't say I would help her
+
+            out; I was very clear about it....I
+
+            don't think that this is
+
+            fair.....wait, wait, wait, ouch,
+
+            ouch.....
+
+MIKE D walks up out of nowhere and straight towards Barry -
+
+throws a PUNCH straight to his FACE.....Barry stumbles a
+
+bit, goes down to the ground.....he NOTICES IN A QUICK
+
+FLASH: Their UTAH license plate......
+
+                         MIKE D
+
+            You don't challenge what my
+
+            brother's saying, you don't say
+
+            that --
+
+....Barry makes a mad run for it.....
+
+EXT. STREETS & ALLEYS - NIGHT
+
+ANGLE, BARRY. - VARIOUS ALLEY WAY/STREET SHOTS.
+
+He turns some corners.....makes his way down a side street
+
+and through an alley or two....and then he's running like a
+
+mad man as fast as he can down the street......
+
+EXT. STREET NEAR ATM - NIGHT
+
+CAMERA tracks profile with him.....
+
+......The Boys pull up along side him slowly.....Barry looks
+
+over.....Mike D calls out from the passenger window;
+
+                         MIKE D
+
+            Where the fuck are you going?
+
+Barry starts to slow down. CAMERA behind....as he slows, we
+
+push in....land....he turns into CU. and walks back the
+
+opposite direction......
+
+INT. BARRY'S BEDROOM - NEXT MORNING
+
+CAMERA holds on Barry as he wakes up. He's dressed in a FULL
+
+BASKETBALL OUTFIT. Lakers shirt, shorts, high tops, etc.
+
+Small bandage over his ARM. He looks down at the outfit;
+
+                         BARRY
+
+            ...what the hell?
+
+                                            CUT TO:
+
+INT. WAREHOUSE/BARRY'S OFFICE - MORNING
+
+CAMERA DOLLIES/ZOOM in real quick to Barry at the Harmonium.
+
+A few more notes are played, something starting to sort of
+
+sound like a melody......but still a little broken....HOLD.
+
+SCORE begins here (ref.notes)
+
+INT. WAREHOUSE/BARRY'S OFFICE - MOMENTS LATER
+
+Barry brings Lance in and closes the door, speaks sotto, then;
+
+                         LANCE
+
+            What's up?
+
+                         BARRY
+
+            I think I got in trouble. A little
+
+            bit of trouble....
+
+                         LANCE
+
+            What happened?
+
+                         BARRY
+
+            ....I made a call.....
+
+                   (beat)
+
+            ....and, uh....
+
+BEAT. Barry looks over Lance's shoulder and sees THE PUDDING
+
+stacked up. He stares for a moment;
+
+                         BARRY
+
+            ...ok.....ok......I gotta get some
+
+            pudding to go somewhere....
+
+One of the WORKER'S pops his head in, says;
+
+                         WORKER
+
+            Telephone on Line One, Barry.
+
+He picks up the phone;
+
+                         BARRY
+
+            Hello?
+
+                         RHONDA (OC)
+
+            I need to talk to you about your
+
+            behavior the other night --
+
+Barry hands up the phone real fast.
+
+                         BARRY
+
+                   (to Lance)
+
+            Ok. Well. I'm gonna go out of town.
+
+            I'm going to go out of town just
+
+            for two days...
+
+                         LANCE
+
+            Where you goin?
+
+                         BARRY
+
+            I'm going to go to Hawaii but you
+
+            can't tell my sisters that.
+
+                         LANCE
+
+            Wow, you're goin' to Hawaii, that's
+
+            great -- you're goin -- ?
+
+                         BARRY
+
+            Yeah but you can't tell my sisters
+
+            that.
+
+                         LANCE
+
+            Ok.
+
+                         BARRY
+
+            Alright: And I have to go and buy
+
+            some more pudding for this trip to
+
+            Hawaii and as I just said that out
+
+            loud I'm realizing it sounds a
+
+            little strange but it's not. So can
+
+            you come and help me out?
+
+                         LANCE
+
+            Ok.
+
+                                            CUT TO:
+
+EXT. WAREHOUSE - MOMENTS LATER
+
+Barry and Lance exit the warehouse and get into Barry's car --
+
+                                            CUT TO:
+
+INT. SMART AND FINAL - DAY
+
+Barry and Lance are filling up an EXTRA LARGE SHOPPING CART
+
+with PUDDING as Barry explains, CAMERA pushes in;
+
+                         BARRY
+
+            I saw the Teriyaki Chicken first
+
+            and that was $1.79 and then the
+
+            Soup which made a real deal but
+
+            then to come across the
+
+            pudding...it's just tremendous when
+
+            you think about how most people
+
+            just don't look...they
+
+            don't....they're not looking at the
+
+            fine print, Lance.
+
+                                            CUT TO:
+
+INT. SMART AND FINAL/CHECK OUT - MOMENTS LATER
+
+They're unloading the pudding which comes in packets of
+
+three, but Barry and Lance are taking them out of those
+
+packets and handing them to the CHECK OUT GIRL one by one.....
+
+                         BARRY
+
+                   (to Girl)
+
+            They need to be scanned individually.
+
+            They each have a bar code, so I
+
+            need it scanned individually so
+
+            that each and every cup appears on
+
+            the receipt...
+
+                         CHECK OUT GIRL
+
+            What is this, man?
+
+                         BARRY
+
+            I'm sorry.
+
+                         CHECK OUT GIRL
+
+            Are you serious with this?
+
+                         BARRY
+
+            Yes. Sorry.
+
+                         CHECK OUT GIRL
+
+            Well....what do you want, then?
+
+                         BARRY
+
+            Each pudding cup has to be scanned
+
+            individually so that...it's for a
+
+            giveaway...a product giveaway by
+
+            this company...
+
+                         CHECK OUT GIRL
+
+            This is a bunch of bullshit.
+
+                         BARRY
+
+            I'm sorry, I know. I know that
+
+            it's....
+
+BEAT. She scans them over and over and over....then:
+
+                         BARRY
+
+            I'm sorry, I'm really sorry.
+
+She scans and scans and scans and scans....
+
+                         BARRY
+
+            Sorry. I'm sorry, ma'am.
+
+                                            CUT TO:
+
+EXT. SMART AND FINAL - DAY
+
+Barry and Lance pushing the shopping carts....Barry looks
+
+across the parking lot and sees:
+
+A TOYOTA PICK UP coming slowly towards him and Lance...
+
+...Barry starts to move steady/swiftly towards his
+
+car...Lance tries to keep up....Barry gets nervous, looks
+
+left and right...
+
+....The Toyota passes and it's nothing.....Barry and Lance
+
+load the pudding in his car as Barry acts as if nothing
+
+happened. He turns and sees a BABY in a shopping cart and he
+
+reacts;
+
+                         BARRY
+
+            God Damn They're So Beautiful.
+
+                                            CUT TO:
+
+INT. SUPERMARKET - DAY
+
+Barry and Lance stack pudding in, Barry says;
+
+                         BARRY
+
+            You know you can get places in the
+
+            world with pudding. That's funny.
+
+                         LANCE
+
+            Yeah.
+
+                         BARRY
+
+            That's funny.
+
+                                            CUT TO:
+
+EXT. PARKING LOT/ANOTHER SMART AND FINAL.
+
+Barry and Lance walk together towards another Smart and
+
+Final....they walk towards the SLIDING DOORS.....that do not
+
+slide open...Barry walks face first into the doors and
+
+quickly turns around and heads back to the car...
+
+                         BARRY
+
+            I guess they're not open today.
+
+CAMERA holds the long walk back to the car....Barry glances
+
+both directions.....cautious and careful......sees nothing...
+
+                         BARRY
+
+            That's fine. I think I have enough.
+
+He walks a little faster and gets in the car.....HOLD....SLOW
+
+ZOOM IN....SOUND DROPS out.....he just sits, then, to Lance;
+
+                         BARRY
+
+            I get really sick of myself sometimes.
+
+                                            CUT TO:
+
+INT. BARRY'S WAREHOUSE - DAY
+
+CAMERA pushes in quick, Barry on the phone;
+
+                         BARRY
+
+            No, no, no, no, no. What do you
+
+            mean? It doesn't state anywhere
+
+            about six to eight weeks.
+
+                         OPERATOR VOICE
+
+            It takes that much time to process
+
+            the order and make sure it's valid --
+
+                         BARRY
+
+            I had this whole thing in my head,
+
+            I was gonna be able to get this to
+
+            you today -- I have to leave today --
+
+                         OPERATOR VOICE
+
+            I'm sorry.
+
+                         BARRY
+
+            How am I supposed to know what to
+
+            do if you don't say it -- if it's
+
+            not in your rules and regulations
+
+            in your fine print how am I
+
+            supposed to know how to be with
+
+            this --
+
+                         OPERATOR VOICE
+
+            It takes time to process --
+
+                         BARRY
+
+            No, no, no, no, nO, NO, NO!
+
+Barry drops the phone to the ground, spins around and PUTS
+
+HIS FIST THROUGH THE WALL.....then drops down, lower his
+
+head. CAMERA HOLD CU. as he stops himself, tries to breath;
+
+                         BARRY
+
+            Don't do that. Don't do that.
+
+            That's not right. Calm down now,
+
+            please. Please. Ok. Ok. Calm down
+
+            now please.
+
+HOLD. "He Needs Me," starts. He closes his eyes.
+
+                                  JUMP CUT TO MOMENTS LATER:
+
+INT. WAREHOUSE AREA - MOMENTS LATER
+
+Barry walks over to Lance;
+
+                         BARRY
+
+            Ok: the pudding is gonna take six
+
+            to eight weeks to process so that
+
+            isn't gonna work for today, I'll
+
+            just take a bath on that today. Ok.
+
+            But here's the thing I gotta tell
+
+            you:
+
+BEAT. He looks around at the pudding.
+
+                         BARRY
+
+            ....now: this pudding?
+
+                         LANCE
+
+            Yeah.
+
+                         BARRY
+
+            Let's just figure that out later --
+
+                   (beat)
+
+            Ok. I gotta go. I'm just gonna go
+
+            now and I'll call you from there,
+
+            you're in charge 'till I get back.
+
+            And don't tell my sisters anything?
+
+He exits.
+
+                                            CUT TO:
+
+INT. LOADING AREA/PLANE - DAY
+
+CAMERA (STEADICAM) follows him from the ticket handoff down
+
+the corridor onto the plane.
+
+                                            CUT TO:
+
+INT. PLANE - DAY
+
+CAMERA holds 2-shot on Barry and a BUSINESS GUY sitting
+
+together, just before take off.....HOLD, THEN:
+
+                         BARRY
+
+            I've never been on a plane before.
+
+BEAT. There's the SOUND of the plane starting to move.
+
+                         BARRY
+
+            What's that sound?
+
+                                            CUT TO:
+
+INT. PLANE - IN FLIGHT - LATER
+
+Barry sits. BEAT. HOLD. We hear the sound of a BABY CRYING.
+
+He looks across the aisle and sees:
+
+A small, THREE YEAR OLD CHILD crying, behind held by its
+
+FATHER. The baby stops crying for a moment, calming down,
+
+breathing heavy, looks around with wide eyes.
+
+CU. BARRY.
+
+HE WELLS WITH TEARS AND A SMILE, CRINGES IN HIS FACE AND WE
+
+SEE THE BUILD UP OF EMOTION, HIS VEINS POP FROM HIS FACE AND
+
+THEN HE SMILES LIKE CRAZY, SMILING AND SMILING AND SMILING,
+
+BRIGHT RED AND PAINFUL.
+
+                                            CUT TO:
+
+INT. HAWAII AIRPORT - LATE AFTERNOON
+
+He walks along the airport, looking out onto planes and palm
+
+trees and people, etc.
+
+                                            CUT TO:
+
+EXT. AIRPORT/CURB - TAXI AREA - THAT MOMENT
+
+Barry hops into a TAXI. The CAB DRIVER asks:
+
+                         CAB DRIVER
+
+            Where?
+
+Barry HOLDS a moment, then realizes he doesn't know, SNAPS
+
+INTO A CONTORTION, STARTS TO TEAR and almost SNAP and then
+
+nothing......
+
+                                            CUT TO:
+
+INT. WAKIKI STREET/PHONE BOOTH - LATER
+
+Barry on the phone amid a crowd of people passing;
+
+                         ELIZABETH
+
+            Hey. What are you doing?
+
+                         BARRY
+
+            Nothing. I'm just at work and I'm
+
+            wondering, you know your friend Lena?
+
+                                            INTERCUT:
+
+INT. ELIZABETH'S APARTMENT - THAT MOMENT
+
+CAMERA with Elizabeth;
+
+                         ELIZABETH
+
+            What about her? You didn't ask her
+
+            out, you're such a pussy --
+
+                         BARRY
+
+            ....she didn't, I didn't ask her out?
+
+                         ELIZABETH
+
+            You're so scared.
+
+                         BARRY
+
+            Do you know where she's staying in
+
+            Hawaii?
+
+                         ELIZABETH
+
+            Oh My God, yeah, I know exactly
+
+            where she is, why?
+
+                         BARRY
+
+            ......she forgot her purse at my
+
+            work and I wanted to get it back to
+
+            her.
+
+                         ELIZABETH
+
+            No she didn't; that's a lie.
+
+                         BARRY
+
+            I....please don't do this.
+
+                         ELIZABETH
+
+            What? Tell me why you wanna know --
+
+                         BARRY
+
+            I just want to know where she's
+
+            staying.
+
+                         ELIZABETH
+
+            Tell me why.
+
+BEAT. HOLD ON BARRY.
+
+                         BARRY
+
+            There is no reason for you to treat
+
+            me like you do -- you're killing
+
+            me, you are killing me with the way
+
+            that you are towards me --
+
+                         ELIZABETH
+
+            -- what are you talking about, come
+
+            on --
+
+                         BARRY
+
+            -- all I want is the number of
+
+            where she's staying and that should
+
+            be god damn good enough, now stop
+
+            treating me this way, please --
+
+            Just Give Me The Number Elizabeth
+
+            Please Now I think I will kill you
+
+            if you don't.
+
+                                            JUMP CUT TO:
+
+INT. WAKIKI STREET/PHONE BOOTH - MOMENTS LATER
+
+Barry on the phone;
+
+                         HOTEL OPERATOR
+
+            Sheraton Wakiki, how may I direct
+
+            your call?
+
+                         BARRY
+
+            Lena Leonard's room please.
+
+                         HOTEL OPERATOR
+
+            I'll connect you.
+
+BEAT. A MAN answers the phone;
+
+                         MAN'S VOICE
+
+            Hello?
+
+                         BARRY
+
+            Hello. Is Lena there?
+
+                         MAN'S VOICE
+
+            You have the wrong room.
+
+He hangs up. Barry dials the number again.
+
+                         HOTEL OPERATOR
+
+            Sheraton Wakiki, how may I direct
+
+            your call?
+
+                         BARRY
+
+            I just called, I got connected to
+
+            the wrong room. I'm looking for
+
+            Lena Leonard and there shouldn't be
+
+            a man in the room I'm calling.
+
+BEAT. He's put on hold a moment, then it rings, then:
+
+                         LENA
+
+            Hello?
+
+                         BARRY
+
+            Lena?
+
+                         LENA
+
+            Yeah?
+
+                         BARRY
+
+            It's Barry.
+
+                         LENA
+
+            HI. WHERE ARE YOU? ARE YOU HERE?
+
+                         BARRY
+
+            Yes.
+
+                         LENA
+
+            OH WOW. YEAH. THAT'S GREAT. YOU
+
+            CAME, YOU CAME. What are you doing?
+
+                         BARRY
+
+            I'm calling you, I'm standing in my
+
+            hotel room, I came because I have
+
+            my business trip --
+
+                         LENA
+
+            Well let's do something do you want
+
+            to do something, can you meet me?
+
+                         BARRY
+
+            You don't have a boyfriend or
+
+            anything do you?
+
+                         LENA
+
+            No. What do you mean?
+
+                         BARRY
+
+            I just wanted to know. When was the
+
+            last time you had a boyfriend?
+
+                         LENA
+
+            About six months ago. Why?
+
+                         BARRY
+
+            I just wanted to make sure.
+
+                         LENA
+
+            When was the last time you had a
+
+            girlfriend?
+
+                         BARRY
+
+            Where you married?
+
+                         LENA
+
+            yeah.
+
+                         BARRY
+
+            Ok. So you were married for how long?
+
+                         LENA
+
+            Do you want to meet me and talk
+
+            about this stuff?
+
+                         BARRY
+
+            Ok. Where are you from originally?
+
+                                            CUT TO:
+
+INT. ROYAL HAWAIIAN/LOBBY - LATER
+
+Barry is standing, waiting....HOLD....he looks across the
+
+lobby and sees: Lena....she's walking towards him with a
+
+smile on her face....
+
+...Barry smiles and walks towards her....
+
+...she walks towards him....
+
+...he extends his arm out for a handshake as they get
+
+closer.....
+
+....she opens her arms for a hug as they get closer....
+
+...They shake/hug/kiss on the cheek.....then on the mouth.
+
+They start making out in the lobby of the hotel.
+
+                                            CUT TO:
+
+EXT. ROYAL HAWAIIAN - PATIO/BAR AREA - MAGIC HOUR
+
+CAMERA roams through the Mai Tai bar on the beach and finds
+
+them; (Ladies K playing here.)
+
+                         LENA
+
+            You got me out of my hotel room.
+
+            You came and got me out of my room.
+
+                         BARRY
+
+            Yeah......yeah.....
+
+                         LENA
+
+            It's so nice.
+
+                         BARRY
+
+            This really looks like Hawaii here.
+
+They look at each other. HOLD, THEN:
+
+ANGLE, MOMENTS LATER.
+
+They walk back towards the hotel. CAMERA (STEADICAM) behind
+
+them as they move --
+
+                                            CUT TO:
+
+INT. ROYAL HAWAIIAN/HALLWAY - MOMENTS LATER
+
+CAMERA follows behind them as they walk......IRIS into their
+
+hands.....she reaches over and holds his hand.....
+
+                                            CUT TO:
+
+INT. ROYAL HAWAIIAN HOTEL ROOM - MOMENTS LATER
+
+They're in bed making out with their clothes on and a light
+
+on....they hold a second....
+
+                         BARRY
+
+            Do you wanna have sex?
+
+                         LENA
+
+            Yeah.
+
+They take their shirts off.
+
+                         LENA
+
+            Press together. It feels good.
+
+She cups his face with her hands and tenses;
+
+                         LENA
+
+            Oh my god, you are so adorable. I
+
+            just....god dammit.
+
+                         BARRY
+
+            What's that? What is that that
+
+            you're doing?
+
+                         LENA
+
+            I just...your face is so adorable
+
+            and your cheek and your skin, I
+
+            wanna bite it....I wanna bite your
+
+            cheek and chew on it....god damn
+
+            cute....fuck....
+
+                         BARRY
+
+            I know what you mean, I know what
+
+            you mean, I get this feeling --
+
+                         LENA
+
+            ...what...?
+
+                         BARRY
+
+            IIIIIIIIIII don't want to hurt
+
+            anything ever, but what I'm talking
+
+            about is -- have you ever held a
+
+            little puppy or a little kitten and
+
+            it's just the cutest, softest, most
+
+            precious thing in the world and out
+
+            of the blue you get this feeling in
+
+            your gut and all you wanna do is
+
+            squeeze it. Just fuckin squeeze the
+
+            shit out of it. To take a little
+
+            puppy and smash its skull...just so
+
+            precious, so beautiful. Just so god
+
+            damn wonderful and cute you wanna
+
+            smack it and kick it and love it.
+
+            Fuck. I don't know. I don't know.
+
+            And you, you.....I'm looking at you
+
+            and I just....your face is so
+
+            beautiful I just wanna smash it,
+
+            just smash it with a sledgehammer
+
+            and squeeze it...you're so pretty.
+
+They kiss and kiss and kiss;
+
+                         LENA
+
+            I know. I know. I know. I just
+
+            wanna chew your face and scoop out
+
+            your beautiful, beautiful eyes with
+
+            an ice cream scooper and eat 'em
+
+            and chew 'em and suck on 'em. Fuck.
+
+                         BARRY
+
+            This is funny.
+
+                         LENA
+
+            Yeah.
+
+                         BARRY
+
+            This is nice.
+
+They kiss and make out some more, then: DRUM ROLL into SNARE
+
+HIT THAT LANDS ON THE FOLLOWING SCENE:
+
+                                            CUT TO:
+
+INT. TOYOTA - MOVING - DAWN
+
+CAMERA on Mike D and Nate driving. HOLD. Martin rumbles out
+
+of a half sleep and says;
+
+                         NATE
+
+            That guy had more money to give up.
+
+JIM and DAVE wake up a bit in the back seat and listen;
+
+                         NATE
+
+            Long way to drive just for seven
+
+            hundred something bucks. Dean
+
+            doesn't have to know.
+
+HOLD. SILENCE for a moment.
+
+                         MIKE D
+
+            We're not that far....I mean, if
+
+            we're going to, we're not that far....
+
+                                            CUT TO:
+
+EXT. HIGHWAY - NIGHT (BLUE SKY - CRACK OF DAWN DEAL)
+
+The Toyota exits the freeway -- CAMERA TRACKS right with it
+
+as it makes a turn at the base of the off ramp...
+
+....goes under a bridge and then makes a turn getting back
+
+onto the freeway heading in the opposite direction.
+
+                                            CUT TO:
+
+INT. HAWAIIAN HOTEL ROOM - NIGHT/NEAR DAWN - LATER
+
+It's dark and Barry and Lena are asleep in bed together.
+
+Barry gets up, in a haze....Lena moves and opens her
+
+eyes....She watches him as he gets up and casually goes to
+
+the corner of the room and starts talking gently to the
+
+wall....
+
+                         BARRY
+
+                   (sotto, calm)
+
+            You know you're not supposed to do
+
+            that. Because I told you. Seriously.
+
+            Please. Not that day. Ok.
+
+                         LENA
+
+            Barry?
+
+He doesn't respond. He's asleep. He moves to the closet and
+
+gets one of the HOTEL ROBES and puts it on and then he looks
+
+right at her and says:
+
+                         BARRY
+
+            I was talkin' to you last Thursday
+
+            about that.
+
+He gets the robe tied tight around his waste and then gets
+
+the COMPLIMENTARY SLIPPERS and puts them on. Then he gets
+
+back into the bed and closes his eyes.
+
+                                            CUT TO:
+
+INT. KAHALA HOTEL - MORNING
+
+CAMERA pushes in slow towards Lena as she's on the
+
+phone....CAMERA pushes in on Barry as he sits across the
+
+room, listening in his robe....They stare at each other the
+
+whole time.....
+
+                         ELIZABETH (OC)
+
+            They need to see the new 484's to
+
+            make sure it works with their OC....
+
+                         LENA
+
+            Ok. What should I do about Eric?
+
+                         ELIZABETH (OC)
+
+            Just tell him to call me.
+
+                         LENA
+
+            Ok.
+
+                         ELIZABETH (OC)
+
+            So...did my brother call you?
+
+                         LENA
+
+            No.
+
+                         ELIZABETH (OC)
+
+            I have no idea what he's doing then.
+
+            I'm sorry that didn't work out.
+
+                         LENA
+
+            It's fine.
+
+                         ELIZABETH (OC)
+
+            You wouldn't want to go out with
+
+            him anyway, honestly, he's such a
+
+            freak sometimes.
+
+                         LENA
+
+            He did seem a little strange.
+
+                         ELIZABETH (OC)
+
+            Well...he's not that strange, don't
+
+            say that.
+
+                         LENA
+
+            I'm sorry. You're right.
+
+                         ELIZABETH (OC)
+
+            I think he's weird, but that's me.
+
+                         LENA
+
+            Should I call you later?
+
+                         ELIZABETH (OC)
+
+            I'll just see you when you get back
+
+            here.
+
+                         LENA
+
+            Ok.
+
+They hang up and Lena looks to Barry and smiles.
+
+                         LENA
+
+            Where do you have to go?
+
+                         BARRY
+
+            For what?
+
+                         LENA
+
+            For work.....
+
+                         BARRY
+
+            I don't have any business here. I
+
+            came here for you, I didn't have
+
+            any business.
+
+                                            CUT TO:
+
+EXT. TOYOTA - DRIVING - DAY (MELODY/SLIGHT)
+
+CAMERA follows behind The Stevens Brothers car, then gets up
+
+along side them as they drive back.......
+
+                                            CUT TO:
+
+INT. KAHALA LOBBY - DAY (SCORE BACK TO RHYTHMIC)
+
+Barry and Lena walk out to the valet, leaving the
+
+hotel...(STEADICAM) behind them......
+
+                                            CUT TO:
+
+INT. HONOLULU AIRPORT/SECURITY - DAY (CONTD. UNTIL NOTED)
+
+Lena and Barry go through the x-ray thing. STEADICAM.
+
+                                            CUT TO:
+
+INT. AIRPORT/HONOLULU - AT THE GATE/WAITING AREA
+
+Side by side on the return flight sit Lena and Barry.
+
+                         BARRY
+
+            How many times have you been on an
+
+            airplane?
+
+                         LENA
+
+            I think maybe over a hundred.
+
+                         BARRY
+
+            That's right you travel so much.
+
+                         LENA
+
+            Yeah.
+
+BEAT. The plane starts to move.
+
+                         BARRY
+
+            How much do you travel? You travel
+
+            all the time?
+
+She nods her head, looks at him. BEAT. HOLD.
+
+                         BARRY
+
+            I forgot about that.
+
+                         LENA
+
+            Can I come home with you when we
+
+            get there?
+
+                         BARRY
+
+            Yeah.
+
+                         LENA
+
+            It's ok to ask that.
+
+                         BARRY
+
+            I thought that you were anyway.
+
+CU. BARRY'S FACE. He looks to Lena. DRUM HIT LOUD. THEN
+
+AGAIN....THEN AGAIN....and we're in the score cue for....
+
+                                            CUT TO BLACK.
+
+It's BLACK FOR A FEW MOMENTS.
+
+                                            CUT TO:
+
+INT. BARRY'S GARAGE - NIGHT
+
+It's dark. The garage door opens and we see Barry and Lena
+
+in his car.....they're about to pull in....
+
+...THE TOYOTA PICK UP carrying The Stevens Brothers pulls in
+
+real fast behind them and rear-ends them....
+
+...CAMERA pushes in real fast....
+
+Barry turns and sees Lena's head has been injured.....he
+
+looks behind and sees TWO OF THE BROTHERS EMERGING FROM THE
+
+CAR.....
+
+.....he gets out quick, heads right for them....
+
+                         MIKE D
+
+            Get on the ground, man -- get on
+
+            the fucking --
+
+Barry goes absolutely APE SHIT on MIKE D and NATE.....
+
+....it's a mess of VIOLENCE and BRAWLING and Barry seems to
+
+get the best of both NATE and MIKE D......the two other
+
+brothers half get involved/stay in the car.....
+
+.....CAMERA pushes in on LENA (30fps) as she notices Barry
+
+going pretty fucking crazy......
+
+ANGLE. BARRY. As he walks and gets back in the car. CAMERA
+
+is attached to the open door and closes as Barry closes the
+
+door.
+
+                         BARRY
+
+            Are you ok?
+
+                         LENA
+
+            I'm fine are you ok?
+
+                         BARRY
+
+            Yes I'm sorry.
+
+                         LENA
+
+            What is this?
+
+                         BARRY
+
+            Let's go to the hospital.
+
+They drive off.
+
+INT. HOSPITAL - LATER
+
+Lena is getting a bandage applied to her head by an intern.
+
+It's very calm and she's very matter-of-fact as it happens.
+
+Barry stands nearby.....and OFFICER is asking her a few
+
+questions;
+
+                         LENA
+
+            ...people are just crazy in this
+
+            world, I think....
+
+                         POLICE
+
+            ...and he came up on the driver
+
+            side...
+
+                         LENA
+
+            The first man came on the driver
+
+            side....
+
+                         POLICE
+
+            ...right...the blonde one?
+
+                         LENA
+
+            They were all blonde.
+
+CAMERA moves over with Barry as he starts to back away from
+
+the scene.....CAMERA watches him as he walks off and away,
+
+down the hall.....out of the hospital......
+
+HOLD on the back of Lena's head as she gets bandaged and
+
+questioned.....
+
+                                            CUT TO:
+
+INT. BARRY'S WAREHOUSE - NIGHT
+
+CAMERA pushes in from outside, to inside...he's opened up
+
+and is using the phone....
+
+                         SEXY VOICE RECORDING
+
+            -- some of the horniest girls
+
+            around -- stay on the line and an
+
+            operator will be right with
+
+            you....remember, have your credit
+
+            card ready and know that Mastercard
+
+            is my favorite credit card.
+
+LATISHA picks up doing a fake voice as an "Operator."
+
+                         LATISHA (OC)
+
+            This is Janice the operator, who's
+
+            this?
+
+                         BARRY
+
+            My name is Barry Egan and I spoke
+
+            to you....you called me, you remember?
+
+                                            INTERCUT:
+
+INT. PROVO - BAR - BACK ROOM AREA - THAT MOMENT
+
+CAMERA pushes in on Latisha as she looks for what to say:
+
+                         LATISHA
+
+            ...no....I don't....I don't
+
+            remember you. Who's this?
+
+                         BARRY
+
+            That's not true. That's not true at
+
+            all. You said that your name was
+
+            Georgia and you said our
+
+            conversation was confidential and I
+
+            trusted you and you kept calling
+
+            and asking me for money, c'mon now
+
+            I want to talk to your owner, your
+
+            supervisor, whoever runs this, you
+
+            understand. Please connect me now.
+
+                         LATISHA
+
+            Can you hang on a second?
+
+She puts him on hold and dials another number, she's real
+
+nervous, holding it in --
+
+                                            INTERCUT:
+
+INT. DEAN'S MATTRESS/FURNITURE STORE - THAT MOMENT
+
+Dean also seems to own a mattress/furniture store in Provo.
+
+Somebody walks towards him, says:
+
+                         WORKER
+
+            Dean, line one....
+
+Dean walks back to the phone and picks it up;
+
+                         DEAN
+
+            Hello?
+
+                         LATISHA
+
+            Hey, it's me. This guy from L.A.,
+
+            Barry Egan is calling on the other
+
+            line and saying all this stuff, he
+
+            wants to talk to a supervisor or
+
+            whatever --
+
+                         DEAN
+
+            What did you say?
+
+                         LATISHA
+
+            Nothing.
+
+                         DEAN
+
+            Put him through.
+
+                         LATISHA
+
+            No, no. This is bad, something
+
+            might have happened, we should
+
+            just --
+
+                         DEAN
+
+            Shut up, just put him on the phone,
+
+            it doesn't matter, just shut up --
+
+INTERCUT NOW WITH BARRY/LATISHA/DEAN; She clicks over to him;
+
+                         LATISHA
+
+            Ok, sir....I'm gonna put you
+
+            through to my supervisor.
+
+                         BARRY
+
+            Fine, thank you.
+
+                         LATISHA
+
+            Ok. You're connected.
+
+                         DEAN
+
+            Who is this?
+
+                         BARRY
+
+            Hello, my name is Barry Egan and I
+
+            called your service --
+
+                         DEAN
+
+            Why don't you shut the fuck up?
+
+                         BARRY
+
+            What?
+
+                         DEAN
+
+            I said calm down and shut the fuck
+
+            up. What's your problem?
+
+                         BARRY
+
+            I haven't even told you what's
+
+            happened. Your girl that you have
+
+            that works there for you threatened
+
+            me and two men just chased me --
+
+            extorted money --
+
+                         DEAN
+
+            Go fuck yourself that shit doesn't
+
+            have anything to do with me - this
+
+            is a legitimate bossiness.
+
+                         BARRY
+
+            YOU GO FUCK YOURSELF. YOU GO FUCK
+
+            YOURSELF. YOU GO FUCK YOURSELF. MY
+
+            LOVE WAS HURT, SHE GOT HURT. I AM
+
+            IN LOVE WITH HER AND YOU HURT YOU
+
+            AND YOU ARE GONNA FUCKING GET HURT.
+
+            YOU DON'T TOUCH HER, I LOVE HER.
+
+                         DEAN
+
+            CALM DOWN SHUT THE FUCK UP AND CALM
+
+            DOWN SHUT SHUT SHUT UP SHUT UP --
+
+They stop screaming. Then:
+
+                         DEAN
+
+            Now are you threatening me, dick?
+
+                         BARRY
+
+            You are bad. You are a bad person.
+
+            you are a bad person and you have
+
+            no right to take people's confidence
+
+            in your service --
+
+                         DEAN
+
+            You better watch your mouth, cunt,
+
+            you're gonna get hurt.
+
+                         BARRY
+
+            NO. NO. DON'T YOU SAY THAT.
+
+                         DEAN
+
+            I'll say whatever I want --
+
+                         BARRY
+
+            YOU FUCK OFF. YOU FUCK OFF AND DIE
+
+            I WILL HURT YOU FOR HURTING HER.
+
+            YOU HURT HER.
+
+                         DEAN
+
+            You just told me to fuck off. That
+
+            wasn't good. You're dead.
+
+Dean hangs up the phone.
+
+ANGLE, BARRY. He turns away and walks quickly out of his
+
+office with the phone receiver to his ear.....the base of
+
+the phone slides off the desk.....and then the receiver RIPS
+
+from the base and he starts to run....
+
+EXT. WAREHOUSE - NIGHT
+
+Barry runs down the alley way, much the same he ran down
+
+with the harmonium at the beginning of the movie...this time
+
+he has the phone in his hand.....he runs......
+
+                                            CUT TO:
+
+INT. HOSPITAL/RECEPTION AREA - NIGHT
+
+Barry returns looking for Lena. She's not there.
+
+He looks around....does some math in his head.....then:
+
+                                            CUT TO:
+
+INT. HOSPITAL/PAY PHONE
+
+CAMERA rounds a corner and discovers Barry on a pay
+
+phone...the other end is ringing.....(Sound/Prop Dept.Note:
+
+This must be a working phone to call 801-555-1212)
+
+                         OPERATOR
+
+            What city?
+
+                         BARRY
+
+            Somewhere in Utah.
+
+                         OPERATOR
+
+            What's the listing?
+
+                         BARRY
+
+            D&D Mattress Man.
+
+                                            CUT TO:
+
+EXT. STREET/MATTRESS STORE - DAY
+
+CU. on Barry....(UTAH CAB behind him) pan him around to
+
+reveal; Dean's furniture store.
+
+                                            CUT TO:
+
+INT. MATTRESS STORE - DAY
+
+He enters....and EMPLOYEE approaches;
+
+                         EMPLOYEE
+
+            May I help you?
+
+                         BARRY
+
+            I'm looking for the Mattress Man.
+
+                         EMPLOYEE
+
+            Who?
+
+                         BARRY
+
+            Whoever owns this.
+
+                         EMPLOYEE
+
+            In the back.....
+
+Barry walks towards the back.....he rounds a corner....to
+
+reveal:
+
+DEAN is in a back room, he's getting his hair cut by
+
+LATISHA.....he turns and looks at Barry, who stands there
+
+with the phone in his hand.
+
+They stare at each other.
+
+                         BARRY
+
+            I'm a nice and reasonable man. I
+
+            didn't do anything wrong. Please
+
+            don't make me hurt you. And I'm
+
+            telling you: that if you ever hurt
+
+            me or if you hurt someone that I
+
+            love.....I will hurt you many,
+
+            many, many times over.....because
+
+            it's not right to take people's trust.
+
+                         DEAN
+
+            You came all the way from Los
+
+            Angeles to tell me that?
+
+                         BARRY
+
+            Yes I did.
+
+Dean doesn't respond.
+
+                         BARRY
+
+            Can we agree that that is that?
+
+                         DEAN
+
+            That's that.
+
+                         BARRY
+
+            Thank you.
+
+Barry hands him the phone.
+
+Barry exits.....as he's about to go out the doors, Dean
+
+screams;
+
+                         DEAN
+
+            NOW GET THE FUCK OUTTA HERE MAN.
+
+CAMERA, PUSHES IN VERY SLIGHTLY ON Barry as he exits the
+
+doors (30fps)
+
+                                            CUT TO:
+
+INT. WAREHOUSE - DAY
+
+Barry comes running into the warehouse....Lance and all the
+
+workers are there.....he runs past them...
+
+                         LANCE/WORKERS
+
+            ....are you ok? What's goin' on?
+
+            Barry? Barry?
+
+                         BARRY
+
+            I'm fine....I'm fine...yes I'm
+
+            fine....
+
+                         LANCE
+
+            Where you been?
+
+                         BARRY
+
+            Well I had to go to Utah...but now
+
+            I'm here and I'll be right back.
+
+                                            CUT TO:
+
+INT. LENA'S APARTMENT - CORRIDOR/VARIOUS
+
+Various: Barry gets out of the elevators carrying the
+
+harmonium....he makes the left turn this time.....Barry runs
+
+down the hallway with the harmonium.....(long lens,
+
+steadicam from behind, in front, etc.)
+
+                                            CUT TO:
+
+INT. LENA'S APARTMENT/HALLWAY - THAT MOMENT
+
+He bursts through the door. He places the harmonium down on
+
+the ground.....He rings the bell.....
+
+...she answers....he says:
+
+                         BARRY
+
+            Lena I'm so sorry. I'm so sorry
+
+            that I left you at the hospital.....
+
+            I called a phone sex line.
+
+            I called a phone sex line before I
+
+            met you and then these four blond
+
+            brothers came after me and you got
+
+            hurt and I'm sorry -- and I had to
+
+            leave because I don't want you to
+
+            get hurt again and now I'm here and
+
+            I'm back and I have a lot of
+
+            pudding that I can redeem in six to
+
+            eight weeks and if you give me that
+
+            much time I can get enough miles to
+
+            fly with you wherever you have to
+
+            go if you have to travel for your
+
+            job because I don't want to be
+
+            anywhere without you.....can you
+
+            please let me redeem the mileage?
+
+                         LENA
+
+            You left me at the hospital.
+
+                         BARRY
+
+            I'm sorry.
+
+                         LENA
+
+            You can't do that.
+
+                         BARRY
+
+            Ok.
+
+BEAT.
+
+                         BARRY
+
+            If you give me six to eight weeks I
+
+            can redeem the mileage and then I
+
+            can with you wherever you have to
+
+            travel......
+
+                         LENA
+
+            So here we go.
+
+CAMERA PUSHES IN AS MY KISS.
+
+REVERSE, BARRY.
+
+CAMERA slowly pushes in as he hugs Lena. LAND IN CU.
+
+                                            FADE OUT...
+

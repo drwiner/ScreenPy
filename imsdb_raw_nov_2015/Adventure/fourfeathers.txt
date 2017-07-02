@@ -1,0 +1,6292 @@
+"Four Feathers" -- by Michael Schiffer, revised by Hossein Amini - 3rd Draft
+
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Four Feathers
+
+Screenplay by Michael Schiffer
+
+revised by Hossein Amini
+
+based on the book by A.E. Mason
+
+EXT. TRAINING GROUND/ WESTMINSTER barracks/ LONDON - Day.
+
+Through a veil of dust we see two lines of uniformed cavalry, stretched out across the parade ground. There's a tense silence except for the occasional flourish of hooves. A horseman steps out of each line. 
+
+LIEUTENANTS HARRY FEVERSHAM and JOHN DURRANCE face each other across the wide expanse. Already we feel the keen sense of competition between them. DURRANCE raises his sabre first. His horse sets off at a slow trot. His troops follow in perfect time. HARRY waits a moment, then raises his own sword. A sea of sabres rises up in response. 
+
+The two lines approach each other at a steady canter. A smile of anticipation lights up DURRANCE's face. He's a born soldier, enjoying himself. HARRY looks more nervous. He's not as easy as Durrance in the saddle. It's a skill he's acquired over the years rather than been born to.
+
+DURRANCE seems to sense Harry's doubt. With a loud whoop he kicks his horse into a gallop and points his sabre forwards. His troops echo his war cry and descend on the opposing line at speed. HARRY checks his troops and responds. The two lines bear down on each other, hooves thundering, sabres pointed. 
+
+DURRANCE charges recklessly. His eyes are fixed on Harry all the time. HARRY holds his gaze, but doesn't look as sure of himself. He's thinking too much, trying too hard. His horse senses it and slows a fraction. The troops behind him lose their cohesion as they draw level. 
+
+DURRANCE sees the momentary lapse and waves his men on at full tilt. They pass through HARRY's troops in a perfect line, panicking their mounts, cheering triumphantly. HARRY's formation loses its shape. There's no doubt who's won the drill. DURRANCE wheels his horse around and grins at HARRY through the clouds of dust.
+
+CREDITS ROLL. 
+
+INT. Changing room/ WESTMINSTER BARRACKS - day.
+
+Moving through clouds of steam we see the CAVALRY OFFICERS washing themselves in wooden bathtubs. There's a din of voices, soldiers re-living the day's drill, those on Durrance's side still crowing over their victory.
+
+DURRANCE walks with his arm around HARRY. With them is another friend, LIEUTENANT TRENCH, a squat bull of a man.
+
+DURRANCE
+
+...How many does that make it Harry?
+
+harry
+
+It's not something I count.
+
+DURRANCE
+
+How many Trench?
+
+harry
+
+Trench can't count.
+
+TRENCH grabs HARRY in a neck hold. He lets go as he spots another friend of theirs, LIEUTENANT CASTELTON, sitting in a bathtub, staring out. TRENCH sneaks up on CASTELTON, and ducks his head under the water. CASTELTON comes up, spluttering. He reaches for a bar of soap and hurls it after TRENCH.
+
+CASTELTON
+
+...Idiot.
+
+INT. WILLOUGHBY's rooms/ barracks - day.
+
+A fifth friend, LIEUTENANT WILLOUGHBY, stares at himself in the mirror. His hair like his uniform is perfect. There's a loud knocking on his door.
+
+trench o/s
+
+...Miss Willoughby, Miss Willoughby we're waiting.
+
+WILLOUGHBY finally stops preening himself as he hears his friends picking the lock. He gets up reluctantly, taking one last look at his reflection in the mirror.
+
+EXT. BARRACK GATES/ LONDON STREET - DAY.                                                 
+
+The OFFICERS pour out of the barrack gates in full regimental unifom, a sea of gleaming red. We pick out HARRY, DURRANCE, TRENCH, WILLOUGHBY, and CASTELTON, laughing amongst themselves, taking turns to tease each other, inseperable. 
+
+INT. carriage/ HAnsom cab/ london streets - day.
+
+The friends share a flask of whisky as they sit in the back of the carriage. WILLOUGHBY passes it on without taking a sip.
+
+harry
+
+Who are you planning to impress tonight?
+
+trench
+
+(Grinning)
+
+Anna What's-her-name.
+
+DURRANCE
+
+Anna What's-her-name's father more like. Don't think we're going to take you any more seriously when you're promoted.
+
+wILLOUGHBY
+
+(Quietly confident)
+
+We'll see about that.
+
+A chorus of mocking 'ooohs' from the others. TRENCH notices CASTLETON staring out of the window. 
+
+trench
+
+What's so interesting about a London street?
+
+CASTELTON
+
+(Reflecting)
+
+Ask me that when we're in Bombay.
+
+TRENCH rolls his eyes and turns to DURRANCE.
+
+treNCH
+
+Is Ethne going to be there?
+
+We catch a hint of shyness in DURRANCE at the mention of Ethne's name.
+
+DURRANCE
+
+I think so. 
+
+HARRY watches DURRANCE, a little uncomfortably, as if he's holding something back.
+
+EXT. PARTY/ india office building/ london - night.
+
+CARRIAGES line the entrance to the India Office. INDIAN VALETS in turbans and robes escort the GUESTS to the entrance, holding umbrellas over them. 
+
+The five friends crowd under a single umbrella. WILLOUGHBY makes sure he's in the middle, he doesn't want to get his uniform wet. TRENCH nudges him into the rain.
+
+INT. The Durbar court/ party/ INDIA office - night.
+
+Palm trees and fountains dominate the room. The ladies are dressed in ballgowns, the Officers in regimental colours. The full pomp and ceremony of Empire is on display. HARRY, DURRANCE, WILLOUGHBY, CASTELTON and TRENCH have  gathered by the bar, a little overawed by the occasion.
+
+trench
+
+(Admiring the passing women)
+
+I'm going to ask someone to dance.
+
+willoughby
+
+(Admiring the passing Generals)
+
+You said that ten minutes ago.
+
+trench
+
+I'm waiting for Castelton.
+
+CASTELTON stares at the ARISTOCRATIC WOMEN, paralysed with shyness.
+
+trench 
+
+(Pouring him another drink)
+
+...Just look dreamy. I'll do the talking.
+
+DURRANCE smiles as he listens to them. He turns to HARRY.
+
+DURRANCE
+
+Can you see Ethne?
+
+harry
+
+Not yet.
+
+HARRY seems uneasy again. We sense there's something on his mind, something he wants to tell Durrance. DURRANCE doesn't pick up on it. He finishes his whisky and looks back into the throng.
+
+WILLOUGHBY
+
+Harry, your father...
+
+HARRY looks away from DURRANCE. He sees his father, GENERAL FEVERSHAM, shaking hands with some COLLEAGUES across the room.
+
+INT. seating area/ durbar court/ india office - night.
+
+GENERAL FEVERSHAM is deep in conversation with his friend, COLONEL SUTCH, a fellow veteran of the Crimean war. HARRY moves discreetly into their field of vision.
+
+GENERAL FEVERSHAM
+
+(His face lighting up)
+
+Harry...
+
+Immediately we feel the bond between father and son. 
+
+harry
+
+(Greeting Colonel Sutch)
+
+How are you Colonel?
+
+COLONEL SUTCH
+
+Fine Harry. Relieved to see a few familiar faces. When are you boys shipping out?
+
+harry
+
+Next month.
+
+COLONEL SUTCH
+
+Your father and I served in Bombay.  There are worse places they could have sent you.
+
+harry
+
+Yes Sir.
+
+HARRY smiles politely. SUTCH is sensitive enough to see that his mind is on other things. He lets father and son talk. 
+
+GENERAL FEVERSHAM
+
+Is Ethne here?
+
+HARRY
+
+Not yet.
+
+They both smile, as if they share a secret. GENERAL FEVERSHAM reaches out and straightens his son's collar, trying to make him look as presentable as possible.
+
+INT. dance area/ the durbar court/ india office - night.
+
+TRENCH and CASTELTON are dancing with two GIRLS: TRENCH waltzing boisterously, CASTELTON taking it all very seriously. 
+
+INT. another area/ durbar court/ india office - night.
+
+WILLOUGHBY has found a place amongst a group of SENIOR OFFICERS. He stands next to COLONEL HAMILTON, the Commander of their regiment.  
+
+COLONEL HAMILTON
+
+...If I had a choice we'd be on our way to the Sudan. Deal with this Dervish uprising once and for all.
+
+2nd colonel
+
+You prefer a tour in the Sudan to India Willoughby?
+
+wILLOUGHBY
+
+I don't know about that Sir, but I agree with Colonel Hamilton, we're going to have to fight the Mahdi sooner or later.  
+
+WILLOUGHBY trails off, leaving COLONEL HAMILTON to continue.
+
+INT. bar area/ the durbar court/ india office - night.
+
+DURRANCE downs another whisky. He looks less sure of himself in this social whirl than he did in the barracks. A few WOMEN cast admiring glances in his direction but he doesn't notice them. His eyes keep searching the crowd for Ethne.
+
+INT. seating area/ durbar court/ india office - night.
+
+HARRY gazes through the crowd at DURRANCE. DURRANCE catches him staring and raises a glass. The two friends smile at each other.
+
+INT. STAIRWAY/ india office - night.
+
+A group of late arrivals hurry up the stairs towards the party. ETHNE EUSTACE, is several steps ahead of her father DERMOD, and her friend, CAROLINE ADAIR, a young widow in her 30's. 
+
+INT. ENTRANCE/ durbar court/ india office - night.
+
+ETHNE's eyes search the crowd as soon as she walks through. She stops as she sees DURRANCE at the bar. Her eyes stay on him a moment, but it's only to see if Harry's nearby. When she realises he isn't she looks away. Finally she sees him, standing with GENERAL FEVERSHAM and COLONEL SUTCH. She takes her father DERMOD's hand, and leads him in their direction.
+
+INT. bar area/ the durbar court/ india office - night.
+
+CASTELTON and TRENCH are back at the bar, arguing.
+
+CASTELTON
+
+Your sole purpose in life is to annoy me.
+
+trench
+
+She couldn't see me.
+
+CASTELTON
+
+I could see you. I can see you everywhere I look. Pulling those stupid faces at me.
+
+willoughby
+
+Now Ladies.
+
+DURRANCE joins in the laughter but he seems distracted. He takes another gulp of whisky and looks around the crowd. His eyes stop as he sees ETHNE. A smile lights up his face, but it's short lived.
+
+Across the courtyard HARRY appears, greeting ETHNE. Their hands touch briefly.
+
+The noise fades in DURRANCE's head. He stares in silence. 
+
+HARRY shakes DERMOD's hand warmly. DERMOD slaps him on the back, as if he's congratulating him. 
+
+DURRANCE's eyes take in the smallest details now. Even though he can't hear a word, the scene before him reveals itself more and more clearly.
+
+COLONEL SUTCH raises his glass. GENERAL FEVERSHAM, DERMOD, and CAROLINE ADAIR respond. HARRY and ETHNE move closer, a little coyly, as if the toast is for them.
+
+DURRANCE looks pale. We feel the disappointment in his eyes as he realises what's happened. HARRY's arm moves around Ethne's waist, a libery that can only mean they're engaged. 
+
+INT. fountain area/ durbar court/ india office - night.
+
+HARRY and ETHNE glance at each other tenderly.
+
+ETHNE
+
+Did you tell them?
+
+harry
+
+I was waiting for you.
+
+ETHNE
+
+Not even Jack?
+
+harry
+
+Not even Jack.
+
+The two of them look towards DURRANCE for the first time.
+
+INT. bar area/ the durbar court/ india office - night.
+
+DURRANCE looks up as ETHNE and HARRY make their way through the crowd. He gathers himself, and walks towards them, concealing his feelings:
+
+DURRANCE
+
+Congratulations. 
+
+harry
+
+How did you know?
+
+DURRANCE
+
+Nothing escapes me Harry...
+
+(Kissing ETHNE on both cheeks)
+
+I'm delighted for you both.
+
+ETHNE
+
+Harry wanted to tell you before anyone else. It's my fault. I asked him to wait.
+
+DURRANCE
+
+I'll still blame him.
+
+hARRY
+
+(Relieved that his friend's taking it so well)
+
+You were the one who introduced us.
+
+DURRANCE
+
+Did I? I'll be more careful next time.
+
+DURRANCE takes HARRY in his arms, slapping him on the back. WILLOUGHBY, TRENCH, and CASTLETON appear behind them, realising something's up. DURRANCE turns to them, beaming:
+
+DURRANCE
+
+Three guesses for Trench, one for everyone else.
+
+The friends let out a cheer as they realise what's happened. They crowd HARRY and ETHNE, congratulating them. 
+
+INT. DANCE area/ the durbar court/ india office - night.
+
+TRENCH sweeps HARRY and ETHNE towards the dancefloor.
+
+trench
+
+(As if they have to dance in public as a punishment)
+
+...Over there. Where we can see you. And remember you're not married yet.
+
+HARRY takes ETHNE in his arms. 
+
+harry
+
+(Smiling ironically)
+
+Alone at last.
+
+TRENCH claps loudly as they dance. CASTLETON looks embarrassed by his friend. Behind them WILLOUGHBY congratulates DERMOD and GENERAL FEVERSHAM.
+
+INT. bar area/ the durbar court/ india office - night.
+
+DURRANCE watches the celebrations from the bar. He's smiling to himself, but it's the glazed smile of someone who's forcing himself to be happy. A quiet voice interrupts him:
+
+CAROLINE o/s
+
+Wonderful news isn't it?
+
+DURRANCE turns around to see CAROLINE, Ethne's friend, gazing at him.
+
+DURRANCE
+
+(Smiling automatically)
+
+Yes it is. 
+
+CAROLINE
+
+Had Harry told you?
+
+DURRANCE
+
+I knew it was just a matter of time.
+
+(Changing the conversation)
+
+What can I get you to drink?
+
+CAROLINE
+
+Nothing thank you. 
+
+DURRANCE
+
+(Nervous under her gaze)
+
+I'd ask you to dance, only I'm not sure how steady I am on my feet. 
+
+CAROLINE
+
+(With the quiet confidence of an older woman)
+
+I'd love to dance.
+
+DURRANCE grins sheepishly, at a loss, as he is with most women.
+
+INT. DANCE area/ the durbar court/ india office - night.
+
+The waltz is in full swing. All the friends are out on the dance floor. TRENCH spins his GIRL around energetically, exchanging glances with other women as they pass. CASTELTON stares into his partner's eyes, already in love. WILLOUGHBY dances with an elderly WOMAN, probably some General's wife. DURRANCE waltzes with CAROLINE, avoiding her meaningful glances, looking over her shoulder for Harry and Ethne.
+
+EXT. PARTY/ india office building/ london - night.
+
+The rain pours in torrents. HARRY and ETHNE stand in the shadows of the building. Harry tries to kiss her and hold an umbrella over her at the same time. 
+
+ETHNE
+
+What if I hold the umbrella?
+
+harry
+
+I'd have to kneel.
+
+ETHNE
+
+Nothing wrong with that.
+
+HARRY hands her the umbrella, bending under it. 
+
+ETHNE
+
+(With irony as he kisses her more and more passionately)
+
+You're very distant tonight.
+
+harrY
+
+I'm locked in a barracks room all day. 
+
+ETHNE
+
+What are you going to do in India?
+
+harrY
+
+Take you with me.
+
+ETHNE
+
+A Hindu wedding?
+
+harry
+
+Why not.
+
+ETHNE
+
+Not on your life.
+
+She walks away with the umbrella, leaving him exposed in the rain. 
+
+ETHNE
+
+I want the full works. The Church near my home. A long speech from you. An entire regiment crossing swords. 
+
+harry
+
+(Drenched)
+
+Done.
+
+ETHNE
+
+I don't believe you.
+
+HARRY makes a rush and grabs her, eneveloping her in his arms.
+
+ETHNE
+
+You're soaking wet.
+
+HARRY
+
+Whose fault is that.
+
+ETHNE squirms but loses herself in his embrace. As they start to kiss they're suddenly interrupted by TRENCH's braying voice in the distance.
+
+trench o/s
+
+(A regimental song)
+
+Goodnight, Ladies...goodnight, Ladies...goodnight, Ladies, we hate to see you go...
+
+HARRY shakes his head in despair. 
+
+TRENCH, castelton, willoughby and durrance together o/s
+
+Merrily we roll along, roll along, roll along...Merrily we roll along, until the morning comes...
+
+ETHNE smiles.
+
+ETHNE
+
+Duty calls. 
+
+HARRY feels the quiet regret in her voice.
+
+harry
+
+We've two days leave before we sail. Once I tell them we're engaged I'm sure they'll give me more. 
+
+ETHNE
+
+As long as you promise to make me miserable. Argue with me all the time so I don't miss you a bit.
+
+Her lightness is forced. 
+
+harrY
+
+You'll be fine.
+
+ETHNE
+
+You don't have to reassure me. I'm a soldier's daughter. Everything under control. 
+
+harry
+
+I've never kissed a stiff upper lip before.
+
+TRENCH's VOICE bellows out again as they kiss:
+
+trench o/s
+
+Goodnight, Ethne's...goodnight, Harry's...Goodnight, goodnight, goodnight...
+
+HARRRY and ETHNE ignore him, the rain falling all around them.
+
+INT. REGIMENTAL HALL/ WESTMINSTER BARRACKS - night.
+
+The regimental song turns into a deafening roar. All around the mess hall, OFFICERS are laughing and banging on tables. HARRY and DURRANCE stand on wobbly stools, downing pints of beer. As soon as their glasses are empty they set off down the hall at a sprint. It's an obstacle course. The two friends duck under two long tables, and crawl on their bellies, towards two more glasses. 
+
+TRENCH and CASTELTON are busy laying bets on who'll win. DURRANCE and HARRY step over a bridge of chairs. They have to find a pint of beer hidden under one of them. DURRANCE finds his first. TRENCH looks at CASTELTON smugly, convinced he's going to win.
+
+HARRY and DURRANCE step-walk over two long benches. DURRANCE falls off. HARRY overtakes him. He throws his head back and finishes off another pint. CASTELTON stands up, cheering. 
+
+HARRY and DURRANCE are level as they reach the last glass.  As they start to drink HARRY stops, spluttering.
+
+harry
+
+This isn't beer, it's whisky.
+
+trench
+
+Down in one!
+
+HARRY drinks again, but he's fallen behind. The pint of whisky disappears down DURRANCE's throat. Grinning, he makes his way towards the finish line. HARRY pours the whisky over his head, conceding defeat.
+
+EXT. TRAINING GROUND/ WESTMINSTER barracks/ LONDON - Day.
+
+An obstacle course of a different kind. The CAVALRY are training, galloping at full tilt, HARRY and DURRANCE bringing up the front. At the sound of a bugle, they dismount their horses, and sprint towards a row of bayonets. They snatch up the weapons and charge a row of dummies.
+
+DRILL INSTRUCTOR
+
+...In. Out. On guard...
+
+The blades tear into the dummies, exposing soft leaves and hard wood.
+
+DRILL INSTRUCTOR
+
+...Hold the line...and charge...
+
+The OFFICERS charge towards a second set of targets. Teeth bared, they drive their bayonets into the stuffed dummies. CASTELTON's blade sticks in a chunk of wood.
+
+DRILL INSTRUCTOR
+
+...In and out, Castelton, in and out...
+
+CASTELTON pulls in frustation. He can't get the bayonet loose.
+
+DRILL INSTRUCTOR
+
+...They're coming at you boy. Rip it out or they'll stick you first.
+
+CASTELTON puts his foot on the dummy's head and tries to wrench the blade free. Even though it's only a training exercise, his panic is real. TRENCH slows down as he watches his friend struggling in vain.
+
+DRILL INSTRUCTOR
+
+...Move on Trench. Castelton's dead. Enemy spear through his throat.
+
+The OFFICERS continue, bayonets thrust forward, leaving the struggling CASTELTON behind.
+
+EXT. STABLES/ training ground/ westminster barracks - day.
+
+The men are washing up after exercises, dousing themselves with cold water.  Everyone's teasing CASTELTON, except for TRENCH. For once he keeps quiet, knowing how hard his friend's taking it. A SEARGENT-MAJOR enters and salutes.
+
+SERGEANT-MAJOR
+
+Gentlemen... fifteen minutes, in the briefing room.
+
+As he leaves, the MEN look at each other curiously.
+
+INT. BRIEFING ROOM/ westminster barracks - day.
+
+The Officers are assembled.  HARRY, DURRANCE, TRENCH, WILLOUGHBY, and CASTELTON, take their places on the wooden benches. As he sits HARRY notices a map of Africa behind Colonel Hamilton.
+
+COLONEL HAMILTON
+
+...Gentlemen... 
+
+(when the room settles down)
+
+The 1st Battalion Grenadier Guards have been ordered to forego their posting to India...
+
+(Off murmurs of surprise)
+
+...We ship out in three days, to establish a forward garrison in the Sudan...
+
+There's a buzz of excitement. COLONEL HAMILTON can hardly contain his smile. He turns to GENERAL HOLMBY:
+
+COLONEL HAMILTON
+
+...General Holmby, Sir.
+
+GENERAL HOLMBY, a severe looking military man, stands and faces the OFFICERS. Their eyes are lit-up with anticipation, all except Harry, who stares ahead, slowly turning inward. 
+
+GENERAL HOLMBY
+
+...I'd like to apologise for not giving you men more notice. I know many of you will find it hard to see your families now. Unfortunately we had no alternative...
+
+He turns to the map and points out the Sudanese desert.
+
+gENERAL HOLMBY 
+
+...Three days ago, an army of Egyptian reserves led by General Hicks, was ambushed at Tashgil by the Mahdi's forces. Upoun attack the Egyptians fled, leaving General Hicks and the British Officers with him, to fight a heroic, but in the end hopeless rearguard action. All of them died, sword in hand... 
+
+HARRY stares out silently, his whole world turned upside down.
+
+geNERAL HOLMBY 
+
+...I hesitate to call this a mission of vengeance, but the honour of our country is at stake. This Government has finally seen fit to send its own troops to war...
+
+There's loud cheering from the men now, regimental pride and bravado covering any trace of nerves.
+
+EXT. COURTYARD/ westinster barracks - sunset.
+
+The OFFICERS pour out into the courtyard, still exhilirated by the thought of seeing war. We hear TRENCH's voice rising above the others.
+
+trench 
+
+...I wish I had more than one life to give for my country. Two would make me feel a lot safer.
+
+HARRY laughs with the others, hiding his mounting anxiety.
+
+INT. HARRY and DURRANCE's ROOM/ BARRACKS - NIGHT.                     
+
+Laughter filters into Harry and Durrance's room. The two of them lie in their beds, watching the embers die out in the fireplace.
+
+DURRANCE
+
+(Gazing up at the ceiling where the noise is coming from)
+
+...I listen to them laugh, and I can't help wondering which ones won't be coming back. The worse part is I think I even know who they are.
+
+haRRY
+
+Am I one?
+
+DURRANCE
+
+Of course not Harry. You're one of the lucky ones. Always have been.
+
+HARRY picks up the reference to Ethne but doesn't say anything. More laughter filters through. HARRY stares out in the darkness, tormented.
+
+DURRANCE
+
+What are you thinking?
+
+harry
+
+(Hesitating)
+
+I'm wondering what a Godforesaken desert in the middle of nowhere has to do with her Majesty the Queen.
+
+DURRANCE
+
+Ask Willoughby. He's on the Colonel's staff.
+
+harry
+
+I know what he'll say: 'It's not for us to question.'
+
+(A beat)
+
+Do you ever ask yourself why you're going?
+
+DURRANCE
+
+Not for the Queen. I hardly know her. 
+
+(He smiles softly)
+
+Nor for the regiment. There isn't much of a military tradition in my family...
+
+(A beat)
+
+I suppose I'm going because you're going. You, and Trench, and Castelton, and Willoughby... 
+
+(A big grin)
+
+Not much of a reason I know, but it reassures me.
+
+HARRY smiles, but Durrance's words only make him feel more ashamed of the fear he feels inside. 
+
+harry
+
+Is there anything that frightens you, Jack?
+
+DURRANCE
+
+I'm frightened of not coming back in one piece. Much more than dying. I wouldn't know what to do with myself in a wheel chair. And I couldn't stand to be pitied.
+
+He puts the thought out of his head and grins.
+
+DURRANCE
+
+There's a Church near our house. Next to the pub. Every night at ten the drunks spill out, shouting at the top of their voices. That's where I want to be buried. Where I can hear them.
+
+harry
+
+Nothing's going to happen to you.
+
+DURRANCE
+
+It's out of our hands anyway. Might as well sleep easy...
+
+DURRANCE rolls on his side. HARRY looks back at the fireplace, as the last embers fade.
+
+EXT. REGIMENTAL COURTYARD - dawn.
+
+A cold blue light hangs over the barracks. The courtyard is empty, except for a few sentries on duty. Wagons pull in, loaded with supplies.
+
+INT. HARRY and DURRANCE's ROOM/ BARRACKS - dawn.  
+
+HARRY buttons his uniform. He looks as if he hasn't slept. He turns to DURRANCE. His friend is still asleep. HARRY hesitates. He wants to wake him up, and talk, but in the end he turns away, and leaves the room.
+
+EXT. regimental COURTYARD - dawn.
+
+Harry walks slowly toward the Regimental Office. He glances up at the Regimental flag, flying beside the Union Jack.
+
+INT. ADCs' ROOMS/ THE REGIMENTAL OFFICE - dawn.
+
+WILLOUGHBY looks up from his desk as HARRY walks in. 
+
+willoughby
+
+(Grinning)
+
+...Harry. You're up early. 
+
+HARRY smiles awkwardly but doesn't say anything. WILLOUGHBY senses something's wrong. 
+
+willoughby 
+
+(Concerned)
+
+...What's the matter?
+
+HARRY looks at him for a moment, but then turns to Colonel Hamilton's other AIDE-DE-CAMP.
+
+HARRY
+
+I'd like to see the Colonel please.
+
+WILLOUGHBY stares in confusion. The AIDE-DE-CAMP disappears into the next door office.  HARRY still can't bring himself to look at his friend.
+
+willoughby
+
+Harry, what's wrong?...
+
+He's interrupted as the AIDE-DE-CAMP walks back in.
+
+AIDE-DE-CAMP
+
+The Colonel will see you, sir.
+
+harry
+
+Thank you.
+
+HARRY walks into Hamilton's office. WILLOUGHBY stares after him, bewildered.
+
+INT. COLONEL HAMILTON's office - day.
+
+COLONEL HAMILTON glances at the letter HARRY has just given him. He stops reading after only a few words.
+
+COLONEL HAMILTON
+
+What the hell is this?
+
+HARRY
+
+My papers, sir.  I wish to resign my commission.
+
+COLONEL HAMILTON doesn't appear to understand. He looks back at the piece of paper, as if he's misread something.
+
+COLONEL HAMILTON
+
+If it's leave you want, there's a different procedure. Normally I wouldn't consider it in the circumstances, but given you've got engaged...
+
+HARRY
+
+(Interrupting politely)
+
+I don't want any leave Sir. I wish to resign my commission.
+
+A long silence. COLONEL HAMILTON calmly puts the letter aside, and returns to his work, ignoring HARRY.
+
+harry 
+
+Sir...
+
+COLONEL HAMILTON
+
+It's nerves. We all have them.
+
+HARRY
+
+Sir, I've made up my mind.
+
+COLONEL HAMILTON
+
+And I'm asking you to reconsider.
+
+HARRY
+
+I have considered, sir.  And I've decided to leave the service.
+
+COLONEL HAMILTON
+
+Come back to me when you've discussed it with your father.
+
+HARRY
+
+It's not his decision, sir...
+
+HAMILTON explodes, all his repressed fury pouring out.
+
+COLONEL HAMILTON
+
+I do not accept these "papers," Lieutenant -- and do not accept that one of my men -- the son of a man with whom I was honored to serve -- would walk out on his Regiment --
+
+HARRY
+
+Sir --
+
+COLONEL HAMILTON
+
+-- on the very eve we're shipping off to war!  
+
+(holding out the papers)
+
+Take these back!
+
+HARRY
+
+I will not, sir.
+
+Dead silence. 
+
+harry
+
+I wish to resign my commission.
+
+HAMILTON stares at HARRY for what seems an eternity. He's struggling to make sense of something beyond his comprehension. Slowly he gathers himself and lowers his eyes, looking down at Harry's papers:
+
+COLONEL HAMILTON
+
+Very well. Then as the coward and disgrace you are, you may take yourself out of my office...
+
+(Signing Harry's papers)
+
+Please leave the barracks at once. You're belongings will be sent on. 
+
+Face drained of color, Harry turns and leaves. 
+
+INT. ADCs' ROOMS/ THE REGIMENTAL OFFICE - dawn.
+
+As the door opens, WILLOUGHBY stares at HARRY, speechless. HARRY lowers his eyes and walks on.
+
+INT. STAIRWAY/ BARRACKS - DAwn.
+
+HARRY walks down the stairway, gripping the bannisters. Two SOLDIERS salute him on their way up, but he doesn't respond.
+
+EXT. regimental COURTYARD - dawn.
+
+The supply wagons are being unloaded in the courtyard. HARRY walks between more SOLDIERS, his eyes fixed on the barrack gates. The only sound he hears in his head is the gentle flapping of a flag.
+
+INT. TRENCH and CASTELTON's ROOM/ BARRACKS - day. 
+
+CASTELTON is packing his trunk, neat and fastidious, taking his time over every item. TRENCH waits for him impatiently.
+
+trench
+
+...Why can't you do this after breakfast? We're not leaving till tonight.
+
+CASTELTON ignores him, folding his shirts. TRENCH turns to DURRANCE, exasperated.
+
+trench 
+
+He packs three bibles. Can you believe it? Three bibles...
+
+DURRANCE grins. He glances up as WILLOUGHBY enters.
+
+DURRANCE
+
+...Field Marshall Willoughby...
+
+WILLOUGHBY doesn't smile. He looks ashen faced.
+
+DURRANCE
+
+...What's the matter?
+
+CASTELTON and TRENCH look up.
+
+willoughby
+
+It's Harry...
+
+(He still can't believe it)
+
+He's resigned.
+
+trench
+
+Resigned what?
+
+willoughby
+
+(Snapping at Trench)
+
+His bloody commission. What do you think?!
+
+There's a long silence. No-one knows quite what to say. DURRANCE finally speaks.
+
+DURRANCE
+
+What did Hamilton do? Refuse him leave?
+
+willoughby
+
+Hamilton didn't do anything. Harry went to see him of his own accord. Right after they changed our deployment.
+
+CASTELTON looks at TRENCH, as the insinuation sinks in.
+
+trENCH
+
+...It's just a coincidence. He's having second thoughts about leaving Ethne.
+
+willoughby
+
+He was happy to leave her behind when we were going to India. No doubts then.
+
+DURRANCE
+
+(Jumping to Harry's defence)
+
+What's that supposed to mean?
+
+willoughby
+
+You tell me. He resigns his commission the very day we're sent to war.
+
+DURRANCE
+
+Harry's the best soldier in this regiment.
+
+wILLOUGHBY
+
+Obviously not when it counts.
+
+DURRANCE
+
+Why don't you say that to his face.
+
+CASTELTON
+
+(Intervening)
+
+We don't know the circumstances yet. 
+
+(Reasoning with Willoughby)
+
+I think we should give Harry a chance to explain.
+
+willoughby
+
+(Bitterly)
+
+Harry's gone. He left this morning. Whilst you were all asleep.
+
+WILLOUGHBY turns away in frustration. He's as upset as the others, but he shows it in anger. TRENCH and CASTELTON look stunned. DURRANCE stares ahead in silence.
+
+trench
+
+Did he say anything to you, Jack?
+
+DURRANCE
+
+(Quietly)
+
+No. Nothing.
+
+DURRANCE remembers his conversation with Harry the previous night. 
+
+WILLOUGHBY
+
+An action like this dishonors the entire Regiment.
+
+DURRANCE
+
+(Suddenly venting his anger on Willoughby)
+
+Will you forget about your bloody Regiment for once! 
+
+WILLOUGHBY
+
+Alright then, it dishonours us!
+
+He stares at DURRANCE with conviction. 
+
+willoughby
+
+He was my friend too, Jack...
+
+(A beat)
+
+...but a man who isn't prepared to give his life for his friends, isn't a man at all... 
+
+From the look on their faces, it's clear TRENCH and CASTELTON are beginning to agree with him.
+
+wILLOUGHBY 
+
+This has to be answered.
+
+DURRANCE shakes his head, refusing to turn on Harry. He storms out of the room.
+
+INT. TRAIN to BINTREE - night.
+
+The whistle of a train. HARRY sits in a crowded carriage, looking stiff in his civilian clothes. He glances out of the window, but sees only his own reflection in the glass.
+
+EXT. ethne's carriage/ BINTREE - day.
+
+ETHNE drives the carriage through the country lanes, overjoyed to see HARRY.  
+
+ETHNE
+
+...How many days leave have they given you?
+
+harry
+
+How many days would you like?
+
+ETHNE
+
+They shouldn't have let you out of their sight. I'm going to kidnap you.
+
+harry
+
+I thought as much. This doesn't look like the way to your house.  
+
+ETHNE laughs happily. HARRY can't quite bring himself to tell her yet.
+
+INT. village church near ethne's home - day.
+
+Dappled light shines in the small stone Church. ETHNE takes HARRY under the arm, and walks him up the aisle.
+
+harry
+
+Isn't this supposed to be bad luck?
+
+ETHNE
+
+Seeing me in the wedding dress is bad luck. This is practice. 
+
+ETHNE looks towards the church benches, as if she's greeting the guests.
+
+harrY 
+
+So I'm playing your father?
+
+ETHNE
+
+You have to be a little less steady on your feet. He's had a few to drink.
+
+harry
+
+(Taking slow deliberate steps)
+
+How is he?
+
+ETHNE
+
+Fine. He'll be thrilled to see you.
+
+ETHNE lets go of his hand as they reach the altar. She walks around him, and takes his other hand, as if he's the groom now.
+
+ETHNE
+
+"Do you Harry Feversham --
+
+harrY
+
+(Skipping the rest)
+
+-- You may kiss the bride."
+
+He tries to kiss her.
+
+ETHNE
+
+(Laughing)
+
+You can't jump ahead like that. You have to let me enjoy my wedding. It's your fault the real one isn't for another year.
+
+HARRY hesitates, finally seeing his opportunity.
+
+harry
+
+There's nothing to stop us getting married whenever we like, Ethne. I've handed in my papers.
+
+A long silence. ETHNE stares at him, not sure she's understood.
+
+ETHNE
+
+...When?
+
+harry
+
+Yesterday. I'd been thinking about it for a while. 
+
+ETHNE
+
+Why didn't you tell me? Was it because of me?
+
+HARRY
+
+Because of you. Because of me. I couldn't see the point of continuing. The moment I fell in love with you my career in the army was over.
+
+ETHNE
+
+I would have supported your career. My mother did the same for my father. It's what's always been expected of me. 
+
+harry
+
+I didn't think it was what you wanted.
+
+ETHNE still looks conflicted.
+
+ETHNE
+
+...It is my fault Harry. I gave you the wrong impression. I'm really much more stoical than that. It wouldn't have been easy, but I'd have coped. I love you far too much to let a year make a difference. 
+
+hARRY
+
+It wasn't what I wanted for us.
+
+(A hint of guilt as he hides the whole truth from her)
+
+I love this place. I love you in this place. We'll help your father with the farm. We'll get it going again. We'll begin our lives together.
+
+ETHNE is silent, moved by his words.
+
+harrY 
+
+All I want is for you to be happy.
+
+ETHNE
+
+(The smile slowly returns to her face)
+
+I am happy Harry. 
+
+She rests her head in his arms again.
+
+ETHNE
+
+As long as you're sure?
+
+hARRY
+
+Of course I'm sure.
+
+He holds her close, kissing her hair, hiding his eyes from her.
+
+EXT. courtyard/ ETHNE'S HOME/ BINTREE - DAY                                                 
+
+DERMOD's dogs leap on HARRY as he jumps off the carriage. 
+
+HARRY
+
+Whoa! You ought to train these beasts Dermod.
+
+DERMOD
+
+I have.  Trained them to scare away prospective son in laws.
+
+HARRY and DERMOD hug each other, already like father and son.
+
+INT. ENTRANCE/ ETHNE'S COUNTRY HOME - DAY                                                 
+
+A MAID hands ETHNE some letters and a parcel as she enters the house. HARRY follows her up the stairs.
+
+ETHNE
+
+Which room do you want?
+
+harry
+
+The one with the connecting doors.
+
+ETHNE
+
+You must have imagined that one.
+
+INT. the guest room/ ethne's house. day.
+
+Sunlight fills the room as HARRY throws open the blinds. He takes a long look at the fields outside.
+
+ETHNE
+
+(Glancing through her letters)
+
+I see you've moved in already.
+
+harry
+
+Why?
+
+ETHNE
+
+This one's addressed to you.
+
+She holds out the small parcel. HARRY walks over curiously. 
+
+ETHNE
+
+(Teasing him)
+
+A secret admirer?
+
+harry
+
+(Teasing her back)
+
+I wonder which one it is. 
+
+ETHNE
+
+I'll open it, thank you.
+
+She undoes the wrapping. There's a small white box underneath. She opens the lid. There's nothing inside, except three white feathers, pinned to three visiting cards. ETHNE's about to make a joke when she suddenly sees how pale HARRY looks.
+
+ETHNE
+
+What is it?
+
+(Looking at the feathers again)
+
+What does this mean?
+
+HARRY
+
+(Slowly)
+
+That there are some things that can't be hidden.
+
+ETHNE
+
+(Beginning to look worried)
+
+I don't understand.
+
+harry
+
+These are feathers of cowardice.
+
+ETHNE laughs, nervously.
+
+ETHNE
+
+What a horrible joke.
+
+harry
+
+It isn't a joke Ethne. They were sent in earnest.
+
+ETHNE
+
+By whom? Who sent them? 
+
+(Her anger rising)
+
+How dare they!...
+
+harry
+
+(Reading the cards)
+
+Willoughby, Trench, and Castelton.
+
+ETHNE
+
+You see it is a joke. They're your friends.
+
+She looks to HARRY for confirmation. 
+
+HARRY
+
+(All he can say)
+
+You're the most important thing to me.
+
+ETHNE
+
+(Panicked by his tone)
+
+Why are you saying that to me now?  What is it Harry?
+
+harry
+
+We were told on Tuesday night that the regiment would be shipping out to the Sudan instead of India. That we'd be seeing war within a week. I handed in my resignation the following morning.
+
+There's a long silence as ETHNE takes it in. Like Durrance she won't accept it.
+
+ETHNE
+
+I don't believe that's why you resigned. You wouldn't have come to me like this. You wouldn't have been able to look me in the eye.
+
+HARRY stares at her guiltily, tormented.
+
+ETHNE
+
+(The tears shining in her eyes)
+
+...I don't believe you. Three white feathers and our world is at an end. It can't be that simple...
+
+And still he doesn't answer. 
+
+ETHNE
+
+...Please Harry... You have to answer these charges...
+
+harry
+
+(Finally)
+
+I can't. All my life I've been following a path that's filled me with dread. I kept going because of the people behind me, and the people beside me, but all I wanted to do was turn and run. I didn't even have the courage to do that until I met you...
+
+ETHNE
+
+Don't use me as an excuse.
+
+harry
+
+Ethne --
+
+ETHNE
+
+(Pulling away from him)
+
+-- This afternoon you told me you left the army because of me. Or at least you made me believe it. Tell me the truth? Would you have resigned if we weren't engaged?
+
+There's a long silence. These are the hardest words Harry's ever had to speak.
+
+harry
+
+Yes. I would have resigned. I wouldn't have gone to war for anything.
+
+ETHNE stares at him a moment, then removes her engagement ring from her finger, and holds it out to him.  
+
+ETHNE
+
+I've no right to call you a coward, but you are a liar. Please take this back.
+
+HARRY takes the ring without protest. ETHNE turns and walks away. As she leaves she sets the feathers on the table, and closes the door behind her.  
+
+HARRY listens to her footsteps fade. He walks towards the table. As he looks down he sees four feathers. Ethne has snapped the fourth from her fan. 
+
+Very carefully, as if they were the most precious objects in the world, HARRY gathers them, his eyes shining with tears.
+
+EXT. LONDON DOCKS - NIGHT.                                                
+
+A burst of noise and colour. Rows of SOLDIERS march by, in perfect squares, proudly wearing their regimental colours. The wharf is lined with PEOPLE, cheering and waving flags, sending them off to inevitable victory.
+
+INT. stable deck/ troop ship/ LONDON DOCKS - NIGHT. 
+
+We can still hear the roar of the crowd outside. CASTELTON is trying to coax his horse into its box. TRENCH, and WILLOUGHBY, and DURRANCE wait for him.
+
+trench
+
+...Come on Castelton. Give her a good kick. I want to wave to the ladies...
+
+EXT. wharf/ LONDON DOCKS - NIGHT.
+
+The CROWD below cheers as the soldiers crowd the rails.
+
+EXT. rails/ troop ship/ LONDON DOCKS - NIGHT. 
+
+TRENCH waves at the crowd as if he were the Queen. CASTELTON is lost in the scale of it all. DURRANCE stares at the tiny figures, wondering if Harry's amongst them. 
+
+willoughby
+
+(Interrupting his thoughts)
+
+...Jack, I wanted to apologise for the other day. My argument wasn't with you.
+
+DURRANCE
+
+It's forgotten.
+
+DURRANCE keeps staring into the crowd below.
+
+EXT. wharf/ LONDON DOCKS - NIGHT.
+
+HARRY stares up at the ship, a ghost amongst the cheering faces. The SOLDIERS at the rails look like specks, but Harry knows his friends are somewhere up there. 
+
+EXT. officer's stand/ wharf/ LONDON DOCKS - NIGHT.                                               
+
+A line of RETIRED OFFICERS, salute as the vessel finally sets off. Amongst them is GENERAL FEVERSHAM, Harry's father. He stands at attention. 
+
+EXT. LONDON DOCKS - NIGHT.
+
+The celebrations over, the CROWD moves away from the docks. HARRY searches through the throng for his father. 
+
+EXT. HANSOM CABS/ LONDON DOCKS - NIGHT.
+
+GENERAL FEVERSHAM and COLONEL SUTCH wait in line for a hansom cab. The two old soldiers look frail in the falling rain. As they're about to climb onto a carriage, a voice calls out:
+
+HARRY (o.s.)
+
+Father...?
+
+The General turns around. His eyes fill with emotion as his son approaches.
+
+HARRY
+
+...I need to talk to you, Sir.
+
+There's a long silence as GENERAL FEVERSHAM gazes at his son. HARRY looks as if he hasn't slept in days. His eyes are swollen and bloodshot, full of heartbreak and shame. For a moment it seems as if the old man will take him in his arms and comfort him, but instead he averts his eyes, and climbs into the carriage. COLONEL SUTCH looks at HARRY regrettably, as if to say there's nothing he can do.
+
+EXT. LONDON STREETS - night.
+
+NEWSBOYS follow HARRY home, trying to sell him their newspapers, refusing to take no for an answer.
+
+NEWSBOY
+
+...It's a commemorative issue, Sir. War in the Sudan...
+
+HARRY buys a paper just to be rid of him, only for another NEWSBOY to take his place.
+
+SECOND nEWSBOY 
+
+Different paper Sir, London Times. commerative issue...
+
+INT. HARRY'S APARTMENT - DAY.
+
+The sound of guns echoes in the distance. HARRY looks up. His face is unshaven, his eyes glassy from lack of sleep. Another volley sounds outside. HARRY gets off the floor and walks over. As he does so we see the piles of newspapers that have gathered on his floor over the past few weeks. 
+
+The regimental guns boom outside. HARRY opens the window. He wants to hear them more clearly. He wants to be reminded of his shame.
+
+He walks back to the day's newspapers and kneels down amongst the mess. We see headlines of massacres and slaughters, beneath them artist's impressions of the Mahdist atrocities. 
+
+EXT. LONDON STREETS - day.
+
+The NEWSBOYS run from HARRY now, mistaking him for a tramp. He catches up with one of them, forcing some money on him. 
+
+NEWSBOY
+
+(Giving him a paper)
+
+British defeat in the Sudan! Hundreds dead!...
+
+HARRY flicks through the newspaper anxiously.
+
+EXT. war office/ LONDON - day.
+
+CROWDS have gathered outside the War Office. The mood has changed from celebration to panic. PEOPLE are stunned by the news of defeat, desperate to hear if their loved ones are alright. SOLDIERS hold back the surging mass. Only small groups are allowed in at a time.
+
+INT. corridor/ war office BUILDING/ LONDON - day.
+
+HARRY hurries down the corridor towards an area where the names of British casualties have been pinned to a notice board. PEOPLE swarm past him in the other direction. Some of them look relieved, others are overwhelmed by grief. HARRY hurries on, his heart pounding.
+
+INT. CASUALTY LIST/ war office BUILDING/ LONDON - day.
+
+HARRY pushes through the CROWD of peering heads. As he finally elbows his way to the front he glimpses the long list of casualties. His eyes look through the D's first. Durrance's name isn't there. No sign of Castelton under the C's. HARRY is jostled backwards as he searches for the other names. With a fierce effort he gets to the front again. No Trench under T, no Willoughby under W. They're all safe. HARRY's body slackens with relief.
+
+EXT. harry's appartment block/ LONDON STREET - day.
+
+HARRY looks drained as he reaches the front door of his building. As he opens it his LANDLADY walks out.
+
+landlady
+
+There's someone to see you Sir. They're waiting upstairs...
+
+HARRY doesn't wait for her to finish.
+
+INT. STAIRWAY/ harry's appartment block/ LONDON STREET - day.
+
+HARRY bounds up the stairs, expecting to see Ethne. He stops suddenly as he sees COLONEL SUTCH instead, waiting outside his door. He hides his disappointment with an awkward smile.
+
+hARRY
+
+Colonel Sutch...
+
+SUTCH can't help staring at HARRY, shocked by the state he's in. 
+
+INT. HARRY'S APARTMENT - DAY.
+
+HARRY tries to make the room look more presentable, gathering up the newspapers and maps off the floor. He finally stops what he's doing and turns around. 
+
+harry
+
+(Quietly)
+
+How is he?
+
+COLONEL SUTCH
+
+He's been very withdrawn. I've tried to persuade him to leave the house but he's a stubborn man.
+
+harrY
+
+Will he see me?
+
+COLONEL SUTCH
+
+I don't think so...
+
+(He pauses)
+
+...but if it's money you need he won't cut you off. He hinted as much to me. 
+
+harry
+
+I don't need money, Sir. 
+
+HARRY turns away. SUTCH looks torn. As a soldier he disapproves of what Harry's done, but as a family friend he can't help feeling sorry for the boy.
+
+COLONEL SUTCH
+
+You were never cut out for this proffession. 
+
+harrY
+
+(A thin smile)
+
+Was it that obvious?
+
+COLONEL SUTCH
+
+It was to me. Ever since you were a child. I only wish I'd said something to your father.
+
+HARRY turns and faces him. 
+
+harrY
+
+(With an almost morbid curiosity)
+
+How did you know I didn't have it in me?
+
+COLONEL SUTCH
+
+What difference does it make?
+
+harrY
+
+It does to me, Sir. It's all I think about. What makes a man a coward? 
+
+COLONEL SUTCH
+
+(Losing patience)
+
+That's enough Harry. Get on a grip on yourself. You're no use to anyone, sitting here all day, driving yourself mad...
+
+The outburst seems to release SUTCH from his soldier's reserve. He's all concern now.
+
+COLONEL SUTCH
+
+What's done, is done.
+
+harrY
+
+(Quietly)
+
+No Sir, it isn't.
+
+HARRY reaches into his pocket and pulls out a small white box. He opens it in front of SUTCH. There are four white feathers inside. SUTCH stares at the names on the cards. 
+
+COLONEL SUTCH
+
+(Stunned)
+
+Who sent you the fourth? Jack?
+
+harrY
+
+Ethne.
+
+SUTCH looks up in surprise, beginning to realise the full extent of Harry's heartache.
+
+COLONEL SUTCH
+
+Throw them away. They don't mean a thing.
+
+HARRY
+
+They do to me, Sir. They're all I have left of my friends.
+
+COLONEL SUTCH
+
+Harry, this is morbid.
+
+harrY
+
+I don't mean it that way...
+
+(Trying to make him understand)
+
+You see, if there was something I could do, something so undeniable...I'm not saying it would change anything, it's too late for that...but if the feathers can be given, then they can be taken back.
+
+COLONEL SUTCH
+
+Harry, your friends are in Egypt.
+
+HARRY
+
+Yes Sir. In Alexandria. They transfer to Suakin in a fortnight.
+
+SUTCH doesn't understand at first. Then he looks at the newspapers and maps spread out across the floor, and begins to see the method in Harry's madness.
+
+COLONEL SUTCH
+
+(In disbelief)
+
+...You're a civilian. Even if you find them, there's nothing you can do.
+
+harry
+
+I'm well aware of my chances.
+
+COLONEL SUTCH
+
+Then what's the point!? 
+
+(Staring at him in dismay)
+
+You think Ethne will take you back? Is that what you think?!
+
+From the look in his eyes it's clear the thought had entered his head. Sutch's words bring him back down to earth. His voice is quieter now, resigned.
+
+harrY
+
+I don't have any choice... 
+
+(With a terrible honesty)
+
+I'm not sure how much longer I can live with myself, here, like this... 
+
+COLONEL SUTCH stares at him with pity, seeing the depth of his anguish.
+
+haRRY 
+
+I'm leaving for Egypt tomorrow.
+
+COLONEL SUTCH
+
+(He realises there's no point trying to dissuade him)
+
+Do you want me to tell your father?  
+
+harry
+
+Only if something should happen to me. I'll write and let you know how I am, as often as I can.
+
+COLONEL SUTCH
+
+What about Ethne?
+
+HARRY has to think long and hard about this. The thought of her fills him with sadness.
+
+hARRY
+
+I'd rather you didn't tell her anything. After all I've put her through the least I can do is let her forget me in peace. 
+
+COLONEL SUTCH looks moved by his predicament, and impressed by these first, grasping signs of nobility. 
+
+harrY
+
+Maybe I'll come back sooner than I think -- hear the guns booming off the African coast, and take the first ship home.
+
+COLONEL SUTCH
+
+I doubt it, Harry.
+
+COLONEL SUTCH smiles weakly.
+
+EXT. HARRY's POV. VIEW OF THE AFRICAN COAST - day.
+
+Through the shimmering heat we see the outlines of the African mountains: an arid moonscape, dust clouds blowing in the wind.
+
+EXT. port of ALEXANDRIA - DAY.
+
+The same veil of dust blows through the crowded port. HARRY covers his eyes. His hair is longer now, his face gaunt and bearded. Clutching his suitcase, he moves through the throng.
+
+EXT. streets of ALEXANDRIA - DAY.
+
+The alleyways look almost dreamlike through the shimmering heat. It's as if we're in Harry's head, reflecting his state of mind. A crowd of URCHIN BOYS are following his every step, imitating his langorous walk. HARRY doesn't notice them. His gaze is riveted by the sights around him: the MERCHANTS beckoning him into their shops; the BRITISH SOLDIERS on leave, sheltering in the cool hollows of the cafes and whorehouses; the BEGGARS, hunched up against the stone walls, their faces covered with flies.
+
+Through the arches of the Souk, a wedding procession appears. The BRIDE and GROOM sit on brightly painted donkeys. All around them WOMEN and CHILDREN clap and shrill. HARRY catches a glimpse of the bride's face. She gazes at him for a moment, then looks away.
+
+INT. COLONIAL HOTEL/ ALEXANDRIA - DAY.
+
+The colours of the Souk give way to the cool white emptiness of a colonial hotel. ENGLISH GUESTS talk in hushed whispers as EGYPTIAN WAITERS serve them tea. HARRY sits in a corner of the lobby, nursing his drink, observing a group of ENGLISH OFFICERS, laughing amongst themselves.
+
+HARRY looks thoughtful, wondering how to approach them. Suddenly he hears a commotion. A drunk BRITISH CORPORAL is escorted out of the hotel by a group of SENIOR OFFICERS. He shouts and swears, but they ignore him, throwing him out of the door. HARRY gets up as he sees his chance.
+
+INT. EGYPTIAN bar - brothel/ BAZAAR/ ALEXANDRIA - night.
+
+The rhythmic beating of drums. Tattooed WOMEN dance on a makeshift stage, mesmerising the crowd of eager SOLDIERS. HARRY sits with the drunken BRITISH CORPORAL. The man's eyes keep drifting longingly towards the stage, as if he hasn't seen a woman in months. HARRY fills his glass.
+
+BRITISH CORPORAL
+
+(Resuming their conversation)
+
+...It's all reconnaisance trips. The river's too swollen to move troops in numbers. Her Majesty's army's rotting in Suakin.
+
+harry
+
+Which other regiments were with you?
+
+BRITISH CORPORAL
+
+They're all there: the Hussars, the Highlanders, the Grenadiers...Which newspaper did you say you were from?
+
+hARRY
+
+The London Times.
+
+BRITISH CORPORAL
+
+You must think I'm a disgrace? 'Sand happy'. That's what those Officers called me. 
+
+harry
+
+How much longer do you think the troops will be held up in Suakin?
+
+BRITISH CORPORAL
+
+As long as they can if they're lucky.
+
+(He finishes his drink)
+
+Does the Prime Minister read your paper?
+
+harrY
+
+I imagine so.
+
+BRITISH CORPORAL
+
+Then tell him from me we're on a losing wicket here. These bastards aren't scared of anything. If they saw death walking down the street they'd hide in an alleyway and try to pick him off with a stone. How do you fight people like that...
+
+He tries to drain the last few drops from his empty glass, then looks over longingly, at the tattooed DANCERS. 
+
+EXT. SAND STORM/ desert near SUAKIN/ sudan - DAY. 
+
+Thick gusts of sand blow at us. As the swirling clouds settle we see a group of misshapen figures, huddled together. As they finally rise and start to move, we realise they're BRITISH SOLDIERS, on camels. Amongst the dust caked faces we see TRENCH, CASTELTON, WILLOUGHBY and DURRANCE.
+
+EXT. DESERT near SUAKIN/ SUDAN - DAY. 
+
+The sand storm has cleared, and in its place a harsh desert sun beats down. The COLUMN OF BRITISH SCOUTS trudges forward. DURRANCE rides at the front, looking as if he were born here, eyes alert to every shimmer and nuance.  
+
+Up ahead he sees a large mound of stones standing out amongst the mud flat. He drives his camel forward. As he approaches he sees that it's a dervish burial mound. Skulls and skeletons are splayed across the rocks. WILLOUGHBY rides up through the ranks and joins him.
+
+WILLOUGHBY
+
+What do you think?
+
+DURRANCE
+
+I think they're trying to frighten us off. We should keep pressing forward. 
+
+WILLOUGHBY offers DURRANCE his water flask. DURRANCE takes a drink.
+
+DURRANCE
+
+(Pulling a face)
+
+It's bloody whisky.
+
+wILLOUGHBY
+
+(Grinning)
+
+My camel drinks the water.
+
+EXT. burnt out fortress/ desert - day.
+
+As the camels tread their way through the sun baked shingles a ghostly fortress appears on the horizon. The men start loading their rifles instinctively.
+
+EXT. courtyard/ burnt out fortress/ desert - day.
+
+All that's left of the fortress is a grim skeleton. The Union Jack lies ripped to shreds, halfway down its flagpole. The BRITISH SOLDIERS gaze at the destruction. Their camels sense their tension and rear a little in the eerie silence. As ever, TRENCH is the first to break the ice.
+
+trench
+
+(Jumping off his camel, walking towards the fortress well)
+
+I don't know about you lot, but I'm going to grab a drink before Mustapha does.
+
+"Mustapha" the camel whinnies as if he's understood every word. The MEN start laughing. 
+
+DURRANCE
+
+The water's probably poisoned.
+
+trench
+
+(Leading his camel towards the well instead)
+
+Mustapha, be my guest.
+
+There's more laughter. DURRANCE smiles but his eyes are still alert. Above the fortress tower he sees a flock of birds taking flight, rising up gracefully towards the desert sun. Suddenly amidst the laughter and chatter, one of the SOLDIERS topples off his camel. His FRIENDS laugh:
+
+friendS
+
+...Capshaw you dosy bastard...
+
+...Camilla's tired him out...
+
+CAPSHAW doesn't move. CASTELTON's the first to realise something's wrong. He jumps off his camel and turns CAPSHAW over. Half the soldier's face has been blown off. Raw bone glistens underneath. CASTELTON rears back in horror. 
+
+CASTELTON
+
+Sniper!
+
+Panic erupts. The SOLDIERS leap off their camels, using them as shields. 
+
+The sniper's bullet rings out and sends one of the animals crashing to the dirt. The men start to run now, seeking shelter in the surrounding hutments. The sniper's gun rings out repeatedly.
+
+EXT. HUTMENT/ burnt out fortress/ desert - day.
+
+DURRANCE and CASTELTON duck into the hutment. 
+
+DURRANCE
+
+...Keep him pinned. He's up in the tower.
+
+CASTELTON unleashes a volley of shots. DURRANCE moves quickly to the other side of the hutment and climbs out of the window.
+
+EXT. courtyard/ burnt out fortress/ desert - day.
+
+The camels circle around themselves in panic. TRENCH weaves his way between the rearing animals, protecting himself from the sniper. A shot rings out and spits dust in his face. 
+
+trench
+
+(Whispering in anger)
+
+You bastard...
+
+EXT. outer perimeter/ burnt out fortress/ desert - day.
+
+DURRANCE runs around the back of the fortress, breathing hard.
+
+EXT. courtyard/ burnt out fortress/ desert - day.
+
+A second shot spins TRENCH round, grazing him in the arm.
+
+trench
+
+(His voice rising)
+
+You bastard!
+
+A third shot narrowly misses. TRENCH is up and running now, not waiting for the fourth.
+
+trench 
+
+(Shouting like a madman as he charges towards the hutment)
+
+You bastard! You bastard! You bastard!
+
+EXT. outer perimeter/ burnt out fortress/ desert - day.
+
+DURRANCE has a clear view on the sniper's tower now. From below he can see the man's rifle edge out, fire, and then withdraw. DURRANCE heads quietly towards the tower stairs.
+
+EXT. STAIRS/ SNIPER's TOWER/ burnt out fortress  - day.
+
+Several of the steps are missing from the rickety stairway. DURRANCE climbs over them as lightly as he can. Up above he can hear the sniper's rifle ringing out. 
+
+EXT. castelton's HUTMENT/ burnt out fortress/ desert - day.
+
+CASTELTON fires another round at the sniper's tower. TRENCH sits on the floor, cursing as he bandages his grazed arm.
+
+EXT. SNIPER's TOWER/ burnt out fortress  - day.
+
+DURRANCE raises his head cautiously. At the tower window he sees the DERVISH SNIPER firing his rifle. DURRANCE hesitates. He could kill the man easily, but it would mean shooting him in the back. He can't bring himself to do it:
+
+DURRANCE
+
+Drop it!
+
+The DERVISH SNIPER stops still. He turns around slowly and looks DURRANCE in the eye. A contemptuous smile flickers across his face. Very slowly, he takes a bullet from his pocket and slips it in the rifle. He doesn't even look at DURRANCE. There's a terrifying, suicidal calm about him.
+
+DURRANCE studies his enemy, admiring his utter contempt for death, and then fires two bullets into his head.
+
+EXT. TENTS/ THE BRITISH CAMP/ suakin/ sudan - night.
+
+Bonfires flicker across the British camp. DURRANCE sits outside his tent, bathed in firelight, watching some BEDU DANCERS performing for the BRITISH TROOPS. He seems far away, as if he's thinking about the day's kill. TRENCH's braying voice snaps him out of his reverie.
+
+treNCH
+
+(Showing off his wound)
+
+Look at this beauty...
+
+TRENCH sits down between DURRANCE, CASTELTON, and WILLOUGHBY.
+
+trench
+
+(Playful)
+
+It's true what they say. You haven't lived until you've been shot.
+
+CASTELTON
+
+It's only a scratch.
+
+trench
+
+You wouldn't understand. You haven't looked into the abyss.
+
+CASTELTON
+
+Shut up Trench...
+
+DURRANCE joins in the laughter but he still seems far away. 
+
+wiLLOUGHBY
+
+(Noticing)
+
+Are you alright, Jack?
+
+DURRANCE
+
+(Smiling)
+
+Couldn't be better.
+
+WILLOUGHBY sees the haunted look in his eyes, but doesn't say anything. A SEARGENT-MAJOR interrupts.
+
+seRGEANT-MAJOR
+
+Lieutenant Durrance, Colonel Hamilton would like to see you in his tent, sir.
+
+trench
+
+Poor Willoughby, they've passed you over.
+
+WILLOUGHBY grabs a handful of sand and throws it at TRENCH. DURRANCE gets up to see what HAMILTON wants.
+
+EXT. COLONEL HAMILTON's TENT/ BRITISH CAMP/ suakin - night.
+
+COLONEL HAMILTON sits at a fold-up table, eating his dinner by candlelight. He turns around as DURRANCE walks in. He wipes his face with his knapkin and gestures for DURRANCE to sit.
+
+COLONEL HAMILTON
+
+...Congratulations, it seems you had another successful day.
+
+DURRANCE
+
+(Too honest to accept the complement)
+
+We killed one Dervish sniper, Sir.
+
+COLONEL HAMILTON
+
+I'm giving you three weeks leave.
+
+DURRANCE looks surprised.
+
+DURRANCE
+
+I really don't need, or deserve any leave.
+
+COLONEL HAMILTON
+
+You certainly deserve it, every report I receive singles you out for praise.
+
+DURRANCE
+
+With your permission, I'd like to stay here with the rest of the regiment.
+
+COLONEL HAMILTON
+
+Permission refused.
+
+DURRANCE is too disciplined a soldier to protest.
+
+COLONEL HAMILTON
+
+...Anyway the rest of the regiment is stuck here in Suakin until the Government agrees to send us to Khartoum... 
+
+(Containing his frustration)
+
+You and several other Officers will be going to London, to convince parliament, and more importantly public opinion, that it is necessary to pursue this campaign with the utmost vigour. Do you have any questions?
+
+DURRANCE
+
+Yes Sir, why me?
+
+HAMILTON pauses. Then almost mischievously:
+
+COLONEL HAMILTON
+
+Because you're a hero.
+
+DURRANCE
+
+With all due respect Sir, I don't think we've been fighting long enough to have any heroes in this campaign.
+
+COLONEL HAMILTON
+
+That's my point. It's all about perception.
+
+DURRANCE sees there's no point discussing it further. He salutes and turns to leave.
+
+COLONEL HAMILTON
+
+A question Lieutenant?
+
+DURRANCE
+
+Yes Sir?
+
+COLONEL HAMILTON
+
+What is it you like about this place?
+
+DURRANCE chooses his words carefully.
+
+DURRANCE
+
+The freedom Sir. The fact that one is reduced to what one really is.
+
+COLONEL HAMILTON smiles softly, wondering if Durrance is insulting him, not giving a damn.
+
+EXT. desert between EGYPT and sudan - day.
+
+A searing white sun hangs over the desert. Somewhere amidst the rolling dunes and floating dust we see a caravan of camels, winding its way through the plateau.
+
+EXT. caravan/ desert between egypt and sudan - day.
+
+HARRY rides at the front of the caravan with GUSTAVE, a sun blackened french slave-driver. Behind them ride SAADI, his Dinka assistant, and three beautiful DINKA SLAVEGIRLS. 
+
+gustave
+
+...The British soldiers rent my girls off me for three dhirrams an hour. Well worth the trip to Suakin. 
+
+HARRY smiles distractedly. His eyes are fixed on the majestic landscape before him, miles and miles of rolling desert.
+
+gustave
+
+(Recognising the first time awe one feels for the desert)
+
+Don't fall in love too quickly. Nothing turns on you like the sand.
+
+He looks back at the DINKA SLAVEGIRLS, who are whispering amongst themselves.
+
+gustave 
+
+Shut up!!... 
+
+(To Saadi)
+
+Keep them quiet! What do I pay you for?!
+
+SAADI says something to the SLAVEGIRLS in their native Dinka tongue. From the deference in his voice it's clear the women are from a higher caste than him.
+
+EXT. desert between EGYPT and sudan - day.
+
+A breeze blows sand-drifts across the desert floor. As a veil of dust clears, HARRY sees the bones of a camel, forming a perfect skeleton on the floor.
+
+gustAVE
+
+Bones are a good sign. We must be near a well.
+
+EXT. well/ desert between EGYPT and sudan - day.
+
+The skeletons lie thick around the well: six or seven men in Bedu Robes, sprawled within yards of the precious water. 
+
+gustave
+
+(As Harry stares at the bones)
+
+What else is there to fight for in a desert. At least it makes sense of war.
+
+SAADI hoists some water up in a goatskin canteen.  He offers the canteen to GUSTAVE. The French slave-driver is about to take a drink when he hears one of the DINKA SLAVEGIRLS murmuring in her native tongue. He wheels his camel around angrily.
+
+gUSTAVE 
+
+(To Saadi)
+
+What did she say?
+
+Before SAADI can make an excuse  for her, the DINKA SLAVEGIRL starts cursing in her native tongue, her eyes fixed on GUSTAVE. 
+
+GUSTAVE lashes out with his whip. The SLAVEGIRL's camel rears, throwing her to the floor. GUSTAVE rides towards her, raising his whip, ready to beat her.
+
+HARRY's camel suddenly lurches between them. At first it looks like he's lost control of the animal, but as he steadies his mount, it becomes clear he's put himself in Gustave's way.
+
+GUSTAVE sneers. With inch perfect skill, he starts to circle HARRY, trying to get a clear view of the girl. With equal skill, HARRY twists his own camel round, keeping her blocked from him at every turn. 
+
+GUSTAVE grows impatient. He raises his whip, threatening Harry. HARRY doesn't flinch. His eyes are fixed on Gustave the whole time. Finally GUSTAVE backs down, intimidated by the mysterious stranger. He stares at HARRY, half in anger, half in admiration.
+
+gustave
+
+You ride well.
+
+With that he rides his camel back to the well. The DINKA SLAVEGIRL doesn't look at HARRY. She's too proud to acknowledge his help.
+
+INT. cave/ desert between EGYPT and sudan - night.
+
+A howling sandstorm blows outside the cave. The camels screech in the night, terrified by the wind. SAADI and the DINKA GIRLS shelter in the furthest corner of the cave. HARRY and GUSTAVE sit by a flickering fire. 
+
+gUSTAVE
+
+...What's your secret? Anyone who talks as little as you do must be hiding something? Did you kill a man? 
+
+HARRY prods the fire, ignoring him. GUSTAVE turns around as he hears SAADI and one of the DINKA GIRLS whispering.
+
+guSTAVE 
+
+Taiser vouz!
+
+Silence. GUSTAVE turns back to HARRY, looking pleased with himself.
+
+guSTAVE
+
+You have to break them. For their own good. They'll only be happy again when they forget what it's like to be free.
+
+(He looks at Harry mischievously)
+
+It's like a man who's been thrown over by a woman. At first he's defiant, then he's determined, but finally he longs to forget.
+
+HARRY gets up and walks to the other side of the cave. He hears GUSTAVE chuckling behind him.
+
+gUSTAVE
+
+...Any secrets you have, the desert will find you out.
+
+EXT. PASS/ CLIFFS/ desert between EGYPT and sudan - night.
+
+A screaming gale howls through the desert pass.
+
+INT. cave/ desert between EGYPT and sudan - night.
+
+It isn't the storm that wakes HARRY up, but the sound of whispering. GUSTAVE is snoring by the fire.  HARRY looks past him. He sees SAADI and the DINKA SLAVEGIRL he rescued earlier, lying in each other's arms, making love as quietly as they can. 
+
+HARRY can't help staring. Their act seems to represent the ultimate defiance, he ultimate affirmation of their freedom. He feels a spark of hope in their hope. 
+
+SAADI and the DINKA SLAVEGIRL finally come to rest in each other's arms. HARRY listens as they continue to whisper in their native tongue. He's about to close his eyes when suddenly the DINKA SLAVEGIRL gets up.
+
+HARRY watches curiously as she walks across the cave. She picks something off the floor. As she walks towards GUSTAVE HARRY suddenly sees that it's a sharp jagged rock. 
+
+Before HARRY can say anything the girl falls to her knees and buries the rock deep into GUSTAVE's face. Almost simultaneously HARRY feels a sharp crack on the back of his head. He rolls away instinctively, but to no avail. 
+
+The blows rain down. As he tries to protect his face, HARRY sees SAADI, holding a thick wooden club over him. The club hammers down, splitting Harry's fingers, tearing into his face, knocking any resistance out of him. 
+
+As he stares up listlessly, HARRY sees SAADI standing over him, ready to finish him off. Suddenly a voice rings out, a woman's voice, calling Saadi off.  HARRY's eyes drift away.
+
+INT. ARMY/NAVY CLUB - LONDON - day.
+
+We see ETHNE's face now, staring out. For a moment we think she's part of Harry's dream, but then the familiar noises of reality fade in, and we realise she's amongst a crowd of OFFICERS and JOURNALISTS, listening to DURRANCE lecturing about the Sudan:
+
+DURRANCE
+
+(Aware she's in the audience)
+
+...Each moment we delay, we imperil General Gordon's life. The Mahdi is concentrating all his forces on Khartoum. At most the garrison can hold out for a few more weeks...
+
+EXT. ARMY/NAVY CLUB - LONDON - day.
+
+DURRANCE stands at the club entrance with ETHNE and her friend, CAROLINE ADAIR. 
+
+ETHNE
+
+...Caroline read about your lecture in the Times. We're both very proud of you.
+
+DURRANCE
+
+I'm glad you came. 
+
+DURRANCE tries not to stare at ETHNE too hard. 
+
+CAROLINE
+
+...We have to be somewhere this afternoon, but if you're free this evening Lieutenant Durrance...
+
+DURRANCE
+
+I'm afraid I have to give another talk.
+
+ETHNE
+
+(Suddenly)
+
+Would you mind if I didn't come with you Caroline? I don't know the Gilby's all that well...
+
+CAROLINE hesitates. We see the reluctance in her eyes, but she's far too dignified to show it.
+
+CAROLINE
+
+You can do whatever you like, darling.
+
+EXT. LONDON/ STREET - day.
+
+DURRANCE and ETHNE walk along a crowded street. Passing WOMEN glance admiringly at DURRANCE in his uniform.
+
+ETHNE
+
+That's six I've counted.
+
+DURRANCE
+
+Six what?
+
+ETHNE
+
+Six married women, gawping at you.
+
+DURRANCE smiles shyly, wondering if she's flirting with him. 
+
+INT. tea shop/ LONDON - day.
+
+A tinkle of china and cutlery. ETHNE and DURRANCE sit in a tea shop. ETHNE can't help sending up the place. She dabs her lips with her napkin, pretending to be all prim and proper.
+
+DURRANCE
+
+Do you want to go somewhere else?
+
+ETHNE
+
+No, it's lovely here. I'm teasing.
+
+DURRANCE looks out of place in the surroundings, and nervous around ETHNE.
+
+ETHNE
+
+(Trying to put him at ease)
+
+I want to hear all about the desert?
+
+She leans towards him, like a child waiting to hear a tale. DURRANCE isn't sure if she's aware of the effect on him.
+
+DURRANCE
+
+It grows on you. There's something about all that emptiness that concentrates the mind.
+
+ETHNE
+
+(Looking into his eyes)
+
+On what?
+
+DURRANCE
+
+(He hesitates)
+
+You spend a lot of time thinking about the people you miss -- especially at night -- You have the most vivid dreams, it's hard to believe they're not real...
+
+He stops as he sees the sadness in her eyes, reminded of the barrier between them.
+
+DURRANCE
+
+Have you heard from Harry?
+
+ETHNE
+
+(A beat)
+
+No. Have you?
+
+DURRANCE
+
+I went to see General Feversham. He refused to discuss it with me. 
+
+ETHNE
+
+I know they had a falling out. 
+
+She tries to sound casual, but DURRANCE feels how much the thought of Harry still pains her.
+
+DURRANCE
+
+(Testing her, almost in spite of himself)
+
+He's one of the people I think about all the time.
+
+ETHNE
+
+(Very deliberately)
+
+I don't as much as I used to.
+
+(Looking up at Durrance)
+
+I certainly wasn't until you brought him up.
+
+There's a touch of reproach in her eyes, but also something flirtatious. It's as if she's forcing herself to put Durrance above Harry in her thoughts. 
+
+ETHNE
+
+When do you go back?
+
+DURRANCE
+
+Friday.
+
+ETHNE
+
+So soon?
+
+DURRANCE isn't sure how to read her disappointment. He feels conflicted about Harry, but he can't help being drawn to her.
+
+DURRANCE
+
+(Awkwardly)
+
+Are you sure I can't persuade you to stay in London a few more days? Listen to more of my boring lectures...
+
+ETHNE
+
+I thought the talk was fascinating.
+
+DURRANCE
+
+(Steeling himself)
+
+I really would like to see you again before I leave.
+
+There's something touching about Durrance's shyness: a contradiction between the fearless warrior and the tentative lover. ETHNE feels torn, but she wills herself on:
+
+ETHNE
+
+(Lightly, but acknowledging his invitation nevertheless)
+
+You could always visit us in Bintree. 
+
+She feels her eyes drifting away from him, but she forces herself to look back, and holds his gaze.
+
+INT. cave/ desert between EGYPT and sudan - day.
+
+HARRY opens his eyes painfully. His face is still battered and swollen from Saadi's beating. As he picks himself up he sees Gustave's body, lying exactly where the Dinka slavegirl killed him, the jagged rock still embedded in his face. HARRY looks away as he hears a camel whinnying outside.
+
+EXT. cave/ desert between EGYPT and sudan - day.
+
+The camel is tied by some rope to a jutting rock, a goatskin canteen slung over its back. HARRY realises the Dinka girl he rescued has left them for him. He looks over the horizon. There's no sign of the Dinkas, only the vast desert waste.
+
+EXT. DUNES/ desert between EGYPT and sudan - day.
+
+HARRY urges his camel up the steep slope of a crescent dune. His battered face is burnt raw by the sun, his skin covered in blisters. He looks out hopefully as his camel finally conquers the sandy peak, but all he sees in its place are miles and miles of rolling dunes. 
+
+EXT. water trough/ desert between EGYPT and sudan - day.
+
+Harry's camel noses its way into a shallow water trough. HARRY almost drops off the animal in his haste to drink. He digs his hands into the mud and cups some of the precious liquid in his palms. It's only after he's drunk that he realises there are dozens of tics, stuck to his arms, and face. 
+
+EXT. desert between EGYPT and sudan - night.
+
+HARRY shivers in the cold night air, partly from the wind, but also from the fever he's caught off the tics. Hands trembling, he burns the blood gorged insects off his arm with a glowing stick from the camp-fire.
+
+EXT. shingles/ desert between EGYPT and sudan - day.
+
+HARRY's camel rears as it treads over the searing shingles. He topples off. Eyes half shut, he grabs the reins, making sure the camel doesn't run off. He takes a knife from his pocket.
+
+harry
+
+...I'm sorry, I'm sorry...
+
+He cuts a slash in the camel's hide and puts his mouth to it. He sucks up what little blood he can, and rolls the liquid around his mouth.
+
+EXT. desert between EGYPT and sudan - night.
+
+HARRY talks to himself in the dark. His face is all puffed up with fever, his hair chalked with dust. Above him the stars glimmer, promising another day of relentless sun.
+
+EXT. DESERT HILLS/ desert between EGYPT and sudan - day.
+
+HARRY lies unconscious on the camel's back, roped to the animal. The CAMEL noses it's way through the desert floor, coming across a few shrubs. It tears them out of the earth, and starts up the hill, in search of more nourishment. HARRY slides precariously down the camel's back. Only the ropes hold him tight. As the camel finally reaches the top we see a vast plateau open up before us. The earth is still desert brown, but there are patches of green now -- and somewhere in the distance, the sky is blackening with rain.
+
+EXT. STREETS OF SUAKIN/ SUDAN - night.
+
+A torrential downpour floods the narrow streets of Suakin. A group of excited BEGGAR BOYS lead HARRY and his camel through the rain swept alleyways.
+
+EXT. LOCAL HOTEL/ SUAKIN/ SUDAN - night.
+
+HARRY lies shivering on a bunk bed, overwhelmed by fever. An ARAB DOCTOR treats his ravaged skin with balm. Behind them the BEGGAR BOYS argue with the ARAB HOTELIER, demanding more money for bringing the foreigner here. 
+
+ARAB DOCTOR
+
+English?
+
+HARRY shakes his head no.
+
+EXT. marketplace/ STREETS OF SUAKIN/ SUDAN - day.
+
+Sunlight dries out the previous night's storm. HARRY wanders through the marketplace, wearing long Bedu robes now, limping from his desert ordeal. PASSERSBY pull away as they see his face, mistaking the open blisters for leprosy. 
+
+EXT. RIVERBANK NEAR THE BRITISH CAMP/ SUAKIN/ SUDAN - day.
+
+A crocodile rears out of the water and tears a lump of meat off a hook. It disappears back under the surface, avoiding the trap. There's a cry of disappointment from the riverbank. A group of LOCAL CHILDREN are trying to catch the beast. TRENCH is their leader. CASTELTON smiles at his friend's antics.
+
+treNCH
+
+...Don't give up lads. Give the old porker another whack.
+
+The BOYS have tied a pig to a stake, outside the water. They beat it with a paddle until it whines. Hearing the noise, the CROCODILE rears its head, and sweeps towards the remaining lump of meat on the hook. 
+
+TRENCH and the BOYS swarm around the river expectantly. In their excitement they fail to notice the shrouded FIGURE watching them from the distance. It's HARRY, hidden beneath his Bedu robes. He gazes at his two friends longingly. Finally one of the BOYS sees him, and thinking he's a leper, starts throwing stones:
+
+sudanese boy
+
+Imshi, imshi.
+
+The other BOYS join in, yelling insults. TRENCH and CASTELTON pay no attention. They have no idea who it is. 
+
+HARRY steps back slowly, the pebbles landing at his feet, still gazing at his friends. He knows he doesn't have the courage to face them yet, that it's too soon.
+
+INT. HAMILTON's TENT/ BRITISH CAMP/ SUAKIN/ SUDAN - night.
+
+Colonel Hamilton's tent is lit in torchlight. Dozens of OFFICERS mill about, celebrating their orders to march on Khartoum. 
+
+A MAJOR FROM ANOTHER REGIMENT
+
+...It's hard to imagine anyone changing the Prime Minister's mind.
+
+COLONEL HAMILTON
+
+Even he reads the papers. They told him if he didn't send us to Khartoum he'd be indicted for murder...
+
+There's laughter all around. Across the tent, DURRANCE stands on his own, feeling out of place. WILLOUGHBY arrives with two drinks.
+
+wILLOUGHBY
+
+You're quite the hero tonight.
+
+DURRANCE
+
+The Colonel seems to be taking a fair bit of credit.
+
+They smile as they watch COLONEL HAMILTON holding forth.
+
+wILLOUGHBY
+
+So you had a good time in London?
+
+DURRANCE
+
+Better than I thought.
+
+wILLOUGHBY
+
+(Trying to make it sound casual)
+
+Did you look up Harry?
+
+DURRANCE
+
+(Hesitating)
+
+Nobody knows where he is.
+
+wILLOUGHBY
+
+Not even Ethne?
+
+DURRANCE
+
+(A little put out)
+
+Why should she? She's broken off their engagement.
+
+WILLOUGHBY notices the edge in his voice but doesn't say anything. DURRANCE feels a touch of guilt, surprised by his own jealous reaction. 
+
+INT. HARRY's ROOM/ LOCAL HOTEL/ SUAKIN/ SUDAN - night.
+
+HARRY studies his face in the mirror: his blisters have dried into tough leathery skin, his eyes are hollow from recent hardships. He whispers to himself in broken Arabic, and dips his fingers into a dark, mud like substance. He applies it to his hair, his beard, and his teeth.
+
+EXT. COOLIES/ BRITISH CAMP/ SUAKIN - day.
+
+Long lines of DESERT AFRICANS have gathered outside the British camp, looking for work as coolies. There are Nuers, Dinkas, Somalis, Ethiopians, all of them wearing different clothes, and speaking different languages. Somewhere amongst them, we see HARRY, disguised in his Bedu robes. He's being examined by a BRITISH SEARGENT-MAJOR and an EGYPTIAN ORDERLY.
+
+BRITISH SEARGENT-MAJOR
+
+Tell him to remove his shirt.
+
+HARRY waits for the ORDERLY to translate before he opens his robes. His body is lean and tanned and scarred.
+
+BRITISH SEARGENT-MAJOR
+
+(Impressed by his physique)
+
+This one's been in the wars. Let me see his teeth.
+
+Again HARRY waits for the Arabic translation before he opens his mouth.
+
+BRITISH SEARGENT-MAJOR
+
+Good bones. Put him on the boats.
+
+HARRY is ushered off. As he walks away he hears an argument start up behind him. The EGYPTIAN ORDERLY is protesting to the SEARGENT MAJOR about hiring a fierce looking NUBIAN warrior.
+
+EGYPTIAN ORDERLY
+
+...This man comes from a race of slaves. They have blood feuds with everyone. If you arm him it will mean trouble. None of the Egyptian soldiers will serve with him.
+
+The NUBIAN stares ahead in silence, expressionless.
+
+BRITISH OFFICER
+
+Alright, put him on the boats.
+
+The NUBIAN falls into line, behind HARRY.
+
+EXT. DRILL AREA/ BRITISH CAMP/ SUAKIN - day.
+
+WILLOUGHBY barks orders at the EGYPTIAN RESERVES, drilling them before departure. DURRANCE, TRENCH, AND CASTELTON walk out of their tent, imitating him.
+
+EXT. COOLIES/ BRITISH CAMP/ SUAKIN - day.
+
+HARRY watches his friends from afar. He sits amongst the COOLIES, holding out his soup bowl, waiting to be fed. The NUBIAN squats opposite him. HARRY can't help staring at the long white ostrich feather in his hair. 
+
+The EGYPTIAN ORDERLY arrives and pours a rancid looking gruel in HARRY's bowl. He turns to the NUBIAN.
+
+EGYPTIAN ORDERLY
+
+(In Arabic)
+
+Is this good enough for you slave?
+
+The NUBIAN ignores him. The ORDERLY spits in the gruel before handing it to him.  The NUBIAN takes it, and calmly downs it in one. The ORDERLY moves on in disgust. The NUBIAN looks at HARRY. HARRY braces himself and swallows the stew. 
+
+EXT. CATARACTS of the nile/ sudan - day.
+
+A heavy current rushes through the waters of the Nile. The cataracts are full of treachorous rocks, jutting out in all shapes and sizes. HARRY is force-marched with the other COOLIES, prodded on by the EGYPTIAN OVERSEERS. They drag the British supply boats through the cataract by hand, pulling on huge hemp ropes. 
+
+In front of HARRY, the NUBIAN is being singled out for punishment. The EGYPTIAN ORDERLY lashes him repeatedly. The NUBIAN keeps pulling, ignoring the stinging pain. He looks back at the ORDERLY as if to say; "Is that all you've got?"
+
+EXT. SUPPLY BOAT/ CATARACTS of the nile/ sudan - day.
+
+A supply boat rushes down a steep incline in the river.  TRENCH yells at the top of his voice as the spray hits his face. CASTELTON stands beside him, staring at the banks of the Nile, watching the hundreds of COOLIES, dragging their boat through the cataracts.
+
+EXT. COOLIE CAMP/ CATARACTS of the nile/ sudan - night.
+
+Drum beats fill the night sky. The reflection of the coolies' camp-fires glistens over the black water. Some are singing, others praying, but most lie fast asleep. HARRY sits on his own, warming himself by a fire, his body wracked with pain. As he reflects he hears the gentle tread of feet. He looks up to see the NUBIAN staring at him. The man squats down beside his campfire without asking.
+
+nubian (Abou fatma)
+
+(In English)
+
+My name is Abou Fatma.
+
+haRRY
+
+(Shaking his head as if he doesn't understand)
+
+Bedu.
+
+ABOU FATMA
+
+I was a scout for General Hicks.
+
+harry
+
+Arabi --
+
+ABU FATMA suddenly launches into a flurry of fluent Arabic. HARRY stares at him in silence, unable to respond.
+
+ABOU FATMA
+
+There are many in this camp who would serve the Mahdi. When they find out there is a British spy amongst them, watching them, they will kill him. 
+
+(Quietly mocking)
+
+It won't be long, Bedu.
+
+He turns to leave. HARRY hesitates, then:
+
+harry
+
+Shoukran.
+
+ABOU FATMA
+
+(Correcting his Arabic)
+
+Shoukhran.
+
+Their eyes stay on each other a moment.
+
+harry
+
+(Finally speaking in English)
+
+Why do you warn me?
+
+ABOU FATMA
+
+For money.
+
+harry
+
+I can't pay you.
+
+ABOU FATMA
+
+I can't help you.
+
+HARRY smiles. He gazes at the mercenaries's powerful features, and the long white feather in his hair.
+
+harrY 
+
+What's the feather for?
+
+ABOU FATMA
+
+The first time I killed a man.
+
+(Pointing to a feather earring in his left ear)
+
+Five men.
+
+(and an ivory bracelet on his wrist)
+
+Ten men.
+
+(He takes a beaded necklace out of his pocket)
+
+This I will wear soon. I'm a good soldier. I will protect you.
+
+HARRY stares at him a moment, then takes out a small box from his pocket. He shows ABOU FATMA the four white feathers inside. ABOU FATMA looks at them, unaware of the irony in Harry's gesture, thinking he's saying he doesn't need help. 
+
+ABOU FATMA
+
+(Gesturing to the welts on Harry's body)
+
+Underneath the flesh is white, and weak. Even if the Mahdi's men don't find you out, the whips will.
+
+harry
+
+I'll pay you one shilling a day.
+
+ABOU FATMA
+
+No.
+
+ABOU FATMA gets up, and walks away. HARRY can't help smiling as he stares after him.
+
+EXT. COOLIE CAMP/ CATARACTS of the nile/ sudan - day.
+
+Screams of agony fill the air. The EGYPTIAN ORDERLY lies in a pool of blood, his belly sliced open, holding his guts in his hands. 
+
+HARRY stands amongst the gathered crowd, watching horrified, as a BRITISH OFFICER kneels beside the dying man.
+
+BRITISH OFFICER
+
+Who did this to you? Who did this?
+
+The EGYPTIAN ORDERLY tries to speak, but all that comes out of his mouth is a froth of blood. His tongue has been cut out. HARRY looks around the crowd until he sees ABOU FATMA. The Nubian's eyes are expressionless. Around his neck he wears the beaded necklace now. 
+
+EXT. CATARACTS of the nile/ sudan - day.
+
+The white sails of the British supply boats float through the hazy water. On the riverbank HARRY and the hundreds of other COOLIES drag them along. The OVERSEERS glance at ABOU FATMA warily, but none of them dare raise a whip to him now.
+
+INT. DURRANCE's tent/ BRITISH CAMP/ CATARACTS - day.
+
+We can still hear the noise of the coolies outside. DURRANCE sits at a table, writing a letter. We glimpse the words: 'Dearest Ethne...' He stops as he hears a commotion outside.
+
+EXT. BRITISH CAMP/ CATARACTS - day.
+
+DURRANCE walks out of the tent. In the distance he sees a handful of ragged looking BRITISH OFFICERS being helped off their camels. As he stares more closely DURRANCE notices that many of them have terrible wounds. Those that can still walk are lead off to the commander's tent.
+
+EXT. general wolsey's tent/ BRITISH CAMP/ CATARACTS - day.
+
+GENERAL WOLSEY and COLONEL HAMILTON are bent over a map of the Nile, discussing their progress with their AIDE-DE-CAMPS. WILLOUGHBY looks up as he hears the WOUNDED OFFICERS being led into the tent. He stops as he sees the terrible state they're in. Even WOLSEY and HAMILTON look shocked.
+
+GENERAL WOLSELEY
+
+(Slowly rising, saluting)
+
+What is it?
+
+WOUNDED CAPTAIN
+
+A letter, sir... from General Gordon.
+
+WILLOUGHBY notices one of the WOUNDED OFFICERS has tears in his eyes.
+
+GENERAL WOLSELEY
+
+What happened to you?
+
+WOUNDED CAPTAIN
+
+We were ambushed, Sir. More than half our company were killed.
+
+GENERAL WOLSELEY
+
+See that these men are tended to. 
+
+AIDE-DE-CAMP
+
+Yes, sir.
+
+The WOUNDED OFFICERS are led out. WILLOUGHBY, like all the other Aide-de-Camps, looks dazed. GENERAL WOLSEY opens General Gordon's letter, and reads in silence. 
+
+GENERAL WOLSELEY
+
+(Finally looking up at Colonel Hamilton)
+
+Gordon says he can only hold out for forty more days. It took eleven for these men to get here.
+
+EXT. BRITISH CAMP/ CATARACTS - night.
+
+DURRANCE, WILLOUGHBY, CASTELTON, and TRENCH sit around a camp fire, trying to ignore the hideous cries of the wounded British soldiers coming from the hospital tent.
+
+wILLOUGHBY
+
+(Recounting what he's heard)
+
+...Wolsey's going to split the force. A River Column's going to continue down the Nile, whilst a Desert Column joins up with regiment at Abou Clea, and makes a dash for Khartoum. 
+
+The piercing screams start up again.
+
+trench
+
+Don't tell me, we've drawn the short straw.
+
+EXT. BRITISH CAMP/ CATARACTS - day.
+
+Silence hangs over the British camp. The COOLIES are lined up under the scorching sun. The EGYPTIAN OVERSEERS walk past them, selecting some for the desert march, others for the river march. HARRY stands next to ABOU FATMA. Across the camp he can see DURRANCE, TRENCH, CASTELTON, and WILLOUGHBY, preparing their camels for the overland trek.
+
+haRRY
+
+(Whispering to Abou Fatma)
+
+I need to travel with the desert detachment.
+
+ABOU FATMA
+
+Two Shillings.
+
+HARRY nods. The EGYPTIAN OVERSEER finally reaches them.
+
+EGYPTIAN OVERSEER
+
+(To Abou Fatma, in Arabic)
+
+We'll keep you on the river.
+
+ABOU FATMA
+
+(A calm, menacing look in his eyes)
+
+With you?
+
+The EGYPTIAN OVERSEER hesitates, remembering what happened to his friend:
+
+EGYPTIAN OVERSEER
+
+(Gesturing to the desert column instead)
+
+Over there.
+
+HARRY falls into line behind ABOU FATMA. The EGYPTIAN OVERSEER doesn't seem to care. He's too relieved to be rid of the Nubian.
+
+EXT. DESERT COLUMN/ BRITISH CAMP/ CATARACTS - day.
+
+The Desert Column has assembled, fourteen hundred strong. 
+
+SERGEANt at arms
+
+Column... FOR-WARD... march!
+
+DURRANCE, TRENCH, CASTELTON, and WILLOUGHBY, ride off at the head of the column.  Behind them, the COOLIES carry heavy loads, HARRY and ABOU FATMA bringing up the rear.
+
+EXT. DESERT lanscape/ sudan - day.
+
+A region of jutting cliffs and giant rock formations. The Desert column rides through a narrow pass. DURRANCE's eyes are fixed on the ridges above them, any one of which could be hiding a Dervish sniper or scout. 
+
+At the back of the column, HARRY's equally alert. He looks across the cliff walls. Suddenly he notices one of the COOLIES in front of him, listening intently to a high pitched whine coming from a nearby gorge.
+
+HARRY studies the man. He's a powerfully built NUER TRIBESMAN, yellow streaks running down his long black hair. Every time he hears the distinctive noise, he looks up, concentrating. HARRY edges closer to ABOU FATMA:
+
+harry
+
+(Indicating the whining)
+
+Do you recognise that sound?
+
+ABOU FATMA
+
+Mountain goats.
+
+HARRY doesn't look convinced. He stares at the NUER TRIBESMAN, walking ahead of them, glancing up from his heavy load every time he hears the distinctive cry.
+
+EXT. OPEN DESERT/ sudan - day.
+
+The wind blows gusts of sand into the camels' eyes. DURRANCE  stares through the shimmering heatwaves.
+
+DURRANCE
+
+There's a sandstorm coming.
+
+COLONEL HAMILTON looks at the clear blue sky, seeing nothing to indicate a storm, but trusting Durrance's instincts.
+
+EXT. DESERT CAMP - night.
+
+HARRY and the other COOLIES gather sticks and desert shrubs, building a makeshift wall around the camp. The wind has picked up, blowing thick gusts of sand in their faces. As they work in the darkness and the dust, HARRY hears the whining sound he heard earlier. It's quieter now, but closer. ABOU FATMA hears it too. 
+
+harry
+
+It's coming from inside the camp.
+
+They look around, but the dust obscures everything. The whining starts up again. HARRY concentrates until he thinks he knows where it's coming from. He checks to make sure the ORDERLIES aren't watching them, and then signals for ABOU FATMA to follow him. 
+
+EXT. EDGE OF THE DESERT CAMP - night.
+
+Through the drifting clouds of sand we see a FIGURE crouching near the camp perimeter. It's the NUER TRIBESMAN Harry noticed earlier. Every time the wind picks up he calls out to the surrounding cliffs in a high piched whine.
+
+HARRY and ABOU FATMA watch him from behind a wagon. ABOU FATMA draws a knife from his boot.
+
+haRRY
+
+We need to find out who he's signalling.
+
+ABOU FATMA replaces the knife reluctantly, and points to a makeshift corrall where the camels are gathered. 
+
+INT. TENT/ DESERT CAMP - night.
+
+The tent flaps blow in the storm. TRENCH, CASTELTON, and WILLOUGHBY shelter inside, sharing a bottle of whisky. DURRANCE sits apart from the others, reading a letter.
+
+treNCH
+
+Is that the same letter you read over and over again, or do you get a different one each day?
+
+DURRANCE
+
+(He can't help a smile)
+
+It's the same one, but it's twenty pages long.
+
+wILLOUGHBY
+
+He writes them to himself. Go on Jack, read us a line.
+
+DURRANCE
+
+Read your own.
+
+trench
+
+Don't be so coy, you're amongst friends.
+
+Grins all around. DURRANCE looks at letter and tempts them with a single line:
+
+DURRANCE
+
+"...I often think about our walks by the river..."
+
+He stops enigmatically to a chorus of protest:
+
+tRENCH
+
+More, more...
+
+DURRANCE hesitates, reluctant to break the confidence of a letter, but anxious to broach the subject with his friends.
+
+DURRANCE
+
+(Reading more quietly)
+
+"...Your letter surprised and delighted me...If I appear indecisive it's because I'm thinking of both of us...In the meantime I hope the length of my reply gives you some assurance of how very much I care about you..."
+
+DURRANCE lowers the letter and looks at his friends.
+
+treNCH
+
+So who's the lucky lady?
+
+DURRANCE
+
+(After a moment)
+
+Ethne...I've asked her to marry me...You probably gathered that from the letter.
+
+There's a long silence. Astonishment. Then suddenly TRENCH raises his glass and roars. 
+
+treNCH
+
+Congratulations.
+
+wILLOUGHBY
+
+That's fantastic Jack. 
+
+DURRANCE
+
+She hasn't said yes.
+
+trench
+
+Of course she will: "I hope the length of  this reply gives you some idea of how much I bloody love you."
+
+DURRANCE
+
+"How much I care about you."
+
+treNCH
+
+Same thing.
+
+TRENCH fills his glass to the brim. DURRANCE laughs, relieved that his friends have taken it so well. It's only as he drinks that he catches a hint of disapproval in CASTELTON's eyes. CASTELTON raises his glass, trying to hide his feelings, but DURRANCE sees through him. The moment is interrupted by loud shouting outside:
+
+BRITISH CORPORAL o/s
+
+...Something's up with the camels.
+
+CASTELTON
+
+I'll go.
+
+CASTELTON looks relieved to leave the tent, worried that his conflicting emotions will betray him. DURRANCE stares after him, not entirely free of the memory of Harry himself.
+
+EXT. DESERT CAMP - night.
+
+CASTELTON follows the CORPORAL through the windswept camp. Up ahead they can hear the camels screeching. CASTELTON covers his eyes from the dust. Suddenly he sees the silhouettes of two RIDERS, charging out of the corral. One of them stops and stares at him momentarily.
+
+CASTELTON
+
+(He can't see the man's face clearly, but his outline seems hauntingly familiar)
+
+Harry?
+
+The RIDER turns and charges out of the camp. The CORPORAL blows a whistle, reaching for his gun, firing after them. CASTELTON stares at the disappearing figures, wondering if what he saw was real, or a figment of his troubled conscience. 
+
+EXT. HILLS ABOVE THE DESERT CAMP - night.
+
+HARRY and ABOU FATMA ride up a steep hill, shots ringing out behind them. 
+
+EXT. RIDGE ABOVE THE DESERT CAMP - night.
+
+As the sands sweep past we see the Mahdi's scouts for the first time: four NUER TRIBESMEN, standing on a ridge, looking down on the British campfires below. As they hear the shots, they turn away from the cliffside, and mount their camels.
+
+EXT. VIEW FROM A CLIFF/ DESERT - day.
+
+The sand storm is still blowing, obscuring the sun. In the distance, the tiny figures of the NUER SCOUTS, can be seen riding across the arid sandscape. HARRY and ABOU FATMA watch them from the cliffs, and set off in pursuit.
+
+EXT. ridge/ VIEW on NUER's campfire/ DESERT - night.
+
+The Nuer's camp-fire glows far below on the valley floor. HARRY and ABOU FATMA have built their own fire in a crevice on the cliff wall, hidden from view. HARRY's eyes are fixed on the Nuer scouts, ABOU FATMA's are fixed on him. 
+
+ABOU FATMA
+
+Why would a British spy be hiding from his own people?
+
+HARRY looks up at the Nubian, realising he can't keep up the pretence any longer.
+
+hARRY
+
+Because I'm not a spy.
+
+ABOU FATMA
+
+You're a deserter?
+
+harry
+
+(A long pause)
+
+Something like that. I was sent to fight, and I ran away.
+
+ABOU FATMA considers this for a moment.
+
+ABOU FATMA
+
+All soldiers run away. Only the good ones return.
+
+HARRY smiles.
+
+harry
+
+Shoukran.
+
+ABOU FATMA
+
+Shoukhran.
+
+HARRY looks away. Down below the Nuer's camp fire goes out.
+
+EXT. OPEN DESERT - night.
+
+The moonlight colors the dunes in blues and greens. HARRY and ABOU FATMA follow the Nuers' tracks through the virgin sands.
+
+EXT. crest of A hill/ OPEN DESERT - day.
+
+The sunrise casts a blood red light over the horizon. The four NUER SCOUTS appear on the crest of a hill. We see them clearly now, their long black hair streaked yellow, their faces painted ghostly white. They survey the land beneath them and gallop off. 
+
+EXT. THE same HILL/ desert - day.
+
+ABOU FATMA and HARRY walk their camels quietly up the hill, following the Nuers' hoofprints. As they reach the top of the dune a vast plateau opens up beneath them. They see the NUER SCOUTS, riding along a winding trade route. At the end of the desert road stands a huge fortress.
+
+ABOU FATMA
+
+That is Abou Clea. A British fort.
+
+HARRY stares after the Nuer scouts, wondering why they're heading back into a British stronghold. The four riders merge into one of the caravans that dot the landscape.
+
+EXT. CARAVAN/ TRADE ROUTE TO ABOU CLEA - day.
+
+A long line of DINKA REFUGEES walk alongside one of caravans, begging for food. HARRY and ABOU FATMA ride near the back, their faces hidden by their Djellabas. 
+
+EXT. FORTRESS OF ABOU CLEA - night.
+
+A village of tents has spread around the fortress walls. More STARVING REFUGEES clamour at the gates. HARRY gazes up at the garrison walls. BRITISH SENTRIES can be glimpsed high up. The fortress gates creak open to let the caravan through. HARRY lowers his eyes as he rides past the guards.
+
+EXT. courtyard/ FORTRESS OF ABOU CLEA - night.
+
+As he looks up again, HARRY suddenly feels a rush of panic. The fortress courtyard is filled with DERVISH WARRIORS. There are no British faces anywhere. HARRY glimpses a familiar red uniform, but as he stares more closely, his relief turns to horror. The British uniform is stained with blood. Wearing it is a fierce looking DERVISH WARRIOR with long braided hair. 
+
+HARRY looks back at the ramparts. All the soldiers he thought were British sentries are in fact Dervish warriors, wearing the bloody uniforms of their victims. As he turns around, HARRY sees the worst sight of all. Hanging from scaffolds, are the chalk white bodies of the real British soldiers. 
+
+HARRY is shaken out of his horror by a sharp hissing sound. ABOU FATMA glares at him to keep calm. DERVISH WARRIORS grab hold of their camels, and lead them with the rest of the caravan towards the stables. 
+
+INT. stables/ FORTRESS OF ABOU CLEA - night.
+
+HARRY and ABOU FATMA tether their camels. Behind them the DERVISH WARRIORS unload the caravan's shipment of rifles.
+
+ABOU FATMA
+
+(Whispering to Harry)
+
+Follow me out. 
+
+HARRY nods, still in shock. ABOU FATMA turns around and heads out of the stables, unchallenged.
+
+EXT. courtyard/ FORTRESS OF ABOU CLEA - night.
+
+HARRY follows ABOU FATMA through the crowded courtyard. His eyes are drawn to the torchlit faces all around him. The Mahdi's army is made up of dozens of different tribes: some in glowing war paint, others marked with ritual scars, wearing the dried viscera of their victims around their necks. The Dervishes' eyes seem to follow HARRY wherever he goes, staring out at him through their slit Djellabas. Suddenly HARRY feels a pair of hands grab him. He wheels around to see a huge DERVISH CAPTAIN towering over him. 
+
+DERVISH CAPTAIN
+
+(In Arabic, studying Harry's features)
+
+Come with me.
+
+ABOU FATMA
+
+(In Arabic)
+
+Our caravan is waiting outside.
+
+DERVISH CAPTAIN
+
+(Waving Abou Fatma away)
+
+Imshi!
+
+ABOU FATMA murmurs something to HARRY in his native Nubian tongue, slipping in the English words: 'I'll find you.' 
+
+DERVISH CAPTAIN
+
+(To Harry, in Arabic)
+
+Follow me!
+
+EXT. gallows/ courtyard/ FORTRESS OF ABOU CLEA - night.
+
+HARRY's heart is pounding as he walks back through the hellish courtyard. He isn't sure if the DERVISH CAPTAIN has realised he's British. It's only as he points HARRY towards the gallows that he realises the predicament he's in.
+
+DERVISH CAPTAIN
+
+(In Arabic; gesturing to a mound of British dead)
+
+Over there.
+
+HARRY hesitates, then walks over to the pile of British corpses, convinced he's going to be shot amongst them. 
+
+DERVISH CAPTAIN
+
+(In Arabic; gesturing to the uniforms)
+
+Find one that fits.
+
+HARRY stares at him, then slowly begins to understand. He's been picked out as a pale looking Arab, one that might pass as a British officer from a distance. As he looks around he sees other DESERT ARABS, grinning at him, wearing their own blood stained British uniforms.
+
+HARRY kneels beside the slaughtered British soldiers. One of them still has his pipe stuffed between his teeth. As HARRY stares at the obscenity, his fear slowly turns to anger. With trembling fingers he unbuttons the dead man's jacket. As he slips the bloodstained British uniform over his shoulders we begin to see the change in his eyes.
+
+EXT. ABOU FATMA/ courtyard/ FORTRESS OF ABOU CLEA - night.
+
+ABOU FATMA wanders amongst the Dervish army, begging for alms, searching for Harry. Finally he spots him at the far end of the courtyard, sitting amongst the other DERVISH WARRIORS IN BRITISH UNIFORMS.
+
+EXT. HARRY/ courtyard/ FORTRESS OF ABOU CLEA - night.
+
+ABOU FATMA grovels at the feet of the DERVISHES, before he approaches HARRY.
+
+ABOU FATMA
+
+(In Arabic)
+
+Alms for the poor. 
+
+HARRY turns around. His eyes are distant. He looks back at the spot he was staring at before. At first ABOU FATMA thinks he's in shock, but then he sees what HARRY's looking at. Across the courtyard stands a large tent, surrounded by flags. Waiting outside, are the four NUER SCOUTS.
+
+ABOU FATMA
+
+(Beginning to see his intent)
+
+We have to leave.
+
+harry
+
+Wait for me at the gates.
+
+(As Abou Fatma starts to protest)
+
+Imshi.
+
+The other DERVISHES look at ABOU FATMA threateningly. ABOU FATMA gets up and walks away reluctantly. Across the courtyard, the NUER SPIES have been ushered into the tent.
+
+INT. WAR COUNCIL tent/ FORTRESS OF ABOU CLEA - night.
+
+The MAHDI, a tall, gaunt, warrior in desert robes, listens to the NUER SCOUTS in silence. As they notify him of the British advance, he starts to draw a battle plan on the tent's sandy floor. His LIEUTENANTS move closer to see what he's planning.
+
+INT. WAR COUNCIL tent/ FORTRESS OF ABOU CLEA - night.
+
+Outside the tent more DERVISH WARRIORS have gathered to catch a glimpse of their revered leader. HARRY is amongst them. He stares at the white clad figures within. Suddenly he feels a pair of eyes on him. He turns to see the DERVISH CAPTAIN who stopped him earlier, watching him intently. HARRY moves off. The DERVISH CAPTAIN stares after him suspiciously. 
+
+EXT. gates/ FORTRESS OF ABOU CLEA - night.
+
+ABOU FATMA waits anxiously outside the fortress gates. The hordes of STARVING BEGGARS are pushed back as a troop of DERVISH WARRIORS ride out, carrying the naked bodies of the British dead. ABOU FATMA stares after them, wondering what's going on.
+
+EXT. HARRY/ courtyard/ FORTRESS OF ABOU CLEA - night.
+
+HARRY looks behind him. Through the milling crowd he sees the DERVISH CAPTAIN, still following him. His heart pounding, HARRY heads towards the stables, trying to give him the slip.
+
+EXT. HARRY/ STABLES/ FORTRESS OF ABOU CLEA - night.
+
+Camels kick and snort in the stable. HARRY crouches down. Through the animals' legs he sees the DERVISH CAPTAIN enter.
+
+Suddenly the DERVISH CAPTAIN shouts at the top of his voice. The camels scatter, leaving HARRY exposed. The DERVISH CAPTAIN stares at him menacingly.
+
+HARRY bows, and starts to walk towards him, in supplication. His hand slips behind his back, groping for the knife that's hidden there.
+
+The DERVISH CAPTAIN barks at him to stay where he is. As he steps backwards, HARRY suddenly charges, and drives the dagger deep into his gut. The DERVISH CAPTAIN screams, but all that comes out is a terrible hissing sound. 
+
+HARRY clamps his hand over the CAPTAIN's mouth and bends his head backwards. As they tumble to the ground, HARRY twists the knife in deeper. The Dervish bites down in agony, drawing a stream of blood from Harry's knuckles. HARRY rams his fist deeper into the man's throat, choking him slowly. Meanwhile his knife hand tears its way out of the Dervish's gut, and plunges back into his thigh.
+
+The CAPTAIN's eyes water in pain and fear. HARRY stares at him, crushing his spirit with his own unflinching gaze. As he feels the man's grip weaken, he pulls away sharply, and swings the knife down with all his force. The blade sticks in the DERVISH CAPTAIN's chest, sending his eyes spinning out of focus, forcing a rush of blood out of his mouth.
+
+HARRY watches in horror, as the man's eyes roll around, desperately trying to find their focus, then stop still. He feels his enemy's dying breath on his face, and hears a horrible sucking sound, as he withdraws the knife. 
+
+HARRY's arm is elbow deep in gore. He turns away and tries to retch, but nothing comes out. He stays like that for a moment, bent over the bloody sand, contemplating what he's just done. Finally he gathers himself, grabs the dead man by the ankles, and drags him further into the stable.
+
+EXT. courtyard/ FORTRESS OF ABOU CLEA - night.
+
+HARRY brushes past the crowds of DERVISH WARRIORS, his eyes fixed on the fortress gates ahead. He's only a few yards away, when a DERVISH SENTRY calls out:
+
+DERVISH SENTRY
+
+(In Arabic)
+
+The gates are closed.
+
+HARRY stares at him dangerously. For an instant it looks like another fight may ensue, but then a calming voice calls out:
+
+ABOU FATMA
+
+(In Arabic)
+
+Let him give us alms. It will bring you both fortune in battle.
+
+ABOU FATMA sticks his hands through the fortress gates, along with the hundreds of other BEGGARS outside. HARRY begins to understand. He pulls out some coins from his robes, and approaches the BEGGARS. 
+
+harry
+
+(Whispering to Abou Fatma, as he hands out alms)
+
+Go to the British camp. Tell them they're going to be ambushed. Tell them they have to change their route. It's a trap...
+
+ABOU FATMA stares into HARRY's eyes, seeing the change that's come over them.
+
+EXT. BRITISH COLUMN/ DESERT VALLEY - day.
+
+DURRANCE rides at the front of the column. He suddenly stops, and stares ahead in horror. All across the desert floor he sees the marble white bodies of dead British soldiers. Wild dogs chew at their remains. The whole of the column seems frozen for a moment. Then TRENCH suddenly breaks rank, and charges the animals, screaming at the top of his voice, dispersing them with his whip.
+
+EXT. tents/ THE SLOPE OF A HILL/ DESERT VALLEY - day.
+
+The column has set up camp until their dead comrades are buried. The OFFICERS dig the graves themselves, watched by the COOLIES now. A CORPORAL approaches WILLOUGHBY and salutes.
+
+CORPORAL
+
+A native to see you, sir. He says he has some intelligence regarding the route we're on.
+
+ABOU FATMA is pushed forward by the EGYPTIAN SOLDIERS.
+
+wILLOUGHBY
+
+(Eyeing him suspiciously)
+
+What intelligence?
+
+ABOU FATMA
+
+You must leave this area. 
+
+The EGYPTIAN silences him with a slap to the head.
+
+EGYPTIAN CORPORAL
+
+This man is lying. He's a deserter. He stole the camels --
+
+ABOU FATMA
+
+-- I went to Abu Klea. The Mahdi's forces have captured your garrison. They will attack you in this place.
+
+TRENCH and DURRANCE have arrived to see what's happening. TRENCH stares at ABOU FATMA menacingly, still seething over the treatment of the British dead. 
+
+wILLOUGHBY
+
+(To Trench and Durrance)
+
+This is their idea of misinformation.
+
+(Toying with Abou Fatma)
+
+Who told you this?
+
+ABOU FATMA
+
+A British Officer.
+
+wILLOUGHBY
+
+(Mockingly)
+
+A General no doubt.  What else did he tell you?
+
+ABOU FATMA
+
+(With equal disdain)
+
+That you wouldn't believe me.
+
+WILLOUGHBY smiles at the Nubian's gall, but TRENCH explodes at his insolence.
+
+trench
+
+(Grabbing Abou Fatma by the neck)
+
+I'll show you a British Officer...
+
+(Forcing him on his knees in front of one of the butchered corpses)
+
+This is a British Officer!...
+
+(Rubbing Abou Fatma's face into a patch of bloodstained sand)
+
+This is a British officer's blood. Lick it up! Every bloody drop!...
+
+The NUBIAN spins around, ready to strike. TRENCH draws his knife, daring him to make a move.
+
+ABOU FATMA
+
+(Controlling his anger)
+
+The Muslims bury their dead. Even the enemy dead. These bodies have been left here for a reason. To keep you here. To hold you up.
+
+wILLOUGHBY
+
+(Ignoring him)
+
+Take him away. Find out why he was sent here. Do whatever you have to do.
+
+The SOLDIERS disperse. Only DURRANCE stays where he is, thinking about the Nubian's warning. 
+
+EXT. courtyard/ FORTRESS OF ABOU CLEA - day.
+
+A chant of 'Allah Akbar' rises over the fortress walls. Hundreds of WARRIORS kneel and pray in unison. HARRY does the same.
+
+EXT. tent/ BRITISH CAMP/ DESERT VALLEY - day.
+
+ABOU FATMA is on his knees, manacled to a tent pole. 
+
+EGYPTIAN CORPORAL
+
+(In Arabic)
+
+...You work for the Mahdi!  
+
+ABOU FATMA
+
+(In English)
+
+I fought the Mahdi...
+
+The EGYPTIAN lashes him with a bull-whip.
+
+EGYPTIAN CORPORAL
+
+(In Arabic)
+
+...Who sent you?!
+
+ABOU FATMA
+
+A British Officer.
+
+The EGYPTIAN starts whipping Abou Fatma again, ready to kill him. DURRANCE finally intervenes.
+
+DURRANCE
+
+That's enough...
+
+He kneels down beside ABOU FATMA, staring into his eyes. ABOU FATMA sees no mercy in his gaze, but at least there's a glimmer of curiosity.
+
+DURRANCE
+
+Why would you want to help us?
+
+ABOU FATMA
+
+The Mahdi is allied with slave traders...
+
+(pause)
+
+My family were taken prisoners and sold as slaves.
+
+DURRANCE considers Abou Fatma's answer. There's something about it that has a ring of truth. DURRANCE glances at the BRITISH SOLDIERS, digging graves in the open desert, and then stares up at the surrounding hills. 
+
+EXT. gates/ FORTRESS OF ABOU CLEA - night.
+
+Through the clouds of dust we see the first of the Mahdi's army riding out -- ghostly DINKA WARRIORS, naked from head to foot, caked in white ash. Behind then come the NUERS, long streaked hair trailing in the wind, faces painted the colors of a nightmare. The HADENDOA spearmen follow, blood-stained feathers in their hair, banging on their calf skin drums. Last of all come the DERVISH RIDERS IN THEIR BLOODSTAINED BRITISH UNIFORMS. HARRY rides at the heart of the demonic troop, his eyes filled with dread.
+
+EXT. BRITISH CAMP/ DESERT VALLEY - day.
+
+DURRANCE surveys the surrounding hills. CASTELTON watches him curiously.
+
+CASTELTON
+
+What is it Jack?
+
+DURRANCE's eyes stare at the horizon, still not sure.
+
+EXT. HILLS beyond ABOU CLEA - day.
+
+At a signal from the MAHDI, his army splits in two, some following the green flags, others the black. HARRY and the DERVISH RIDERS IN BRITISH UNIFORMS are told to wait.
+
+EXT. BRITISH CAMP/ DESERT VALLEY - day.
+
+WILLOUGHBY and TRENCH join CASTELTON and DURRANCE at the edge of the camp. DURRANCE is still staring at the ridges above them. As they listen, they can just make out a distant rumble of thunder. DURRANCE looks up. The sky is perfectly blue. 
+
+DURRANCE
+
+We'd better get the Gatling gun out.
+
+EXT. HILLS ABOVE THE BRITISH CAMP/ DESERT VALLEY - day.
+
+NUER SCOUTS, daubed in yellow camouflage, appear out of the rocks.
+
+INT. CASTELTON's TENT/ BRITISH CAMP/ DESERT VALLEY - day.
+
+CASTELTON walks into his tent and searches through his belongings. He finds one of his bibles, kisses it for luck, and slips it in his jacket pocket. As he turns around he sees TRENCH grinning at him.
+
+trench
+
+You haven't got a spare one have you vicar?
+
+EXT. SLOPE OF A HILL/ DESERT - day.
+
+Through thick gusts of sand we see hundreds of bare feet and horses' hooves moving up the desert slope. The sand at their feet pours back down the slope like an avalanche.
+
+EXT. DURRANCE's POV/ CREST OF the HILL/ DESERT - day.
+
+As DURRANCE gazes up, the first of the Mahdi's army appear on the crest of the hill, a handful of SCOUTS, riding back and forth, judging the British numbers. As the SCOUTS disappear, a curtain of dust rises up behind them. As it settles, DURRANCE sees thousands of figures appear along the length of the hill, their green banners fluttering in the wind.
+
+EXT. BRITISH CAMP/ DESERT VALLEY - day.
+
+Across the camp, CASTELTON and TRENCH stare mesmerised, as another huge army appears on the opposite hill. This time their banners are black. Panicked voices ring out.
+
+officers' voices
+
+Form a square...Form a square...
+
+EXT. CREST OF the HILL/ view of the british camp - day.
+
+The Mahdi's armies stare down from the wind whipped slopes, thousands of expressionless faces, listening to the British bugles shrilling down below. From above we see the British fighting square taking shape: red and khaki colors separating into units, the bright blue of the Egyptian uniforms forming a larger wall around the perimeter.
+
+EXT. BRITISH CAMP/ DESERT VALLEY - day.
+
+The GRENADIER GUARDS are crouched in formation, rifles ready. TRENCH changes position, asking one of the other SOLDIERS to swap with him, settling down next to CASTELTON.
+
+trench
+
+You can't get rid of me that easily.
+
+CASTELTON's fear seems to vanish in an instant. 
+
+EXT. GREEN FLAGGED ARMY/ CREST OF the HILL - day.
+
+A cry of Allah Akbar is picked up by thousands all along the ridge, turning into a deafening roar as the Green flagged Army finally charges.
+
+EXT. BRITISH CAMP/ DESERT VALLEY - day.
+
+DURRANCE moves along the lines of RIFLEMEN, barking intructions over the wind.
+
+DURRANCE
+
+Fire at the horses. Fire at will.
+
+A volley of shots answers his call.
+
+EXT. GREEN FLAGGED ARMY/ slope OF the HILL - day.
+
+Enemy horses and riders collapse, sliding down the slopes.
+
+EXT. DESERT VALLEY - day.
+
+The British camp is shrouded in gunsmoke, flashes of orange light bursting through, the Gatling gun wreaking havoc.
+
+EXT. GREEN FLAGGED ARMY/ FOOT OF THE HILL - day.
+
+Through the sand drifts, we see the camels' hooves rearing up, bursts of arterial blood as the bullets tear into their hide. The HADENDOA SPEARMEN leap over the walls of torn flesh, and charge the British lines in a suicidal frenzy.
+
+EXT. CASTELTON/ BRITISH CAMP/ DESERT VALLEY - day.
+
+CASTELTON aims at the PAINTED WARRIORS. Every time he fires, someone falls. Every time he kills, he murmurs a prayer. TRENCH bites his lip so hard, his mouth fills with blood. He spits it out as he drops yet another man.
+
+EXT. BLACK FLAGGED ARMY/ FOOT OF THE HILL - day.
+
+The DERVISH HORDES keep coming, clambering over the bodies of their dead.
+
+EXT. HARRY/ ENTRANCE TO THE VALLEY - day.
+
+Far away, at the entrance to the valley, HARRY can hear the screams of the wounded and dying. Even the DERVISH WARRIORS seem apprehensive. Only the MAHDI is calm, waiting for his moment. He raises his hand, and signals for the horsemen in British uniforms to charge.
+
+EXT. DURRANCE/ BRITISH CAMP/ DESERT VALLEY - day.
+
+Enemy bullets crackle past DURRANCE's head, but he doesn't seem to notice. Through the smoke and dust he sees hundreds of enemy dead, lying in blood smeared heaps. The Dervish onslaught is less sustained now. The occasional STRAGGLER appears out of the haze and is blown away by a burst of gunfire. Suddenly DURRANCE hears the sound of a bugle.
+
+EXT. CASTELTON/ BRITISH CAMP/ DESERT VALLEY - day.
+
+CASTELTON and TRENCH hear the bugle too. They stop firing as they see the remnants of the black flagged army retreating into the hills. There's a moments confusion and then a roar of celebration around the camp as the SOLDIERS see a troop of BRITISH CAVALRY, riding out of the sand clouds towards them.
+
+EXT. HARRY/ DESERT VALLEY - day.
+
+HARRY stares in horror as he sees the BRITISH SOLDIERS, breaking rank, waving at the charging RIDERS, thinking they're British cavalry. HARRY kicks his horse and tries to weave his way out of the charging horde.
+
+EXT. BRITISH CAMP/ DESERT VALLEY - day.
+
+The BRITISH SOLDIERS gather at the camp perimeter to welcome the approaching cavalry.  
+
+EXT. HARRY/ DESERT VALLEY - day.
+
+HARRY charges through the red uniformed Dervish ranks, ignoring orders to stay in line. At a signal from one of the DERVISH LIEUTENANTS, the horsemen raise their bows.
+
+EXT. DURRANCE/ BRITISH CAMP - day.
+
+DURRANCE stares curiously as a flicker of sunlight streaks across the heads of the distant riders. He watches the approaching dust cloud, wondering why it's coming at them so fast. Slowly he begins to make out the first figures. Something about them isn't right. Their uniforms hang too loosely. They ride too far apart. He reaches for his gun.
+
+EXT. HARRY/ DESERT VALLEY - day.
+
+HARRY breaks through the Dervish line. Behind him he hears the mounted ARCHERS stringing their bows. He drives his horse forwards, towards a lone BRITISH SOLDIER, standing on the camp perimeter.
+
+EXT. DURRANCE/ BRITISH CAMP - day.
+
+DURRANCE sees the lone rider, charging towards him, yelling at the top of his voice. He can't see the man's face or hear his voice, but he's convinced these riders are the enemy now.
+
+EXT. DURRANCE/ BRITISH CAMP - day.
+
+HARRY sees DURRANCE aiming his rifle, a moment too late. The gunshot sends his horse spinning to the ground. He feels the weight of the animal pin him down. As he looks up he sees the DERVISH RIDERS riding over him, letting their arrows fly.
+
+EXT. BRITISH CAMP - day.
+
+The sky above flickers with light as the arrows catch the sun. The steel shafts hurtle down, plunging into exposed eyes and throats. All around him CASTELTON sees SOLDIERS totter and fall, arrows sticking out of them like quills. He pulls out his revolver and starts firing at the onrushing horses.
+
+EXT. DERVISH RIDERS/ PERIMETER OF BRITISH CAMP - day.
+
+The DERVISH lances skewer the BRITISH SOLDIERS as they try to run back to their lines. Some of the DERVISH RIDERS dismount and finish them off with their daggers, and their bare hands.
+
+EXT. GREEN FLAGGED ARMY/ slope OF the HILL - day.
+
+On the desert slopes, the retreating green flagged army wheels around and charges back into the fray.
+
+EXT. WILLOUGHBY/ BRITISH CAMP - day.
+
+WILLOUGHBY looks up, and sees the Mahdi's black flagged army, also swarming back towards the British ranks.
+
+EXT. HARRY/ PERIMETER OF BRITISH CAMP - day.
+
+HARRY is still pinned. He slits the dead horse's belly with his knife, and slides his leg under the gore. He gets to his feet and runs towards the fighting, desperate to reach his friends.
+
+EXT. DURRANCE/ BRITISH CAMP - day.
+
+DUURANCE yells at the top of his voice:
+
+DURRANCE
+
+Close the square! Close the square!
+
+CASTELTON and TRENCH fire at the charging horses. As they fall, the other GRENADIERS take courage, and rush at their RIDERS, bringing them down in a volley of gunfire. The SOLDIERS clamber over the dead bodies and link up with the rest of their Square.
+
+EXT. HARRY/ PERIMETER OF BRITISH CAMP - day.
+
+HARRY can't see the British square reshaping, but he can see its rippling effect all along the DERVISH line. He cuts his way through like a beserker. Whatever doubts and fears his civilized self felt his primitive self now rejects. He fights like a man possessed.
+
+EXT. grenadiers/ british square - day.
+
+The BRITISH line pulls back, firing and reloading as it retreats.
+
+EXT. WILLOUGHBY/ PERIMETER OF BRITISH CAMP - day.
+
+WILLOUGHBY stares in horror at the bloodshed all around him. Through the hellish smoke he sees ABOU FATMA, still tied to the whipping post, staring at him in silent reproach.
+
+EXT. grenadiers/ british square - day.
+
+CASTELTON fires into the enemy ranks. He's out of ammunition. TRENCH is retreating with the other GRENADIERS. He sees his friend stalling and yells:
+
+trench
+
+Get back! Get behind us!
+
+CASTELTON doesn't hear him. His parade ground training is taking over. He lowers the rifle and fixes a bayonet on it. 
+
+EXT. HARRY/ AMONGST THE CHARGING DERVISHES - day.
+
+Through the swarming ranks, HARRY glimpses CASTELTON, standing alone with his bayonet poised. He calls out as well.
+
+EXT. CASTELTON - day.
+
+CASTELTON hears nothing but the pounding of his own heart. The DERVISH WARRIORS swarm towards him. He disembowels the first WARRIOR, then swings his bayonet around to meet the next. The DERVISH impales himself, right up to his rib cage. CASTELTON tries to pull his blade free, but the bayonet is locked in bone now. 
+
+EXT. TRENCH/ RETREATING grenadiers/ british square - day.
+
+TRENCH stares in horror as he realises what's happened. The noises around him seem to fade as he gazes at CASTELTON, straining as he did in the training ground, trying to pull the bayonet free.
+
+EXT. HARRY/ AMONGST THE CHARGING DERVISHES - day.
+
+HARRY runs as fast as he can, trampling over the dead soldiers and horses that litter the desert floor.
+
+EXT. CASTELTON/ ISOLATED FROM THE SQUARE - day.
+
+CASTELTON tries to loosen the blade, but it's no use. He looks up to see a storm of painted faces, rushing towards him, spears pointed at his eyes and guts. Somewhere amongst the screaming horde, he glimpses a familiar face, calling out. A smile flickers across his face. He mouths the words 'Harry' as the first of the Dervish spears sinks into his heart.
+
+EXT. TRENCH/ RETREATING grenadiers/ british square - day.
+
+TRENCH screams in agony as he sees CASTELTON disappear. He charges out of the retreating British line, swinging at everything in his way, breaking skulls and shattering bone. He's only yards away from CASTELTON when a blow to the back of the head sends him sprawling.
+
+EXT. DURRANCE/ RETREATING grenadiers/ british square - day.
+
+DURRANCE charges out of the British square as he sees his friends fall, firing round after round into the enemy ranks. Every time his gun empties, he picks up another from a dead soldier, and keeps going. 
+
+EXT. HARRY/ AMONGST THE DERVISHES - day.
+
+HARRY drops to his knees, next to CASTELTON's body, protecting his friend's corpse from further abuse. 
+
+EXT. TRENCH/ AMONGST THE DERVISHES - day.
+
+TRENCH stares up at the nightmare faces crowding all around him. The butt of a spear cracks open his head, reducing everything to a terrifying silence. He feels a sea of hands, reaching down, tearing his uniform, lifting him in the air. 
+
+EXT. DURRANCE/ WALKING TOWARDS THE DERVISHES - day.
+
+DURRANCE charges towards the enemy, firing into their massed ranks, oblivious to any danger. One of his guns jams. DURRANCE keeps pressing the trigger. The gun suddenly backfires and blows up in his face.
+
+EXT. HARRY/ AMONGST THE DERVISHES - day.
+
+HARRY sees DURRANCE fall. He gets up and runs through the enemy ranks, pretending to be one of them. He leaps on DURRANCE as he tries to get up, pinning him to the ground, stopping him getting himself killed. The unsuspecting DERVISH WARRIORS sweep past them, towards their next victims.
+
+HARRY keeps DURRANCE pinned, until the enemy hordes disappear. Only then does he stand up. He looks down at his friend. DURRANCE doesn't seem to recognise him. At first HARRY thinks it's the sunlight blinding him, but then he sees the powder burns around DURRANCE's eyes. 
+
+DURRANCE gropes around. He starts crawling away on his hand and knees. He crawls right into a mud bath of Dervish dead. He rears back in horror, and lets out a little cry of panic.
+
+HARRY slowly begins to understand. He watches in anguish, as his friend claws at his eyes, trying to rub the blindness out of them, his whimpers of panic turning into howls of agony.
+
+INT. BRITISH HOSPITAL SHIP/ ALEXANDRIA - day.
+
+The screams of the wounded BRITISH SOLDIERS echo all around the hospital ship. CAPTAIN CALDER, the Regimental surgeon, stands over Durrance's bed. DURRANCE stares out, blindly.
+
+CAPTAIN CALDER
+
+...You ought to see a specialist once we're back.
+
+DURRANCE
+
+Is it part of your treatment to offer false hope?
+
+CAPTAIN CALDER
+
+Only for some. 
+
+(reaching in his pocket)
+
+This came for you.
+
+He hands over a letter. DURRANCE sticks it in his top pocket.
+
+DURRANCE
+
+I'll read it later.
+
+(Grinning as he realises Calder hasn't caught the joke)
+
+If you wouldn't mind, Doctor...
+
+He hands the letter back to CALDER to read for him.  
+
+CAPTAIN CALDER
+
+(Glancing over it)
+
+..."Dear James, I hold in my heart all you have written me"...
+
+(He looks up)
+
+I feel a little awkward reading this...
+
+DURRANCE
+
+Don't.
+
+There's something strident in Durrance's voice, a brittleness that hides the insecurity inside. CALDER continues:
+
+CALDER
+
+..."Knowing you as I do, and convinced as I am of your affections, I wish to go back on my previous fears. I'm writing now, to let you know how grateful I am to have you in my life -- and to say, with all my heart, how much I wish to be in yours...With all my love, Ethne."
+
+CALDER, lowers the letter, quietly moved.
+
+CAPTAIN CALDER
+
+Congratulations...
+
+DURRANCE stares out quietly.
+
+DURRANCE
+
+I knew a man once who went blind, a good man too, before...A year after you wouldn't have recognised him. He was the most selfish, exacting, egotistical human being you could ever meet. I wouldn't wish him on anyone...
+
+He smiles ironically, hiding the heartbreak inside.
+
+DURRANCE
+
+The one thing I want most in this life, finally comes to me when I can no longer accept it.
+
+INT. DRAWING ROOM/ CAROLINE's house/ OUTSIDE LONDON - day. 
+
+ETHNE stares out of the drawing room window, waiting. Her friend CAROLINE sits at a table, pretending to be absorbed in her book, listening just as intently. There's the jingle of a carriage outside.
+
+CAROLINE
+
+That's him.
+
+ETHNE
+
+It isn't stopping.
+
+EXT. DURRANCE's carriage/ STREET/ caroline's house - day.
+
+DURRANCE stares ahead as the carriage passes Caroline's house.
+
+DURRANCE
+
+(To the Driver)
+
+Drive around once...Describe the entrance to me...
+
+INT. DRAWING ROOM/ caroline's house - day.
+
+ETHNE turns away from the window.
+
+CAROLINE
+
+Maybe you should have gone to the station to meet him.
+
+ETHNE
+
+He might have thought I was going because I imagined he was helpless. I don't want him to feel like that.
+
+There's a quiet resolve in Ethne's voice, as if she's been mulling over her future life with Durrance. The doorbell rings. 
+
+ETHNE
+
+That must be him.
+
+CAROLINE gets up to answer the door. ETHNE walks to the window. Her movements are nervous, her eyes tense. The door finally opens. DURRANCE walks in, alone. As soon as ETHNE leaves the window he turns around and looks straight at her.
+
+ETHNE
+
+(Startled)
+
+It isn't true then, you can see...
+
+DURRANCE
+
+(Gently)
+
+It's perfectly true. I can't see a thing.
+
+ETHNE stops, feeling guilty.
+
+DURRANCE
+
+You moved from the window, that's how I knew.
+
+ETHNE
+
+I hardly made a noise.
+
+DURRANCE
+
+No, but the window was open. The noise outside grew louder. 
+
+She tries to answer his smile.
+
+ETHNE
+
+Let me get you some tea, and then we can talk.
+
+DURRANCE
+
+(Sensing her tension)
+
+Yes, we have a lot to talk about.
+
+ETHNE's hand trembles as she pours the tea. DURRANCE interprets every sound. She picks up the cup and walks over with a smile, holding it out for him.
+
+DURRANCE
+
+I hate to sound humble, but I don't trust myself with a cup of tea yet.
+
+ETHNE feels stupid again. She sets the cup down on a table. 
+
+DURRANCE
+
+(Gently)
+
+You're not bound, you know.
+
+There's a pause. ETHNE knows exactly what he means.
+
+ETHNE
+
+Bound by what?
+
+DURRANCE
+
+I wouldn't dream of holding you to your letter. Or a committment you made to a different man. 
+
+ETHNE stares at him in surprise, and then in quiet admiration.
+
+ETHNE
+
+You're not a different man.
+
+DURRANCE
+
+I don't say it begrudgingly. I'm not being particularly noble or heroic either. It's something I've thought about long and hard --
+
+ETHNE
+
+Jack --
+
+DURRANCE
+
+-- Please hear me out...
+
+(With difficulty)
+
+I'm thinking of myself as much as you. I have to learn to accept what's happened. I have to learn to respect the person I've become. The only way to do that is to start again.
+
+ETHNE
+
+Why does it have to be without me?
+
+Her words make him hesitate.
+
+DURRANCE
+
+Because if I was with you, I'd spend every moment wondering how you really felt about me. 
+
+ETHNE
+
+If you don't know how I feel about you, then that's a good reason to call off our wedding. Your blindness isn't.
+
+She stares at him, determined. DURRANCE looks touched by her devotion, but still doesn't feel worthy of her love.
+
+DURRANCE
+
+It has to be more than mere obligation Ethne, or even friendship. It has to be more than that...
+
+ETHNE suddenly reaches out and touches his face. DURRANCE stops as he feels her fingers. He's lost for a moment, unsure of himself. ETHNE leans forward and kisses him, tenderly at first, but then more and more passionately, proving herself to him, proving herself to herself. DURRANCE kisses her back, close to tears.
+
+EXT. PATIO/ caroline's house -  DAY.          
+
+A sharp clatter of hooves. DURRANCE rides his horse with the help of a GROOM, his face fixed in concentration. ETHNE and CAROLINE watch him from the patio. 
+
+ETHNE
+
+(Gazing at him proudly)
+
+He seems to need his eyes less and less each day. It's incredible. Nothing escapes him. Sometimes I think he reads me like a book.
+
+CAROLINE
+
+You no longer have your face to screen your thoughts.
+
+ETHNE doesn't notice the edge in her voice. She's lost in her own thoughts. DURRANCE climbs off his horse and strides towards them, looking pleased with himself. 
+
+DURRANCE
+
+(Wrapping Ethne in his arms)
+
+You smell wonderful.
+
+ETHNE
+
+And you smell like a horse. Go wash.
+
+ETHNE keeps smiling, even after DURRANCE has gone. CAROLINE watches her friend quietly, fighting the jealousy she feels within. A voice interrupts their separate thoughts:
+
+GARDENER o/s
+
+(Calling out)
+
+...Someone to see you Miss Eustace.
+
+ETHNE looks up to see a UNIFORMED OFFICER, standing with the GARDENER, by the maze. She gets up curiously.
+
+EXT. garden/ maze/ caroline's house - day.
+
+As ETHNE approaches the soldier she suddenly stops, recognising him. It's WILLOUGHBY. 
+
+wILLOUGHBY
+
+I went all the way to Bintree to find you. Your father told me you were here. I'm sorry I came unannounced, I needed to talk to you alone... 
+
+ETHNE doesn't reply or return his smile. WILLOUGHBY seems to read her thoughts.
+
+wILLOUGHBY
+
+I understand how you feel, Ethne. All I can say is that we never set out to hurt you. What happened was between us and Harry, not the two of you.
+
+ETHNE
+
+(Coldly)
+
+What do you want, Tom?
+
+WILLOUGHBY hesitates, bracing himself.
+
+wILLOUGHBY
+
+...I've seen Harry. In Suakin. He asked me to give you these...
+
+He holds out TWO SOILED WHITE FEATHERS. ETHNE stares at them, unable to speak, her whole world turned upside down.
+
+wILLOUGHBY
+
+He risked his life to save our regiment. He fought as if he'd been born to it.
+
+I've come to tell you I've withdrawn my accusation of cowardice against him, along with Castelton's.
+
+ETHNE
+
+(All she cares about)
+
+Is Harry dead?
+
+wILLOUGHBY
+
+He was fine when I saw him. He'd changed a great deal but he was in good health.
+
+ETHNE
+
+Changed how?
+
+wILLOUGHBY
+
+I didn't spend much time with him. I don't know what else to tell you Ethne.
+
+ETHNE
+
+Tell me everything Tom. Please... 
+
+(Imploringly)
+
+If by your own admission you've hurt me, then I have a right to know.
+
+EXT. PATIO/ caroline'S house -  DAY.
+
+CAROLINE watches curiously from the patio, as ETHNE and the mysterious Officer, walk into the maze, deep in conversation.
+
+EXT. maze/ caroline's house - day.
+
+ETHNE and WILLOUGHBY sit on a bench in the garden maze.
+
+wILLOUGHBY
+
+...Nothing prepared us for what happened. We were two miles short of Abou Klea when we were ambushed. We managed to hold off the enemy, but at a terrible cost. A few days later Khartoum fell and the whole expedition was called off...
+
+TIME DISSOLVE BACK TO:
+
+EXT. BRITISH EVACUATION CAMP - ON NILE - DAY.                     
+
+WOUNDED BRITISH SOLDIERS lie in the open sun, moaning in agony, plagued by clouds of dust and swarms of flies. WILLOUGHBY stares out, numb to their suffering, thinking only of his own lost friends. The SHADOW OF A MAN in Arab robes hovers over him.
+
+WILLOUGHBY
+
+...Get lost!...
+
+The ARAB doesn't move.
+
+wILLOUGHBY
+
+(Looking up furiously)
+
+Didn't you bloody hear me! Get lost!...
+
+WILLOUGHBY suddenly stops. He stares at the Arab as if in a dream. 
+
+wILLOUGHBY 
+
+...Harry?...
+
+HARRY stares back at him through his black desert robes.
+
+HARRY
+
+I sent a man to you with a warning from Abou Klea. You wouldn't listen to him. You had him tortured instead.
+
+The confusion and shock bring pent-up tears to WILLOUGHBY's eyes. 
+
+HARRY
+
+He told you a British Officer had sent him. Even if you didn't believe him, what would it have cost to take precautions. What more did I have to do?
+
+wILLOUGHBY
+
+(As the horror sinks in)
+
+I didn't know Harry...I didn't know it was you...
+
+(He still can't believe his eyes)
+
+...What are you doing here in God's name?...What are you doing?...
+
+HARRY opens his hand to reveal a soiled white feather. WILLOUGHBY stares at it, in bewilderment at first,then slowly beginning to understand.
+
+wILLOUGHBY
+
+(He gazes at the feather as if it's the symbol of his own disgrace now)
+
+Give me the others. Give them to me.
+
+harry
+
+They're not yours to take back.
+
+WILLOUGHBY looks up at him through his tears. There's no condemnation in Harry's eyes, but no sympathy either. His experiences have changed him, turned him into a harder man.
+
+EXT. maze/ caroline's house - day.
+
+ETHNE gazes silently at the feathers in her hand.
+
+wILLOUGHBY
+
+...He'd followed us all the way from Alexandria, looking for an opportunity to redeem himself. It was only after he left that I found out an Arab matching his description had also saved Jack Durrance's life.
+
+ETHNE looks up in surprise.
+
+willoughby
+
+Jack doesn't know. That was the way Harry wanted it.
+
+EXT. FLASHBACK/ BATTLEFIELD/ DESERT/ SUDAN - DAY.  
+
+Smoke hovers over the corpse strewn battlefield. We see HARRY through the haze, carrying DURRANCE on his shoulders, staggering under his friend's weight.
+
+EXT. FLASHBACK/ HILLS ABOVE THE BATTLEFIELD/ SUDAN - DAY.
+
+HARRY and ABOU FATMA help DURRANCE up a steep mountain trail, as below them, the battle rages.
+
+EXT. FLASHBACK/ BANKS OF THE NILE/ SUDAN - DAY.
+
+DURRANCE's brow is beaded with sweat. HARRY cools his face with a wet cloth. DURRANCE murmurs questions in his feverish state, but HARRY remains resolutely silent.
+
+EXT. maze/ caroline's house - day.
+
+ETHNE stares at WILLOUGHBY, thinking only of Harry. WILLOUGHBY thinks she's staring at the medals on his chest. 
+
+wILLOUGHBY
+
+(Embarrassed)
+
+I tried to turn them down. I told the committee I'd done nothing to deserve them. They didn't care. I think they pick their heroes' names out of a hat.
+
+(Trying to ease her pain)
+
+You asked me how he'd changed. All I can say is that you would have been proud of him.
+
+ETHNE
+
+I should have been proud of him before. Or at least I should have tried to understand. 
+
+willoughby
+
+You can't blame yourself.
+
+ETHNE
+
+Why not, if you can.
+
+(She won't forgive herself)
+
+We all misjudged him, but I had the least excuse. He was the man I was supposed to love. 
+
+Suddenly a voice calls out:
+
+DURRANCE O/s
+
+Ethne...
+
+They turn around, startled. DURRANCE stands at the entrance to the maze. WILLOUGHBY gets up nervously.
+
+ETHNE
+
+(Whispering urgently)
+
+Please, I don't want him to know you're here.
+
+WILLOUGHBY stops. DURRANCE looks in their direction.
+
+wILLOUGHBY
+
+(In disbelief)
+
+He can see us.
+
+ETHNE
+
+He can't see a thing. 
+
+DURRANCE reaches out and feels the hedge, finding his bearings, taking slow steps into the maze:
+
+DURRANCE
+
+Ethne...?
+
+ETHNE keeps quiet. 
+
+DURRANCE
+
+Ethne...?
+
+She watches DURRANCE, wracked with guilt.
+
+wILLOUGHBY
+
+(Beginning to panic)
+
+I've got to say something.
+
+ETHNE
+
+Be quiet.
+
+DURRANCE is only a few yards away from them now. He stares a moment, as if at ETHNE, then turns and walks back. 
+
+EXT. window/ CAROLINE's house - day.
+
+CAROLINE sees DURRANCE, walking away from the maze, still calling out for Ethne.
+
+EXT. maze/ CAROLINE's house - day.
+
+Durrance's voice fades in the distance.
+
+ETHNE
+
+(Struggling with her emotions)
+
+I didn't want him to find out what you just told me.
+
+wILLOUGHBY
+
+Harry was his best friend --
+
+ETHNE
+
+-- I'm engaged to Jack. I'm going to marry him.
+
+WILLOUGHBY stares in surprise.
+
+wILLOUGHBY
+
+...I knew he'd proposed, I had no idea you'd accepted...
+
+(Considering the implications)
+
+...I'd never have told you if I knew. I'm sure Harry wouldn't have wanted me to.
+
+ETHNE
+
+I'm glad you did. I needed to know.
+
+(Looking at him)
+
+Do you know where Harry is now?
+
+WILLOUGHBY hesitates.
+
+wILLOUGHBY
+
+He didn't tell me anything; I didn't feel I had a right to ask --
+
+ETHNE
+
+-- Please, tell me the truth.
+
+There's no anger in her voice, only concern. WILLOUGHBY looks torn.
+
+wILLOUGHBY
+
+Some of our men were taken prisoner. The Dervishes took them South, in case we tried a rescue. Trench was among the missing.
+
+ETHNE smiles sadly, as if she has her answer.
+
+wILLOUGHBY 
+
+(Trying to give her hope)
+
+Harry may be determined but he isn't mad. He'll look for Trench and then he'll come back. 
+
+ETHNE
+
+He'll do whatever he has to do. There are still two feathers left. 
+
+EXT. window/ caroline's house - day.
+
+From her window, CAROLINE sees ETHNE and WILLOUGHBY, saying goodbye, walking off in different directions. As ETHNE approaches the house, CAROLINE sees her gazing at something in her hand.
+
+INT. stairway/ caroline's house - day.
+
+CAROLINE walks down the stairs. 
+
+CAROLINE
+
+Is everything alright?
+
+ETHNE
+
+(Forcing a smile)
+
+He was a friend of father's. He apologised for not introducing himself. He was in a hurry.
+
+CAROLINE doesn't press. She notices the two white feathers in Ethne's hand.
+
+INT. LIVING ROOM/ CAROLINE's house - night.
+
+ETHNE sits at the piano stool, still gazing at the feathers in her hand. She hears voices in the corridor. It's Durrance, asking Caroline where she is. ETHNE hears his footsteps approaching. She lifts up the piano lid and starts to play. The living room door opens. ETHNE ignores the quiet footsteps behind her. She feels DURRANCE listening to every note. His hands cover her eyes gently.
+
+ETHNE
+
+(Trying to smile)
+
+Who could that be...
+
+She removes his hands from her eyes, and kisses them. DURRANCE sits down beside her on the piano stool.
+
+DURRANCE
+
+What were you playing?
+
+ETHNE
+
+The Melusine overture.
+
+DURRANCE
+
+Cheerful stuff.
+
+He grins and starts to play the tune, perfectly. ETHNE looks on in admiration, trying to hide her feelings. 
+
+DURRANCE
+
+Join me.
+
+ETHNE
+
+I'd rather listen.
+
+DURRANCE
+
+Please...
+
+Reluctantly ETHNE starts to accompany him. 
+
+DURRANCE
+
+They say you can tell a woman's heart by the way she plays.
+
+ETHNE
+
+What if she can't play at all.
+
+DURRANCE
+
+It isn't how well you play, it's how passionately you stroke the keys.
+
+ETHNE presses the keys harder, pretending it's a joke, worried that he might see through her.
+
+DURRANCE
+
+I'd say you're in love.
+
+Even though it's said in jest, his words stick like a knife. The notes torture her. She suddenly gets up and walk away from the piano.
+
+DURRANCE
+
+(Following her footsteps)
+
+Where are you going?
+
+ETHNE
+
+I want to hear you play on your own.
+
+A moment's silence. Then DURRANCE turns back to the piano and starts to play -- quietly, tenderly. The haunting music breaks Ethne's heart. Almost involuntarily she starts to walk away from him, towards the open patio doors.
+
+DURRANCE
+
+(With a sudden flourish of the keys)
+
+There you go, I'm in love too...
+
+He swivels around and beams at her joyfully. ETHNE stares back at him, unable to speak.
+
+DURRANCE
+
+(Gazing at her adoringly)
+
+These past few days have been the best days of my life, blind or otherwise...
+
+His eyes shine in the candlelight, full of new-found hope. 
+
+DURRANCE
+
+...Before I came here I'd given up. I put on all kinds of fronts and defences, but deep down I was petrified. I had no idea what was going on around me, what people were thinking behind my back. I imagined the worst, so that nothing would surprise me, no-one would catch me out...
+
+He walks closer.
+
+DURRANCE
+
+...You've made me realise I can't live like that. Whether one can see or not, there's no way of knowing how people really feel about you, all you can do is put yourself in their hands, and trust them unconditionally...
+
+ETHNE can't speak. 
+
+DURRANCE
+
+I know how much you loved Harry...
+
+(A beat)
+
+...for the first time I'm not afraid to admit it, I'm not not afraid to bring it up between us...
+
+(A beat)
+
+I'm not afraid, because of you Ethne, because of the way you've made me feel...
+
+He waits for an answer but all that greets him is silence. As he steps closer he suddenly loses her presence. A touch of panic enters his voice:
+
+DURRANCE
+
+Ethne...?
+
+The only sound he hears is the wind on the curtains. We see for the first time that Ethne's left, through the open patio doors. 
+
+DURRANCE
+
+Ethne...?
+
+He turns around sharply as he hears a noise. CAROLINE stands in the doorway. DURRANCE walks towards her.
+
+DURRANCE
+
+(Touching her arm)
+
+I thought you'd disappeared.
+
+CAROLINE
+
+It's Caroline. Ethne's gone.
+
+DURRANCE pulls back, embarrassed.
+
+DURRANCE
+
+I'm sorry.
+
+CAROLINE
+
+She must be in the garden.
+
+DURRANCE
+
+(Trying to sound lighthearted)
+
+She was here a minute ago. It must have been something I said.
+
+CAROLINE
+
+(Every word is calculated)
+
+I don't think it was anything you said. She's been upset all afternoon. Ever since she spoke to Lieutenant Willoughby.
+
+DURRANCE
+
+Willoughby?... 
+
+He looks perplexed.
+
+DURRANCE
+
+Willoughby was here? Why didn't he come and see me?
+
+CAROLINE
+
+I thought he did. I saw you walking into the maze to join them.
+
+She feels the impact on him -- the fact that he called out and no-one answered.
+
+DURRANCE
+
+(Trying to justify it to himself)
+
+He must have had his reasons. 
+
+CAROLINE
+
+He brought her two white feathers. That's all I know.
+
+DURRANCE looks up, startled.
+
+DURRANCE
+
+...Harry...
+
+CAROLINE watches his unseeing eyes trying to make sense of what's happened. She feels a touch of remorse as she sees him struggling with his emotions. Finally he looks up:
+
+DURRANCE
+
+Ethne obviously didn't want me to know... 
+
+(Curiously)
+
+Why did you tell me?
+
+CAROLINE hesitates.
+
+CAROLINE
+
+I thought you should know.
+
+DURRANCE
+
+You're her friend.
+
+CAROLINE
+
+Yours too I hope.
+
+DURRANCE stares at her in silence, her intentions slowly becoming clear to him.
+
+DURRANCE
+
+You're not fair to Ethne.
+
+CAROLINE
+
+Are you?
+
+Her meaning is clear. Her words sting him deeply.
+
+DURRANCE
+
+How much of our conversation did you overhear?
+
+CAROLINE
+
+Enough.
+
+DURRANCE
+
+Then you should know I meant every word.
+
+(more with pity than anger)
+
+I love and trust Ethne unconditionally. Whatever doubts she's feeling, I know she'll resolve them.
+
+(With quiet dignity)
+
+I've put myself in her hands.
+
+A long silence. DURRANCE doesn't need to see CAROLINE to know she's in tears. 
+
+CAROLINE
+
+...The only reason I told you, was because you mean the world to me.
+
+DURRANCE
+
+(A gentle rebuff)
+
+I'm sorry, Mrs Adair.
+
+EXT. garden/ caroline's house - night.
+
+ETHNE sits in the garden alone, shivering in the wind, hating herself.
+
+EXT. THE CITY OF DONGOLA/ SOUTHERN SUDAN - night.
+
+The peeling CORPSE of a British soldier is dragged through the streets by a rope tied to a camel's back. LOCAL WOMEN tear at the dead man's uniform, grabbing at his testicles, spitting on his bloated face. HARRY slips out of the crowd, horrified by what he's seen, relieved it isn't Trench.
+
+EXT. DONGOLA/ SUDAN - day.
+
+The jeering women can be heard in the distance. ABOU FATMA sits in the shade, slurping an oily gruel. HARRY squats beside him. ABOU FATMA offers him the bowl. HARRY declines.
+
+ABOU FATMA
+
+You're surprised by the women?
+
+HARRY doesn't need to answer, his face says it all.
+
+ABOU FATMA
+
+They're always the most cruel. Amongst the Southern Tribes it's the custom for them to go into battle first, calling the men cowards until they're ready to fight.
+
+(Mischievously)
+
+It is the same in your country, no?
+
+HARRY looks up to find ABOU FATMA grinning at him.
+
+ABOU FATMA
+
+The woman you spoke of. Go back to her. Tell her you're ready.
+
+haRRY
+
+What did you find out about the British prisoners?
+
+ABOU FATMA
+
+There are very few of them left. 
+
+He offers HARRY his food again. This time HARRY takes the bowl and swallows the rancid meat as if it's nothing.
+
+harrY
+
+Where are they being held?
+
+ABOU FATMA
+
+Your Army abandoned them. The shame is no longer yours.
+
+harry
+
+(Provoking him)
+
+Have I paid you for nothing, Abou Fatma?
+
+The Nubian looks up, stung by the talk of money, when he was only expressing concern.
+
+ABOU FATMA
+
+(Coldly)
+
+Twelve British soldiers were taken by boat from here to Omdurman last month. 
+
+haRRY
+
+Shoukhran.
+
+ABOU FATMA
+
+You're a foolish man. Even for a British Officer.
+
+hARRY
+
+(Smiling)
+
+'God protects the fool'.
+
+(Passing Abou Fatma the bowl)
+
+How would I get into the prison at Omdurman?
+
+ABOU FATMA
+
+(Sarcastically)
+
+Urinate in a holy well.
+
+harry
+
+That carries a penalty of death. All I want is to be imprisoned there.
+
+ABOU FATMA stops eating, realising HARRY is serious.
+
+ABOU FATMA
+
+You will die before your time.
+
+haRRY
+
+'If it is the will of God.'
+
+ABOU FATMA
+
+(Impatient now)
+
+This man turned his back on you. Why should you give your life for his?
+
+harry
+
+Because he'd do the same for me. No matter what had passed between us. 
+
+(Looking at the Nubian)
+
+I hope I'd do the same for you too.
+
+ABOU FATMA
+
+I have no need of such friends.
+
+The Nubian returns to his food, betraying no sentiment. HARRY reaches into his pocket and holds out five shilling coins. 
+
+ABOU FATMA
+
+(Disdainfully)
+
+You owe me two shillings a day. This is too much.
+
+HARRY can't help smiling. 
+
+haRRY
+
+You still haven't answered my question?
+
+ABOU FATMA
+
+You answered it yourself. God protects the fool.
+
+EXT. night MARKET/ outside the city of OMDURMAN - night.
+
+HARRY stumbles around the marketplace, strumming on a broken zither, pestering people for money, pretending to be mad. The passing crowds laugh at him and push him away. ABOU FATMA watches from across the street.
+
+HARRY staggers through the torchlit stalls. He sees a group of DERVISH WARRIORS, gathered around a fire. Their leader, a sickly looking EMIR, smokes a hashish pipe as he listens to his men recounting their feats of war. Next to him, lies a beautiful, jewel encrusted scabbard.
+
+HARRY thinks a moment, then approaches the group, strumming his zither, grinning at the men. Seeing the crazed musician, the DERVISH WARRIORS cover their ears. Some of them toss chunks of meat at him. HARRY picks up the dusty morsels, chewing them with relish, grinning like a happy puppy.
+
+ABOU FATMA watches as HARRY humiliates himself, playing his broken zither for the EMIR. The EMIR gazes back at him through bored, bloodshot eyes. 
+
+As the WARRIORS laugh, HARRY suddenly bends down and snatches the Emir's scabbard. He runs off with it at speed, waving it around his head like a sword, yelling at the top of his voice. The DERVISH WARRIORS give chase, still laughing as they run after the lunatic. 
+
+HARRY stumbles over a tent pole deliberately. The DERVISH WARRIORS swarm around him, caning him with their sticks. HARRY protects his face with his hands, pleading:
+
+harry
+
+(In Arabic)
+
+God loves the fool. God loves the fool...
+
+EXT. WELL/ outside the city of OMDURMAN - night.
+
+The whole marketplace has gathered to watch the madman punished. The WARRIORS hoist HARRY up onto a well, and shout at him to walk around the rim. Holding out his hands, HARRY starts to step around the ledge. As he glances down he sees the drop is at least thirty feet deep. Two of the WARRIORS jump onto the ledge behind him, blowing bugles in his ear.
+
+DERVISH WARRIORS
+
+(In Arabic)
+
+Faster thief...Faster...
+
+HARRY starts to walk faster, clapping in time with the WARRIORS, performing for the CROWD.
+
+harry
+
+(In Arabic)
+
+...God loves the fool. God loves the fool...
+
+Another WARRIOR steps out of the crowd and starts prodding HARRY with his spear. The CROWD roars as HARRY almost topples into the well. He regains his footing and laughs back at them, clapping his hands, wriggling his hips. 
+
+spectator's voiCE 
+
+(In Arabic)
+
+Here's someone for him to dance with...
+
+HARRY looks down to see a hideous, half-naked HAG, being pushed towards him. The crowd clears a space for the two lunatics to dance. HARRY forces a crazed giggle as the HAG starts to undulate and thrust her hips at him. He echoes her movements, staring into her deadened eyes.
+
+The CROWD pushes them closer together. HARRY feels an overwhelming sense of pity and dread. The dreamlike intensity is getting to him. The tragic creature, shimmying before his eyes, is like a grotesque reminder of the woman he loved and lost. 
+
+The HAG starts murmuring to herself. As he listens, HARRY realises she's singing -- a tuneless lament, remembered from long ago, sung without any understanding now. The emotion wells up in HARRY's eyes, even as he laughs at her. It's as if he's gazing into a crazy, distorted mirror. 
+
+The EMIR stares curiously as he catches the emotion in Harry's eyes. He suddenly signals for his men to part the lunatics. HARRY is dragged away from the shrieking HAG, and flung before him. 
+
+EMIR
+
+(In Arabic, suspicious now)
+
+Play for me fool...
+
+HARRY picks up his zither, and starts to play a tuneless din.  
+
+EMIR
+
+(In Arabic)
+
+You're not mad. 
+
+HARRY pretends not to understand. The EMIR suddenly cracks his cane down on Harry's hands, breaking his fingers. HARRY screams in agony:
+
+harry
+
+(In Arabic)
+
+...God loves the fool...
+
+EMIR
+
+(In Arabic)
+
+The fool feels no pain.
+
+The EMIR beats him again with the cane. HARRY holds up his broken fingers in supplication, singing softly in his madman's gibberish. 
+
+harry
+
+(In Arabic)
+
+...God loves the fool...
+
+The EMIR's cane cracks open his face. He doubles over in agony, spitting out blood. ABOU FATMA watches, sickened, unable to do anything. Even the other spectators look shaken.  HARRY slithers away in the dust, whimpering like an animal. 
+
+EMIR
+
+(In Arabic)
+
+You're not mad. Tell me who are you? Tell me or I'll kill you...
+
+ABOU FATMA stares in silence, willing HARRY to speak. Many in the CROWD turn away, fearing the worst. The EMIR raises his cane. With a surge of effort, HARRY lifts up his blood soaked face, and grins at the EMIR. He looks barely human, his face ripped open, swollen beyond recognition. 
+
+harry
+
+(Singing softly in Arabic)
+
+God loves the fool. God loves the fool...
+
+The EMIR hesitates, convinced nobody in their right mind could take this much pain.
+
+EMIR
+
+(In Arabic)
+
+He's mad. Take him to the prison. Let him sing for them there.
+
+He turns away and disappears into the crowd. ABOU FATMA stares at HARRY, with both pity and admiration. He whispers a prayer for his friend's safety.
+
+EXT. PRISON of OMDURMAN/ BANKS OF THE NILE - night.
+
+The evening prayers drift over the waters of the Nile. In the distance we see the prison of Omdurman, a huge dome of stone, surrounded by fifty foot walls on three sides, and the river itself on the fourth.
+
+INT. HOUSE OF STONE/ PRISON/ OMDURMAN - night.
+
+Hundreds of shapes move forward in the darkness. At first they look like a herd of animals, but slowly we recognise the grunts and cries as human. Faces come at us out of the dark, screaming and cursing, shoving each other violently, raising their faces to the ceiling, gasping for air.
+
+As our eyes adjust to the light, the vision of hell intensifies. The PRISONERS are manacled and herded into a space no more than thirty feet wide. They circle the room in a clockwise direction, pushed on by each other in perpetual motion, afraid that if they stop they'll be sucked under the maelstrom and trampled underfoot.
+
+The most fortunate are those who've found a resting space in the corners of the room. They cling to the walls, fighting off anyone who tries to share their sanctuary. From somewhere amongst them we hear a familiar voice:
+
+trench
+
+Get away! This is Ibrahim's space!
+
+TRENCH protects his corner, lashing out at anyone who tries to breach the space. He bellows at the top of his voice:
+
+trENCH 
+
+Ibrahim, where are you?!
+
+A voice answers from the heaving mass. TRENCH holds out his hand and drags his friend, IBRAHIM, out of the scrum.
+
+trench 
+
+(Sounding half crazed)
+
+You mustn't fall. You musn't fall.
+
+As if to prove his point, a fight breaks out at the far side of the room. TRENCH stands on tiptoes, as eager as everyone else to see the outcome. TWO PRISONERS try to strangle each other with their chains, fighting for an inch of space. It's hard to make out anything in the dark, but the savagery of the fight is reflected in the speed of flailing fists and feet. One of the PRISONERS finally loses his footing. In an instant he's sucked under. The victor laughs maniacally. The loser's cries continue for a moment and then stop suddenly as the trampling feet break his neck. 
+
+TRENCH turns to Ibrahim, with the knowing look of an expert.
+
+trench 
+
+We mustn't fall Ibrahim. We musn't fall.
+
+Suddenly there's a cry from outside the cell door.
+
+prison guards o/s
+
+(In Arabic)
+
+Back! Get back!
+
+The PRISONERS closest to the door push away. The head guard, the towering IDRIS-ES-SAIER, tosses in a blazing torch to clear some space. A NEW PRISONER is flung inside and the door slammed shut behind him. The other PRISONERS surge back, trying to reclaim their space. There are cries of pain as some of them tread on the blazing torch. The sheer weight of men quickly puts it out.
+
+The NEW PRISONER holds onto anything he can to stop himself falling. From his corner TRENCH looks on grimly.
+
+treNCH
+
+Watch Ibrahim. He's going to fall. 
+
+The NEW PRISONER is swept up in the savage wave. As he approaches TRENCH's corner he tries to claw his way to safety. TRENCH beats him back with a flurry of blows. The prisoner disappears under the heaving bodies, but then he pops up again, gasping for breath. He fights with all his might, swinging his fists, clutching at anyone in his way. TRENCH looks impressed, but he knows it won't be long.
+
+trench 
+
+He'll fall. Youssef will get him.
+
+As the NEW PRISONER swings towards them again, the prisoner behind him, YOUSSEF, slams his chains down on his head. The new arrival goes down hard. As he disappears, he screams out the name: "Trench!!!"
+
+TRENCH stares in disbelief, frozen for a moment, then bellowing like a bull, he charges out of his corner and flails his way through the heaving mass, trying to retrieve the fallen prisoner. 
+
+TRENCH
+
+Help me Ibrahim...!!!
+
+The tall Arab fights his way to Trench. Together they pull the NEW PRISONER to his feet. They take him under each arm and fall in with the moving mass.
+
+treNCH
+
+We've lost our place. You mustn't fall. 
+
+The man almost collapses, but TRENCH holds him up. He and Ibrahim keep walking the prisoner, trying to keep him conscious, knowing they have to fight till daybreak now.
+
+INT. HOUSE OF STONE/ PRISON/ OMDURMAN - day.
+
+The sound of early morning prayers drifts into the House of Stone. Sunbeams pick out bloodmarks and broken nails where prisoners have tried to claw their way to safety. Half a dozen BODIES lie crushed on the floor, those who didn't make it through the night. Those who did, are ushered outside by the PRISON GUARDS, into the merciless heat. TRENCH and IBRAHIM support the NEW PRISONER. A fat, oily looking Prison Guard, HASSAN, sneers at TRENCH on his way out.
+
+HASSAN
+
+You've found a friend, English.
+
+TRENCH ignores him, blinking as he walks into the sun.
+
+EXT. courtyard/ PRISON/ OMDURMAN - day.
+
+The PRISONERS collapse as they stumble into the prison courtyard, exhausted by the previous night's efforts. TRENCH and IBRAHIM help the NEW PRISONER to the river's edge.
+
+EXT. RIVERBANK/ courtyard/ PRISON/ OMDURMAN - day.
+
+TRENCH kneels beside the prisoner and pours some water over his face. The man opens his lips to swallow it.
+
+treNCH
+
+Don't drink. It's dirty. Your body isn't strong enough.
+
+Beads of sweat shine on the bearded man's ravaged face. TRENCH studies his features, wondering who he is. He digs out a copper coin from his shoe. 
+
+treNCH
+
+(To Ibrahim)
+
+See if Hassan will sell us some drinking water.
+
+IBRAHIM sets off towards HASSAN, who's busy beating the other PRISONERS to their feet. 
+
+treNCH
+
+(Looking back)
+
+You speak English?
+
+new prisoner 
+
+(A trace of a smile appears on his cracked lips)
+
+...I hope so, after all this time...
+
+TRENCH stares at him in surprise.
+
+treNCH
+
+...How do you know my name? 
+
+new PRISONER
+
+You told it to me yourself...the first time we met...
+
+(Imitating Trench weakly)
+
+"Trench by name, and Trench by nature. Good to meet you Feversham..."
+
+TRENCH stares in astonishment. 
+
+trENCH
+
+...Harry?...
+
+HARRY's eyes move around and find him, twinkling mischievously, despite all the pain.
+
+harrY
+
+(With ironic good humor)
+
+...You look well...
+
+treNCH
+
+(Breaking into a smile)
+
+Not half as well as you...
+
+(Overwhelmed)
+
+What the hell are you doing here?...
+
+hARRY
+
+...I'd come to rescue you...but now that you've rescued me...I have to save you twice...
+
+TRENCH stares at him in disbelief.
+
+hARRY
+
+...I have some money to bribe the guards...There's a man waiting for us across the river...With camels and provisions...
+
+TREnch
+
+(Snapping out of his reverie, hushing him)
+
+Keep your voice down. 
+
+TRENCH looks across the courtyard to make sure no-one's watching them. HASSAN is busy bargaining with IBRAHIM over the cup of water. 
+
+treNCH
+
+(Under his breath)
+
+How much money?
+
+harRY
+
+Two hundred.
+
+TRENCH looks hopeful for the first time in weeks.
+
+TRENCH
+
+...I knew it wasn't true. The guards kept telling me our army had left us behind. How far away are they? 
+
+hARRY
+
+(Regrettably)
+
+They pulled out. Over a month ago.
+
+TRENCH stares in confusion.
+
+TRENCH
+
+Then who sent you?
+
+harrY
+
+You did.
+
+TRENCH doesn't understand. HARRY slowly opens his fingers to reveal a crushed white feather in his hand. TRENCH stares at it in bewilderment. Then suddenly he starts to laugh, full of anguish and joy, amazed by the madness of the world. 
+
+EXT. PRISON GATES/ courtyard/ PRISON/ OMDURMAN - day.
+
+The compound gates rumble open. The Prisoners' RELATIVES are ushered inside, kept in order by the GUARDS' whips. The PRISONERS limp as fast as they can to receive any food their families have brought them. Before they can eat, the GUARDS have to be paid off, IDRIS first, then HASSAN and the others. As the feeding frenzy breaks out we hear Trench's voice:
+
+trENCH v/o
+
+...Hassan's the only guard who's corruptible. For two hundred he'll get us on the graveyard detail... 
+
+EXT. RIVERBANK/ courtyard/ PRISON/ OMDURMAN - day.
+
+We see what he's talking about now. The dead bodies from the House of Stone are dumped in a row boat. The GUARDS order several PRISONERS onto the boat with them. They're too afraid to handle the corpses themselves.
+
+treNCH v/o
+
+...The farthest the boat goes is a hundred yards from the opposite shore. We'll have to wait until you're strong enough to swim...
+
+HARRY watches the boat drift into the middle of the river. Ripples appear as huge CROCODILES move in to feed. The PRISONERS toss the bodies in the water. The corpses float for a moment, then suddenly vanish in a froth of blood. 
+
+treNCH
+
+(Smiling grimly)
+
+You didn't think of that when you came?
+
+haRRY
+
+I didn't think of much when I came.
+
+TRENCH looks at him, still unable to believe anyone could be so reckless and so brave.
+
+trENCH
+
+All for a feather?
+
+hARRY
+
+(Lightly)
+
+More than one.
+
+TRENCH looks down at the sand, reflecting:
+
+trENCH
+
+Give it to me Harry.
+
+haRRY
+
+Why?
+
+treNCH
+
+So I can show you it means nothing -- that if I throw it in the river it'll float away -- end up between some Croc's teeth.
+
+harry
+
+(Smiling softly)
+
+Not this feather. It's got the measure of me. It'll float back and find me.
+
+The water laps quietly in the silence.
+
+trENCH
+
+There were a dozen British Officers here last month. Every time one of them died, the last words on his lips were: "Don't worry about me lads. Our boys will come and get you." They never did. Just you. I'd say you've done enough.
+
+haRRY
+
+Not until I get you out.
+
+trENCH
+
+You can hardly walk.
+
+harry
+
+I don't need to walk, I need to swim.
+
+He smiles at TRENCH affectionately. Across the river, the boat returns, silhouetted against the sunset.
+
+EXT. house of stone/ PRISON/ OMDURMAN - day.
+
+The PRISONERS are herded back into the House of Stone. HASSAN walks alongside TRENCH and HARRY, negotiating his bribe.
+
+hASSAN
+
+...God put you here for a reason, English. He tests us. I have fifteen starving children myself to care for.
+
+treNCH
+
+(Taking his cue)
+
+I was thinking of your children Hassan. I'd like to help them. God favours the almsgiver.
+
+hASSAN
+
+For three hundred I could feed them for a year.
+
+treNCH
+
+I can afford two. From myself, Ibrahim, and the madman.
+
+HASSAN nods, accepting the offer, and walks ahead.
+
+INT. HOUSE OF STONE/ PRISON/ OMDURMAN - night.
+
+HARRY and TRENCH are in the thick of the crowd, fighting for space, trying to give each other strength. 
+
+treNCH
+
+...The first thing I do when I get back is book a table at Wilton's. A private room, all to myself, no bloody crowds...
+
+He shoves into the man in front, gaining a few more precious inches for them to breathe in. 
+
+trench 
+
+...I'll start with a half shell of crab, then I'll order the mallard, medium rare.
+
+harRY
+
+A glass of Burgundy to wash it down.
+
+treNCH
+
+Nothing foreign. A pint of Stout'll do me fine. 
+
+harrY
+
+(Grinning)
+
+Well I'm getting on the first train to Bintree, crowded or not.
+
+trENCH
+
+I'll drink to that...
+
+(He raises his hand, as if he's in a crowded pub, trying to get the Barman's attention)
+
+Two pints please...
+
+The two of them surge through the crowd, laughing like lunatics.
+
+treNCH
+
+A few more days Harry. A few more days...
+
+INT. HOUSE OF STONE/ PRISON/ OMDURMAN - day.
+
+The morning call to prayer brings sobs of relief from the PRISONERS. HARRY, TRENCH, and IBRAHIM, lie in a corner of the room, exhausted by the night's efforts. HASSAN steps over the dead bodies littering the floor, and orders them to get up.
+
+hassAN
+
+(As planned)
+
+You three, take the bodies to the boat.
+
+HARRY and IBRAHIM get to their feet. TRENCH doesn't move. HARRY reaches down to give him a hand, when he suddenly sees how pale his friend is. He drops to his knees, feeling TRENCH's pulse. He's alive, but very weak. 
+
+hasSAN 
+
+(Looking at the unconscious Trench)
+
+You see, English. God didn't want you to leave. He has given you Umm Sabbah.
+
+TRENCH moans, gripped by Typhus fever. HARRY tries to help him up, refusing to believe their plans are dashed.
+
+hARRY
+
+(Whispering)
+
+Trench, get up. Get up...
+
+hassAN
+
+(Shouting at Harry in Arabic)
+
+Leave him. Carry the dead to the boat.
+
+HARRY ignores him, cradling TRENCH in his arms. HASSAN steps forward and lashes him hard across the back.
+
+harry
+
+(Still trying to rouse Trench)
+
+...Get up Trench. Get up...
+
+HASSAN lashes him again. This time HARRY spins around and grabs the whip. He stares at HASSAN dangerously, the frustration and disappointment pushing him to the edge. 
+
+HASSAN
+
+(In Arabic)
+
+He paid me to release you. If you don't want to go, you can rot with him.
+
+(Turning to Ibrahim)
+
+What about you?!
+
+IBRAHIM looks at TRENCH guiltily, then gets up, and walks towards the dead bodies. HARRY gathers TRENCH in his arms, and holds him protectively, like a faithful slave. HASSAN sneers, and strides out of the House of Stone. HARRY looks at TRENCH. His friend shivers feverishly. HARRY brushes the wet hair out of his face:
+
+hARRY
+
+We'll get you to Wilton's. Crab and Mallard, medium rare.
+
+EXT. RIVERBANK/ PRISON/ OMDURMAN - day.
+
+HARRY watches from the shore, as IBRAHIM tosses the corpses overboard. Suddenly the Arab takes his chance and dives. He's only yards away from the boat when he's lifted into air by a huge crocodile, and dragged below the murky depths. All is still again. HARRY looks back at TRENCH, lying by the river's edge, lost in his own feverish dreams.
+
+INT. STUDY/ GENERAL FEVERSHAM's HOUSE/ LONDON - DAY.
+
+ETHNE sits across from GENERAL FEVERSHAM in the dimly lit room. There's bright sunshine outside but very little of it gets in. GENERAL FEVERSHAM seems much older than the first time we saw him, his eyes are withdrawn, his movements restless. He rings the handbell irritably.
+
+ETHNE
+
+Don't worry about the biscuits General.
+
+gENERAL FEVERSHAM
+
+I wanted some myself. I need something sweet in the afternoons, otherwise I fall asleep.
+
+(Catching himself)
+
+Not today of course. 
+
+ETHNE tries to answer his smile, but neither of them is particularly convincing. 
+
+gENERAL FEVERSHAM
+
+I'm very touched you've come all this way to tell me your good news. Jack'll make you a wonderful husband.
+
+ETHNE
+
+(Hiding all her doubts)
+
+He'll be pleased to hear that. 
+
+gENERAL FEVERSHAM
+
+I'm very fond of the boy.
+
+GENERAL FEVERSHAM smiles weakly, and looks away. Whatever they talk about seems to come back to Harry. ETHNE finally broaches the subject:
+
+ETHNE
+
+Have you heard any news from the Sudan?
+
+GENERAL FEVERSHAM hesitates. 
+
+gENERAL FEVERSHAM
+
+...An old friend of mine came to visit me yesterday, Colonel Sutch. You probably remember him...
+
+ETHNE nods, panicking inside, sensing the old man's grief.
+
+gENERAL FEVERSHAM
+
+...He used to receive the occasional letter from Harry, letting him know that he was alright... 
+
+(His voice falters)
+
+...Harry made him promise not to tell me anything, unless the letters stopped. I'm afraid they did. Over a month ago. 
+
+ETHNE looks pale. She tries to hold back her tears for the General's sake.
+
+ETHNE
+
+I'm sure it doesn't mean anything.
+
+gENERAL FEVERSHAM
+
+I asked some friends at the war office to make some enquiries. According to their spies, all the British prisoners are dead.
+
+ETHNE can't speak. The old man fights his tears as well.
+
+gENERAL FEVERSHAM 
+
+Would you like to see his letters? 
+
+ETHNE
+
+(Barely a whisper)
+
+I'm not sure I could cope right now.
+
+geNERAL FEVERSHAM
+
+No, of course not. I'm sorry...
+
+ETHNE looks up, remembering his grief is as great as hers.
+
+ETHNE
+
+Have you looked at them?
+
+gENERAL FEVERSHAM
+
+Oh yes. They make wonderful reading...
+
+(His face lights up briefly)
+
+He travelled all the way from Alexandria to Suakin. Across three hundred miles of desert. From there he followed the camel corp disguised as a coolie. He fought with them at Abou Klea, excelled himself by all accounts, saved dozens of lives. If he was still a soldier they'd have probably given him the Victoria Cross.
+
+ETHNE
+
+(Her eyes shining with tears)
+
+You must be very proud.
+
+The old man nods, suffering again.
+
+geNERAL FEVERSHAM
+
+...There isn't a trace of fear in the writing. That's what I find so hard to understand. That someone could be so terrified of going to war; and yet when the time comes to face it for real, he embraces it, almost gratefully...
+
+ETHNE
+
+(Sharing his guilt)
+
+We all misjudged him.
+
+gENERAL FEVERSHAM
+
+You only knew him a short time. I had no excuse. 
+
+Seeing him overcome by guilt and grief, ETHNE gets up and takes his hand. GENERAL FEVERSHAM holds hers tightly.
+
+gENERAL FEVERSHAM 
+
+My son loved Jack Durrance like a brother. I know he'd be happy for you. He'd want you to live your lives.
+
+ETHNE nods gratefully, unable to speak, her whole world falling apart.
+
+EXT. courtyard/ PRISON/ OMDURMAN - day.
+
+The PRISONERS tear and claw at each other like wild animals, desperately trying reach a scrap of meat that's fallen to the floor. HARRY is in the thick of the fighting, elbowing and head-butting people out of his way. He's changed beyond recognition, and it isn't just physical. He fights with a primal savagery, oblivious to everything except the precious scrap of food. He finally gets hold of it, and swings his elbow round, breaking another PRISONER's nose. 
+
+EXT. RIVER's EDGE/ courtyard/ PRISON/ OMDURMAN - day.
+
+TRENCH lies by the riverside, sweating and shivering from fever, his eyes sunken back into his skull. HARRY kneels beside him, covered in blood. He holds out the scrap of meat.
+
+hARRY
+
+...Trench. Food. You have to eat. 
+
+TRENCH can't move his jaw, let alone eat. HARRY chews the meat for him. When it's soft between his teeth, he spits it out, and feeds TRENCH with his fingers. For all the primal horror, there's a touching human tenderness in the moment. 
+
+Suddenly a pair of hands grab HARRY by the hair, and drag him away from TRENCH. It's IDRIS. The giant prison guard tears the scrap of meat from HARRY's hands and kicks him in the ribs for good measure. Spitting out blood, HARRY crawls after him, no longer having to play the madman, he's halfway there.
+
+hARRY 
+
+(In Arabic)
+
+Food master, food master please...
+
+IDRIS lashes him with his whip. HARRY's body arches in pain but his brain hardly registers. He kisses the ground at Idris's feet, still begging for his scrap of food back.
+
+hARRY 
+
+(In Arabic)
+
+Food master. Food...
+
+IDRIS walks away in disgust. 
+
+INT. HOUSE OF STONE/ PRISON/ OMDURMAN - night.
+
+HARRY holds up the semi-conscious TRENCH, as they're buffeted around in the House of Stone. The other PRISONERS try to push them under, but HARRY defends TRENCH with the savagery of a veteran. A PRISONER tries to blind TRENCH with his hands, but HARRY grabs his fingers, sinking his teeth in as far as they will go.
+
+INT. house of stone/ PRISON/ OMDURMAN - day.
+
+Daylight streams through the open doors. HARRY rests TRENCH against a wall, and scavenges amongst the bodies of the dead, searching for any money they may have hidden. 
+
+EXT. courtyard/ PRISON/ OMDURMAN - day.
+
+HARRY runs over to HASSAN, and drops to his knees in supplication, holding out a copper coin:
+
+hARRY 
+
+(Pleading in Arabic)
+
+Food master. Food. My master needs food.
+
+HASSAN holds out his arm to reveal a stump where his hand should be.
+
+hasSAN
+
+(In Arabic)
+
+This is what Idris gave me for helping your master...
+
+(Spitting at Harry's feet)
+
+There's some food.
+
+HASSAN turns and walks towards the fortress gates. The other PRISONERS scramble after him, desperate to receive their daily handout from their RELATIVES. HARRY thinks about wading in and fighting them for it, but he has no energy left. He collapses in the sand, staring up at the sun. As he closes his eyes, he suddenly hears a whisper:
+
+ARAB BOY o/s
+
+English...
+
+HARRY looks up to see a small ARAB BOY, approaching him. The BOY stops as he sees HARRY's ravaged face, frightened by his mad, staring eyes. HARRY sees the piece of chicken in his hand, and waves him over. The ARAB BOY finally kneels down, and offers him the chicken bone.  HARRY snatches it and gnaws on it like a hungry animal. It's only when he examines the meat, making sure there's enough left for Trench, that we realise how human he still is. He slips the half eaten chicken bone in his robes, and looks at the ARAB BOY gratefully. The ARAB BOY holds out some coins for him.
+
+ARAB BOY
+
+From Abou Fatma.
+
+HARRY stares at the coins. It's all the money he's ever paid Abou Fatma.
+
+harrY
+
+Money's no good anymore. We can't bribe the guards. I need him to buy food and medecine for my friend...
+
+He stops as he realises the ARAB BOY doesn't understand a word. He gives him back the coins:
+
+harrY 
+
+(In Arabic)
+
+Tell Abou Fatma to buy us food. You bring me the food...
+
+He points to the other RELATIVES as if to explain. The ARAB BOY nods that he understands. HARRY is about to ask him more when he suddenly spots IDRIS walking towards them menacingly. 
+
+harrY 
+
+Go. Thank Abou Fatma. Thank him for me.
+
+The ARAB BOY gets up and walks away. HARRY watches him leave, already missing the human contact. As IDRIS approaches, he scrambles away, reduced to his bestial state again.
+
+EXT. courtyard/ RIVERside/ PRISON/ OMDURMAN - day.
+
+HARRY pours water over TRENCH's face. 
+
+hARRY
+
+...You're better Trench. Much better. You may not feel it, but you look it...
+
+TRENCH opens his eyes, conscious enough for the first time in weeks, to see how much his friend has changed.
+
+treNCH
+
+(Smiling weakly)
+
+...When I'm better...Will I look as bad as you?...
+
+HARRY smiles through bleeding gums and swollen cheeks. The evening prayer starts up behind them. TRENCH closes his eyes in despair.
+
+treNCH 
+
+I don't think of God anymore when I hear that sound. It used to give me hope. Now all I feel is dread.
+
+hARRY
+
+Don't talk like that. We're going to get you through this.
+
+treNCH
+
+I don't want to get through this, Harry. What for? 
+
+In the distance they hear IDRIS shouting at the prisoners, driving them back into the House of Stone.
+
+TRENCH
+
+...There's only one thing that frightens me now. The thought that the closer I come, the more desperately afraid and sure I am that all this will end right here... when I so wish I could die at home...
+
+(fighting tears)
+
+In my own country -- in my own village...to be buried beneath the trees I know -- in sight of the church and houses I know...beside the trout stream, where I fished when I was a boy...
+
+(Trying to smile)
+
+Are you laughing yet?...
+
+HARRY
+
+No, I'm not laughing.
+
+HARRY fights his own pain.
+
+treNCH
+
+I don't think I can take it anymore, Harry... 
+
+HARRY finds it hard to argue. Staring at TRENCH's ravaged face and withered body all he can do is nod in sympathy. 
+
+EXT. courtyard/ PRISON/ OMDURMAN - day.
+
+HARRY sits opposite the young ARAB BOY in the courtyard. There's a look of quiet resignation in his eyes as he stares at the small glass vial in his hand. 
+
+hARRY
+
+(In Arabic)
+
+Thank Abou Fatma for me. Ask him to pray for us.
+
+The ARAB BOY nods sadly, as if he's seeing Harry for the last time. HARRY pats him on the shoulder, and gets up.
+
+INT. HOUSE OF STONE/ PRISON/ OMDURMAN - night.
+
+HARRY and TRENCH lean against a wall, watching as the House of Stone fills with PRISONERS. TRENCH's eyes are filled with dread.
+
+hARRY
+
+(Quietly)
+
+...We had a visitor today.
+
+TRENCH turns and looks at him. HARRY opens his hand to reveal the small glass vial. TRENCH stares at the dark liquid inside, slowly realising what it is. 
+
+TRENCH
+
+Anything would be better than this.
+
+HARRY
+
+Are you sure?
+
+TRENCH nods, his decision made. 
+
+hARRY
+
+(Slipping him the vial)
+
+The poison will take a few hours to work. You won't feel any pain.
+
+TRENCH
+
+(Smiling grimly)
+
+That'll make a change.
+
+HARRY looks at him sadly, then turns away, preparing for the inevitable charge from the other PRISONERS.
+
+trENCH
+
+...One last thing, Harry... 
+
+HARRY turns around.
+
+trENCH
+
+...My feather...I'd like it back...
+
+HARRY stares in silence. TRENCH holds out his hand. HARRY takes it. As they finally let go, we see the soiled white feather in TRENCH's palm. TRENCH closes his fingers around it, gratefully.
+
+treNCH 
+
+I hope it gives me as much strength as it gave you.
+
+Their eyes stay on each other, full of friendship and respect. Then, steeling himself, TRENCH snaps the vial, and starts to drink.
+
+HARRY
+
+Half...
+
+TRENCH stops. 
+
+trENCH
+
+(Smiling sadly)
+
+I didn't mean to be a pig about it...
+
+He holds out the vial for Harry. HARRY takes it and swallows the rest of the poison. He grins at TRENCH.
+
+hARRY
+
+What do you say, we give them one last night of hell.
+
+trENCH
+
+I'll drink to that.
+
+Shoulder first, HARRY charges into the massing PRISONERS. TRENCH follows him, laughing through his tears. 
+
+INT. HOUSE OF STONE - DAWN.
+
+Blinding sunlight. The PRISONERS stumble out of the House of Stone, covered in blood from the previous night's fighting. IDRIS looks down at the broken bodies at his feet. HARRY and TRENCH are amongst the dead. IDRIS prods them both with his spear, making sure.
+
+IDRIS
+
+(In Arabic)
+
+Take them to the boats.
+
+EXT. courtyard/ RIVERside/ PRISON/ OMDURMAN - day.
+
+A dozen BODIES are dumped, one on top of the other, in two funeral boats. HASSAN takes charge of one, IDRIS the other.
+
+EXT. BOATS/ RIVER/ OMDURMAN - day.
+
+The GUARDS hold onto the sides of the boat, steadying themselves in case a crocodile tries to ram. The PRISONERS charged with throwing the bodies overboard, stare into the water, terrified of the unseen monsters lurking below.
+
+EXT. hassan's BOAT/ RIVER/ OMDURMAN - day.
+
+The corpses are piled high in Hassan's boat, a mass of chalk white flesh. As we follow a rivulet of blood into the heap, we see Harry's face. His eyes suddenly open. Very much alive. They move around, trying to locate Trench. Above him he feels the corpses being lifted off, easing the burden on his back. 
+
+EXT. RIVER/ OMDURMAN - day.
+
+Arrows break the surface, as the giant crocodiles move in.
+
+EXT. hassan's BOAT/ RIVER/ OMDURMAN - day.
+
+HARRY finally glimpses TRENCH. His friend is still unconscious. In tiny movements, HARRY slips through the ice cold flesh that separates them, and slides over TRENCH's body, trying to ensure he's thrown overboard first. 
+
+EXT. idris's BOAT/ RIVER/ OMDURMAN - day.
+
+Blood boils around the boats as more bodies are tossed overboard. As IDRIS stares into the murky depths, he sees a fifteen foot monster, dragging away a translucent corpse.
+
+EXT. hassan's BOAT/ RIVER/ OMDURMAN - day.
+
+HARRY and TRENCH are the only bodies left in Hassan's boat. HARRY braces himself as he's lifted into the air. His body is swung out three times and thrown overboard.
+
+EXT. RIVER/ OMDURMAN - day.
+
+HARRY feels the warm water envelop him. Any trace of paralysis the poison has left, disappears in an instant, driven away by sheer terror. Through the eerie green haze he glimpses the dreamlike silhouettes of the crocodiles, feasting on the corpses, dragging them along the river bed. HARRY's instincts are to swim away as fast as he can, but even now he remembers TRENCH. The water above him explodes as TRENCH is hurled in. HARRY swims up to the surface and grabs hold of his friend.
+
+EXT. idris's BOAT/ RIVER/ OMDURMAN - day.
+
+IDRIS stares curiously as he watches the two bodies drifting away. The water around them is bubbling but there's no blood. It's only as he looks more closely that IDRIS realises one of the bodies is kicking his feet, swimming away.
+
+iDRIS
+
+(In Arabic)
+
+Hassan. Behind you!
+
+EXT. HASSAN's BOAT/ RIVER/ OMDURMAN - day.
+
+HASSAN turns around to see HARRY and TRENCH disappearing with the current. He takes out his pistol.
+
+EXT. RIVER/ OMDURMAN - day.
+
+Holding the unconscious TRENCH in his arms, HARRY swims towards the fastest point of the river, hoping the current will drag him away from the crocodiles and the boats.
+
+EXT. HASSAN's BOAT/ RIVER/ OMDURMAN - day.
+
+HASSAN aims the pistol with his good hand. He's about to squeeze the trigger, when there's a loud explosion from the opposite shore. A bullet smashes through his skull and hurls him into the water. 
+
+EXT. opposite shore/ RIVER/ OMDURMAN - day.
+
+The MAN who fired the shot lowers his rifle. It's ABOU FATMA. He kicks his camel, and gallops along the riverbank, trying to keep up with HARRY and TRENCH in the water.
+
+EXT. IDRIS's BOAT/ RIVER/ OMDURMAN - day.
+
+IDRIS stares after them in fury. He orders the GUARDS to row into the current and give chase.
+
+EXT. RIVER/ OMDURMAN - day.
+
+HARRY and TRENCH tumble through the churning water, the current boiling all around them. There are splashes of water as bullets explode.
+
+EXT. opposite shore/ RIVER/ OMDURMAN - day.
+
+ABOU FATMA dismounts as he sees HARRY and TRENCH being picked off. He takes up a position near the riverbank, and fires at the pursuing boat.
+
+EXT. IDRIS's BOAT/ RIVER/ OMDURMAN - day.
+
+IDRIS ducks as one of his GUARDS is hit. He shouts at the remaining GUARDS to fire back at Abou Fatma.
+
+EXT. RIVER/ OMDURMAN - day.
+
+HARRY and TRENCH keep disappearing under the water. As he surfaces briefly, HARRY looks around. He sees the current hurtling towards a row of jagged rocks.
+
+EXT. RIVER/ OMDURMAN - day.
+
+IDRIS aims at the distant figure on the riverbank, and fires a volley of shots.
+
+EXT. opposite shore/ RIVER/ OMDURMAN - day.
+
+Two bullets spin ABOU FATMA round, grazing him in the leg, knocking the rifle out of his hand. Limping as fast as he can, he takes cover behind the camels.
+
+EXT. IDRIS's BOAT/ RIVER/ OMDURMAN - day.
+
+IDRIS looks back at HARRY and TRENCH, ready to pick them off. Suddenly his eyes stop. He sees the jagged rocks in his path. He yells at the GUARDS to row against the current. 
+
+EXT. RIVER/ OMDURMAN - day.
+
+The current picks up speed as it hurtles towards the rocks. HARRY holds TRENCH tightly, anticipating the impact. The current sweeps them right through the rocks. 
+
+EXT. opposite shore/ RIVER/ OMDURMAN - day.
+
+ABOU FATMA watches from the riverbank as IDRIS's boat tumbles helplessly towards the rocks. 
+
+EXT. IDRIS's BOAT/ RIVER/ OMDURMAN - day.
+
+The GUARDS leap off the boat at the last moment, but the current sweeps them up, and dashes their brains against the rocks. Only IDRIS holds on. The boat breaks up all around him, but protects him from the full impact. 
+
+EXT. RIVER/ OMDURMAN - day.
+
+HARRY and TRENCH surface on the other side of the rocks. Huge tree roots jut out near the riverbank. The current is still strong but it's swimmable.
+
+EXT. opposite shore/ RIVER/ OMDURMAN - day.
+
+ABOU FATMA rides after the disappearing bodies. 
+
+EXT. GIANT TREE ROOT/ RIVER/ OMDURMAN - day.
+
+HARRY reaches out and grabs a jutting tree root. With his legs clamped around TRENCH, he pulls them out of the fastest point of the current. As he looks behind him he sees IDRIS disappear under the torrent. Catching his breath, HARRY starts to clamber along the root, trying to make it to the safety of the riverbank. TRENCH groans, fully conscious now.
+
+harrY
+
+We're going to make it.
+
+TRENCH stares at HARRY with an almost childlike trust.
+
+harrY 
+
+See if you can touch the bottom.
+
+TRENCH dips his feet under, nodding as they touch the riverbed. 
+
+harrY 
+
+Grab the root.
+
+TRENCH grips the root. HARRY swims around him.
+
+harry
+
+Now walk to the riverbank. 
+
+treNCH
+
+My legs are broken.
+
+harry
+
+Your legs are fine. The poison paralyses the body. It's worn off.
+
+Gripping the root, TRENCH starts to walk against the current, the water flowing up to his neck. Slowly the river shallows. HARRY looks relieved as his friend finally tumbles onto the riverbank and collapses. He's about to follow him, when suddenly a pair of hands shoot out of the water, and grab him around the neck. It's IDRIS. He's also managed to clamber his way to safety. With a howl of rage he pulls HARRY's face under the water. 
+
+HARRY kicks and flails. With one huge hand IDRIS keeps him under the surface, with the other he holds onto the giant tree root. HARRY tries to loosen his grip, but he isn't strong enough. He reaches down into the riverbed, and gropes around until he finds a rock. He grinds it into IDRIS's wrist like a pummel stone.
+
+IDRIS whips his hand away in pain. HARRY is instantly sucked out of his grasp. The current smashes him headlong into another root, downriver. IDRIS stares at his escaped prey in fury. His anger clouds his reason. He lets go of his own root and lets the current drag him to HARRY's.
+
+EXT. RIVERbank/ OMDURMAN - day.
+
+HARRY drags himself towards the riverbank. He's only a few yards away when IDRIS's hands grab him again. HARRY turns around swinging and catches IDRIS on the jaw. Both of them tumble in the water. 
+
+They wrestle beneath the surface, then shoot up again, tearing at each other like wild animals. IDRIS grabs HARRY by the hair, and slams his face down on his knee, smashing his nose. The searing pain staggers HARRY. He tries to crawl away, but IDRIS stamps on his back, flattening him. He drops to his knees, and grinds HARRY's face into the riverbed.
+
+As he pulls him back up by the hair, we see HARRY's mangled features -- a mask of blood, eyes staring out, jaws hanging open in defeat. For a moment time seems to slow, then suddenly, shaking his head free, HARRY screams a savage, primal cry, and drives his elbow back into IDRIS's face, shattering bone and cartilege.
+
+IDRIS falls back, stunned. HARRY has his chance to get away, but he's not interested now. He wades after IDRIS, an expression of pure, uncontrollable rage in his eyes. As IDRIS tries to pick himself up, HARRY slams both fists into his mouth, smashing his teeth down his throat. 
+
+It's IDRIS's turn to look scared. He tries to crawl away, but the bloody faced demon is on him in seconds, ramming his head back under the water. IDRIS manages to kick him away briefly, but it only enrages HARRY. He comes back at IDRIS with a large rock between his hands, cracking his face open. 
+
+And still he isn't finished. Sitting astride the gurgling prison guard, HARRY raises both arms as high as they'll go, and smashes the rock into IDRIS's face, again and again. The guard's blood splatters all over him, but HARRY hardly seems to notice. He's gripped by a savage, primordial fury. Everything he's suffered has built up to this point. He's at his highest and lowest ebb. His hands whirr up and down, his eyes glow feverishly, his lips curl in a terrifying sneer. 
+
+Strong arms grab him from behind, but HARRY ignores them, hammering away. He's beyond hatred, beyond compassion, face to face with his deepest, darkest self. Again the arms try to pull him off, but HARRY brushes them aside. The blood and tears stream down his cheeks. He howls like an animal. His hands finally slow as his arms reach exhaustion. 
+
+This time ABOU FATMA manages to pull him off. HARRY collapses in his arms and weeps like a baby, finally breaking out of the darkness, no longer sure who or what he is anymore. ABOU FATMA holds him tightly, hushing him, comforting him, understanding.
+
+EXT. country lane/ bintree/ england - day.
+
+A primal silence. Mist hovers over the emerald fields. In the distance a carriage approaches. As it draws nearer, we see HARRY, sitting in the back. His scars have healed, but his eyes have the far away look of someone who's seen too much. The outlines of the village church appear through the fog. HARRY hears a dog barking.
+
+hARRY
+
+(To the Driver)
+
+Could you stop here.
+
+EXT. church/ bintree - day.
+
+The barking grows louder as HARRY enters the churchyard. He sees a Collie, tied to a post. It's Dermod's dog. HARRY bends down and strokes the animal. Then he looks up through the open church door.
+
+INT. church/ bintree - day.
+
+At first HARRY doesn't see ETHNE. She sits quietly in one of the Church pews. It's only as she hears his footsteps that she turns around. Her eyes stop still. She stares at him in silence, taking in the ravages of time. All the diffidence and boyish charm she remembers have long since disappeared. In their place, there's an inner strength, and confidence. 
+
+ETHNE
+
+Everyone said how much you'd changed. I didn't believe them.
+
+hARRY
+
+Do I look that bad?
+
+ETHNE
+
+Trench came to see me last week. He looked a good deal worse than you.
+
+hARRY
+
+He's suffered more.
+
+ETHNE
+
+That isn't what he told me.
+
+She stares at him with quiet pride.
+
+ETHNE
+
+May I have it back?
+
+hARRY
+
+That isn't why I came.
+
+ETHNE
+
+I'd still like it back.
+
+(She smiles sadly)
+
+I have three of them, I'd like four.
+
+HARRY stares at her, then takes out the fourth feather.
+
+hARRY
+
+I'm almost sorry to let it go. It's brought me a lot of luck these past few months. 
+
+ETHNE takes the feather, unable to look at him. She stares at it in silence.
+
+ETHNE
+
+When did you get back?
+
+hARRY
+
+Two weeks ago.
+
+She looks hurt that it's taken him so long to come and see her, but she knows she has no right to expect more. 
+
+ETHNE
+
+I'm glad you did what you did, on your own, without anyone's help. I'm glad for you, Harry.
+
+hARRY
+
+I did nothing on my own. You were with me the whole time. 
+
+The tears begin to shine in her eyes. 
+
+ETHNE
+
+You've heard our news?...
+
+hARRY
+
+Yes.
+
+ETHNE nods, unable to continue. 
+
+hARRY
+
+I didn't come here to change your mind. 
+
+(With quiet dignity)
+
+The most I hoped for -- and I hoped for it every day -- was that I could do enough to save the memory of what we had. So that you wouldn't always be ashamed of the time we spent together. 
+
+ETHNE is too ashamed of herself to answer him. Her eyes drift to a crack of sunlight on the church wall, glinting through the stained glass windows. 
+
+hARRY
+
+What are you thinking?
+
+ETHNE
+
+You'd laugh if I told you.
+
+harrY
+
+That might not be a bad thing.
+
+ETHNE
+
+I was thinking I'd get up and leave when that patch of sunlight disappeared. So far it's been quite resilient.
+
+She smiles gently. For a moment they're the Harry and Ethne of old.
+
+ETHNE
+
+I passed by your appartment the other day.
+
+hARRY
+
+(Surprised)
+
+When?
+
+ETHNE
+
+When you didn't come and see me...
+
+(She smiles sadly)
+
+I was in London for the day. It took me hours to pluck up the courage. When I finally drove by, your lights were off. 
+
+hARRY
+
+I've hardly been out since I got back.
+
+ETHNE
+
+It was last Friday. Between five and six.
+
+hARRY
+
+(Pausing)
+
+I'd gone to see my father.
+
+ETHNE
+
+(Smiling ironically)
+
+Someone must be watching over us.
+
+The sunlight lingers precariously on the wall. 
+
+ETHNE
+
+It will pass. You'll meet someone soon. Then you and her, and Jack and I, will sit over tea and chatter politely, as if there was never anything between us.
+
+hARRY
+
+That won't happen.
+
+ETHNE
+
+It has to happen.
+
+(The tears fill her eyes)
+
+Because I love you Harry...and I can't. I can't.
+
+The sunlight on the wall finally fades. ETHNE wipes her tears and gets up to leave. As she tries to walk past him, HARRY takes her in his arms. She doesn't resist. If anything she's relieved. They stay like that for a moment, holding each other, unable to do anything else. We feel their desperate longing, but there's a self imposed wall that keeps them apart. ETHNE pulls away gently.
+
+ETHNE
+
+I'll take you to the station.
+
+He nods.
+
+hARRY
+
+I wanted to look in on Jack. I'll leave him a note.
+
+ETHNE
+
+(Considering)
+
+No, he'd love to see you. He's staying at the vicarage. It's on the way.
+
+They're polite around each other now, like strangers. ETHNE slips past him with an awkward smile. HARRY waits before he follows her. They walk down the aisle, several feet apart.
+
+INT. DURRANCE's room/ vicarage/ glenalla - day.
+
+DURRANCE sits at a table, knotting his tie. There's a determination in his eyes, as if the smallest activity has become a battle to be won. Suddenly he hears the noise of Ethne's carriage outside. His face lights up. He feels his way towards the window. 
+
+The carriage door takes a long time to open. DURRANCE stares curiously. Finally he hears footsteps on the gravel. They're heavier than he expected. They stop a moment. DURRANCE knows whoever it is, is staring up at him in the window. He looks thoughtful now, as if he knows who it is. 
+
+He turns away from the window and finds a chair. He sits, facing the door, checking to make sure the carafe of Scotch and the crystal glasses are within easy reach. The footsteps climb the stairs. There's a knock on the door.
+
+DURRANCE
+
+Come in.
+
+HARRY enters. He stops as he sees his friend. DURRANCE's face has softened from inactivity. His skin seems pale compared to Harry's coarse, sunburnt features. 
+
+DURRANCE
+
+It's good to see you, Harry. 
+
+hARRY
+
+(Quietly impressed)
+
+How did you know?
+
+DURRANCE
+
+A calculated guess. 
+
+(He grins)
+
+Scotch alright?
+
+hARRY
+
+Perfect.
+
+DURRANCE
+
+I've got to cut down on the stuff. I'm putting on weight. 
+
+hARRY
+
+You look good.
+
+DURRANCE
+
+Not as good as you, I'm sure.
+
+HARRY watches his friend, taking the carafe, pouring two perfect glasses. Everything Durrance does, is designed to show him he's alright, that there's nothing to pity. 
+
+DURRANCE
+
+(Handing him the drink)
+
+I heard Ethne's carriage outside?
+
+hARRY
+
+She's giving me a ride to the station.
+
+DURRANCE
+
+Why didn't she come up?
+
+hARRY
+
+(He knows the question isn't as casual as it sounds)
+
+I think she wanted to give us a few minutes alone. 
+
+DURRANCE
+
+Do we need a few minutes alone? 
+
+Even though he's smiling, the air is thick with tension.
+
+hARRY
+
+I came to thank you, Jack.
+
+DURRANCE
+
+For what? 
+
+hARRY
+
+For standing by me.
+
+DURRANCE
+
+If you're talking about the feathers, I wasn't there.
+
+hARRY
+
+Willoughby told me you were. He said you'd tried to talk them out of it. 
+
+DURRANCE hesitates. 
+
+DURRANCE
+
+You don't owe me anything Harry. The wedding isn't for another month. Ethne's free to make up her own mind.
+
+hARRY
+
+You don't owe me anything either, Jack. And she's made up her mind. You should trust her judgement.
+
+A long silence. DURRANCE is too proud to respond. HARRY stares at his friend, regretting the wall between them.
+
+hARRY
+
+I'd better go. I'll miss my train. I'll come and see you soon.
+
+He finishes his drink and gets up. 
+
+DURRANCE
+
+Have another one.
+
+hARRY
+
+I can't Jack.
+
+DURRANCE
+
+Please.
+
+His voice is softer now, more conciliatory. 
+
+DURRANCE
+
+The friendship was the best thing about that place. It's the one thing I haven't been able to hang onto. 
+
+It's his way of asking Harry to stay. HARRY sits again.
+
+DURRANCE
+
+I've become like one of those old soldiers we used to laugh at. Forcing my stories on everyone. Enough medals on my uniform to light up a Christmas tree.
+
+(Filling their glasses)
+
+Have they given you back your commission?
+
+hARRY
+
+They haven't acknowledged me in any way.
+
+DURRANCE
+
+I suppose it wouldn't be the British Army if they admitted their mistakes.
+
+hARRY
+
+I don't know if it was a mistake. I was never a real soldier like you.
+
+DURRANCE
+
+A real soldier doesn't come back in a hospital ship. 
+
+(Raising his glass)
+
+To Castelton and all the others we left behind.
+
+HARRY watches his friend down his whisky, sensing the guilt and pain inside. 
+
+hARRY
+
+(Reassuring him gently)
+
+You did everything you could.
+
+DURRANCE
+
+You saw it happen?
+
+hARRY
+
+From a distance. I remember the entire British Square retreating in perfect order, and then these two lunatics, charging out to save their friend.
+
+(He smiles affectionately)
+
+I remember thinking there wasn't a bullet in the world that could stop you that day.
+
+DURRANCE
+
+(Ironically)
+
+Except my own.
+
+hARRY
+
+You obviously weren't meant to die. You certainly tried your best.
+
+DURRANCE chuckles, close to tears, holding them back.
+
+DURRANCE
+
+It's hard to talk like this with anyone else. They all want to know how many people you've killed, but the moment you mention the friends you've lost, their eyes glaze over.
+
+hARRY
+
+They weren't there.
+
+DURRANCE
+
+No.
+
+(A beat)
+
+Do you ever miss the desert Harry?
+
+hARRY
+
+I'm glad I'm home.
+
+DURRANCE
+
+It was the best time of my life. Whenever anyone had a problem they came to me. I never felt so needed. __
+
+(He smiles)
+
+Maybe we should change places.
+
+HARRY isn't sure what he means. DURRANCE tops up their glasses.
+
+DURRANCE
+
+You remember the first time we led a cavalry charge in public?
+
+hARRY
+
+You wiped the floor with me. Most of my horses ended up in the bandstand.
+
+DURRANCE
+
+Ethne was watching.
+
+hARRY
+
+(Hesitating)
+
+That's right.
+
+DURRANCE
+
+We'd met her the previous night, at the regimental ball.
+
+hARRY
+
+I remember.
+
+DURRANCE
+
+You should. You were the only one she danced with.
+
+HARRY smiles but doesn't say anything. 
+
+DURRANCE
+
+I've never been so jealous. I stayed up all night brooding. The next day I was determined to show you up -- prove to her I was the better soldier.
+
+hARRY
+
+(Affectionately)
+
+You were always the better soldier. 
+
+DURRANCE
+
+And it still didn't make a difference.
+
+(He smiles wistfully)
+
+She was the first person I looked for in the crowd, and she was staring at you. Everyone else was applauding me, and she was staring at you.
+
+(A beat)
+
+I'm not sure if anything's changed.
+
+HARRY can't speak. He knows what DURRANCE is saying.  
+
+DURRANCE
+
+(Raising his glass)
+
+To us Harry.
+
+He leans over, grinning, and touches Harry's glass.
+
+DURRANCE
+
+To you.
+
+EXT. churchyard/ glenalla - day.
+
+Church bells chime, drowned out by the excited GUESTS. The Wedding party has gathered outside the chapel, waiting for the bride. There's a flurry of activity as Ethne's carriage finally draws up. FRIENDS and FAMILY run over to greet her.
+
+HARRY's PARTY stays behind at the Church door, preparing him for her imminent arrival. GENERAL FEVERSHAM and COLONEL SUTCH make last minute adjustments to HARRY's suit and tie. WILLOUGHBY reminds TRENCH to make sure he's still got the ring.
+
+ETHNE finally emerges from the carriage, looking radiant in a white dress. HARRY tries to catch a glimpse of her, but TRENCH covers his eyes, as if it's still bad luck to see his bride. 
+
+ETHNE laughs as she walks past them into the church, accompanied by her FATHER. TRENCH waits until she's safely inside, before he removes his hands from Harry's eyes. HARRY looks around, hoping to see Durrance amongst the crowd. 
+
+His friend is nowhere to be seen. HARRY smiles at the other GUESTS, but he seems distracted, as if he knows in his heart Durrance won't show. Slowly the CROWD outside thins until only HARRY, TRENCH, and WILLOUGHBY remain. 
+
+trENCH
+
+Ready?
+
+HARRY has one last look for Durrance, still hoping against hope, then he nods and follows his friends inside. 
+
+The noise of the choir fades as the doors close behind them. For a moment we're left in the balmly stillness of the churchyard, and then, in it's place, we hear the unmistakeable whisper of the desert wind.
+
+FADE OUT.
+
+CUT TO:
+
+INT. BACK ROOM - CHURCH AT GLENALLA - DAY (CHURCH ORGAN OVER)    155
+
+In full dress uniforms, Colonel Sutch and General Feversham work Harry over -- adjusting his collar:
+
+GENERAL FEVERSHAM
+
+All set... looking good.
+
+HARRY
+
+(mock nautical)
+
+Aye, sir.
+
+GENERAL FEVERSHAM
+
+That's enough out of you...
+
+As they shove him through the door -- turning back to Sutch:
+
+HARRY
+
+By the way, I must remember to thank you...
+
+(pause)
+
+For telling everyone I was dead.
+
+SUTCH
+
+I've never been so happy to be wrong in all my life.  But I did what I thought was right..
+
+HARRY
+
+A terrible habit.
+
+(beat)
+
+Raises all kinds of hell...
+
+As he heads out through the door, with the ORGAN PLAYING: "THE WEDDING MARCH..."
+
+SERIES OF SHOTS (MUSIC OVER):                                   156
+
+- THE CHAPEL: is filled with MILITARY MEN; Feversham family and friends; Mrs. Adair; and a church full of locals.
+
+- HARRY'S POV - ON ETHNE: walking down the aisle -- as beautiful as a bride can be.
+
+DISSOLVE TO:
+
+- HARRY AND ETHNE: kissing at the altar -- joined together as man and wife, as...
+
+GENERAL FEVERSHAM (v.o.)
+
+(bellows)
+
+Officers...
+
+CUT TO:
+
+EXT. CHURCH - AFTER CEREMONY                                     157
+
+ANGLE ON: the assembled military men -- in two lines, leading from the church door:
+
+GENERAL FEVERSHAM (CONT'D)
+
+(bellows)
+
+Draw...
+
+CLOSEUP: hands on hilts, as:
+
+GENERAL FEVERSHAM
+
+(bellows)
+
+Swooooords!!!
+
+TWO ROWS OF SWORDS ARE PULLED AND FLOURISHED -- INTO THE AIR!
+
+Sunlight glinting off the blades, the Officers and former Officers of the 1st Battalion Grenadier Guards form a canopy, beneath which...
+
+HARRY AND ETHNE: exit the church, arm-in-arm, to the CHEERS of their families and friends... and the bitter-sweet tears of Mrs. Adair.  As they move down the steps, beneath the ceremonial swords...
+
+WITH AN ARMY BAND PLAYING A ROUSING MARCH...
+
+TRACK DOWN THE LINE TO REVEAL: the joyous faces of General Feversham, Colonel Sutch, Colonel Willoughby, and Captain Trench.  As their heads turn to follow the lovers...
+
+CONTINUE TRACKING TO REVEAL: an EMPTY SPACE -- amidst the row of Officers, in honor of the missing Durrance.
+
+TRACK IN TOWARD THAT EMPTY SPACE, AND RACK BEYOND IT TO REVEAL:
+
+Harry and Ethne, kissing for real... at last.
+
+FREEZE FRAME.
+
+As the MILITARY MARCH PLAYS ON;
+
+CREDITS ROLL TO...
+
+THE END.
+

@@ -1,0 +1,8790 @@
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Ghost Ship - by Mark Hanlon - First Draft
+
+                                  "GHOST SHIP"
+
+                              (formerly "CHIMERA")
+
+                                       by
+
+                                  Mark Hanlon
+
+                                  First draft
+
+							 FADE IN
+
+	INT. BARGE - DAY
+
+	Crewman EPPS (29), wearing a life vest and tool belt, jumps 
+
+	down into the darkness. She stands in a great hollow cavern, 
+
+	oily, wet, resonant with the sound of creaking, rusty steel 
+
+	and WATER MOVING OVER ITS HULL on the other side.
+
+	INT. BARGE - LATER - DAY
+
+	Epps comes to a low point in the darkness, shining her light 
+
+	on a lake of salt water sloshing against the bulkhead. She 
+
+	kneels. As the water sloshes back she sees that it is leaking 
+
+	in through the seams in the steel plate of the hull.
+
+	EXT. BARGE - LATER - DAY
+
+	Epps pulls herself onto the deck from below. She stands on a 
+
+	rusting 5000 ton tank barge being pulled in the open ocean 
+
+	by a brawny marine tug at the end of a 150 foot tow cable. 
+
+	It is a typical summer day in the southern Bering Sea, which 
+
+	means a healthy chop and a stiff cold breeze out of the north-
+
+	west.  She closes the hatch behind her and makes her way 
+
+	forward.
+
+	EXT. BARGE - BOW - MOMENTS LATER - DAY
+
+	Up ahead, the tug pulls steadily, grey-black clouds of diesel 
+
+	smoke rising from its massive turbine vents.
+
+	Epps cinches and checks her body harness, focused and 
+
+	professional. The product of a rocky childhood in the Pacific 
+
+	Northwest and a few years of hard living, she's found her 
+
+	true calling now. And under some grime, several polypro shirts 
+
+	and a pair of orange men's Insulite pants she might even be 
+
+	considered pretty.
+
+	She clips her harness into the tow cable where it attaches 
+
+	to a heavy pair of eye cleats at the bow. She climbs onto 
+
+	the cable, hanging out over the water as it breaks on the 
+
+	bow beneath her. She pulls herself forward on a roller bearing 
+
+	that fits over the width of the cable and starts off toward 
+
+	the tug at the other end.
+
+	EXT. ARCTIC WARRIOR - LATER - DAY
+
+	DODGE and GREER look on from the stern, where the boat's 
+
+	name "Arctic Warrior" is emblazoned on the transom. Dodge 
+
+	(37), scruffy chief engineer, wearing de rigueur greasy 
+
+	coveralls and nicotine stained fingers, is an expatriate 
+
+	Texan and former merchant marine. GREER (42), is the boat's 
+
+	first mate, African American, originally from some sweltering 
+
+	red-neck hellhole, now a tug pilot intentionally well to the 
+
+	north.
+
+	They watch as Epps pulls herself toward them, the cable 
+
+	occasionally dipping a few feet with a spray of water as a 
+
+	passing swell slackens it. Epps pulls herself to the stern 
+
+	where the cable winds into a tow anchor.
+
+				EPPS
+
+		It's a slow leak.
+
+	She unclips and drops to the deck.
+
+				GREER
+
+		What's slow?
+
+				EPPS
+
+		Maybe twenty gallons an hour.
+
+				DODGE
+
+		Where from?
+
+				EPPS
+
+		Amidships starboard at the beam.  
+
+		Just under the waterline. I don't 
+
+		think it's a problem.
+
+				GREER
+
+		Hear that, Dodge? Epps don't think 
+
+		it's a problem.
+
+				DODGE
+
+		I'll sleep good tonight knowing that.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	The view from the pilothouse commands 360 degrees as radar 
+
+	and GPS navigation displays glow. MURPHY, the ship's master, 
+
+	pilots the boat. He is 48, at sea all his adult life, and 
+
+	most of the rest, a fact written on his face and one that 
+
+	every crewman who's ever worked for him has been willing to 
+
+	bet his life on. A walkie-talkie CRACKLES AWAKE.
+
+				GREER (V.O. RADIO)
+
+		Greer to Murphy.
+
+				MURPHY
+
+			(lifting the radio)
+
+		Go.
+
+	Murphy turns back to see Greer, Epps, and Dodge looking up 
+
+	at him from the stern.
+
+				GREER
+
+		The number nine on the starboard 
+
+		side's half flooded. Epps says it's 
+
+		a slow leak just under the waterline, 
+
+		about twenty gallons an hour. They 
+
+		must've pumped it before we left 
+
+		Sitka.
+
+				MURPHY
+
+		Of course they did.
+
+				GREER
+
+		Let the buyer beware.
+
+				MURPHY
+
+		What do you say, Dodge?
+
+				DODGE (V.O. RADIO)
+
+			(taking the radio)
+
+		If it started out at twenty an hour 
+
+		the piece of shit'd be at the bottom 
+
+		of the Gulf by now. Whether it'll 
+
+		make St. Lawrence is anybody's guess.
+
+	EXT. OPEN OCEAN - DAY
+
+	HIGH AND WIDE as the Arctic Warrior pulls the barge against 
+
+	the swell of a grey ocean and a darkening sky.
+
+						 DISSOLVE TO:
+
+	EXT. PORT GERMAINE - ST. LAWRENCE ISLAND - DAY
+
+	The shores of St. Lawrence Island open into a small port 
+
+	town of mainly pre-fab buildings as the Arctic Warrior 
+
+	approaches with the barge, now pathetically listing to one 
+
+	side as it moves into the harbor.
+
+	EXT. PORT GERMAINE - DOCKS - LATER - DAY
+
+	A smaller harbor tug helps the Arctic Warrior jockey the 
+
+	listing barge to the dock as Epps and Dodge jump off to tie 
+
+	her up.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - MOMENTS LATER - DAY
+
+	Greer feathers the tug into position and shuts down the 
+
+	turbines.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - DAY
+
+	Murphy jumps down from the pilothouse to the deck as a fat 
+
+	Russian man, Vasili (60) and a MECHANIC in grease-covered 
+
+	orange coveralls approach from the dock.
+
+				VASILI
+
+		I thought you say Tuesday.
+
+				MURPHY
+
+		Better late than never.
+
+				VASILI
+
+			(seeing the listing 
+
+			barge)
+
+		What's this?
+
+				MURPHY
+
+		You got a leak in the number nine 
+
+		compartment.
+
+				VASILI
+
+		No, no. You got leak.
+
+				MURPHY
+
+		You pump it out and re-seam the hull, 
+
+		she'll be good as new.
+
+				VASILI
+
+		That cost me twenty grand at least.
+
+				MURPHY
+
+		Fifteen, at the most.
+
+				VASILI
+
+		Twenty. You knock off twenty and 
+
+		then we see. After my guy looks at 
+
+		it.
+
+	INT. VASILI'S OFFICE - DAY
+
+	In a prefab office with a view of the shipyard, Vasili cuts 
+
+	a check as Murphy and Greer look on. He tears it out of the 
+
+	book, handing it across the desk to Murphy, who inspects it.
+
+				MURPHY
+
+		You're kidding, right?
+
+				VASILI
+
+		You want fair pay, make hamburger 
+
+		for Mickey D. Otherwise, please to 
+
+		sign.
+
+	Vasili pushes a transfer register toward him. Murphy signs.
+
+	EXT. SHIPYARD - DAY
+
+	Greer and Murphy walk back toward the dock.
+
+				GREER
+
+		Not bad for dragging a leaky tub 
+
+		half way to Russia.
+
+				MURPHY
+
+		He'll sell the scrap for three times 
+
+		what he paid.
+
+				GREER
+
+		I must be in the wrong business.
+
+				MURPHY
+
+		You got that right.
+
+				GREER
+
+			(imitating Vasili)
+
+		Better than "making hamburger for 
+
+		Mickey D."
+
+	INT. BAR - NIGHT
+
+	A typical port town bar. Except this one is on an island in 
+
+	the middle of the Bering Sea. Epps lines up a shot at the 
+
+	pool table as a couple of SEAMEN check out her ass and a 
+
+	tattoo of Wiley Coyote poking out of her pants. Greer reads 
+
+	a paper near-by.
+
+	Murphy enters, crossing to the bar where Dodge nurses a beer 
+
+	and a cigarette. Murphy throws down an envelope with Dodge's 
+
+	name on it. Dodge picks it up, thumbs through a thick stack 
+
+	of hundreds.
+
+				DODGE
+
+		Much obliged, skipper.
+
+	INT. BAR - LATER - NIGHT
+
+	The place is a little more crowded now as Epps pushes her 
+
+	way through to the bar, a cigarette dangling from her mouth. 
+
+	She buys two beers and pays the BARTENDER from her envelope 
+
+	of cash. She takes the beers back to the far wall where a 
+
+	young off-duty COASTGUARDSMAN stands. He takes one, they 
+
+	laugh.
+
+	AT A TABLE
+
+	Beers, cigarettes and pay envelopes on the table before them, 
+
+	Dodge, Greer and Murphy look on at Epps across the room, who 
+
+	is showing the coastguardsman a birthmark on her neck.
+
+				GREER
+
+		Looks like Epps' gonna get some 
+
+		tonight.
+
+				DODGE
+
+		With that coxswain dickhead.
+
+				MURPHY
+
+		You aren't jealous, are you Dodge?
+
+				DODGE
+
+		Are you kidding me? Jealous? Epps?  
+
+		Gimme a break.
+
+	Greer and Murphy trade looks as Dodge raises his beer.
+
+				DODGE
+
+		What a laugh.
+
+	A MINOR COMMOTION can be heard as they sit there.
+
+				WOMAN'S VOICE (O.S.)
+
+		I'll show you, bitch!
+
+	They look over to see the coastguardsman's GIRLFRIEND, late 
+
+	20s, hefty in a red miniskirt and big hair.
+
+				GIRLFRIEND
+
+		You want to mess with me, I'll kick 
+
+		your bitch ass, girl.
+
+	WITH EPPS
+
+	Epps coolly puts out her cigarette as a circle has gathered 
+
+	around her and the girlfriend, anxious to see a girl fight.
+
+				EPPS
+
+		I don't know what you're talking 
+
+		about. I just bought this guy a beer.
+
+				GIRLFRIEND
+
+		This "guy" is my man, honey.
+
+				COASTGUARDSMAN
+
+		Darlene --
+
+				GIRLFRIEND
+
+		You, shut up.
+
+				EPPS
+
+			(starting off)
+
+		Listen, I don't want any trouble, 
+
+		okay -- ?
+
+				GIRLFRIEND
+
+			(stopping Epps)
+
+		Uh-uh. No. We're gonna fix this right 
+
+		now.
+
+				MURPHY
+
+			(stepping up)
+
+		What seems to be the trouble, ladies?
+
+				RIVETER
+
+		Whyn't you mind your own business, 
+
+		chief.
+
+	Murphy turns to see a shipyard RIVETER, a big man holding a 
+
+	beer, still wearing his welding leathers. Murphy turns back 
+
+	to Epps and the Girlfriend.
+
+				MURPHY
+
+		As I said, what seems to be the 
+
+		trouble?
+
+				RIVETER
+
+		Didn't you hear me, grandpa? Or you 
+
+		got your hearing aid turned down?
+
+				MURPHY
+
+		I heard you. But I'm choosing to 
+
+		ignore you. Epps, let's go.
+
+	Epps starts forward but the Riveter stands in her way, taking 
+
+	Murphy by the collar.
+
+				RIVETER
+
+		These ladies was having themselves a 
+
+		discussion and you're interrupting 
+
+		it.
+
+				MURPHY
+
+		You got about two seconds to get 
+
+		your paws off me, Tarzan.
+
+				RIVETER
+
+		Or what?
+
+	Or WHACK! Murphy can't help but wince as a pool cue breaks 
+
+	in two over the Riveter's head.
+
+	Dodge, cigarette in his mouth, takes a look at the cue half 
+
+	he still holds, shaking his head.
+
+	The Riveter's hands fall from Murphy's collar and his legs 
+
+	buckle. Some of his BUDDIES hold him up as Greer reminds 
+
+	some of the others he's holding a pool cue of his own.
+
+				MURPHY
+
+		Epps?
+
+	He looks to Epps like let's get the hell out of here. She 
+
+	grabs her coat.
+
+				COASTGUARDSMAN
+
+		Wait.
+
+	Epps holds there as the Coastguardsman steps up to his 
+
+	girlfriend.
+
+				COASTGUARDSMAN
+
+		Darlene. It's over.
+
+	He gives her the ring from his finger. Murphy rolls his eyes 
+
+	as the others look on.
+
+				COASTGUARDSMAN
+
+		I don't love you anymore.
+
+	Darlene breaks into tears as they all look on, some pat her 
+
+	on the back.
+
+				COASTGUARDSMAN
+
+			(to Epps)
+
+		Come on, Candy. Let's get out of 
+
+		here.
+
+	The Coastguardsman takes her by the hand. Epps looks to Murphy 
+
+	and the others as he leads her out.
+
+	EXT. ARCTIC WARRIOR - DAY
+
+	Murphy, Greer, and Dodge ready the tug to leave as Epps 
+
+	approaches on the dock. She jumps down onto the deck, a spring 
+
+	in her step and a song in her heart.
+
+				EPPS
+
+		Morning everybody.
+
+				GREER
+
+		Show your tatoos to that coxswain 
+
+		last night, did you Epps?
+
+				EPPS
+
+		Showed him a hell of a lot more than 
+
+		that.
+
+				GREER
+
+		I bet you did.
+
+				MURPHY
+
+		Candy?
+
+				EPPS
+
+		It's my pen name.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - DAY
+
+	Murphy throttles up the turbines and backs the tug away from 
+
+	the dock as Greer studies the dawn sky.
+
+				GREER
+
+		Red sky at night, sailor's delight.
+
+				MURPHY
+
+		Red sky in morning, sailor take 
+
+		warning.
+
+	EXT. PORT GERMAINE - DOCKS - CONTINUOUS - DAY
+
+	As the tug turns into the harbor channel, the sun rising 
+
+	under a cloud bank of brilliant red and orange.
+
+						 DISSOLVE TO:
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - NIGHT
+
+	Dodge and Epps play cards at the galley table.
+
+				DODGE
+
+		Fuck it.
+
+	He puts down his hand. Epps takes another drag from her 
+
+	cigarette, collecting her winnings.
+
+				EPPS
+
+		One more?
+
+				DODGE
+
+		Why not.
+
+	She gathers the cards, shuffles.
+
+				DODGE
+
+		What is your first name?
+
+				EPPS
+
+		What?
+
+				DODGE
+
+		It just occurred to me I don't know 
+
+		your first name. All this time and I 
+
+		don't know it.
+
+	She deals the cards in silence.
+
+				EPPS
+
+			(finally)
+
+		Maureen.
+
+				DODGE
+
+		What?
+
+				EPPS
+
+		Maureen.
+
+				DODGE
+
+		Maureen?
+
+	She looks on at him as he holds there, takes his cards.
+
+				EPPS
+
+		What's yours?
+
+	Dodge takes a drag from his cigarette, thinking about it.
+
+				DODGE
+
+		Roger.
+
+				EPPS
+
+		Roger?
+
+				DODGE
+
+		Yeah.
+
+	She wants to laugh, but only studies her cards.
+
+				DODGE
+
+		You think that's funny
+
+				EPPS
+
+			(lying)
+
+		No.
+
+	She takes a hit from her cigarette as she plays her hand.
+
+	EXT. OPEN OCEAN - BERING SEA - NIGHT
+
+	THE SONG "SOS" BY ABBA BLASTS as the tug plows westward 
+
+	through a steady chop and a mild swell.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - NIGHT
+
+	The MUSIC COMES FROM HERE. Greer has the CD player cranked 
+
+	as he mans the helm in the glow of the pilothouse. He checks 
+
+	the radar, holds there a beat. He turns the MUSIC DOWN and 
+
+	picks up a walkie-talkie.
+
+				GREER
+
+			(into walkie)
+
+		Greer to Murphy.
+
+	Greer studies the radar display as he waits.
+
+				MURPHY (V.O. RADIO)
+
+		Yeah.
+
+				GREER
+
+		There's a large vessel out about ten 
+
+		miles to the north-west.
+
+	INT. ARCTIC WARRIOR - MASTER'S QUARTERS - CONTINUOUS - NIGHT
+
+	Murphy sits at his desk over the ship's log, holding his 
+
+	radio.
+
+				GREER
+
+		I been watching it for close to an 
+
+		hour and it hasn't moved. I can't 
+
+		raise it on the radio either. Makes 
+
+		me think it might be in trouble.
+
+				MURPHY
+
+		Alright. I'll be right up.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - LATER - NIGHT
+
+	CLOSE ON RADAR DISPLAY as the sweep-refresh reveals a bright 
+
+	point of light in the middle of nowhere.
+
+				MURPHY (O.S.)
+
+		Merchant vessel at position one seven 
+
+		four one five west, five seven seven 
+
+		five north.
+
+	Murphy holds the radio mic as Greer looks on, Epps and Dodge 
+
+	standing back.
+
+				MURPHY
+
+		This is tugboat Arctic Warrior whiskey 
+
+		alpha sierra bravo four zero niner 
+
+		two. Over.
+
+	Only the quiet hiss of white noise comes back from the radio 
+
+	speaker as the bright point flashes on the radar screen.
+
+				MURPHY
+
+			(to radio)
+
+		Merchant vessel at one seven four 
+
+		one five west, five seven seven five 
+
+		north, this is tugboat Arctic Warrior 
+
+		whiskey alpha sierra bravo four zero 
+
+		niner two. Over.
+
+	Again, only white noise comes back as the point flashes on 
+
+	the screen.
+
+				MURPHY
+
+		Too deep to anchor out there.
+
+				GREER
+
+		Looks like it's adrift.
+
+				EPPS
+
+		Could be a fishing boat.
+
+				GREER
+
+		Too big. More like a freighter.
+
+				MURPHY
+
+		What the hell would a freighter be 
+
+		doing up here? It's way out of the 
+
+		lanes. There's not a port for 800 
+
+		miles.
+
+				DODGE
+
+		Smugglers maybe.
+
+				GREER
+
+		Smuggling what? Tundra grass?
+
+	A beat as Murphy holds there. He raises the radio mic.
+
+				MURPHY
+
+		Merchant vessel at position one seven 
+
+		four one five west, five seven seven 
+
+		five north, this is tugboat Arctic 
+
+		Warrior. Do you copy? Over.
+
+	Again, only the quiet hiss of static comes back.
+
+				GREER
+
+		Call the Coastguard?
+
+				MURPHY
+
+		Steer to one eight five. Let's check 
+
+		her out.
+
+	EXT. OPEN OCEAN - NIGHT
+
+	The Arctic Warrior cuts a foamy break in the ink black water.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - NIGHT
+
+	CLOSE ON RADAR DISPLAY as the phantom point flashes closer.
+
+	Murphy looks on as Greer pilots, Dodge and Epps watching.
+
+				MURPHY
+
+		Alright. Back it off.
+
+	Greer throttles back and the boat slows.
+
+				MURPHY
+
+		Hit the lights.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - NIGHT
+
+	The halogen flood lights flare to life, brilliantly 
+
+	illuminating the water in front of the boat.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - NIGHT
+
+	The four of them look intently into the darkness beyond the 
+
+	light. Murphy reaches for the spot control, sweeping a broad 
+
+	beam of light with a joy stick.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - NIGHT
+
+	As the tug moves along, servo motors sweep the searchlight 
+
+	over the bow of the boat and into the darkness.
+
+	INT. ARCTIC WARRIOR - CONTINUOUS - NIGHT
+
+	They peer into the night beyond the boat as it slowly moves, 
+
+	when a shadow looms into view.
+
+				MURPHY
+
+		Whoa, whoa.
+
+	Greer throttles down all the way and they drift, as the shadow 
+
+	looms bigger before them in the light from the boat.
+
+	As they approach, the shadow appears to be a giant rusting 
+
+	bow, rising up from the water, disappearing in the darkness 
+
+	above them. Murphy sweeps the searchlight to reveal more of 
+
+	what appears to be a large, darkened ship. As they come 
+
+	around, the name "CHIMERA" can be seen above the anchor 
+
+	alleys.
+
+				MURPHY
+
+		"Chimera."
+
+	Murphy reaches for the mic, hits the LOUD HAILER.
+
+				MURPHY
+
+		Chimera.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - NIGHT
+
+	The tug is dwarfed by the massive rusting hulk of the Chimera 
+
+	rising above it.
+
+				MURPHY (O.S. LOUD HAILER)
+
+		This is civilian tugboat Arctic 
+
+		Warrior. Is there anyone aboard?
+
+	The quiet rumble of the tug's turbines is the only sound.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - NIGHT
+
+	Murphy raises the mic again.
+
+				MURPHY
+
+		Chimera, I am hove to at your port 
+
+		bow. Is there anyone aboard?
+
+	They wait, looking on at the silent, darkened ship under the 
+
+	glare of their lights.
+
+				MURPHY
+
+		Epps, come with me. You guys sit 
+
+		tight.
+
+	EXT. ARCTIC WARRIOR - LATER - NIGHT
+
+	Epps and Murphy, in heavy parkas, climb a hydraulic deck 
+
+	crane up to the Chimera as Dodge man's the controls against 
+
+	the movement of the water.
+
+	INT. ARCTIC WARRIOR - CONTINUOUS - NIGHT
+
+	Greer holds the tug steady as Epps and Murphy can be seen 
+
+	making their way up under the floodlights.
+
+	EXT. CHIMERA - FORWARD DECK - MOMENTS LATER - NIGHT
+
+	Murphy pulls himself up and jumps down onto the deck. Epps 
+
+	jumps down behind him. Murphy throws his light up on the 
+
+	superstructure. All remnants of paint have been rusted over, 
+
+	lending a still darker ominousness to it.
+
+	EXT. CHIMERA - FORWARD DECK - MOMENTS LATER - NIGHT
+
+	Murphy and Epps move cautiously along, shining their lights 
+
+	as they go. Despite the omnipresent corrosion, everything 
+
+	seems to be in order. The decks are clear and there is no 
+
+	apparent damage. They come to a hatchway. Epps shines her 
+
+	light down the darkened passage. Murphy moves in.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - NIGHT
+
+	Murphy and Epps move down the passageway. Even the walls in 
+
+	here are rusted. They come to a flight of stairs.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - NIGHT
+
+	Greer and Dodge wait. Greer reaches for his radio.
+
+				GREER
+
+			(into radio)
+
+		Talk to me, skipper.
+
+	After a moment, Murphy comes back on the radio.
+
+				MURPHY
+
+		We're in a stairwell just under the 
+
+		main superstructure.
+
+	INT. CHIMERA - STAIRWAY - CONTINUOUS - NIGHT
+
+	Murphy and Epps climb the darkened stairway.
+
+				MURPHY
+
+		This is definitely an old boat, maybe 
+
+		sixty years old. She hasn't been in 
+
+		service for at least twenty years. 
+
+		Probably a lot longer.
+
+	They top the stairs and walk into a wider passageway which 
+
+	takes them into an open area. Their lights shine around them, 
+
+	revealing sinks and counters and racks of old kitchen 
+
+	equipment, a few pots still hanging.
+
+	They move through the galley and into another, narrower, 
+
+	passageway.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - NIGHT
+
+	Greer and Dodge look on.
+
+				MURPHY
+
+		It's funny.
+
+				GREER
+
+		How's that?
+
+				MURPHY
+
+		Besides a little rust, everything's 
+
+		pretty well-preserved.
+
+	Greer and Dodge look at each other.
+
+				MURPHY
+
+		How she got out here is one hell of 
+
+		a good question.
+
+			(a long beat, then)
+
+		Jesus.
+
+	Dodge and Greer hold there, waiting. Only silence from the 
+
+	other end.
+
+				GREER
+
+		What is it?
+
+	No answer.
+
+				GREER
+
+		Murphy.
+
+	No answer.
+
+				GREER
+
+		Murphy, goddamit.
+
+				MURPHY
+
+			(finally)
+
+		Sorry.
+
+	Another beat in silence.
+
+				GREER
+
+		What is it?
+
+	INT. CHIMERA - BALLROOM - CONTINUOUS - NIGHT
+
+	Murphy and Epps stand at the top of a stairway, looking over 
+
+	an immense ballroom. Murphy raises his radio.
+
+				MURPHY
+
+		It's a passenger ship. It's a damn 
+
+		passenger ship.
+
+	Though it is dark, there is enough light to see its ornate 
+
+	opulence, tables and chairs in place near a large dance floor 
+
+	and orchestra well, and a magnificent crystal chandelier 
+
+	hanging over it all.
+
+	EXT. ARCTIC WARRIOR - FOREDECK - NIGHT
+
+	Epps and Murphy climb down the deck crane as Greer and Dodge 
+
+	meet them at the bottom.
+
+				MURPHY
+
+			(jumping down)
+
+		There's nobody on that boat.
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - NIGHT
+
+	Dodge, Epps, Greer and Murphy sit around the galley table.
+
+				DODGE
+
+		Probably slipped her moorings, got 
+
+		tangled up in a current.
+
+				EPPS
+
+		Out here? What, so a seven hundred 
+
+		foot passenger liner drifted out of 
+
+		Spokane harbor and nobody managed to 
+
+		bump into her until now?
+
+				DODGE
+
+		Somebody's probably looking for her 
+
+		as we speak.
+
+				MURPHY
+
+		Whatever the reason, she's adrift 
+
+		and abandoned. We've got every right 
+
+		to salvage her.
+
+				GREER
+
+		You mean tow her back? That's a thirty 
+
+		thousand ton ship you're talking 
+
+		about.
+
+				MURPHY
+
+		We've done it before.
+
+				DODGE
+
+		Yeah, from one side of the harbor to 
+
+		the other. But we got half the Bering 
+
+		Sea and the whole Alaskan gulf to 
+
+		drag her over.
+
+				MURPHY
+
+		You have any idea how much a ship 
+
+		like that could be worth in salvage? 
+
+		The fittings alone could go for a 
+
+		few million.
+
+				DODGE
+
+		If you get it back in one piece.
+
+				MURPHY
+
+		It's a risk I'm willing to take.
+
+				GREER
+
+		All we got to do is hit some rough 
+
+		weather and you can forget about it.
+
+				MURPHY
+
+		So we cut her loose and wait it out. 
+
+		A little weather couldn't be anything 
+
+		she hasn't seen before.
+
+				DODGE
+
+		It's a bloody navigation hazard.  
+
+		One boat can't control a ship that 
+
+		size.
+
+				MURPHY
+
+		The damn thing's been floating around 
+
+		for God knows how long and it hasn't 
+
+		hit anything yet. So we take it easy. 
+
+		A little of the old push pull.
+
+	A long beat as they hold there.
+
+				MURPHY
+
+		Listen. Forget this job's just a pay 
+
+		check for a minute. You know I've 
+
+		been good to you. But I'm prepared 
+
+		to offer you something better now.
+
+			(a beat)
+
+		If we do this right, it's worth a 
+
+		lot of money. A lot of money.
+
+	They hold there looking on at him, waiting.
+
+				EPPS
+
+		Go on.
+
+				MURPHY
+
+		Salvage fees on a vessel like this 
+
+		could come in around four million 
+
+		bucks. At least. Who knows, could be 
+
+		more. Could be a lot more.
+
+			(a beat)
+
+		What I'm proposing is... we split it 
+
+		four ways.
+
+	A beat. Dodge looks to Epps and Greer.
+
+				MURPHY
+
+		Think about it. A million bucks a 
+
+		piece.
+
+			(a beat)
+
+		You want to spend the rest of your 
+
+		days drag-assing tank barges on the 
+
+		gulf coast, fine. Otherwise, let's 
+
+		get to work.
+
+	EXT. ARCTIC WARRIOR - DAY
+
+	The tug is tied up alongside the Chimera, whose dark hull 
+
+	stretches off for seven hundred more feet in the light of 
+
+	day.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - DAY
+
+	Murphy brings up the radio mic as Greer and the others look 
+
+	on.
+
+				MURPHY
+
+			(to radio)
+
+		United States Coastguard, United 
+
+		States Coastguard, United States 
+
+		Coastguard. This is tugboat Arctic 
+
+		Warrior whiskey alpha sierra bravo 
+
+		four zero niner two. Over.
+
+	After a moment, a distance-warped, coolly professional, female 
+
+	voice comes back.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Arctic Warrior, Arctic Warrior, Arctic 
+
+		Warrior. This is United States 
+
+		Coastguard Station North Island. 
+
+		Over.
+
+				MURPHY
+
+		North Island, I wish to declare myself 
+
+		salvor-in-posession under section 
+
+		four two charlie of the International 
+
+		Maritime Convention.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Affirmative, Arctic Warrior. What 
+
+		type of vessel?
+
+				MURPHY
+
+		A passenger liner. Over.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Say again. Over.
+
+	Murphy looks to the others, almost smiling.
+
+				MURPHY
+
+		A passenger liner, north island.  
+
+		Over.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		What is the vessel name, registry, 
+
+		and present position? Over.
+
+				MURPHY
+
+		Passenger vessel "Chimera." I will 
+
+		spell: charlie hotel india mary echo 
+
+		romeo alpha. No registry information 
+
+		is available at this time. I have 
+
+		determined to the best of my ability 
+
+		that the vessel has been abandoned 
+
+		on the high seas at position one 
+
+		seven four west, five seven north 
+
+		at...
+
+			(checking his watch)
+
+		Two zero one four hours zulu time.  
+
+		Over.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Affirmative, Arctic Warrior. Please 
+
+		advise your salvage authority pending 
+
+		registry check. Over.
+
+				MURPHY
+
+		Roger, North Island. Arctic Warrior 
+
+		over and out.
+
+	EXT. ARCTIC WARRIOR - STERN WINCH - DAY
+
+	Dodge, Epps, Murphy and Greer are standing on the stern of 
+
+	the boat under the power winch.
+
+				DODGE
+
+		Okay. We're gonna use a heavier than 
+
+		usual twin cable rig this time, 
+
+		consisting of a pair of number three 
+
+		gauge braided wire tows.
+
+			(a beat)
+
+		We'll tie off through the anchor 
+
+		alleys. And come down to the aft 
+
+		port and starboard pins. Here.  Thus, 
+
+		we need to get two of these...
+
+			(indicating the cable)
+
+		Up there.
+
+	He indicates the bow of the Chimera.
+
+				DODGE
+
+		Seeing as though a foot of one of 
+
+		these fuckers weighs about a hundred 
+
+		pounds, it ain't gonna be what you'd 
+
+		call easy.
+
+			(a beat)
+
+		Any questions?
+
+				EPPS
+
+		Supposing one of those cables breaks 
+
+		under tow.
+
+				DODGE
+
+		Then we'll all be doomed. Any other 
+
+		questions?
+
+	EXT. ARCTIC WARRIOR - DAY
+
+	Murphy has backed the tug up to the bow of the Chimera. Greer 
+
+	operates the deck crane, one of Dodge's mammoth cables 
+
+	dangling from it down to the winch on the stern.
+
+	WITH EPPS
+
+	Epps hangs on to the top of the crane as it comes to the 
+
+	starboard anchor alley in the bow of the Chimera. Dodge pokes 
+
+	his face out from the other side.
+
+				DODGE
+
+		Ready?
+
+				EPPS
+
+		Bring it on, dude.
+
+	Dodge disappears from the hole and his hand comes back with 
+
+	a smaller pilot cable, which Epps takes and threads through 
+
+	the loop at the end of the tow cable. She places the end of 
+
+	the pilot cable in a vice collar and uses a wrench to tighten 
+
+	it down, with the effect of joining the two cables.
+
+				EPPS
+
+		OK.
+
+	Dodge disappears, pulling up the slack from the pilot cable 
+
+	through the anchor alleys.
+
+				DODGE (O.S.)
+
+			(finally)
+
+		Hit it!
+
+	Epps reaches over and unhinges the crane hook and the tow 
+
+	cable explosively drops, banging loudly against the Chimera's 
+
+	hull with a shower of black rust.
+
+	EXT. CHIMERA - WITH DODGE - CONTINUOUS - DAY
+
+	Dodge cranks a portable pulley winch on the deck, the pilot 
+
+	cable slowly pulling the tow cable up through the anchor 
+
+	alley.
+
+	It is heavy and the winch shows the strain as Dodge cranks 
+
+	it. He continues, when something gives in the winch mechanism 
+
+	and the whole thing slides forward on the pilot cable, 
+
+	entangling Dodge's leg and dragging him on his ass along the 
+
+	deck.
+
+	EXT. ARCTIC WARRIOR - WITH EPPS - CONTINUOUS - DAY
+
+	The tow cable creates a spray of rust and smoke as it spills 
+
+	out of the anchor alley before Epps.
+
+	EXT. CHIMERA - WITH DODGE - CONTINUOUS - DAY
+
+	Dodge slides toward the anchor alley like a piece of meat 
+
+	toward a sausage grinder, when the winch slams into it and 
+
+	stops dead, the cable continuing on with a loud shriek 
+
+	dangerously close to his face, until...
+
+	EXT. ARCTIC WARRIOR - WITH EPPS - CONTINUOUS - DAY
+
+	The last of the cable explosively whips out of the anchor 
+
+	alley in front of Epps and splashes in the water below. A 
+
+	beat as she holds there.
+
+				EPPS
+
+		Dodge? You alright?
+
+	EXT. CHIMERA - WITH DODGE - CONTINUOUS - DAY
+
+	Dodge lies tangled in the winch.
+
+				DODGE
+
+		Yes!
+
+	EXT. ARCTIC WARRIOR - DAY
+
+	Two tow cables extend from the Chimera's anchor alleys down 
+
+	into the water and come up again from the water to the tow 
+
+	anchor on the tug's stern.
+
+	Dodge looks on as Greer and Epps stand by. He raises his 
+
+	walkie.
+
+				DODGE
+
+		Alright, skipper, real easy.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	Murphy slowly throttles up, moving the boat forward. He turns 
+
+	to see as the Chimera drops back behind them.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - DAY
+
+	The tug moves slowly away from the Chimera as Epps, Greer 
+
+	and Dodge look on.
+
+	WIDE ON TUG AND CHIMERA
+
+	As the tug widens the distance, leaving the Chimera in place.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	Murphy holds the helm steady as the Chimera recedes.
+
+				DODGE
+
+		Steady as she goes.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - DAY
+
+	Dodge, Epps and Greer look on as the tow cables begin to 
+
+	rise in their wake.
+
+				DODGE
+
+			(into radio)
+
+		Throttle back.
+
+	The tug slows as the cables rise slowly from the water.
+
+				DODGE
+
+		More.
+
+	The tug slows still more.
+
+				DODGE
+
+		More.
+
+	It slows still more, until the tug just creeps along, and 
+
+	the massive tow cables rise entirely out of the water, 
+
+	straightening as the slack is pulled out.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	Some fifty yards behind the tug, the tow cables come taught 
+
+	in the anchor alleys of the Chimera.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	Murphy holds the throttle.
+
+				DODGE
+
+		Right there, skipper. Right there.
+
+	Murphy eases forward on the throttle and the turbines rise 
+
+	in pitch.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	As the tow cables stretch and the bow of the Chimera inches 
+
+	forward.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - DAY
+
+	The turbines grow louder as Greer, Epps, and Dodge look on 
+
+	at the Chimera behind them, the massive tow cables bowing 
+
+	under their own weight.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	Murphy eases forward on the throttle, picking up speed.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	The giant ship CREAKS AND MOANS as it starts forward, a small 
+
+	bow break forming on its hull.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - DAY
+
+	The tug is kicking up a foaming wake as it pulls the Chimera 
+
+	along behind it. Dodge lets out a hoot, exchanging high fives 
+
+	with Epps and Greer.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	Murphy smiles as he looks back at the Chimera following 
+
+	behind.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - DAY
+
+	CLOSE ON A CHART. The south Bering Sea and the Gulf of Alaska. 
+
+	A pencil traces a route.
+
+				MURPHY (O.S.)
+
+		I figure we go through at the Unimak 
+
+		Pass here. Refuel at Sanak Island.
+
+	Greer looks on from the helm as Murphy, Dodge and Epps stand 
+
+	over the map table.
+
+				MURPHY
+
+		With a little extra fuel, weather 
+
+		permitting, we should make Sitka in 
+
+		five days without another stop.
+
+				DODGE
+
+		Sounds reasonable.
+
+				GREER
+
+		Hypothetically speaking, what if we 
+
+		get this boat to Sitka and find out 
+
+		somebody wants it back?
+
+				DODGE
+
+		They shoulda thought of that when 
+
+		they let her float away.
+
+				GREER
+
+		I don't care what, ain't nobody just 
+
+		gonna let us walk away with a ship 
+
+		that size.
+
+				MURPHY
+
+		The law's on our side. If they want 
+
+		to challenge it, let them try.
+
+				EPPS
+
+		They must've scuttled it. Nobody 
+
+		just lets a ship float away.
+
+				DODGE
+
+		Nobody just scuttles a passenger 
+
+		liner either.
+
+				EPPS
+
+		Ever heard of insurance, big boy?
+
+				MURPHY
+
+		Either way, we found it. It's ours 
+
+		now -- .
+
+	An EXPLOSIVE THUD shudders the boat. They look to each other.
+
+				DODGE
+
+			(moving for the door)
+
+		What the...
+
+	EXT. ARCTIC WARRIOR - MOMENTS LATER - DAY
+
+	Dodge jumps down from the pilothouse as another LOUD THUMP 
+
+	BLOWS OUT OF THE TURBINE VENTS, SHOWERING OIL OVER THE DECK.
+
+				DODGE
+
+			(shouting up to the 
+
+			pilothouse)
+
+		ALL STOP! ALL STOP!
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	Greer shoves the throttle back.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - DAY
+
+	The boat goes dead in the water, thick black smoke billowing 
+
+	from the turbine vents.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	as the bow slows in the water, the tow cables coming slack.
+
+	INT. ARCTIC WARRIOR - ENGINE ROOM - CONTINUOUS - DAY
+
+	Dodge pulls open the door. The place is thick with smoke as 
+
+	he makes his way to the turbine gauges, Epps and Murphy 
+
+	behind. Dodge opens the number one turbine cover, looks 
+
+	inside.
+
+				DODGE
+
+		Mother fucker!
+
+				MURPHY
+
+		What is it?
+
+				DODGE
+
+		Threw a turbine blade.
+
+	Dodge looks over the smoking turbine, pulls back an aluminum 
+
+	intake blade, hot to the touch.
+
+				DODGE
+
+		Son of a bitch!
+
+	EXT. ARCTIC WARRIOR - DECK - DAY
+
+	Greer, Dodge, Epps, and Murphy confer on the deck.
+
+				DODGE
+
+		The number one turbine's pretty well 
+
+		trashed. Number two runs, but it's 
+
+		way underpowered.
+
+				MURPHY
+
+		How long to fix?
+
+				DODGE
+
+		Hard to say. I gotta get in there 
+
+		and have a look. At least a couple 
+
+		days. Depending.
+
+				GREER
+
+		You think the extra strain caused 
+
+		it?
+
+				DODGE
+
+		Nah. Everything was cool. It's just 
+
+		one of those things.
+
+	EXT. CHIMERA - DAY
+
+	The Arctic Warrior floats tied to the side of the Chimera.
+
+	INT. ARCTIC WARRIOR - ENGINE ROOM - DAY
+
+	Dodge has both turbines opened up as he works.
+
+	INT. CHIMERA - MEZZANINE DECK - DAY
+
+	Lights shine on what was once an elegant interior promenade.  
+
+	Murphy and Greer stand looking on at it.
+
+				MURPHY
+
+		Some classy tub in it's day, huh?
+
+				GREER
+
+		Yeah.
+
+				EPPS (O.S.)
+
+		Check this out.
+
+	AT THE PURSERS DESK
+
+	Epps looks through a file cabinet behind a heavy wood counter 
+
+	as Greer and Murphy approach.
+
+				EPPS
+
+		Everything's still here. Ticket 
+
+		records, receipts, books of account.
+
+	Greer picks one up.
+
+				GREER
+
+		One first class passage. Elizabeth 
+
+		James. Dubayy to Halifax. January 
+
+		29th 1953.
+
+	Murphy takes it, looking it over.
+
+				MURPHY
+
+		Chimera. Flag ship of the Dobbins 
+
+		Kirk Line. Nova Scotia.
+
+	INT. CHIMERA - "B" DECK - DAY
+
+	Murphy, Epps, and Greer top a staircase out onto a long, 
+
+	darkened corridor. They move down. Some of the doors are 
+
+	open, faint light from port holes showing small cabins with 
+
+	beds, desks, a few chairs.
+
+	INT. CHIMERA - TOP DECK - FORWARD PASSAGE - DAY
+
+	Murphy, Epps, and Greer come to a hatchway marked "BRIDGE."
+
+	INT. CHIMERA - BRIDGE - MOMENTS LATER - DAY
+
+	The forward windows show the expanse of the ocean before 
+
+	them and the rusting foredeck about 150 feet below. Light 
+
+	from the windows illuminates the bridge as Murphy, Greer and 
+
+	Epps look around. Despite a little corrosion and a layer of 
+
+	dirt, everything seems in its place.
+
+				MURPHY
+
+			(looking through 
+
+			scattered charts and 
+
+			papers)
+
+		I'd sure like to get my hands on the 
+
+		general log.
+
+	Epps steps up to the wall, where several framed photos hang.
+
+				GREER
+
+		That must be the old man right there.
+
+	The uniformed man in the photo is a gaunt, stern-looking man 
+
+	from another century, with dark, hollow eyes.
+
+				EPPS
+
+		Looks like one hell of a stick up 
+
+		his ass.
+
+				GREER
+
+		He'd let you off at the nearest port, 
+
+		that's for sure.
+
+	EXT. ARCTIC WARRIOR - NIGHT
+
+	A dimming purple horizon is giving way to night as the tug 
+
+	floats under the bow of the Chimera.
+
+	EXT. ARCTIC WARRIOR - ENGINE ROOM - NIGHT
+
+	Dodge works up to his elbows in turbine 1 as Greer monitors 
+
+	a pressure gauge.
+
+				DODGE
+
+		How about now?
+
+				GREER
+
+		Sixty pounds.
+
+				DODGE
+
+		What? You sure?
+
+				GREER
+
+		That's what it says.
+
+				DODGE
+
+			(geting up to have a 
+
+			look)
+
+		Lemme see.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - NIGHT
+
+	Through the pilothouse windows, the hull of the Chimera 
+
+	disappears into the darkness beyond the tug's work lights.  
+
+	Murphy sits at the chart table as Epps steps in.
+
+				EPPS
+
+		Coffee?
+
+				MURPHY
+
+			(sitting up)
+
+		Yeah. Thanks.
+
+	She brings him his cup, seeing the documents he brought back 
+
+	from the Chimera.
+
+				EPPS
+
+			(taking a seat)
+
+		What'd you find up there?
+
+				MURPHY
+
+		Some charts. A crew manifest.
+
+			(looking them over)
+
+		Looks like her last voyage was January 
+
+		1953. The question is where the hell's 
+
+		she been since.
+
+				EPPS
+
+		She was sailing up north, right?
+
+				MURPHY
+
+		Her destination was Halifax, yeah.
+
+				EPPS
+
+		Well, suppose she got a little further 
+
+		north than she should have.  Got 
+
+		stuck in the ice. The passengers and 
+
+		crew evacuated. She froze into the 
+
+		ice pack, which moved further north, 
+
+		where it froze in solid. They write 
+
+		it off. Fifty years later, the whole 
+
+		global warming thing happens. The 
+
+		ice melts, she gets loose and floats 
+
+		around til somebody runs into her.
+
+	Murphy nods, considering it.
+
+				MURPHY
+
+		As reasonable an explanation as any, 
+
+		I guess.
+
+	Epps takes a sip of her coffee as she thinks about it.
+
+				MURPHY
+
+		Ever heard of the Mary Celeste?
+
+				EPPS
+
+		Nope.
+
+				MURPHY
+
+		She was a two-masted brig boat sailing 
+
+		out of New York in 1872.  One day 
+
+		she was sighted off the coast of 
+
+		Portugal by a merchant vessel, the 
+
+		Dei Gratia. As the crew of the Dei 
+
+		Gratia got closer, they discovered 
+
+		that no one was at the helm of the 
+
+		Mary Celeste. On boarding, they found 
+
+		her completely deserted. The captain, 
+
+		his wife, their daughter, and the 
+
+		entire crew, all gone. The last entry 
+
+		in their log made no mention of any 
+
+		trouble. The table was even set for 
+
+		dinner. And in the nine days after 
+
+		the last entry, she sailed 700 miles 
+
+		without anyone aboard.
+
+				EPPS
+
+		So what did happen?
+
+				MURPHY
+
+		Nobody knows. There've been a lot of 
+
+		theories, of course. But we'll never 
+
+		really know for sure.
+
+				EPPS
+
+		You think she's sailing without a 
+
+		crew?
+
+	Murphy looks out at the Chimera off the bow.
+
+				MURPHY
+
+		I think we'd be surprised where a 
+
+		drifting ship might wind up with a 
+
+		little wind and the right current.
+
+				EPPS
+
+		You're more practical than 
+
+		superstitious.
+
+				MURPHY
+
+		Only way to be.
+
+	Epps nods, takes another sip of coffee, looking on at the 
+
+	rusting hull of the Chimera stretching off in the light.
+
+	EXT. ARCTIC WARRIOR - DECK - DAY
+
+	Greer operates the crane arm as Dodge directs him. The crane 
+
+	hoists out one of the massive turbine fans onto the deck.  
+
+	Dodge gives him the thumbs up as it comes down easily.
+
+				MURPHY
+
+		What's this?
+
+				DODGE
+
+		Turbine rotor's shot.
+
+				MURPHY
+
+		I thought you said it was just a 
+
+		blade.
+
+				DODGE
+
+		Metal's crystallized. Gotta replace 
+
+		the whole deal.
+
+				MURPHY
+
+		How much longer's that gonna take?
+
+				DODGE
+
+		Like I always say --
+
+				MURPHY
+
+		I know I know, two ways to do anything --
+
+				DODGE
+
+		The right way and the wrong way.
+
+				MURPHY
+
+		But how long?
+
+				DODGE
+
+		Hard to say.
+
+				MURPHY
+
+		We gotta get outa here, Dodge. A 
+
+		storm blows up and we're history.
+
+				DODGE
+
+		I'm telling you, you don't want to 
+
+		be running that fan like it is.
+
+				MURPHY
+
+		What about running number two by 
+
+		itself?
+
+				DODGE
+
+		It's a full 2500 horses down. We 
+
+		couldn't drag that boat down hill on 
+
+		ice with it.
+
+				MURPHY
+
+		How long, then?
+
+				DODGE
+
+		I gotta pull the blades and re-seat 
+
+		everything in a new rotor -- .
+
+				MURPHY
+
+		How long?
+
+				DODGE
+
+		Three, four days.
+
+				MURPHY
+
+		Goddamit, Dodge.
+
+				DODGE
+
+		What do you want me to tell you, 
+
+		that we can throw this sucker back 
+
+		in and start pulling her like nothing 
+
+		happened? Can't do it, skipper.
+
+	A beat as Murphy stands there, knowing he's right.
+
+				COASTGUARD DISPATCHER (O.S RADIO)
+
+			(from the pilothouse)
+
+		Arctic Warrior, Arctic Warrior, Arctic 
+
+		Warrior. This is United States 
+
+		Coastguard. Over.
+
+	A beat.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - MOMENTS LATER - DAY
+
+	Murphy enters the pilothouse as the distance-warped VOICE 
+
+	comes back on the radio.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Arctic Warrior, Arctic Warrior, Arctic 
+
+		Warrior. This is United States 
+
+		Coastguard Station North Island. 
+
+		Over.
+
+	Murphy raises the radio mic as Epps, Dodge, and Greer step 
+
+	in.
+
+				MURPHY
+
+			(to radio)
+
+		North Island, North Island, North 
+
+		Island. This is tugboat Arctic 
+
+		Warrior. Over.
+
+	After a moment, the same professional, distance-warped voice 
+
+	comes back.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Arctic Warrior, we have submitted 
+
+		your section four two charlie salvage 
+
+		notification. However, the 
+
+		International Maritime Authority 
+
+		record for a passenger vessel Chimera 
+
+		indicates it was lost at sea in the 
+
+		Gulf of Oman day two month two year 
+
+		one nine five three.  Over.
+
+	A beat as Murphy holds there.
+
+				MURPHY
+
+		North Island, please repeat? Over.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Arctic Warrior, passenger vessel 
+
+		Chimera was lost at sea day two month 
+
+		two year one nine five three.  Over.
+
+	Another beat as Murphy holds there, as the others look on.
+
+				MURPHY
+
+		North Island, have you got any 
+
+		additional information? Over.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Affirmative, Arctic Warrior. The 
+
+		vessel Chimera was registered to The 
+
+		Dobbins Kirk Line, Halifax.  Nova 
+
+		Scotia. Date of commission day nine 
+
+		month seven year one nine three two. 
+
+		Over.
+
+	A long beat as the static of the open channel comes back.
+
+				MURPHY
+
+		Roger, North Island. I am tied to 
+
+		the passenger vessel Chimera. And 
+
+		she is afloat. Repeat, she is afloat. 
+
+		Over.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Roger, Arctic Warrior. I say again, 
+
+		our records indicate the passenger 
+
+		vessel Chimera was lost at sea.  
+
+		Over.
+
+				MURPHY
+
+		Roger, North Island. Please advise 
+
+		pending further information. Over.
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Affirmative, Arctic Warrior. This is 
+
+		United States Coast Guard North Island 
+
+		Station. Over and out.
+
+	A beat as they hold there, thinking about it.
+
+				MURPHY
+
+		Obviously it's some kind of screw 
+
+		up. The shipping records aren't a 
+
+		hundred percent accurate.
+
+				DODGE
+
+		Man, it gives me the creeps. We got 
+
+		no business towing a ship that size 
+
+		anyway. I say we fix the turbines 
+
+		and hit the highway.
+
+				GREER
+
+		Are you crazy? Do you realize we got 
+
+		ourselves a ship? We own a ship, 
+
+		Dodge.
+
+				DODGE
+
+		Yeah, a ship that's supposed to have 
+
+		been lost at sea fifty years ago. 
+
+		You don't think that's just a little 
+
+		freaky?
+
+				EPPS
+
+		If this thing turns out to be a ship 
+
+		everybody thought sank a long time 
+
+		ago, we just hit the jackpot.
+
+				DODGE
+
+		Yeah, well how the hell you get 
+
+		something like that wrong? That's a 
+
+		damn big boat. It's either sunk or 
+
+		it ain't.
+
+				MURPHY
+
+		We all want to get outa here, Dodge. 
+
+		Especially me. With that boat in 
+
+		tow. You got three days.  Make the 
+
+		most of it.
+
+	A beat as Dodge looks back, then out at the Chimera.
+
+	INT. ARCTIC WARRIOR - MASTER'S QUARTERS - NIGHT
+
+	A pencil point on a map follows across Saudi Arabia, coming 
+
+	to the Persian Gulf and tracing the coast of the Arab Emirates 
+
+	to Dubayy.
+
+	Murphy sits at his desk over the map. His pencil point follows 
+
+	the Persian Gulf from Dubayy, through the straight of Hormuz 
+
+	into the Gulf of Oman. Murphy marks an "X" there. A beat as 
+
+	he looks on at it.
+
+	He opens a large envelope he found aboard the Chimera. He 
+
+	empties it on the desk. He looks through it, docking receipts 
+
+	from various ports of call, bills of lading, etc. He looks 
+
+	over the passenger manifest.
+
+	INT. ARCTIC WARRIOR - MASTERS QUARTERS - DAY
+
+	Murphy wakes. He lies on his bunk, having fallen asleep last 
+
+	night in his clothes, still holding the envelope and some of 
+
+	the papers inside.
+
+	INT. ARCTIC WARRIOR - DECK - MOMENTS LATER - DAY
+
+	Dodge disassembles the turbine fans on deck as Greer reads 
+
+	in the shade of the deck house. Dodge's hand slips and he 
+
+	skins his knuckles.
+
+				DODGE
+
+		Fucker!
+
+				GREER
+
+		Take it easy, Dodge. It's only a 
+
+		piece of metal.
+
+				DODGE
+
+			(inspecting his skinned 
+
+			knuckles)
+
+		Damn mind of it's own.
+
+				GREER
+
+			(seeing Murphy)
+
+		Morning, skipper.
+
+	Murphy has stepped out into the sunlight.
+
+				MURPHY
+
+		Morning.
+
+				GREER
+
+		You're up late.
+
+				MURPHY
+
+		Guess I must've fallen back to sleep. 
+
+		Where's Epps?
+
+				DODGE
+
+		Went aboard.
+
+				MURPHY
+
+		She take a radio?
+
+				GREER
+
+		Yeah.
+
+	Murphy nods. A beat.
+
+	INT. CHIMERA - PUBLIC ROOM - DAY
+
+	Epps steps from a passageway into a large public room. Tables 
+
+	and chairs are scattered haphazardly, light falling in from 
+
+	windows along the wall where tattered curtains hang. She 
+
+	walks on.
+
+	A pair of empty glasses sit on a table, an empty sherry 
+
+	decanter beside them. An ashtray sits beside that. Epps stops, 
+
+	reaching down. She pulls back a half-smoked cigarette, 
+
+	lipstick smudging the end, yellowing and fragile from time.  
+
+	And, as she stands there, we see a FIGURE, IN MURKY 
+
+	SILHOUETTE, MOVE PAST THE DOORWAY IN THE BACKGROUND. In an 
+
+	instant it is there and gone.
+
+	She puts down the cigarette, having sensed a presence. She 
+
+	turns to the doorway across the room, but there is nothing 
+
+	to be seen now.
+
+	INT. CHIMERA - PUBLIC ROOM - MOMENTS LATER - DAY
+
+	A doll's white face, eyes haunting and coldly blue, stares 
+
+	into the middle distance. It lies on a love seat as Epps 
+
+	steps up. She lifts it. Several other toys lie scattered 
+
+	about as she studies it, when the sound of a TICKING CLOCK 
+
+	CAN BE HEARD.
+
+	A beat as Epps holds there. She turns, trying to locate the 
+
+	sound. From across the room, Epps stands, listening. As the 
+
+	TICKING CLOCK sounds from here. She turns, putting down the 
+
+	doll, holding a beat. She approaches, crossing the room, 
+
+	coming finally to a stop before us and what we come to see 
+
+	is an ancient grandfather clock.
+
+	All but it's minute hand has fallen off its corroded face, 
+
+	but from inside it emits a weak though steady TICKING.
+
+	Epps stands there as the clock ticks, looking on, when the 
+
+	TICKING CEASES. A beat as she holds there, as the clock faces 
+
+	her, now silent.
+
+	INT. CHIMERA - PASSAGEWAY - LATER - DAY
+
+	Epps shines her light in the darkness as she comes to a door 
+
+	where daylight falls from a small port. She looks through 
+
+	it.
+
+	INT. CHIMERA - SWIMMING POOL - MOMENTS LATER - DAY
+
+	Epps stands in a white tiled room. Light falls from port 
+
+	holes high in the wall. Running its length is a small swimming 
+
+	pool, it's rusted fixtures and stained surface creating 
+
+	bizarre patterns.
+
+	INT. CHIMERA - SWIMMING POOL - MOMENTS LATER - DAY
+
+	Epps comes to a row of changing stalls. Old clothing hangs 
+
+	there, unused for fifty years. A pair of woman's shoes lie 
+
+	on the floor.
+
+	INT. CHIMERA - SWIMMING POOL - LATER - DAY
+
+	Epps moves along, passing through a doorway into
+
+	INT. CHIMERA - GYMNASIUM - CONTINUOUS - DAY
+
+	Epps enters another room scattered with old exercise equipment 
+
+	circa 1950, a wooden rowing machine, barbells and a medicine 
+
+	ball.
+
+	She steps up to the wall, where pictures hang. The Chimera 
+
+	can be seen in better days, sailing full speed on a calm 
+
+	sea.
+
+	INT. CHIMERA - SUB-DECK - LATER - DAY
+
+	Epps jumps down to a lower deck. She shines her light up to 
+
+	see that she is in an engine compartment, showing a massive 
+
+	diesel burner. She passes through into another compartment 
+
+	where the giant pistons of the ship's power plant rise up to 
+
+	the ceiling.
+
+	INT. CHIMERA - SUB-DECK - PASSAGE - MOMENTS LATER - DAY
+
+	Epps moves, passing still more diesel burners, towering over 
+
+	her in the cavernous space. She moves into a narrowing 
+
+	passage, piping and machinery ducts winding their way into 
+
+	the depths of the ship.
+
+	Finally the passage opens into yet another compartment, 
+
+	apparently a cargo hold. Crates and boxes are stacked on 
+
+	loading palettes.
+
+	In the corner, a rotting canvas drape covers something. Epps 
+
+	comes to it. She lifts the canvas, which crumbles away to 
+
+	reveal a 1951 Ferrari sportster. For the exception of a coat 
+
+	of dust and a small amount of corrosion, it is perfectly 
+
+	preserved.
+
+	Mail bags lie in piles along the wall, stacked between more 
+
+	wooden crates and palettes, when something catches Epps' 
+
+	eye.
+
+	A heavy, metal door in the wall is twisted on it's hinges, 
+
+	as though blown back from some terrific explosive force.
+
+	Epps approaches, coming to the twisted door. She shines her 
+
+	light inside.
+
+	A clutter of debris, shelving and wood, are visible in the 
+
+	shadows, when her light catches a glint of something. She 
+
+	swings her light back, revealing a yellowish bright object 
+
+	between broken wood slats.
+
+	Epps steps in. She kneels, shining the light closer. The 
+
+	yellow glint is metal. Epps pulls back a slat, sliding away 
+
+	some of the debris to reveal that it is cast from a kilogram 
+
+	ingot of gold.
+
+	She reaches out. She raises it, completely untouched by the 
+
+	years. She pulls back still more debris, revealing a stack 
+
+	of gold ingots, some having tumbled to the side. She slides 
+
+	away a large trunk that has fallen, pushing off more junk to 
+
+	see that the stack is much larger, perhaps four feet high 
+
+	and five feet across.
+
+	A beat as Epps stands there, looking on at $50,000,000 in 
+
+	gold.
+
+	INT. CHIMERA - CARGO COMPARTMENT - DAY
+
+	The debris has been cleared away to reveal a clean 5'x 5' x 
+
+	4' stack of gold ingots.
+
+				DODGE (O.S.)
+
+		What the fuck we gonna do with it?
+
+	Greer, Murphy, Epps, and Dodge all look on.
+
+				GREER
+
+		What the fuck you think we gonna do 
+
+		with it? It's ours, baby. It's all 
+
+		ours.
+
+	Murphy has stepped forward, taking an ingot, inspecting it.
+
+				GREER
+
+		How much you figure that's worth, 
+
+		skipper?
+
+				MURPHY
+
+			(still looking it 
+
+			over)
+
+		Hard to say. Maybe forty, fifty 
+
+		million.
+
+				GREER
+
+		Ho, baby!
+
+				EPPS
+
+		That's a lot of money for somebody 
+
+		to just let float away.
+
+	Murphy looks up at her from the gold.
+
+				MURPHY
+
+		Yes, it is.
+
+	A beat as they all hold there.
+
+				MURPHY
+
+		It's a hell of a lot of money.
+
+				DODGE
+
+		What, you think there's something 
+
+		funny about it?
+
+				MURPHY
+
+		A ship with fifty million dollars in 
+
+		gold aboard, adrift? And nobody seems 
+
+		to care enough to come looking for 
+
+		it?
+
+				GREER
+
+		If they thought it was lost at sea, 
+
+		they probably just wrote it off.
+
+				MURPHY
+
+		Not for fifty million. An ocean liner 
+
+		maybe. But fifty million in gold, 
+
+		they come looking for.
+
+				EPPS
+
+		Maybe they didn't want it back.  
+
+		Maybe the whole fat deal was insured.
+
+				MURPHY
+
+		Maybe. But there's always somebody 
+
+		whose interest's at stake.
+
+				GREER
+
+		All I gotta say is it looks like 
+
+		that somebody's us right now.
+
+	Greer cackles as he high fives Dodge.
+
+				EPPS
+
+		And it looks like somebody got here 
+
+		before us too.
+
+	The steel hatch is twisted, as from a great hand ripping it 
+
+	back from the wall.
+
+				DODGE
+
+			(inspecting it)
+
+		Didn't happen yesterday, I'll tell 
+
+		you that. Torn parts rusted bad as 
+
+		the rest of the boat.
+
+				MURPHY
+
+		Then it happened before they scuttled 
+
+		her.
+
+				EPPS
+
+		You mean, before she sank.
+
+				GREER
+
+		Cargo like this could make a crew 
+
+		think twice.
+
+				MURPHY
+
+		That it could.
+
+	A beat, as they all look on at the gold.
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - NIGHT
+
+	After dinner, Murphy, Greer, Dodge and Epps sit around the 
+
+	galley table.
+
+				GREER
+
+		Then why didn't they take it.
+
+				EPPS
+
+		Probably didn't have time.
+
+				DODGE
+
+		Or somebody stopped them.
+
+				MURPHY
+
+		Either way, they must've had a pretty 
+
+		good reason.
+
+				GREER
+
+		Must be a damn good reason to jump 
+
+		ship and leave fifty million dollars 
+
+		aboard.
+
+	A beat as they consider it.
+
+				DODGE
+
+		So what're we gonna do. That's the 
+
+		big question, right?
+
+				MURPHY
+
+		A salvage claim to a vessel's cargo's 
+
+		as valid as a claim to the vessel 
+
+		itself. It's ours.
+
+				DODGE
+
+		Then we're rich. We're damn, filthy 
+
+		stinking rich.
+
+				MURPHY
+
+		It looks like it.
+
+	A beat as they let this sink in.
+
+				GREER
+
+		So what? We gonna unload the gold 
+
+		and get a move on?
+
+				MURPHY
+
+		We leave it where it is. Stick to 
+
+		the plan.
+
+				DODGE
+
+		You gotta be kidding? What the hell 
+
+		we need that tub for, we got fifty 
+
+		million bucks?
+
+				MURPHY
+
+		So we get a little more for the boat. 
+
+		Besides, the gold'll be safer where 
+
+		it is.
+
+				GREER
+
+		Yeah, but we still gotta haul that 
+
+		big piece of shit all the way back 
+
+		to Sitka.
+
+				MURPHY
+
+		It's worth the effort. Believe me.  
+
+		Besides we're gonna need her to prove 
+
+		the salvage.
+
+				EPPS
+
+		Why not call for help?
+
+				MURPHY
+
+		For now the best thing we can do is 
+
+		to keep quiet about this.
+
+				DODGE
+
+		Last thing we want is extra partners.
+
+				EPPS
+
+		Or uninvited guests.
+
+				GREER
+
+		I heard that.
+
+				MURPHY
+
+		Dodge, you gotta get on those repairs.
+
+				DODGE
+
+		Yeah, yeah. I'm on it.
+
+				MURPHY
+
+		The sooner we get under way, the 
+
+		sooner we are to spending what's 
+
+		ours.
+
+	INT. ARCTIC WARRIOR - ENGINE ROOM - DAY
+
+	Dodge, wearing a welding mask and gloves, braises an aluminum 
+
+	fitting over one of the open turbines.
+
+	INT. CHIMERA - SUB-DECK CARGO COMPARTMENT - DAY
+
+	Epps finishes stacking the gold ingots in a cleared space 
+
+	beyond the twisted hatch.
+
+				GREER
+
+		Two hundred twenty. Two twenty one.
+
+			(as Epps stacks the 
+
+			last one)
+
+		Two twenty two.
+
+	Greer makes a note.
+
+				GREER
+
+		Two hundred twenty two kilograms of 
+
+		solid gold.
+
+				EPPS
+
+		That's what I call a payday.
+
+				GREER
+
+		Hell yeah.
+
+	They slap hands.
+
+	INT. CHIMERA - TOP DECK - PASSAGEWAY - DAY
+
+	Murphy moves down the darkened passage, coming to a door 
+
+	marked "CAPTAIN." The door is ajar. He pushes it open.
+
+	INT. CHIMERA - CAPTAIN'S QUARTERS - CONTINUOUS - DAY
+
+	Murphy stands in the doorway of a spacious cabin panelled in 
+
+	dark wood. A large desk occupies a corner of the room by the 
+
+	windows. Though dirty and worn with time, everything is 
+
+	ordered and in its place.
+
+	Murphy comes to the desk. He sits down in the chair behind 
+
+	it. The surface is clear and uncluttered. He pulls out the 
+
+	drawer to reveal pens, writing paper, a ruler, compass and 
+
+	protractor amidst other sundry items.
+
+	INT. CHIMERA - CAPTAIN'S QUARTERS - BEDROOM - MOMENTS LATER - 
+
+	DAY
+
+	Murphy steps in. The room is undisturbed, light falling in 
+
+	on the taught green bedspread through dirty, tattered 
+
+	curtains.  A robe hangs on the back of a chair. A pair of 
+
+	slippers lie beneath it.
+
+	INT. CHIMERA - CAPTAIN'S QUARTERS - BATHROOM - MOMENTS LATER - 
+
+	DAY
+
+	Murphy stands in the bathroom. The tile has yellowed with 
+
+	time, but everything is exactly as it was left. Even the 
+
+	shaving kit is neatly arrayed on the sink as Murphy looks on 
+
+	at it. He looks up, seeing himself in the mirror, when an 
+
+	EXPLOSION SOUNDS.
+
+	EXT. CHIMERA - TOP DECK - MOMENTS LATER - DAY
+
+	Murphy comes to the railing, looking out over the bow of the 
+
+	ship to see black smoke rising from where the Arctic Warrior 
+
+	is tied.
+
+	EXT. CHIMERA - FORWARD DECK - MOMENTS LATER - DAY
+
+	Greer and Epps run to the side to see billowing smoke rising 
+
+	from the Arctic Warrior as Murphy climbs down the crane to 
+
+	the deck.
+
+	EXT. ARCTIC WARRIOR - CONTINUOUS - DAY
+
+	Murphy jumps down to the deck. Flames belch from an open 
+
+	hatch as Murphy grabs a fire extinguisher from a deck locker, 
+
+	coming to the engine room door.
+
+	INT. ARCTIC WARRIOR - ENGINE ROOM - CONTINUOUS - DAY
+
+	Murphy enters to find the engine room engulfed in flames and 
+
+	black smoke. He finds Dodge spraying at it with an 
+
+	extinguisher of his own.
+
+	The flames belch up from an oil fire in the turbine well, 
+
+	the heat searing paint on the metal covers. Murphy sprays a 
+
+	cloud of halon and the fire dims, but only for a moment.
+
+	Dodge grabs another extinguisher, his leg burned, face and 
+
+	hands singed.
+
+	An EXPLOSION ROCKS THE BOAT and molten flames hurl through 
+
+	the air, catching Murphy's pant leg. He's so engrossed in 
+
+	fighting the flames, he doesn't realize he's on fire.
+
+				DODGE
+
+			(over the roar)
+
+		Murphy!
+
+	Murphy looks down to see his pant leg is on fire, as Dodge 
+
+	turns a cloud of halon on him, putting it out.
+
+				DODGE
+
+		Propane tanks're gonna go!
+
+	Murphy crosses in the smoke, coming as close as he dares to 
+
+	the most intense part of the flames. He turns the extinguisher 
+
+	into them, holding it there.
+
+	The flames dim, as Dodge joins him on the other side, turning 
+
+	his extinguisher on it too. The fire seems to dim yet again 
+
+	as clouds of halon rise up.
+
+	Fire belches from a duct, crawling across the ceiling. Dodge 
+
+	fires his extinguisher at it, pushing it back across to the 
+
+	wall again.
+
+	Murphy extinguishes the last of the flames in the turbine 
+
+	well as Dodge brings a snaking tendril of fire down to the 
+
+	deck, and finally out.
+
+	They stand there in the sudden silence, the air heavy with 
+
+	smoke. A fine layer of halon powder lies over everything, 
+
+	but the fire is out.
+
+	EXT. ARCTIC WARRIOR - DECK - DAY
+
+	Dodge smokes a cigarette, now starting to feel his burned 
+
+	leg, which is oozing as Murphy and Greer look on.
+
+				DODGE
+
+		One minute I'm minding my own 
+
+		business, the next thing I know the 
+
+		whole place is burning up.
+
+			(taking a drag)
+
+		An oxygen tank must've blown on the 
+
+		welder. Started an oil fire.
+
+				GREER
+
+		Looks like it took out the backup 
+
+		genny too.
+
+				MURPHY
+
+		Terrific.
+
+	Epps arrives with a first aid kit.
+
+				MURPHY
+
+		How's that leg?
+
+	Epps cuts back the burned pant leg to see the burn.
+
+				DODGE
+
+		Seen better -- Ow!
+
+	Epps cleans the burn with hydrogen peroxide.
+
+				EPPS
+
+		This's gonna hurt a little.
+
+				DODGE
+
+		Thanks for the warning -- Ow! Damn!
+
+	Epps keeps cleaning as Dodge bears it.
+
+				GREER
+
+		What now?
+
+				MURPHY
+
+		We could call for help.
+
+				GREER
+
+		And get a bunch of fools sniffin' 
+
+		around here?
+
+				EPPS
+
+		What other choices have we got?
+
+				DODGE
+
+		I tell you one thing, we're not gonna 
+
+		be towing no ship now.
+
+	INT. ARCTIC WARRIOR - PILOT HOUSE - NIGHT
+
+	A gas lantern sits on the map table illuminating Murphy as 
+
+	he holds the radio mic.
+
+				MURPHY
+
+			(to radio)
+
+		United States Coastguard, this is 
+
+		tugboat Arctic Warrior whiskey alpha 
+
+		sierra bravo four zero niner two. 
+
+		Radio check. Over.
+
+	A moment, then:
+
+				COASTGUARD DISPATCHER (V.O. RADIO)
+
+		Arctic Warrior, Arctic Warrior, Arctic 
+
+		Warrior. This is United States 
+
+		Coastguard Station North Island. 
+
+		Your radio check is affirmative. 
+
+		Over.
+
+				MURPHY
+
+		Roger that, North Island. Arctic 
+
+		Warrior whiskey alpha sierra bravo 
+
+		four zero niner two. Over and out.
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - NIGHT
+
+	Dodge pours out a few cans of cold chili into a bowl and 
+
+	takes it to the table where Epps, Greer, and Murphy sit under 
+
+	the stark light of a gas lantern.
+
+				GREER
+
+		Fifty million four ways. That's twelve 
+
+		million and change a piece.  What 
+
+		you gonna do with your share, skipper?
+
+				MURPHY
+
+		Not much at all, I guess. Retire.  
+
+		Live out my golden years and all 
+
+		that.
+
+				DODGE
+
+		I'm buyin' me a nice outrigger.  
+
+		Spend my time hauling rich Seattle 
+
+		business men through the Puget.
+
+				MURPHY
+
+		How about you Epps?
+
+				EPPS
+
+		Guess I'll just keep working.
+
+				DODGE
+
+		What're you crazy?
+
+				EPPS
+
+		I like my job.
+
+				MURPHY
+
+		Greer?
+
+				GREER
+
+		Moving to Sweden.
+
+				DODGE
+
+		What's so great about Sweden?
+
+				GREER
+
+		It's a beautiful country. Very clean. 
+
+		Very civilized. And cold.
+
+				EPPS
+
+		That's a good thing?
+
+				GREER
+
+		Hell, yeah. I like it cold. Colder 
+
+		the better.
+
+				DODGE
+
+		Yeah, but not as cold as those Swedish 
+
+		girls you only gonna dream about.
+
+				GREER
+
+		We'll see who's dreamin', m'man.
+
+				MURPHY
+
+		Dreamin's all any of you're gonna be 
+
+		doing if we don't get this boat 
+
+		running.
+
+				DODGE
+
+		Yeah, yeah.
+
+	A STRANGE SOUND BEGINS. IT IS LIKE A DISTANT SHRIEKING, AS 
+
+	OF METAL AGAINST METAL, BUT ALMOST HUMAN, DISTANTLY ECHOING.
+
+				GREER
+
+		What the hell is that?
+
+	The SHRIEKING CONTINUES, ECHOING EERILY AS IF FROM THE SEA.
+
+	EXT. ARCTIC WARRIOR - DECK - MOMENTS LATER - NIGHT
+
+	Dodge, Epps, Murphy and Greer emerge on deck.
+
+	The DISTANT SHRIEKING IS LOUDER HERE, BUT SEEMS TO BE 
+
+	EMANATING FROM DEEP IN THE SHIP as they stand facing it on 
+
+	the bow.
+
+				EPPS
+
+		It's coming from inside.
+
+	They hold there listening as the SHRIEKING CONTINUES.
+
+				DODGE
+
+		Sounds like the hull.
+
+				MURPHY
+
+		Warm water current maybe, making the 
+
+		metal expand.
+
+				GREER
+
+		That shit is seriously bizarre.
+
+	The DISTANT SHRIEKING ECHO continues as they hold there.
+
+	EXT. ARCTIC WARRIOR - DECK - DAY
+
+	The engine room is black with soot, the turbines covered in 
+
+	halon powder. Dodge stands there looking at it. He sighs.
+
+	INT. CHIMERA - GALLEY - DAY
+
+	Greer goes through shelves of supplies, finding a stack of 
+
+	sterno cans and warming candles. He throws them into a wooden 
+
+	crate of other supplies he's gathered.
+
+	INT. CHIMERA - FIRST CLASS STATEROOM - DAY
+
+	Epps slowly pushes open the door. She holds a sack with a 
+
+	few items she's managed to scavenge. Light falls from 
+
+	curtained windows onto the room. A divan sits against the 
+
+	wall. A table stands in the middle of the room, a moth-eaten 
+
+	velvet table cloth sitting under a brass lamp on top. Two 
+
+	twin beds stand on either side. They are covered in dust and 
+
+	are moth-eaten, unmade, as if the occupants had just gotten 
+
+	up, fifty years ago.
+
+	In one corner is an armoire. Epps steps up to it, pulling 
+
+	back the door to reveal a rack of woman's clothing hanging 
+
+	there undisturbed.
+
+	INT. CHIMERA - STATEROOM - MOMENTS LATER - DAY
+
+	A pair of slippers lie on the floor beside a chair, over 
+
+	which is draped a woman's robe. Epps lifts it, the material 
+
+	crumbling in her hands.
+
+	INT. CHIMERA - STATEROOM - MOMENTS LATER - DAY
+
+	A drawer comes back to reveal a number of personal affects, 
+
+	a man's billfold, cuff links, tarnished silver cigarette 
+
+	holder and case, coins, black horn-rimmed glasses, pocket 
+
+	watch and fob, and a room key.
+
+	Epps pulls back the billfold. She opens it. Inside she finds 
+
+	a Canadian passport a picture of a dark-haired man with a 
+
+	mustache and black horn-rimmed glasses, circa 1950. In the 
+
+	folds she finds three hundred Canadian dollars. An insert 
+
+	holds pictures, of a suburban home, children, and a woman, 
+
+	presumably his wife.
+
+	INT. CHIMERA - "A" DECK PASSAGE - LATER - DAY
+
+	Epps steps from the room. She turns to close the door, but 
+
+	stops, holding there, strongly sensing something.
+
+	THE CAMERA SLOWLY COMES AROUND TO HER OTHER SIDE, revealing 
+
+	the long passageway behind her, each bulkhead hatchway 
+
+	creating the impression of a tunnel of mirrors that frame 
+
+	one another and, standing at the very end of this tunnel in 
+
+	the foggy light from a porthole, a MAN in dark clothing.
+
+	Epps slowly turns her head to see what she already senses, 
+
+	the man standing at the end of the passageway facing her. A 
+
+	beat as they hold there. The man only stares back at her, 
+
+	then turns to walk away.
+
+				EPPS
+
+		Hey!
+
+	Epps moves off as the man walks around the corner.
+
+				EPPS
+
+		Hey, wait a minute! Hey!
+
+	MOVING WITH Epps as she breaks into a run, going down the 
+
+	passageway. She comes to the corner, rounding it out onto 
+
+	another passageway. The man is nowhere to be seen.
+
+	Epps moves quickly down the passageway, coming to the next 
+
+	corner, rounding it out to see only another long passageway.  
+
+	She turns back, running right into Murphy.
+
+				MURPHY
+
+		Take it easy, you'll live longer.
+
+				EPPS
+
+		Did you see him?
+
+				MURPHY
+
+		Who?
+
+				EPPS
+
+		The guy. He just came this way.
+
+				MURPHY
+
+		What guy?
+
+				EPPS
+
+		There's somebody else on this boat.
+
+				MURPHY
+
+		What? What the hell're you talking 
+
+		about.
+
+				EPPS
+
+		I saw him. Just a minute ago. Some 
+
+		guy.
+
+				MURPHY
+
+		Are you sure?
+
+				EPPS
+
+		Of course I'm sure. I saw him.
+
+				MURPHY
+
+		You sure it wasn't me?
+
+				EPPS
+
+		It wasn't you. It was somebody else. 
+
+		There's somebody else aboard.
+
+	A beat as Murphy looks back at her.
+
+	INT. ARCTIC WARRIOR - PILOT HOUSE - NIGHT
+
+	Greer, Dodge, Murphy, and Epps stand around by lantern light.
+
+				DODGE
+
+		Light in those passages ain't so 
+
+		good.
+
+				EPPS
+
+		I'm telling you, I saw somebody. I 
+
+		don't know who it was. But I saw 
+
+		somebody.
+
+				GREER
+
+		What'd he look like?
+
+				EPPS
+
+		Maybe six feet. Lanky. I didn't get 
+
+		a good look. He was far away. But I 
+
+		saw him. I saw him as sure as you're 
+
+		standing there.
+
+				DODGE
+
+		Where's his boat, then? Where's his 
+
+		crew? He ain't gonna be out here by 
+
+		himself, that's for damn sure.
+
+				GREER
+
+		She's so big somebody could come 
+
+		alongside her on the other side and 
+
+		we'd never know it.
+
+				EPPS
+
+		Maybe that is his boat.
+
+				DODGE
+
+		Gimme a break.
+
+	A beat as they sit in silence.
+
+				MURPHY
+
+		If somebody's aboard her already, 
+
+		she ain't ours. She's theirs.
+
+				DODGE
+
+		Bullshit. That boat hasn't made steam 
+
+		for fifty years. We found her. She's 
+
+		ours.
+
+				MURPHY
+
+		Not in the eyes of the law.
+
+				EPPS
+
+		So, we find this guy and make a deal 
+
+		with him.
+
+				MURPHY
+
+		We don't exactly have the best 
+
+		bargaining position.
+
+				DODGE
+
+		I say fuck the motherfucker. We're a 
+
+		professional salvage crew going about 
+
+		our business. What's some yahoo doing 
+
+		way out here by himself anyway?
+
+				MURPHY
+
+		And what do you propose? That we 
+
+		knock this guy off?
+
+				DODGE
+
+		Why not? Why the fuck not?
+
+	A beat as Murphy, Greer and Epps exchange looks.
+
+				DODGE
+
+		Fifty million dollars. Fifty million. 
+
+		We gonna let this guy just take it 
+
+		from us? One guy?
+
+				EPPS
+
+		So we kill him?
+
+				DODGE
+
+		I'm saying we gotta do whatever we 
+
+		gotta do to preserve our interest.
+
+				GREER
+
+		I don't know.
+
+				MURPHY
+
+		Let's just take it easy here, alright? 
+
+		Nobody's gonna kill anybody.
+
+				GREER
+
+		Supposing he wants to get bad with 
+
+		us?
+
+				DODGE
+
+		One guy isn't gonna be so stupid.
+
+				EPPS
+
+		Maybe he isn't alone.
+
+	They consider this a moment.
+
+				GREER
+
+		I say we off-load some of that gold 
+
+		now.
+
+				MURPHY
+
+		Would you hold on just a minute here, 
+
+		please? Look, there's no reason to 
+
+		panic now. Epps saw somebody. Fine. 
+
+		It's a big boat.  Chances're real 
+
+		good he doesn't even know about the 
+
+		gold. If we stay cool, nobody'll be 
+
+		the wiser.
+
+			(a beat)
+
+		The gold stays where it is til we're 
+
+		ready to go. Like I said, it'll be a 
+
+		hell of a lot safer there than here.
+
+				DODGE
+
+		What if that fucker finds it before 
+
+		we're ready to go?
+
+				MURPHY
+
+		We'll stand a watch. Four on, eight 
+
+		off. Low man first.
+
+				EPPS
+
+		Guess that'd be me. Again.
+
+				MURPHY
+
+		Dodge, get on that turbine. I don't 
+
+		care if you don't sleep for a week.  
+
+		The sooner you're done, the sooner 
+
+		we can get out of here. How's the 
+
+		food situation?
+
+				GREER
+
+		Pretty low all around.
+
+				MURPHY
+
+		We'll have to take it easy then. I 
+
+		don't think we'll find much aboard 
+
+		the ship, but it's probably worth 
+
+		looking around.
+
+				EPPS
+
+		Say we run into this guy again.
+
+	A beat as they consider this.
+
+				MURPHY
+
+		If he's reasonable, maybe we can 
+
+		make some kind of deal. If not.  
+
+		We'll have to re-consider our options.
+
+				DODGE
+
+		Yeah, reconsider fucking his shit 
+
+		up.
+
+	INT. ARCTIC WARRIOR - WARD LOCKER - NIGHT
+
+	Epps is dressed in her cold weather gear as she opens a 
+
+	locker, revealing a flare gun and a shotgun. Epps pulls back 
+
+	the shotgun and a box of shells.
+
+	EXT. ARCTIC WARRIOR - DECK - NIGHT
+
+	Murphy and Dodge look on as Epps loads the last of several 
+
+	shotgun shells into the pump action short barrel 12-gauge.  
+
+	She expertly shuttles a round into the chamber with one hand.  
+
+	Dodge takes a hit from his cigarette as Greer crosses from 
+
+	the deck house.
+
+				DODGE
+
+		Pretty handy with that scatter gun, 
+
+		Epps. You raised on a farm?
+
+				EPPS
+
+			(setting the safety)
+
+		Seen a lota movies.
+
+				MURPHY
+
+		No cowboy shit up there, understand?
+
+				EPPS
+
+		No cowboy shit. Right.
+
+	Greer extends a thermos to Epps.
+
+				GREER
+
+		Coffee.
+
+				EPPS
+
+			(pocketing it in her 
+
+			coat)
+
+		You're a pal.
+
+	She checks the squelch on her radio, pockets it too.
+
+				MURPHY
+
+		Got your light?
+
+				EPPS
+
+		Yup.
+
+				DODGE
+
+		Smokes?
+
+				EPPS
+
+		Oh yeah.
+
+	Her bravado does little to hide her apprehension as she slings 
+
+	the shotgun on her back.
+
+				EPPS
+
+		See you boys later.
+
+			(to Greer)
+
+		Don't be late, I need my beauty rest.
+
+	She looks up, climbs onto the crane and up toward the darkened 
+
+	ship above them.
+
+	INT. CHIMERA - PASSAGEWAY - NIGHT
+
+	A flashlight beam cuts through the darkness as Epps 
+
+	approaches. If this place is creepy in the daylight, it is 
+
+	terrifying now. She comes to a ladder and climbs down.
+
+	INT. CHIMERA - CARGO COMPARTMENT - LATER - NIGHT
+
+	Epps shines her light as she passes through, coming to the 
+
+	cargo hold. She crosses in the darkness, her light catching 
+
+	the tarnished glint of the gold. She comes up to it, stopping 
+
+	there, looking on at it, a perfectly symmetrical fortune.
+
+	She looks around for a place to sit. She drags a palette to 
+
+	the bulkhead, settling in to face the rest of the compartment. 
+
+	She puts her shotgun down beside her and takes out her thermos 
+
+	to pour herself a cup of coffee.
+
+	INT. CHIMERA - CARGO COMPARTMENT - LATER - NIGHT
+
+	Epps has dozed off when a CLATTERING ECHOES DISTANTLY 
+
+	somewhere in the ship. Epps wakes. It is silent, as she holds 
+
+	there, not sure she heard anything, when a DISTANT BOOMING 
+
+	SOUNDS. She reaches out for the shotgun, intently listening.
+
+	As Epps holds there, another deep BOOMING sounds distantly 
+
+	somewhere. Epps turns, her blood running cold.
+
+	INT. CHIMERA - CARGO COMPARTMENT - MOMENTS LATER - NIGHT
+
+	Epps moves along in the darkness when the DISTANT BOOMING 
+
+	CAN BE HEARD BRIEFLY AGAIN. She stops, holding there, in the 
+
+	silence.
+
+	INT. CHIMERA - SHAFT ALLEY - MOMENTS LATER - NIGHT
+
+	Epps jumps down into the shaft alley where the ship's massive 
+
+	propeller shaft hangs suspended above her. Epps moves along.  
+
+	Finally she comes out into...
+
+	INT. CHIMERA - ENGINE ROOM - CONTINUOUS - NIGHT
+
+	Where the propeller shaft extends into a large turbine. She 
+
+	continues on, past huge rusting diesel burners, disappearing 
+
+	into the darkness above her, when ANOTHER BOOM SOUNDS.
+
+	She turns, shinning her light back from where she came.  
+
+	Nothing moves. Not a sound, but for her breathing and maybe 
+
+	her heart pounding in her chest. ANOTHER BOOM SOUNDS, again 
+
+	echoing distantly in the silence. She shines her light through 
+
+	the line of burners. Nothing moves.
+
+	Epps moves quietly between the burners. She comes to a massive 
+
+	watertight door at the bulkhead. She steps through, finding 
+
+	herself standing between a row of huge oil storage tanks. 
+
+	THE BOOMING SOUNDS AGAIN, closer, as suddenly stopping.
+
+	She moves on, cautiously walking between the tanks, holding 
+
+	her light out before her. She comes to the end of the 
+
+	compartment and another bulkhead. The BOOMING SOUNDS, still 
+
+	closer. She turns the light into the recesses, showing rusting 
+
+	machinery and a stack of oil drums.
+
+	She approaches, holding the shotgun up. As she nears, the 
+
+	BOOMING SOUNDS AGAIN. She stops. It is coming from here.
+
+	She tenses, raising the shotgun, holding the light as steady 
+
+	as she can manage. The BOOMING SOUNDS YET AGAIN. It is 
+
+	metallic and staccato.
+
+	She stops in the corner beside an oil drum. Several drums 
+
+	have toppled and lie scattered in a pile when a draft stirs 
+
+	her hair. She shines her light up to see that she stands at 
+
+	the bottom of a giant hatchway shaft rising all the way 
+
+	through the ship to the top deck and an echoey breeze that 
+
+	betrays a throughway to the outside.
+
+	The BOOMING SOUNDS AGAIN, this time coming from the pile of 
+
+	oil drums. She steps closer, raising the shotgun, ready to 
+
+	fire. A beat as she summons her courage, then reaches out to 
+
+	push a drum with her foot, when A BLUR EXPLODES OUT AT HER.  
+
+	She fires the shotgun and a spray of buckshot glances off 
+
+	the steel bulkhead in a shower of sparks, a flurry of frenetic 
+
+	flapping whizzing by her head as she looks up to see a large 
+
+	albatross flying back up the hatchway shaft toward the top 
+
+	of the ship and freedom.
+
+				MURPHY
+
+		Murphy to Epps.
+
+	She settles back, exhausted.
+
+				MURPHY
+
+		Murphy to Epps.
+
+				EPPS
+
+			(taking her radio)
+
+		Epps.
+
+				MURPHY
+
+		You just shoot at something?
+
+				EPPS
+
+		Yeah. Just a bird. Just a stupid 
+
+		bird.
+
+	She wipes her brow on her sleeve, holding there a moment, 
+
+	when she smells something really awful.
+
+	She steps forward, following the smell, pushing aside the 
+
+	toppled oil drums to see an unidentifiable form in the beam 
+
+	of her flashlight. She steps still closer, training her light 
+
+	on the form to see that it is a human torso.  A large gash 
+
+	runs up its middle and the clothing has been torn by 
+
+	scavenging birds.
+
+	She hesitates, then steps still closer when she steps on 
+
+	something. She starts, then shines the light on the deck in 
+
+	front of her where the body's decaying head looks back with 
+
+	wide, unseeing eyes.
+
+	It takes everything she has just to hold there. She shines 
+
+	her light back to the headless torso.
+
+	She shines her light beyond that, and up, to reveal a bent 
+
+	steam pipe hanging out over the deck, stained with dried 
+
+	blood, a pair of legs dangling from the pipe when, just behind 
+
+	her, a booted foot comes into frame, lightly touching her.
+
+	She spins around to see another body above her. Except this 
+
+	one hangs in one piece, suspended from another bent steam 
+
+	pipe. It has been impaled length-wise on the pipe from rectum 
+
+	to mouth.
+
+	One of its arms has rotted off and lies on the deck below 
+
+	it.  A few feet away, a third body hangs impaled from another 
+
+	bent pipe.
+
+	INT. CHIMERA - ENGINE ROOM - LATER - NIGHT
+
+	A lantern illuminates the impaled bodies and their various 
+
+	rotting parts.
+
+				GREER (O.S.)
+
+		Ho-ly shit.
+
+				MURPHY (O.S.)
+
+		Couldn't have happened much more 
+
+		than a month ago.
+
+	Greer, Dodge, and Epps look on as Murphy kneels over the 
+
+	remains of the headless torso.
+
+				MURPHY
+
+		Bodies're too fresh.
+
+				DODGE
+
+		Fresh ain't the first word that comes 
+
+		to mind.
+
+	Murphy checks the pockets, finding a wallet. He looks through 
+
+	it.
+
+				MURPHY
+
+		Greek citizen. Merchant navy.
+
+			(standing)
+
+		Obviously we aren't the first to 
+
+		come across this ship. They probably 
+
+		stumbled across it just like we did.
+
+				GREER
+
+		And look what happened.
+
+				DODGE
+
+		Damn barbaric is what it is.
+
+				MURPHY
+
+		Could be meant as a warning.
+
+				GREER
+
+		Stay away. Or else.
+
+				EPPS
+
+		Because of the gold.
+
+				MURPHY
+
+		That'd be my guess.
+
+				DODGE
+
+		So whoever did this might still be 
+
+		around.
+
+				GREER
+
+		Maybe Epps's mystery man had something 
+
+		to do with it.
+
+				MURPHY
+
+		Maybe.
+
+	A beat as they consider the implications of this.
+
+				EPPS
+
+		So, what? We report this? Call the 
+
+		Coastguard?
+
+	Another beat as they hold there.
+
+				DODGE
+
+		Let's not be too hasty.
+
+				GREER
+
+		Yeah. Hell, what difference does it 
+
+		make if we report it now or later?  
+
+		We call this in now, gonna be 
+
+		Coastguard, FBI, who knows who, all 
+
+		over the place.
+
+	A beat as nobody's too sure about this.
+
+				MURPHY
+
+		Dodge, if this isn't incentive enough 
+
+		to fix that boat, I don't know what 
+
+		is.
+
+						 DISSOLVE TO:
+
+	INT. ARCTIC WARRIOR - ENGINE ROOM - DAY
+
+	Dodge fires up a compressor, which feebly comes to life, 
+
+	turning over the turbine, then sputtering out in a cloud of 
+
+	smoke.
+
+				DODGE
+
+		All the seals and gaskets're shot.  
+
+		Anything that was rubber burned up.
+
+	Murphy stands at the doorway, looking on.
+
+				MURPHY
+
+		Can't you use something else?
+
+				DODGE
+
+		I might be able to find something on 
+
+		the ship. But it's gonna take time.
+
+				MURPHY
+
+		Do what you need to do. Just do it 
+
+		fast.
+
+				DODGE
+
+		Right.
+
+	INT. CHIMERA - CREW QUARTERS - DAY
+
+	Epps sleeps in her bunk.
+
+	INT. CHIMERA - BETWEEN DECKS - DAY
+
+	Dodge and Greer climb down in the darkness.
+
+				DODGE
+
+		I need lag bolts, especially one 
+
+		inch standard. And sheet metal.  
+
+		Preferably steel, about a sixteenth 
+
+		of an inch. Aluminium, even tin'll 
+
+		do.
+
+				GREER
+
+		I ain't no mechanic, just so you 
+
+		know.
+
+				DODGE
+
+		You find anything that even looks 
+
+		like a compressor. I don't care what, 
+
+		grab it.
+
+	INT. CHIMERA - RADIO ROOM - CONTINUOUS - DAY
+
+	Murphy stands in the cramped room, full of radios and 
+
+	communications equipment. He looks through the shelves and 
+
+	cabinets, when he opens a drawer to find a dusty bound book.  
+
+	He pulls it back, opening it to see that it is a radio call 
+
+	log. He takes a seat, paging through it.
+
+	INT. CHIMERA - GALLEY - WITH GREER - LATER - DAY
+
+	Greer works to disassemble a compressor mechanism. He has 
+
+	difficulty getting the right purchase with his wrench, when 
+
+	he slips.
+
+				GREER
+
+		Dammit!
+
+	A beat as he inspects his hand. In the silence A DISTANT 
+
+	SHRIEK SOUNDS, maybe metal against metal or maybe human, 
+
+	somewhere in the ship. He holds there, listening.
+
+				GREER
+
+		Dodge?
+
+	He moves on, shinning his light as he goes.
+
+	INT. CHIMERA - GALLEY - MOMENTS LATER - DAY
+
+	Greer moves along in the darkness when he hears THE SHRIEKING 
+
+	AGAIN coming from somewhere in the ship.
+
+				GREER
+
+		Dodge!
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Greer walks up a stairway, stepping into a darkened 
+
+	passageway. The SHRIEKING SOUNDS, THIS TIME CLOSER, as it 
+
+	echoes through the ship. He stops, holding there to listen.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Greer comes out onto another deck, stopping there. He looks 
+
+	down the passageway a beat, then moves on. He passes through 
+
+	a hatchway in a bulkhead when A MUSIC BOX CAN BE DISTANTLY 
+
+	HEARD. He stops. The song is "DAISY" ("Daisy, Daisy, give me 
+
+	your answer do. I'm half crazy, oh for the love of you.").
+
+	He holds there, listening intently. A door stands open at 
+
+	the other end of the passage. The MUSIC COMES FROM HERE. He 
+
+	moves forward, walking toward the end of the passage, and 
+
+	the light falling from the open door.
+
+	INT. CHIMERA - RADIO ROOM - CONTINUOUS - DAY
+
+	Murphy pages forward to the last page of the radio call log 
+
+	book.
+
+	On the page his finger runs down the columns of entries, 
+
+	coming to "TRANSMISSION 1 Feb 53 21:34 hrs GMT. Engine trouble 
+
+	notification made to passing vessel 'St. Charles.'"
+
+	His finger moves down to the next entry, coming to: 
+
+	"TRANSMISSION 2 Feb 53 09:52 hrs GMT. Dead in Water.  
+
+	Notification made to passing vessel 'Normandy.'"
+
+	His finger continues: "TRANSMISSION 2 Feb 53 14:07 hrs GMT.  
+
+	Captain relieved of command. Notification made to passing 
+
+	vessel 'China Sea.'"
+
+				MURPHY
+
+		Captain relieved of command.
+
+	He holds there a moment, moving his finger down to the final 
+
+	entry, reading: "TRANSMISSION 2 Feb 53 21:24 hrs GMT. General 
+
+	SOS."
+
+	He turns the page to see only the words "GOD SAVE US" scrawled 
+
+	in faded red ink. A beat as he holds there, when a CHANNEL 
+
+	OPENS WITH A SHORT BURST ON MURPHY'S RADIO. He looks to it, 
+
+	but there is no response from the other end. Another SHORT 
+
+	BURST AND THE CHANNEL OPENS AGAIN. This time it remains open, 
+
+	but no one says anything on the other end, UNTIL THE CHANNEL 
+
+	CLOSES AGAIN.
+
+	Murphy takes the radio.
+
+				MURPHY
+
+		This is Murphy. Anybody trying to 
+
+		call me? Over.
+
+	He waits as no response comes, then THE CHANNEL OPENS AGAIN.  
+
+	Only silence from the other end as someone seems to be there, 
+
+	but is not saying anything. Murphy presses the talk button.
+
+				MURPHY
+
+		Greer? Dodge?
+
+	Again, there is no response, until the CHANNEL OPENS. Murphy 
+
+	holds there as he is answered by silence, WHEN A GRAVELLY, 
+
+	STRANGELY DISTORTED MALE VOICE COMES BACK ON THE RADIO:
+
+				VOICE (V.O. RADIO)
+
+		"Cock-a-doodle-doo," said the rooster 
+
+		to the crow. "Where are you now? I 
+
+		know, but won't say so."
+
+	Murphy is momentarily stunned. He hits the talk button.
+
+				MURPHY
+
+		Who is this?
+
+	The RADIO CHANNEL OPENS. Only silence comes back, as if 
+
+	someone were there but not speaking.
+
+				MURPHY
+
+		Who is this!!
+
+	The CAMERA PUSHES IN AS MURPHY LISTENS.
+
+				VOICE
+
+		Penny whistle toy. Penny whistle 
+
+		toy. Penny whistle toy. Penny whistle 
+
+		toy.
+
+	The CHANNEL CLOSES as the CAMERA STOPS CLOSE ON MURPHY.  
+
+	Murphy squeezes the talk button.
+
+				MURPHY
+
+		Greer! Dodge!
+
+	Only silence comes back from the radio when A MAN'S BLOOD 
+
+	CURDLING SCREAM sounds from somewhere in the ship.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Murphy moves quickly down the passageway when his radio 
+
+	sounds.
+
+				DODGE
+
+		Dodge to Murphy.
+
+				MURPHY
+
+			(taking radio)
+
+		Murphy.
+
+				DODGE
+
+		You better get down here quick, 
+
+		skipper. I'm on "C" deck. Cabin 400.
+
+				MURPHY
+
+		What is it?
+
+				DODGE
+
+		I think you better see this for 
+
+		yourself.
+
+	INT. CHIMERA - STAIRWAY/PASSAGEWAY - MOMENTS LATER - DAY
+
+	Murphy comes down the stairs and into the passageway we saw 
+
+	Greer in earlier. At the end, the light from the cabin falls 
+
+	from the open door as he approaches.
+
+	AT CABIN 400
+
+	As Murphy comes to the door to see Dodge standing in the 
+
+	middle of the cabin.
+
+				DODGE
+
+		I found him like this.
+
+	Greer is lying supine on the floor. His legs are rigid and 
+
+	his trunk is extended. His arms are flexed and twisted so 
+
+	that the palms are facing away, fingers splayed, wrists 
+
+	quaking over his chest as they fight to touch each other.
+
+	Murphy kneels beside him. Greer's eyelids are half closed, 
+
+	his eyes rolled up into his head. His jaw is clenched, face 
+
+	contorted in a bizarre grimace. And he speaks, uttering 
+
+	nonsense words in harsh expulsions, as though speaking in 
+
+	tongues.
+
+				GREER
+
+		Oragishlaoomnudrasadrafantoshviska 
+
+		getofedobrodijotosiantosg.
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - DAY
+
+	AN EYE - EXTREMELY CLOSE
+
+	As a light shines in it, the pupil is fixed and dilated.
+
+				EPPS (O.S.)
+
+		Hard to say.
+
+	BACK TO SCENE
+
+	Greer lies unconscious on a bunk, now quiet, no longer seizing 
+
+	as Epps shines a flashlight into his eye, Dodge and Murphy 
+
+	looking on. She turns it off, standing upright.
+
+				EPPS
+
+		I'm no doctor. But I'd say he's in a 
+
+		coma.
+
+				DODGE
+
+		A what?
+
+				EPPS
+
+		I don't know what else you'd call 
+
+		it. He's breathing on his own, but 
+
+		his pupils are completely blown out. 
+
+		He's totally unresponsive to pain.
+
+			(a beat)
+
+		What happened up there?
+
+				DODGE
+
+		I heard a scream. When I got there I 
+
+		found him on the floor. He was having 
+
+		some kind of seizure. I didn't see 
+
+		anybody else.
+
+				MURPHY
+
+		He must've seen something.
+
+	A beat as they consider this.
+
+				EPPS
+
+		Other than the obvious, there's 
+
+		nothing wrong with him that I can 
+
+		see, not on the outside.
+
+				DODGE
+
+		Then what the hell happened to him?
+
+	Another beat as they hold there.
+
+				MURPHY
+
+		Just before I heard him yell there 
+
+		was somebody on the radio.
+
+				EPPS
+
+		Greer?
+
+				MURPHY
+
+		I don't know. No. Not Greer.  
+
+		Somebody.
+
+	Another long beat as they think about this.
+
+				MURPHY
+
+		It was a man's voice. Repeating some 
+
+		sort of children's rhyme. I don't 
+
+		know, it didn't make any sense. You 
+
+		didn't hear it?
+
+				DODGE
+
+		Not me.
+
+	Another beat as this sinks in.
+
+				EPPS
+
+			(looking to Greer)
+
+		He needs a doctor.
+
+				MURPHY
+
+		I'll call us in. Dodge, see how many 
+
+		signal flares you can scrounge up.
+
+			(to Epps, meaning 
+
+			Dodge)
+
+		Keep an eye on him.
+
+	INT. ARCTIC WARRIOR - PILOT HOUSE - NIGHT
+
+	A gas lantern sits on the map table illuminating Murphy as 
+
+	he holds the radio mic.
+
+				MURPHY
+
+			(to radio)
+
+		United States Coastguard, United 
+
+		States Coastguard, United States 
+
+		Coastguard. This is tugboat Arctic 
+
+		Warrior whiskey alpha sierra bravo 
+
+		four zero niner two. Over.
+
+	No response.
+
+				MURPHY
+
+			(to radio)
+
+		United States Coastguard, United 
+
+		States Coastguard, United States 
+
+		Coastguard. This is tugboat Arctic 
+
+		Warrior whiskey alpha sierra bravo 
+
+		four zero niner two. Over.
+
+	Again, no response. He holds there, then finally:
+
+				MURPHY
+
+			(to radio)
+
+		Mayday. Mayday. Mayday. To any vessel. 
+
+		This is Arctic Warrior.  Arctic 
+
+		Warrior. Arctic Warrior.  Whiskey 
+
+		alpha sierra bravo four zero niner 
+
+		two. Last known position one seven 
+
+		four west, five seven north. I am 
+
+		afloat and drifting.  Require 
+
+		immediate medical assistance for one 
+
+		person, possibly comatose. I am a 
+
+		one hundred twenty foot civilian 
+
+		tug, hove to at port bow of disabled 
+
+		passenger liner Chimera. I repeat, 
+
+		Chimera. Over.
+
+	Only the desolate WHITE NOISE OF EMPTY AIR COMES BACK.
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - NIGHT
+
+	Greer lies unconscious as Epps looks on at him. The door 
+
+	comes open and Murphy steps in.
+
+				MURPHY
+
+		How's he doing?
+
+				EPPS
+
+		Same. Any luck?
+
+				MURPHY
+
+		No. I'll try again later.
+
+	A beat as they look on at Greer.
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - NIGHT
+
+	Murphy and Epps sit at the galley table. Epps reads the log 
+
+	book Murphy found in the radio room.
+
+				EPPS
+
+			(reading it)
+
+		They're dead in the water that 
+
+		morning. Four hours later the 
+
+		captain's relieved of his command.  
+
+		And that evening they issue a general 
+
+		SOS.
+
+				MURPHY
+
+		Possibly false. Hence the IMA record 
+
+		of being lost at sea. I don't think 
+
+		mutiny's out of the question here.
+
+				DODGE
+
+			(taking a seat)
+
+		On a passenger ship in 1953?
+
+				MURPHY
+
+		If they knew what they were carrying.
+
+				EPPS
+
+		You're saying they mutinied for the 
+
+		gold?
+
+				MURPHY
+
+		If they were close enough to shore, 
+
+		they probably figured they could get 
+
+		away in the lifeboats.
+
+				EPPS
+
+		Only something must've gone wrong.
+
+				DODGE
+
+		Yeah, way wrong.
+
+	A beat as they consider it.
+
+				DODGE
+
+		So. I got a question. Just from a, 
+
+		you know, purely technical standpoint. 
+
+		We call the Coastguard.  Coastguard 
+
+		shows up. What exactly is the plan?
+
+				MURPHY
+
+		How do you mean?
+
+				DODGE
+
+		Well, they're gonna be asking a lot 
+
+		of questions. About us. About those 
+
+		bodies. About the gold. Seems like 
+
+		we oughta be prepared is all.
+
+				MURPHY
+
+		I guess the best strategy's just to 
+
+		tell them the truth.
+
+				DODGE
+
+		Yeah, well. The truth is one thing.  
+
+		When there's more than a few hundred 
+
+		million dollars involved, that's a 
+
+		whole new deal.
+
+				MURPHY
+
+		What do you propose?
+
+				DODGE
+
+		For starters, getting that gold off 
+
+		the ship. What they don't know about 
+
+		isn't gonna bother them.
+
+	A beat as Murphy holds there.
+
+				MURPHY
+
+		There's no way we're gonna hide a 
+
+		few thousand pounds of gold from the 
+
+		Coastguard here. Besides, it'll be 
+
+		safer where it is.
+
+				DODGE
+
+		With all due respect, skipper.
+
+			(a beat)
+
+		Part of that up there's mine. I'd 
+
+		kinda like to have a little say in 
+
+		what happens to it.
+
+	A beat as Murphy looks on.
+
+				MURPHY
+
+		Tell you what, Dodge. Once we get 
+
+		back to shore, you can do whatever 
+
+		you want with your share. But until 
+
+		then, the gold stays right where it 
+
+		is.
+
+	Dodge holds there. He looks to Epps a beat, takes a drink of 
+
+	coffee.
+
+	EXT. CHIMERA - DAY
+
+	The sun comes up over a spectacular cloud bank as the Arctic 
+
+	Warrior drifts alongside the Chimera.
+
+	EXT. ARCTIC WARRIOR - DAY
+
+	Murphy crosses to the deck house, climbs the stairs.
+
+	INT. ARCTIC WARRIOR - PILOTHOUSE - CONTINUOUS - DAY
+
+	Murphy opens the door, stopping dead in his tracks. A beat.  
+
+	He steps forward, crossing to the corner.
+
+	The radio set lies before him, dented in and completely 
+
+	demolished, as if someone had taken a bat to it.
+
+	INT. ARCTIC WARRIOR - ENGINE ROOM - MOMENTS LATER - DAY
+
+	Dodge works on one of the turbines when he is grabbed from 
+
+	behind and shoved into the wall. Murphy holds him fast.
+
+				MURPHY
+
+		Just what the hell do you think you're 
+
+		doing?!
+
+				DODGE
+
+		I don't know what you're talking 
+
+		about?
+
+				MURPHY
+
+		I think you know.
+
+				DODGE
+
+		Maybe you can tell me then.
+
+	Murphy shoves him hard into the wall.
+
+				MURPHY
+
+		The radio!
+
+				DODGE
+
+			(not having a clue)
+
+		The radio. Oh, yeah, the radio.
+
+	Murphy tightens his grip.
+
+				DODGE
+
+		Take it easy, willya? What about the 
+
+		radio?!
+
+				MURPHY
+
+		You smashed it!
+
+				DODGE
+
+		What?!
+
+				MURPHY
+
+		Don't lie to me!
+
+				DODGE
+
+		What the fuck -- ?
+
+				MURPHY
+
+		You didn't want us calling anybody.  
+
+		Too liable to ruin your big payday.
+
+				DODGE
+
+		I didn't touch the fucking radio.
+
+	Murphy tightens his grip still more.
+
+				DODGE
+
+		I didn't touch the fucking radio!
+
+			(a beat)
+
+		Ever occur to you there's somebody 
+
+		else on that boat, skipper?
+
+				MURPHY
+
+		Conveniently enough for you.
+
+				DODGE
+
+		Look, I didn't touch it. Alright?
+
+	Murphy holds there a beat longer. He shoves Dodge back letting 
+
+	him go.
+
+				DODGE
+
+		Jesus.
+
+	Dodge checks his throat as Murphy looks on.
+
+				EPPS (O.S.)
+
+		Murphy.
+
+	They turn to see Epps in the hatchway.
+
+				EPPS
+
+		It's Greer.
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - MOMENTS LATER - DAY
+
+	Greer stands at the galley sink finishing off the last of a 
+
+	jug of water as Murphy and the others step in. He turns to 
+
+	see them.
+
+				GREER
+
+		Never been more thirsty in my life.
+
+				MURPHY
+
+		Drink up then.
+
+	Greer smiles, raising the jug to drink as the others take a 
+
+	seat, looking on at him.
+
+				MURPHY
+
+		How're you feeling?
+
+				GREER
+
+		Lost my sea legs.
+
+				EPPS
+
+		Any dizziness?
+
+				GREER
+
+		No.
+
+				EPPS
+
+		Headache, nausea, lights?
+
+				GREER
+
+		Lights?
+
+				EPPS
+
+		Sudden flashes of light.
+
+				GREER
+
+		I feel fine.
+
+				DODGE
+
+		What day is it?
+
+				GREER
+
+		I don't know. Tuesday?
+
+				DODGE
+
+		Wrong. It's Friday.
+
+				EPPS
+
+		Try Wednesday.
+
+				DODGE
+
+		Right. Wednesday.
+
+	A beat as they all hold there. Greer takes a seat.
+
+				GREER
+
+		What happened?
+
+				MURPHY
+
+		You don't remember?
+
+				GREER
+
+		Last thing I remember I was aboard 
+
+		the Chimera. Down somewhere in there 
+
+		scavenging around.
+
+				MURPHY
+
+		You've been out for about a day.
+
+				GREER
+
+		Say what?
+
+				MURPHY
+
+		Dodge found you out cold in one of 
+
+		the cabins.
+
+	Greer only holds there.
+
+				GREER
+
+		Oh, man.
+
+				MURPHY
+
+		We heard you scream. Any idea what 
+
+		you might've seen?
+
+				GREER
+
+		I wish I could tell you. I'd be real 
+
+		interested to know myself.
+
+	Another beat as they hold there, as Greer takes another drink 
+
+	of water.
+
+				MURPHY
+
+		The ah... the radio's out.
+
+				EPPS
+
+		What?
+
+				MURPHY
+
+		Somebody took it out of commission 
+
+		last night.
+
+	A beat as they all hold there.
+
+				MURPHY
+
+		Smashed it up pretty bad.
+
+				EPPS
+
+		But, who -- ?
+
+				DODGE
+
+		The skipper seems to think I did it. 
+
+		That I'm more interested in that 
+
+		gold than my own safety or the safety 
+
+		of my fellow shipmates.
+
+	A beat as they hold there, as Murphy looks back.
+
+				EPPS
+
+		Did you?
+
+				DODGE
+
+		Hell no. You think I'm crazy?
+
+	Another beat as they hold there.
+
+				MURPHY
+
+		Regardless of how it happened, there 
+
+		isn't much of a chance to fix it. 
+
+		The odds of another vessel in range 
+
+		of the walkie-talkies are almost 
+
+		astronomical. So, as of today, we're 
+
+		pretty much on our own out here.
+
+	INT. CHIMERA - STAIRWAY - DAY
+
+	Epps and Murphy, carrying the shotgun, make their way in the 
+
+	ship.
+
+	INT. ARCTIC WARRIOR - FIRST MATE'S QUARTERS - DAY
+
+	Greer stops before a mirror to see himself. He finds an 
+
+	aspirin bottle, goes to open it. And as he does so, he sees 
+
+	that his hand is shaking uncontrollably.
+
+	INT. ARCTIC WARRIOR - ENGINE ROOM - DAY
+
+	Dodge works over the turbine. He stops, holding there. He 
+
+	looks on at the plugs and wires and hoses. A beat.
+
+	He begins pulling out the hoses and wires, grabbing at them, 
+
+	yanking them loose, breaking them off.
+
+	INT. CHIMERA - RADIO ROOM - DAY
+
+	The chassis comes off an old radio to reveal a dusty 
+
+	assortment of tubes and condensers. Murphy looks on at it.
+
+	WITH EPPS
+
+	A tattered, bound book lies in the refuse of a forgotten 
+
+	corner. Epps picks it up. The cover has been ripped off and 
+
+	the pages are torn. But, as she looks through it, she sees 
+
+	that it is the ship's log.
+
+				EPPS
+
+		Murphy.
+
+	Murphy steps over as she pages through the log book to the 
+
+	very end. The last pages have been ripped out.
+
+				EPPS
+
+		Looks like part of the general log.
+
+	Epps points to a page that has been incompletely ripped out.
+
+				EPPS
+
+		"The crew have gone mad with greed 
+
+		and fight among themselves like wild 
+
+		dogs over fresh kill."
+
+				MURPHY
+
+		February first.
+
+				EPPS
+
+		The same day she supposedly went 
+
+		down.
+
+				MURPHY
+
+		Must not've been the captain's entry. 
+
+		He was probably out of the picture 
+
+		by then.
+
+	Epps continues to read.
+
+				EPPS
+
+		"Their lacking diligence has 
+
+		undoubtedly caused the collision.  
+
+		Distress calls have been made."
+
+				MURPHY
+
+		Collision? With what?
+
+				EPPS
+
+		The page's missing. Then their SOS 
+
+		was real.
+
+				MURPHY
+
+		But where's the damage?
+
+				EPPS
+
+		Maybe the other ship took the worst 
+
+		of it.
+
+				MURPHY
+
+		If it was a ship she hit.
+
+	A beat as they hold there, when his radio CRACKLES TO LIFE.
+
+				DODGE
+
+		Dodge to Murphy!
+
+	Murphy reaches down for his radio.
+
+				MURPHY
+
+			(to radio)
+
+		Yeah.
+
+				DODGE
+
+		You better get down here right now!  
+
+		We're taking water! Big time!
+
+	EXT. ARCTIC WARRIOR - DAY
+
+	Murphy and Epps jump from the deck crane as the tug is 
+
+	starting to list to one side. He crosses to the deck house 
+
+	and the open engine room hatch to see that it is rapidly 
+
+	filling with seawater as Greer and Dodge scramble to set a 
+
+	pump hose over the DIN OF THE PUMPS.
+
+				MURPHY
+
+		What the hell happened!
+
+				DODGE
+
+		Turbine chamber on number two must've 
+
+		blown! Took out part of the hull!
+
+				GREER
+
+		We're not gonna be able to pump it!
+
+				MURPHY
+
+		Alright. Everybody grab your gear!  
+
+		This' is where we get off!
+
+	EXT. ARCTIC WARRIOR - MOMENTS LATER - DAY
+
+	The tug is listing radically to the side, its deck awash 
+
+	with seawater, as Epps, Greer, and Murphy scramble with their 
+
+	gear to the crane.
+
+	Water is starting to pour out of the deckhouse hatch as the 
+
+	towering framework rising over the pilothouse stabs 
+
+	precariously at the bow of the Chimera.
+
+	Murphy stops to shout back at the deckhouse.
+
+				MURPHY
+
+		Dodge!
+
+	INT. ARCTIC WARRIOR - CREW QUARTERS - CONTINUOUS - DAY
+
+	Water is starting to pour in as the entire cabin lurches to 
+
+	one side. Dodge wades through toward the door.
+
+	EXT. CHIMERA - FORWARD DECK - CONTINUOUS - DAY
+
+	Epps pulls herself up onto the deck, Greer following behind, 
+
+	then Murphy.
+
+	Dodge can be seen stepping from the deckhouse on the tug, 
+
+	which now lists at a near 45 degree angle.
+
+	WITH DODGE
+
+	Dodge stumbles toward the bow, slipping on the wet deck. He 
+
+	goes down, sliding into the water that washes over the 
+
+	starboard rail.
+
+	He pulls himself up, using a cleat to push off. A deck locker 
+
+	opens and the contents tumble around him. He struggles to 
+
+	pull himself up to the base of the pilothouse. He climbs up 
+
+	and edges his way toward the bow.
+
+	WITH THE OTHERS
+
+	Epps, Greer and Murphy look on as Dodge climbs up on the 
+
+	skewed deck crane.
+
+	WITH DODGE
+
+	The tug is slowly lurching over as Dodge climbs the crane, 
+
+	the top of which is sweeping away from the Chimera.
+
+	Below, the decks of the tug are swept with seawater as it 
+
+	sinks lower and lower.
+
+	WITH THE OTHERS
+
+	They look on as Dodge climbs toward them, the sinking tug 
+
+	pulling Dodge and the crane away from the ship.
+
+	Greer pulls back a line, tying it into the deck railing.
+
+	WITH DODGE
+
+	As Dodge makes his way up, he's forced to climb onto the 
+
+	other side of the crane to keep from dangling over the water.
+
+	Above, Greer casts a line. It falls near, but out of reach 
+
+	as the swell of the water starts to swing the crane to and 
+
+	fro.  Dodge reaches out for the line again, his hand coming 
+
+	close but not close enough.
+
+	The swell brings the crane toward the boat one last time and 
+
+	Dodge reaches out, his fingers just coming to the line, 
+
+	coaxing it into his grasp. He pulls it back and hangs on, as 
+
+	the crane sways back with the foundering boat.
+
+	The crane falls away from Dodge, leaving him hanging in space 
+
+	by the line from the bow of the Chimera.
+
+	WITH THE OTHERS
+
+	Murphy, Greer and Epps look on as Dodge hangs over the water 
+
+	and the tug as its stern slowly sinks beneath the waves.
+
+	Dodge climbs the line toward the bow railing as the tug rolls 
+
+	still further to port, the pilothouse dipping into the sea, 
+
+	slipping lower and lower.
+
+	WITH DODGE
+
+	As he pulls himself upward, coming to the bottom of the rail 
+
+	well on the Chimera where Murphy reaches out, just short of 
+
+	Dodge's hand.
+
+	A SCREECHING SOUNDS and they turn to see the twin tow cables 
+
+	coming taught against the hull in the anchor alley's of the 
+
+	Chimera as the sinking tug pulls them tight.
+
+	With a CONCUSSIVE STRIKE, one cable is freed, snapping against 
+
+	the Chimera's hull like a giant steel guitar string.  It 
+
+	starts sliding along the hull as the tug drifts, pulling the 
+
+	cable with it, toward Dodge as he dangles in mid air.
+
+	Dodge pulls himself up, reaching for Murphy, but still short.
+
+	A LOUD HISSING SOUNDS and Dodge turns to see misty air 
+
+	escaping from ports and deck vents as the encroaching water 
+
+	forces it out of the tug below decks.
+
+	The tow cable LOUDLY SCRAPES THE HULL in a shower of rust, 
+
+	as Dodge struggles to pull himself up.
+
+	Murphy reaches out as Dodge extends as far as he can, their 
+
+	hands barely reaching.
+
+	The tow cable is a mere few feet away and closing, ready to 
+
+	scrape Dodge into the water or smear him across the hull 
+
+	like a bug on a windshield, when Dodge pulls himself up with 
+
+	everything he's got and Murphy grabs his hand.
+
+	Murphy pulls, lifting Dodge, as Greer grabs Dodge's other 
+
+	hand and they pull him up, the tow cable sweeping by with a 
+
+	SICKENING GRINDING SOUND OF HEAVY STEEL AGAINST STEEL.
+
+	Dodge turns to see the bow of the tug dip below the surface, 
+
+	slowly going under until disappearing with a last exhalation 
+
+	of misty air. The pilothouse is next to go, the last of it 
+
+	slipping into the frothing water, then the crane, finally 
+
+	disappearing altogether into the depths.
+
+	A long beat as they hold there in the sudden silence, phantom 
+
+	bubbles rising to the surface where the tug once stood.
+
+	EXT. CHIMERA - TOP DECK - DAY
+
+	A boot punches through a rotten wood hull.
+
+				MURPHY (O.S.)
+
+		That just about says it all.
+
+	Greer stands at the bow of a lifeboat suspended from halyards 
+
+	above the deck.
+
+				GREER
+
+		Rotten stem to stern. Guess you 
+
+		couldn't expect much else.
+
+	Greer jumps down as Murphy, Dodge, and Epps look on.
+
+				GREER
+
+		We ain't exactly in what you'd call 
+
+		your high traffic neighborhood either.
+
+				MURPHY
+
+		The coast guard has our last position. 
+
+		They'll send somebody out soon enough. 
+
+		A ship this size you can't exactly 
+
+		miss.
+
+				EPPS
+
+		It's a good bet they'll be asking a 
+
+		lot of questions when they get here 
+
+		too.
+
+				MURPHY
+
+		Let 'em ask. This ship's legally 
+
+		ours now.
+
+				DODGE
+
+		When they find out what it's carrying, 
+
+		they may not be so interested in 
+
+		what's legal.
+
+				GREER
+
+		Maybe you shoulda thought a that 
+
+		before you scuttled our boat.
+
+	Dodge turns to see Greer. A beat.
+
+				DODGE
+
+		The turbine blew.
+
+				GREER
+
+		Lemme see, was that before or after 
+
+		the oil fire?
+
+	A beat. Dodge takes a swing at Greer.
+
+				MURPHY
+
+			(grabbing Dodge)
+
+		Easy, easy.
+
+	Murphy holds on to Dodge as he will have none of it.
+
+				GREER
+
+		Gettin' a little hot under the collar, 
+
+		I'd say.
+
+				MURPHY
+
+		Shut up.
+
+				GREER
+
+		Must be a little too the truth, eh 
+
+		Dodge?
+
+	Dodge jumps forward again, but Murphy hangs on.
+
+				MURPHY
+
+		I said, shut the hell up.
+
+	Murphy shoves Dodge back.
+
+				MURPHY
+
+		Both of you. I don't want to hear it 
+
+		again.
+
+	A beat as Greer and Murphy hold there.
+
+				MURPHY
+
+		So just stow it. You understand?
+
+			(a beat)
+
+		We don't need this right now.
+
+	EXT. CHIMERA - FOREDECK - NIGHT
+
+	A fire burns in an oil drum as Epps, Murphy, Dodge and Greer 
+
+	sit around it in silence.
+
+	INT. CHIMERA - 4TH OFFICER'S STATEROOM - NIGHT
+
+	Epps steps in. She shines her light on the room. It is exactly 
+
+	as it was left. She crosses to the bed, shining her light 
+
+	under it. She sits down, trying it.
+
+	INT. CHIMERA - CARGO HOLD - NIGHT
+
+	Dodge moves in the darkness, coming to the corner where the 
+
+	stacked gold ingots rest. He looks on at them.
+
+				MURPHY (O.S.)
+
+		You shouldn't be down here alone.
+
+	Dodge turns to see Murphy standing there.
+
+				DODGE
+
+		Just wanted to check on our little 
+
+		baby.
+
+	A beat as they look on at the gold.
+
+				DODGE
+
+		That oughta buy a man pretty much 
+
+		anything he wants.
+
+				MURPHY
+
+		If money can buy what he wants.
+
+				DODGE
+
+		I don't figure there's much I want 
+
+		money can't buy.
+
+				MURPHY
+
+		Then you're a lucky man.
+
+	Murphy tosses the shotgun to Dodge, who catches it.
+
+				MURPHY
+
+		We'll stand the watch on deck tonight. 
+
+		You're up first.
+
+				DODGE
+
+		Right.
+
+	Murphy holds there a beat longer, then turns to go, as Dodge 
+
+	looks after him.
+
+	EXT. CHIMERA - DAY
+
+	A grey chop gently rocks the Chimera, smoke rising from the 
+
+	top deck.
+
+	EXT. CHIMERA - TOP DECK - DAY
+
+	Greer and Dodge tend the flames of three fire barrels, adding 
+
+	broken up furniture to create heavy signal smoke.
+
+	INT. CHIMERA - PANTRY - DAY
+
+	Murphy moves through the pantry area with a pillow case, 
+
+	scavenging for food.
+
+	INT. CHIMERA - GALLEY - DAY
+
+	Epps scavenges for food in the semi-darkness of the large, 
+
+	open galley, when a MOVEMENT CAN BE HEARD SOMEWHERE BEYOND 
+
+	THE ENTRY separating the galley from the outer passageway.
+
+				EPPS
+
+		Murphy?
+
+	No one answers. She looks off across the stillness of the 
+
+	galley. Nothing.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Epps steps into the passageway. Directly across is the entry 
+
+	to the swimming pool. She walks on.
+
+	INT. CHIMERA - SWIMMING POOL - DAY
+
+	Epps steps in. Light falls in from the dirty port holes at 
+
+	the ceiling, every movement echoing off the hard tile walls.  
+
+	She holds there a beat, then turns to go when she sees a 
+
+	GIRL of about 16 facing her on the other side of the pool.
+
+	Epps holds there, as the girl only looks back. She is 
+
+	porcelain white, flaxen hair drawn behind her head, her 
+
+	clothing hanging loosely from a frail body.
+
+				GIRL
+
+		You must leave.
+
+	A beat as Epps stands there.
+
+				EPPS
+
+			(finally)
+
+		Who are you?
+
+	From this distance and in the light it is hard to fully 
+
+	discern the girl's features.
+
+				GIRL
+
+		There's great evil here, more than 
+
+		you can know. Leave now or you may 
+
+		never leave.
+
+				EPPS
+
+		But --
+
+	A HATCH CLOSES SOMEWHERE IN THE SHIP. Epps turns to look.  
+
+	When she turns back the girl is gone. A quiet "TICK" SOUND 
+
+	ECHOES in the pool. She looks down to see that the pool is 
+
+	now very, very deep, like a mine shaft falling away into the 
+
+	depths. And, as she stands there, dark water is quickly rising 
+
+	up from the bottom.
+
+	She steps back as the water gradually fills the pool to the 
+
+	top. It is very dark and the bottom is indiscernible, when 
+
+	the water begins to churn, as from bubbles of air reaching 
+
+	the surface. Epps steps closer, looking on as a faint red 
+
+	glow can be seen deep in the water below the churning bubbles.
+
+	As she watches, the red glow grows in intensity. The glow 
+
+	spreads, illuminating a broad area until it becomes clear 
+
+	that the water is not water at all but blood.
+
+	And, as the light grows still brighter, a figure is 
+
+	illuminated, well below the surface as it seems to rise up.  
+
+	Epps looks on as the figure rises higher into the light. It 
+
+	is a MAN, fighting desperately to reach the surface. The 
+
+	bubbles that rise up are produced from his silent screams.
+
+	Epps starts forward, but another figure rises to the same 
+
+	point, a WOMAN, also struggling. Another MAN floats up, then 
+
+	another, and another, people floating up, fighting desperately 
+
+	to reach the surface, unable to do so, drowning in blood.
+
+				EPPS
+
+		My God....
+
+	Epps reaches out over the edge, plunging her hand into the 
+
+	blood, reaching for the man's hand, but they are too far 
+
+	apart.
+
+	She struggles desperately as the man fights to get to the 
+
+	surface.
+
+	The others are fighting for the surface too, as Epps reaches 
+
+	out, near tears, helpless to do anything.
+
+				EPPS
+
+		No!!
+
+	Everything suddenly stops. A beat as Epps only holds there.
+
+	The blood is gone, as are the people. The pool is back to 
+
+	its normal state as though nothing had happened, Epps looking 
+
+	on in disbelief.
+
+				MURPHY (O.S.)
+
+		You okay?
+
+	Epps looks up to see Murphy standing at the door.
+
+				EPPS
+
+		Yeah.
+
+			(looking back to the 
+
+			pool)
+
+		Yeah, fine.
+
+	A beat as she holds there, looking on at the pool.
+
+	EXT. CHIMERA - FOREWARD DECK - NIGHT
+
+	Greer, Murphy, Dodge, and Epps sit on deck around the fire.
+
+				DODGE
+
+		You'd think on a ship this size 
+
+		there'd be something left to eat.
+
+				GREER
+
+		After fifty years there ain't nothin' 
+
+		left but shoe leather.
+
+				MURPHY
+
+		Tomorrow we'll see if we can't find 
+
+		some line and tackle. Use some of 
+
+		those bodies below decks for bait.
+
+				DODGE
+
+		There's a charming thought.
+
+				GREER
+
+		We can always start shooting birds.
+
+	Epps coaxes a hit out of her last cigarette.
+
+				DODGE
+
+		What say, Epps? You up for some 
+
+		roasted albatross?
+
+				EPPS
+
+			(snuffing it out)
+
+		Why not?
+
+	INT. CHIMERA - 1ST OFFICER'S STATEROOM - NIGHT
+
+	The SOUND OF SOMEONE BREATHING HARD CAN BE HEARD in the dark 
+
+	room. As the CAMERA SLOWLY MOVES INTO THE ROOM, we see that 
+
+	it is Greer, lying on the bed. His body is tense and his 
+
+	arms arch rigidly toward his chest. His jaw is clenched and 
+
+	he expels harsh, guttural utterances, experiencing something 
+
+	between a night terror and a seizure.
+
+	INT. CHIMERA - WHEELHOUSE - DAY
+
+	Sheets of rain come down on the deck in the grey light of 
+
+	morning. Murphy stands on the bridge, looking off at it coming 
+
+	down when Greer steps in.
+
+				GREER
+
+		Looks like we're in a strong current.
+
+			(closing the door)
+
+		Must be making almost five knots 
+
+		full on ass backwards.
+
+	Greer crosses to the window, stepping up.
+
+				GREER
+
+		Nasty little swell outa the north 
+
+		west too.
+
+	Murphy nods as he looks out.
+
+				MURPHY
+
+		Let's just hope somebody sees us 
+
+		first out here.
+
+	INT. CHIMERA - PURSERS OFFICE - DAY
+
+	A file drawer comes open, revealing ticket receipts.
+
+	Epps looks on at it. The receipts are labeled "FULL FARE 
+
+	PASSAGES" and are divided by first, second, and third class.  
+
+	She goes through them, coming to a section that says 
+
+	"ACCOMPANIED CHILDREN."
+
+	She pulls out the folder, laying it on the counter, opening 
+
+	it. The first page is a receipt for a single passage to 
+
+	Halifax for a Tatterly, Stephen age: 14. She pulls it back 
+
+	to reveal another, Wilson, Harold age: 4. Another, Vitti, 
+
+	Angela age: 17.
+
+	She pages through the stack, looking at the ages: 3, 15, 6, 
+
+	11, 1, until coming across a 9. She looks to the name, Klein, 
+
+	David, a boy. She continues paging through the receipts coming 
+
+	to another 9. She stops, looking to the name, Nichols, 
+
+	Katherine age: 16. A girl. She looks to the cabin assignment: 
+
+	"400." She notes that it is the same cabin where Greer was 
+
+	found, when a REVERBERANT CONCUSSION SOUNDS THROUGH THE SHIP.
+
+	EXT. CHIMERA - TOP DECK - CONTINUOUS - DAY
+
+	Dodge runs to the side to see a 15 feet wide by 40 feet tall 
+
+	steel and concrete mid-ocean buoy bounce off the transom as 
+
+	the ship drifts into it.
+
+	WITH GREER AND MURPHY
+
+	They come to the side at the wheelhouse, seeing the bright 
+
+	orange letters "NOAA" emblazoned on the buoy's float pod as 
+
+	the ship drifts by.
+
+				MURPHY
+
+		It's a Noaa buoy.
+
+				GREER
+
+		A what?
+
+				MURPHY
+
+		Government weather. It's got a 
+
+		transmitter aboard.
+
+	EXT. CHIMERA - FORWARD DECK - MOMENTS LATER - DAY
+
+	Dodge quickly ties a loop in a coil of docking line as Greer, 
+
+	Epps, and Murphy look on at the approaching buoy.
+
+				MURPHY
+
+		Let's go, let's go, let's go.
+
+	Dodge finishes as Epps ties the other end off to a cleat.
+
+	ON THE BUOY
+
+	As it drifts along the side of the Chimera. Murphy drops the 
+
+	line down, the buoy bouncing on the swell.
+
+	BACK TO SCENE
+
+	Murphy pulls the loop up as the buoy nears, aiming to hook 
+
+	it on its wind gauge.
+
+	ON THE BUOY
+
+	The buoy approaches, rising and falling with the swell.
+
+	BACK TO SCENE
+
+	Murphy corrects.
+
+				EPPS
+
+		Higher. You're gonna miss it.
+
+	Murphy holds the loop steady.
+
+	ON THE BUOY
+
+	The loop is too low. It's going to miss the mark as the buoy 
+
+	drifts toward it, when the swell drops and the buoy goes 
+
+	down.
+
+	BACK TO SCENE
+
+	Murphy yanks on the line.
+
+	ON THE BUOY
+
+	And the loop catches on the wind gauge.
+
+	BACK TO SCENE
+
+	As the line goes taught he pulls his hands away just in time, 
+
+	the line snapping hard against the rail. Below, the buoy 
+
+	heels over as it's pulled.
+
+	ON THE BUOY
+
+	It drops with the swell, the line stretching, then swinging 
+
+	the giant concrete buoy float into the side of the hull with 
+
+	a huge BOOMING CLANG.
+
+	BACK TO SCENE
+
+	The line is smoking with the friction, the steel railing 
+
+	bowing a little with the weight as they look on.
+
+				GREER
+
+		We're still drifting.
+
+				MURPHY
+
+		The mooring hasn't come taught.
+
+				EPPS
+
+		It's not gonna hold us.
+
+				MURPHY
+
+		Doesn't matter.
+
+	ON THE BUOY
+
+	As the buoy falls again with a swell and slams into the side 
+
+	of the ship. The water returns, lifting it high.
+
+	The ship is dragging it back and it begins to rise up as its 
+
+	mooring comes taught. The line rises with it and soon the 
+
+	buoy is at a steep angle as it comes out of the water.
+
+	BACK TO SCENE
+
+	The buoy is held fast between the docking line and its own 
+
+	mooring.
+
+	ON THE BUOY
+
+	The buoy rises fully from the water, all three tons of it, 
+
+	and as it does, the wind gauge's steel mount begins to bend.
+
+	BACK TO SCENE
+
+	As they watch the buoy suspended over the water between the 
+
+	creaking docking line and its own underwater mooring cable.
+
+				DODGE
+
+		No fucking way.
+
+	ON THE BUOY
+
+	The gauge mount snaps and the docking line flails free, 
+
+	sending the buoy hurtling back into the water in a curtain 
+
+	of spray, whipping wildly from side to side.
+
+	BACK TO SCENE
+
+	The buoy swings back and forth as it rights itself, rising 
+
+	on a swell, passing beyond the bow of the Chimera.
+
+				MURPHY
+
+		Damn it.
+
+	They look on in silence, the buoy slowly receding as the 
+
+	ship drifts away.
+
+	EXT. CHIMERA - FOREDECK - NIGHT
+
+	Murphy stands watch by the fire as Epps joins him.
+
+				EPPS
+
+		Hey.
+
+				MURPHY
+
+		Hey.
+
+				EPPS
+
+		Couldn't sleep.
+
+				MURPHY
+
+		Wish I could say the same.
+
+	They watch the fire in silence for a moment.
+
+				EPPS
+
+		What do you think happened on this 
+
+		boat?
+
+				MURPHY
+
+		I guess that's the sixty four thousand 
+
+		dollar question, isn't it?
+
+				EPPS
+
+		The what?
+
+				MURPHY
+
+		Never mind. Before your time.
+
+			(a beat)
+
+		I think at least some of the crew 
+
+		went a little nuts. The usual stuff 
+
+		that happens when people stumble on 
+
+		a fortune. Equal parts greed and 
+
+		paranoia, usually resulting in 
+
+		homicide. What happened after that 
+
+		is anybody's guess. But, judging by 
+
+		our Greek friends down below, it 
+
+		doesn't look like the last time.
+
+				EPPS
+
+		Are we smart enough to avoid that?
+
+				MURPHY
+
+		I don't know, are we?
+
+	A beat as she looks back at him. She looks back to the fire, 
+
+	watching it.
+
+				EPPS
+
+		When you found me yesterday, at the 
+
+		pool. I'd seen... something.  Someone.
+
+				MURPHY
+
+		Not our mystery guest again.
+
+				EPPS
+
+		No. Someone else. A girl.
+
+			(hesitating, a beat)
+
+		I'm not sure she was... real.
+
+	She looks up to Murphy.
+
+				MURPHY
+
+		Not real?
+
+	A beat as she only looks back.
+
+				MURPHY
+
+		What, like some kind of ghost?
+
+				EPPS
+
+		I don't know what else you'd call 
+
+		her. One second she was there, the 
+
+		next she was gone.
+
+	Another beat as he looks on at her.
+
+				EPPS
+
+		And I had a kind of hallucination.
+
+			(a beat)
+
+		There were others. I saw them in the 
+
+		pool. Drowning.
+
+	A beat as Murphy looks back, as she sees him.
+
+				EPPS
+
+		Maybe hallucination is the wrong 
+
+		word. It was more than that. As though 
+
+		they were showing me.
+
+				MURPHY
+
+		Showing you what?
+
+				EPPS
+
+		What happened.
+
+				MURPHY
+
+		Maybe it was one of them did the 
+
+		handy work on those Greeks.
+
+				EPPS
+
+		No. I think they are, were, just 
+
+		passengers. Innocent victims.
+
+				MURPHY
+
+		Victims of what?
+
+				EPPS
+
+		Something bad happened here, Murphy.
+
+				MURPHY
+
+		That much I think we've already 
+
+		established.
+
+				EPPS
+
+		More than just a mutiny. More than 
+
+		just the gold.
+
+	A beat as he holds there.
+
+				EPPS
+
+		She said the ship was evil. That we 
+
+		had to leave right away. That if we 
+
+		didn't, we might never leave.
+
+				MURPHY
+
+		What's that supposed to mean?
+
+				EPPS
+
+		I don't know.
+
+	A beat as she looks back.
+
+				MURPHY
+
+		Why you? How come the rest of us 
+
+		haven't seen these people?
+
+				EPPS
+
+		Just lucky I guess.
+
+	Another beat as he holds on her.
+
+				MURPHY
+
+		Well. Getting off this ship's exactly 
+
+		what we're trying to do.  Short of 
+
+		that, I don't know what else to tell 
+
+		you.
+
+	She only looks back at him, then into the fire.
+
+				MURPHY
+
+		Do me a favor and wake up Dodge.  
+
+		He's next on.
+
+	She starts to get up.
+
+				MURPHY
+
+		And Epps?
+
+	She stands, looking back at him.
+
+				MURPHY
+
+		You can tell the others about this.  
+
+		But, for my money, I think it's best 
+
+		you keep it to yourself.
+
+	She holds there a beat longer, then turns, walking off.
+
+	INT. CHIMERA - PASSAGEWAY - LATER - DAY
+
+	Epps comes to the 2nd officer's door, knocks.
+
+				EPPS
+
+		Dodge.
+
+			(no answer, knocking 
+
+			again)
+
+		Dodge.
+
+				DODGE (O.S.)
+
+			(finally, from inside)
+
+		What?
+
+				EPPS
+
+		Get up.
+
+				DODGE (O.S.)
+
+		Yeah, yeah.
+
+	INT. CHIMERA - 4TH OFFICERS ROOM - NIGHT
+
+	Epps sits down on the bed. She lies back, not sleepy. A beat 
+
+	as she holds there in the darkness.
+
+	EXT. CHIMERA - FOREDECK - NIGHT
+
+	Murphy still sits by the fire as Dodge groggily approaches 
+
+	from the officers quarters, carrying a blanket and a jug of 
+
+	water.
+
+				MURPHY
+
+		You're late.
+
+				DODGE
+
+		Sorry.
+
+				MURPHY
+
+			(handing him the 
+
+			shotgun)
+
+		Don't fall asleep.
+
+				DODGE
+
+			(laying out his blanket)
+
+		Right.
+
+	INT. CHIMERA - 1ST OFFICER'S STATEROOM - NIGHT
+
+	Greer lies asleep on the bed. But his sleep is fitful, 
+
+	increasingly agitated, tormented. It is as if he tries to 
+
+	speak, but cannot. As THE CAMERA PUSHES SLOWLY IN, his words 
+
+	are forced and garbled, speaking in the same nonsensical 
+
+	language he spoke earlier, when he wakes with a start.
+
+	EXT. CHIMERA - FOREDECK - NIGHT
+
+	Dodge dozes, cradling the shotgun in his arms, when MUSIC 
+
+	CAN BE HEARD VERY DISTANTLY. Dodge wakes. It is "Daisy" 
+
+	playing on a music box somewhere in the ship.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - NIGHT
+
+	Dodge moves along as the MUSIC BOX DISTANTLY CONTINUES.
+
+	INT. CHIMERA - STAIRWAY/PASSAGEWAY - MOMENTS LATER - NIGHT
+
+	Dodge moves cautiously down the stairway into another 
+
+	passageway.
+
+	He approaches from the other end. He passes the open doors 
+
+	of stateroom after stateroom. The MUSIC BOX IS CLOSER HERE. 
+
+	It stops.
+
+	He holds there in the darkness. He turns, shining his light 
+
+	back down the passageway. A beat. It is silent, when the 
+
+	CHANNEL OF HIS RADIO OPENS WITH A SHORT BURST.
+
+	He raises his radio. But no one says anything, the CHANNEL 
+
+	REMAINING OPEN, a discernible presence on the other end.
+
+				DODGE
+
+		Dodge.
+
+	SOMEONE'S POV - FROM THE FAR END
+
+	SLOWLY MOVING TOWARD DODGE as he can be seen from the other 
+
+	end of the passageway.
+
+	BACK TO SCENE
+
+	He gets no response, then presses the talk button.
+
+				DODGE
+
+		This is Dodge. Over.
+
+	He is answered by silence, the CHANNEL REMAINING OPEN, WHEN 
+
+	THE GRAVELLY DISTORTED VOICE THAT MURPHY HEARD COMES BACK ON 
+
+	THE RADIO:
+
+				VOICE
+
+		"Cock-a-doodle-doo," said the rooster 
+
+		to the crow. "Where are you now? I 
+
+		know but won't say so."
+
+	Dodge hits the talk button.
+
+				DODGE
+
+		Who is this?
+
+	The RADIO CHANNEL OPENS, but only silence comes back.
+
+				DODGE
+
+		Identify yourself, motherfucker!
+
+	SOMEONE'S POV - FROM THE FAR END
+
+	SLOWLY MOVING TOWARD DODGE as he can be seen from the far 
+
+	end of the passageway.
+
+	BACK TO SCENE
+
+	Only silence returns on the radio as Dodge holds there, then:
+
+				VOICE
+
+		Penny whistle toy. Penny whistle 
+
+		toy.
+
+	THE CAMERA PUSHES SLOWLY IN ON DODGE as he listens.
+
+				VOICE
+
+		Penny whistle toy. Penny whistle toy --
+
+		.
+
+	Dodge senses something behind him. He turns, and before he 
+
+	can draw a breath to shout, SOMETHING HEAVY SLAMS INTO HIM 
+
+	IN THE DARKNESS, his flashlight tumbling away in a squiggle 
+
+	of light.
+
+	ON SHOTGUN
+
+	As the shotgun clatters to the deck, the muzzle resting in 
+
+	frame as the radio falls a few feet away. A beat. The shotgun 
+
+	muzzle slides out of frame as some unseen person or thing 
+
+	pulls it away.
+
+	EXT. CHIMERA - DAY
+
+	A grey overcast stretches to the horizon.
+
+	EXT. CHIMERA - FOREDECK - DAY
+
+	Murphy comes out onto the deck. Dodge is nowhere to be seen.
+
+				MURPHY
+
+		Dodge?
+
+	INT. CHIMERA - GALLEY STORAGE COMPARTMENT - DAY
+
+	Epps shines her light on something.
+
+				EPPS
+
+		Check it out.
+
+	Greer raises his light to reveal rows of canned goods. They 
+
+	are industrial sized cans, from the 1950s. Greer takes one.
+
+				GREER
+
+		I don't even want to know what that's 
+
+		gonna taste like now.
+
+				EPPS
+
+		Better than starving to death.
+
+	Epps' radio CRACKLES AWAKE.
+
+				MURPHY
+
+		Murphy to Epps.
+
+				EPPS
+
+			(raising the radio)
+
+		Epps, over.
+
+				MURPHY
+
+		Either of you seen Dodge?
+
+	She looks to Greer who shakes his head.
+
+				EPPS
+
+		Nope.
+
+				MURPHY
+
+		He's not on deck and I can't raise 
+
+		him on the radio.
+
+	EXT. CHIMERA - FOREDECK - LATER - DAY
+
+	Dodge's stuff is laid out under the shelter of a vent duct 
+
+	as Greer, Epps, and Murphy stand over it. A blanket, a pillow 
+
+	and a plastic jug of water are all that remain.
+
+				MURPHY
+
+		He took the shotgun and a light.
+
+				GREER
+
+		Must've heard something below deck 
+
+		and went down to check it out.
+
+	A beat as they hold there.
+
+				MURPHY
+
+		Alright. We stay together. Nobody 
+
+		goes any further than earshot.
+
+	INT. CHIMERA - BELOW DECKS - DAY
+
+	Greer and Epps move along as Murphy raises his radio.
+
+				MURPHY
+
+			(into radio)
+
+		Murphy to Dodge. Murphy to Dodge.  
+
+		Over.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - DAY
+
+	Dodge's radio lies in the detritus of the ship as Murphy's 
+
+	voice can be heard on it.
+
+				MURPHY
+
+		Murphy to Dodge. Do you copy? Over.
+
+	INT. CHIMERA - ENGINEERING - LATER - DAY
+
+	Epps moves cautiously along in the darkness.
+
+				MURPHY (O.S.)
+
+		Epps? You there?
+
+				EPPS
+
+		Right here.
+
+	WITH MURPHY
+
+	As he moves along as well, eyes open.
+
+				MURPHY
+
+		Greer?
+
+	WITH GREER
+
+	As Greer moves along too.
+
+				GREER
+
+		Yeah, yeah.
+
+	INT. CHIMERA - BELOW DECKS - LATER - DAY
+
+	Epps jumps down, shining her light over machinery and across 
+
+	bulkheads when a WHISPERING CAN BE HEARD somewhere. She holds 
+
+	there, listening. It is echoey, distant.
+
+				EPPS
+
+		Murphy?
+
+	No response as Epps holds there. The WHISPERING SOUNDS AGAIN, 
+
+	far off, unintelligible. It stops.
+
+	She moves on, shinning her light.
+
+	INT. CHIMERA - BELOW DECKS - MOMENTS LATER - DAY
+
+	Epps moves along in the darkness, holding the flashlight 
+
+	before her, when the WHISPERING SOUNDS AGAIN.
+
+	Epps stops, holding there in the silence. She reaches for 
+
+	her radio. The WHISPERING SOUNDS AGAIN. Epps turns to pinpoint 
+
+	it, coming from somewhere in the cavernous space.
+
+	INT. CHIMERA - BELOW DECKS - MOMENTS LATER - DAY
+
+	Epps passes under a catwalk. She moves on, passing a row of 
+
+	standpipes. Epps stops, listening. Somewhere, the WHISPERING 
+
+	CAN BE HEARD, then stops.
+
+	It is absolutely silent. In the darkness behind her, the 
+
+	GIRL (KATIE) PULLS BACK INTO THE SHADOWS.
+
+	Epps holds there a beat, then turns, running into Greer with 
+
+	a start.
+
+				GREER
+
+		Sorry. Didn't mean to scare you.
+
+	She holds there a beat, looking around.
+
+				GREER
+
+		You okay?
+
+				EPPS
+
+		Yeah. Fine. I just thought I heard 
+
+		something is all.
+
+				GREER
+
+		What?
+
+				EPPS
+
+		Nothing. Let's get outa here.
+
+	They start to leave, when Epps notices something. She stops.
+
+	Beyond the standpipes, a faint glow can be seen in the 
+
+	darkness. Epps steps forward, crossing to it. Greer follows.
+
+	MOVING WITH EPPS
+
+	As Epps approaches, Greer behind her. The light is dim and 
+
+	low to the deck. She stops.
+
+	WITH THE LIGHT
+
+	As Epps starts toward it again. She and Greer come up to it, 
+
+	stopping there. She kneels, the dim glow shining on her. She 
+
+	reaches out toward it, pulling back Dodge's flashlight, still 
+
+	on.
+
+	She turns it off, standing. She shines her light into the 
+
+	darkness and starts off, Greer following.
+
+	INT. CHIMERA - BELOW DECKS - MOMENTS LATER - DAY
+
+	Epps and Greer move along, shining their lights as they go, 
+
+	when something catches in the beam of Epps' flashlight.
+
+	It is Dodge's radio. They stop over it. Epps picks it up, 
+
+	inspecting it. She looks to Greer, when a single dark spot 
+
+	appears on Epps' cheek. It begins to run, a crimson tear.
+
+	She raises her hand to touch it, inspecting her finger to 
+
+	see that it is blood.
+
+	She looks to Greer. They both look up to see, hanging 
+
+	suspended above them, Dodge's face staring back down at them 
+
+	from the darkness.
+
+	He has been imperfectly impaled, the sharp point of a high 
+
+	pressure steam pipe protruding from his neck, head hanging 
+
+	limp beside it.
+
+	INT. CHIMERA - BELOW DECKS - LATER - DAY
+
+	Greer and Murphy lower Dodge's body on a rope as Epps guides 
+
+	it to the deck. They stand looking on at it a moment.
+
+				GREER
+
+		Can't find the shotgun.
+
+				MURPHY
+
+		So whoever did this now has our 
+
+		shotgun.
+
+				GREER
+
+		Doesn't look like it much matters.
+
+				EPPS
+
+		What do we do with him?
+
+				MURPHY
+
+		Leave him till we can get some help.
+
+			(a beat)
+
+		From now on, nobody comes down here.
+
+				GREER
+
+		What about the gold?
+
+				MURPHY
+
+		Leave it.
+
+				GREER
+
+		Now hold up just a minute. Let's be 
+
+		reasonable here.
+
+				MURPHY
+
+		You think whoever did this is 
+
+		reasonable?
+
+				GREER
+
+		All I'm saying is that gold's worth 
+
+		a lot more to us now than it ever 
+
+		was.
+
+				EPPS
+
+		I can't believe you. Dodge's dead 
+
+		and all you can think about is cashing 
+
+		in your share.
+
+				GREER
+
+		I didn't sign up to go home empty 
+
+		handed. And I sure ain't gonna roll 
+
+		over for the freaky motherfucker did 
+
+		this.
+
+				MURPHY
+
+		Nobody's going anywhere with that 
+
+		gold now. Anybody tries to board, 
+
+		we'll know about it.
+
+			(a beat)
+
+		You can do what you want, Greer.  
+
+		But neither of us is gonna risk saving 
+
+		your ass down here if it comes to 
+
+		that.
+
+				GREER
+
+		Fine with me.
+
+	INT. CHIMERA - PASSAGEWAY - DAY
+
+	Epps enters the dim passageway from the bright daylight. She 
+
+	moves down the passage, coming finally to the stateroom where 
+
+	Greer was found, room 400.
+
+	She holds there a beat, then reaches for the door, hesitating. 
+
+	She opens it.
+
+	INT. CHIMERA - STATEROOM - CONTINUOUS - DAY
+
+	The door comes open and Epps steps in. It is dark, though 
+
+	spacious. It is divided into two rooms. Beyond the sitting 
+
+	room in the front, is a bedroom.
+
+	Epps steps in. A dressing table sits against the far wall.
+
+	A large bed is unmade. Suitcases lie open on stands at the 
+
+	foot of the bed, still half full as if they were in the 
+
+	process of being unpacked.
+
+	From one, she pulls back a woman's gown, a blouse. The other 
+
+	contains shirts, trousers, socks, and underwear.
+
+	Across the room a smaller suitcase can be seen lying open on 
+
+	an Ottoman in the corner. Epps crosses to it. She finds a 
+
+	few shirts, and a red print dress, some books. She takes one 
+
+	of the books, opening it.
+
+	Inscribed on the inside of the cover is: "This book belongs 
+
+	to:" and then written in by hand: "Katie Nichols."
+
+	A page is marked with a purple ribbon. She opens it to see a 
+
+	children's poem "The Rooster and the Crow" and a drawing of 
+
+	a rooster and a crow and a stanza of a poem: "'Cock-a-doodle 
+
+	doo,' said the rooster to the crow. 'Where are you now? I 
+
+	know, but won't say so.'" She puts it down. A tin penny 
+
+	whistle sits on the table. She picks it up, examining it.
+
+	She opens a small picture book, thumbing through to see photos 
+
+	of a family, a young mother and father at the beach, the 
+
+	mother and a girl of about 9 years, the girl and an older 
+
+	girl of about 16, the girl she saw at the swimming pool, 
+
+	KATIE. Epps holds on this picture, when A MUSIC BOX SOUNDS.  
+
+	She looks up to the dressing table. On it a music box slowly 
+
+	plays "Daisy."
+
+	AT THE TABLE
+
+	Epps crosses to it, looking on at the music box as it slowly 
+
+	winds down, then finally stops. A beat. She picks it up, 
+
+	looking at it, when she looks up to see Greer standing there.  
+
+	A beat.
+
+	The dirty white light falling into the room through the 
+
+	windows falls on him as he looks off at something we cannot 
+
+	see. His expression is empty, hollow.
+
+				EPPS
+
+		Greer?
+
+	He does not hear her as he stands there. She approaches, 
+
+	stepping up.
+
+				EPPS
+
+		You okay?
+
+	Another beat, as he looks off, into the light, when he slowly 
+
+	turns to see her.
+
+	A long beat as she looks back. He holds there, the same empty 
+
+	look about him, when he grabs her by the throat and squeezes 
+
+	hard.
+
+	She is stunned, breathless, but raises her hands to grip his 
+
+	wrists, fighting him.
+
+				EPPS
+
+		Greer!
+
+	His grip tightens. He is much stronger and her efforts make 
+
+	little difference.
+
+				EPPS
+
+		Let go!
+
+	She hangs on, starting to choke. She drops one hand, searching 
+
+	with it.
+
+				GREER
+
+		Oragishlaoomnudrasadrafantoshviska 
+
+		getofedobrodijotosiantosg.
+
+	He speaks nonsense, his face distorted in an ugly grimace, 
+
+	eyes bulging as Epps fumbles over the table, a tray of glass 
+
+	and silver crashing to the floor as he pushes her back, still 
+
+	choking her.
+
+	He backs her to the wall, pushing in, closing her windpipe 
+
+	the rest of the way.
+
+	Her hand searches behind her, knocking over a small vase, a 
+
+	basket, some books. It comes to a brass desk lamp. It falls, 
+
+	a little out of reach.
+
+	She is going to black out any second, as Greer strangles 
+
+	her.
+
+	Her hand comes to the desk lamp, grabbing it.
+
+	She raises the lamp, swinging with all her might, connecting 
+
+	with Greer's head.
+
+	He stumbles back, a gash laid into his face, as Epps sucks 
+
+	in air, gagging and coughing, her neck purple with finger 
+
+	marks.  She fumbles her radio up.
+
+				EPPS
+
+			(into radio)
+
+		Murphy! I'm on C deck, cabin 400!  
+
+		Get down here now!!
+
+	Blood is running down his face as Greer comes for her again.  
+
+	She throws down the radio.
+
+	A bed stands between them. She feints right, then left. He's 
+
+	dazed and has blood in his eyes. She manages to slip by, but 
+
+	he dives, taking her down.
+
+	He drags her back along the floor, spinning her around. He 
+
+	raises a fist to ram into her face when WHAM!
+
+	Epps has shoved the butt of her flashlight into his crotch 
+
+	and he comes up SCREAMING. He grabs her face, striking her 
+
+	with his other hand.
+
+	She swings the flashlight again and cracks him across the 
+
+	head. He swings yet again and connects, knocking her across 
+
+	the floor.
+
+	She lies in a heap as Greer climbs to his feet, enraged and 
+
+	bleeding.
+
+	He unbuckles his belt as he approaches, pulling it from his 
+
+	waist to do God knows what.
+
+	Epps looks around to see him approaching. And we see that 
+
+	she has unhinged her gill knife.
+
+	As his foot steps near, she lets go and drives the knife 
+
+	with all her might into his boot, plunging the blade through 
+
+	his foot and into the floor. He SCREAMS.
+
+	After a moment he stops, looks to her. He is a bloody, 
+
+	wretched, enraged mess. He starts toward her as Murphy appears 
+
+	in the doorway.
+
+	Just as Greer is upon her, Murphy blind sides Greer from 
+
+	behind at full speed, knocking him down.
+
+	Greer and Murphy struggle as Epps climbs unsteadily to her 
+
+	feet. She staggers to them and raises the flashlight over 
+
+	Greer, bringing it down on his head.
+
+	CUT TO BLACK
+
+	INT. CHIMERA - PASSAGEWAY - LATER - DAY
+
+	Epps and Murphy carry Greer's unconscious body.
+
+	INT. CHIMERA - AQUARIUM TANK - LATER - DAY
+
+	Greer tumbles down a sand bank in an empty aquarium. He stops 
+
+	at the bottom, now starting to come to.
+
+	OUTSIDE
+
+	Murphy slams the door shut as Epps looks on. She puts a steel 
+
+	pipe across the hatch lever so that it cannot be opened.
+
+	INT. CHIMERA - AQUARIUM TANK - LATER - DAY
+
+	Greer sits in the tank, visible through a large piece of 
+
+	armored aquarium glass, amidst the fake coral. He sits in 
+
+	the sand hugging his legs to his chest, bobbing slightly as 
+
+	he speaks in his nonsensical language.
+
+				MURPHY (V.O.)
+
+		Must've been him all along.
+
+	Murphy and Epps look on from the outside in the promenade.
+
+				MURPHY
+
+		Smashed the radio. Scuttled the boat. 
+
+		Killed Dodge. Would've killed you. 
+
+		He's off his nut, no doubt there.
+
+	They watch him in silence a moment as Greer mutters and bobs.
+
+				MURPHY
+
+		What do you think?
+
+				EPPS
+
+		Could be a stroke. Who knows?
+
+			(a beat)
+
+		The general log said the crew were 
+
+		fighting among themselves. "Like 
+
+		wild dogs."
+
+				MURPHY
+
+		Over the gold.
+
+				EPPS
+
+		Maybe it was more than that.
+
+	Greer gets up, comes to the window, looking out at them. He 
+
+	presses his face to the glass.
+
+				EPPS
+
+		They went crazy.
+
+				MURPHY
+
+		Crazy with greed. Not crazy. Not 
+
+		like him.
+
+	A beat as Epps looks off. In the window Greer drags his 
+
+	hideously distorted face over the glass, the blood from his 
+
+	wounds smearing in broad red streaks.
+
+	EXT. CHIMERA - TOP DECK - DAY
+
+	A partial hull of a rotting life boat falls into frame. Epps 
+
+	and Murphy stand over it.
+
+				MURPHY
+
+		We lash a few of these together it 
+
+		might get us far enough into the 
+
+		shipping lanes to be rescued.
+
+	A beat as they look on at the rotting hull.
+
+				MURPHY
+
+		Hard to say which is worse, staying 
+
+		here or taking our chances in open 
+
+		water.
+
+				EPPS
+
+		If the weather holds it might not be 
+
+		so bad.
+
+				MURPHY
+
+		It's not the weather I'm worried 
+
+		about. The wrong current could drag 
+
+		us as far as the Aleutians before we 
+
+		come across another boat.
+
+	EXT. CHIMERA - TOP DECK - DAY
+
+	Epps and Murphy work to lash parts of the rotting boats into 
+
+	a single usable raft.
+
+	INT. CHIMERA - AQUARIUM TANK - DAY
+
+	Greer lies asleep on the sand bottom of the tank, the white 
+
+	light from the skylight falling on him from above.
+
+	INT. CHIMERA - STORAGE AREA - DAY
+
+	Epps has found a reel of wire and some metal braces, making 
+
+	her way into the darkness, when her radio CRACKLES TO LIFE.  
+
+	The channel remains silent a moment, then closes. She stops, 
+
+	raises the radio.
+
+				EPPS
+
+			(holding down talk 
+
+			button)
+
+		Murphy?
+
+	She waits, holding there as only silence comes back.
+
+				EPPS
+
+		Murphy, this is Epps. Do you copy?
+
+	Again, only silence comes back until, after a moment, the 
+
+	channel opens again. No one speaks, though there is a palpable 
+
+	presence on the other end.
+
+				EPPS
+
+			(raising the radio)
+
+		Who is this?
+
+	The channel opens again, only silence returning. The sound 
+
+	of the MUSIC BOX CAN BE HEARD, "DAISY" COMING BACK OVER THE 
+
+	RADIO.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Epps walks along in the darkness AS THE MUSIC BOX CONTINUES 
+
+	TO PLAY OVER THE RADIO. She comes to the end of the corridor, 
+
+	stopping there.
+
+	At the other end the light falls from the door at room 400.
+
+	The MUSIC FROM THE RADIO STOPS, leaving in its absence the 
+
+	MUSIC AS IT CAN BE HEARD COMING FROM THE ROOM AT THE END OF 
+
+	THE CORRIDOR.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Epps approaches the other end, from where the MUSIC EMANATES, 
+
+	coming to a stop at room 400. A beat as she holds there.
+
+	INT. CHIMERA - ROOM 400 - CONTINUOUS - DAY
+
+	Epps steps in as THE MUSIC BOX PLAYS IN THE OTHER ROOM.
+
+	The sitting room is dark as she holds there. After a moment, 
+
+	she continues on, coming to the bedroom.
+
+	Epps steps in. Across the room the MUSIC BOX IS PLAYING.
+
+	She crosses, coming to it as it continues, when her radio 
+
+	CRACKLES TO LIFE. The channel remains silent a moment, then:
+
+				VOICE
+
+		"Cock-a-doodle-doo, said the rooster 
+
+		to the crow. Where are you now? I 
+
+		know but won't say so."
+
+	She holds there a beat, then crosses to the table to find 
+
+	the book of nursery rhymes. She opens it to the nursery rhyme 
+
+	"The Rooster and the Crow," seeing the same words on the 
+
+	page, when the radio CRACKLES AGAIN.
+
+				VOICE
+
+		Penny whistle toy. Penny whistle 
+
+		toy. Penny whistle toy. Penny whistle 
+
+		toy.
+
+	On the table is the penny whistle she saw earlier. She takes 
+
+	it, holding on it a moment. She raises it and THE CAMERA 
+
+	SLOWLY PUSHES IN as she puts it to her lips and lightly blows 
+
+	a C-SHARP WHICH BECOMES A C-SHARP FROM A PENNY WHISTLE across 
+
+	the room.
+
+				MOTHER
+
+		"Cock-a-doodle-doo, said the rooster 
+
+		to the crow. Where are you now? I 
+
+		know but won't say so."
+
+	On the other side of the room, the younger girl from the 
+
+	photo plays the penny whistle. She is sitting on the floor 
+
+	with the MOTHER who reads from the book we saw earlier.
+
+				MOTHER
+
+		"Cock-a-doodle-doo, said the rooster 
+
+		to the crow. Where are you now? I 
+
+		know but won't say so." Cassandra, 
+
+		if you insist on playing that while 
+
+		I read I'll just stop right now.
+
+				THE GIRL
+
+		Sorry.
+
+	The room is warm with light, restored to its original 
+
+	condition some fifty years ago as Epps stands there, unseen, 
+
+	no longer holding the whistle.
+
+	A man, the FATHER from the photos, steps from the bathroom 
+
+	wearing a new coat.
+
+				FATHER
+
+		What do you think?
+
+				MOTHER
+
+		He certainly did shorten it, didn't 
+
+		he?
+
+				FATHER
+
+		I thought this was all the rage.
+
+				KATIE
+
+		Maybe last year.
+
+	Katie joins them from the outer room.
+
+				FATHER
+
+		What about this year?
+
+				KATIE
+
+		It's not your color anyway.
+
+				GIRL
+
+		I like it, daddy.
+
+				FATHER
+
+		Well thank you!
+
+				GIRL
+
+		Daddy, how much longer before we 
+
+		start moving again?
+
+				FATHER
+
+		They're working on the engines, honey. 
+
+		As soon as they fix them we'll be on 
+
+		our way.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - NIGHT
+
+	Epps steps from room 400 into the passageway. It is lit with 
+
+	sconces running its length and the elegant furnishings and 
+
+	objets d'art stretching to the far end are all in their 
+
+	original condition. DISTANT MUSIC FROM THE BALLROOM CAN BE 
+
+	HEARD as Epps stands there. She moves along.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - NIGHT
+
+	Epps walks in the passageway. Doors are open and she looks 
+
+	in to see people doing various things, some packing and 
+
+	putting their things in order.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - NIGHT
+
+	Epps walks down the passage, rounding the corner to see three 
+
+	STEWARDS fighting with a fourth MAN in a tuxedo. They lift 
+
+	him up and carry him off down the stairs as he shouts and 
+
+	protests. She moves on, through a pair of double doors, into
+
+	INT. CHIMERA - STORAGE COMPARTMENT - CONTINUOUS - DAY
+
+	Epps moves through the now lighted storage area off the 
+
+	galley. A group of CREWMEN stand around at the other end 
+
+	and, as Epps nears, she sees that four figures can be seen 
+
+	among them. They are four men, OFFICERS, swaying gently from 
+
+	the ship's movement as they hang from ropes around their 
+
+	neck, dead. Epps keeps moving, through doors at the other 
+
+	end.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - NIGHT
+
+	A commotion can be heard at the other end of the passageway 
+
+	as Epps keeps moving. A WOMAN SCREAMS, and is cut off when a 
+
+	door slams shut.
+
+	The DISTANT MUSIC HAS BEEN REPLACED WITH INDISCERNIBLE 
+
+	SHOUTING, as of someone commandeering the microphone somewhere
+
+	As she walks, she passes an open door where several CREWMEN 
+
+	fight over a steamer trunk, which breaks open, scattering 
+
+	the contents.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - NIGHT
+
+	Epps walks along, coming to another door where a dead man 
+
+	and woman are laying in the middle of the room as a STEWARD 
+
+	takes money from a wallet. The steward looks up, reaches 
+
+	over and slams the door shut. She continues on.
+
+	Another door stands open as she comes to it, back at room 
+
+	400. She stops. A REPETITIVE SOUND CAN BE HEARD, coming from 
+
+	inside.
+
+	INT. CHIMERA - ROOM 400 - CONTINUOUS - DAY
+
+	Epps steps in as the SOUND CONTINUES. She crosses the sitting 
+
+	room, coming to the doorway of the bedroom to find several 
+
+	MUTINEERS, some in stewards attire, others wearing ships 
+
+	officers caps, obviously taken from their rightful owners.
+
+	The repetitive sound comes from here, bed springs. And, from 
+
+	between the men, a woman's bare legs hang over the end of 
+
+	the bed as a pair of man's legs in boots lie between them, 
+
+	the bed rocking, the others looking on.
+
+	Epps turns to see the father. He is on his knees, hands tied 
+
+	behind his back as he is forced to watch from the foot of 
+
+	the bed.
+
+	EPPS LOOKS DOWN TO SEE
+
+	EPPS' POV
+
+	a geometric pattern of a lotus on the Persian carpet at her 
+
+	feet. When she looks up again she sees what the father sees.
+
+	The mutineer finishes, climbing off the woman. Another of 
+
+	the men pulls her up to reveal that she is no woman at all, 
+
+	but Katie.
+
+	The mother and sister lie in a bloody heap near-by as one of 
+
+	the other mutineers steps up to Epps.
+
+				MUTINEER
+
+		You like that, daddy? I'll show you 
+
+		something else now.
+
+	The mutineer steps back to the bed. He sits Katie down so 
+
+	that she faces us on the end of the bed. He raises an axe 
+
+	over her, bringing it down as the world becomes a whirling 
+
+	blur --
+
+				EPPS (V.O.)
+
+		NO!!!!
+
+	BACK TO SCENE
+
+	The CAMERA STOPS ON KATIE standing on the other side of the 
+
+	room, now empty of people, returned to its shabby, abandoned 
+
+	state.
+
+				KATIE
+
+		It isn't real.
+
+	Epps looks back at her from the other side of the room where 
+
+	she stands.
+
+				KATIE
+
+		Many bad things have happened here.  
+
+		But you mustn't allow the evil inside. 
+
+		I tell you this because you can see 
+
+		me. The others can't. But you must 
+
+		leave. You must leave.
+
+	A LOUD GUNSHOT SOUNDS SOMEWHERE IN THE SHIP. When Epps turns 
+
+	back Katie is gone.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Epps moves quickly along, raising her radio.
+
+				MURPHY
+
+		Epps to Murphy.
+
+	Only WHITE NOISE COMES BACK.
+
+				EPPS
+
+		Epps to Murphy.
+
+	Only WHITE NOISE COMES BACK as she rounds the corner out 
+
+	onto the promenade. At the other end, the aquarium can be 
+
+	seen.
+
+	As she approaches she sees that the tank is empty. Greer is 
+
+	nowhere to be seen and the skylight at the top is broken 
+
+	out.
+
+	A GREAT BOOMING SHUDDER rocks the ship. A LOUD SCREECHING OF 
+
+	METAL follows it.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	The ship's hull being scraped at the waterline by a jagged 
+
+	mid-ocean island no bigger than fifty or sixty feet across.
+
+	The ship has entered a small archipelago of such islands, a 
+
+	mine field for a drifting ship.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Epps moves quickly along, coming to the stairway, moving up, 
+
+	almost running into Murphy on his way down, carrying a canvas 
+
+	duffle.
+
+				EPPS
+
+		What happened?
+
+				MURPHY
+
+		We hit land.
+
+				EPPS
+
+		What?
+
+				MURPHY
+
+		We're in an island chain. It's only 
+
+		a matter of time before we hit another 
+
+		one.
+
+				EPPS
+
+		Greer's gone. He broke out of the 
+
+		tank.
+
+	INT. CHIMERA - PASSAGEWAY - MOMENTS LATER - DAY
+
+	Epps and Murphy move quickly along, when another HUGE BOOMING 
+
+	shudders the ship and the SHRIEKING OF METAL follows.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	The ship bounces off another of the small, jagged islands as 
+
+	it drifts past, buckling the steel plate of the hull 
+
+	precariously.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - DAY
+
+	Murphy and Epps run toward the other end of the ship. As 
+
+	they do, something can be seen lying in the middle of the 
+
+	passage some distance down.
+
+	AT THE OTHER END
+
+	Epps and Murphy slow to see that it is a body, lying face 
+
+	down in the passage.
+
+	They step up. Epps kneels as Murphy looks on. She rolls the 
+
+	body over. It is Greer, dead.
+
+				EPPS
+
+		He's been shot.
+
+	Murphy kneels too, looking on at Greer's lifeless eyes.
+
+				MURPHY
+
+		Let's get the hell out of here.
+
+	INT. CHIMERA - STAIRWAY/PASSAGEWAY - MOMENTS LATER - DAY
+
+	Murphy and Epps come up the stairway, crossing to the doors.
+
+	EXT. CHIMERA - FORWARD DECK - CONTINUOUS - DAY
+
+	As Epps and Murphy come out, moving toward the make-do raft.
+
+				MURPHY
+
+		It should be enough to get us to one 
+
+		of those islands. Gimme a hand, 
+
+		wouldya?
+
+	She joins him and they lift it off its stand, taking it to 
+
+	the rail.
+
+				MURPHY
+
+		Prop it here. We need to pull these 
+
+		braces off. There's a hammer on the 
+
+		stand. There.
+
+	Epps crosses back to the stands.
+
+	AT THE STANDS
+
+	Epps kneels. No hammer. She pulls back Murphy's canvas duffle, 
+
+	folding back the flap to reveal a shotgun, the shotgun Dodge 
+
+	had when he died.
+
+	A beat as she holds there, when Murphy's hand grabs it.
+
+				MURPHY
+
+		I'll take that.
+
+	A beat as she looks to Murphy.
+
+				EPPS
+
+		It was you.
+
+	He only looks back at her as she stands there.
+
+				EPPS
+
+		You killed them.
+
+				MURPHY
+
+		It was only a matter of time before 
+
+		somebody killed somebody.
+
+			(a beat)
+
+		You saw it coming as well as I did.  
+
+		Dodge had his plans, starting with 
+
+		scuttling the boat. And Greer too, 
+
+		except he went nuts. Couldn't take 
+
+		it, I guess. Could've happened in 
+
+		the middle of downtown Anchorage.  
+
+		But did it make him any less 
+
+		dangerous? I don't think so.
+
+				EPPS
+
+		So you killed them?
+
+				MURPHY
+
+		The way I figure it, it was them or 
+
+		me. I thought putting Dodge up on 
+
+		that pipe was a nice touch? Bought a 
+
+		little time. Made it look like whoever 
+
+		killed those Greeks was still around. 
+
+		But it's just us on this ship. Us 
+
+		and your... spirit friends.
+
+				EPPS
+
+		And now you're gonna kill me, is 
+
+		that it?
+
+				MURPHY
+
+		I didn't want it to turn out this 
+
+		way.
+
+				EPPS
+
+		Murphy, don't you see what's 
+
+		happening?
+
+				MURPHY
+
+		I think I see it pretty well.
+
+				EPPS
+
+		It's the ship. The ship's making you 
+
+		think this way.
+
+				MURPHY
+
+		I know a little bit about human nature 
+
+		and what I've seen only confirms 
+
+		that.
+
+				EPPS
+
+		It's a trap. There was no way we 
+
+		were gonna get away with that gold.  
+
+		Nobody ever does. It's just the bait. 
+
+		This ship sucks people in and it 
+
+		never lets them out.
+
+				MURPHY
+
+		I think maybe you been on this boat 
+
+		a little too long, with all that 
+
+		supernatural mumbo jumbo. There's 
+
+		nothing supernatural about greed.  
+
+		And that's what it comes down to, 
+
+		pure and simple.
+
+				EPPS
+
+		I don't give a damn about the gold.
+
+				MURPHY
+
+		I wish I could believe that. Either 
+
+		way, you know what I've done. I've 
+
+		got no choice.
+
+	He raises the shotgun.
+
+				MURPHY
+
+		I'm sorry.
+
+	He prepares to fire, when a CONCUSSION ROCKS THE SHIP. Epps 
+
+	ducks and Murphy fires, a spatter of buckshot shredding the 
+
+	vent behind her. A SCREECHING OF METAL DEEP IN THE SHIP SOUNDS 
+
+	as she gets up, diving for cover as Murphy shuttles the gun 
+
+	again.
+
+	WITH EPPS
+
+	Epps scrambles behind a deck vent.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	The ship has bounced off yet another small island, the jagged 
+
+	rocks loudly scrapping the hull with a deafening shriek.
+
+	EXT. CHIMERA - FORWARD DECK - CONTINUOUS - DAY
+
+	Murphy crosses toward the deck vent.
+
+				MURPHY
+
+		There's no reason to make this any 
+
+		more difficult than it has to be.
+
+	WITH EPPS
+
+	As Epps holds there she sees the vent opening. She pulls 
+
+	herself up and climbs inside.
+
+	INT. CHIMERA - AIR SHAFT - CONTINUOUS - DAY
+
+	Epps climbs down the air shaft where a giant fan spans its 
+
+	width. She squeezes through the fan blades and drops down 
+
+	where several vent ducts lead in different directions below 
+
+	it.
+
+	EXT. CHIMERA - FORWARD DECK - CONTINUOUS - DAY
+
+	Murphy comes to the vent duct where Epps went down.
+
+	INT. CHIMERA - AIR DUCT - CONTINUOUS - DAY
+
+	Epps crawls through. She comes to a vent that leads out to a 
+
+	passageway.
+
+	INT. CHIMERA - STAIRWAY - CONTINUOUS - DAY
+
+	Murphy runs quickly down the stairway, shotgun at the ready.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - DAY
+
+	The vent is shoved out and falls to the metal catwalk.
+
+	INT. CHIMERA - STAIRWAY - CONTINUOUS - DAY
+
+	The CLANG FROM THE VENT SOUNDS HERE and Murphy stops.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - DAY
+
+	Epps extends her feet and climbs down into the passage.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - DAY
+
+	Murphy rounds the corner, moving on the same deck.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - DAY
+
+	Epps moves along on a metal catwalk in the darkness when 
+
+	something can be heard ahead of her. She stops.
+
+	FOOTSTEPS SOUND at the end of the passage. Epps pulls back 
+
+	into the shadows, holding there.
+
+	The footsteps sound as if they are coming down stairs at the 
+
+	other end, when the FOOTSTEPS STOP.
+
+	Epps holds there, listening intently in the silence when, at 
+
+	the other end, THE SOUND OF CREAKING METAL, as from a hatch 
+
+	slowly opening, can be heard. It stops. All is silent, WHEN 
+
+	THE HATCH CREAKS AGAIN at the other end. She begins moving 
+
+	toward it.
+
+	As she approaches, she can see that the hatch is half open, 
+
+	swaying slightly with the movement of the ship.
+
+	A CREAKING SOUNDS behind her. She turns, just as Murphy steps 
+
+	into view. She ducks as he fires and a spray of buckshot 
+
+	ricochets off the metal around her.
+
+	She scrambles on her belly as Murphy fires again. She swings 
+
+	down from the catwalk, letting herself fall to the next deck.
+
+	AT THE BOTTOM
+
+	Epps gets up, runs.
+
+	WITH MURPHY
+
+	Murphy climbs down a ladder to the lower decks.
+
+	INT. CHIMERA - BELOW DECKS WITH EPPS - CONTINUOUS - DAY
+
+	Epps moves quickly along.
+
+	INT. CHIMERA - BELOW DECKS WITH MURPHY - CONTINUOUS - DAY
+
+	Murphy follows, when A RUMBLING SOUND CAN BE HEARD.
+
+	INT. CHIMERA  - BELOW DECKS WITH EPPS - CONTINUOUS - DAY
+
+	Epps stops where she is in the cavernous engine room, looking 
+
+	on at the massive hull rising above her as the RUMBLING GROWS 
+
+	IN INTENSITY. Though it seems to resonate throughout the 
+
+	ship, it seems to originate from here, from directly below, 
+
+	as though the hull were being dragged over a rocky bottom.
+
+	She steps back as the sound grows still louder, until it 
+
+	becomes absolutely deafening.
+
+	The ship begins to shudder. The steel bulkheads visibly move 
+
+	and the steel plates in the hull can be seen to bend back 
+
+	and forth.
+
+	INT. CHIMERA - BELOW DECKS WITH MURPHY - CONTINUOUS - DAY
+
+	Murphy slows and finally stops.
+
+	INT. CHIMERA - BELOW DECKS WITH EPPS - CONTINUOUS - DAY
+
+	A few rivets pop in the hull. Then a few more, as the RUMBLING 
+
+	GROWS STILL LOUDER.
+
+	Epps puts her hands to her ears and begins to back away, 
+
+	when the RUMBLING REACHES A PINNACLE. The rivets are springing 
+
+	out of the hull like machine gun fire when the steel plate 
+
+	of the hull gives way, A MASSIVE CRAG OF ROCK SMASHING THROUGH 
+
+	WITH A TREMENDOUS BOOM AND A TORRENT OF SEAWATER.
+
+	Epps ducks for cover as the crag tears a diagonal line through 
+
+	the Chimera's hull like a jagged claw through paper in a 
+
+	HORRENDOUS TUMULT OF NOISE AND STEAM AND SPARKS.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	The Chimera is impaled broadside by a particularly devious 
+
+	rock promontory of a small island.
+
+	INT. CHIMERA - BELOW DECKS WITH EPPS - CONTINUOUS - DAY
+
+	The giant claw begins to pull back, as the ship drifts off, 
+
+	water pouring in behind it.
+
+	EXT. CHIMERA - CONTINUOUS - DAY
+
+	The ship is drifting free of the island with the current, a 
+
+	huge gash rising on its port side.
+
+	INT. CHIMERA - BELOW DECKS WITH EPPS - CONTINUOUS - DAY
+
+	A massive torrent sweeps over Epps as seawater pours in 
+
+	through the breach.
+
+	INT. CHIMERA - BELOW DECKS WITH MURPHY - CONTINUOUS - DAY
+
+	Murphy stops where he is to see water rushing in at the end 
+
+	of the passage. He begins backing away.
+
+	INT. CHIMERA - BELOW DECKS WITH EPPS - CONTINUOUS - DAY
+
+	Epps is forced under as the water in the hull is already 
+
+	half way up the side, the ship listing WITH A GREAT GROANING 
+
+	EXERTION.
+
+	INT. CHIMERA - BELOW DECKS WITH MURPHY - CONTINUOUS - DAY
+
+	Murphy moves down the passageway, coming to the cargo 
+
+	compartment.
+
+	INT. CHIMERA - BELOW DECKS WITH EPPS - CONTINUOUS - DAY
+
+	Epps comes up for air. A clatter of all manner of debris, 
+
+	tools and general detritus hammers against the far bulkhead 
+
+	as the ship eases over. A boiler breaks loose of its stays.
+
+	Epps looks up to see it coming right for her. She ducks under 
+
+	the water as the boiler slams into the bulkhead where she 
+
+	was.
+
+	WITH EPPS
+
+	Epps is forced down by the boiler, trapped between it and 
+
+	the bulkhead.
+
+	INT. CHIMERA - CARGO HOLD - CONTINUOUS - DAY
+
+	The gold slides off the palette, crashing into the far wall.  
+
+	Murphy hurries to it, collecting ingots and putting them in 
+
+	his pockets.
+
+	INT. CHIMERA - BELOW DECKS - CONTINUOUS - DAY
+
+	Epps struggles under the water to free herself, but she is 
+
+	trapped, the heavy boiler and its broken stays caging her.
+
+	ABOVE THE WATER
+
+	The level of the water has now almost completely reached the 
+
+	deck above, filling the ship almost entirely below decks.
+
+	INT. CHIMERA - CARGO HOLD - CONTINUOUS - DAY
+
+	The water is threateningly high as Murphy pockets one last 
+
+	ingot and makes his way for the exit.
+
+	INT. CHIMERA - BELOW DECKS - CONTINUOUS - DAY
+
+	Epps is trying to pull back the boiler stays, without luck.  
+
+	She swims down lower, finding a pipe fitting she pries at 
+
+	the stays, without luck, when a form drifts into view in the 
+
+	murky water.
+
+	Several more forms appear. They are human, suspended in the 
+
+	water. As Epps looks, the several forms have become many.  
+
+	They are the bodies of the dead she saw in the pool before.
+
+	As they look on at her from where they are, one form emerges.  
+
+	It is Katie.
+
+	She reaches toward Epps, as if beckoning her to take her 
+
+	hand from the other side. Epps raises her hand, taking it.
+
+	The girl leads Epps down into the murky darkness where she 
+
+	finds a way out. She takes her back further, coming to the 
+
+	breech, leading her out and into a cool green void of water.
+
+	Katie stops at the breach. Epps turns to her. She only looks 
+
+	back at Epps. Epps turns away, swimming upward toward the 
+
+	light of the surface.
+
+	EXT. OCEAN SURFACE - MOMENTS LATER - DAY
+
+	Epps breaks through, gasping for air. She looks to see the 
+
+	Chimera, listing heavily to one side, its bow decks fully 
+
+	awash.
+
+	INT. CHIMERA - PASSAGEWAY - CONTINUOUS - DAY
+
+	Murphy staggers through the flooded passage.
+
+	EXT. OCEAN SURFACE - CONTINUOUS - DAY
+
+	The Chimera is getting lower in the water, the bow submerged 
+
+	and the stern beginning to rise.
+
+	Epps sees another small island some distance off. She begins 
+
+	swimming toward it.
+
+	INT. CHIMERA - STAIRWAY - CONTINUOUS - DAY
+
+	Water runs down the stairway as Murphy struggles toward the 
+
+	top.
+
+	EXT. ISLAND - CONTINUOUS - DAY
+
+	Epps swims as the ship sinks in the distance.
+
+	INT. CHIMERA - PROMENADE - CONTINUOUS - DAY
+
+	A river of water rushes through as Murphy crosses with 
+
+	difficulty.
+
+	EXT. ISLAND - CONTINUOUS - DAY
+
+	Epps reaches the jagged rock of the island. She pulls herself 
+
+	up.
+
+	EXT. CHIMERA - TOP DECK - CONTINUOUS - DAY
+
+	Water rushes in as Murphy wades out onto the Chimera's top 
+
+	deck. He is heavily weighted down and periodically goes under 
+
+	as he half wades half swims, the length of the ship's aft 
+
+	portion rising above him as the bow sinks.
+
+	EXT. ISLAND - CONTINUOUS -  DAY
+
+	Epps collapses on the rocks.
+
+	EXT. CHIMERA - TOP DECK - CONTINUOUS - DAY
+
+	As the ship moves lower, Murphy pushes off. He bobs under 
+
+	momentarily, then comes back up with difficulty. The forward 
+
+	smoke stack has dipped under and is now taking on water, the 
+
+	current from the rushing water pulling him toward it.
+
+	EXT. ISLAND - CONTINUOUS -  DAY
+
+	Epps looks on as the giant ship angles higher and higher.
+
+	EXT. CHIMERA - WITH MURPHY - CONTINUOUS - DAY
+
+	As the ship dips lower, the rushing water forms an eddy that 
+
+	pulls at Murphy. Murphy struggles, too heavy to resist as he 
+
+	is pulled closer and closer to the sucking maw that is the 
+
+	smokestack's opening.
+
+	The ship sinks further and Murphy is pulled to the edge of 
+
+	the stack. He frantically grabs for something to hold on to, 
+
+	without success, until he is finally pulled into the smoke 
+
+	stack and sucked into the bowels of the ship by the rushing 
+
+	water.
+
+	EXT. ISLAND - LATER - DAY
+
+	Epps sits perched under a rock out of the wind, looking on 
+
+	at the Chimera, her stern rising high above water as she 
+
+	goes down, when the RUMBLE OF ENGINES CAN BE HEARD.
+
+	She turns to see a Coastguard plane sweeping low over the 
+
+	Chimera, then banking back and flying right over as she shouts 
+
+	and waves her arms.
+
+	EXT. ISLAND - LATER - DAY
+
+	The Coastguard plane flies by one more time, this time 
+
+	dropping a survival pack.
+
+	The Chimera's stern rises up out of the water, almost vertical 
+
+	now, slipping further and further under.
+
+	Epps looks on one last time, as the ship goes down.
+
+	EXT. OCEAN - WITH CHIMERA - CONTINUOUS - DAY
+
+	The afterdeck of the Chimera sinks slowly, slowly down, the 
+
+	CAMERA PUSHING IN TO "CHIMERA" as the name comes to the water, 
+
+	then slips slowly beneath the surface. And THE CAMERA FOLLOWS, 
+
+	MOVING INTO THE WATER to reveal that, beneath the surface, 
+
+	there is no ship at all, only the vast empty depths of the 
+
+	ocean.
+
+	FADE TO BLACK
+
+			 THE END
+
+Additional 
+
+Info
+

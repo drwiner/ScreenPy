@@ -1,0 +1,8512 @@
+Sling Blade - by by Billy Bob Thornton
+
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+	FADE IN:
+
+	INT. A MENTAL HOSPITAL - DAY
+
+	A few patients sit around fumbling with themselves. One man
+
+	sits at a table scratching back and forth on a piece of paper
+
+	with a crayon. Another stands in a corner smoking a cigarette
+
+	and staring at the crayon guy. This is CHARLES. Another man,
+
+	KARL, sits in a chair staring at the floor and rubbing his
+
+	hands together. We cut back and forth between Charles staring
+
+	and Crayon Man scratching. After a moment, an attendant
+
+	approaches Charles.
+
+	                    ATTENDANT 
+
+	          You can't smoke in here.
+
+	Charles stares at him blankly for a moment and continues
+
+	smoking. He looks back to Crayon Man again for a moment then
+
+	looks over at Karl and then goes and sits down beside him.
+
+	                    CHARLES 
+
+	          A Mercury is a good car and that's
+
+	          what I was driving that day. I've
+
+	          owned a lot of cars. Different
+
+	          kinds. Lots of different kinds of
+
+	          cars. She was standing, this girl,
+
+	          on the side of the street where
+
+	          there was a chicken stand; not the
+
+	          Colonel, mind you, but nevertheless
+
+	          a chicken stand, and I pulled the
+
+	          Mercury over and rolled down the
+
+	          window by electric power. She was
+
+	          wearing a leather skirt and she had
+
+	          a lot of hair on her arms. I like
+
+	          that. I like it a lot. It means a
+
+	          big bush. I like a big bush. She
+
+	          said, "Are you dating?" I said,
+
+	          "yes," and she got in the car. We
+
+	          pulled to a remote location, one
+
+	          that she and I both felt
+
+	          comfortable with and she said, "How
+
+	          much can you spend?" I said, "What
+
+	          it takes to see your bush. I know
+
+	          it's a big one." She said "twenty
+
+	          five dollars," which to a working
+
+	          man is not chicken feed. I produced
+
+	          the money and she put it in her
+
+	          shoe and pulled up her skirt. There
+
+	          before me lay a thin, crooked,
+
+	          uncircumcised penis. You can
+
+	          imagine how badly I wanted my
+
+	          twenty-five dollars back.
+
+	INT. A HALLWAY - DAY
+
+	Two young women, MARSHA DWIGGINS, carrying a briefcase, and
+
+	THERESA EVANS, carrying two camera bags are being led down
+
+	the hallway by a GUARD.
+
+	                    THERESA 
+
+	          I don't know why you're so weirded
+
+	          out, this is not San Quentin, it's
+
+	          just a nuthouse. Most of these
+
+	          people don't even know where they
+
+	          are, they're not gonna hurt you.
+
+	                    MARSHA 
+
+	          In a few minutes we're gonna be in
+
+	          a room with a killer. That doesn't
+
+	          bother you?
+
+	                    THERESA 
+
+	          Hey, you're the one that wanted to
+
+	          major in journalism. Anyhow, wasn't
+
+	          the guy something like twelve or
+
+	          thirteen when he did it, it was
+
+	          twenty-five years ago, he probably
+
+	          doesn't even remember it.
+
+	                    MARSHA
+
+	              (wrinkling her nose)
+
+	          Do you smell shit?
+
+	                    THERESA 
+
+	          Yeah.
+
+	They reach a door and the guard ushers them through.
+
+	INT. AN OFFICE - DAY
+
+	JERRY WOOLRIDGE stands up from behind the desk as they enter.
+
+	He's in his fifiles and looks like a school teacher, shop
+
+	class or perhaps eighth-grade science.
+
+	                    GUARD
+
+	          These are the people from that
+
+	          newspaper deal.
+
+	                    WOOLRIDGE
+
+	          Oh yeah, from the college?
+
+	                    MARSHA
+
+	          Yes sir.
+
+	Woolridge shakes hands with them. 
+
+	                    WOOLRIDGE
+
+	          My name's Jerry Woolridge.
+
+	                    MARSHA
+
+	          Nice to meet you. I'm Marsha
+
+	          Dwiggins and this is Theresa Evans.
+
+	          She's here to take the pictures.
+
+	                    WOOLRIDGE
+
+	          Y'all have a seat. Is this all of
+
+	          you?
+
+	                    MARSHA
+
+	          Yes sir.
+
+	                    WOOLRIDGE
+
+	          I think there must have been a
+
+	          little mix up. I told your sponsor
+
+	          or teacher or whatever he is, there
+
+	          couldn't be any pictures. It's
+
+	          s'posed to be just a little story
+
+	          or article or something, isn't that
+
+	          right?
+
+	                    MARSHA
+
+	          Well, yeah, it's for the school
+
+	          newspaper. But it has pictures. I
+
+	          mean it's a regular paper, you
+
+	          know. 
+
+	                    WOOLRIDGE
+
+	          Karl's real sensitive about having
+
+	          his picture made. He wouldn't even
+
+	          be on the bulletin board for the
+
+	          Easter Collage. 
+
+	              (to guard) 
+
+	          Melvin, would you get me a good hot
+
+	          cup with two sugar substitutes? You
+
+	          girls want some coffee?
+
+	                    MARSHA 
+
+	          No thank you.
+
+	                    WOOLRIDGE 
+
+	          The other thing is I told your boss
+
+	          on the phone to send a man. Karl
+
+	          won't talk to women.
+
+	INT. REC ROOM - DAY
+
+	CLOSE UP on Karl's face. Charles has started another
+
+	monologue.
+
+	                    CHARLES 
+
+	          There was a young man named John
+
+	          Liggit Hunter who was in the
+
+	          filling station business and a good
+
+	          filling station business. He was
+
+	          one of those young men that we run
+
+	          across so often in life. I'm sure
+
+	          you've run across them, that didn't
+
+	          deserve the things he had. One of
+
+	          those things was his beautiful
+
+	          bride, Sarah. She was a Georgia
+
+	          Peach. As a matter of fact she
+
+	          looked more like the picture I've
+
+	          had in my head than any woman I've
+
+	          ever seen. I took it upon myself to
+
+	          take her away from John Liggit
+
+	          Hunter, who didn't deserve her. I'm
+
+	          not sure if I mentioned that he was
+
+	          a Frenchman who claimed to be an
+
+	          Englishman. It took some very
+
+	          strong nylon cord to take her away
+
+	          from him. She was a fighter as well
+
+	          as a Georgia Peach.
+
+	INT. WOOLRIDGE'S OFFICE
+
+	The girls look confused.
+
+	                    WOOLRIDGE 
+
+	          I don't know what to tell you. I'm
+
+	          sorry. I made myself pretty clear I
+
+	          thought. He probably got busy and
+
+	          wasn't thinking. I know how that
+
+	          is. I used to teach shop and eighth
+
+	          grade science.
+
+	                    MARSHA 
+
+	          Well, what do we do? We drove all
+
+	          the way out here.
+
+	                    THERESA 
+
+	          Let's just go, Marsha.
+
+	                    MARSHA 
+
+	          No, we have to get this story.
+
+	                    THERESA 
+
+	          I thought you'd be happy to leave.
+
+	                    MARSHA 
+
+	          Why won't he talk to women?
+
+	                    WOOLRIDGE 
+
+	          He has problems. You know. With all
+
+	          that. He won't hardly talk to
+
+	          anybody really. Just certain
+
+	          people. He's very troubled.
+
+	INT. REC ROOM
+
+	                    CHARLES 
+
+	              (leaning in to Karl)
+
+	          A shovel just makes too goddamn
+
+	          much racket.
+
+	INT. WOOLRIDGE'S OFFICE
+
+	                    WOOLRIDGE
+
+	              (takes a drink of coffee)
+
+	          I don't think he's talked to a
+
+	          woman in twenty-five or so years.
+
+	          That I know of anyway. That's why I
+
+	          said to send a man. At least maybe
+
+	          he'd answer a question or two for a
+
+	          man. I'm all for helping the
+
+	          college out, believe me. It might
+
+	          be a real good article or story.
+
+	                    MARSHA 
+
+	          Can't you talk to him? Maybe talk
+
+	          him into it. I'm a real good
+
+	          interviewer. Just get me in the
+
+	          room with him.
+
+	                    WOOLRIDGE
+
+	              (to guard)
+
+	          Melvin, go get Karl and take him
+
+	          down to the old classroom.
+
+	INT. HALLWAY - DAY
+
+	Woolridge and the two women walk down the hallway.
+
+	                    WOOLRIDGE 
+
+	          I'll talk to him and see what we
+
+	          can do.
+
+	INT. CLASSROOM - DAY
+
+	Woolridge is opening a door. He enters and the women follow
+
+	him in. He flips on a light switch and very bright florescent
+
+	lights illuminate the room.
+
+	                    WOOLRIDGE 
+
+	          You see, Karl, growing up, only
+
+	          knew that sex was wrong and that
+
+	          people who did it should be killed
+
+	          for it. He couldn't really read
+
+	          but, well, neither could his
+
+	          mother. But, his father made sure
+
+	          that his mother knew what the Bible
+
+	          said. And she made sure Karl knew.
+
+	          You know he slept in a hole in the
+
+	          ground under a toolshed, right?
+
+	                    MARSHA 
+
+	          I knew he slept in a toolshed.
+
+	                    WOOLRIDGE
+
+	          His mother told him that he was
+
+	          their punishment. Hers and his
+
+	          father's; from God, for having sex--
+
+	                    MARSHA 
+
+	          Before they were married?
+
+	                    WOOLRIDGE 
+
+	          I don't think so. Just period, I
+
+	          think. She told him... God gave
+
+	          them the ugliest creation he could
+
+	          think of. Karl has an entire book --
+
+	          a notebook. On every page it says
+
+	          "Franklin Chapter 1 Verse number
+
+	          1." He wrote that a few years ago
+
+	          after he'd learned to write. His
+
+	          father's name was Franklin.
+
+	                    MARSHA 
+
+	          That's really strange. What does it
+
+	          mean?
+
+	                    WOOLRIDGE 
+
+	          One of his Daddy's Bible lessons I
+
+	          imagine. Y'all pull up a chair.
+
+	          I'll go out and talk to him.
+
+	INT. REC ROOM
+
+	CLOSE UP on Charles's face.
+
+	                    CHARLES 
+
+	          You have to make something explode
+
+	          to truly understand it. You have to
+
+	          examine the tiny particles while
+
+	          they're on fire.
+
+	Off screen we hear FOOTSTEPS approaching. We pull back and
+
+	see MELVIN the guard.
+
+	                    MELVIN 
+
+	          Karl, I gotta take you down to the
+
+	          old classroom. Mr. Woolridge has
+
+	          some people for you to see down
+
+	          there. Come on. Let's go.
+
+	INT. HALLWAY - DAY
+
+	Melvin and Karl walk down the hallway. Woolridge stands
+
+	outside the door of the classroom. They reach him and
+
+	Woolridge talks quietly to Karl.
+
+	                    WOOLRIDGE 
+
+	          Karl, you know, do you remember
+
+	          when I told you about those people
+
+	          from that newspaper? 
+
+	              (pause)
+
+	          They want to ask you some questions
+
+	          about your release. They think it
+
+	          would make an interesting story.
+
+	          Will you talk to 'em? Get
+
+	          interviewed. 
+
+	              (pause)
+
+	          Now, they're women. I think it
+
+	          might be good for you to. You're
+
+	          gonna be seein' all kinds of people
+
+	          when you go on the outside. This'll
+
+	          help you I believe.
+
+	INT. CLASSROOM - DAY
+
+	It's just Woolridge and the two women in the room.
+
+	                    WOOLRIDGE 
+
+	          Well, it surprised the dickens out
+
+	          of me. He said he'll talk to you.
+
+	Marsha smiles and looks at Theresa.
+
+	                    WOOLRIDGE (CONT'D)
+
+	          But, here's the thing. He'll only
+
+	          talk to you. He doesn't want you to
+
+	          ask him anything. And you shouldn't
+
+	          stare at him.
+
+	                    MARSHA 
+
+	          How am I going to conduct an
+
+	          interview if I can't ask him any
+
+	          questions?
+
+	                    WOOLRIDGE 
+
+	          It's the best you're gonna get. I'm
+
+	          sorry.
+
+	                    MARSHA 
+
+	          Can I ask you a question? If he's
+
+	          so troubled, why are you letting
+
+	          him out? What if he does it again?
+
+	          It happens all the time.
+
+	                    WOOLRIDGE 
+
+	          He's free. His time's up. That's
+
+	          the rules. He's been treated and
+
+	          reevaluated. He doesn't show any
+
+	          signs any more.
+
+	                    MARSHA 
+
+	          Signs?
+
+	                    WOOLRIDGE 
+
+	          Homicidal signs. Oh, we're gonna
+
+	          change the light in here for Karl.
+
+	          I hope you can see to write.
+
+	Woolridge turns on a lamp on a desk and turns off the
+
+	overhead lights. He opens the door and Melvin brings Karl in.
+
+	In the semidarkness Woolridge pushes a chair up and motions
+
+	for Marsha to sit. Karl stands beside Melvin motionless.
+
+	Woolridge whispers to Theresa.
+
+	                    WOOLRIDGE (CONT'D)
+
+	          You'll have to step outside.
+
+	Theresa starts to protest.
+
+	                    WOOLRIDGE (CONT'D)
+
+	          Please.
+
+	Karl sits down in a folding chair near a lamp as Melvin
+
+	ushers Theresa outside into the hallway. Karl sits staring at
+
+	the floor. Rubbing his palms together and breathing
+
+	strangely, as usual. He sits silent for what seems like
+
+	forever.
+
+	INT. HALLWAY - DAY
+
+	Theresa stands on one side of the door, Melvin on the other.
+
+	                    THERESA
+
+	          Can I just sneak in there? I won't
+
+	          take any pictures, I promise. I
+
+	          just want to listen.
+
+	                    MELVIN
+
+	          No ma'am. I'm sorry you can't.
+
+	Theresa takes a cigarette from her purse and starts to light
+
+	it.
+
+	                    MELVIN (CONT'D)
+
+	          You can't smoke in here. I'm sorry.
+
+	INT. CLASSROOM - DAY
+
+	Marsha is staring at Karl. Karl, still breathing and rubbing
+
+	his palms, starts to speak. His voice is low and raspy, but
+
+	not just low and raspy; strange.
+
+	                    KARL 
+
+	          Well, I reckon what you're a
+
+	          wanting to know is what I'm doing
+
+	          in here. I reckon the reason I'm in
+
+	          here is 'cause I killed somebody.
+
+	          But I reckon what you was a wanting
+
+	          to know is how come me to kill
+
+	          somebody. Well, I reckon I'll start
+
+	          at the front and tell you. 
+
+	              (pause, heavy breathing)
+
+	          I lived most of my life out behind
+
+	          my mother and father's house in a
+
+	          little old shed and my daddy'd
+
+	          built for me. They didn't too much
+
+	          want me up there in the house with
+
+	          the rest of 'em. I mostly just set
+
+	          around out there in the shed all
+
+	          the time a lookin' at the ground.
+
+	          It didn't have no floor but I had
+
+	          me a hole dug out to lay down in
+
+	          and a quilt or tow that I put down
+
+	          there. 
+
+	              (pause, more breathing)
+
+	          My daddy was a hard workin' man
+
+	          most of his life, not that I can
+
+	          say the same fer myself. I most
+
+	          just set around the shed and
+
+	          tinkered around with a lawn mower
+
+	          or two and went to school off and
+
+	          on from time to time but the
+
+	          children there made quite a bit of
+
+	          sport of me, made fun of me quite a
+
+	          bit. Some of 'em roughed me up
+
+	          sometimes so mostly I stayed out
+
+	          back there in the shed. My daddy
+
+	          worked down at the sawmill there,
+
+	          down there at the planer mill for
+
+	          an old man named Dixon.
+
+	          Old man Dixon was a very cruel
+
+	          feller, he didn't treat his
+
+	          employees very well, didn't pay 'em
+
+	          much of a wage, didn't pay my daddy
+
+	          much of a wage, just barely enough
+
+	          to get by on. But I reckon he got
+
+	          by all right, they come out one or
+
+	          the other of 'em, usually my
+
+	          mother, and fed me pretty regular.
+
+	          At least I know he made enough for
+
+	          me to have mustard and biscuits
+
+	          three or four times a week. Old man
+
+	          Dixon had a boy named Jesse Dixon.
+
+	          Jesse was really more cruel than
+
+	          his daddy. He made quite a bit of
+
+	          sport of me and takened advantage
+
+	          of the little girls around the
+
+	          neighborhood quite a bit. 
+
+	              (pause)
+
+	          He used to say my mother was a very
+
+	          pretty woman. He said it quite a
+
+	          bit from time to time, when I was
+
+	          at the school house. Well, I reckon
+
+	          you want me to get on and tell you
+
+	          what happened so I reckon I'll tell
+
+	          you. I was settin' out in the shed
+
+	          one evenin' not doin' too much,
+
+	          just kindly starin' at the wall and
+
+	          a waitin' fer my mother to come out
+
+	          and give me my Bible lesson and I
+
+	          heared a commotion up in the house
+
+	          there so I got up and run up on the
+
+	          screened-in porch there to see what
+
+	          was a goin' on, and I looked in the
+
+	          kitchen window and I seen my mother
+
+	          a layin' there on the floor without
+
+	          any clothes on. 
+
+	              (pause, breathing)
+
+	          And seen Jesse Dixon a layin' on
+
+	          top of her having his way with her. 
+
+	              (pause)
+
+	          Well, I just seen red. I picked up
+
+	          a kaiser blade that was a layin'
+
+	          there by the screen door, some
+
+	          folks calls it a sling blade, I
+
+	          call it a kaiser blade. It's just a
+
+	          long handle like a axe handle with
+
+	          a long blade on it that's shaped
+
+	          kind of like a banana. Sharp on one
+
+	          edge and dull on the other. It's
+
+	          what the highway boys use to cut
+
+	          down weeds and whatnot.
+
+	          I went in the kitchen there and I
+
+	          hit Jesse Dixon up side the head
+
+	          with it and knocked him off my
+
+	          mother. I reckon that didn't quite
+
+	          satisfy me so I hit him again in
+
+	          the neck with the sharp edge and
+
+	          just plumb near cut his head off.
+
+	          Killed him. Well, my mother, she
+
+	          jumped up from there and started
+
+	          yellin', "What did you kill Jesse
+
+	          fer? What did you kill Jesse fer?"
+
+	              (pause, intense breathing)
+
+	          Well, come to find out my mother
+
+	          didn't really mind what Jesse was a
+
+	          doin' to her. I reckon that made me
+
+	          madder than what Jesse had made me.
+
+	          I takened the kaiser blade, some
+
+	          folks calls it a sling blade, I
+
+	          call it a kaiser blade and hit my
+
+	          mother up side the head with it an'
+
+	          killed her.
+
+	              (long pause, breathing)
+
+	          Some folks has asked me if I had it
+
+	          to do over again would I do the
+
+	          same thing. I don't know, I reckon
+
+	          I would. Anyhow, they seen fit to
+
+	          put me in here and here I've been
+
+	          for a great long while. I've
+
+	          learned to read some; took me four
+
+	          years to read the Bible. I reckon I
+
+	          understand a good deal of it. It
+
+	          wasn't what I expected in a lot of
+
+	          places. I've slept in a good bed
+
+	          for a great long while. They've
+
+	          seen fit to put me out now. They
+
+	          tell me they're a settin' me free
+
+	          today. Anyhow, I reckon that's all
+
+	          you need to know. If you want any
+
+	          more details I reckon I can tell
+
+	          'em to you. I don't know if that's
+
+	          enough for your newspaper or not.
+
+	Suddenly Marsha speaks from the darkness.
+
+	                    MARSHA 
+
+	          Will you ever kill anybody again,
+
+	          Karl?
+
+	This seems to startle the very room itself. Woolridge motions
+
+	for Marsha to shut up and Karl stops still. Very still. He
+
+	breathes hard for a moment then starts to calm down. He seems
+
+	almost at ease. He slowly looks up. From Karl's point of view
+
+	we barely see Marsha's face in the dim light. Karl is looking
+
+	straight at Marsha.
+
+	                    KARL 
+
+	              (slowly)
+
+	          I don't reckon I got no reason to
+
+	          kill nobody.
+
+	INT. HALLWAY - DAY
+
+	Woolridge stands just outside the classroom door with Marsha
+
+	and Theresa. Karl stands down the way a few feet with Melvin.
+
+	                    MARSHA 
+
+	          Is he leaving right this minute?
+
+	                    WOOLRIDGE 
+
+	          We've got some paperwork to take
+
+	          care of. Pretty soon. Don't worry,
+
+	          you won't run into him in the
+
+	          parking lot.
+
+	                    MARSHA 
+
+	          I didn't mean that.
+
+	                    WOOLRIDGE 
+
+	          I hope the best for you, Miss
+
+	          Dwiggins, with your school and your
+
+	          paper and all.
+
+	                    MARSHA 
+
+	          Where will he go?
+
+	                    WOOLRIDGE 
+
+	          Wherever he wants to. I think he's
+
+	          going back to Millsburg where he's
+
+	          from. It's just about twenty miles
+
+	          from here.
+
+	                    MARSHA 
+
+	          Will he be supervised?
+
+	                    WOOLRIDGE 
+
+	          As much as anybody else is, I
+
+	          guess. Y'all have a good rest of
+
+	          the day now.
+
+	Marsha and Theresa walk toward the exit. As they pass Karl he
+
+	speaks to Marsha.
+
+	                    KARL
+
+	              (looking down)
+
+	          Thank you.
+
+	                    MARSHA
+
+	              (immediately extends her
+
+	               hand) 
+
+	          Thank you.
+
+	Karl doesn't take her hand.
+
+	Karl continues to stare at the floor until the women exit.
+
+	                    KARL 
+
+	          I reckon I'm gonna have to get used
+
+	          to looking at pretty people.
+
+	                    WOOLRIDGE 
+
+	          Yes, I guess you are.
+
+	                    KARL 
+
+	          I reckon I'm gonna have to get used
+
+	          to them lookin' at me, too.
+
+	                    WOOLRIDGE 
+
+	          You better go get your things.
+
+	                    KARL 
+
+	          I ain't got nothing but them books.
+
+	                    WOOLRIDGE 
+
+	          You better go get 'em.
+
+	                    KARL 
+
+	          All right then.
+
+	Karl walks slowly down the hallway.
+
+	EXT. BUS STATION - MILLSBURG - DAY
+
+	Karl steps off the bus carrying a few books by a strap. He
+
+	stands there for moment staring at the bus station as the few
+
+	people around stare at him, then he starts walking.
+
+	A SERIES OF SHOTS
+
+	Karl standing in front of a barbershop looking through the
+
+	window at a man having his hair cut.
+
+	In front of the police station.
+
+	Staring at an empty school yard...
+
+	EXT. DAIRY QUEEN - DAY
+
+	Karl stands and stares at the building for a moment. He sees
+
+	a woman take a tray of food from the window.
+
+	When she's gone, he walks up to the window. A pimply-faced
+
+	TEENAGE BOY comes to wait on him. 
+
+	                    BOY
+
+	          Can I help you?
+
+	                    KARL
+
+	          I was kindly wantin' somethin' or
+
+	          'nother d'eat.
+
+	                    BOY
+
+	          Well, what did you want?
+
+	                    KARL
+
+	          You have any biscuits for sale?
+
+	                    BOY
+
+	          Naw, we don't have biscuits.
+
+	Karl stands in silence for a moment.
+
+	                    BOY (CONT'D)
+
+	          Did you decide, sir?
+
+	                    KARL
+
+	          What you got that's good to eat?
+
+	                    BOY
+
+	          Well, I guess it's all good.
+
+	                    KARL
+
+	          What do you like to eat here?
+
+	                    BOY
+
+	          French fries. I like to eat them
+
+	          pretty good.
+
+	                    KARL
+
+	          French-fried potaters.
+
+	                    BOY
+
+	          Yeah.
+
+	                    KARL
+
+	          How much you want fer 'em? I'll get
+
+	          some of them I reckon.
+
+	                    BOY
+
+	          Sixty for small and seventy-five
+
+	          for large.
+
+	                    KARL
+
+	          Give me the big'uns.
+
+	Karl digs in his pocket for money.
+
+	EXT. LAUNDROMAT - DAY
+
+	Karl sits on a bench eating french fries. After a moment, a
+
+	twelve- or thirteen-year-old BOY comes out of the laundromat
+
+	wrestling three or four big bags of laundry. He can't seem to
+
+	get a plan together for carrying them all. Karl gets up and
+
+	goes over to him. The boy looks up at Karl, a little startled
+
+	by Karl's strange figure looming over him.
+
+	                    BOY
+
+	          These dang things are heavy. Hard
+
+	          to carry, too.
+
+	                    KARL
+
+	          What you got in there, warshing?
+
+	                    BOY
+
+	          Yeah.
+
+	                    KARL
+
+	          Ain't you got no mama and daddy to
+
+	          tend to it?
+
+	                    BOY
+
+	          I got a mama, but she's at work
+
+	          over at Ben's Dollar Store. My
+
+	          daddy's dead. 
+
+	              (pause)
+
+	          He got hit by a train.
+
+	                    KARL
+
+	          How fer you going with them sacks
+
+	          full of warsh?
+
+	                    BOY
+
+	          About a half a mile I think it is.
+
+	                    KARL 
+
+	          I'll help you tote 'em if I don't
+
+	          give out first.
+
+	                    BOY
+
+	          Okay. You don't have to though.
+
+	Karl picks up two sacks and they walk away.
+
+	EXT. STREET - DAY
+
+	They walk in silence for a while before the boy finally
+
+	speaks.
+
+	                    BOY
+
+	          My name is Frank Wheatley. What's
+
+	          your name?
+
+	                    KARL
+
+	          Karl's my name.
+
+	                    FRANK (BOY)
+
+	          What's you last name?
+
+	                    KARL
+
+	          Childers.
+
+	                    FRANK
+
+	          What are all them books?
+
+	                    KARL
+
+	          Different ones. One's the Bible.
+
+	          One of 'ems a book on Christmas.
+
+	          One of 'ems how to be a carpenter.
+
+	                    FRANK 
+
+	          How come you're carryin' them
+
+	          around with you.
+
+	                    KARL
+
+	          Ain't got nowhere to set 'em down.
+
+	                    FRANK
+
+	          Don't you live somewhere?
+
+	                    KARL
+
+	          I did live there in the state
+
+	          hospital.
+
+	                    FRANK
+
+	          Why'd you live there?
+
+	                    KARL
+
+	          I killed some folks quite awhile
+
+	          back. They said I wadn't right in
+
+	          the head and they put me in there
+
+	          in the nervous hospital instead of
+
+	          puttin' me in jail.
+
+	                    FRANK
+
+	          They let you out?
+
+	                    KARL
+
+	          Yeah.
+
+	                    FRANK
+
+	          How come?
+
+	                    KARL 
+
+	          They told me I was well. They had
+
+	          to turn me loose.
+
+	                    FRANK
+
+	          Are you well?
+
+	                    KARL
+
+	          I reckon I feel all right.
+
+	                    FRANK
+
+	          You don't seem like you'd kill
+
+	          nobody.
+
+	They reach a little white frame house and the boy turns up
+
+	the sidewalk.
+
+	                    FRANK (CONT'D)
+
+	          This is my house. You can just set
+
+	          those bags on the porch.
+
+	Karl sets the bags down and he and the boy stare at each
+
+	other in silence for a moment.
+
+	                    FRANK (CONT'D)
+
+	          Do you like to play football?
+
+	                    KARL
+
+	          I never was much count at it. I
+
+	          never did get picked out fer it.
+
+	                    FRANK
+
+	          Me and the Burnett twins and some
+
+	          boys plays down at the junior high
+
+	          practice field all the time. If you
+
+	          ever want to come by and play. We
+
+	          ain't no good either. Well, I'll
+
+	          see you later.
+
+	He goes inside leaving Karl staring at the front door.
+
+	INT. BUS STATION - DAY
+
+	Karl stands at the counter. A middle-aged man is selling
+
+	tickets.
+
+	                    KARL 
+
+	          How does a feller go about gettin'
+
+	          up to the state hospital?
+
+	                    MAN 
+
+	          You buy a ticket for fourteen
+
+	          dollars and then set and wait for
+
+	          the four-fifteen bus to Kelton.
+
+	                    KARL 
+
+	          All right then.
+
+	INT. MENTAL HOSPITAL - DAY
+
+	Karl walks down the hallway carrying his books. A couple
+
+	staffers give him 'Why are you still here' looks. He reaches
+
+	a door and goes in.
+
+	INT. WAITING ROOM - DAY
+
+	There is no one at the desk in the outer office, so Karl goes
+
+	into Woolridge's office.
+
+	INT. WOOLRIDGE'S OFFICE - DAY
+
+	Karl finds Woolridge doing paper work. Woolridge looks up
+
+	startled.
+
+	                    WOOLRIDGE
+
+	          Karl, what in the world are you
+
+	          doing here?
+
+	                    KARL 
+
+	          I want to come back and stay here.
+
+	                    WOOLRIDGE 
+
+	          Well, you can't do that. You're a
+
+	          free man. You've been let out to do
+
+	          as you please.
+
+	                    KARL 
+
+	          I reckon I don't care nothin' about
+
+	          bein' a free man. I don't know how
+
+	          to go about it.
+
+	                    WOOLRIDGE 
+
+	          Well, you have to learn. It'll take
+
+	          some time. Don't you know anybody
+
+	          down there to help you out?
+
+	                    KARL 
+
+	          Naw.
+
+	                    WOOLRIDGE 
+
+	          Your daddy's still livin' down
+
+	          there from what you told me. 
+
+	              (pause)
+
+	          I guess he wouldn't help you any,
+
+	          would he? I wasn't thinking. You
+
+	          don't know anybody?
+
+	                    KARL 
+
+	          Naw. Never did know too much of
+
+	          nobody. Not to he'p me out anyway.
+
+	                    WOOLRIDGE
+
+	              (sighs)
+
+	          Listen, Karl, the truth is I don't
+
+	          know where they expect you to go or
+
+	          what they expect you to do. If it
+
+	          was up to me, I'd let you stay here
+
+	          if that's what you wanted. I'm just
+
+	          doin' my job. 
+
+	              (they sit in silence for a
+
+	               moment)
+
+	          You follow me? 
+
+	              (no answer)
+
+	          Listen, I know an old boy that runs
+
+	          a fix-it shop deal down in
+
+	          Millsburg. He used to go to church
+
+	          with me. You're good workin' on
+
+	          small engines and things. If I put
+
+	          my neck out for you with him, will
+
+	          you work at it if he'll hire you?
+
+	                    KARL 
+
+	          I'm pretty handy I reckon on lawn
+
+	          mowers and whatnot.
+
+	                    WOOLRIDGE 
+
+	          I know, I've seen it myself. Would
+
+	          you give that a try?
+
+	                    KARL 
+
+	          I reckon.
+
+	                    WOOLRIDGE 
+
+	          I can't promise he'll hire you.
+
+	          I'll have to tell him about your
+
+	          history.
+
+	                    KARL 
+
+	          I never was no good with history.
+
+	                    WOOLRIDGE 
+
+	          No, I mean your past. About why you
+
+	          were in here. 
+
+	              (pause)
+
+	          I'll take you first thing in the
+
+	          mornin'. You have anyplace you can
+
+	          stay tonight at all?
+
+	          I just can't let you stay here.
+
+	          It's the rules. If something
+
+	          happened well, I'd be liable.
+
+	                    KARL 
+
+	          I reckon I can just walk around
+
+	          till the mornin'. Or set and read
+
+	          me a book somewhere.
+
+	They sit and stare at each other for a moment.
+
+	INT. WOOLRIDGE DEN - NIGHT
+
+	Woolridge, his WIFE, his teenage SON, BUBBA, and teenage
+
+	DAUGHTER sit in various comfortable chairs looking extremely
+
+	uncomfortable and staring at Karl, who is sitting on the edge
+
+	of a chair looking at the floor. After a long creepy moment,
+
+	Mom speaks.
+
+	                    MRS. WOOLRIDGE
+
+	          Karl, would you like a muffin?
+
+	                    KARL
+
+	          No thank ye.
+
+	                    MRS. WOOLRIDGE
+
+	          I understand Jerry is going to take
+
+	          you somewhere else tomorrow.
+
+	                    KARL
+
+	          I don't reckon I know nobody name
+
+	          Jerry.
+
+	                    WOOLRIDGE
+
+	          She's talkin' about me, Karl.
+
+	          That's my first name.
+
+	                    KARL
+
+	          He's a-carryin' me to look fer work
+
+	          in Millsburg where I was borned.
+
+	                    MRS. WOOLRIDGE
+
+	          Would you like some coffee?
+
+	                    KARL 
+
+	          Coffee makes me a might nervous
+
+	          when I drink it.
+
+	                    DAUGHTER 
+
+	          Daddy, can I be excused to go to
+
+	          bed?
+
+	                    WOOLRIDGE 
+
+	          Sure, honey. You sleep with Mama
+
+	          tonight. I'll sleep with your
+
+	          brother and Karl can take your
+
+	          room.
+
+	                    DAUGHTER
+
+	          Why?
+
+	                    WOOLRIDGE 
+
+	          We have company. Now you go on.
+
+	INT. BEDROOM - NIGHT
+
+	It's an all-American girls room. Everything is pink. There
+
+	are stuffed animals everywhere and posters of pop idols.
+
+	                    WOOLRIDGE 
+
+	          Well, Karl, there's plenty of
+
+	          blankets and things there.
+
+	          Bathroom's right there in the hall.
+
+	          We'll leave first thing tomorrow.
+
+	Karl stands in the middle of the room holding his books.
+
+	Woolridge closes the door.
+
+	INT. WOOLRIDGE KITCHEN - NIGHT
+
+	Woolridge walks into the kitchen where Mom and Son sit at the
+
+	table.
+
+	                    MRS. WOOLRIDGE 
+
+	          Jerry, why didn't you give him
+
+	          Bubba's room? Sister's is kind of
+
+	          girly, isn't it?
+
+	                    WOOLRIDGE 
+
+	          Yeah, I thought about that. No
+
+	          sense in moving him now I guess.
+
+	                    BUBBA 
+
+	          Daddy, don't you think one of us
+
+	          ought to stay up all night and kind
+
+	          of - guard or somethin'?
+
+	                    WOOLRIDGE
+
+	          Why, hell no, son. What's wrong
+
+	          with you?
+
+	                    BUBBA 
+
+	          Well, he's crazy. He's a nut ain't
+
+	          he?
+
+	                    MRS. WOOLRIDGE 
+
+	          'Isn't' he, Bubba. Don't say ain't.
+
+	INT. WOOLRIDGE DEN AND HALLWAY - MORNING
+
+	Woolridge, already dressed, walks through the den and down
+
+	the hallway. He knocks on the bedroom door.
+
+	                    WOOLRIDGE 
+
+	          Karl, you up?
+
+	                    KARL (O.S.) 
+
+	          Yes sir.
+
+	Woolridge opens the bedroom door and sees Karl sitting on the
+
+	edge of the bed beside his books. The light is on, the bed
+
+	still as it was the night before.
+
+	                    WOOLRIDGE 
+
+	          Didn't you go to sleep at all,
+
+	          Karl? You been sittin' there like
+
+	          that all night?
+
+	                    KARL 
+
+	          Yes sir.
+
+	                    WOOLRIDGE 
+
+	          Well, I guess we better hit the
+
+	          road.
+
+	INT. FIXIT SHOP - DAY
+
+	Woolridge's car pulls into the parking lot. He and Karl get
+
+	out and walk toward the shop.
+
+	INT. FIXIT SHOP - DAY
+
+	Two men, BILL COX, a large man in his forties, and SCOOTER
+
+	HODGES, a really country-looking guy in his thirties, look up
+
+	from behind the counter as Woolridge and Karl enter.
+
+	Woolridge goes to the counter, Karl stands by the door
+
+	looking at the floor.
+
+	                    BILL 
+
+	          Hey Jerry, how it's goin'. Good to
+
+	          see you. Been a long time.
+
+	                    WOOLRIDGE
+
+	          Good to see you, Bill. How's
+
+	          everybody doin'?
+
+	                    BILL 
+
+	          Aw, pretty good. Kids are drivin'
+
+	          me crazy and Phyliss is gonna put
+
+	          me in the poorhouse. Can't complain
+
+	          other than that. Wouldn't do any
+
+	          good if I did. 
+
+	              (laughs)
+
+	          Do you know Scooter, Jerry?
+
+	                    WOOLRIDGE 
+
+	          No, don't guess I do. 
+
+	              (he shakes hands with
+
+	               Scooter who sort of
+
+	               smiles)
+
+	          Scooter, good to meet you. 
+
+	              (Woolridge leans in and
+
+	               gets confidential)
+
+	          This is him, the one I talked to
+
+	          you about on the phone. Now like I
+
+	          said, I'll understand if you get
+
+	          nervous about it. I'm not gonna lie
+
+	          to you now, he did get in that
+
+	          trouble but then he was real young.
+
+	                    BILL 
+
+	          I remember it real well. Cut them
+
+	          folks to pieces. His mama one of
+
+	          'em.
+
+	                    SCOOTER 
+
+	          And that ol' Dixon boy. Hell, I
+
+	          always wanted to kill him myself.
+
+	          Asshole's what he was. I remember
+
+	          that ol' boy 
+
+	              (points to Karl)
+
+	          too. Kind of retarded or somethin'
+
+	          back in school.
+
+	                    WOOLRIDGE 
+
+	          Well, he seems pretty well-adjusted
+
+	          these days. I don't think he'd ever
+
+	          hurt anybody.
+
+	                    BILL 
+
+	          Don't look much like he could. You
+
+	          say he can fix a small engine like
+
+	          nobody's bidness.
+
+	                    WOOLRIDGE 
+
+	          He's a regular whiz at it. That's
+
+	          all he did when he was a kid.
+
+	                    BILL 
+
+	          Well, I ain't scared of him workin'
+
+	          here. You know me. I'm a church
+
+	          goin' man. Forgivin' man. When your
+
+	          time's up the Lord's gonna come git
+
+	          you. You seared of him, Scooter?
+
+	                    SCOOTER 
+
+	          I don't guess. Can he talk?
+
+	                    WOOLRIDGE 
+
+	          Oh yeah. Listen I really appreciate
+
+	          it. He needs the job. I don't know
+
+	          what to do with him. He don't have
+
+	          anybody really.
+
+	                    BILL 
+
+	          That old man of his still livin'
+
+	          over there on Clark Street I
+
+	          believe.
+
+	                    WOOLRIDGE 
+
+	          He won't have anything to do with
+
+	          him. Now you say it's all right for
+
+	          him to stay out here in the back?
+
+	                    BILL 
+
+	          Fine with me. If he steals
+
+	          anything, I'll take it out of your
+
+	          pocket anyway.
+
+	Bill slaps Woolridge on the shoulders and wheezes with
+
+	laughter.
+
+	                    WOOLRIDGE 
+
+	          He won't steal. I'm tellin' you
+
+	          he's a pretty good ol' boy. Keeps
+
+	          to himself.
+
+	                    BILL 
+
+	          Well, I've got a roomful of work
+
+	          for him to do. Can't get Scooter to
+
+	          do any of it.
+
+	                    WOOLRIDGE 
+
+	          Karl, come over here. I want you to
+
+	          meet your new boss. 
+
+	              (Karl obediently shuffles
+
+	               over)
+
+	          This is Bill Cox, runs this place.
+
+	          Says you can work here and stay in
+
+	          the back.
+
+	                    BILL 
+
+	          Good to know you, Karl.
+
+	                    KARL 
+
+	          Thank ye.
+
+	                    BILL 
+
+	          Now it's minimal wage and there
+
+	          ain't nothin' but a army cot and a
+
+	          toilet back there.
+
+	Karl doesn't say anything.
+
+	                    WOOLRIDGE 
+
+	          That'll be fine. Karl, I'll go to
+
+	          the car and get your books.
+
+	Woolridge exits. Bill and Scooter just stare at Karl and Karl
+
+	stares at the floor.
+
+	                    BILL 
+
+	          They say you're a whiz on fixin'
+
+	          lawn mowers and things.
+
+	                    KARL
+
+	          I've tinkered around on 'em a
+
+	          little bit.
+
+	                    BILL 
+
+	          We order from Dairy Queen at
+
+	          noontime usually. We can buy your
+
+	          lunch till you get on your feet a
+
+	          little.
+
+	                    KARL
+
+	          I like them french-fried potaters.
+
+	                    BILL 
+
+	              (long pause)
+
+	          Yeah, me too.
+
+	                    SCOOTER
+
+	          They make a good double meat
+
+	          burger.
+
+	INT. SHOP WORKROOM - NIGHT
+
+	The place is cluttered with mowers, edgers, weed-eaters, and
+
+	other equipment, most of it in pieces. A small cot is in a
+
+	little clearing in the corner by the bathroom. Karl is
+
+	sweeping up oil with sawdust and a push broom while Scooter
+
+	puts some tools away. Bill comes to the door.
+
+	                    BILL
+
+	          All right then, I'll see y'all
+
+	          later. Karl you done a good day's
+
+	          work. They right about you.
+
+	          Scooter, he's gonna knock you out
+
+	          of a job if you're not careful.
+
+	          I'll see you tomorrow.
+
+	                    SCOOTER 
+
+	          Wait up, I'll leave with you and
+
+	          lock up.
+
+	                    BILL 
+
+	          Karl, they's a blanket up in under
+
+	          that cot and soap in the bathroom
+
+	          to clean up with. 
+
+	              (pause)
+
+	          Now there's one more thing. The way
+
+	          we lock these doors at night, you
+
+	          can't get out. You didn't want to
+
+	          go anywhere, did you?
+
+	                    KARL 
+
+	          I don't reckon.
+
+	                    BILL 
+
+	          If it works out and all, maybe
+
+	          we'll get you a key so you can get
+
+	          out at night if you need to. See
+
+	          you later.
+
+	They leave Karl standing in the midst of the lawn mowers. He
+
+	sets the broom down and goes and sits on the cot. After a
+
+	moment, he gets back up and starts sweeping again.
+
+	INT. SHOP - DAY
+
+	It's lunch time and Bill, Scooter, and Karl are sitting in
+
+	folding chairs behind the counter eating from their Dairy
+
+	Queen to-go bags. Karl has french fries.
+
+	                    BILL 
+
+	          Scooter, did I tell about the two
+
+	          old boys pissin' off the bridge?
+
+	                    SCOOTER 
+
+	          I can't remember.
+
+	                    BILL 
+
+	          There was these two old boys hung
+
+	          their peckers off of a bridge to
+
+	          piss, one old boy from California
+
+	          and one old boy from Arkansas.
+
+	          Old boy from California says, "Boy
+
+	          this water's cold." Old boy from
+
+	          Arkansas says "Yeah, and it's deep
+
+	          too." 
+
+	              (starts wheezing)
+
+	          Get it? That's a goodun.
+
+	                    SCOOTER
+
+	              (laughing)
+
+	          Yeah, that's a goodun. I believe
+
+	          you did tell me that one before.
+
+	          I've heard that a bunch. Long time
+
+	          ago.
+
+	                    BILL 
+
+	          Well, yeah it's a classic. You
+
+	          know, Karl, I got to thinkin' about
+
+	          it last night and it's just not
+
+	          Christian of me to not let you have
+
+	          a key. I mean you been in lockup so
+
+	          long, you don't need me keepin' you
+
+	          locked up. You need to come and go
+
+	          as you please. Here, take this key,
+
+	          it'll get you in and out that back
+
+	          door. 
+
+	              (Karl takes the key and
+
+	               keeps eating french
+
+	               fries)
+
+	          Them french fries good?
+
+	                    KARL 
+
+	          Yeah, they's good all right.
+
+	                    BILL 
+
+	          You got any money?
+
+	                    KARL 
+
+	          They give me fifty dollars when
+
+	          they turned me loose. I spent up
+
+	          some of it on ridin' the bus and
+
+	          eatin' french-fried potaters.
+
+	                    BILL 
+
+	          Well, I'm gonna pay you today for
+
+	          this comin' week, so you'll have
+
+	          some walkin' around money. When you
+
+	          get off this evenin' you better go
+
+	          buy some toothpaste and cleanin' up
+
+	          supplies to have back there. Some
+
+	          hard candy and some magazines.
+
+	          Somethin' to keep you busy at
+
+	          night.
+
+	                    KARL 
+
+	          All right then.
+
+	                    BILL 
+
+	          I'll let you off while it's still
+
+	          daylight.
+
+	EXT. STREET - DAY
+
+	Karl is walking down a residential street. He stops in front
+
+	of the house where the boy, Frank, lives and stares at the
+
+	house for a moment, then he walks up to the door and stares
+
+	at it. A curtain moves and the boy's face appears at the
+
+	window. He comes and opens the door.
+
+	                    FRANK
+
+	          Hey there. I thought I heard
+
+	          somebody on the porch. Wasn't your
+
+	          name Karl?
+
+	                    KARL
+
+	          Yeah it is. Your name's Frank.
+
+	                    FRANK
+
+	          Yeah. What you doin' by here?
+
+	                    KARL
+
+	          You told me to come by.
+
+	                    FRANK
+
+	          Did you want to play ball with us?
+
+	                    KARL
+
+	          I ain't no good at it. I just come
+
+	          by.
+
+	                    FRANK
+
+	          Well, anyhow, I was just fixin' to
+
+	          go see my mama down at Ben's Dollar
+
+	          Store. She's workin' two till
+
+	          eight.
+
+	                    KARL
+
+	          All right then.
+
+	He starts to walk away.
+
+	                    FRANK 
+
+	          Wait a minute. You want to go with
+
+	          me? You can meet my mama.
+
+	                    KARL 
+
+	          I don't want to worry your mama
+
+	          with company.
+
+	                    FRANK 
+
+	          Aw, come on. You'll like her. She's
+
+	          real nice. She'll give us somethin'
+
+	          if we ask her to. Candy or
+
+	          somethin'.
+
+	                    KARL 
+
+	          I was kindly needin' to do some
+
+	          tradin'. Reckon they sell
+
+	          toothpaste?
+
+	                    FRANK 
+
+	          They sell some of everything. Come
+
+	          on let's go. I won't tell her about
+
+	          you bein' in the state hospital for
+
+	          killin'.
+
+	INT. BEN'S DOLLAR STORE - DAY
+
+	Frank and Karl make their way through the fairly crowded
+
+	store. It's sort of a mini-version of a Walmart. They find
+
+	Frank's mother in her red smock talking to a guy in a red
+
+	Ben's knit shirt. They are laughing together and pricing some
+
+	mouthwash. LINDA WHEATLEY is a short, plain woman in her
+
+	thirties. The man, VAUGHAN CUNNINGHAM, is in his forties,
+
+	with a neat flattop hair cut, glasses, and a paunch hanging
+
+	over his belt. They eye Karl suspiciously, as the boys
+
+	approach.
+
+	                    FRANK 
+
+	          Hey, Mama. Hey, Vaughan.
+
+	                    LINDA 
+
+	          Hey, sweetheart. What you up to?
+
+	                    VAUGHAN 
+
+	          Let me guess. You want a bunch of
+
+	          candy and a pop.
+
+	                    FRANK 
+
+	          Yeah.
+
+	                    VAUGHAN 
+
+	          You're gonna rot your teeth that
+
+	          way. But I bet I know what you
+
+	          would like even better.
+
+	          I put potted meat on special, four
+
+	          cans for a dollar and they're not
+
+	          moving very well. I'd sure let a
+
+	          few cans go for free to the right
+
+	          boy.
+
+	                    FRANK 
+
+	          I don't like potted meat. Daddy
+
+	          used to say it was made out of lips
+
+	          and peckers and intestints.
+
+	                    LINDA 
+
+	          Frank, don't talk that way. Who's
+
+	          that strange lookin' man behind
+
+	          you? Did he follow you in here?
+
+	                    VAUGHAN 
+
+	          Can I help you, sir?
+
+	                    FRANK 
+
+	          Oh, that's Karl. I met him at the
+
+	          laundrymat. Karl, this is my mama.
+
+	          And Vaughan, Vaughan's the manager.
+
+	          He lets mama off any time she feels
+
+	          like it 'cause they're best
+
+	          friends.
+
+	                    LINDA 
+
+	          Nice to meet you, Karl.
+
+	                    KARL
+
+	              (keeping his distance)
+
+	          Pleased to know y'all.
+
+	There's an uncomfortable silence.
+
+	                    LINDA 
+
+	          Frank come back here with me for a
+
+	          minute.
+
+	She shuffles him away and leaves Vaughan staring at Karl.
+
+	                    VAUGHAN 
+
+	          I don't think I've ever seen you
+
+	          before.
+
+	                    KARL 
+
+	          Naw, I don't believe you have. I
+
+	          don't reckon I never been in here.
+
+	          This store didn't used to be here.
+
+	                    VAUGHAN 
+
+	          It's been here seventeen years. Did
+
+	          you live here before or something?
+
+	                    KARL 
+
+	          I's horned and raised here up till
+
+	          I's twelve year old.
+
+	                    VAUGHAN 
+
+	          What brings you back?
+
+	                    KARL 
+
+	          What's that you say?
+
+	                    VAUGHAN 
+
+	          Why are you here now?
+
+	                    KARL 
+
+	          They turned me loose from the state
+
+	          hospital.
+
+	                    VAUGHAN 
+
+	          Is that right? 
+
+	              (pause)
+
+	          Are you going to be staying here
+
+	          long?
+
+	                    KARL 
+
+	          I reckon Mr. Woolridge got me hired
+
+	          on to work for Bill Cox's outfit.
+
+	                    VAUGHAN 
+
+	          Do you have family here?
+
+	                    KARL 
+
+	          Not really to speak of.
+
+	Linda and Frank return from the back.
+
+	                    FRANK 
+
+	          Hey Karl, guess what. Mama said you
+
+	          can stay with us. Out in the
+
+	          garage. Our car won't fit in there
+
+	          anyway. It's real neat.
+
+	                    LINDA 
+
+	          Frank told me about your situation.
+
+	          And Frank loves company. You know,
+
+	          especially after his daddy passed
+
+	          and all. There ain't no sense in
+
+	          you stayin' in that old greasy
+
+	          shop. 
+
+	              (to Vaughan, hushed)
+
+	          He's mentally retarded, poor thing.
+
+	                    VAUGHAN
+
+	              (hushed)
+
+	          He just got out of the state
+
+	          hospital.
+
+	                    LINDA
+
+	              (put out)
+
+	          I know.
+
+	                    FRANK 
+
+	          Can we get some candy and pops?
+
+	                    VAUGHAN 
+
+	          Sure, go ahead.
+
+	They walk off down the aisle leaving Vaughan a little
+
+	puzzled.
+
+	                    VAUGHAN (CONT'D)
+
+	          Are you sure it's safe to let him
+
+	          around that guy?
+
+	                    LINDA 
+
+	          Frank's just crazy about him. He
+
+	          likes the way he talks. He helped
+
+	          him carry home the clean laundry.
+
+	                    VAUGHAN 
+
+	          He's been in the state hospital a
+
+	          long time, something must be wrong
+
+	          with him.
+
+	                    LINDA 
+
+	          He's retarded's all. You know he's
+
+	          always after a father figure and
+
+	          Lord knows Doyle ain't a good one
+
+	          with his mean ass.
+
+	                    VAUGHAN 
+
+	          What about me?
+
+	                    LINDA 
+
+	          I don't think he sees you as a guy
+
+	          guy.
+
+	                    VAUGHAN
+
+	              (wrinkles his brow)
+
+	          Karl is a guy guy?
+
+	EXT. WOODED AREA - LATE AFTERNOON
+
+	Karl and Frank sit on stumps in a little clearing enjoying
+
+	the spoils of their Ben's Dollar Store visit.
+
+	                    FRANK 
+
+	          This is what I call my secret place
+
+	          'cause I come out here when I feel
+
+	          like bein' by myself. I used to
+
+	          come here with Karen Cross. She's
+
+	          kind of like my girlfriend, or used
+
+	          to be. She says she likes Jerry
+
+	          Maroney now. But I'm gonna get her
+
+	          back 'cause I love her. We used to
+
+	          come here and hold hands and talk
+
+	          and read books to each other with a
+
+	          flashlight. She didn't want to have
+
+	          anything to do with me in front of
+
+	          other people 'cause I don't have
+
+	          any money. Well, mama and me, I
+
+	          mean. She seemed to like me a whole
+
+	          lot when we were out here though.
+
+	          She said she loved me, too. Out
+
+	          here. Settin' right on that stump
+
+	          you're on. See, her daddy's a
+
+	          dentist so they're rich. So's Jerry
+
+	          Maroney's daddy. He owns the ice
+
+	          plant. Was your folks well off?
+
+	                    KARL 
+
+	          Naw. Didn't have too much. Enough
+
+	          to scrape by on, I reckon.
+
+	                    FRANK 
+
+	          They still around, your folks?
+
+	                    KARL 
+
+	          My mother's dead. My daddy's
+
+	          s'posed to be around still. He
+
+	          don't want to have nothin' to do
+
+	          with me though.
+
+	                    FRANK 
+
+	          How do you know?
+
+	                    KARL 
+
+	          He never did want to. I figure he
+
+	          ain't changed his mind much.
+
+	                    FRANK 
+
+	          How did your mama die?
+
+	                    KARL
+
+	              (long pause)
+
+	          You don't need to know all of that.
+
+	          You're just a boy.
+
+	          You need to think about good
+
+	          thoughts while you're still a boy.
+
+	          They'll be plenty of time for the
+
+	          other.
+
+	                    FRANK 
+
+	          I've had a lot of bad thoughts
+
+	          since my daddy died. Sometimes I
+
+	          wish I was still real little and he
+
+	          was still here. My mama's real
+
+	          good, but I wish I had both of 'em. 
+
+	              (pause)
+
+	          When we went to Memphis one time in
+
+	          the car, it was rainin' so hard we
+
+	          couldn't see the road. But I wadn't
+
+	          scared because I thought as long as
+
+	          daddy was drivin' nothin' could
+
+	          happen to us. I feel that way about
+
+	          mama now. 
+
+	              (he looks at the ground
+
+	               for a moment)
+
+	          Mama has a boyfriend now. His name
+
+	          is Doyle Hargraves. He works
+
+	          construction so he makes a pretty
+
+	          good livin'. He still don't help
+
+	          mama out with any money though. He
+
+	          ain't no good. He's mean to her. He
+
+	          don't like me at all. Mama says
+
+	          it's because he's jealous I belong
+
+	          to my daddy instead of him. He
+
+	          stays with us all night sometimes,
+
+	          but he's got his own house.
+
+	          Somebody told me it's so he can
+
+	          still have other girlfriends. I
+
+	          like it on the nights when he ain't
+
+	          at our house. I'm not so nervous
+
+	          then.
+
+	                    KARL 
+
+	          How come her to keep bein'
+
+	          girlfriends and all with him if
+
+	          he's mean to her?
+
+	                    FRANK 
+
+	          She says it's for the times when
+
+	          he's good to her. She's lonely
+
+	          since daddy died. She said
+
+	          sometimes she don't know why. 
+
+	              (pause)
+
+	          He threatened to kill her if she
+
+	          ever left him. My daddy would kill
+
+	          him if he was here and somebody was
+
+	          mean to mama. Vaughan, he's real
+
+	          good to mama. Vaughan that you met.
+
+	          But he's not able to do anything to
+
+	          Doyle, he's funny you know. Not
+
+	          funny ha, ha, funny queer. He likes
+
+	          to go with men instead of women.
+
+	          That makes him not to be able to
+
+	          fight too good. He sure is nice
+
+	          though. He's from St. Louis. People
+
+	          who are queer can get along better
+
+	          in a big town. He got transferred
+
+	          here to work. But mama said the
+
+	          real reason he left is 'cause his
+
+	          daddy hated him. For bein' the way
+
+	          he is. I wish he liked to go with
+
+	          women. I'd rather him be mama's
+
+	          boyfriend than Doyle.
+
+	Pause as Frank looks at the ground again. He seems troubled.
+
+	                    FRANK (CONT'D)
+
+	          Karl. 
+
+	              (pause)
+
+	          You know when I said daddy got hit
+
+	          by a train.
+
+	                    KARL
+
+	          Yeah, I remember you a-tellin' me
+
+	          that.
+
+	                    FRANK 
+
+	          It ain't the truth. He shot hisself
+
+	          with a shotgun on purpose.
+
+	                    KARL 
+
+	          Why did he do that, reckon.
+
+	                    FRANK 
+
+	          'Cause he didn't have enough money
+
+	          to take care of us the way he
+
+	          wanted to. That's what the letter
+
+	          said. He got laid off from work and
+
+	          had to just work odd jobs. I
+
+	          thought he took care of us fine. 
+
+	              (pause)
+
+	          Karl, did you really kill somebody?
+
+	                    KARL 
+
+	          Yeah, I did.
+
+	                    FRANK 
+
+	          Who did you kill?
+
+	                    KARL 
+
+	          Two people.
+
+	                    FRANK 
+
+	          Were they bad people?
+
+	                    KARL 
+
+	          I thought they was.
+
+	                    FRANK 
+
+	          Maybe they needed it.
+
+	                    KARL 
+
+	          I growed up and got taught it ain't
+
+	          right to kill nobody.
+
+	                    FRANK 
+
+	          It's okay if you're lookin' out for
+
+	          yourself. If it's self-defense. Was
+
+	          it self-defense?
+
+	Karl shifts around and makes a noise in his throat and
+
+	doesn't answer.
+
+	                    FRANK (CONT'D)
+
+	          My daddy was good. I think too many
+
+	          good people die. It ain't right.
+
+	          That's what I think.
+
+	INT. SHOP - DAY
+
+	Karl is tying the strap around his books. His sack of
+
+	toiletries is on the bed. Bill Cox comes in.
+
+	                    BILL 
+
+	          Now, Karl, you sure you want to go
+
+	          stay with these folks? You're
+
+	          welcome to keep on stayin here.
+
+	          It's workin' out real good.
+
+	                    KARL 
+
+	          That boy wants me to.
+
+	                    BILL 
+
+	          All right then. I'll see you bright
+
+	          and early. How you comin' along on
+
+	          that garden tiller?
+
+	                    KARL 
+
+	          I fixed it. Hit's a workin' pretty
+
+	          good.
+
+	                    BILL 
+
+	          You done fixed it? I'll be damned.
+
+	          Scooter told me it couldn't be
+
+	          fixed.
+
+	          'Course Scooter's about as shitless
+
+	          as one poor son-of-a-bitch can be.
+
+	          You done fixed it. I'll just be
+
+	          damned. See you tomorrow.
+
+	INT. WHEATLEY LIVING ROOM - NIGHT
+
+	DOYLE is in the comfortable easy chair with adjuster handle
+
+	drinking beer. He's in his late thirties and dressed in his
+
+	construction clothes. Linda sits on the arm of the chair and
+
+	Frank stands before them.
+
+	                    DOYLE 
+
+	          Well, honey, I don't guess I give a
+
+	          shit. I ain't here half the time
+
+	          anyway. If you want a retard livin'
+
+	          in the garage, I don't guess I
+
+	          care. I've got a good tool box and
+
+	          socket set out there I don't want
+
+	          stol'd. I guess I could take it
+
+	          home with me.
+
+	                    FRANK
+
+	          He's real honest. He wouldn't steal
+
+	          nothin'.
+
+	                    DOYLE 
+
+	          Now son, I wadn't talkin' to you,
+
+	          was I? 
+
+	              (pause)
+
+	          Was I?
+
+	                    FRANK 
+
+	          No sir.
+
+	                    DOYLE 
+
+	          No sir's right. I'm talkin' to your
+
+	          mama. This is your mama's decision,
+
+	          not yours. I'm lettin' it go on
+
+	          because she asked me, not you. 
+
+	              (to Linda)
+
+	          Now is this the kind of retard that
+
+	          drools and rubs shit in his hair
+
+	          and all that, 'cause I have trouble
+
+	          eatin' around that kind of thing.
+
+	          Just like I am about antique
+
+	          furniture and midgets. I can't so
+
+	          much as drink a glass of water
+
+	          around a midget or a piece of
+
+	          antique furniture. Same thing with
+
+	          a droolin' retard.
+
+	                    LINDA
+
+	          Doyle, you're awful. You shouldn't
+
+	          be that way.
+
+	                    DOYLE 
+
+	          I ain't sayin' it's right. I'm just
+
+	          tellin' the truth. What was he in
+
+	          the nuthouse for?
+
+	                    LINDA 
+
+	          He's just mentally retarded, I
+
+	          guess.
+
+	                    DOYLE 
+
+	          He had of went nuts and did
+
+	          somethin'. They don't put you in
+
+	          there for just bein' a retard.
+
+	          They's retards all over the place
+
+	          that ain't in the nuthouse. Do you
+
+	          know, Frank?
+
+	                    FRANK 
+
+	          I ain't sure.
+
+	                    DOYLE 
+
+	          You might want to find out. He
+
+	          might of hacked his family to
+
+	          pieces with a hatchet or somethin'.
+
+	                    LINDA 
+
+	          Yeah, that's right, Frank, you
+
+	          better ask him. I mean, don't hurt
+
+	          his feelin's or anything, but it
+
+	          would be good to know. I'm sure
+
+	          it's nothin'. He seems real sweet.
+
+	                    DOYLE 
+
+	          You sure are hung up on people
+
+	          bein' sweet. 
+
+	              (takes a long pull on his
+
+	               beer)
+
+	          Speakin' of which, where's your
+
+	          girlfriend? I thought he was comin'
+
+	          by here for something.
+
+	                    LINDA 
+
+	          He'll be here in a little while,
+
+	          he's takin' me to get an ice cream.
+
+	                    DOYLE 
+
+	          Ain't that the sweetest thing. What
+
+	          am I supposed to do about supper
+
+	          with you traipsin' around with that
+
+	          fag?
+
+	                    LINDA 
+
+	          You're not crippled. Get in there
+
+	          and make somethin'.
+
+	                    DOYLE 
+
+	          Boy, ain't you somethin' else.
+
+	          Talkin' back and everything. It
+
+	          kinda makes me horny when you talk
+
+	          back.
+
+	                    LINDA 
+
+	          Frank, why don't you go off and
+
+	          play in your room if Doyle's gonna
+
+	          talk nasty.
+
+	                    FRANK 
+
+	          I want to watch T.V.
+
+	                    DOYLE 
+
+	          Yeah, honey, let the kid watch T.V.
+
+	          Hell, let's all watch T.V. like a
+
+	          family till your retarded friend
+
+	          and your homosexual friend gets
+
+	          here.
+
+	EXT. PORCH - NIGHT
+
+	Karl is standing on the porch with his bag and his books
+
+	staring at the door. After a moment, we hear a car door slam
+
+	and footsteps on the porch. Then we hear Vaughan's voice.
+
+	                    VAUGHAN
+
+	          Karl?
+
+	Karl turns to face Vaughan.
+
+	                    KARL
+
+	          Yes sir.
+
+	                    VAUGHAN
+
+	          So, you're really going to stay
+
+	          here?
+
+	                    KARL
+
+	          That boy wants me to.
+
+	                    VAUGHAN
+
+	          Did you knock on the door yet?
+
+	                    KARL
+
+	          Naw, I ain't.
+
+	                    VAUGHAN
+
+	          How long have you been standing
+
+	          here?
+
+	                    KARL
+
+	          Quite a spell, I reckon.
+
+	                    VAUGHAN 
+
+	          Listen, before you get very used to
+
+	          staying here, I think you and I
+
+	          need to talk about a few things.
+
+	          Can I take you to lunch?
+
+	                    KARL 
+
+	          I done et just a little bit ago.
+
+	                    VAUGHAN 
+
+	          I mean tomorrow or the next day.
+
+	                    KARL 
+
+	          I reckon I can stand to eat a
+
+	          little somethin' or 'nother at
+
+	          noontime tomorrow. Bill Cox
+
+	          generally gets me a box of french
+
+	          fried potaters. But I reckon he can
+
+	          lay off doin' it tomorrow.
+
+	                    VAUGHAN
+
+	          Okay, I'll come by Mr. Cox's and
+
+	          get you at noon.
+
+	They stand therefor a moment. Vaughan doesn't really know
+
+	exactly what else to do, so he knocks on the door. After a
+
+	moment, Frank answers the door.
+
+	                    FRANK 
+
+	          Hey. Y'all come on in.
+
+	INT. LIVING ROOM - NIGHT
+
+	Vaughan ushers Karl in and they stand behind the sofa. Doyle
+
+	looks up and grins.
+
+	                    LINDA 
+
+	          Hey, Vaughan. How are you, Karl?
+
+	                    KARL 
+
+	          Tolerable, I reckon.
+
+	                    LINDA
+
+	              (in a hurry to get out)
+
+	          Karl, this is my boyfriend, Doyle.
+
+	          Frank, why don't you and Karl go
+
+	          out in the garage and fix him up a
+
+	          place or play a game or somethin'.
+
+	          Vaughan, you ready to go?
+
+	                    VAUGHAN 
+
+	          Sure, I guess.
+
+	                    DOYLE 
+
+	          Don't rush ever'body, honey.
+
+	She starts to get her things together.
+
+	                    LINDA
+
+	              (to Frank)
+
+	          Maybe you and Karl want to go with
+
+	          us?
+
+	                    FRANK 
+
+	          Naw, I don't want to. Me and Karl
+
+	          got things we need to do.
+
+	                    DOYLE 
+
+	          Hey, Vaughan, you know what I
+
+	          heard? I heard you been puttin' it
+
+	          to Albert Sellers that works over
+
+	          at the funeral home.
+
+	                    VAUGHAN 
+
+	          I know Albert. We're friends.
+
+	                    DOYLE 
+
+	          I heard you was more than friends.
+
+	          I heard Dick Rivers caught y'all
+
+	          all bowed up and goin' at it in the
+
+	          same room with poor, little, old
+
+	          Mizz Ogletree and her dead as a
+
+	          doornail layed out on a gurney.
+
+	                    VAUGHAN
+
+	          That's ridiculous. That's just a
+
+	          total lie.
+
+	                    LINDA 
+
+	          Let's go, Vaughan. 
+
+	              (they start for the door)
+
+	          Frank, we'll be back in a little
+
+	          while. I'll bring you back
+
+	          somethin'. You're food's in the
+
+	          oven warmin' over.
+
+	                    DOYLE 
+
+	          See, you made him somethin'. Hey
+
+	          Vaughan, I was just goin' on with
+
+	          you, jokin' around, buddy.
+
+	                    VAUGHAN
+
+	              (smiles a little)
+
+	          Yeah, I knew that. You're a card
+
+	          all right.
+
+	Linda kisses Frank on the forehead and they leave.
+
+	                    DOYLE
+
+	          So, Karl, come have a seat, talk to
+
+	          me.
+
+	Karl sits on the couch.
+
+	                    FRANK
+
+	          Come on, Karl, let's go out to the
+
+	          garage.
+
+	                    DOYLE
+
+	          Goddamnit, I'm talkin' to the man.
+
+	          You set right there, Karl.
+
+	Frank leans on the sofa arm beside Karl.
+
+	                    DOYLE (CONT'D)
+
+	          What's in your bag?
+
+	                    KARL
+
+	          This and that. Toothpaste and
+
+	          whatnot.
+
+	                    DOYLE
+
+	          What's all them books?
+
+	                    KARL
+
+	          Different ones. The Bible's one of
+
+	          'em.
+
+	                    DOYLE
+
+	          You believe in the Bible?
+
+	                    KARL
+
+	          A good deal of it, I reckon. Can't
+
+	          understand all of it.
+
+	                    DOYLE 
+
+	          Well, I can't understand none of
+
+	          it. This one begat this one and
+
+	          that one begat this one and begat
+
+	          and begat and begat and lo somebody
+
+	          sayeth some shit or another. Just
+
+	          how retarded are you?
+
+	                    FRANK 
+
+	          Stop it, Doyle!
+
+	                    DOYLE 
+
+	          You be quiet, Frank, we're talkin'.
+
+	          The adults are talkin'. Were you in
+
+	          the lockup for cuttin' somebody up
+
+	          with a hatchet?
+
+	                    KARL 
+
+	          I ain't never used no hatchet that
+
+	          I remember.
+
+	                    DOYLE 
+
+	          You're just crazy in a retarded
+
+	          kind of way then. 
+
+	              (pause)
+
+	          It wouldn't matter to me if you did
+
+	          do violence on somebody 'cause I
+
+	          ain't afraid of shit. You think I'm
+
+	          afraid for you to stay here. You're
+
+	          just a humped over retard it looks
+
+	          like to me. Not really, I'm just
+
+	          jokin' with you. Welcome to our
+
+	          humble home, buddy. Frank needs all
+
+	          the friends he can get. Frank's a
+
+	          real weak little kid. His daddy
+
+	          taught him how to be a pussy.
+
+	                    FRANK 
+
+	          Stop it, Doyle! Don't talk about
+
+	          daddy, you hear me!
+
+	                    DOYLE 
+
+	              (mocking)
+
+	          Don't talk about daddy. Y'all go on
+
+	          to the garage and let me be.
+
+	Frank is crying now.
+
+	                    FRANK
+
+	          Come on, Karl.
+
+	They get up and walk away.
+
+	                    DOYLE
+
+	              (yelling to Frank)
+
+	          Don't tell your mama we had a
+
+	          little spat. She don't need to be
+
+	          worried with your ass.
+
+	INT. GARAGE - NIGHT
+
+	Karl sits on an old sofa and Frank sits on an upside down
+
+	paint bucket, still upset.
+
+	                    FRANK
+
+	          I'd like to kill that son of a
+
+	          bitch. I hate him.
+
+	                    KARL
+
+	          You ort not to talk that way.
+
+	          You're just a boy.
+
+	                    FRANK
+
+	          Well, I hate him.
+
+	                    KARL
+
+	          He ort not to talk that away to you
+
+	          neither. He ain't no count. He's
+
+	          mean to you and your mama. 
+
+	              (pause)
+
+	          Yore mama and that feller that's
+
+	          carryin' me to get somethin'
+
+	          d'eat's gonna be back here
+
+	          directly.
+
+	                    FRANK
+
+	          Will you stay here with us for a
+
+	          long time?
+
+	                    KARL 
+
+	          I reckon if you want me to. 
+
+	              (pause)
+
+	          I got some of that potted meat and
+
+	          sodie crackers left over if you
+
+	          want some.
+
+	                    FRANK
+
+	          I don't see how you can eat that
+
+	          stuff with all those insides it's
+
+	          made out of.
+
+	                    KARL
+
+	          I reckon it tastes pretty good to
+
+	          me.
+
+	                    FRANK
+
+	          I like the way you talk.
+
+	                    KARL
+
+	          I like the way you talk.
+
+	Karl starts to put together a cracker and potted meat delight
+
+	as we:
+
+	                                        DISSOLVE TO:
+
+	INT. HAMBURGER ESTABLISHMENT - DAY
+
+	Vaughan is carrying a tray of food as Karl follows him to a
+
+	table and they sit and immediately start to eat. After a few
+
+	bites, Vaughan starts to speak in an official manner.
+
+	                    VAUGHAN 
+
+	          Okay, Karl, the reason I brought
+
+	          you here was to talk to you about
+
+	          something that is on my mind. 
+
+	              (pauses for a response,
+
+	               instead Karl eats french
+
+	               fries and stares at the
+
+	               table)
+
+	          I guess I'll put it right out on
+
+	          the table. Where do I start. Linda
+
+	          and Frank are very important to me.
+
+	          They're like family. My own family
+
+	          was never like family. They're
+
+	          horrible people. As a matter of
+
+	          fact I prayed every night for years
+
+	          that my father would die. I finally
+
+	          realized through a lot of therapy
+
+	          that I was wasting my energy on
+
+	          hating him. Now I just don't care. 
+
+	              (pause)
+
+	          You see, you and I are a lot alike,
+
+	          strange as that may seem. I mean
+
+	          not physically or even mentally
+
+	          really, just well, maybe
+
+	          emotionally or actually the hand
+
+	          we've been dealt in life. We're
+
+	          different. People see us as being
+
+	          different anyway. You're -- well
+
+	          you have your affliction or
+
+	          whatever and I, well mine's not as
+
+	          easy to see. I'm just going to say
+
+	          it. I'm gay. 
+
+	              (watts)
+
+	          Does that surprise you? 
+
+	              (watts)
+
+	          That I'm gay. You know what being
+
+	          gay is, don't you?
+
+	                    KARL 
+
+	          I reckon not.
+
+	                    VAUGHAN 
+
+	          Homosexual. I like men. Sexually.
+
+	                    KARL 
+
+	          Not funny, ha, ha, funny queer.
+
+	                    VAUGHAN 
+
+	          Well that's a very offensive way to
+
+	          put it. You shouldn't say that. You
+
+	          were taught that, weren't you?
+
+	                    KARL 
+
+	          I've heard it said that way.
+
+	                    VAUGHAN 
+
+	          Anyway, it's hard to live gay,
+
+	          that's the right way to say it, in
+
+	          a small town like this. I've wanted
+
+	          to leave many times, but my love
+
+	          for Linda and Frank and another
+
+	          certain person that we won't go
+
+	          into have kept me from it. Anyway,
+
+	          I'm rambling. If you're going to
+
+	          live in the Wheatly garage you need
+
+	          to know that it won't be easy.
+
+	          Doyle is a monster. Not just a
+
+	          closed minded redneck, but a
+
+	          monster. A dangerous person. I've
+
+	          told Linda that one day that man is
+
+	          going to really hurt her or that
+
+	          boy. Maybe even kill one of them. I
+
+	          see it in his eyes. I'm very in
+
+	          tune, maybe even psychic. Doyle
+
+	          will make your life hell. You're a
+
+	          perfect target. When I first saw
+
+	          you I was afraid of you. Not really
+
+	          afraid, I guess, just taken aback.
+
+	          But also, I felt a real sensitive
+
+	          feeling from you. And for some
+
+	          reason, Frank has adopted you. Much
+
+	          like a stray animal. I'm sorry, I
+
+	          didn't mean it like that. In a good
+
+	          way. Anyway, I just want you to
+
+	          know what you're in for. I have a
+
+	          good feeling about you. You're good
+
+	          for Frank. Maybe it's that he can
+
+	          have an adult friend on a child's
+
+	          level.
+
+	          I'm sorry, I didn't mean it in a
+
+	          bad way.
+
+	              (pause)
+
+	          There's one more thing. It's none
+
+	          of my business why you were in the
+
+	          state hospital. Everyone has
+
+	          something in their past, maybe you
+
+	          tried suicide, maybe you did
+
+	          something -- terrible. But what I
+
+	          see before me is a gentle, simple
+
+	          man. All I want you to promise me
+
+	          is that you're capable of being
+
+	          around Linda and Frank. You know.
+
+	          You would never hurt them under any
+
+	          circumstances, would you?
+
+	                    KARL 
+
+	          I wouldn't never hurt them.
+
+	                    VAUGHAN 
+
+	          That's what I thought. I hope I
+
+	          haven't offended you in any way.
+
+	          You seem like a thinker. You seem
+
+	          to always be in deep thought. Tell
+
+	          me something. What are you thinking
+
+	          right now?
+
+	Karl looks up and stares for a moment.
+
+	                    KARL 
+
+	          I was thinkin' I could use me
+
+	          another helpin' of these potaters.
+
+	                    VAUGHAN 
+
+	          Oh. How about before that?
+
+	                    KARL 
+
+	          Before that I was thinkin' it'd be
+
+	          good if I could get another three
+
+	          or four cans of that potted meat if
+
+	          you got any extry.
+
+	INT. WHEATLEY KITCHEN - NIGHT
+
+	Linda, Frank, and Doyle are eating.
+
+	                    LINDA
+
+	          How come Karl won't eat here with
+
+	          us?
+
+	                    FRANK
+
+	          I don't know. He just said he'd eat
+
+	          out there.
+
+	                    DOYLE
+
+	          Well, I wouldn't let it get to you.
+
+	                    LINDA
+
+	          I just feel sorry for the poor
+
+	          thing.
+
+	                    DOYLE
+
+	          Who could eat with him settin'
+
+	          there makin' that goddamn racket
+
+	          with his throat.
+
+	                    LINDA
+
+	          He does make some funny noises.
+
+	                    FRANK
+
+	          I sure like the way he talks. It
+
+	          sounds like a race car motor
+
+	          idlin'. It makes me not be nervous.
+
+	                    LINDA
+
+	          I'm glad of it, honey.
+
+	                    DOYLE 
+
+	          What have you got to be nervous
+
+	          about? You're a damn kid. You ain't
+
+	          got any bills to pay or bidness to
+
+	          run or old lady to stay on your ass
+
+	          all the time.
+
+	                    FRANK 
+
+	          I get nervous, that's all I know.
+
+	They eat in silence for a while. Linda and Frank know where
+
+	this conversation could lead and know when to leave well
+
+	enough alone.
+
+	                    DOYLE 
+
+	          You know what, by God?
+
+	                    LINDA 
+
+	          What?
+
+	                    DOYLE 
+
+	          You know what we ought to do
+
+	          tonight?
+
+	                    LINDA 
+
+	          Please Doyle, don't.
+
+	                    DOYLE 
+
+	          Have a damn party! Call Morris and
+
+	          them and get the band together and
+
+	          just party our asses off. I'd like
+
+	          to show that fuckin' Karl to the
+
+	          guys. They'd get a kick out of
+
+	          that. Don't you know they would.
+
+	                    LINDA 
+
+	          Please don't. Not tonight. I'm not
+
+	          up for it. They always stay till
+
+	          mornin'. I'm just give out, Doyle.
+
+	                    DOYLE 
+
+	          You don't have to do anything but
+
+	          pour some potato chips in a bowl
+
+	          and bring beers out when we get
+
+	          low.
+
+	                    FRANK 
+
+	          Last time you got mad and run
+
+	          Morris and them off and said to
+
+	          stay away from here.
+
+	                    DOYLE 
+
+	          That ain't none of your damn
+
+	          bidness. Besides that's the way
+
+	          friends do one another. Fuck it,
+
+	          I'm gonna go call 'em. Honey, find
+
+	          my guitar, I think it's out there
+
+	          in the garage with that loony tune.
+
+	INT. GARAGE - NIGHT
+
+	Karl sits on his cot eating from the plate Frank brought him.
+
+	Frank and Linda come through the door. Frank comes and sits
+
+	beside Karl. Linda gets a guitar case down from a shelf and
+
+	comes over and stands in front of Karl.
+
+	                    LINDA 
+
+	          Karl, now listen, there's gonna be
+
+	          a party tonight here at the house.
+
+	          Doyle's invited his music-playin'
+
+	          buddies over to make a bunch of
+
+	          racket out on the patio.
+
+	                    FRANK
+
+	          They ain't even no good. The only
+
+	          one can play is Randy
+
+	          Horsefeathers. He claims he's an
+
+	          Indian. His real name's Randy
+
+	          Collins and he works at the feed
+
+	          mill. He can at least play guitar.
+
+	                    LINDA
+
+	          He's no more an Indian than I am
+
+	          though. Anyhow, Doyle's gonna try
+
+	          and tease you and be mean to you to
+
+	          show off to his friends. Just like
+
+	          he does to Frank and me sometimes.
+
+	          You just ignore it. Or stay out
+
+	          here away from 'em if he'll let
+
+	          you. He's an okay guy till he gets
+
+	          drunk but tonight he'll get drunk.
+
+	          I guarantee it.
+
+	                    FRANK 
+
+	          He ain't ever okay to me.
+
+	The garage door opens and Doyle appears. He seems really
+
+	happy.
+
+	                    DOYLE 
+
+	          Well, it's on! We're gonna rock.
+
+	          Linda, call Vaughan. Tell him to
+
+	          get over here. I'd like him to be
+
+	          here. I owe him a good time.
+
+	                    LINDA 
+
+	          No Doyle. Vaughan don't want to
+
+	          come to a party with you.
+
+	                    DOYLE 
+
+	          Too late, Honey. Fooled you. Done
+
+	          called him. He'll be here. 
+
+	              (grins)
+
+	          Or I'll go get him. Come on Karl, I
+
+	          need you to help me ice down a tub
+
+	          of beer, you and Frank.
+
+	INT. BACKYARD - NIGHT
+
+	White Christmas tree lights are strung above the patio. Karl
+
+	sits to the side in a kitchen chair staring at the ground
+
+	alongside Vaughan, Frank, and Linda. The "band" is set up on
+
+	the patio. The band consists of MORRIS, a heavyset guy in a
+
+	military uniform on tambourine, TERENCE, a skinny guy in a
+
+	wheelchair on bass, RANDY, a long haired younger guy who's
+
+	not an Indian on guitar, Doyle on a guitar which he can't
+
+	play and MONTY "The Johnson " Johnson, a large guy with a ZZ
+
+	Top beard on drums. A tub of beer is in front of them.
+
+	They're all hooting and hollering and drinking. They've
+
+	obviously been at it for a while. Doyle steps forward to
+
+	address the 'crowd.'
+
+	                    DOYLE 
+
+	          Okay ladies and gentlemen 
+
+	              (points to Vaughan)
+
+	          or both. It's come to the time in
+
+	          our show when we like to introduce
+
+	          the band. Over here on lead guitar
+
+	          Mr. Randy Horsefeathers. Come on
+
+	          hit a hot lick, Randy. 
+
+	              (Randy plays a lick)
+
+	          Well, come on, y'all are supposed
+
+	          to clap now. Come on! 
+
+	              (they clap a little except
+
+	               for Karl)
+
+	ANGLE ON LINDA
+
+	                    LINDA 
+
+	          Karl, you better clap your hands or
+
+	          he'll just keep on.
+
+	Karl claps his hands a little.
+
+	                    DOYLE 
+
+	          On the bass, give it up for Terence
+
+	          "One Ball" Atkins. 
+
+	              (more half-assed clapping)
+
+	          On the tambourine and lyrics Morris
+
+	          Hobbs the fuckin' genius of the
+
+	          group. 
+
+	              (claps)
+
+	          On drums "The Johnson." 
+
+	              (claps)
+
+	          And last and most importantly,
+
+	          Doyle Hargraves on rhythm guitar
+
+	          and business affairs and the only
+
+	          motherfucker with a truck big
+
+	          enough to haul this outfit on the
+
+	          next world fuckin' tour. Come on, a
+
+	          big hand for these guys. They're
+
+	          workin' their asses off here. 
+
+	              (pauses for a slug of
+
+	               beer)
+
+	          Okay I'd like to dedicate this next
+
+	          one to some very special people in
+
+	          our audience tonight. To my lovely
+
+	          female companion Linda, her lovely
+
+	          son Frank, our new boarder Karl -
+
+	          what's your last name Karl?
+
+	                    KARL 
+
+	          Childers.
+
+	                    DOYLE 
+
+	          Karl Childers just in from the
+
+	          state facility. Make one of them
+
+	          gruntin' sounds Karl or whatever it
+
+	          is you do. 
+
+	              (nothing)
+
+	          Oh well, Karl's a little retarded,
+
+	          he don't know what the hell I'm
+
+	          talkin' about. And to Vaughan who
+
+	          fucks a mortician in the rear
+
+	          entrance right in front of his
+
+	          clients. Now that takes balls. Our
+
+	          number one tune for the folks,
+
+	          boys. Kick it off Johnson!
+
+	They play "Walk Don't Run" while the audience of four sits in
+
+	motionless silence. They finish the song and hoot and holler
+
+	and drink some more and say nasty things to each other.
+
+	                    DOYLE (CONT'D)
+
+	          You like that Vaughan?
+
+	                    VAUGHAN
+
+	          Sure. It sounded like a number one
+
+	          tune all right.
+
+	                    DOYLE 
+
+	          You enjoying yourself, Karl?
+
+	                    KARL 
+
+	          I reckon.
+
+	We hear the voice of an OLD MAN NEIGHBOR in the near
+
+	distance.
+
+	                    VOICE (O.S.) 
+
+	          I wished you all would lay off for
+
+	          tonight. I can't hear myself think
+
+	          for that racket. It's nighttime,
+
+	          now let folks be! I'll call the
+
+	          law!
+
+	                    DOYLE
+
+	              (hollers back)
+
+	          I told you already three times, the
+
+	          laws on my side. I play cards with
+
+	          J.D. Shelnutt, chief' of police.
+
+	          Get fucked you old bastard! 
+
+	              (to the party)
+
+	          Okay now, Linda, you and the kid
+
+	          clean up and get a tarpaulin over
+
+	          this instruments. Me and the boys
+
+	          are goin' to the county line.
+
+	          We're out of liquor and beer. Come
+
+	          on Karl, you and Vaughan are goin'
+
+	          with us.
+
+	                    VAUGHAN 
+
+	          I'd better go on home now, it's
+
+	          late. I have to work tomorrow.
+
+	                    DOYLE
+
+	          Come on, don't be a pussy.
+
+	          Everybody has to work.
+
+	                    LINDA 
+
+	          He don't want to Doyle. Don't go
+
+	          Vaughan if you don't want to.
+
+	          You'll wreck Doyle, you're drunk.
+
+	                    DOYLE
+
+	              (very sincere)
+
+	          But honey, I'll be good. I promise.
+
+	          I love you sweetie. I'm just tryin'
+
+	          to help these two be part of
+
+	          things.
+
+	INT. DOYLE'S TRUCK - NIGHT
+
+	Doyle is driving, Vaughan in the middle, and Karl by the
+
+	window. Doyle cranks up the truck and pops in a cassette
+
+	tape. The first few notes of "Ghost Riders in the Sky" play.
+
+	                    VAUGHAN 
+
+	          Are you sure you can drive? You've
+
+	          really had a lot of alcohol.
+
+	                    DOYLE 
+
+	          Shhhh! This is the national anthem.
+
+	They take off, tires screaming on the pavement as the song
+
+	goes louder.
+
+	EXT. STREET - NIGHT
+
+	The truck fishtails into the night and we see the rest of the
+
+	"band" in the back of the truck trying to control Terence's
+
+	wheelchair as it rolls back and forth.
+
+	INT. TRUCK - NIGHT
+
+	                    DOYLE
+
+	              (points to tape player)
+
+	          Not that you afflicted sons of
+
+	          bitches would know anything about
+
+	          it, but this is art.
+
+	They are stopped by a red traffic light. A police car pulls
+
+	up beside them and Doyle looks over at the RED-FACED COP on
+
+	the passenger side and turns down the music.
+
+	                    DOYLE (CONT'D)
+
+	          Hey Freddy, what's goin' on boy. I
+
+	          seen your pitcher in the paper for
+
+	          catchin' that big-ass bass.
+
+	                    FREDDY 
+
+	          Yeah She was a big 'un. You ain't
+
+	          drunk drivin' are you Doyle?
+
+	                    DOYLE 
+
+	          Yeah.
+
+	                    FREDDY 
+
+	          I figured that. Well you better be
+
+	          careful with that cripple in the
+
+	          back. You'll throw him out. Looks
+
+	          like you got a wagonful.
+
+	                    DOYLE 
+
+	          We run outta somethin' to drink.
+
+	          Goin' to the county line. You want
+
+	          to race?
+
+	                    FREDDY
+
+	              (laughing)
+
+	          You know better than that. We're on
+
+	          duty. Catch me in that Camaro next
+
+	          week one night.
+
+	                    DOYLE 
+
+	          Catch you later Freddy!
+
+	Doyle peels out and the music blares again.
+
+	                    DOYLE (CONT'D)
+
+	          I bet you like sittin' between two
+
+	          men in a dual wheel truck don't
+
+	          you?
+
+	                    VAUGHAN 
+
+	          Oh, yeah, I'm thrilled.
+
+	                    DOYLE 
+
+	          Sarcastic right? 
+
+	              (pause)
+
+	          You know the boys in the band are
+
+	          probably gonna stay over tonight.
+
+	          We'd be glad to have you.
+
+	INT. LIVING ROOM - NIGHT
+
+	Doyle slouches in his chair drinking whiskey from the bottle.
+
+	Terence and Morris are sitting facing Karl and Vaughan who
+
+	are on the sofa. Randy and The Johnson are sitting across the
+
+	room in straight-backed chairs drinking beer. They really
+
+	stocked up at the county line and beer and liquor bottles are
+
+	strewn everywhere. Morris is in the middle of a monologue,
+
+	which has obviously been going on for awhile.
+
+	                    MORRIS 
+
+	          Anyhow I'm not sure if you follow
+
+	          me on those particular points, but
+
+	          it's not really important in the
+
+	          smaller picture, which is where
+
+	          most people dwell anyway. Not that
+
+	          being manager of Ben's Dollar Store
+
+	          is insignificant. Or that making it
+
+	          through years of incarceration in a
+
+	          state supported facility is any
+
+	          small feat.
+
+	                    THE JOHNSON 
+
+	          Morris, he's the only one in the
+
+	          band that went to college.
+
+	                    RANDY
+
+	          I'm in junior college right now
+
+	          over in Westfield.
+
+	                    THE JOHNSON 
+
+	          That ain't no college, that's trade
+
+	          school. Auto repair ain't ever made
+
+	          a genius out of nobody.
+
+	                    MORRIS 
+
+	          Holidays are for campers.
+
+	                    RANDY 
+
+	          What do you know about bein' a
+
+	          genius, Johnson. You can't even
+
+	          hardly keep a steady beat on that
+
+	          high-price drum set.
+
+	                    TERENCE 
+
+	          I think y'all play really tight
+
+	          together, Randy. Y'all shouldn't
+
+	          throw off on one another.
+
+	                    MORRIS 
+
+	          Anything that has to be discussed
+
+	          can't mean anything.
+
+	                    DOYLE 
+
+	          You got that shit right.
+
+	                    VAUGHAN 
+
+	          What exactly do you mean by that? I
+
+	          don't understand.
+
+	                    MORRIS
+
+	          Exactly the point, my young
+
+	          levelheaded friend.
+
+	                    VAUGHAN 
+
+	          I don't get it.
+
+	                    MORRIS 
+
+	          I rest my case.
+
+	                    TERENCE 
+
+	          Morris is real smart with
+
+	          philosophies and things. That's why
+
+	          him and me are the songwriting team
+
+	          of our group. I make up good tunes
+
+	          or melodies as we call them and
+
+	          Morris is the lyrics.
+
+	                    MORRIS
+
+	          Not unlike Gary Brooker of the
+
+	          Protocol Harum.
+
+	                    RANDY 
+
+	          We don't ever play any songs that
+
+	          y'all wrote. I never even heard one
+
+	          of 'em. Y'all just talk.
+
+	                    THE JOHNSON 
+
+	          We don't even play any songs with
+
+	          words at all that I remember. We
+
+	          ain't got no fuckin' microphone. Or
+
+	          speaker set up.
+
+	                    TERENCE
+
+	          We wrote one last night standin'
+
+	          outside Mini-Mart. Morris called it
+
+	          "Stuart Drives a Comfortable Car."
+
+	          Then, you know, like on country
+
+	          songs in parenthesis it says "There
+
+	          is usually someone in the trunk." I
+
+	          came up with a tune just humming.
+
+	                    DOYLE
+
+	          See Vaughan, you shouldn't question
+
+	          a genius. Morris is a modern day
+
+	          poet like in the old days.
+
+	                    MORRIS 
+
+	          Our latest composition is as
+
+	          follows: entitled: 
+
+	          "The Thrill" --
+
+	          "I stand on the hill 
+
+	          Not for a thrill 
+
+	          but for a breath 
+
+	          of a fresh kill 
+
+	          Never mind the man 
+
+	          who contemplates 
+
+	          doing away with license plates 
+
+	          He stands alone anyway 
+
+	          Baking the cookies of discontent 
+
+	          By the heat of a laundrymat vent
+
+	          Leaving his soul" 
+
+	          (Then like in poetry I have dot dot
+
+	          dot then drop down to the next line
+
+	          kind of off center.)
+
+	          "Leaving his soul parting waters
+
+	          Under the medulla oblongata 
+
+	          of (then dot dot dot again)
+
+	          mankind."
+
+	Silence for a moment as everyone in the room just stares at
+
+	something other than Morris.
+
+	                    TERENCE 
+
+	          I don't think that's right. I
+
+	          believe dot dot dot come between
+
+	          medulla and oblongata or something
+
+	          like that. 
+
+	              (Morris stares at him)
+
+	          Well it did. It wadn't before
+
+	          mankind, I know that much.
+
+	                    MORRIS 
+
+	          The dots are where I say they are.
+
+	          Melody and tune. That's your trade.
+
+	          You're a tunesmith Terence.
+
+	                    VAUGHAN
+
+	          I don't really understand the
+
+	          meaning of the words.
+
+	                    DOYLE 
+
+	          If y'all don't shut up I'm gonna go
+
+	          out of my mind. And plus you're
+
+	          liable to bust a spring in Karl's
+
+	          head. He's already off balance.
+
+	                    TERENCE 
+
+	          That wadn't the way you made it up
+
+	          before, Morris. That's all I know.
+
+	                    RANDY 
+
+	          We don't need fancy words, we need
+
+	          to practice. We don't ever
+
+	          rehearse.
+
+	                    THE JOHNSON 
+
+	          We need some payin' gigs instead of
+
+	          just messin' around on first one
+
+	          patio and then another'n.
+
+	                    RANDY 
+
+	          Morris, you should just be the
+
+	          manager, you can't play nothin'
+
+	          anyway.
+
+	Doyle jumps up and throws his whiskey bottle through the
+
+	window. He has changed from groggy drunk to a wild-eyed
+
+	madman in a flash.
+
+	                    DOYLE 
+
+	          We don't have a goddamn band! Y'all
+
+	          just shut the fuck up! We don't
+
+	          need no practicin' or managers
+
+	          cause we ain't no fuckin' band!
+
+	          Morris ain't no genius and the rest
+
+	          of you are just losers. Am I the
+
+	          only one sane human bein' around
+
+	          here? Just get the hell out of my
+
+	          house and don't come back!
+
+	                    VAUGHAN 
+
+	          It's not your house, Doyle, it's
+
+	          Linda's.
+
+	                    DOYLE 
+
+	          I'll kill you, you fuckin' faggot!
+
+	          You mind your own business. Now get
+
+	          out! Now, before I get too mad to
+
+	          turn back.
+
+	                    TERENCE 
+
+	          What about our instruments?
+
+	Doyle grabs the handles of Terence's wheelchair and pushes
+
+	him right out the screen door. We hear the chair clatter down
+
+	the steps and a cry of pain from Terence.
+
+	                    DOYLE 
+
+	          Now!
+
+	They all file out the door except Vaughan and Karl who sit
+
+	frozen on the sofa.
+
+	                    THE JOHNSON
+
+	              (turning back)
+
+	          You ain't right Doyle. Somethin's
+
+	          wrong with you. Nobody needs your
+
+	          shit.
+
+	                    MORRIS
+
+	              (stops at the door)
+
+	          The dots just look good on paper.
+
+	          You don't sing 'em anyway. You're
+
+	          showing your true Aries colors now.
+
+	                    DOYLE 
+
+	          Get out of my goddamn face, you
+
+	          fuckin' buzzard!
+
+	He slams the door and turns to see Vaughan and Karl on the
+
+	sofa and Linda and Frank, in their nightclothes, standing in
+
+	the doorway.
+
+	                    DOYLE (CONT'D)
+
+	          I thought I told everybody to get
+
+	          out of my house. That includes
+
+	          cocksuckers and retards. Get off
+
+	          your asses and go.
+
+	                    LINDA 
+
+	          This is not your house, Doyle. This
+
+	          is my house and I'll say who stays
+
+	          and goes. You've got a house, why
+
+	          don't you go get one of your
+
+	          girlfriends and go home to it.
+
+	                    DOYLE 
+
+	          You know better than to talk like
+
+	          that when I'm hurtin'. Don't make
+
+	          me knock the piss out of you.
+
+	                    VAUGHAN 
+
+	          Doyle, don't you lay one hand on
+
+	          her.
+
+	                    DOYLE 
+
+	          That's funny. 
+
+	              (to Linda)
+
+	          You go to bed and take snot nose
+
+	          with you.
+
+	Linda walks up to him with Frank close behind. Vaughan gets
+
+	up also. Karl stares at the floor rubbing his hands together.
+
+	                    LINDA 
+
+	          You're not stayin' here tonight. Go
+
+	          get sober before you come back. I'm
+
+	          tired of my child seein' this. Now
+
+	          you get yourself straight or I'll
+
+	          lock your ass out of my life for
+
+	          good.
+
+	                    DOYLE 
+
+	          You know what I told you, you even
+
+	          think of leavin' me, I'll kill you
+
+	          dead as a doornail.
+
+	                    LINDA 
+
+	          That might be better than this.
+
+	                    VAUGHAN
+
+	          I'm a witness. I heard you threaten
+
+	          her life.
+
+	                    DOYLE
+
+	          I thought I told you to keep out!
+
+	                    LINDA
+
+	          Leave.
+
+	                    DOYLE
+
+	          Don't tell me what to do.
+
+	                    LINDA
+
+	          Leave.
+
+	                    DOYLE
+
+	          Don't tell me what to do.
+
+	                    LINDA
+
+	          Leave.
+
+	                    DOYLE
+
+	          Don't tell me what to do.
+
+	                    LINDA
+
+	          Leave.
+
+	                    DOYLE
+
+	              (an inch from her face)
+
+	          Don't tell me what to do.
+
+	She shoves him in the chest and he slaps her hard in the
+
+	face. Vaughan starts looking for a weapon and Frank goes
+
+	wild. He starts throwing anything he can find at Doyle. Empty
+
+	cans, bottles, a lampstand.
+
+	He connects with an encyclopedia to the head. Doyle goes to
+
+	the door. His face has changed from angry to sad, almost
+
+	pitiful.
+
+	                    DOYLE (CONT'D)
+
+	          Okay, I'll leave and sober up.
+
+	          Everything's botherin' me, that's
+
+	          all. I'm hurtin' Linda. I love you.
+
+	                    FRANK 
+
+	          I hate you!
+
+	                    DOYLE 
+
+	          Well, I hate you, too. No I don't.
+
+	          I love your mama. Nobody
+
+	          understands what I go through. I'll
+
+	          leave. You bunch of freaks have
+
+	          fun. I'll call you tomorrow honey.
+
+	          I'm sorry. You can kiss my ass,
+
+	          really. 
+
+	              (to Frank)
+
+	          You ever hit me again you little
+
+	          bastard and I'll make you sorry
+
+	          your daddy ever squirted your
+
+	          little ass out.
+
+	He leaves and slams the door. Frank goes to Linda's side, as
+
+	does Vaughan.
+
+	                    FRANK 
+
+	          You all right, Mama?
+
+	                    LINDA 
+
+	          I'm fine, honey. Let's just try and
+
+	          forget about tonight.
+
+	                    FRANK 
+
+	          We don't need to think bad
+
+	          thoughts, do we Mama?
+
+	                    LINDA 
+
+	          No, honey, we don't. 
+
+	              (pause)
+
+	          I'll make some coffee and start
+
+	          cleanin' up this mess. Karl, you
+
+	          want some coffee, huh?
+
+	                    KARL 
+
+	          No, ma'am. Coffee kindly makes me
+
+	          nervous when I drink it.
+
+	                                        DISSOLVE TO:
+
+	INT. LIVING ROOM - NIGHT
+
+	Linda cleaning up the last of the mess. Frank comes in sleepy
+
+	eyed in his pajamas.
+
+	                    LINDA 
+
+	          What are you doin' up again, Frank?
+
+	          You need to get a little sleep.
+
+	                    FRANK 
+
+	          Did Vaughan go home?
+
+	                    LINDA 
+
+	          Yeah, he has to go to work in a
+
+	          little while. I do too.
+
+	                    FRANK
+
+	          Did Karl go to bed?
+
+	                    LINDA
+
+	          I guess. He went to the garage.
+
+	          Poor thing, he's probably never
+
+	          seen such a crazy mess. He probably
+
+	          wants to go back and live in Mr.
+
+	          Cox's shop.  
+
+	                    FRANK
+
+	          I bet he don't. Karl likes me. 
+
+	                    LINDA
+
+	          I know he does.
+
+	                    FRANK
+
+	          Mama?
+
+	                    LINDA
+
+	          Huh?
+
+	                    FRANK
+
+	          Is everything gonna be all right
+
+	          someday? I just stay nervous all
+
+	          the time just about. 
+
+	                    LINDA
+
+	          Yeah, honey, someday everything's
+
+	          gonna be all right.
+
+	                    FRANK
+
+	          Doyle wouldn't really kill you,
+
+	          would he?
+
+	                    LINDA
+
+	          I promise we're gonna get away from
+
+	          him. The time has to be right,
+
+	          that's all. I'd rather him get
+
+	          tired of me and leave me. Then he
+
+	          wouldn't want to hurt me. He
+
+	          wouldn't care then. We'll be fine.
+
+	          I promise. You go to bed now. 
+
+	              (she hugs him)
+
+	          I love you.
+
+	                    FRANK 
+
+	          I love you, too, Mama.
+
+	He goes to his room.
+
+	INT. KITCHEN - NIGHT
+
+	Linda goes into the kitchen and pours a cup of coffee and
+
+	sits at the table. After a moment, she looks up and is
+
+	startled to see Karl in the doorway.
+
+	                    LINDA 
+
+	          You scared me.
+
+	                    KARL 
+
+	          I didn't aim to.
+
+	                    LINDA 
+
+	          Want to sit down? Did you need
+
+	          somethin'?
+
+	                    KARL 
+
+	          No ma'am.
+
+	Karl just keeps standing there and Linda keeps staring.
+
+	                    KARL (CONT'D)
+
+	          Two fellers was on a bridge a
+
+	          takin' a leak and one feller says
+
+	          the water was cold and the other
+
+	          said it was deep water. One of 'em
+
+	          came from Arkansas, I believe.
+
+	                    LINDA
+
+	              (puzzled)
+
+	          I'll be dog.
+
+	More silence.
+
+	                    KARL 
+
+	          Do you reckon you can make me some
+
+	          biscuits?
+
+	                    LINDA 
+
+	          Right now?
+
+	                    KARL 
+
+	          Just whenever you take a notion to.
+
+	          I don't aim to put you out.
+
+	                    LINDA 
+
+	          Well, it is nearly breakfast time
+
+	          anyway. I can't go to sleep. I have
+
+	          to be at work in three hours. You
+
+	          know how it is when you just sleep
+
+	          an hour or two, you feel worse than
+
+	          if you hadn't slept at all?
+
+	                    KARL 
+
+	          Yes ma'am.
+
+	                    LINDA 
+
+	          Well, set down and I'll make some
+
+	          biscuits and gravy.
+
+	                    KARL 
+
+	          Mustard's good on 'em to me.
+
+	                    LINDA 
+
+	          Okay.
+
+	Karl sets at the table and Linda starts to make the biscuits.
+
+	                    KARL 
+
+	          Thank ye.
+
+	                    LINDA 
+
+	          It's all right. 
+
+	              (pause)
+
+	          You know I was thinkin' there's
+
+	          this girl that works with me. She's
+
+	          real heavy, but she's cute in the
+
+	          face. Well, you know, she's slow.
+
+	          She's a little bit, I think. She's
+
+	          not retarded, just -- it don't
+
+	          matter, listen to me. I thought you
+
+	          might like to meet her. Vaughan
+
+	          wants to have a little supper over
+
+	          at his house and we could invite
+
+	          her. Would you like that?
+
+	                    KARL 
+
+	          I wouldn't mind a havin' supper.
+
+	                    LINDA 
+
+	          Vaughan's "friend" will be there,
+
+	          too. He works at the funeral home.
+
+	          And Frank. You know Frank likes you
+
+	          a lot. He says you make him feel
+
+	          calm.
+
+	                    KARL 
+
+	          I like Frank. He's a good boy. Me
+
+	          and him's made friends.
+
+	She keeps working.
+
+	                    KARL (CONT'D)
+
+	          Hit ain't right for me to keep from
+
+	          tellin' you how come me to be put
+
+	          in the state hospital.
+
+	                    LINDA 
+
+	          That's okay. It's not really my
+
+	          business. I have wondered though.
+
+	          Why was it? Was it like a nervous
+
+	          breakdown?
+
+	                    KARL 
+
+	          I killed my mother and a old boy
+
+	          name Jesse Dixon. I thought they
+
+	          was a-doin' wrong. I was about your
+
+	          boy's age. They say I'm well now
+
+	          from it.
+
+	Linda stops working and turns to Karl, a little shocked, but
+
+	not as much as you would think.
+
+	                    LINDA 
+
+	          Was that you? I remember that. I
+
+	          was only three or four, but I
+
+	          always heard about it growin' up. 
+
+	              (pause)
+
+	          They say you're well?
+
+	                    KARL 
+
+	          Yes ma'am. 
+
+	              (pause)
+
+	          I like your garage. 
+
+	              (pause)
+
+	          I wouldn't never hurt you or your
+
+	          boy. I'd lay my hand on the Bible
+
+	          and say the same thing.
+
+	                    LINDA 
+
+	          I believe you. I really do.
+
+	EXT. COVS PARKING LOT - DAY
+
+	Bill Cox is standing beside a garden tiller with an old man.
+
+	Bill is trying to crank it up, but it won't start. A car
+
+	pulls into the parking lot and Gerry Woolridge gets out of it
+
+	and comes over to Bill.
+
+	                    BILL 
+
+	          How 'bout you, Jerry.
+
+	                    WOOLRIDGE 
+
+	          How are you, Bill?
+
+	                    BILL 
+
+	          Doin' pretty good. Got a sick
+
+	          tiller here. What's got you down
+
+	          this way?
+
+	                    WOOLRIDGE 
+
+	          Just thought I'd check on Karl and
+
+	          see if everything's working out.
+
+	                    BILL 
+
+	          Well, he's pretty quiet. Except for
+
+	          them rackets and breathin' things
+
+	          he does. Ain't threatened me with a
+
+	          killin' or anything. 
+
+	              (laughs)
+
+	          But boy you couldn't of been more
+
+	          right about him fixin' things. That
+
+	          son of a bitch is a regular Eli
+
+	          Whitney on a lawnmower. Loves
+
+	          french fries. Eats four larges and
+
+	          don't even so much as belch. I'm
+
+	          proud to have him.
+
+	                    WOOLRIDGE 
+
+	          Is him stayin' here workin' out?
+
+	                    BILL 
+
+	          He's gone to stayin' over with that
+
+	          Wheatley boy and his mama in their
+
+	          garage. I think that little boy
+
+	          adopted him damn near like a
+
+	          mascot. But he's got a key here to
+
+	          come and go as he pleases.
+
+	          Everything's worked out good.
+
+	                    WOOLRIDGE 
+
+	          Can I see him?
+
+	                    BILL 
+
+	          Sure.
+
+	Bill looks over at Scooter, who is putting up a sale sign on
+
+	new mowers in the front window.
+
+	                    BILL (CONT'D)
+
+	          Scooter! Run get Karl for me.
+
+	EXT. PARKING LOT - DAY
+
+	Woolridge and Karl lean on the hood of Woolridge's car. In
+
+	the background, Bill and the old man tinker with the tiller.
+
+	                    WOOLRIDGE 
+
+	          Are you sure you're okay staying
+
+	          with that woman and boy?
+
+	                    KARL 
+
+	          Yes sir.
+
+	                    WOOLRIDGE 
+
+	          Do they know about you?
+
+	                    KARL 
+
+	          My history.
+
+	                    WOOLRIDGE 
+
+	          Yeah.
+
+	                    KARL 
+
+	          I told 'em about it. They know I'm
+
+	          well. That Mizz Wheatley made me
+
+	          some biscuits.
+
+	                    WOOLRIDGE 
+
+	          I'll be.
+
+	                    KARL 
+
+	          That boy, he's my friend. He likes
+
+	          the way I talk and I like the way
+
+	          he talks.
+
+	                    WOOLRIDGE 
+
+	          I knew you'd do all right. Well, I
+
+	          just wanted to check on you. I'll
+
+	          say bye to Bill and get on back.
+
+	They walk over to Bill.
+
+	                    BILL 
+
+	          Karl, see if you can figure out
+
+	          what's wrong with this thing. It
+
+	          won't crank up and ever'thing seems
+
+	          to be put together right.
+
+	Karl squats beside the tiller.
+
+	                    WOOLRIDGE 
+
+	          I'll see you, Bill.
+
+	                    BILL 
+
+	          Okay, stop back by. Don't worry
+
+	          about your boy here, he's doin'
+
+	          good.
+
+	Karl looks up from the tiller holding the gas cap.
+
+	                    KARL 
+
+	          Hit ain't got no gas in it.
+
+	                    BILL 
+
+	          See there. Thinks of the simplest
+
+	          thing first.
+
+	INT. VAUGHAN'S DINING ROOM - NIGHT
+
+	Vaughan, ALBERT the "friend," Linda, Frank, Karl, and
+
+	MELINDA, the Dollar-Store girl, are seated at the table. Karl
+
+	and Frank are going at the delicacies while Melinda shyly
+
+	picks at hers and the others are engaged in idle chit chat.
+
+	This goes on for a few moments, then Albert's attention turns
+
+	to Karl.
+
+	                    ALBERT 
+
+	          So Karl, do you intend to stay in
+
+	          the lawnmower business for a while
+
+	          or do you have other plans?
+
+	                    KARL 
+
+	          I reckon.
+
+	                    VAUGHAN 
+
+	          I think Karl is going to be a
+
+	          writer or a librarian eventually.
+
+	          You should see all the books he
+
+	          has. He must read constantly.
+
+	                    KARL 
+
+	          I ain't read 'em yet except two or
+
+	          three of 'em. I can't understand a
+
+	          lot of what I try to read. My mind,
+
+	          hit wonders off to somethin' else
+
+	          when I try to read.
+
+	                    ALBERT 
+
+	          I'm the same way. Of course, in my
+
+	          line of work, I stay too busy to
+
+	          read.
+
+	          But at least I have job security.
+
+	          People may stop doing a lot of
+
+	          things, but one thing is for sure,
+
+	          they won't stop dying.
+
+	                    LINDA
+
+	              (looks at Frank)
+
+	          Why don't we talk about something a
+
+	          little more festive.
+
+	                    VAUGHAN 
+
+	          Does everyone like the food?
+
+	Nods and yeses.
+
+	                    VAUGHAN (CONT'D)
+
+	          Good. I haven't decided yet if I'm
+
+	          a good cook.
+
+	                    LINDA 
+
+	          Hey Karl, you know what? Melinda
+
+	          was voted employee of the month at
+
+	          the Dollar Store last February.
+
+	          Isn't that somethin'?
+
+	                    KARL 
+
+	          Yes ma'am, I reckon.
+
+	                    MELINDA 
+
+	          Well, when you like pricing items
+
+	          as much as I do, I guess it's just
+
+	          bound to happen sooner or later.
+
+	                    VAUGHAN 
+
+	          Karl, maybe you and Melinda might
+
+	          want to take a walk or something
+
+	          after dinner. It's a nice night.
+
+	                    LINDA 
+
+	          Vaughan, don't get pushy.
+
+	                    VAUGHAN 
+
+	          I'm sorry.
+
+	                    KARL
+
+	          I like walkin' quite a bit from
+
+	          time to time.
+
+	                    MELINDA 
+
+	          I stay on my feet all the time at
+
+	          work. I just can't find shoes
+
+	          that's comfortable.
+
+	                    ALBERT 
+
+	          Hospital shoes might be the answer.
+
+	          Nurses' shoes.
+
+	                    VAUGHAN 
+
+	          Or the kind old ladies who work in
+
+	          the school cafeteria wear.
+
+	                    ALBERT 
+
+	          Same difference.
+
+	                    MELINDA 
+
+	          I get real mean when my feet hurt.
+
+	          It's the only time I don't like
+
+	          checkin' out the customers, when my
+
+	          feet hurt.
+
+	                    LINDA 
+
+	          Frank, you and Karl aren't talkin'
+
+	          much, you boys must really like
+
+	          that food.
+
+	                    FRANK
+
+	          I just don't have anything to say
+
+	          about shoes.
+
+	Silence for a moment.
+
+	                    VAUGHAN 
+
+	          Listen everybody, I know this may
+
+	          sound corny, I've had a few glasses
+
+	          of wine and that kind of makes me a
+
+	          little emotional, but I'm going to
+
+	          say it anyway. It just came over me
+
+	          in a rush. I want you all to know
+
+	          that I care about each and every
+
+	          one of you at this table.
+
+	                    LINDA 
+
+	          That's very sweet of you Vaughan.
+
+	          We care about you, too. Don't we
+
+	          y'all?
+
+	Nods, grunts, "Sure do's."
+
+	                    VAUGHAN 
+
+	          Also, Melinda, please don't tell
+
+	          anybody at the store that Albert
+
+	          was here tonight, okay.
+
+	                    MELINDA 
+
+	          Why?
+
+	                    VAUGHAN 
+
+	          Well, a lot of people in town talk
+
+	          and spread cruel rumors.
+
+	          Unfortunately, I have to keep
+
+	          certain parts of my life private.
+
+	                    MELINDA
+
+	          You mean about y'all bein' together
+
+	          in "that" way?
+
+	                    VAUGHAN 
+
+	          Yes.
+
+	                    MELINDA 
+
+	          I think everybody at the store
+
+	          knows that already. They always
+
+	          talk about it. Maureen Ledbetter
+
+	          told a awful story about why you
+
+	          ain't allowed over at the First
+
+	          Baptist Church no more.
+
+	                    LINDA 
+
+	          Karl, why don't you and Melinda go
+
+	          take a walk. It's nice out.
+
+	                    KARL 
+
+	          All right then.
+
+	He gets up and walks toward the front door. Melinda gets up
+
+	and tries to catch up.
+
+	EXT. SIDEWALK - NIGHT
+
+	Karl and Melinda are walking in the moonlight. It seems a
+
+	little hard for Melinda to keep up.
+
+	                    MELINDA 
+
+	          You walk fast, don't you?
+
+	                    KARL 
+
+	          I reckon.
+
+	They walk a little farther in silence.
+
+	                    MELINDA 
+
+	          These is the worst shoes I own for
+
+	          walkin'. How far did you want to
+
+	          go?
+
+	                    KARL 
+
+	          I ain't really thought about it too
+
+	          much I don't reckon.
+
+	They walk until they disappear into the darkness.
+
+	INT. COX'S SHOP - DAY
+
+	Karl is on the floor working on a mower with Scooter, they
+
+	are ad libbing semi-technical lawnmower things. Bill Cox
+
+	appears in the door.
+
+	                    BILL 
+
+	          Hey Karl, they's somebody out here
+
+	          to see you. Some gal holding a nice
+
+	          bouquet. 
+
+	              (Karl doesn't move)
+
+	          Come on now, she wants to talk to
+
+	          you. Don't just set there.
+
+	Karl gets up and goes to the counter followed by Scooter.
+
+	Melinda stands on the other side of the counter holding a
+
+	cellophane wrapped store-bought flower assortment. Nobody
+
+	says anything for a moment.
+
+	                    MELINDA 
+
+	          Hi, Karl, I'm on lunch break. These
+
+	          was on sale 'cause they're not
+
+	          fresh. Two ninety-nine a bunch plus
+
+	          my ten percent employee discount.
+
+	          Since I didn't bring you anything
+
+	          to our date last night, I thought
+
+	          you'd like to have 'em.
+
+	She hands them to him.
+
+	                    KARL 
+
+	          Thank ye.
+
+	                    BILL 
+
+	          Scooter, let's me and you go over
+
+	          to Dairy Queen and pick up a few
+
+	          things for lunchtime.
+
+	                    SCOOTER
+
+	          I can go. You don't have to. You
+
+	          don't never go.
+
+	                    BILL 
+
+	          Goddamnit, Scooter, come on. Pardon
+
+	          my language, ma'am.
+
+	They start to leave. At the door, Bill Cox turns and winks at
+
+	Karl. They exit leaving Karl and Melinda staring at the
+
+	counter. They are silent for a while.
+
+	                    MELINDA 
+
+	          Well, I just thought I'd give you
+
+	          them. I liked walkin' with you. I
+
+	          got a blister the size of a quarter
+
+	          on one heel. Well, I'll see you
+
+	          sometime, I guess.
+
+	She walks to the door and stops as if she expects Karl to say
+
+	something.
+
+	                    KARL 
+
+	          A blister shore can hurt.
+
+	                    MELINDA 
+
+	          Yeah.
+
+	                    KARL
+
+	          Flowers is pretty. I've always
+
+	          thought that.
+
+	                    MELINDA 
+
+	          Me, too.
+
+	She leaves and Karl goes to the window holding the flowers
+
+	and watches her walk away.
+
+	EXT. SIDEWALK - DUSK
+
+	Holding the flowers, Karl is walking down the sidewalk toward
+
+	the Wheatley house when he sees Frank coming out the front
+
+	door with a book and a flashlight. He sees Karl.
+
+	                    FRANK
+
+	          Hey Karl, you off work?
+
+	                    KARL
+
+	          Yeah.
+
+	                    FRANK
+
+	          Where'd you get them flowers?
+
+	                    KARL
+
+	          That gal that made employee of the
+
+	          month give 'em to me for awalkin'
+
+	          with her.
+
+	                    FRANK
+
+	          I was goin' to the secret place. I
+
+	          borried one of your books to take
+
+	          down there. You ain't mad, are you?
+
+	                    KARL
+
+	          Naw. You can look at all my books
+
+	          you want to.
+
+	                    FRANK
+
+	          It's name's A Christmas Carol.
+
+	                    KARL
+
+	          That's than un on Christmas I was
+
+	          tellin' you about.
+
+	                    FRANK
+
+	          You want to go with me?
+
+	                    KARL
+
+	          Yeah.
+
+	EXT. SECRET PLACE - NIGHT
+
+	Karl and Frank sit in the clearing, Karl on the stump, Frank
+
+	on the ground. Frank is shining the flashlight on the book.
+
+	He finishes reading a few lines and turns off the flashlight.
+
+	                    FRANK
+
+	          I'm gettin' tired of readin' for a
+
+	          while.
+
+	                    KARL
+
+	          All right then.
+
+	                    FRANK
+
+	          Boy, folks sure had it rough back a
+
+	          long time ago, didn't they?
+
+	                    KARL
+
+	          Yeah, I reckon they did. Hit like
+
+	          to tore me up when I read about
+
+	          that pore little cripple boy.
+
+	                    FRANK
+
+	          Yeah, me too. 
+
+	              (pause)
+
+	          That was nice of that woman to give
+
+	          you them flowers.
+
+	                    KARL
+
+	          Hit was right thoughty of her.
+
+	                    FRANK
+
+	          I was wantin' to ask you somethin'.
+
+	                    KARL 
+
+	          All right then.
+
+	                    FRANK
+
+	          You know that girl I told you
+
+	          about. The one I love.
+
+	                    KARL
+
+	          Yeah, I recollect it.
+
+	                    FRANK
+
+	          Would you go see her with me? I
+
+	          kind of thought I might take her
+
+	          some flowers like that woman done
+
+	          you.
+
+	                    KARL
+
+	          If you want me to.
+
+	                    FRANK 
+
+	          I ain't got no money to get 'em
+
+	          with but I bet Vaughan will let me
+
+	          have some of them flowers at the
+
+	          store.
+
+	                    KARL 
+
+	          I bet he will. I got a little money
+
+	          if he don't. I'll get 'em for ye.
+
+	                    FRANK 
+
+	          I usually get run off by her mama
+
+	          or daddy if they're home. Reckon
+
+	          why they don't like me?
+
+	                    KARL 
+
+	          They ort to. You're a good boy.
+
+	                    FRANK 
+
+	          Just 'cause I'm not rich don't mean
+
+	          I don't love her.
+
+	                    KARL 
+
+	          Naw.
+
+	                    FRANK 
+
+	          And I don't try to touch her. You
+
+	          know, in a bad way. Foolin' around,
+
+	          sex and all.
+
+	                    KARL 
+
+	          That's real good. You ort not to if
+
+	          ye ain't married to somebody. Bible
+
+	          tells you that much. Hit tells some
+
+	          things that don't seem right too, I
+
+	          reckon. I guess a feller ort to
+
+	          foller it close as he can, though. 
+
+	              (pause)
+
+	          You don't touch yourself, do you?
+
+	                    FRANK 
+
+	          What do you mean?
+
+	                    KARL
+
+	          Pull on your works. Your privates.
+
+	                    FRANK 
+
+	          Oh, jackin' off?
+
+	                    KARL 
+
+	          Yes sir. You ort not know that
+
+	          language.
+
+	                    FRANK 
+
+	          I didn't know till here while back
+
+	          a year or two ago when I spent the
+
+	          night with Ronnie Smart one time.
+
+	          He said just tug on your peter and
+
+	          think about your mama. I tried it,
+
+	          but I felt funny thinkin' about my
+
+	          mama. So, I switched over to
+
+	          thinkin' about his mama and then
+
+	          what he told me would happen,
+
+	          happened. It sure tingles, don't
+
+	          it?
+
+	                    KARL 
+
+	          You ort not to pull on yourself
+
+	          that away.
+
+	                    FRANK 
+
+	          I kind of like you tellin' me what
+
+	          to do and not to do. Just like my
+
+	          daddy. I didn't mind him tellin'
+
+	          me. I hate Doyle to tell me what to
+
+	          do. Mama said the only way to ever
+
+	          get away from him is for him to get
+
+	          away from us. That we can't leave
+
+	          him or he'll try and hurt her.
+
+	                    KARL 
+
+	          He ain't no count.
+
+	                    FRANK 
+
+	          You don't seem like a daddy. You
+
+	          seem like a brother. 
+
+	              (pause)
+
+	          Wonder what makes you like somebody
+
+	          right off when you don't even know
+
+	          'em like what happened with me and
+
+	          you.
+
+	                    KARL 
+
+	          I don't reckon I know.
+
+	                    FRANK 
+
+	          And then some people you don't like
+
+	          right off. It's funny. 
+
+	              (pause)
+
+	          You know why I want you to play
+
+	          ball with me?
+
+	                    KARL 
+
+	          Naw.
+
+	                    FRANK 
+
+	          'Cause it's fun. It don't matter if
+
+	          you ain't no good. It takes your
+
+	          mind off of everything else while
+
+	          you're doin' it. When you run real
+
+	          fast tryin' to make a touchdown you
+
+	          don't think about anything else. I
+
+	          ain't no good, but my daddy always
+
+	          said he was proud of me when I
+
+	          threw a ball or ran with it. Did
+
+	          you have any brothers and sisters
+
+	          growin' up to play with?
+
+	                    KARL
+
+	          I had one there for little bit. Hit
+
+	          didn't get old enough to play with.
+
+	                    FRANK
+
+	          Why not? It died?
+
+	                    KARL
+
+	          Yeah.
+
+	                    FRANK
+
+	          Why?
+
+	                    KARL
+
+	          Hit was borned a little too early
+
+	          on. My mother and father made hit
+
+	          come too early some way or other. I
+
+	          reckon they changed their mind
+
+	          about havin' another'n. I was about
+
+	          six or eight year old then and they
+
+	          didn't care too much for me so I
+
+	          reckon they didn't need somethin'
+
+	          else to worry 'em with.
+
+	                    FRANK
+
+	          So it died when it come out?
+
+	                    KARL
+
+	          My daddy come to the shed out back
+
+	          and got me and said throw this here
+
+	          away and handed me a towel with
+
+	          somethin' in it. I went for the
+
+	          trash barrel there and opened up
+
+	          the towel to see 'cause they was a
+
+	          noise and somethin' movin' in it.
+
+	          Hit was bloody-like around that
+
+	          towel. Hit was a little ol' bitty
+
+	          baby, no bigger than a squirrel.
+
+	                    FRANK 
+
+	          It was alive?
+
+	                    KARL 
+
+	          Yes sir. Right then it was.
+
+	                    FRANK 
+
+	          A boy or girl?
+
+	                    KARL 
+
+	          A little ol' boy.
+
+	                    FRANK 
+
+	          You threw it in a trash barrel?
+
+	                    KARL 
+
+	          I didn't feel right about doin'
+
+	          that. I takened a shoe box from
+
+	          there in the shed and emptied out
+
+	          some screwdrivers and nuts and
+
+	          warshers from it and put the little
+
+	          feller in that and buried him in
+
+	          the corner of the yard there. That
+
+	          seemed more proper to me, I reckon.
+
+	                    FRANK 
+
+	          It was still alive when you buried
+
+	          it?
+
+	                    KARL 
+
+	          I heared it cryin' a little through
+
+	          that box.
+
+	                    FRANK 
+
+	          That don't seem right. It seems
+
+	          like you should have kept him alive
+
+	          and took care of him if he was your
+
+	          brother.
+
+	                    KARL 
+
+	          I wadn't but six or eight. I reckon
+
+	          I didn't know what to do. I didn't
+
+	          know how to care for no baby. Mama
+
+	          and Daddy didn't want him. They
+
+	          learned me to do what they told me
+
+	          to. These days I figure it might of
+
+	          been best to give him right back to
+
+	          the Good Lord right off the bat
+
+	          anyhow.
+
+	                    FRANK 
+
+	          That makes me feel real sad.
+
+	          Couldn't you have done somethin',
+
+	          Karl? I would have. I wish I would
+
+	          of had him. He'd be here right now.
+
+	          Livin'.
+
+	                    KARL 
+
+	          Hits been hard thinkin' about it.
+
+	          They ain't a day goes by I don't
+
+	          think about it. I kindly have a
+
+	          picture of it up in my head that I
+
+	          see. Hit makes me sad, too. I have
+
+	          bad thoughts on it. I wished they
+
+	          was somethin' I could of did, too.
+
+	          Shouldn't no bad things happen to
+
+	          childern. All the ol' bad things
+
+	          ort to be saved up for folks that's
+
+	          growed up, the way I see it. I
+
+	          shouldn't of told you about that. A
+
+	          boy ort not hear about such things.
+
+	          It just kindly come out.
+
+	                    FRANK 
+
+	          I didn't mean to say anything bad
+
+	          about you. I know you're good. You
+
+	          didn't mean no harm. 
+
+	              (pause)
+
+	          Did you ever think about killin'
+
+	          yourself on purpose like my daddy
+
+	          did?
+
+	                    KARL 
+
+	          I've studied about it. The Bible
+
+	          says not to or you end up goin' to
+
+	          Hades. Some folks calls it Hell, I
+
+	          call it Hades.
+
+	                    FRANK 
+
+	          Bible says the same thing about
+
+	          killin' others, too.
+
+	                    KARL 
+
+	          Yes sir, I reckon it does.
+
+	EXT. RESIDENTIAL NEIGHBORHOOD - DAY
+
+	Frank, flowers in hand, and Karl approach a very nice two
+
+	story house. They get to the door and Frank rings the
+
+	doorbell.
+
+	                    FRANK 
+
+	          I always get nervous when I hear
+
+	          that doorbell. I'm okay just
+
+	          walkin' over, but somethin' about
+
+	          that dang doorbell. They have one
+
+	          room where you can't walk on the
+
+	          carpet or sit on the furniture. I
+
+	          don't see much sense in havin' it.
+
+	The door opens and we see an older black lady, the
+
+	HOUSEKEEPER.
+
+	                    HOUSEKEEPER
+
+	              (eyes Karl)
+
+	          Son, I don't know why you keep
+
+	          comin' over here. You know these
+
+	          folks don't want you here. They run
+
+	          you off ever' time. Don't keep
+
+	          doin' this to yourself. You a sweet
+
+	          boy. Now go give them flowers to
+
+	          somebody that'll enjoy 'em.
+
+	                    FRANK
+
+	          Ma'am, I really want to give them
+
+	          to Karen.
+
+	                    HOUSEKEEPER
+
+	              (to Karl)
+
+	          You his daddy?
+
+	                    KARL 
+
+	          No ma'am.
+
+	                    HOUSEKEEPER 
+
+	          Well, whoever you are, you ought to
+
+	          talk some sense into him. That
+
+	          little old girl is way too fast for
+
+	          him and don't wanna see him no way.
+
+	                    FRANK 
+
+	          Will you get her for me. Please. I
+
+	          really want to see her.
+
+	          She'll want to see me, too, 'cause
+
+	          we're not in public. Just don't
+
+	          tell her folks I'm here.
+
+	                    HOUSEKEEPER
+
+	              (sighs)
+
+	          Okay.
+
+	She disappears and a moment later KAREN appears. She's
+
+	thirteen, pretty and very neatly dressed.
+
+	                    KAREN
+
+	              (put out)
+
+	          Hey Frank. You shouldn't be coming
+
+	          over here. My parents really don't
+
+	          want you to.
+
+	                    FRANK 
+
+	          I wanted to bring you some flowers.
+
+	          They're pretty good ones.
+
+	                    KAREN 
+
+	          They're from the Dollar Store. I'm
+
+	          not an idiot. Besides we have a
+
+	          garden full of flowers.
+
+	She eyes Karl.
+
+	                    FRANK 
+
+	          I wanted for you to meet Karl, too.
+
+	          He's my new friend. But I feel like
+
+	          I've always known him. I thought
+
+	          you should meet him.
+
+	                    KAREN 
+
+	          Why? Hi, Karl.
+
+	                    FRANK 
+
+	          He's gonna be around a lot and I
+
+	          hope you are too, so...
+
+	                    KAREN 
+
+	          Here give me the flowers, I'll do
+
+	          something with them. Thank you. Now
+
+	          you better go. Maybe I'll see you
+
+	          down at the secret place one day in
+
+	          a week or two or something. I have
+
+	          a boyfriend now you know. And we're
+
+	          pretty serious. He gave me a ring.
+
+	She proudly displays the ring.
+
+	                    FRANK 
+
+	          Can you go there with us now? Me
+
+	          and Karl. We could just hang out.
+
+	          Karl has some cool books.
+
+	                    KAREN 
+
+	          Frank, I just like you as a friend.
+
+	          Only at the secret place. Okay? I
+
+	          can't go there now. I'll see you
+
+	          later.
+
+	                    FRANK
+
+	          But maybe just for awhile -- 
+
+	                    KAREN 
+
+	          I'm closing the door now. I told
+
+	          you, I'll see you later.
+
+	She closes the door. They stand therefor a moment, then walk
+
+	away down the sidewalk.
+
+	                    FRANK 
+
+	          She said she'd see me later. That's
+
+	          kinda good, right?
+
+	                    KARL 
+
+	          I reckon.
+
+	EXT. WHEATLEY HOUSE - DAY
+
+	Frank and Karl walk up the steps to the house. Frank opens
+
+	the door and they enter.
+
+	INT. HOUSE - DAY
+
+	As Frank and Karl enter, they see Doyle sitting on a
+
+	footstool facing Linda who's in a chair. Doyle is holding
+
+	both her hands and talking very softly to her. He sees the
+
+	guys and looks up.
+
+	                    DOYLE 
+
+	          Well, I'll be damned, there's the
+
+	          boys. I'm glad y'all came in. I
+
+	          wanted to talk to y'all, too. I was
+
+	          just tellin' Linda here -- Oh hell,
+
+	          I'll just start over, set down you
+
+	          boys.
+
+	They do, on the couch.
+
+	                    DOYLE (CONT'D)
+
+	          Well, what it is is, I just, well I
+
+	          took off work early today and your
+
+	          mama was good enough to do the same
+
+	          so we could talk. I guess you'd say
+
+	          I'm really here to apologize, which
+
+	          ain't easy for me to do, about the
+
+	          way I acted the other night. I was
+
+	          just drunk and kinda got a little
+
+	          too worked up and one thing led to
+
+	          another. I care about y'all a lot,
+
+	          I do. I don't mean to be so damned,
+
+	          assholish I guess the word would
+
+	          be. Now Karl, I don't believe I hit
+
+	          you, did I? So no apology needed
+
+	          there I guess, but Frank, I'm
+
+	          sorry. I'm sorry I hit your mama.
+
+	          I'm just jealous of her. I don't
+
+	          like her life or the way she runs
+
+	          it. I don't like homosexuals and
+
+	          she buddies with one. I don't like
+
+	          little wimpy ass kids or fuckin'
+
+	          mental retards and she's got one of
+
+	          each livin' with her. 
+
+	              (laughs)
+
+	          I was just kiddin'. But really I
+
+	          guess people need to get along even
+
+	          if they have differences. 
+
+	              (pause)
+
+	          You see, I work construction. I
+
+	          build things. Do you realize how
+
+	          important that is to the world. I
+
+	          have a lot of pressure on me. The
+
+	          upshot is, I'm gonna spend a lot
+
+	          more time over here and we're gonna
+
+	          get along. Like a family should. 
+
+	              (to Linda)
+
+	          I may even surprise you one day and
+
+	          pop the question. 
+
+	              (he gets up)
+
+	          Well, I'm goin' back to work. I
+
+	          just wanted to give y'all some
+
+	          little piece of happiness today. 
+
+	              (kisses Linda)
+
+	          See you tonight honey. Karl. Be a
+
+	          good boy, Frank.
+
+	He leaves.
+
+	                    LINDA
+
+	          Well, at least he's tryin'. But who
+
+	          knows for how long.
+
+	                    FRANK 
+
+	          He's lyin' Mama. He ain't gonna do
+
+	          better.
+
+	                    LINDA 
+
+	          I know honey. Just remember what I
+
+	          said, we'll bide our time. You just
+
+	          steer clear of him as much as you
+
+	          can. Doyle's had a real hard life.
+
+	          It's just about run him crazy I
+
+	          think.
+
+	                    FRANK 
+
+	          We've had a real hard life, too,
+
+	          Mama.
+
+	Linda moves to the couch and puts her arms around Frank.
+
+	                    LINDA 
+
+	          You're a hell of a boy, Frank.
+
+	          Someday you're gonna get all the
+
+	          good things you deserve. And Karl
+
+	          here's gonna get some more biscuits
+
+	          tonight. What do you think about
+
+	          that?
+
+	                    KARL 
+
+	          I could shore use some. Thank ye.
+
+	INT. SHOP - DAY
+
+	Karl is cleaning some parts in a bucket of gasoline. Bill
+
+	comes to the door.
+
+	                    BILL 
+
+	          Hey there Karl, can you come unload
+
+	          a generator for me?
+
+	Karl wipes his hands on a shop towel and starts outside.
+
+	EXT. PARKING LOT - DAY
+
+	A MAN and a TEENAGE BOY stand by a pickup truck. A small
+
+	generator is on the tailgate.
+
+	                    BILL 
+
+	          Karl, lift this thing down and
+
+	          carry it to the back. It's on the
+
+	          blink. 
+
+	              (to man as Karl unloads
+
+	               it)
+
+	          We'll have it for you in a day or
+
+	          two, Walter.
+
+	                    WALTER 
+
+	          Y'ont us to he'p you there liftin'
+
+	          that?
+
+	                    BILL 
+
+	          Oh no, that dang Karl can lift a
+
+	          bulldozier. Fix anything, too. 
+
+	              (confidentially)
+
+	          He's mentally retarded, but he's a
+
+	          whiz on small engines. Lord works
+
+	          in mysterious ways.
+
+	Karl carries the generator toward the shop. He turns and
+
+	watches the man and boy talking and laughing with Bill. The
+
+	man playfully puts an arm around his son's neck and tousles
+
+	his hair.
+
+	                    WALTER 
+
+	          Hell, he didn't just make the team,
+
+	          Coach says he's probably gonna
+
+	          start at end on defense. He's a
+
+	          chip off the old block. Ain't you,
+
+	          Steve?
+
+	                    STEVE 
+
+	          I guess so.
+
+	Karl turns and goes in the shop.
+
+	INT. WHEATLEY GARAGE - DAY
+
+	Karl is on his cot reading a book. Frank comes in. He looks
+
+	very depressed. He sits beside Karl.
+
+	                    FRANK 
+
+	          What you readin'?
+
+	                    KARL 
+
+	          Readin' on this book on how to work
+
+	          carpentry. I aim to learn how to
+
+	          build things out of wood one of
+
+	          these times. I've always been
+
+	          partial to wood buildin's and
+
+	          cabinets and whatnot. These
+
+	          drawin's they got here don't make
+
+	          no sense to me so far. 
+
+	              (he looks directly at
+
+	               Frank, which he seldom
+
+	               does)
+
+	          You seem like yore tails a'draggin'
+
+	          a might. You got somethin' wrong
+
+	          with ye?
+
+	                    FRANK 
+
+	          Seems like Doyle's wormed his way
+
+	          back in. Mama said he's stayin'
+
+	          over tonight and he's talkin' about
+
+	          movin' in for good. We ain't ever
+
+	          gonna be happy. We'll always be
+
+	          nervous, won't we Karl?
+
+	                    KARL 
+
+	          I don't reckon I know. I ain't
+
+	          found no way yet and I'm three or
+
+	          four times as old as you. Might be
+
+	          that's just the way folks is.
+
+	                    FRANK 
+
+	          I feel sad about Karen Cross, too.
+
+	          I just make like to myself she
+
+	          loves me. I know better, though. It
+
+	          just feels good to me when I
+
+	          imagine it.
+
+	                    KARL 
+
+	          Make believin' always made me feel
+
+	          good too from time to time.
+
+	They sit in silence for a moment.
+
+	                    KARL (CONT'D)
+
+	          Bill Cox is goin' to a funeral for
+
+	          a Mister Turner tomorrow and a
+
+	          closin' up shop early.
+
+	                    FRANK 
+
+	          Is that right?
+
+	                    KARL 
+
+	          I'll play ball with ye. I reckon if
+
+	          neither one of us is no count it
+
+	          won't make no difference.
+
+	                    FRANK 
+
+	          You will? For sure?
+
+	                    KARL 
+
+	          Yeah.
+
+	                    FRANK 
+
+	          We'll be on teams, me and you?
+
+	                    KARL 
+
+	          Yessir.
+
+	EXT. JUNIOR HIGH FOOTBALL FIELD - DAY
+
+	It's the practice field, so it's not very well kept. Karl,
+
+	Frank, and two other boys around Frank's age are huddled up.
+
+	Four boys are lined on defense. They break the huddle and
+
+	come to the line. They are on about the fifty-yard line.
+
+	Frank hikes the ball to one of the boys. He later als it to
+
+	Karl who stands there for a minute as the defenders run
+
+	toward him. Then he takes off like the wind. He runs funny,
+
+	kind of humped over and pigeon-toed, but fast. All the others
+
+	are chasing him. Two of the other team's boys catch him on
+
+	about the fifteen-yard line, but he drags them along. Karl
+
+	sees Frank out of the corner of his eye and tosses him the
+
+	ball just as Karl bites the dirt. Frank goes into the end
+
+	zone untouched. There are cheers from Frank and the other
+
+	boys. Frank runs over to Karl who's still on the ground.
+
+	                    FRANK 
+
+	          Way to go, Karl. We got a
+
+	          touchdown. That was a good lateral,
+
+	          man. That was just like the
+
+	          Wishbone.
+
+	                    KARL 
+
+	          I dern near had me a touchdown till
+
+	          them boys got a-hold of me there so
+
+	          I figured I better give it off to
+
+	          you. I seen you over there
+
+	          follerin' me.
+
+	                    FRANK 
+
+	          We're liable to win if we keep this
+
+	          up. For somebody like you, you sure
+
+	          run fast.
+
+	He grabs Karl by the hands and helps pull him up.
+
+	                    FRANK (CONT'D)
+
+	          Come on, let's kick off to 'em.
+
+	EXT. SIDEWALK - DAY
+
+	Karl and Frank, dirt, grass stains and all, walk toward home.
+
+	                    FRANK
+
+	          I know you could of scored them
+
+	          three touchdowns by yourself
+
+	          instead of throwing 'em over to me.
+
+	                    KARL
+
+	          Them boys was tryin' to pull me
+
+	          down pretty hard.
+
+	                    FRANK
+
+	          You're strong though. You let me
+
+	          make them touchdowns so I'd feel
+
+	          good. My daddy used to do that kind
+
+	          of thing.
+
+	They walk in silence for a moment.
+
+	                    FRANK (CONT'D)
+
+	          It don't matter to me about us
+
+	          losin' does it to you?
+
+	                    KARL
+
+	          No sir.
+
+	                    FRANK
+
+	          It was fun, anyhow.
+
+	                    KARL
+
+	          I wadn't thinkin' about nothin'
+
+	          else just like you told me I'd do.
+
+	                    FRANK 
+
+	          Can we play ever' Saturday?
+
+	                    KARL 
+
+	          If I ain't too stove up. I ain't
+
+	          like you. I'm old and give out. 
+
+	              (pause)
+
+	          I'm proud of ye.
+
+	INT. GARAGE - DAY
+
+	Karl sits on his bed rubbing his hands together, deep in
+
+	thought.
+
+	EXT. STREET - DAY
+
+	Karl is walking down the street past rundown houses. He comes
+
+	to an old gray woodframe house. It is in bad repair, the
+
+	paint is peeling, the yard is grown up. There is an old
+
+	wooden shed in the back yard. He stands looking at it for a
+
+	moment then walks through the yard and opens the door to the
+
+	shed. He's motionless for a moment, then goes inside.
+
+	INT. SHED - DAY
+
+	Sunlight comes through the cracks in the wood. The shed has
+
+	nothing but dirt for a floor. A few tall patches of grass
+
+	shoot up between boxes and rusty lawnmowers. A few old garden
+
+	tools hang on the wall. In the center is a low circular spot
+
+	in the ground and a few tattered shreds of an old quilt.
+
+	Karl stands looking at the hole for a moment, then turns and
+
+	walks out of the shed.
+
+	EXT. YARD - DAY
+
+	Karl walks across the yard to the house.
+
+	INT. SCREENED-IN PORCH - DAY
+
+	Karl goes onto the screened-in porch, looks through the
+
+	kitchen window and goes inside.
+
+	INT. KITCHEN - DAY
+
+	The place is a mess. Dirty dishes are piled in the sink and
+
+	on the table. It's not just clutter, but filth everywhere.
+
+	INT. LIVING ROOM - DAY
+
+	Karl walks into an equally filthy living room where an OLD
+
+	MAN in overalls sits slumped in a chair looking at his lap.
+
+	Karl stands facing him for several moments.
+
+	                    KARL 
+
+	          I'm ye boy.
+
+	                    OLD MAN 
+
+	          I ain't got no boy.
+
+	                    KARL 
+
+	          I'm ye oldest boy name Karl.
+
+	                    OLD MAN 
+
+	          I ain't got no boy.
+
+	                    KARL 
+
+	          They turned me aloose from the
+
+	          nervous hospital. Said I was well.
+
+	No response.
+
+	                    KARL (CONT'D)
+
+	          I got hired to work for a Mr. Cox
+
+	          fixin' lawnmowers and whatnot.
+
+	No response.
+
+	                    KARL (CONT'D)
+
+	          That grass out in the yard's all
+
+	          growed up. I figured I might cut it
+
+	          fer ye.
+
+	                    OLD MAN 
+
+	          I told you, I ain't got no boy, now
+
+	          get on out from here and let me be.
+
+	Long silence.
+
+	                    KARL 
+
+	          I learned to read some. I've read
+
+	          on the Bible quite a bit. I don't
+
+	          understand all of it, but I believe
+
+	          I understand a good deal of it.
+
+	          Them stories Mama and you told me
+
+	          ain't in there. You ort not to of
+
+	          done that to ye boy. 
+
+	              (pause)
+
+	          I've studied on killin' you. But I
+
+	          don't reckon they's no reason fer
+
+	          it if all you're gonna do is set
+
+	          there in that chair. You'll be dead
+
+	          soon enough I reckon and the
+
+	          world'll be shut of ye. 
+
+	              (Karl walks toward the
+
+	               kitchen and turns back to
+
+	               the old man)
+
+	          You ort not to of killed my
+
+	          brother. He ort to have had a
+
+	          chance to grow up. Sometimes he
+
+	          would of had fun.
+
+	EXT. YARD
+
+	Karl walks out of the house and across the yard to a hedge in
+
+	the corner and kneels down. He pushes some grass aside to
+
+	reveal a rock about afoot tall and afoot across. In front of
+
+	it, the ground is raised a little. He stares at the rock for
+
+	a moment and touches it.
+
+	                    KARL 
+
+	          Little feller.
+
+	EXT. A LARGE OLD WOODEN SLAT BRIDGE - DUSK
+
+	Karl stands on the side of the bridge looking into the river
+
+	below.
+
+	INT. WHEATLEY HOUSE - NIGHT
+
+	All the lights are out. We see a shot of Frank in his bed
+
+	asleep, but tossing and turning. Then a shot of Linda in bed
+
+	staring at the ceiling and Doyle beside her snoring.
+
+	Suddenly, the lights come on and Linda lets out a little yelp
+
+	and sits up, which wakes up Doyle and he sits up with a
+
+	start. From their P.O.V. we see Karl standing in the door
+
+	holding a hammer.
+
+	                    DOYLE 
+
+	          What in the goddamn hell are you
+
+	          doin'? It's the middle of the
+
+	          night.
+
+	                    LINDA 
+
+	          What do you want, hun?
+
+	                    KARL 
+
+	          I want to be baptized.
+
+	                    DOYLE 
+
+	          Baptized? Well, get baptized then.
+
+	          I don't give a shit. Call a fuckin'
+
+	          preacher, goddamnit! I can't
+
+	          baptize you.
+
+	                    LINDA 
+
+	          We'll go to church and get you
+
+	          baptized, tomorrow's Sunday. You go
+
+	          on back to bed.
+
+	                    DOYLE
+
+	          What are you doin' with that damn
+
+	          hammer?
+
+	                    KARL 
+
+	          I don't rightly know. I just kindly
+
+	          woke up a-holdin' it.
+
+	INT. CHURCH - DAY
+
+	We see a shot of Frank and Linda and Vaughan in a church pew.
+
+	The church is pretty full. From their P.O.V. we seek Karl in
+
+	a robe standing in the baptismal tank. The preacher takes
+
+	Karl and dunks him under the water and brings him back up.
+
+	INT. WHEATLEY LIVING ROOM - DAY
+
+	Doyle is in his favorite chair as Linda, Frank, and Karl come
+
+	through the front door.
+
+	                    DOYLE 
+
+	          How'd your baptizin' go?
+
+	                    LINDA 
+
+	          It went real good.
+
+	                    DOYLE 
+
+	          Well, that's good. It's about time
+
+	          to eat and you know what I'm
+
+	          cravin'? Some of that take out
+
+	          chicken. Why don't you run get some
+
+	          of it, honey, for lunch?
+
+	                    LINDA
+
+	              (to Frank and Karl)
+
+	          Would y'all like that?
+
+	                    FRANK 
+
+	          Yeah, I guess.
+
+	                    KARL 
+
+	          Yes ma'am. I like a fried chicken
+
+	          leg.
+
+	                    LINDA 
+
+	          All right, y'all gonna go with me?
+
+	                    DOYLE 
+
+	          Naw, hell, let them stay here with
+
+	          me and do men things. There might
+
+	          be some kind of ball game on we can
+
+	          watch. You go on.
+
+	                    LINDA 
+
+	          I'll be back in a little bit then.
+
+	She leaves and Doyle walks up to Karl and Frank.
+
+	                    DOYLE 
+
+	          I really just wanted to git your
+
+	          mama out of the house for a minute
+
+	          so we can have a talk. Y'all set
+
+	          down.
+
+	They sit on the couch and Doyle kneels in front of them.
+
+	                    DOYLE 
+
+	          Now here's the deal. Now that I'm
+
+	          gonna throw my entire life away
+
+	          doin' what I want to come live here
+
+	          with y'all, we have to get a few
+
+	          things straight. See, Frank, me and
+
+	          you mama wouldn't have any problems
+
+	          if it wadn't for you. We'd never
+
+	          have a bad word between us. But
+
+	          since you do exist, if I'm gonna be
+
+	          here as the head of the household,
+
+	          we'll have to live by my rules.
+
+	          And my rules are you don't speak
+
+	          unless you're spoken to. Stay out
+
+	          of my way and do what a regular kid
+
+	          does. You're a weird little shit. I
+
+	          don't get you. So wake up. Face
+
+	          what they call reality. We're gonna
+
+	          be a family now. And it's my
+
+	          family. I'll be payin' the bills so
+
+	          you got me. But I ain't your daddy.
+
+	          You just treat me like I am. I'm
+
+	          the boss, okay. And the other thing
+
+	          is your friend Karl has to go. We
+
+	          can't have a normal family with him
+
+	          livin' in the garage and comin' in
+
+	          the bedroom at four in the mornin'
+
+	          with hammers and shit. See?
+
+	                    FRANK
+
+	          Karl can stay if he wants to. Mama
+
+	          said --
+
+	Doyle slaps him across the face and Karl grabs Doyle's arm.
+
+	Doyle shakes him off.
+
+	                    KARL 
+
+	          Don't hit that boy no more.
+
+	                    DOYLE 
+
+	          You shut up you, fuckin' retard.
+
+	          Get your shit and get out of here. 
+
+	              (to Frank)
+
+	          That was a wake-up slap, Frank.
+
+	          Remember. Reality, like I said.
+
+	          Don't forget any bit of what I said
+
+	          to you and we'll be fine.
+
+	Frank jumps up and runs from the house and Doyle sits back in
+
+	his chair and pops a beer. Karl gets up and goes to the
+
+	garage.
+
+	INT. GARAGE - DAY
+
+	Karl ties his books up with his strap and gets a bag from his
+
+	bed and leaves.
+
+	EXT. DRIVEWAY - DAY
+
+	Karl is walking away as Linda pulls up in her car and gets
+
+	out with fast-food bags.
+
+	                    LINDA 
+
+	          Where are you goin', Karl? Didn't
+
+	          you want some chicken and things?
+
+	                    KARL 
+
+	          No ma'am. I'm a'goin' off sommers.
+
+	                    LINDA 
+
+	          Well, okay. I got you some.
+
+	                    KARL 
+
+	          Frank, he went off, too. He ain't
+
+	          gonna be in there when you get
+
+	          indoors.
+
+	                    LINDA 
+
+	          Where'd he go? What's goin' on?
+
+	                    KARL 
+
+	          He wanted to go off and play, I
+
+	          reckon. 
+
+	              (pause)
+
+	          You go in there and you and that
+
+	          Doyle eat ye dinner. You don't have
+
+	          to worry yourself none.
+
+	                    LINDA
+
+	          All right then. Well, I'll see you
+
+	          later. If you see Frank, tell him
+
+	          to come on back home. I don't get
+
+	          to see him all day except Sundays.
+
+	          He can play tomorrow.
+
+	                    KARL 
+
+	          Ma'am?
+
+	                    LINDA 
+
+	          Yeah.
+
+	                    KARL 
+
+	          You're a good mama to that boy. You
+
+	          care for him. You work hard fer him
+
+	          to take care of him. You light him
+
+	          up in his eyes, I've seen it. He
+
+	          wouldn't know what to do without
+
+	          ye.
+
+	                    LINDA 
+
+	          Well thank you, hun. That's real
+
+	          good of you to say. I wouldn't know
+
+	          what to do without him either.
+
+	                    KARL 
+
+	          You've been real good to me, too.
+
+	          It ain't ever'body that'd make
+
+	          biscuits in the middle of the
+
+	          night. You and that boy has give me
+
+	          a good feelin'.
+
+	                    LINDA 
+
+	          We sure like havin' you.
+
+	                    KARL 
+
+	          Thank ye. 
+
+	              (Karl walks away, then
+
+	               turns)
+
+	          I'm just getting around to tellin'
+
+	          you, but I fixed your warshin'
+
+	          machine.
+
+	EXT. SECRET PLACE - DAY
+
+	Frank is on the ground digging a trench in the dirt with a
+
+	stick. He hears footsteps in the leaves and looks up and sees
+
+	Karl coming toward him.
+
+	                    FRANK
+
+	          Hey, Karl. How'd you know to come
+
+	          out here?
+
+	                    KARL 
+
+	          I knowed you'd be here. 
+
+	              (Karl sits on the stump)
+
+	          What are you a-doin' digging with
+
+	          that stob?
+
+	                    FRANK 
+
+	          Just diggin'. 
+
+	              (pause)
+
+	          I ain't ever gonna be happy now.
+
+	          Not with that son of a bitch movin'
+
+	          in for good. I wish me and you and
+
+	          Mama could just run away. But she
+
+	          said he would find us wherever we
+
+	          went. He's crazy. Sometimes I think
+
+	          it would of been better if I wadn't
+
+	          ever born.
+
+	                    KARL 
+
+	          I'm glad of it you was borned. 
+
+	              (pause)
+
+	          I reckon I ain't gonna be there in
+
+	          the garage no more.
+
+	                    FRANK 
+
+	          You have to Karl. You have to look
+
+	          out for me. You don't let that son
+
+	          of a bitch run you off.
+
+	                    KARL 
+
+	          You're just a boy. You ort not to
+
+	          use that sort of language.
+
+	                    FRANK 
+
+	          Karl, I ain't tryin' to say nothin'
+
+	          bad about you, but why don't you
+
+	          stop Doyle when he gets that away?
+
+	          You're older than him. You're
+
+	          strong, too. My daddy wouldn't let
+
+	          him do that to me and Mama.
+
+	                    KARL 
+
+	          That feller's a whole sight meaner
+
+	          than me. He'd just whup the tar out
+
+	          of me.
+
+	                    FRANK 
+
+	          Yeah, I guess so. I'm real tired,
+
+	          you know that. A kid my age
+
+	          shouldn't be tired of things.
+
+	                    KARL 
+
+	          I'm tired, too, Frank. 
+
+	              (pause)
+
+	          If I ain't around no more, it don't
+
+	          mean I don't care fer ye. I care
+
+	          for ye a good deal. I care for you
+
+	          more than anybody they is. We made
+
+	          friends right off the bat.
+
+	                    FRANK 
+
+	          I care for you, too. But you'll be
+
+	          around, don't say that.
+
+	                    KARL 
+
+	          Hit don't make no difference where
+
+	          I was to be. We'll always be
+
+	          friends. There ain't no way to stop
+
+	          that. 
+
+	              (pause)
+
+	          I aim for you to have these books.
+
+	He hands him the books.
+
+	                    KARL
+
+	          Maybe you can make more sense out
+
+	          of them than I can.
+
+	          I made you a little old book marker
+
+	          and stuck it in that book on
+
+	          Christmas.
+
+	                    FRANK 
+
+	          You don't want to give away all
+
+	          your books.
+
+	                    KARL 
+
+	          I aim fer you to have 'em.
+
+	                    FRANK 
+
+	          Man. Thanks. 
+
+	              (pause)
+
+	          You know when you get a feelin' and
+
+	          you don't know why?
+
+	                    KARL 
+
+	          Yes sir.
+
+	                    FRANK 
+
+	          I've got a feelin' today.
+
+	                    KARL 
+
+	          Reckon what kind of a feelin'?
+
+	                    FRANK 
+
+	          Like something different. I don't
+
+	          know. 
+
+	              (pause)
+
+	          You're leavin' ain't you, Karl?
+
+	                    KARL 
+
+	          Will ye do somethin' for me if I
+
+	          ast you to?
+
+	                    FRANK 
+
+	          You know I would. Whatever you
+
+	          want.
+
+	                    KARL
+
+	          Don't go home tonight and stay with
+
+	          that Doyle. He's got it in for ye
+
+	          tonight. I got me a feelin', too.
+
+	          Feels like to me you ort not be
+
+	          there in that house with him
+
+	          liquored up and mean. Ye mama
+
+	          neither. When you get up from here,
+
+	          I want you to go to that feller's
+
+	          house. Your mama's friend. I want
+
+	          you to give me your word on it.
+
+	                    FRANK 
+
+	          Okay. I give you my word. Is
+
+	          ever'thing gonna be okay? Are you
+
+	          all right?
+
+	                    KARL
+
+	          Ever'thing's okay, boy. I kindly
+
+	          want to put my arm around ye for a
+
+	          minute and then I'm gonna go on and
+
+	          leave here.
+
+	                    FRANK 
+
+	          Okay.
+
+	Karl lays his arm on Frank's shoulder and Frank puts his hand
+
+	on Karl's arm. They sit like that for a few moments, then
+
+	Karl gets up with his paper sack and walks away. Frank takes
+
+	the book marker out of the Christmas book. It is just a
+
+	folded piece of notebook paper. On it is written 'You will be
+
+	happy.' He looks up at Karl who is now thirty yards away in
+
+	the trees.
+
+	                    FRANK (CONT'D)
+
+	          Karl!
+
+	Karl turns around and he and Frank stare at each other
+
+	through the trees.
+
+	EXT. VAUGHAN'S HOUSE - DAY
+
+	Karl knocks on the door. After a moment, Vaughan answers in a
+
+	pair of big shorts and a sweatshirt.
+
+	                    VAUGHAN
+
+	          Karl, what are you doing here? Come
+
+	          in.
+
+	                    KARL
+
+	          I ain't a-stayin'. I need to ast
+
+	          you fer a favor.
+
+	                    VAUGHAN
+
+	          Okay.
+
+	                    KARL
+
+	          This evenin' I want you to go get
+
+	          Mizz Wheatley and that Frank and
+
+	          have them stay with you tonight.
+
+	                    VAUGHAN
+
+	          What's wrong? Is everything okay?
+
+	                    KARL 
+
+	          That dern Doyle is in a bad way
+
+	          again with that drinkin' and bein'
+
+	          mean to folks. Will you give me
+
+	          your word you'll do it?
+
+	                    VAUGHAN
+
+	          Well, sure, okay. He hasn't hurt
+
+	          them, has he?
+
+	                    KARL 
+
+	          Naw, not yet. 
+
+	              (hands the bag to Vaughan)
+
+	          I want ye to give this to Mizz
+
+	          Wheatley. Hit ain't much, but maybe
+
+	          there's a little somethin' to hep
+
+	          out. Hits what I've earned fixin'
+
+	          lawnmowers and whatnot fer Bill
+
+	          Cox.
+
+	Vaughan takes the bag.
+
+	                    VAUGHAN
+
+	          What about you, Karl? Do you want
+
+	          to stay here?
+
+	                    KARL 
+
+	          I don't reckon you have to go with
+
+	          women to be a daddy to a boy. 
+
+	              (pause)
+
+	          You've been real square dealin'
+
+	          with me. The Bible says two men ort
+
+	          not lay together. But I'll bet you
+
+	          the Good Lord wouldn't send nobody
+
+	          like you to Hades. Some folks calls
+
+	          it Hell, I call it Hades. 
+
+	              (Karl starts away)
+
+	          That boy lives inside of his own
+
+	          heart. Hits an awful big place. You
+
+	          take care of that boy.
+
+	Vaughan watches Karl walk away.
+
+	EXT. BUS STATION - NIGHT
+
+	Karl stares at the bus station door.
+
+	EXT. WHEATLEY HOUSE - NIGHT
+
+	Karl stares at the house from the sidewalk.
+
+	EXT. OLD WOODS BRIDGE - NIGHT
+
+	Karl stares into the river.
+
+	INT. COX'S SHOP - NIGHT
+
+	Karl has a lawnmower blade sharpening it on a grinding wheel.
+
+	EXT. WHEATLEY HOUSE - NIGHT
+
+	Karl carrying the blade walks onto the porch and enters the
+
+	living room.
+
+	INT. LIVING ROOM - NIGHT
+
+	Doyle is in his chair drinking beer and watching TV. He looks
+
+	up as Karl comes around and sits on the sofa.
+
+	                    DOYLE 
+
+	          Where's ever'body else? You seen
+
+	          'em? 
+
+	              (no response)
+
+	          I thought I told you to get the
+
+	          hell moved out of here anyway.
+
+	                    KARL 
+
+	          How does a feller go about gettin'
+
+	          ahold of the police?
+
+	                    DOYLE (CONT'D)
+
+	          Pick up the fuckin' phone and call
+
+	          'em, I guess.
+
+	                    KARL 
+
+	          What numbers do you punch?
+
+	                    DOYLE 
+
+	          I told you to get away from here,
+
+	          didn't I? I'm tryin' to relax and
+
+	          look at TV. 
+
+	              (notices blade)
+
+	          What are you doin' with that piece
+
+	          of iron? I swear to God you're the
+
+	          weirdest son of a bitch I ever
+
+	          heard of.
+
+	                    KARL 
+
+	          I aim to kill you with it.
+
+	Doyle keeps drinking and watching TV.
+
+	                    DOYLE 
+
+	          Yeah, okay. Well, to get the police
+
+	          you push 911. You'll need to tell
+
+	          'em to send an ambulance, too. Or a
+
+	          hearse. You fuckin' idiot. You're
+
+	          gonna kill me. 
+
+	              (laughs)
+
+	Karl gets up and walks slowly toward Doyle out of frame. We
+
+	see the flickering light of the TV on the wall. O.S. we hear
+
+	one short dull thud.
+
+	                    DOYLE (O.S.) 
+
+	          Oh God! Oh God!
+
+	We hear one more thud, then the sound of Doyle's body hitting
+
+	the floor. Karl appears in frame again and we follow him to
+
+	the kitchen where he picks up the wall phone. He stares at it
+
+	for a moment, then pushes 911. He has a few specks of blood
+
+	on his face, hand and shirt.
+
+	                    KARL 
+
+	              (into phone)
+
+	          Yes ma'am. I need the police over
+
+	          here at the Wheatley house. 
+
+	              (pause)
+
+	          I've killed somebody with a mower
+
+	          blade. 
+
+	              (pause)
+
+	          Yes ma'am, I'm right sure of it. I
+
+	          hit him two good whacks. That
+
+	          second time just plumb near cut his
+
+	          head in two. 
+
+	              (pause)
+
+	          Hits a little old yeller house
+
+	          right on the corner of Marigold
+
+	          Street and some other street.
+
+	          They's a red pickup truck out front
+
+	          says DOYLE HARGRAVES CONSTRUCTION
+
+	          on it. I'll be a settin' here
+
+	          waitin' on ye. Beside sendin' the
+
+	          police, Doyle said you might want
+
+	          to send a ambulance or a hearse.
+
+	          Thank ye.
+
+	He hangs up and goes to the refrigerator and takes out a jar
+
+	of mustard. He gets a knife out of the drawer and sits at the
+
+	kitchen table and pulls back a table cloth that is covering
+
+	up some leftovers. He picks up a biscuit and opens the
+
+	mustard jar and runs the knife around it.
+
+	There's hardly any mustard in it. He dabs a little on the
+
+	biscuit and takes a bite and relaxes to wait for the law.
+
+	                                        CUT TO:
+
+	CLOSE UP OF CHARLES THE NUT CASE
+
+	He's in the middle of one of his sick monologues. We pull
+
+	back and see we're in the recreation room of the hospital
+
+	again with Karl in his usual chair listening to Charles. Karl
+
+	is now wearing the hospital issue clothing.
+
+	                    CHARLES 
+
+	          ... on the third day I washed her.
+
+	          She wasn't very clean. I got all
+
+	          the right spots. She was the first
+
+	          one I ever kept for any length of
+
+	          time, you see I get bored easily, I
+
+	          have a short attention span. I
+
+	          can't say she enjoyed her stay,
+
+	          although the washcloth in her mouth
+
+	          held in place by good duct tape
+
+	          kept any complaints to a minimum. I
+
+	          don't really like people who talk a
+
+	          lot. I like to do the talking. I
+
+	          guess that's why I'm so fond of
+
+	          you. You're so easygoing, although
+
+	          I do sense a little tension in you
+
+	          sometimes. By the way, how was it
+
+	          out there? Did you have any fun?
+
+	          Make any new acquaintances? Tell me
+
+	          what it was like.
+
+	                    KARL 
+
+	          They was a boy. We made friends.
+
+	                    CHARLES 
+
+	          I bet you did. I was never bent
+
+	          that way. I'm bent the other way.
+
+	          So, you liked it out there in the
+
+	          world.
+
+	                    KARL 
+
+	          It's too big.
+
+	                    CHARLES 
+
+	          Well, it's not too big in here, is
+
+	          it? 
+
+	              (pause)
+
+	          I feel very generous today. I feel
+
+	          like listening. I'm sure you have
+
+	          plenty to tell me. And please bore
+
+	          me with the details. 
+
+	              (long pause) )
+
+	          Come on Karl, who did you kill? Was
+
+	          it the boy?
+
+	                    KARL 
+
+	          Don't say nothin' about that boy.
+
+	Karl looks him right in the eye for the first time ever.
+
+	                    KARL
+
+	          Fact the bidness, don't you say
+
+	          another word to me. I ain't
+
+	          listenin' to you no more.
+
+	Karl gets up and goes to the window and looks out at the
+
+	grass that separates him from the next building. He stares
+
+	out the window, as we:
+
+	                                        FADE OUT.
+
+	                          THE END
+

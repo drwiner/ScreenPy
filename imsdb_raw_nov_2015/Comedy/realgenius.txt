@@ -1,0 +1,6156 @@
+REAL GENIUS
+
+BODY { background-color: "#FFFFFF"; font-family: Courier New, Helvetica, sans-serif; font-size:10.0pt }
+
+DIV { position:absolute; left:5px; top:20px; width:734px; height:500px;  }
+
+#loc { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.2in; margin-bottom:0in;
+
+margin-left:0.8in;text-transform:uppercase } 
+
+#slug {
+
+	font-family:Courier New;
+
+	font-weight: normal;
+
+	margin-top:0in;
+
+	margin-right:1.2in;
+
+	margin-bottom:0in;
+
+	margin-left:0.8in;
+
+	text-transform:uppercase;
+
+<b>	
+
+</b><b>} 
+
+</b>
+
+#act { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;
+
+margin-left:0.8in } 
+
+#speaker { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.in; margin-bottom:0in;
+
+margin-left:2.8in;text-transform:uppercase }
+
+#spkdir { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.7in; margin-bottom:0in;
+
+margin-left:2.2in }
+
+#dia { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.6in; margin-bottom:0in;
+
+margin-left:1.6in }
+
+#pg { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.75in; margin-bottom:0in;
+
+margin-left:6.5in }
+
+#right { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:0.75in; margin-bottom:0in;
+
+margin-left:5.0in }
+
+REAL GENIUS
+
+EXT. SKY-DAY
+
+A Black B-1 Bomber banks steeply exposing its underside to us.
+
+MAN (V.O./FILTERED)
+
+Slingshot this is Watchdog. Rabbit's home.
+
+Rolling out of its bank, the bomber begins a steep climb revealing the fact that it is carrying a small delta winged shuttle on it back. The bomber's wings slide back.
+
+BOMBER PILOT (V.O./FILTERED)
+
+Roger watchdog. Understand we are go for crossbow.
+
+Suddenly a rocket engine on the back of the modified bomber fires thrusting the plane into steep climb.
+
+INT. B-1 FLIGHT DECK-DAY
+
+THE PLANE VIBRATES. The pilot and co-pilot are busy in their seats. Behind them sits a third pilot wearing a space suit. He gives them a thumbs-up signal, rises and crawls to the rear.
+
+BOMBER PILOT
+
+(into the mike/ over the roar)
+
+Watchdog, Slingshot. let us know when the rabbit's in the hole.
+
+EXT. A CROWD-DAY
+
+A blond haired, blue-eyed man with a small walkie-talkie is standing in the midst of a group of cheering Central American peasants and townsfolk. He is disguised as one of them.
+
+ANGLE ON VILLA BALCONY
+
+The uniformed President of this formerly sleepy, now strategically critical nation is waving to his people. He is flanked by military guards. He turns and walks into the villa.
+
+EXT. B-1 BOMBER-DAY
+
+The bomber approaches the top of it's arc.
+
+ATHERTON
+
+The shuttle pilot climbs into his seat, straps in and checks his instruments.
+
+SHUTTLE PILOT
+
+All systems check. Crossbow is armed.
+
+BOMBER PILOT (V.O.)
+
+Roger, Ignition sequence, start, separation in five...
+
+EXT. TOP OF THE BOMBER
+
+The explosive bolts blow on the shuttle mount.
+
+INT. BOMBER FLIGHT DECK
+
+The pilot pushes his yolk forward.
+
+EXT. BOMBER
+
+As the bomber falls way, the shuttle's booster ignites with a roar, thrusting it toward space.
+
+EXT. SPACE-LOOKING BACK
+
+We see a tiny glowing speck coming towards us. very quickly it gains in altitude and we see that it is the shuttle. Suddenly it is upon us and blasts over our heads.
+
+ANGLE FROM BEHIND
+
+We follow the shuttle. The engine stops. There is a small explosion, which pushes the booster rocket away. Small maneuvering rockets fire and the shuttle establishes itself in a nose down altitude.
+
+SHUTTLE PILOT (V.O. FILTERED)
+
+Crossbow is established.
+
+BOMBER PILOT (V.O./FILTERED)
+
+Roger, we have ground confirmation. Reference grid seven. Check pathfinder, on.
+
+SHUTTLE PILOT (V.O. FILTERED)
+
+Roger, I'm going on the scope. Moving Target Indicator, engage.
+
+Behind and above the cockpit a large hatch opens and a large circular spinning mirror rises and locks into position.
+
+INT. SHUTTLE
+
+The pilot reaches above him and pulls down a viewfinder and begins looking through it.
+
+EXT. THE SHUTTLE.
+
+A target sighting lens moves from right to left, stops, and then moves back but this time with the mirror moving in unison.
+
+INT. THE SHUTTLE
+
+While still looking through the viewfinder, the pilot manipulates the targeting controls.
+
+INSERT
+
+PILOT'S POV OF THE SCREEN
+
+Crosshairs, a grid patter and digital, rangefinder readouts appear over various parts of the Earth's topography as the pilot searches for his target. Then it steadies on a polarized image of a group of people. One of the images seems to stand out brighter than the others.
+
+EXT. VILLA PATIO-DAY
+
+The president and his aide are chatting with a group of visiting dignitaries. There is a jovial atmosphere as they order drinks from a waiter. The president is proudly displaying one of his medals to his guests. it has a very unique jewel-like object in its middle.
+
+INT. THE SHUTTLE
+
+The pilot is watching through the viewfinder.
+
+PILOT
+
+(into mike)
+
+Scanner on. Target locked. Tracking locked.
+
+EXT. THE SHUTTLE
+
+The mirror and sighting lens adjust as they track the target.
+
+EXT. VILLA PATIO
+
+The President is served a cup of coffee. He asks the waiter for sugar. The waiter turns back to his cart.
+
+INT. THE SHUTTLE
+
+The pilot puts his hands on the joysticks and flips open the trigger covers.
+
+PILOT
+
+Nice and easy does it.
+
+EXT. THE SHUTTLE
+
+Dead silence, then the mirror erupts in brilliant light and sends an incredibly bright beam toward the Earth. Behind the shuttle we see exhaust gases venting in giant plumes into space.
+
+EXT. VILLA PATIO
+
+The beam strikes the president like the finger of god. He vaporizes. The waiter turns back with the asked-for sugar to find a smoking hole where the President once stood.
+
+EXT. SPACE
+
+The shuttle finishes its work and the beam shuts down. The mirror folds away and the shuttle arcs across the screen preparing for re-entry, firing small retro rockets.
+
+PILOT (V.O)
+
+I'm coming home. Just like shooting ducks in a barrel.
+
+PULL BACK TO REVEAL
+
+INT. A HIGH-LEVEL GOVERNMENT CONFERENCE ROOM-NO WINDOWS 
+
+A large screen at one end of the room continues to show the re-entry.
+
+ANNOUNCER (V.O.)
+
+The Crossbow Project. There's no defense like a good offense.
+
+In the middle of the room is a giant donut of a round conference table. Another circle hangs above and casts light downward in such a way as to light the table-top but caser those sitting around it in shadow. We can see them but not well. There are SIX MEN in suits. The look is sinister as Hell; but the talk is for Rotary Club meeting.
+
+A MAN, sitting at three o'clock, wearing an Air force major's uniform, points at a remote control device at the screen and stops the film. The lighting does not change. he turns to the man sitting at twelve o'clock.
+
+CARMICHAEL
+
+Nice little weapon isn't it, Dave?
+
+DECKER
+
+Well, I guess so, but gosh, Don, it's a movie. You want me to start buying weapons from George Lucas?
+
+Polite laughter all around.
+
+CARMICHAEL
+
+Now that would be somethin', wouldn't it?
+
+DECKER
+
+Well, sometimes I think I might as well.
+
+(to one of the others)
+
+What do you think of what you saw, Roy?
+
+ROY
+
+I think there weren't enough girls.
+
+More polite laughter. Then Roy turns ice cold in a flash.
+
+ROY (cont'd)
+
+Is this thing for biological targets only?
+
+CARMICHAEL
+
+No, Sir, this thing would take the skin right off, of Air Force One if you wanted. Not that I'm saying we'd ever want to kill our own President, but, you know, for example.
+
+ROY
+
+Our studies indicate that this type of weapon is totally useless for warfare.
+
+DECKER
+
+It's not intended for use in your kind of warfare, Roy. This is a perfect peace time weapon.
+
+ROY
+
+What's the kill potential?
+
+CARMICHAEL
+
+As soon as the size-to power ratio is licked we'll have about seven bangs for the buck.
+
+ROY
+
+When that?
+
+Carmichael shrugs the sign for "who knows?"
+
+DECKER
+
+Seriously, Don, I have to report to the Secretary that everything's on schedule. We have plans for your little ray's gun this summer.
+
+CARMICHAEL
+
+(Trying to cover)
+
+As I understand it, guys, there's some major practical difficulties. I'm pushing as hard as I can.
+
+DECKER
+
+Well, Don, you tell those geniuses you've got until the end of the next fiscal quarter to come up with a working model or I'm pulling the plug on the funding.
+
+CARMICHAEL
+
+(very nervous)
+
+I'm assured they're on the verge of a major breakthrough.
+
+DECKER
+
+Good. Just as long as we get a working weapon out of it by June. Right, general?
+
+ROY
+
+I wouldn't know, Dave. I haven't had a working weapon since Korea.
+
+DECKER
+
+Right.
+
+(to assistant)
+
+Larry, let's see the film on blinding techniques, then we'll have some lunch, all right?
+
+INT. EXHIBITION HALL -DAY
+
+WE OPEN on a sign: "Effects of marijuana on Rodents." A cage is divided in half. One side is marked "NO Marijuana." A chinchilla is running furiously on a treadmill. The other side is marked "Marijuana." A chinchilla is lying in a little hammock.
+
+DOLLY BACK TO WIDE SHOT. We see we are in a large hall. There are dozens of booths and exhibits. A banner strung across the hall lets us know that this is the "WESTERN REGIONAL HIGH SCHOOL WINTER SCIENCE FAIR."
+
+ANGLE ON a pretty female student at a booth standing in front of a clear glass cylinder that has vacuum hoses connected to it. There are two colored gases inside the cylinder. A sign behind her says: HOW TORNADOS ARE FORMED." A small group of boys stand watching her in as sexist a way as possible.
+
+GIRL
+
+It doesn't seem to be working; but if it was, these gases would be going around.
+
+A BOY
+
+We don't care.
+
+ANGLE ON another part of the hall. Two blond-haired, male twins stand proudly in their booth. "THE GRAVITATIONAL PULL OF HEAVENLY BODIES."  A large, crudely painted diorama of the Milky Way is in the background. Several painted balls are suspended in front, labeled "Mercury," "Venus," etc. The sun is represented by a large electromagnet. All the "planets"
+
+ANGLE ON a booth near the entrance. A ROBOT attracts a crowd. It has a video screen for a face which reads: "Hi, my name is Harry. Let me guess your weight and age."  With jerky motions he extends his mechanical arms and shakes hands with passersby. He is speaking to a small KID.
+
+HARRY
+
+Hi, my name is Harry. Let me guess your weight and age...midget mutant; weight... 
+
+The kid shoots it in the neck with a toy space gun. The ROBOT SHORT CIRCUITS: sparks shoot out, its arms fly in circles until a FUSE BLOWS and it SIZZLES to a burning stop.
+
+WE PAN OVER TO the door just in time to see the entrance of DR. JERRY ATHERTON, professor of physics at Pacific Tech, and a popular host of a PBS television show about science. His manner and bearing mark him as a classic anal retentive. He is a perfect cross between Carl Sagan and Jerry Brown. Brilliant, intense, seemingly sincere but, in fact, incredibly manipulative. There is an intentional aura of superiority surrounding him.
+
+We FOLLOW him in and down an aisle where he draws the attention of the crowd in the manner of the celebrity he is. An OLD LADY stops him. He beams a smile at her.
+
+OLD LADY
+
+Are you Dr. Atherton?
+
+ATHERTON
+
+Yes, dear.
+
+OLD LADY
+
+I just love your television show.
+
+ATHERTON
+
+Well, thank you. We try.
+
+OLD LADY
+
+What's Albert Einstein really like?
+
+ATHERTON
+
+Dead.
+
+OLD LADY
+
+Oh, I thought you had him on.
+
+ATHERTON
+
+No, that was just an actor.
+
+OLD LADY
+
+Is everyone an actor, then?
+
+ATHERTON
+
+(beginning to tire of this)
+
+No, I'm a physicist.
+
+OLD LADY
+
+But Einstein isn't?
+
+ATHERTON
+
+(dismissing her)
+
+Nice talking to you.
+
+He walks away.
+
+ANGLE ON a booth where we meet MITCH SIMON, aged fifteen. Mitch is a genius. He's known that since he was old enough to understand the word, which was on his first birthday. He was doing college level work by the time he was in the fourth grade. Although he's intellectually precocious, he's still only 15 years old and has all the problems of any average adolescent. His shyness and intellect have always made him feel different and uncomfortable in social situations.
+
+He stands with his PARENTS near a demonstration table. Unlike some of the other exhibits we've seen, there is nothing amateurish about this one. In fact, it is an impressive display of a dye laser. We can see the beams of multi-colored rays bouncing between mirrors, moving through liquids, combining with gases.
+
+MITCH is trying to explain his work to MR. SIMON, who is a nice enough guy but who pretty much regards the fact that his son is gifted as a pain in the butt.
+
+MITCH
+
+See, Dad, it's coherent light.
+
+MR. SIMON
+
+It talks?
+
+MITCH
+
+No. 
+
+ATHERTON APPROACHES. He is seen by MRS. SIMON, who greets him.
+
+MRS. SIMON
+
+Dr. ATHERTON, what a surprise.
+
+ATHERTON
+
+Hello, Mrs. Simon. How are you?
+
+MR. SIMON
+
+No problem with Mitch's test scores or anything, is there?
+
+ATHERTON
+
+No, no. I just thought I'd stop by, bring you the good news myself. I just got word from the admissions committee. We did it. Mitch is in.
+
+MRS. SIMON
+
+Isn't that wonderful.
+
+ATHERTON
+
+(to Mitch)
+
+Hello, Mitch.
+
+MITCH
+
+(shyly)
+
+Hi.
+
+ATHERTON
+
+Nice little display?
+
+MITCH
+
+Thanks
+
+ATHERTON
+
+What's your medium?
+
+MITCH
+
+Just Argon. But I have it all structured for HF if I could get some.
+
+ATHERTON
+
+That would be interesting.
+
+MITCH
+
+It's all theoretical at this stage, but I have the power supply completely worked out.
+
+ATHERTON
+
+Very nice.
+
+MITCH
+
+(a kid again)
+
+Thanks.
+
+ATHERTON turns to Mitch's parents.
+
+ATHERTON
+
+You must be very proud. he's the first student we've ever accepted for winter term entrance at Pacific Tech.
+
+MR. SIMON
+
+I image he's the youngest, too.
+
+ATHERTON
+
+No, actually. The youngest we've had was a twelve, but he cracked under the pressure within six months so we don't really count him.
+
+MRS. SIMON
+
+(almost in tears)
+
+Fifteen year old and off to college. Image.
+
+MR. SIMON
+
+Listen Doc. This scholarship thing, does he get any kind of whatya call it, signing bonus sort of thing?
+
+ATHERTON
+
+(hoping this is not going to be a problem)
+
+Well, no...but by allowing Mitch to progress at an accelerated rate we give him the opportunity to fulfill a far greater portion of his remarkable intellectual potential. Don't you agree?
+
+MR. SIMON
+
+Yeah, I guess. It's just that athletes get, you know, cars and stuff.
+
+ATHERTON
+
+(polite for Mitch's sake)
+
+Well, I guess we scientists are a little different than athletes.
+
+MR. SIMON
+
+Cheaper.
+
+ATHERTON
+
+Smarter
+
+MR. SIMON
+
+Not when it comes to getting cars.
+
+MRS. SIMON
+
+We just want the best for Mitchie.
+
+(changing gears)
+
+Dr. Atherton, I saw your show the other night, about radioactive isotopes, and I have a question for you.
+
+ATHERTON
+
+Oh, yes?
+
+MRS. SIMON
+
+Is that your real hair?
+
+MR. SIMON
+
+Well, I wondered that, too.
+
+ATHERTON
+
+(struggling for manners)
+
+Well, interesting question, when you consider the philosophical aspects of whether anything on television is "real" or actually just an "image" being broadcast.
+
+MR. SIMON
+
+Didn't look real. Anyway, listen, I got to get something to eat or I'm gonna die.
+
+MRS. SIMON
+
+Come on, let's look for something.
+
+They start away.
+
+MRS. SIMON (cont'd)
+
+I saw over there one of the kids was doing an experiment with insect protein.
+
+MR. SIMON
+
+Did you see anyone doing anything with corned beef?
+
+They exit.
+
+ATHERTON
+
+Your parents...
+
+MITCH
+
+Yes?
+
+ATHERTON
+
+They're...nice
+
+MITCH
+
+They're Okay. They just sometimes don't have any idea of what I'm talking about.
+
+ATHERTON
+
+I'm sure of that. Afraid you're going to miss your friends?
+
+MITCH
+
+No. I don't have any. I think I intimidate other kids.
+
+ATHERTON
+
+Good boy.
+
+MITCH
+
+I don't want to.
+
+ATHERTON
+
+Remember, compared to you, most people have the IQ of a carrot. We're different than most people, Mitch, but you should be proud of that. I mean, look around. From now on, you'll BE amongst peers, colleagues. I suppose I might as well tell you now, I've put you on my personal research team. Some of the finest minds on campus, not the least of which is, of course, my own.
+
+MITCH
+
+It sounds great.
+
+ATHERTON
+
+Well, now, I'm expecting great things from you, my boy. This is only the second time I've given this honor to a freshman. The first was...
+
+MITCH
+
+Chris Kinsley.
+
+ATHERTON
+
+You know Chris?
+
+MITCH
+
+No, but he's a legend in the Physics Club.
+
+ATHERTON
+
+Well, you're going to become a legend yourself. You'll be working with Chris. He's a senior now but he's still on the team and still as brilliant as ever.
+
+MITCH
+
+Wow.
+
+INT. PACIFIC ELECTRONICS INSTRUMENTS-DAY
+
+We see CHRIS KINSLEY, Chris has on his head a pair of those jiggling antennae-like things. WE PULL BACK to revel that he is on a tour of the facilities.
+
+A huge hanger-like room filled with workers constructing and assembling scientific instruments. This place has the look and feel of the Big Time.
+
+Workers put the finishing touches on a communication SATELLITE. Passing through this Disneyland of Science is a well-dressed executive. ROBERT JENSEN, who is guiding Chris on the tour. Chris was heralded as one of the smartest people to ever enter Pacific Tech.  He proved to be even smarter than many of his professors. He also proved to be one of the most outrageous people to ever enter Pacific Tech. his antics are legend. Unimpressed with authority, pomposity and bullshit in general., Chris dresses on the sloppy side of life. Currently he's wearing a sports jacket that's seen better days, over a faded sweatshirt that has the logo "I ? Toxic Waste."
+
+They approach a second executive/scientist, MIKE DODD, who is wearing a lab coat, and a beautiful public relations executive named SHERRY NUGIL, who is also wearing a lab coat but in a whole new way.
+
+JENSEN
+
+(as they approach the couple)
+
+Guys, I want you to meet Chris Kinsley. Chris, this is Sherry Nugil, my assistant, and Mike Dodd.
+
+CHRIS
+
+Dr. Dodd?
+
+JENSEN
+
+He's the man who just designed the new Telcom Satellite here.
+
+CHRIS
+
+I know. Nice to meet you Dr. Dodd. Isn't the Telcom raining debris all over Europe?
+
+DODD
+
+(smiling, but angry)
+
+That was a launch problem, not a design problem. Why are you wearing that toy on your head?
+
+Chris takes the thing from his head.
+
+CHRIS
+
+Oh, this. Sorry, I was worried that people would think I was stuffy, You know, no fun; all brain, no penis,
+
+JENSEN
+
+Pardon?
+
+CHRIS
+
+I'm sorry, it's just an infantile response to authority.
+
+JENSEN
+
+(confused)
+
+Yes. you are Chris Kinsley, aren't you?
+
+CHRIS
+
+No. Well, yes. I mean, I used to be.  Now I'm Mhavishnue Kinsley.
+
+JENSEN
+
+(relieved)
+
+I see. You are being funny.
+
+CHRIS
+
+Well, I just can't help it. You're such a fun guy yourself.
+
+JENSEN
+
+Oh yes. I think you'll find we all are, right Mike?
+
+DODD
+
+No.
+
+JENSEN
+
+Now Chris, Sherry is going to show you around the place. She can answer any questions you might have about fringe benefits or dress codes or anything and I'll see you back upstairs when you're done, okay? Sherry, take good care of this young man. He's one of the ten finest minds kin the country.
+
+CHRIS
+
+Someday I hope to be two of them.
+
+JENSEN
+
+See you later.
+
+Jensen and Dodd exit.
+
+CHRIS
+
+You are very beautiful.
+
+SHERRY
+
+You don't act like one of the top ten minds in America.
+
+CHRIS
+
+Oh, really? How many of them have you met?
+
+SHERRY
+
+(with a really dirty look in her eye)
+
+Seven.
+
+CHRIS
+
+Really?
+
+SHERRY
+
+You'll be eight. Six was Professor Hostetler at M.I.T.
+
+CHRIS
+
+Old Professor Hostetler? Isn't he dead?
+
+SHERRY
+
+He is now.
+
+INT. ANOTHER PART OF THE PEI FACILITY- ALITTLE LATER 
+
+Sherry and Chris stare intently into one another's eyes.
+
+SHERRY
+
+And so, coupled with full insurance coverage and bonus plans, you find it adding up to a fairly sizable perks package.
+
+CHRIS
+
+I have a pretty sizable perks package right now.
+
+SHERRY
+
+Also, we understand that you people don't care too much for rigid timetables, and that's pretty rare in private industry.
+
+CHRIS
+
+So are you.
+
+SHERRY
+
+Is it true that school of yours keeps getting smarter and smarter kids every year?
+
+CHRIS
+
+Yup! I mean no!
+
+INT. YET ANOTHER PART OF PEI- A LITTLE LATER.
+
+SHERRY
+
+You see the funding associations are the same. Our theoretical work is in the Blue Sky sector as well.
+
+CHRIS
+
+You have no idea how much I need that kind of continuity in my life right now.
+
+INT. CATWALK ABOVE A HUGH LAB- A LITTLE LATER STILL
+
+SHERRY
+
+You just belong here, Chris. We have several of Dr. Atherton's former students and they're all doing quite well with us.
+
+CHRIS
+
+What number was he?
+
+SHERRY
+
+Two. One of his other students was four.
+
+CHRIS
+
+You're wonderful.
+
+SHERRY
+
+I know.
+
+CHRIS
+
+Can we go somewhere?
+
+SHERRY
+
+Yes.
+
+EXT. ROOF OF HANGER-DUSK
+
+The giant dish of a huge radio telescope faces heavens.
+
+SHERRY (O.C)
+
+(between kisses)
+
+Talk smart to me.
+
+CHRIS (O.C.)
+
+What?
+
+ANGLE ON CHRIS AND SHERRY
+
+They are lying in the middle of the dish. Passion mounts, fingers cope with belts and buttons, clothing falls away; my god, these people are having sex.
+
+SHERRY
+
+Please I need it. What was your favorite course?
+
+CHRIS
+
+I guess right now I'd have to say Fluid Mechanics.
+
+SHERRY
+
+Oooooooooh...
+
+CHRIS
+
+(responding to something interesting Sherry just did with her hips)
+
+And Gym.
+
+SHERRY
+
+Please.
+
+CHRIS
+
+Sorry.
+
+SHERRY
+
+What's your research with Artherton?
+
+CHRIS
+
+Ultra-high power laser as an energy force for fusion. Tremendous boon to all mankind. And womankind, too.
+
+SHERRY
+
+Fusion, more fusion.
+
+CHRIS
+
+It's the process for obtaining enormous amounts of energy from forms of hydrogen, like Deuterium and Tritium.
+
+SHERRY
+
+Oh, my God, more.
+
+CHRIS
+
+Extracting the fuels is no problem.
+
+SHERRY
+
+Hmmmm.
+
+CHRIS
+
+Getting them to combine and release the energy is the problem.
+
+SHERRY
+
+Oohh, yes
+
+CHRIS
+
+It takes temperatures of 100 million degrees Celsius.
+
+SHERRY
+
+Oh, God.
+
+CHRIS
+
+So, I'm...
+
+SHERRY
+
+Yes.
+
+CHRIS
+
+...building...
+
+SHERRY
+
+Yes.
+
+CHRIS
+
+...a laser...
+
+SHERRY
+
+Oh, yes.
+
+CHRIS
+
+...that pulses...
+
+SHERRY
+
+Hmmmmmmmm.
+
+CHRIS
+
+...very hot...
+
+SHERRY
+
+Ohhh...
+
+CHRIS
+
+...and causes...
+
+SHERRY
+
+Yes.
+
+CHRIS
+
+...Fusion...
+
+SHERRY
+
+Ahhhhhhhhhhh.
+
+EXT. PACIFIC TECH CAMPUS-DAY 
+
+It is an impressive campus of older California Spanish building mixed with modern architectural marvels. This is the Sunday before the beginning of the Winter Term.
+
+We pick up MITCH SIMON and FOLLOW him as he crosses campus. He is wearing a tie and jacket, which only adds to his general sense of being out of place. He is carrying a map which he stops to consult every now and again. He stops an upper classman and asks him a question while pointing at the map. The older asks him a question while pointing at the map. The older student takes great delight in turning the map right side up.
+
+EXT. PRESIDENT'S HOUSE-AFTERNOON
+
+The tasteful and elegant official residence of the university's President. DR. EUGENE MEREDITH. MITCH approaches the open front door, where he is greeted by MRS. MEREDITH.
+
+MITCH
+
+Good afternoon. I'm looking for 
+
+(reading from the invitation in his hand)
+
+the President's Freshman Tea.
+
+MRS. MEREDITH.
+
+(leading him inside)
+
+Oh, good. I'm so glad we have one then. Who are you?
+
+INT. THE HOUSE-CONTINOUS
+
+They pass through on their way to the backyard.
+
+MITCH
+
+Mitch Simon.
+
+MRS. MEREDITH.
+
+Oh yes. You're the special case. I know Gene wants to meet you. You're just in time for his traditional talk. Would you like a glass of sherry?
+
+MITCH
+
+I'm a minor.
+
+MRS. MEREDITH.
+
+Aha, well of course you are. That would explain your height.
+
+They exit out onto the patio.
+
+EXT. THE PATIO AND GROUNDS OF THE HOUSE-CONTINUOUS
+
+The returning freshman class has gathered for a social. Mitch is the only one in a tie. He stands on the patio with Mrs. Meredith whose husband, the apparently ever-jovial professional academic administrator, is about to speak to the assembled.
+
+MEREDITH
+
+People, if I might get your attention.
+
+The din begins to quiet.
+
+MEREDITH (CONT'D)
+
+Welcome back, freshmen! I take it you all put the Christmas break to good use?
+
+There is good-natured jeering.
+
+MEREDITH (CONT'D)
+
+Now, if you'll indulge me, I'd like to speak seriously for a moment. You will recall that when I welcomed you to the Pacific institute of Technology a few short months ago I spoke of how we are one of the finest scientific institutions in the world. I think the finest. I mentioned our six Nobel Prize winners, our members of the national Academy of Sciences, and our members of the National Academy of Engineering.  This is an intellectual oasis of technological achievement in the dessert of general academic mediocrity we see inmost colleges and universities today.
+
+There is some applause and good-natured banter. Mitch is truly moved. This environment is exactly what Mitch has hoped for all his life.
+
+MEREDITH (CONT'D)
+
+I also spoke of the fact that you are the finest freshmen class we have ever had here.
+
+There are cheers and applause.
+
+MEREDITH (CONT'D)
+
+I say this to every freshman class. Each year we raise our entrance requirements and each year there is a group of students like you who meet and surpass those requirements.
+
+Almost jubilant cheering and clapping.
+
+MEREDITH (CONT'D)
+
+As you have no doubt already noticed by now, over a third of you are gone. By the end of the year another third of you will have followed them out of Eden and into mediocrity.
+
+The crowd goes deathly silent as Meredith continues in his cherry manner.
+
+MEREDITH (CONT'D)
+
+We want only the best. Hard work and high standards are expected of everyone. And if you aren't up to it Cal tech or M.I.T. might take you, but you don't fit in here.
+
+MEREDITH (CONT'D)
+
+Let me remind you that this place is an opportunity, not a right; a chance not a gift; a working lunch, not a picnic. Welcome back.
+
+Several waitresses begin serving tea but the despair of reality creeps over the students and they begin to disperse. Mitch stands waiting for the approaching Dr. Meredith.
+
+MRS. MEREDITH 
+
+Gene, this is Mitch Simon.
+
+MEREDITH
+
+Oh, yes, Professor Artherton's bright star.
+
+MITCH
+
+Yes, sir.
+
+MEREDITH
+
+And I understand you're already on his project. I'm assured you're going to do great things.
+
+MITCH
+
+I hope so.
+
+MEREDITH
+
+Let me give you some advice.
+
+MITCH
+
+Thank you.
+
+MEREDITH
+
+Don't screw up.
+
+MITCH
+
+Okay. I guess I better go now.
+
+He walks away.
+
+MEREDITH
+
+(watching Mitch with satisfaction)
+
+I think the young people really appreciate my " getting down" verbally, don't you?
+
+MRS. MEREDITH 
+
+Absolutely.
+
+EXT. CAMPUS-LATER
+
+Once again Mitch, map in hand, must ask another student for directions. This one also turns the map right-side up and then points to the building they are standing in front of. As he heads for it he passes a bronze bust of one of the founding fathers, DR. BRADFORD. The students have decorated him with a muffler, earmuffs and carrot nose to look like a snowman.
+
+INT. APPLIED PHYSICS BUILDING-MOMENTS LATER
+
+Mitch walks down a long corridor. He passes several open doors that reveal laboratories with all kinds of scientific equipment all over them.
+
+Mitch stops in front of a closed door. He checks the number, then looks down at a card in his hand. He turns the card right-side up. He OPENS the door to REVEAL a darkened lab. In the darkness there is a veritable light show of laser beams. A voice calls out from the darkness.
+
+VOICE (O.C.)
+
+Hey!
+
+MITCH
+
+Yes?
+
+VOICE (O.C.)
+
+Come in here.
+
+INT. LAB-CONTINUOUS
+
+Mitch ENTERS quickly and shuts the door behind himself.  In the instrument glow we can make out the forms of three other students. They are: KENT, CARTER and BODIE, members of Dr. Atherton's research team.
+
+KENT
+
+Just leave the sandwiches and go.
+
+MITCH
+
+Me?
+
+KENT
+
+No, Yoda; yeah, you.
+
+MITCH
+
+I don't have any ah...
+
+CARTER
+
+Brains?
+
+MITCH
+
+No, sandwiches.
+
+KENT
+
+Well then, what good are you?
+
+CARTER
+
+What are we supposed to eat?
+
+MITCH
+
+(getting a little fed up)
+
+How about my shorts.
+
+KENT
+
+Hey! Who do you think you're talking to?
+
+The laser snaps off and the lights snap on. The glare is a little intense at first.
+
+KENT (CONT'D)
+
+Are you from the restaurant or not?
+
+With the lights on we get a chance to have a better look at the team. Kent is an elitist, intellectual snob with very little imagination who likes to think of himself as Atherton's protege. He wears braces on his teeth because he knows how important a proper smile can be in the marketplace.
+
+MITCH
+
+No. I'm Mitch Simon. I'm a student. Dr. Atherton told me to come up here.
+
+KENT
+
+Oh, you're the new stud, are you. Or is it dud?
+
+MITCH
+
+How do you mean?
+
+BODIE
+
+Stud. Hot shot. Brain. You're the twelve-year-old, right?
+
+MITCH
+
+I'm fifteen.
+
+CARTER
+
+Does your body know that?
+
+Mitch attempts a good-natured laugh. It's not a great attempt.
+
+MITCH
+
+Are you expecting him or...
+
+KENT
+
+Sure. Can I get you something? A balloon?
+
+MITCH
+
+Are any of you guys Chris Kinsley?
+
+They all freeze.
+
+KENT
+
+No, Thank God.
+
+CARTER
+
+Hey Kent, I hear Kinsley got that PEI job all locked up.
+
+KENT
+
+Damn! I wanted that job.
+
+MITCH
+
+Why?
+
+KENT
+
+Why? Because it starts at fifty thousand a year, that's why. Plus travel, car, stock options...
+
+MITCH
+
+Oh. Well, I'm supposed to have a look at your work up to date. Check it over.
+
+KENT
+
+Check it over.
+
+MITCH
+
+Yes.
+
+KENT
+
+For what?
+
+MITCH
+
+Mistakes, I guess. He said you guys are stuck.
+
+The room goes rigid. Evidently this little punk of an upstart needs to be told what Christ died for.
+
+KENT
+
+Let's get something very clear here. Everything you've heard about the supportive student body and the honor code might hold for the rest of the campus, but it doesn't count for squat in here. Which means when jerry's not here, you do what I say. From God to Jerry to me, get it?
+
+Atherton ENTERS.
+
+KENT (CONT'D)
+
+Hi Jerry.
+
+ATHERTON
+
+I've told you before, Kent, you don't get to use my first name.
+
+KENT
+
+Did I?
+
+ATHERTON
+
+(to Mitch)
+
+Good to see you, Mitch.
+
+ATHERTON (CONT'D)
+
+(to the group)
+
+I'm sure you're all going to become fast friends.
+
+KENT
+
+We're well on our way already.
+
+ATHERTON
+
+Good, because after Mitch is brought up to date, I want the rest of you to take your cues from him. He'll be in charge of the group.
+
+KENT
+
+What? I mean, good choice, Jerry.
+
+ATHERTON
+
+You're doing it again, Kent.
+
+KENT
+
+Am I?
+
+ATHERTON
+
+Where's Chris?
+
+KENT
+
+He didn't bother to come in today.
+
+BODIE
+
+He said he didn't feel like it; and then I said 'you better'; and then he said ' or what?'; and then I said ' or he'd get the heck,' and then he said 'jam it, it's Sunday' and he looks for God on Sundays; so I said 'okay, but I'm telling.'
+
+ATHERTON
+
+Thank you Bodie. I notice you've stopped stuttering.
+
+BODIE
+
+Yes, I've been giving myself some sock treatment and it's working.
+
+ATHERTON
+
+Good.
+
+(to Mitch)
+
+I'm sorry he isn't here. I wanted you to meet your hero.
+
+CARTER
+
+Hero? That clown? Look at this.
+
+He points to a table full of laser equipment comprised of various angled mirrors and gas cambers and drib units. The others gather around it.
+
+CARTER (Cont'd)
+
+We heard he wasn't coming in. Kent and I figured we'd go ahead and run his section without him. And we started getting picosecond ratings that aren't even in the ballpark.
+
+KENT
+
+It looks like it'll take at least a week to re-do all this and start again.
+
+Mitch is carefully studying the equipment and checking some notes that were on the table.
+
+KENT (CONT'D)
+
+Another costly mistake.
+
+ATHERTON
+
+Are you sure?
+
+CARTER
+
+Positive.
+
+KENT
+
+Positive.
+
+MITCH
+
+(reading from notes)
+
+Negative.
+
+(innocently, to Carter and Kent)
+
+There's a mistake all right, but I think you guys made it. Look, you inverted the last two steps.
+
+CARTER
+
+(grabbing the notes)
+
+I don't make mistakes...
+
+(reading)
+
+...Usually.
+
+ATHERTON
+
+Damnit, don't touch other people's things.
+
+MITCH
+
+(adjusting the equipment)
+
+This shouldn't take too long to fix.
+
+ATHERTON
+
+I'm glad that you were here, Mitch.
+
+KENT
+
+Yes, thanks for pointing out Carter's mistake, Mitch.
+
+ATHERTON
+
+Don't bother with that now. I'm sure you want to go get settled.
+
+MITCH
+
+(relieved)
+
+Well, it has been kind of a long day.
+
+Atherton starts to leave.
+
+ATHERTON
+
+Oh, I forgot Kent, I need your help.
+
+KENT
+
+Anything, Jerry.
+
+ATHERTON
+
+Stop it.
+
+KENT
+
+What?
+
+ATHERTON
+
+Get copies made of everything so young Mitch here can get started  checking everything tomorrow.
+
+KENT
+
+My pleasure.
+
+ATHERTON
+
+And then, on your way back, stop at my cleaners.
+
+KENT
+
+Don't give it a thought. I enjoy it.
+
+ATHERTON
+
+(to Mitch)
+
+Shall we?
+
+MITCH
+
+Sure.
+
+Atherton exits, followed by Mitch.
+
+BODIE
+
+I guess it goes from God to Jerry to you to the cleaners, right Kent?
+
+EXT. DORM HALL- LATE AFTERNOON
+
+Mitch enters the arched column portico of this dormitory building.
+
+INT. ROOM
+
+The room is small, cramped, and more than a little disheveled. PEI, NASA and science fiction posters hang on the ceiling and wall, over and around one of the two beds. Junk food and soft drink containers are littered everywhere. In one corner is a fully-stocked Frito Lay Chip display.
+
+Mitch crosses to his bed and sits. He is exhausted and depressed. The door opens and Mitch see a strange, tall, bulkily- built, hermit-looking kind of a guy enter. He is carrying a McDonald's bag. He stops when he see Mitch and stares at him in a quirky way for a second, then crosses to the closet, opens the door and exits into it.
+
+MITCH
+
+Hello?
+
+Getting no response, Mitch rises, goes to the closet, opens it and looks in.
+
+MITCH
+
+Hello?
+
+There is no one there.
+
+MITCH
+
+What kind of place is this?
+
+Mitch crosses to his luggage. he opens a bag and, to his surprise, he finds it empty. he then looks in the other bag and find they've all been cleaned out. Puzzled, he shuts the bags.
+
+Suddenly, the door swings open and CHRIS KINSLEY , who we saw earlier at PEI, ENTERS. He's dragging a large piece of mechanical equipment. it is, in fact, a baseball pitching machine.
+
+CHRIS
+
+Hi.
+
+Mitch stares.
+
+CHRIS (CONT'D)
+
+Hey, you just gonna sit there admiring the room or are you going to help me with this?
+
+MITCH
+
+What is this thing?
+
+CHRIS
+
+It's a penis stretcher. You want to try it out?
+
+MITCH
+
+No!
+
+CHRIS
+
+Oh really? Well, congratulations, then, No, It's an Iron Mike.
+
+MITCH
+
+What?
+
+CHRIS
+
+A baseball pitching machine.
+
+Chris is setting it up.
+
+MITCH
+
+I was here for a second this morning...
+
+CHRIS
+
+(frightened)
+
+You didn't straighten the place up, did you?
+
+MITCH
+
+(looks around at the mess)
+
+No.
+
+CHRIS
+
+Good. 'Cause all my filth's in alphabetical order.
+
+Chris puts on a baseball cap and grabs a bat.
+
+MITCH
+
+Anyway, I dropped off my luggage and now all my bags are empty.
+
+A ball is pitched. Chris connects and the ball smashes through the window.
+
+CHRIS
+
+I put your stuff away for you.
+
+Another pitch. He smashes a ball into a wall.
+
+CHRIS (CONT'D)
+
+It's all in the bottom drawer. Shirts, pants, underwear, shoes. I had a little trouble with your sport jacket, so I threw it out. Nah, only kidding. This one's for you, little Johnny.
+
+He whacks another pitch. He does a crowd cheer and circles the bases.
+
+CHRIS
+
+What a game. I'm Chris Kinsley.
+
+MITCH
+
+Oh, no.
+
+INT. MOVING CAR- SAME TIME
+
+Dr. Atherton is riding in a rental car with DON CARMICHAEL, a government contract monitor. These two guys are part of an old boy network involved with research and development.
+
+CARMICHAEL
+
+We're falling way behind, Jer.
+
+ATHERTON
+
+Well, we're not making cheese sandwiches here, you know, Don.
+
+CARMICHAEL
+
+That's a good one. I'll have to remember to use that, Jer.
+
+ATHERTON
+
+The new boy is quick.
+
+CARMICHAEL
+
+He better be because the company needs a practical working model within four months.
+
+ATHERTON
+
+You can't dictate innovation.
+
+CARMICHAEL
+
+Let me put this another way, Jer. You  know all that money we've been spending for development?
+
+ATHERTON
+
+Yes
+
+CARMICHAEL
+
+Well, when a project gets cut off, the finance boys always run an audit.
+
+ATHERTON
+
+I see.
+
+The car pulls up to Atherton's house, where there is a great deal of construction going on. Once the work is completed, this is going to be beautifully restored, rather large Victorian home.
+
+CARMICHAEL
+
+(looking out)
+
+Having a little work done on the old place, are you? Looks nice.
+
+INT. MITCH'S ROOM-THAT NIGHT
+
+Mitch is gathering up some books. He looks at a chart on the wall.
+
+MITCH
+
+Library... library...205.
+
+The door to the room opens while Mitch is looking the other way. We catch a glimpse of the same tall, bulkily-built man opening Mitch's closet door and disappearing inside. Mitch turns just in time to see the door close. he goes into it, opens it and looks inside. Nothing. he goes to the door of his room. Mitch opens the door, steps into the hall and slips, landing on his ass. His books go flying.
+
+INT. HALLWAY
+
+The hall floor is covered with ice wall-to-wall. Skating MUSIC is playing on a cassette somewhere. A few students, dressed for winter, are skating. Chris skates over and helps Mitch to his feet.
+
+CHRIS
+
+Welcome to Pacific Tech's "Smart People On Ice."
+
+He whirls away, leaping from wall to wall, sliding quickly down the ice. He stops in front of a short, roly-poly kid of Japanese descent, MARK ICKAGAMI, better know as ICK. Ick is a bio-chemist who spends a great deal of time in his lab experimenting with various fun compounds that do things ranging from making artificial ice to increasing memory.
+
+CHRIS
+
+(with a proletariat accent)
+
+Ice turned out real good, Ick.
+
+ICK 
+
+Yeah, it worked., didn't it?
+
+CHRIS
+
+What did you use?
+
+ICK 
+
+(teasing)
+
+Oh, sure, I tell you then you tell somebody else, and the next thing you know we're in the middle of another ice age.
+
+CHRIS
+
+(yelling down the hall)
+
+Come on, people. Nobody's skating.
+
+A STUDENT (O.C.)
+
+Just 'cause you're a slack, Kinsley.
+
+CHRIS
+
+Moles and trolls.
+
+MITCH
+
+What?
+
+CHRIS
+
+Moles and trolls. Work, work, work, work. I plan this for weeks. I go to a lot of trouble and all they want to do is study. I'm hurt. I know that's it's not like me but I'm sorry. I'm starting to get discouraged, people. We had nobody at the mutant hamster races, one entry in the Madame Curie look-alike contest, and he was disqualified later. Why do I even bother?
+
+Chris skates off.
+
+MITCH
+
+(to Ick)
+
+How does he do it?
+
+ICK 
+
+Well, I'm not an expert, but I think he puts one foot in front of the other and pushes.
+
+MITCH
+
+Not skating. The horsing around. The never studying. I know he's smart. but nobody's that smart.
+
+ICK 
+
+I don't know how smart he is. Before he even came here he invented a solar battery, which laid the groundwork for the system that provides the energy for Amarillo, at half the cost. He'd be a millionaire today if he been smart enough to make them pay for it. How he pulls the grades, I don't know.
+
+Just then, ROARING down the hall, face down on a sled, comes JORDANS COCHRAN. She is an advanced engineering student with great theoretical and mechanical skill who can never seem to pitched energy of a hyper-kinetic kindergarten class. She crashes at Mitch's feet. He reaches down to help her.
+
+MITCH
+
+You okay?
+
+JORDAN
+
+No, not emotionally, no I'm not. I'm disappointed... not terribly, but still, it should have gone much, further, much faster. It's okay, though, I know what the problem is, that's simple, it's obviously the drag coefficient, I'll just have to re-design the blades. I can do that, that's easy. I can do that here; but I have to cut then after they're designed, that takes tools, that takes time. How long is this stuff going to last, do you know?
+
+ICK 
+
+Maybe another half an hour.
+
+JORDAN
+
+That's great, that's good. I can do that, no problem, lots of time.
+
+(to Mitch)
+
+What's your name?
+
+MITCH
+
+Mitch
+
+JORDAN
+
+Thanks for the help. See you.
+
+And in a flash she is gone.
+
+MITCH
+
+Your welcome.
+
+(to Ick)
+
+Who was that?
+
+ICK 
+
+That? that was...
+
+Jordan rushes back.
+
+JORDAN
+
+(to Mitch)
+
+I'm Jordan, I realized I'd forgotten to tell you my name, it's Jordan. I heard there was going to be someone new this term, are you a freshman?
+
+MITCH
+
+Yes.
+
+JORDAN
+
+Do you have a bed?
+
+MITCH
+
+Yeah.
+
+JORDAN
+
+Oh, I was going to make you one if you needed it but you don't so that's okay. Well, I gotta go, I'll see you later, probably. See you Ick, see you Mitch.
+
+As she races off, KENT enters carrying several binders.
+
+KENT
+
+What's all this suppose to be?
+
+CHRIS
+
+This? This is new kind of shovel.
+
+Mitch finds this very funny and reacts accordingly by laughing.
+
+Kent can't stand to be laughed at.
+
+KENT
+
+(Dumping the binders into Mitch's hands)
+
+This should keep you busy for awhile. This, plus your regular class load should turn your brains to mush in a month.
+
+MITCH
+
+Aw! Kent, we were going to name you King of the Winter Carnival.
+
+KENT
+
+Ha ha.
+
+(to Ick)
+
+I suppose you're in on this, too. Did you make this stuff?
+
+ICK 
+
+I'm not saying.
+
+KENT
+
+Who's going to clean it up?
+
+ICK 
+
+Don't have to. It's going to go from solid form directly to gas.
+
+KENT
+
+(impressed by this fairly uncommon phenomenon)
+
+Really? What is it?
+
+ICK 
+
+I'm not saying. But I can tell you that it's fairly rare, and very unstable.
+
+KENT
+
+You're all a bunch of degenerates.
+
+CHRIS
+
+We are? What about that time I caught you naked with a bowl of Jello?
+
+KENT
+
+(flustered)
+
+I...you... I was hot and I was hungry. And anyway...Look, Kinsley, you're not number one anymore.
+
+CHRIS
+
+Number one what?
+
+KENT
+
+(pointing to Mitch)
+
+Mighty mouse, here, beat your placement scores by over twenty points.
+
+CHRIS
+
+Really? I guess you think you're pretty hot stuff?
+
+MITCH
+
+(uncomfortable, unsure if this is real)
+
+Well...no, I mean
+
+CHRIS
+
+Hey! Maybe you are smarter than me, but, can you do this?
+
+Chris pushes himself off backwards and slides along the ice in an attempt at a fancy figure skating move. Just as he's about to finish he crashes to the floor at the precise moment that the floor turns into a cloud of rising gas. Chris disappears in the cloud.
+
+ICK 
+
+(excited)
+
+It worked!
+
+MITCH
+
+That's neat.
+
+ICK 
+
+(teasing)
+
+Now if we can just keep it from exploding.
+
+Kent runs away.
+
+CHRIS
+
+(from inside the growing cloud)
+
+Hey, Ick.  Is it okay to breathe this stuff?
+
+(beat)
+
+Ick?
+
+(beat)
+
+Ick?
+
+The cloud fills the screen.
+
+INT. CHRIS AND MITCH'S ROOM-THE NEXT MORNING
+
+Perfect morning light streams through the window, making even this dump look beautiful. Chris is asleep in a strange position on his bed, proving that even asleep he is eccentric. We Pan across the room to Mitch. He has obviously fallen asleep while reading the binders that Kent had given him the night before. We HEAR the sound of the door opening, followed by some heavy footsteps. This causes Mitch to wake up. it takes him a second to realize where he is. He sits up.
+
+MITCH'S POV
+
+Again we catch just a glimpse of that same mysterious figure opening the closet door. He is holding a "McDonald's" bag. He closes the door behind him.
+
+ANGLE ON MITCH
+
+To say the least, he's thrown by this strange intrusion.
+
+MITCH
+
+Hello?
+
+He waits a beat, listening. Nothing happens so he gets up and crosses to the closet, looks inside.
+
+OVER MITCH'S SHOULDER INTO CLOSET
+
+There's nothing in there but clothes. Mitch pushes the garments aside and finds just a wall.
+
+ANGLE ON MITCH
+
+He shakes his head. This is getting frustrating. He exits the room.
+
+INT. BATHROOM
+
+Mitch crosses to the urinal. Just as he is about to relieve himself, the door opens. Jordan enters. This is an experience Mitch has never before and as a result he is one uncomfortable fifteen-year-old.
+
+JORDAN
+
+Hi, good morning, I thought I saw you come in here, you must be an earlier riser, we met last night, I'm Jordan, remember? I had a sled with me, I made you a sweater.
+
+She holds out a sweater. He leans into the urinal, trying to hide himself the best he can.
+
+MITCH
+
+Last night?
+
+JORDAN
+
+yeah, it's just something I do with my hands while I'm reading. I hope I got the size right, I'm pretty sure I did, I have a brother so I use him as a sizing comparison, and I have a pretty good eye for that sort of thing, so I just went ahead and made you one because I was, you know, up. Peeing?
+
+MITCH
+
+Yeah.
+
+JORDAN
+
+I never sleep. I don't know why. It drove my roommate nuts. I mean really nuts, they had to take her away in an ambulance and everything, she's okay now thought but she had to be transfer to an easier school but I don't know if that part has anything to do with being my fault, but still, anyway, if you ever want any help studying at night or just let me know, okay, 'cause I'm just a couple of doors down from you guys and I'm usually up and I wouldn't mind, okay?
+
+MITCH
+
+Thanks, I will.
+
+JORDAN
+
+Are you finished yet?
+
+MITCH
+
+I can't start.
+
+JORDAN
+
+Because I'm here?
+
+MITCH
+
+I think so.
+
+JORDAN
+
+Isn't that weird? Well, I have to go.
+
+MITCH
+
+Me, too.
+
+JORDAN
+
+Right, well, don't forget what I said, I'll put the sweater in your room, see you later, tell Chris that if he wants one I'll be happy to make him one but nit today because after classes I'm going to rebuild the back part of my room, you should come down and see it later, I have to go, bye.
+
+She exits.
+
+MITCH
+
+(stunned)
+
+bye.
+
+INT. THE LOBBY AREA OF THE DORM- A LITTLE LATER
+
+Mitch is coming down a hallway into the area. He is dressed in his tie and jacket and has books under his arm. As he crosses past the self-serve vending machine he spots Chris entering the kitchen. Mitch follows him inside.
+
+MITCH
+
+Something strange happened to me this morning.
+
+CHRIS
+
+Was it a dream where you see yourself dressed up in kind of sun god robes standing on top of a pyramid with all theses nude women throwing little pickles at you?
+
+MITCH
+
+No
+
+CHRIS
+
+Why am I the only person who has that dream?
+
+Before Mitch can ask another question, Chris open the freezer compartment and takes out a large thermos-like container. He takes it over to the cutting board, then takes from his pocket a pair of calipers, a pair of tweezers, and a little box that looks like a dental floss kit. He opens the container which immediately starts pouring thick steam.
+
+MITCH
+
+Liquid nitrogen?
+
+Chris uses calipers to extract a length of tubing from inside the container. he puts it down on the board and, using the tweezers, pushing out a cylindrical mound of ice from inside the tube. Then, from the dental floss kit, he pulls out a length of very fine wire, which he uses to cut the ice into a number of thin "coins" and slides then into the lid of the container, which he picks up and takes out the door with him. Mitch follows.
+
+INT. VENDING MACHINE AREA
+
+CHRIS
+
+Coffee?
+
+Using the tweezers, Chris picks up an ice coin and puts it into one of the machines. There is a high-pitched squeak. To Mitch's astonishment, the machine accepts the bogus money and a cup drops down and fills with coffee.
+
+CHRIS
+
+So, what's happened?
+
+MITCH
+
+Oh. There's a guy living in our closet.
+
+CHRIS
+
+You've seen him too?
+
+Chris puts his coins in several of the machines and retrieves from them junk food junky's treasure trove of goodies.
+
+MITCH
+
+Who is it?
+
+CHRIS
+
+Hopsfield.
+
+MITCH
+
+Is he... safe?
+
+CHRIS
+
+So far.
+
+Chris exits. Mitch stares after him.
+
+SCHOOL MONTAGE:
+
+A quick series of shots moves us through the next two months of time, accompanied by an original song.
+
+INT. LECTURE HALL-DAY
+
+An older professor is lecturing, pointing to a complicated algebraic problem on a blackboard, Mitch is in the last row of this student-filled, multi-tiered classroom. Everyone else listens intently and makes notes while Mitch thumbs quickly through a textbook, then closes it and makes a note in a loose-leaf binder.
+
+INT. ATOM SMASHER ROOM-DAY
+
+Mitch stands with a group of other students watching an instructor explain the intricacies of nuclear fission. Mitch opens a notebook and starts writing furiously.
+
+INT. ATHERTON'S PROJECT LAB-DAY
+
+Mitch is using his notes and some pieces of equipment to explain something to the rest of the team. Chris is impressed. Kent shakes his head in disagreement until Atherton nods his approval, at which point Kent also agrees.
+
+INT. CHRIS AND MITCH'S ROOM-NIGHT
+
+it is late but Mitch is still hard at the books. Hopsfield goes by and disappears in the closet. Mitch doesn't even notice anymore. There is a knock at the door and Jordan enters. She has brought Mitch a device that she just built which holds textbooks and turns the pages automatically.
+
+INT. LECTURE HALL-DAY
+
+Mitch, dressed more informally, is in the same room with the same professor as in scene 54. This time, however, there are several empty seats. The people have been replaced by cassette tape recorders. Mitch takes notes.
+
+INT. CHEMICAL ENGINEERING LAB-DAY
+
+Mitch enters with another student to find a teddy bear waiting for him at his place.
+
+INT. ATHERTON'S LAB-NIGHT
+
+Mitch and Chris work alone. it is obviously very late. Using a variety of exotic-looking devices, they put the laser through its paces and make notes.
+
+INT. LECTRURE HALL-DAY
+
+This time, Mitch is the only student. Tape recorders sit in front of every seat. The professor drones on, apparently oblivious to what he sees in front of him.
+
+INT. WAVE TANK ROOM-DAY
+
+A very attractive instructress is demonstrating a dye trace experiment in a huge wave tank. Mitch takes notes.
+
+INT. DINING HALL
+
+Mitch and Ick are carrying trays of food, looking for a place to sit. They pass a seated Kent, who points out a place for Mitch, who looks to see a highchair at the end of the table.
+
+EXT. LIBRARY-MORNING
+
+Mitch comes down the stairs with several books under his arms. He stumbles and drops one of the books. As he struggles to recover it, it is handed to him by none other than Hopsfield. By the time Mitch realizes who it is, the mysterious figure is once again gone.
+
+EXT. STREET-DAY
+
+Mitch is crossing the street carrying a huge load of books. Suddenly a yellow Citroen pulls up behind him and honks its horn causing Mitch to drop everything. He looks at the driver and sees that it is a laughing Kent.
+
+INT. ATHERTON'S CLASSROOM
+
+Chris, Kent, Bodie and Carter are present as Atherton wraps up a day's class. People take serious notes. Chris reads a magazine. People file out and Mitch enters approaches Chris to get him to work on the laser. Chris shakes his head.
+
+INT. ATHERTON'S LAB-LATE NIGHT
+
+Mitch is working alone. He adjusts the laser and turns it on. It burns through a very thick block of wood, but Mitch is still not pleased.
+
+INT. HALLWAY-NEXT MORNING
+
+A very tired Mitch heads for the lecture hall. He comes to the door, opens it and enters to see a tape recorder lecturing to a roomful of tape recorders.
+
+INT. CHRIS AND MITCH'S ROOM-ANOTHER NIGHT
+
+In need of a break from studying, Mitch goes to the closet in hopes of figuring out how to open the wall.
+
+He examines the walls and the floor and looks, for hidden switches or secret mechanisms, all to no avail. As he's about to give up, the closet door swings closed. When it closes, the wall opens to reveal a small elevator-like cage. Mitch steps in and the cage descends. It hits a lever and stops. But before Mitch steps in and the can get off, it begins to move sideways, triggering another pulley, and goes down again into the steam tunnels, then drags along the floor and stops. Mitch gets out. It's spooky. In the distance there is a glow of light.
+
+Mitch goes forward until he can see the home of Hopsfield. It's a very utilitarian example of life on the edge, with all the comforts. At the console of an amazing, hand-built computer sits amazing Hopsfield. Mitch watches in awe from the darkness.
+
+INT. ATHERTON'S LAB-DAY
+
+There is an experiment in progress. A large laser is building up an energy load. Atherton, Kent, Bodie, Carter, and Mitch monitor various pieces of equipment. Things hum and click and there is a sense that something big is going to happen. Atherton seems pleased, while Mitch seems troubled. Suddenly, a valve blows and a stream of liquid nitrogen hisses from a hose, spewing frost over everything. Everyone jumps for switches and they shut the experiment down.
+
+CARTER
+
+(checking the valve)
+
+It's nothing. It's just mechanical.
+
+ATHERTON
+
+GOOD. Don't bother changing it. I want you and Bodie to rebuild the whole unit; same output in half the size. Should hold up, right Mitch?
+
+MITCH
+
+Sure, as long as we go with H.F.
+
+ATHERTON
+
+Well, gentlemen, now what? Things are going okay so far, aren't they?
+
+KENT
+
+They certainly are in my area, Jerry.
+
+ATHERTON
+
+(warning)
+
+KENT
+
+KENT
+
+(unaware)
+
+Yes?
+
+MITCH
+
+Boy, when I think of all the applications for this...!
+
+ATHERTON
+
+(covering)
+
+We've got enough theory to deal with without talking applications. You just worry about giving me that power breakthrough. how close are you?
+
+KENT
+
+(gloating)
+
+Not very, from what I hear.
+
+ATHERTON
+
+(to Mitch)
+
+Aren't you and Chris working together?
+
+MITCH
+
+Yes...but...
+
+ATHERTON
+
+Where is Mr. Kinsley?
+
+KENT
+
+(anxious to get Chris in trouble)
+
+He's outside.
+
+Kent goes to the window and shouts down.
+
+KENT (CONT'D)
+
+(shouting)
+
+Kinsley! Dr. Atherton wants you.
+
+EXT. LAB BUILDING-MEDIUM CLOSE ON CHRIS-WAIST UP
+
+He's sitting on a chaise lounge with a stack of encyclopedias, sipping a beer.
+
+CHRIS
+
+Coming.
+
+PULL OUT TO REVEAL that the chaise lounge has balloons tied to each corner. Chris dumps a volume from his lap and the chaise rises straight up in the air.
+
+ANGEL ON ATHERTON AND CHRIS-FRAMED BY THE WINDOW
+
+Chris hovers in mid-air.
+
+ATHERTON
+
+What are you doing out there?
+
+CHRIS
+
+Floating, sir.  And thinking.
+
+ATHERTON
+
+(fuming)
+
+I want to see you at my house at six o'clock. Sharp.
+
+CHRIS
+
+Sounds fun. Should I bring anything?
+
+ATHERTON
+
+How about a proper attitude for a change?
+
+CHRIS
+
+I'll try and borrow one. Now, if you'll excuse me, there are millions of boys and girls everywhere waiting for me to bring them presents. Ho ho ho.
+
+He hands Atherton a volume and floats from view.
+
+INT. LAB
+
+Atherton, Mitch and Kent stand at the window, watching Chris ascend.
+
+KENT
+
+He's really pushing it, isn't he, Jerry?
+
+ANGLE ON MITCH
+
+He smiles as he watches his roommate and friend float off.
+
+EXT. ATHERTON'S HOUSE-EARLY EVENING
+
+The restoration work is reaching completion and the house is looking pretty beautiful. 
+
+A small crew of workmen paint and do other finishing work. Chris is sitting on the porch, watching. He is eating a very large puffs of popcorn from a bag. We SEE Atherton returning from his daily jog. He is decked out in an expensive designer jogging suit and has all the appropriate accessories. he also has all the silly habits of the trendy runner for cooling down and stretching.
+
+CHRIS
+
+You wanted to see me, your joggingness?
+
+ATHERTON
+
+Mr. Kinsley. Right on time. What a surprise. Do you run?
+
+CHRIS
+
+Only when chased.
+
+ATHERTON
+
+What are you eating?
+
+CHRIS
+
+It's one of mark's Ickagami's experiments. He's been irradiating corn with strontium. it's his hobby; big food.
+
+ATHERTON
+
+That's popcorn?
+
+CHRIS
+
+It's big popcorn.
+
+ATHERTON
+
+(over reacting)
+
+Get it away from me. I can't stand it. I hate popcorn. Leave it there.
+
+Chris puts the bag down on the porch.
+
+CHRIS
+
+Okay. Have you ever considered switching to de-caffeinated coffee?
+
+Atherton leads Chris to the front door, where he removes his shoes and then stands and waits until Chris does the same. They proceed into the house.
+
+INT. ATHERTON'S HOUSE- CONTINUOUS
+
+The interior is immaculate. A classic example of elegant good taste. Atherton is fastidiously protective of his things.
+
+ATHERTON
+
+I want to start seeing a lot more of you in the lab.
+
+CHRIS
+
+You want me to work nude?
+
+ATHERTON
+
+Very funny, you're a major disappointment to me, Chris.
+
+CHRIS
+
+And you to me, Jerry.
+
+ATHERTON
+
+(angry)
+
+We had a deal!
+
+CHRIS
+
+And I advanced your project more than any three guys on campus.
+
+ATHERTON
+
+That was yesterday. What have you done for me today?
+
+CHRIS
+
+Hey, aren't you getting a little obsessive about this? I took in the new kid. He's working his guts out for you.
+
+ATHERTON
+
+Your arrogant, disrespectful behavior is distracting him. If you keep it up, you're going to pay for it.
+
+CHRIS
+
+Hey, I'm out of here. Delenda Est Cartheo. P.E.I. July one.
+
+ATHERTON
+
+You still have to pass, dear boy, and considering the fact that my class is a requisite, it would seem that I would have some control over your destiny. From now on, you and Mr. Simon are going to spend every waking moment working on my power problem and you will solve it by my deadline.
+
+CHRIS
+
+Okay, Jerry, but I really think you should see an analyst.
+
+Chris exits. Atherton watches him go.
+
+INT. ATHERTON'S LAB-NIGHT
+
+Mitch is alone and trying to work on the new, smaller laser. He looks tired and upset. He tinkers around for a while, then goes back to his table and looks at his notes. Nothing seems to make sense anymore. Chris enters with a beaker in his hand.
+
+CHRIS
+
+Hi. Do me a favor, taste this.
+
+Mitch is confused.
+
+CHRIS (CONT'D)
+
+Come on, you won't hurt my feelings.
+
+MITCH
+
+I...
+
+Chris rams the spoon in his mouth.
+
+CHRIS
+
+Well, too sweet?
+
+Mitch makes a face.
+
+MITCH
+
+What is it?
+
+CHRIS
+
+Beats me. I just found it in one of the labs.
+
+MITCH
+
+Aggghh!!
+
+CHRIS
+
+Come on. I'm just pulling your leg. How are you doing?
+
+MITCH
+
+I'm stuck. Dr. Atherton says we've got to miniaturize the power supply and you're not helping.
+
+CHRIS
+
+Lighten up. It's only a laser.
+
+Chris goes to the laser. Mitch is annoyed.
+
+CHRIS (CONT'D)
+
+Instead of trying to take that roomful of capacitors over there and putting new perspective. Charge this baby up. Everything you've got.
+
+MITCH
+
+What for?
+
+CHRIS
+
+You'll see. Go
+
+Mitch goes next door. Chris, meanwhile, measures a certain distant from the floor and mounts a mirror on the wall above his head. He then moves to the laser and repositions it to shoot at the mirror. Mitch returns and makes some adjustments to a control panel.
+
+MITCH
+
+All set, I think.
+
+CHRIS
+
+Do it.
+
+Mitch throws a switch. Immediately, a loud electrical hum fills the air. Chris goes over and opens the door to the hall and glances left.
+
+CHRIS'S POV
+
+A roomful of capacitors loading.
+
+EXT. THE CAMPUS-NIGHT
+
+The lights twinkle from various buildings. WE HEAR the hum
+
+EXT. THE CAMPUS-NIGHT
+
+The lights twinkle from various buildings. We hear the hum growing.
+
+MITCH (V.O.)
+
+What are you doing now?
+
+CHRIS (V.O.)
+
+Making hamburgers.
+
+Suddenly, there are several loud snaps and all the lights on campus go off at once as the power overload blows the sub station fuses.
+
+MITCH (V.O.)
+
+Oh, no!
+
+INT. THE LAB IN DARKNESS
+
+CHRIS
+
+Relax, it's just the fuses at the sub station. They'll have it back on in a second. More importantly, did we get a charge?
+
+Suddenly there is a loud "crack" and the laser sends out a beam across the room, bouncing off the mirror on the wall., out the door, where it hits another mirror and disappears from sight.
+
+MITCH
+
+Wow!
+
+EXT. THE CAMPUS-CONTINUOUS
+
+The beam has formed a web of light across the darkened campus. The effect is quite spectacular. People look in awe. Chris and Mitch exit the physics building.
+
+CHRIS
+
+Follow the yellow brick road.
+
+MITCH
+
+Have you ever considered the fact that you are completely wasting your life?
+
+CHRIS
+
+Constantly.
+
+The lights on campus come back on as Chris and Mitch continue to follow the beam.
+
+INT. WAVE TANK BUILDING
+
+An open window above the door lets the beam of light enter. Chris and Mitch enter.
+
+INT. HALLWAY-CONTINUOUS
+
+Chris and Mitch walk down a stairway through an open door, following the beam.
+
+INT. WAVE TANK ROOM-CONTINUOUS
+
+The place has been turned into an indoor Waikiki. The beam has been directed into a hood-shaped device that has split it into enough rays to cook a bunch of hot dogs and hamburgers on an improvised barbeque, managed by ICK, who is dressed for the beach and wearing a welding mask.
+
+Past him we can see that there about twenty girls and some guys present. Several of them are water-skiing on the mechanically produced waves inside the tank, towed by an elaborated pulleys system. Others are frolicking on the "beach" and cut out palms stand around, achieving the desired effect. Blankets have been laid out and girls sit on them eating hot dogs and talking. There are sun lamps set up in one area and some kids are smoothing sun tan oil and shagging a few rays. Rock music fills the room.
+
+ICK 
+
+(lifts his mask)
+
+Aloha.
+
+ANGLE ON THE DOORWAY
+
+A lot of the guys we've seen around the dorm have started to arrive. They enter hesitantly at Chris's urging.
+
+CHRIS
+
+Come on in, boys. Surf's up.
+
+Awestruck, shy but excited, they approach.
+
+CORNELL
+
+(a nerdy student)
+
+I have a geochemistry test tomorrow and I do not feel adequately prepared.
+
+CHRIS
+
+But the main thing is you look good.
+
+CORNELL
+
+Thanks.
+
+MILTON
+
+What if we end up having too much fun and end up failing?
+
+CHRIS
+
+And would that be the end of the world. Milton?
+
+MILTON
+
+Yes, it would.
+
+CHRIS
+
+Yeah, you're right. Maybe you should go back to the library.
+
+MILTON
+
+Well, maybe I could just look for a minute.
+
+CORNELL
+
+(noticing)
+
+Are those girls?
+
+CHRIS
+
+I haven't had them all tested yet, Cornell, but so far so good.
+
+MITCH
+
+Who are they?
+
+MILTON
+
+They're not from here. I'd know.
+
+CHRIS
+
+No, no they're not, they're from a nearby college though.
+
+MITCH
+
+Which one?
+
+CHRIS
+
+The Wanda Trossler School of beauty.
+
+MITCH
+
+They're beauticians?
+
+CHRIS
+
+Not yet.
+
+CORNELL
+
+Gee, I don't know...
+
+CHRIS
+
+They'll teach you. Let's get serious here, lads. There are 670 guys at pacific tech and 136 girls.
+
+MILTON
+
+A ratio of 4.93 to 1
+
+CHRIS
+
+Good, Milton. Of the 136 girls, most of them can find guys a lot better than you.
+
+CORNELL
+
+Oh, easily.
+
+CHRIS
+
+These girls are not used to geniuses. You might impress them.
+
+CORNELL
+
+I don't see how.
+
+CHRIS
+
+Let me put this another way. Given the type of people you are and the environment you're in, you guys have to admit the strong probability that this may be the only chance you'll ever get in your entire lives to have sex.
+
+There is a pause while everyone considers the hypothesis.
+
+CHRIS (CONT'D)
+
+Think about it.
+
+He turns and heads into the party. After a beat, everyone except Mitch follows Chris's lead.
+
+ANGLES ON VARIOUS ACTIVITIES- A LITTLE LATER
+
+Water-skiing, dancing, a volleyball game. Most of the guys are making an effort to socialize. Mitch watches quietly.
+
+ANGLE ON MILTON TALKING TO A GIRL OVER BY THE SUN LAMPS.
+
+VIVIAN
+
+So, what do you guys do? Just be smart all the time?
+
+MILTON
+
+Well...
+
+VIVIAN
+
+What's your major?
+
+MILTON
+
+Astrophysics.
+
+VIVIAN
+
+Is that like sports medicine?
+
+MILTON
+
+Space.
+
+VIVIAN
+
+(impressed)
+
+Oh! Let me ask you something about that. If I was on the moon, Could I like tease hair much higher?
+
+MILTON
+
+Theoretically.
+
+VIVIAN
+
+This is fascinating.
+
+ANGLE ON another guy named Fenton and a girl. They're necking.
+
+CONNIE
+
+My friend Evelyn, tells me that brilliant men are the best lovers.
+
+FENTON
+
+I'd say that's true.
+
+CONNIE
+
+Up to now, what's been your ultimate sexual experience?
+
+FENTON
+
+I once fell off a ladder and landed on my sister, Bernice.
+
+ANGLE ON CONNELL, and a girl in the tank. they both bob up out of the water. Cornell still has his glasses on. He takes them off and can't see.
+
+LOUISA
+
+Why do you wear those glasses?
+
+CORNELL
+
+So I can see.
+
+LOUISA
+
+But you look very sexy without them.
+
+Reflexively he breaks his glasses in his hands.
+
+ANGLE ON MILTON AND VIVIAN. He rubbing suntan oil on her back
+
+MILTON
+
+I really should be studying.
+
+VIVIAN
+
+Me too. I have a bleaching final tomorrow.
+
+MILTON
+
+(sneezing)
+
+Achew.
+
+VIVIAN
+
+Bless you.
+
+MILTON
+
+I'm allergic to suntan oil.
+
+VIVIAN
+
+Maybe you should stop.
+
+MILTON
+
+(aroused)
+
+I don't think I can
+
+ANGLE ON CORNELL AND LOUISA. They are sitting on the "beach" toweling off.
+
+LOUISA
+
+(very sexy)
+
+You know, I read in the Enquirer that woman paid twenty thousand dollars for the sperm of a genius.
+
+CORNELL
+
+Really?
+
+LOUISA
+
+(putting her arms around him)
+
+I've GOT TWENTY BUCKS?
+
+CORNELL
+
+Do you have a cup?
+
+ANGLE ON MITCH
+
+The party is in full swing and most of the guys have become very comfortable. Some are making out. Mitch now seems like the only one left out. he sees a pretty GIRL just coming out of the water. She adjusts her top. Mitch wanders over to her.
+
+MITCH
+
+(with great effort)
+
+Hi.
+
+TAMMY
+
+Hi.
+
+MITCH 
+
+I was watching you...swim.
+
+TAMMY
+
+Yes?
+
+MITCH 
+
+I was thinking of maybe going for a swim myself.
+
+TAMMY
+
+Yeah? Is this the kiddy pool?
+
+She exits, leaving Mitch devastated. He goes and sits in a corner. Meanwhile, Chris is looking around proudly. It's obvious he didn't see what just happen to Mitch. He smiles at the fun everyone is having. A girl passes him eating a hamburger.
+
+CHRIS
+
+Don't eat that!
+
+KIMBERLY
+
+Huh?
+
+CHRIS
+
+Don't you know eating that stuff can give you very large breasts?
+
+(mock despair)
+
+Oh. My god! I see I'm too late.
+
+She laughs. He puts his arms around her and they walk off. As Chris and Kimberly EXIT, we catch a glimpse of a face in a window. We push in to see Kent, spying.
+
+INT. CLASSROOM-SAME TIME (BUT APPEARS TO BE DAY)
+
+OPEN TIGHT on Atherton's face. He looks odd, as there are Kleenex tissues sticking out from his shirt collar. A hand comes into frame, holding a pancake makeup puff, and starts applying it to his face.
+
+ATHERTON
+
+Christ, Don. I'm doing the best I can.  You act like I don't want my own invention to work. There are only so many hours in a day.
+
+CAMERA PULLS BACK
+
+CARMICHAEL
+
+I agree. And what's more important, massaging your ego on television explaining the digestive system of a rabbit to the great unwashed or "project crossbow"
+
+MAKEUPMAN
+
+Off-hand, I'd say television.
+
+ATHERTON
+
+(angrily to make up man)
+
+Just get rid of the crows' feet!
+
+(to Carmichael carefully)
+
+There's nothing more important than " crossbow," but when went from blue sky to black you turned into Bigfoot.
+
+The STAGE MANAGER approaches.
+
+STAGE MANAGER
+
+Ready to go, Dr. Atherton.
+
+He exits.
+
+ATHERTON
+
+Pushing me doesn't help. You tell them that.
+
+He walks away. There is definitely no love between them.
+
+ATHERTON (CONT'D)
+
+(under his breath)
+
+Son of a bitch.
+
+CARMICHAEL
+
+(under his breath)
+
+Asshole.
+
+ANGLE ON ATHERTON as he walks over to the cue card man and checks through the cards. KENT enters in a rush.
+
+KENT
+
+I have something to...
+
+ATHERTON
+
+(cutting him off)
+
+Did you pick up my dry cleaning?
+
+KENT
+
+Yes I did... there's something you should know.
+
+ATHERTON
+
+The gravy stain?
+
+KENT
+
+No, that came out.
+
+(very pleased)
+
+Chris and Mitch aren't working. They're at a party.
+
+Atherton begins to seethe.
+
+ATHERTON
+
+I want to show me where, right after I'm finished here.
+
+KENT
+
+(all smiles)
+
+My pleasure.
+
+STAGE MANAGER
+
+In five...four...
+
+Kent forgets to move. Atherton shoves him off. We HEAR an off-stage CRASH.
+
+STAGE MANAGER (CONT'D)
+
+...three...two...and...
+
+We PUSH in on nearby monitor. the show's logo comes on, along with its theme MUSIC.
+
+ANNOUNCER (V.O.)
+
+WELCOME TO "SCIENCE," WITH YOUR HOST, Dr. JEROME ATHERTON. FUNDED BY...
+
+A NEW CARD SHOWS ON THE MONITOR.
+
+ANNOUNCER (V.O.)
+
+... A grant from Pacific Electric Instruments. PEI. And now, Dr. Atherton.
+
+Atherton appears on the monitor.
+
+ANGLE ON ATHERTON IN THE STUDIO
+
+He smiles broadly and reads from the cue cards.
+
+ATHERTON
+
+Good evening. Tonight we're going to look at something most of us take for granted... the colon. What's it look like?
+
+KENT WANDERS BY IN THE BACKGROUND.
+
+INT. WAVE TANK ROOM-LATER THAT NIGHT
+
+THE PARTY IS STILL GOING STRONG.
+
+ANGLE ON JORDAN
+
+She tosses a volleyball up into the air in a one-woman game of catch. Mitch approaches forlornly.
+
+JORDAN
+
+Wanna play?
+
+MITCH
+
+I'm not very...
+
+HE GETS SMACKED IN THE HEAD BY THE BALL.
+
+MITCH (CONT'D)
+
+Sure, all right.
+
+Through the following, Mitch and Jordan volley the ball between them.
+
+JORDAN
+
+Some party, huh?
+
+MITCH
+
+I guess.
+
+(hesitant)
+
+How come you're not...
+
+JORDAN
+
+Necking?
+
+MITCH
+
+well...
+
+JORDAN
+
+I'm not gay.
+
+MITCH
+
+(embarrassed)
+
+I didn't... I wouldn't even...
+
+JORDAN
+
+Look, I'm seventeen. I'm brilliant, and I'm hyper kinetic. Guy are a little afraid of me, you know. It'll pass...I hope.
+
+ANGLE ON MITCH
+
+MITCH
+
+(softly)
+
+I think you're very nice.
+
+Mitch gets smashed on the head with the ball, sending his glasses flying.
+
+Suddenly, Atherton burst into the room, followed closely by Kent.
+
+ATHERTON
+
+(seeing Mitch)
+
+Simon!
+
+He passes the tape deck and snaps it OFF. Everything comes to a stop as Atherton heads for Mitch, all eyes trained on the pending drama.
+
+ATHERTON
+
+You were supposed to be in the lab tonight.
+
+KENT
+
+(chiming in)
+
+Weren't you!
+
+MITCH
+
+I was and...
+
+ATHERTON
+
+You are at Pacific Tech to work, not to behave like a philistine.
+
+KENT
+
+That's right!
+
+MITCH
+
+I was working, I...
+
+ATHERTON
+
+Where's Kinsley. I imagine this was his idea.
+
+KENT
+
+No doubt!
+
+ATHERTON
+
+(annoyed)
+
+Kent!
+
+KENT
+
+(stiffening)
+
+yes?
+
+ATHERTON
+
+(to Mitch, very angry)
+
+I took a big chance recommending a fifteen-year-old. I guess I made a mistake. I hope you're proud of yourself.
+
+Kent is in seventh heaven as Atherton turns and heads for the door. As they exiting, they pass Cornell and his date.
+
+CORNELL
+
+Dr. Atherton?
+
+ATHERTON
+
+What!
+
+CORNELL
+
+Are you wearing makeup?
+
+Atherton can only stare in his rage.
+
+LOUISA
+
+Is it too try and hide those crows' feet?
+
+He growls and exits.
+
+ANGLE ON MITCH
+
+He is truly at a loss in the face of this cruelty. Everyone is staring at him. He runs out the door.
+
+ANGLE ON JORDAN
+
+She watches Mitch go, feeling very badly for him
+
+INT. ATHERTON'S LAB-THE NEXT NIGHT
+
+Mitch, tired, looking like a kid who's been working for hours, is staring at a formula on the blackboard. Frustrated, he throws his screwdriver against it in anger and runs into the adjacent room and begins disconnecting the capacitor bank. 
+
+INT. LAB HALLWAY-EARLY MORNING
+
+Kent, Bodie and Carter cross toward the lab. Just then, Mitch comes out. He looks exhausted and very upset. As he passes Kent, he turns away from his stare.
+
+KENT
+
+(mock concern)
+
+Gee, he looks depressed.
+
+The other guys yuk it up. They turn and watch Mitch go into Atherton's office down the hall. They follow in time to HEAR:
+
+MITCH (O.S.)
+
+I'd like to make a collect call to Mrs. Bill Simon.
+
+Kent's eyes light up with an idea.
+
+INT. ATHERTON'S OFFICE
+
+Mitch is on the phone. He's very upset.
+
+MITCH
+
+I know, but I don't like it here anymore. I want to live at home with you...
+
+(reluctant)
+
+Yeah, and dad. I want to go back to high school. I-dad did what?
+
+Rented out my room? ...Well, why can't Mr. Echevarria and I share it?... Please, ma, I want to come home.
+
+INT. KENT'S LAB-TIGHT ON A MINI TAPE RECORDER
+
+Its reels are spinning. It's being held up to a telephone receiver.
+
+MITCH (V.O./FILTER)
+
+(crying)
+
+Please let me come home. I don't want to stay here.
+
+WIDEN to reveal Kent holding the recorder as cater and Bodie watch. The workbench area in Kent's lab is covered with a drop cloth. Kent chuckles as MITCH pleads with his mother.
+
+INT. DORM HALL-DINING ROOM-NEXT MORNING
+
+The dorm population is eating their breakfast. Kent and his unholy two are smugly downing their "shredded wheat" Mitch is alone off in the corner. It's obvious he hasn't slept.
+
+Chris enters and crosses to Kent. A WAITRESS, middle-aged, is serving coffee.
+
+CHRIS
+
+Kent...let's never fight like that again.
+
+KENT
+
+What?
+
+CHRIS
+
+We've been lovers too long to have a silly argument come between us.
+
+The waitress stares disgustedly at Kent.
+
+KENT
+
+Chris...
+
+CHRIS
+
+Please. Don't speak. You were right. Tonight I'll wear the cowboy suit.
+
+CHRIS EXITS
+
+KENT
+
+(sputtering)
+
+You...
+
+WAITRESS
+
+Do your parents know about this?
+
+KENT
+
+Of course not!
+
+She nods and exits. Kent calls after her.
+
+KENT (CONT'D)
+
+Nobody knows. I mean, there's nothing to know.
+
+ANOTHER ANGLE
+
+Chris walks over to Mitch.
+
+CHRIS
+
+Where were you all last night?
+
+MITCH
+
+The lab. Where you were supposed to be. 
+
+CHRIS
+
+Jordan told me about Atherton coming down on you...what exactly did...
+
+Mitch abruptly turns his back to Chris and continues eating. Chris sees the conversation is over.
+
+CHRIS (CONT'D)
+
+(referring to the sentence he never finished)
+
+...Let me hold that thought and get back to ya.
+
+ANOTHER ANGLE
+
+Ken, Bodie and Carter. The gentle strains of classical music fill the room.
+
+KENT
+
+Something soothing to eat by.
+
+The tape is abruptly interrupted by the RECORDING Kent made of Mitch on the phone to his mother.
+
+ANGLE ON MITCH
+
+He can't believe his ears. His expression runs from surprise to embarrassment.
+
+ANOTHER ANGLE
+
+Everyone stops eating and listens to Mitch begging his mother to come home. They share his embarrassment and lower their heads. Even Kent's friends are uncomfortable. Kent, on the other hand, is laughing it up, having a great time.
+
+ANGLE ON MITCH
+
+He's in a state of shock.
+
+ANGLE ON KENT
+
+KENT
+
+(he can't wait )
+
+Here comes the crying!
+
+He loves it.
+
+ANGLE ON MITCH
+
+He runs out of the dinning room. Kent loves Mitch reaction. It makes him laugh harder.
+
+ANGLE ON CHRIS
+
+CHRIS
+
+(to himself)
+
+Too low.
+
+INT. MITCH'S ROOM-A FEW MINUTES LATER
+
+Mitch is trying to pack, but it's difficult because the place is in such disarray. Chris enters. He watches and tries to think of what to say.
+
+CHRIS
+
+Okay, if you want to leave, go ahead. But you'll miss the fun.
+
+MITCH
+
+(sour)
+
+What fun?
+
+CHRIS
+
+Ick invented a new virus and we're gonna release it in Kent's room.
+
+Mitch turns on Chris with surprising hostility.
+
+MITCH
+
+That's sick! That's a sick thing to do!
+
+CHRIS
+
+Hey, I was just kidding, I...
+
+MITCH
+
+You're always just kidding. There's something wrong with you.
+
+CHRIS
+
+Just a second...
+
+MITCH
+
+The other night I needed your help and all you wanted to do was party.
+
+CHRIS
+
+I tried to help you. I tried to help you relax.
+
+MITCH
+
+Being snubbed by beauticians isn't my idea of relaxing.
+
+CHRIS
+
+Student beauticians.
+
+MITCH
+
+(Blows up)
+
+I thought this place was going to be different, but it's just the same. I'm either used or made fun of. In high school they pushed me in a mailbox, did I tell you that?
+
+CHRIS
+
+They called me Chris the whiss'...
+
+MITCH
+
+Really? What's a whiss?
+
+CHRIS
+
+I think they meant wuss, but it didn't rhyme...when I was three years old, I balanced my father's checkbook so they sent me to school and fired their accountant. My father was so intimidated, he stopped speaking to me. My teacher disliked me because I was smarter than they were, and my classmates hated me because I bell the bell curve. Sound familiar? And tell me why my...why did my mother dress me in white shirts, hush puppies and a briefcase, guaranteeing that a girl would never talk to me?
+
+Mitch looks down at his own white shirt and hush puppies.
+
+MITCH
+
+YOU?
+
+CHRIS
+
+(Dramatic)
+
+And then one night, in this room, I was sitting right where you are sitting now. I had a vision. I saw him.
+
+MITCH
+
+god
+
+CHRIS
+
+Hopsfield.
+
+MITCH
+
+Hopsfield? Oh! The guy in the closet.
+
+CHRIS
+
+Yeah. Laslo Hopsfield. I followed him. Through the closet; down into the steam tunnels. And down there I saw the most disgusting thing Ive ever seen.
+
+MITCH
+
+(Frighten)
+
+What?
+
+CHRIS
+
+Hopsfield in his pajamas. 
+
+MITCH LAUGHS.
+
+CHRIS
+
+(Lighter, but sincere)
+
+And I talk to the guy . Turned out that in the Seventies he was the number one stud around here. Smarter than you and me put together. So brilliant, so sharp, so advanced, so long.
+
+MITCH
+
+What do you mean?
+
+CHRIS
+
+He graduated. Went to work for some chemical company. One day someone told him he was making stuff that was killing people. I think it was his mother. He freaked. You see, he was totally unprepared for the real world. He had no philosophy. He thought science was the answer for everything.
+
+Mitch
+
+Am I gonna wind up in a steam tunnel?
+
+CHRIS
+
+Yes, you are, Metaphorically speaking. Unless you see that the same thing that has made your life miserable can make it great; your brain. When you're smart, people need you, and you can learn how to work that for fun and profit.
+
+MITCH
+
+You had a arrangement going with Atherton, don't you? That's why you don't have to study.
+
+CHRIS
+
+Hey, I don't carry a briefcase.
+
+(pause) 
+
+You're a nice kid. If you leave I'll miss you.
+
+MITCH
+
+(thinking about it)
+
+If I stay, what should I do, I mean...
+
+CHRIS
+
+Well, the first thing you have to do is get even with Kent. It's a moral imperative.
+
+MITCH
+
+(smiles)
+
+Yeah.
+
+EXT. CAMPUS-NIGHT
+
+Kent's Citroen pulls up. Kent and Carter get out and walk by Jordan, who is sitting nearby.
+
+KENT
+
+And at Northern Electronics you get the stock options, but not the free housing, It's what makes PEI so sweet. You get everything.
+
+CARTER
+
+Yeah, and Kinsley's got that locked.
+
+KENT
+
+(knowingly)
+
+Maybe he does, and maybe he doesn't.
+
+They walk away.
+
+After a beat, CHRIS, MITCH and ICK jump out from behind another car. Mitch carries a TOOL BOX.
+
+JORDAN
+
+Over here!
+
+The others rush over to her. Chris trains a light on the license plate. It reads, "KENT."
+
+CHRIS
+
+He puts his name on his car. He does the same thing with his underwear.
+
+Mitch flops down the tool box.
+
+5R5DISSOLVE TO:
+
+MONTAGE
+
+Chris, Mitch, Jordan and Ick working on Kent's car. They are undoing bolts, talking out wires, removing fenders, etc. The last DISSOLVE and we see the car is gone. And no sign of our foursome.
+
+EXT. DORM HALL-NIGHT
+
+Chris quietly goes up the stairs inside the dorm carrying a steering wheel. Ick and Mitch have an engine on a flatbed cart. Jordan enters carrying heavy chains and a drill.
+
+EXT. KENT'S ROOM-EARLY MORNING
+
+Filthy with crankcase oil, Chris, Mitch, Ick and Jordan exit and scamper down the hall. All are very pleased with themselves.
+
+EXT. KENT'S ROOM-LATER THAT MORNING
+
+Kent is coming down the hall. he opens his door and walks inside.
+
+INT. KENT"S ROOM
+
+CLOSEUP ON KENT. His jaw drops open.
+
+ANOTHER ANGLE
+
+Chris and Mitch enter.
+
+CHRIS
+
+Hey, Kent. That's your car.
+
+MITCH
+
+You're not supposed to park on campus.
+
+KENT
+
+This isn't funny. You went too far this time, Kinsley.
+
+CHRIS
+
+I had help.
+
+KENT
+
+(surprised, to Mitch)
+
+You?
+
+(a beat)
+
+I'm going to get you guys. Dr. Atherton's gonna hear about this.
+
+He storms out of his room.
+
+CHRIS
+
+(calls to Kent)
+
+Hey, Kent, you owe us ten dollars for the gas.
+
+(to Mitch)
+
+He'll never pay us.
+
+EXT. ATHERTON'S HOUSE-DUSK
+
+The restoration has been completed and the house looks beautiful. Chris comes up the walk, goes to the door and rings the bell. A very pretty girl named SUSAN answers the door.
+
+INT. ATHERTON'S HOUSE-CONTINUOUS
+
+Chris enters.
+
+CHRIS
+
+Wow! Hello.
+
+SUSAN
+
+Hi.
+
+CHRIS
+
+Jerry asked me to drop by. What did he ask you to do?
+
+SUSAN
+
+What?
+
+CHRIS
+
+Which word didn't you understand?
+
+SUSAN
+
+Are you here for the meeting?
+
+CHRIS
+
+What meeting?
+
+SUSAN
+
+I don't know.
+
+CHRIS
+
+Okay.
+
+SUSAN
+
+I'm just waiting.
+
+CHRIS
+
+Right.
+
+The study doors open and Atherton, Carmichael and Decker step out.
+
+DECKER
+
+(finishing their conversation)
+
+And finally, it comes down to, if you can't do it, we'll get somebody else. I have a timetable, doctor.
+
+CARMICHAEL
+
+We're very close, Dave, don't worry, everything's going to be fine.
+
+DECKER
+
+(cold as ice)
+
+Don, try and remember you work for me.
+
+(to Atherton)
+
+I think I've made my point, haven't I?
+
+ATHERTON
+
+(equally as cold)
+
+Crystal clear, Mr. Decker.
+
+DECKER
+
+Good.
+
+CHRIS
+
+Anything I should know about?
+
+ATHERTON
+
+Shut up Kinsley. I'll be with you in a moment.
+
+DECKER
+
+Goodbye, Jerry, and good luck. Susan?
+
+They begin to exit. Chris takes Susan's hand.
+
+CHRIS
+
+I guess this is goodbye. I'm sorry I didn't get a chance to know you. At all.
+
+(to the boys in admiration)
+
+Have you ever seen breasts like theses before?
+
+DECKER
+
+She happens to be my daughter.
+
+CHRIS
+
+Oh, then I guess you have.
+
+CARMICHAEL
+
+(to Atherton)
+
+I'll be reporting to him every day.
+
+DECKER
+
+Coming, Don?
+
+CARMICHAEL
+
+Yes, Sir.
+
+They exit.
+
+ATHERTON
+
+What do you think you're doing?
+
+CHRIS
+
+You said come over.
+
+ATHERTON
+
+Take off those shoes.
+
+Chris removes his shoes to reveal even dirtier socks.
+
+ATHERTON (CONT'D)
+
+Stay off the rugs.
+
+INT. STUDY-CONTINOUS
+
+CHRIS
+
+What's up, Doc.
+
+ATHERTON
+
+I'm withdrawing your recommendation to PEI.
+
+CHRIS
+
+What?
+
+ATHERTON
+
+I'm giving Kent the job.
+
+CHRIS
+
+Did you suddenly find humor?
+
+ATHERTON
+
+You haven't solved my power problem.
+
+CHRIS
+
+I'm trying.
+
+ATHERTON
+
+No, you're not. So, I'm going to fail you, so you won't graduate, so you can't take the job. Q.E.D.
+
+CHRIS
+
+I'll pass your exam.
+
+Atherton just smiles a "so what" smile.
+
+CHRIS (CONT'D)
+
+We had a deal!
+
+ATHERTON
+
+Did we? That doesn't sound very ethical.
+
+CHRIS
+
+You can't do this. I'll go to Dr. Meredith.
+
+ATHERTON
+
+(enjoying this)
+
+Go ahead. What are you going to tell him. Don't forget, like most scientists, he is an honorable, moral man who thinks everyone else is too. I'll just deny anything you say.
+
+CHRIS
+
+You dick!
+
+ATHERTON
+
+Count on it.
+
+EXT. DORM ROOF-NIGHT
+
+Chris sits, lost in thought, outside the window of his room, Mitch appears at the window, sees Chris and climbs out to join him.
+
+MITCH
+
+What are you doing?
+
+CHRIS
+
+Self-realization. I was thinking of jumping, but it's only twelve feet.
+
+MITCH
+
+Something wrong?
+
+CHRIS
+
+No. Atherton is going to flunk me out of school.
+
+MITCH
+
+But you had a deal.
+
+CHRIS
+
+Yeah, and he says I didn't deliver. You sleep with pits, you wake up smelly. I think Aristotle said that. It was him or Eva Gabor. At least Hopsfield still has his integrity.
+
+MITCH
+
+Excuse me?
+
+CHRIS
+
+I thought I was so smart. I didn't want to be like the other dumb geniuses like Hopsfield. I though I could use Them., instead of Them using me. But, Guess what?
+
+MITCH
+
+I have to agree. It does appear that you've been the victim of your own erroneous logic.
+
+CHRIS
+
+Thank you.
+
+MITCH
+
+However, this doesn't mean that you can't get yourself out.
+
+CHRIS
+
+How?
+
+MITCH
+
+Hard work?
+
+CHRIS
+
+But that's the old way.
+
+GRINDING MONTAGE
+
+A series of shots showing Chris hard at work, underscored by an original song.
+
+INT. LASER LAB
+
+Mitch and Chris dismantle part of the laser.
+
+INT. DINING HALL
+
+Mitch, Jordan and Ick are listening as Chris shows them diagrams and formulas for a laser supercharger while they try to eat.
+
+INT. BIOCHEMISTRY LAB
+
+Chris and Ick search for a new gas combination for the laser supercharger. 
+
+INT. ATHERTON'S LAB
+
+Mitch and Chris work hard on a second laser. Kent is both upset and suspicious of Chris' new interest in work.
+
+INT. ATHERTON'S CLASSROOM
+
+Chris enters carrying books and a note pad. Kent sees this and is shocked. Atherton gives Chris a "you haven't got a chance" grin.
+
+INT. CHRIS AND MITCH'S ROOM-NIGHT
+
+They both study for exams; on the wall is a chart of exam week showing Mitch's exam schedule, a big red square around Chris' exam with Atherton and, in every free hour is written " Laser".
+
+INT. DORM LIBRARY
+
+Many students, including our gang, study for exams. Suddenly, Milton can't take the pressure any longer and momentarily goes out of his mind and runs from the room.
+
+INT. ATHERTON'S LAB
+
+A tired looking Chris and Mitch attach a second laser to the original but nothing improves. They check their notes and diagrams. Kent, Bodie and carter chuckle in the corner.
+
+INT. AN EXAM ROOM
+
+Mitch is taking an exam with a bunch of people he doesn't recognize from the Professor who everyone tape recorded. One of the students appears to be near panic as he deals with a pile of mangled tape.
+
+INT. JORDAN'S ROOM-VERY LATE NIGHT
+
+Chris and Jordan use a blackboard diagram to discuss the engineering difficulties of Chris' laser supercharger assembly.
+
+INT. DORM HALL
+
+Chris runs down the hall and enters his room. Mitch is sprawled out asleep under a math text. Chris feels bad about it but wakes him up.
+
+INT. ATHERTON'S LAB
+
+A wasted Chris and Mitch build the new assembly that will allow a second laser to shoot at the gas jets of the principal laser.
+
+INT. DORM LIBRARY-NIGHT
+
+Chris is studying hard. Mitch is asleep, his head on the table.
+
+MITCH
+
+(in his sleep)
+
+Please, Vito, not in the mailbox again.
+
+CHRIS
+
+Mitch!
+
+Mitch wakes up.
+
+MITCH
+
+Oh... I was just reliving some high school highlights.
+
+CHRIS
+
+Look, you don't have to stay up with me. It's not like we're driving. Get some sleep. You're a growing boy. I hope.
+
+Hopsfield enters carrying two large boxes of what appear to be file cards. Mitch is stunned. They all stare for a beat.
+
+CHRIS
+
+Hi, Laslo.
+
+HOPSFIELD
+
+I thought you might want some help so I dug into the computer and got every question Artherton's ever asked on every final he ever given.
+
+CHRIS
+
+Gee, I didn't get you anything. Is that them?
+
+HOPSFIELD
+
+No, these are entries for McDonald's Sweepstakes. No purchase necessary. Enter as often as you want. So, I am.
+
+CHRIS
+
+Really?
+
+HOPSFIELD
+
+This box makes it one million, six hundred thousand. I should win thirty two point six percent of the prizes, including the car.
+
+CHRIS
+
+Kind of takes the fun out of it, doesn't it?
+
+HOPSFIELD
+
+I suppose so. But they set up the rules, and lately, I have come to realize that I have certain materialistic needs.
+
+CHRIS
+
+So where are the questions?
+
+HOPSFIELD
+
+(insulted)
+
+I memorized them.
+
+Chris and Mitch look at each other, impressed and a little frightened.
+
+MITCH
+
+I have to go to sleep now.
+
+HOPSFIELD
+
+Want my pajamas?
+
+MITCH
+
+Uhhh...thanks, no.
+
+HOPSFIELD
+
+Smart kid. He's going to grow five inches in the next year.
+
+CHRIS
+
+How do you...never mind.
+
+INT. MITCH'S ROOM
+
+He opens the door and enters. It's dark.
+
+FEMALE VOICE
+
+Mitch?
+
+MITCH
+
+(surprised)
+
+Jordan?
+
+He turns on the light. Much to his surprise and ours, seated on his bed is Sherry Nugil, the girl Chris met at PEI - the genius groupie. She's dressed for the occasion.
+
+SHERRY
+
+Mitch Simon?
+
+MITCH
+
+Who?
+
+SHERRY
+
+I'm Sherry Nugil. And I've been waiting three years for this.
+
+MITCH
+
+For what?
+
+SHERRY
+
+For you to be old enough.
+
+MITCH
+
+For what?
+
+SHERRY
+
+For this.
+
+She kisses him.
+
+SHERRY (CONT'D)
+
+Are you ready?
+
+MITCH
+
+For what?
+
+SHERRY
+
+Why do you keep saying, 'For what?'
+
+MITCH
+
+'Cause so far it's working great.
+
+INT. JORDAN ROOM-NIGHT
+
+Jordan is using a big machine to sand her floors. There's a knock on the door.
+
+JORDAN
+
+(shouts)
+
+Come in.
+
+Mitch enters, He appears dazed and disheveled.
+
+JORDAN
+
+Oh, hi, Mitch. I'm just sanding the floor.
+
+MITCH
+
+Could you turn that off a second?
+
+She does. She starts moving the furniture back.
+
+JORDAN
+
+What's wrong? Why are you sweating?
+
+MITCH
+
+I...I just...I came back from helping Chris and there was this woman in my room.
+
+Jordan stops, It's the first time we've seen her doing nothing.
+
+JORDAN
+
+A woman?
+
+MITCH
+
+(with emphasis)
+
+A woman. I mean she was...blessed
+
+JORDAN
+
+Oh?
+
+MITCH
+
+And she wanted to...How can I say this so as not to offend you?
+
+JORDAN
+
+Jump you?
+
+MITCH
+
+Yeah. I hope you're not offended.
+
+JORDAN
+
+So what happened?
+
+MITCH
+
+(excited)
+
+She kissed me. Then she took off her clothes. Then I took off my clothes-she had to help me. I kept blacking out - then... it was unbelievable.
+
+JORDAN
+
+You made it with her?
+
+MITCH
+
+No. That's what was unbelievable.
+
+JORDAN
+
+Sure.
+
+MITCH
+
+It's true. I stopped her and told her I didn't want to.
+
+JORDAN
+
+Afraid?
+
+MITCH
+
+No...I mean I really did want to ... but not with her.
+
+He looks at her hopefully. She smiles.
+
+INT. ATHERTON'S LAB-DAY
+
+Chris puts the finishing touches on the second laser assembly. He seems pretty pleased with himself. Kent, Bodie and Carter watch conspiratorially. Carter looks at his watch and starts for the door.
+
+CARTER
+
+Let's go girls
+
+BODIE
+
+What's that supposed to mean?
+
+CARTER
+
+It's just a f..f..figure of speech, Bodie. You guys coming to the exam or not?
+
+CHRIS
+
+(finishing his work)
+
+I guess we should, seeing as he's gone to all the bother of having one and everything.
+
+They all begin to exit, but then Kent holds up.
+
+KENT
+
+You guys go ahead. I have to go to the bathroom.
+
+CHRIS
+
+(exiting)
+
+Okay, Kent, but I don't think that's going to help your confidence, do you?
+
+The others exit as Kent goes back to Chris' laser, opens it up and starts to fiddle with the works.
+
+KENT
+
+(to himself)
+
+So, Mr. Funny Man, let's see how funny you think this is.
+
+INT. ATHERTON'S CLASSROOM-DAY
+
+Students wait to begin taking their final exams. Chris, Bodie and Carter enter and take their seats. Atherton is passing out the booklets.
+
+ATHERTON
+
+You will have exactly three hours. And remember, we believe in the honor system here, people.
+
+ANGLE ON KENT
+
+He enters and heads for his seat beside Chris.
+
+KENT
+
+Good luck, buddy boy.
+
+CHRIS
+
+Is it okay if I name my first child after you? Dipshit Kinsley has a nice ring to it.
+
+5R5DISSOLVE TO:
+
+INT. ATHERTON'S CLASSROOM-LATER
+
+The students are busy taking the test.
+
+ANGLE ON CHRIS
+
+He seems to be breezing through it.
+
+ANGLE ON KENT
+
+He's taking the test. He looks up and is distressed at Chris apparent lack of trouble. Chris looks over and throws Kent a big kiss. Kent turns away immediately.
+
+INT. ATHERTON'S OFFICE
+
+Atherton is going over some plans. Carmichael ENTERS. Atherton rises.
+
+ATHERTON
+
+(reprimanding)
+
+This is my class hour!
+
+CARMICHAEL
+
+(loud whisper)
+
+We're past the deadline. Don't you understand, Decker's dangerous. We need those plans.
+
+ATHERTON
+
+(snaps back)
+
+It's not ready yet. But it will be. I've got Kinsley cooking now. He'll do it. Believe me, I know how to push that kid's buttons.
+
+(rolling up the plans)
+
+Here are my drawings for the optics in the sighting system.
+
+CARMICHAEL
+
+(cutting him off)
+
+Decker wants the laser by the end of the week.
+
+ATHERTON
+
+(close to losing it)
+
+I'm doing all I can, damnit!
+
+Atherton storms out.
+
+INT. CLASSROOM
+
+Atherton enters like a dark cloud. He sits at his desk.
+
+ANGLE ON CHRIS
+
+He finishes his last question. He gets out of his seat.
+
+ANGLE ON ATHERTON
+
+Sitting at his desk. Chris places his test on the desk. Atherton looks up.
+
+ANGLE ON CHRIS AND ATHERTON
+
+Chris has a big grin on his face. He takes a piece of paper and writes on it and then slides it in front of Atherton.
+
+INSERT
+
+The piece of paper. It says, "I aced this."
+
+ANGLE ON ATHERTON
+
+He writes a message and slides it to Chris.
+
+INSERT
+
+A piece of paper which reads, "Ace the laser."
+
+ANGLE ON CHRIS
+
+Chris places an apple on Atherton's desk. He exits. Atherton tosses the apple in the wastebasket. The APPLE EXPLODES.
+
+EXT. CAMPUS-DAY
+
+Chris is heading for the lab. The place has that look of exam period desertion.
+
+CHRIS
+
+(muttering to himself)
+
+Okie-dokie, doc, a house doesn't have to fall on ole Chris Kinsley.
+
+INT. ANTHERTON'S LAB-DAY
+
+Chris enters and prepares to test the new equipment. He aligns the secondary laser and let it charge up. He makes some final checks and then throws a switch. The laser fires for an instant but then seems to go crazy. The new laser overheats and the main chamber sparks and smokes. Chris tries to shut it down but to now avail. he tears the cover off in hopes of pulling the wiring, but he's too late. We see everything melting away as the machine eats itself. We also see a message left for Chris just before it too melts. It reads: "1 laser=1car." Chris is on the verge of a complete mental collapse as he watches his work go up in smoke.
+
+CHRIS
+
+(in anguish)
+
+No!!!!
+
+There is nothing but the echo of his voice in response. The main laser stands like a huge, frozen bird in the empty room. In anger and frustration he swears at the machine.
+
+CHRIS (CONT'D)
+
+You bastard. This is your  fault.
+
+He kicks the wastepaper basket in hopes of getting rid of some of this anger; but, instead, all he gets is the basket bouncing back and hitting him in the shin.
+
+CHRIS (CONT'D)
+
+Shit! I deserve that. It all comes back on you in the end.
+
+He suddenly stands up straight as though he were having a stroke.
+
+CHRIS (CONT'D)
+
+Holy shit!
+
+Inspiration takes hold and Chris begins running around like a madman, gathering up parts to the laser.
+
+CHRIS (CONT'D)
+
+(almost singing, he's so happy)
+
+Of course, it's so simple. Echoes, bouncing back at me and you.
+
+EXT. DORM-A LITTLE LATER
+
+Chris runs up the stairs three at a time.
+
+INT. CHRIS AND MITCH'S ROOM
+
+He bursts in.
+
+CHRIS
+
+Mitch?!
+
+The room is empty.
+
+The closet door opens and Hopsfield steps out, carrying another box of cards.
+
+CHRIS (CONT'D)
+
+Laslo! Buddy! Have you seen Mitch?
+
+HOPSFIELD
+
+No. How did you do?
+
+CHRIS
+
+(elated)
+
+I failed!
+
+HOPSFIELD
+
+You shouldn't have.
+
+CHRIS
+
+That's true. But never mind that now. It came to me. The power problem. I solved it. Echoes! It's so simple, four little mirrors. It bounces back and supercharges the gas itself. I've got to find Mitch to help me build it but it should increase the power ten-fold at least. If you see him, tell him to meet me at the lab. Bye.
+
+Chris exits, leaving Hopsfield lost in thought.
+
+EXT. STUDENT UNION-MOMENTS LATER
+
+A hand-painted sign hangs over the door that says: "Exam Week Decompression Here." Chris runs in the door.
+
+INT. DECOMPRESSION ROOM-CONTINUOUS
+
+The room is full of students who are blowing off steam from studying for and taking exams. They are engaged in all sorts of silly, mindless activities, ranging from tiddly-winks and video games to watching cartoons. There are supplies of "brain food" and health drinks around. Mitch, Ick and Jordan are in the corner. Chris runs up to them.
+
+JORDAN
+
+Oh, Chris. How did it go?
+
+CHRIS
+
+Great. It was a snap. But Atherton said he's failing me anyway.
+
+JORDAN
+
+That's terrible. You must be feeling awful. Are you all right?
+
+CHRIS
+
+Thank you, Jordan. I do feel terrible but I can't talk about it right now. I need Mitch. Gotta go. Bye.
+
+He grabs Mitch and pulls him out.
+
+ICK 
+
+He seems to be handling it all right.
+
+5R5FADE OUT
+
+EXT. ATHERTON'S HOUSE-LATER THAT NIGHT
+
+Chris knocks on the front door. Atherton answers the door. He is less than thrilled to see Chris.
+
+INT. ATHERTON'S HOUSE
+
+CHRIS
+
+(forcing his way in)
+
+Hiya, Jerry, how's it going?
+
+ATHERTON
+
+What do you want Kinsley?
+
+CHRIS
+
+World peace, but I don't think this is the time to discuss it.
+
+ATHERTON
+
+What are you doing here? I've already told you you've burned out and you've failed me and yourself miserably.
+
+CHRIS
+
+Yes, I know that. But I thought you might be interested.
+
+ATHERTON
+
+I'm not interested in anything you have to say.
+
+Just then a pretty COED starts to come down the stairs. She is dressed only in one of Atherton's shirts.
+
+COED
+
+Jerry?
+
+CHRIS
+
+I solved the power problem, Jerry.
+
+Atherton pauses. He looks at Chris, then the girl.
+
+ATHERTON
+
+Debbie, go home.
+
+INT. ATHERTON'S LAB-LATER THAT NIGHT
+
+Atherton, Kent, Bodie and Carter stand by the laser as Chris explains what he's done with formulas on the blackboard.
+
+CHRIS
+
+As you know, I was working on supercharging the DF by means of a fusion technique using a secondary laser. Well, when I tried it, I discovered Kent had sabotaged it so it collapsed on itself.
+
+Everyone looks at Kent in disgust.
+
+CHRIS (CONT'D)
+
+And I want to thank him for the thought.
+
+KENT
+
+What????
+
+CHRIS
+
+The Deuterium and Fluorine take up enough space by themselves, right? Well, the mistake we've been making up to now is in trying to kick up the power by means of yet another outside source. Big and bulky, right? Well, the elegance of this is that by reflecting part of the lasing light back in the gas jets we supercharge the whole deal, increasing the power tenfold with no increase in size.
+
+KENT
+
+This is a complete waste of time.
+
+Mitch has been preparing the laser for demonstration. He is struggling to lift several thick metal plates.
+
+CHRIS
+
+Kent, make yourself useful for once and help put those plates against the wall.
+
+Kent does and everyone stands back.
+
+CHRIS (CONT'D)
+
+Okay, Mitch do it. This should work.
+
+Mitch switches on the main laser. It comes to life. Gases flow and a beam appears, hitting the plate without effect.
+
+MITCH
+
+Now we open the vacuum chamber.
+
+He turns a valve and the beam begins to heat up the plate.
+
+CHRIS
+
+So far so good. And now, cross your fingers.
+
+He throws a switch. There's a beat. And then, suddenly, the beam glows intensely brighter, cuts through the plate, the  cabinets behind it and through the wall out into the night. Chris and Mitch jump shut the whole thing off.
+
+CHRIS
+
+Sorry about the wall, sir.
+
+KENT
+
+(looking through the hole)
+
+And the tree across the quad.
+
+ATHERTON
+
+(in awe)
+
+Screw the wall, you did it! You really did it.
+
+KENT
+
+(petulant)
+
+I've done my part, too.
+
+ATHERTON
+
+(ignoring Kent)
+
+Okay, Kinsley. You did it. You pass.
+
+CHRIS
+
+Thank you, sir.
+
+ATHERTON
+
+And I think we can get that job back for you at PEI.
+
+KENT
+
+(apoplectic)
+
+What! You can't. That's my job. I've done everything you've ever asked. I get your laundry, and I finished the mirror. Look.
+
+Kent runs out of the room as Mitch and Chris exchange a look and Atherton shakes his head. Kent returns, rolling a circular precision mirror one meter in diameter.
+
+KENT
+
+See! Do you have any idea how hard it is to make a film virtually 100 per cent reflective, one micron thick and apply it to a mirror this shape?
+
+ATHERTON
+
+Good, Kent.
+
+(to Chris, in a hurry)
+
+I have to go. I have a pressing...
+
+He exits.
+
+MITCH
+
+(very happy for Chris)
+
+Let's celebrate.
+
+CHRIS
+
+Absolutely. Kent, you with us?
+
+KENT
+
+(totally frustrated)
+
+Oh...eat me.
+
+EXT. CAMPUS-NIGHT
+
+Chris, Mitch, Ick and Jordan are looking at the laser hole in the tree.
+
+EXT. LIBRARY-NIGHT
+
+They look at where the beam has cut a hole through the head of the statue of Dr. Bradford.
+
+EXT. STREET-NIGHT
+
+They look high up at a hole where the beam went through a telephone pole and then across the street, even higher, where it burned through a billboard on top of tavern. They cheer.
+
+INT. BAR-LATER
+
+Our group is celebrating. The jukebox blares. Chris and Ick are drinking beers; Mitch and Jordan are holding hands, sharing a milkshake and feeding each other French fries.
+
+MITCH
+
+I don't think I'm ready for that yet. Maybe we should wait a year; at least until I get my license.
+
+JORDAN
+
+I understand. There are a lot of things to be considered here. For example, I could drive.
+
+Hopsfield enters and sits down at the table. Everyone stares for a beat.
+
+HOPSFIELD
+
+(to Chris)
+
+I've been thinking about your laser solution.
+
+(a beat)
+
+I figure you've increased the output to six megawatts.
+
+CHRIS
+
+Yeah.
+
+HOPSFIELD
+
+What would you use that for?
+
+MITCH
+
+The applications are unlimited. Industrial for one.
+
+HOPSFIELD
+
+With the gas tanks you've designed the beam would only last for forty seconds. What good is that?
+
+CHRIS
+
+I don't care, Laslo. I graduated.
+
+MITCH
+
+Let the engineers figure out a use for it. That's not our concern.
+
+HOPSFIELD
+
+Maybe somebody already has a use for it, one for which it's perfectly designed.
+
+JORDAN
+
+You mean Atherton had something in mind all along?
+
+HOPSFIELD
+
+Looks at the facts: very high power, portable, limited firing time, unlimited range. All you'd need is a big spinning mirror and you could vaporize a human target from space.
+
+Hopsfield gets up and walks outside. Silence for a beat.
+
+CHRIS
+
+This is not good.
+
+ICK 
+
+You want another beer?
+
+MITCH
+
+How big a mirror?
+
+INT. HALLWAY-EARLY MORNING
+
+Chris, Mitch, Ick, Jordan and Hopsfield run down the hall and enter the lab.
+
+ANGLE- THE LAB
+
+The laser is gone.
+
+INT. HALLWAY
+
+Chris runs next door and forces Kent's lab door open, looks in.
+
+INT. KENT'S LAB
+
+They all enter.
+
+CHRIS
+
+The mirror is gone, too. Atherton, you worm! You pig! You fuck! Kent, you too!
+
+Chris is venting his rage on every inanimate object in the room, kicking and punching.
+
+CHRIS (CONT'D)
+
+I should have seen it! How could I have not seen it!
+
+MITCH
+
+He lied to us.
+
+CHRIS
+
+It's easy to lie to you. You trust people! I'm cynic! What an asshole I am!
+
+HOPSFIELD
+
+I understand how you feel, Chris, and you're right. But what we should be doing now is trying to find out what he's doing.
+
+INT. CHRIS AND MITCH'S ROOM-NIGHT
+
+Chris and Mitch sit waiting. Chris is very despondent. Very. Jordan enters.
+
+MITCH
+
+Did you do it?
+
+JORDAN
+
+I put a receiver in it too.
+
+(referring to Chris)
+
+Is he okay?
+
+MITCH
+
+I don't know he stopped talking about an hour ago. May I see it?
+
+She holds out her hand and we see an almost microscopic electronic device. Ick enters carrying several gas masks, a gas bottle, some tubing an atomizer.
+
+ICK 
+
+Ready?
+
+INT. DORM HALLWAY -MOMENTS LATER
+
+Mitch, Jordan and Ick are gathered around the closed door to Kent's room wearing the gas masks. Ick feeds the end of the tube under the door and opens the valve on the bottle.
+
+ICK 
+
+We'll have two minutes.
+
+A STUDENT walks by, not batting an eye.
+
+STUDENT
+
+Hi, guys.
+
+INT. KENT'S ROOM
+
+The gas has knocked Kent out. He sleeps peacefully in a chair. The door opens and our gang enters.
+
+JORDAN
+
+(to Mitch)
+
+Open his mouth.
+
+He does and she pulls out some dental tools and goes to work, placing the receiver in Kent's mouth.
+
+JORDAN (cont'd)
+
+It was his braces that gave me the idea. They're a perfect antenna. His whole..
+
+ICK 
+
+It's about time someone put it to good use.
+
+INT. CHRIS AND MITCH'S ROOM-MOMENTS LATER
+
+They all huddle around a homemade radio transceiver.
+
+MITCH
+
+(disguising his voice, into a microphone)
+
+Kent. Kent. Wake up, Kent.
+
+INT. KENT'S ROOM-SAME TIME
+
+Kent begins to stir. We can HEAR  Mitch's voice coming from Kent's head. At first he thinks he's dreaming.
+
+MITCH (V.O.)
+
+I'm talking to you, Kent.
+
+KENT
+
+What?
+
+MITCH (V.O.)
+
+I said I'm talking to you.
+
+KENT
+
+(shaking his head, violently)
+
+No!
+
+MITCH (V.O.)
+
+Yes.
+
+KENT
+
+(slapping himself)
+
+I'm not asleep. I must be overworked.
+
+MITCH (V.O.)
+
+You're not overworked, Kent.
+
+KENT
+
+Well, I'm not insane!
+
+Silence.
+
+KENT (CONT'D)
+
+Am I?
+
+INT. CHRIS AND MITCH'S ROOM
+
+MITCH
+
+That remains to be seen, Kent. But we are having a conversation.
+
+INT. KENT'S ROOM
+
+KENT
+
+I have to metabolize this. Um... who is this?
+
+MITCH (V.O.)
+
+This is Jesus, Kent, and you've been a very naughty boy.
+
+KENT
+
+(cracking up, laughing)
+
+All right! Who is this?! Bodie? Carter?
+
+MITCH (V.O.)
+
+I am known by many names. I am the One. Turn to me and be saved.
+
+KENT
+
+Oh, Sure.
+
+MITCH (V.O.)
+
+Cut the crap, Kent, you've built a weapon.
+
+KENT
+
+How did you know that?
+
+MITCH (V.O.)
+
+I know everything.
+
+KENT
+
+Oh. God.
+
+INT. CHRIS AND MITCH'S ROOM
+
+MITCH
+
+That's right, Kent. Where is the laser now?
+
+INT. KENT'S ROOM
+
+KENT
+
+I can't tell you.
+
+MITCH (V.O.)
+
+How would you like to burn for the rest of time?
+
+KENT
+
+(panicking)
+
+No, they're testing it on the twenty-seventh but I don't know where. It's classified.
+
+MITCH (V.O.)
+
+Oh.
+
+KENT
+
+What?
+
+MITCH (V.O.)
+
+Nothing. I want you to think about what you've done and repent, and from now on, stop playing with yourself.
+
+KENT
+
+I don't...okay
+
+INT. CHRIS AND MITCH'S ROOM
+
+MITCH
+
+Now what?
+
+The closets door opens and Hopsfield appears.
+
+HOPSFIELD
+
+Phase two.
+
+INT. STEAM TUNNELS
+
+They are near Hopsfield's lair. Hopsfield has removed the cover from an enormous terminal. Chris seems remote and depressed.
+
+HOPSFIELD
+
+This is the phone terminal for the entire school.
+
+MITCH
+
+Okay, we tap Atherton's office phone. What about his home?
+
+ICK 
+
+All the faculty's home phone are part of the University system.
+
+JORDAN
+
+(enthusiastically, looking at the maze of wiring)
+
+Great, all we have to do is find it!
+
+HOPSFIELD
+
+We'll find it.
+
+Jordan and Hopsfield set to work searching for Atherton's lines. Ick is concerned about Chris.
+
+ICK 
+
+I'm depressed. Why did I listen to my parents? I should have become a ping-pong pro.
+
+HOPSFIELD
+
+It's not too late.
+
+MITCH
+
+You shouldn't be depressed. It's us he used.
+
+JORDAN
+
+Downtown Schmidlap.
+
+MITCH
+
+Excuse me?
+
+JORDAN
+
+(Still working)
+
+Ernie "Downtown" Schmidlap. From my high school. He was captain of everything. One day he told me he wanted to "date me up." so for a month he'd come over and I'd do his homework for him. He was going to take me to the prom. But once he passed his courses, he took Roberta Preen. I stayed home and re-wired our housekeeper's TV.
+
+ICK 
+
+That's awful!
+
+MITCH
+
+You think that hurts?  You should've met my Uncle Stan. He was a Weasel.
+
+ICK 
+
+That bad, huh?
+
+MITCH
+
+No, that was his lodge. The Royal order of Friendly Weasels.  Every Wednesday when I was eight, he'd take me down to his lodge meeting and he'd challenge people to call out two five-digit numbers. I had to multiply them in my head faster than a guy could do it on a calculator. They'd bet on me. Of course, after the meeting, he'd take me for ice cream.
+
+ICK 
+
+That's nice.
+
+MITCH
+
+Well...he'd take me to the supermarket and I had to dip my hand in.
+
+HOPSFIELD
+
+I've got his office.
+
+JORDAN
+
+I've got his home.
+
+INT. STEAM TUNNEL- SOMETIME LATER
+
+They've all made themselves comfortable as they sit and wait for the phone tap to produce results. Hopsfield has wired a speaker so that they can hear,
+
+CHRIS
+
+Why doesn't your phone ring, you jogging, syphilitic microbe?
+
+ICK 
+
+(sotto, to Mitch)
+
+I think he's coming around.
+
+Suddenly, from the speaker, we HEAR the sound of Atherton's phone being picked up.
+
+ATHERTON (V.0./FILTER)
+
+Hello
+
+VOICE (V.O.)
+
+Is this Jerome Atherton?
+
+ATHERTON (V.O.)
+
+Yes, it is.
+
+VOICE (V.O.)
+
+This is Bill Carlisle. I saw your television show the other night about the reproductive system.
+
+ATHERTON (V.O.)
+
+Thank you, I hope you enjoyed it.
+
+VOICE (V.O.)
+
+I love it. Everything you said was copied word for word from my book and I expect a lot of money for it.
+
+ATHERTON (V.O.)
+
+Need I remind you, it's public television, an attempt to teach people something. And all you can think of is personal greed. It's people like you that make me feel bad about being American.
+
+VOICE (V.O.)
+
+I'm Canadian
+
+ATHERTON (V.O.)
+
+I'm not surprised. Good day.
+
+They hang up.
+
+ICK 
+
+God, he's good at that. He almost gets away with it. That's the most manipulative guy I've ever seen... I mean heard.
+
+CHRIS
+
+He does get away with it.
+
+MITCH
+
+Not anymore.
+
+INT. STEAM TUNNEL-LATER STILL
+
+Everyone lies asleep in various places and positions, Mitch awakens. He is amazed to find Jordan asleep on his shoulder, so amazed he has to wake her.
+
+MITCH
+
+Jordan?
+
+JORDAN
+
+Hmmmmmmmm.
+
+MITCH
+
+You were sleeping.
+
+JORDAN
+
+I was? Gee
+
+(snuggling)
+
+I guess you relax me.
+
+MITCH
+
+(proudly)
+
+Wow!
+
+CHRIS
+
+(awakening)
+
+What's going on?
+
+MITCH
+
+I put Jordan to sleep.
+
+CHRIS
+
+And you're proud of that?
+
+MITCH
+
+Yeah.
+
+The speaker comes to life with the sound of the receiver being groped for and then Atherton's groggy voice.
+
+ATHERTON (V.O.)
+
+(mumbling)
+
+Yes...hello
+
+DECKER (V.O.)
+
+Jer? Dave Decker How are you?
+
+ATHERTON (V.O.)
+
+Christ, Dave what time is it?
+
+DECKER (V.O.)
+
+Nine thirty here in Washington. I thought you Californians all get up early and exercise. Ha, ha
+
+CHRIS
+
+This is it. That's the guy I saw at his house with the daughter.
+
+ATHERTON (V.O.)
+
+Very funny, Dave. What do you want?  I'm busy.
+
+DECKER (V.O.)
+
+It sounds like it. Listen, I'll be out there tomorrow for the test but I want you to go to the Marsh this afternoon and check optics systems one more time.
+
+ATHERTON (V.O.)
+
+Why?
+
+DECKER (V.O.)
+
+Because I'm in charge, Doctor. Goodbye. He hangs up. All look to Chris.
+
+ICK 
+
+Well?
+
+CHRIS
+
+(comes to life)
+
+It's happening.
+
+MITCH
+
+It's only weapon if it works, right?
+
+CHRIS
+
+(determined)
+
+You're absolutely right! The time has come, people. No more being used. No more Downtown Schmidlaps or Uncle Stans or Jerry Athertons. We're going to take responsibility for our own brains. Remember, without ethics there can be no morality. Without morality there is no society and without society there can be no fast food restaurants. So the whole country, nay, in the world, is counting on us to get even in a big way. Thank you.
+
+ICK 
+
+Nice logic.
+
+CHRIS
+
+Thanks. Synchronize watches.
+
+MITCH
+
+Why?
+
+CHRIS
+
+It's just something you say at a time like this.
+
+HOPSFIELD
+
+I don't need a watch.
+
+CHRIS
+
+Okay, forget it. Let's go.
+
+EXT. ATHERTON'S HOUSE-DAY
+
+Atherton comes out and heads for his car carrying an over-night bag. As he drives away we SEE  that Ick has been spying on him.
+
+EXT. A FILED-DAY
+
+Ick is hiding behind some bushes on a knoll. he is looking through binoculars.
+
+ICK POV
+
+Atherton's car is passing through a high security gate into Marsh field.
+
+EXT. SHIPPING DOCK-DAY
+
+Chris, Mitch and Hopsfield are loading the last of several large boxes into a beat-up van.
+
+EXT. ATHERTON'S HOUSE-EVENING
+
+The van pulls up in front. Painted on the side is a plumber's logo. Mitch, Jordan and Ick start unloading boxes. Chris goes to the front door.
+
+ANGLE ON THE DOOR.
+
+Chris picks the lock.
+
+INT. HOPSFIELD'S LAIR-LATER THAT NIGHT
+
+Chris and Mitch enter to see Hopsfield as he works at the computer, attempting to interface with another computer. Each time he hits the keys the READOUT replies "Negative."
+
+HOPSFIELD
+
+Boy, these secret fields are so untrusting.
+
+CHRIS
+
+So we can't get on-base clearance.
+
+HOPSFIELD
+
+I guess not.
+
+CHRIS
+
+Forget it. We'll balls it.
+
+Jordan enters carrying two I. D. cards.
+
+JORDAN
+
+How do these look?
+
+INSERT
+
+Two fake I. D.'s with Mitch's and Chris's picture on them.
+
+Perfect. I hope.
+
+ANGLE BACK ON THE ROOM
+
+MITCH
+
+What if they don't fool anybody?
+
+CHRIS
+
+They shoot us.
+
+EXT.  MARSH AIR FORCE BASE- MIDDLE OF THE NIGHT
+
+Technicians check monitors and prepare for the coming test. Nearby stands a firing command module very reminiscent of the pilot's compartment in the opening sequence. Atherton goes over last minute details with various people. He seems distracted as an engineer discusses a problem with him.
+
+ENGINEER
+
+Are you all right?
+
+ATHERTON
+
+What? Oh, yes, fine. Have you ever had a feeling that there's something terribly wrong?
+
+ENGINEER
+
+No.
+
+EXT. MAIN GATE OF THE BASE-NIGHT
+
+There are two Air force Police GUARDS in the shack. Chris and Mitch pulls up in Kent's Citroen, behind a government sedan awaiting clearance at the gate. They are dressed as technicians and Mitch sports a moustache.
+
+INT. THE CITROEN
+
+Mitch is a wreck and Chris doesn't help. He begins humming the theme from "Mission Impossible."
+
+GUARD (V.O.)
+
+All clear, Mr. Decker. Just follow the yellow line.
+
+Chris accidentally hits the horn. Through the windshield we SEE Decker and the guard look back. Chris recognizes Decker.
+
+CHRIS
+
+(covering)
+
+How long does it take?
+
+Mitch whimpers. Decker's car pulls away. The guard uses one finger to motion Chris forward. Chris pulls the car up. The guard leans in the window.
+
+GUARD
+
+I.D.
+
+Mitch, obviously shaking, hands his to Chris who hands them to both guard.
+
+CHRIS
+
+Snap it up, will ya? We just flew in. We're tired. We're hungry. We have this stupid car.
+
+The guard turns away and walks into the shack.
+
+MITCH
+
+Are you out of your mind?
+
+CHRIS
+
+You have to intimidate these guys.
+
+The guard returns.
+
+GUARD
+
+You're not on the list.
+
+CHRIS
+
+Of course not. We're classified.
+
+We HEAR the phone RING. The second guard answers it.
+
+INT. COMMAND CENTER
+
+An Air Force Officer is on the phone. An impatient Atherton stands beside him.
+
+ATHERTON
+
+I don't know what he should look for, just tell him if he sees anything out of the...let me tell him.
+
+He grabs the phone.
+
+INT. THE CITROEN
+
+GUARD
+
+Aren't you guys a little young to be technicians?
+
+CHRIS
+
+Lasers are a young science. There, fine, now you've made me say it. Now we're all in trouble.
+
+Mitch looks like he's going to die.
+
+GUARD
+
+Look, I'll call the duty officer.
+
+He starts towards the phone shack.  The other guard is still on the phone.
+
+CHRIS
+
+(his demeanor changing)
+
+Excuse me.
+
+The guard turns back.
+
+CHRIS (CONT'D)
+
+Look, pal, don't call anybody.  We're four hours late. It's our jobs.   Give us a break, will ya?  Someday you might be in the private sector, right?
+
+A beat. Mitch dies. Chris gives the guard a goofy grin.
+
+EXT. THE GATE
+
+The guard waves them through.  The car pulls away. The guard returns to the booth.
+
+SECOND GUARD
+
+We're supposed to look for anything out of the ordinary.
+
+FIRST GUARD
+
+Okay.
+
+EXT. THE RAMP - NIGHT
+
+A B-1 Bomber, painted black, sits in the glow of the work lights.  Technicians, who are wearing jumpsuits similar to the ones Mitch and Chris have on, are busy working around the plane.
+
+Chris and Mitch ENTER FRAME and walk up to the plane.  A couple of the technicians watch them curiously as they go up the stairs into the bomb bay.
+
+INT. BOMB BAY
+
+Chris and Mitch enter.  Three technicians are inside the plane running last minute checks on the laser, which sits in the middle of the cabin.  Chris crosses to the technician who is in the middle of the cabin.  He watches him making mental notes as he checks the program.  The technician turns, sensing his presence.
+
+CHRIS
+
+Nice work. Keep it up.
+
+Mitch, meanwhile, checks out the laser optics.  After a beat, one of the technicians signals for the others to complete their jobs and exit.  They start to file out.  One of them turns and looks at Chris, who is just standing there.
+
+CHRIS
+
+What?!
+
+The technician shakes his head uncertainly and exits with the others.  Finally, Mitch and Chris are alone.  Chris opens the BRIEFCASE. It contains a cellular phone, a modem and an EEPROM Processor.
+
+INT. HOPSFIELD'S LAIR - SAME TIME
+
+The computer receives a signal.  Hopsfield turns to Jordan and Ick.
+
+HOPSFIELD
+
+We've got a connection.  They're in.
+
+INT. BOMB BAY
+
+CHRIS
+
+Get the EEPROMs.
+
+Mitch opens up the computer and clips a couple of power lines and pulls out four computer chips and hands them to Chris, who plugs them into the processor.  Chris picks up the phone.
+
+CHRIS
+
+(into phone)
+
+Abbott to Costello.
+
+INT. HOPSFIELD'S LAIR
+
+Jordan picks up the phone.
+
+JORDAN
+
+(into phone)
+
+This is Costello. Go ahead, Abbott.
+
+INT. BOMB BAY
+
+CHRIS
+
+(into phone)
+
+Costello,  who's on first?
+
+Mitch hits him impatiently.
+
+CHRIS (CONT'D)
+
+We've got the goodies.
+
+JORDAN (V.O.)
+
+We have the target coordinates computed for trajectory adjustment.
+
+CHRIS
+
+Great. Shoot.
+
+INT. HOPSFIELD'S LAIR
+
+Hopsfield's computer screen fills with machine code of ones and zeros.  He begins searching through many screens of code.
+
+HOPSFIELD
+
+Oh, oh.
+
+ICK 
+
+What?
+
+HOPSFIELD
+
+Oh, nothing.
+
+INT. BOMB BAY
+
+Chris and Mitch freeze as a mechanic walks by the open bomb bay door.
+
+INT. COMMAND CENTER - EARLY MORNING
+
+Technicians are checking monitors and a radar scope at a control panel.  Atherton is in the rear of the room briefing a group of civilians and military brass.  Amongst them is Decker.  Atherton points to a drawing on a large chart.
+
+ATHERTON
+
+The plane will reach an altitude of sixty-five thousand feet.  When it is over, the target will fire the laser from here .... 
+
+(points to the firing module)
+
+ ... for five point two seconds.
+
+Carmichael enters.
+
+CARMICHAEL
+
+They're all set for the final onboard check.
+
+ATHERTON
+
+Fine.  Right this way, gentlemen.
+
+They all follow Atherton and Decker to the exit at the rear of the room.
+
+INT. BOMB BAY
+
+Chris and Mitch sweat it out.
+
+INT. HOPSFIELD'S LAIR
+
+Hopsfield is scanning the screens.
+
+HOPSFIELD
+
+I think I've found it.  May I have the coordinates, please.
+
+ICK 
+
+(reading from paper)
+
+Thirty-four degrees, ten minutes, fifteen seconds North; one hundred eighteen degrees, nine minutes, three seconds West.
+
+Hopsfield enters the data into his computer.
+
+JORDAN
+
+(into phone)
+
+We're sending.
+
+INT. BOMB BAY
+
+CHRIS
+
+(into phone)
+
+We're taking.
+
+Mitch suddenly panics as he looks out.
+
+MITCH'S POV
+
+Atherton and his group come around the corner of a building and head for the plane.
+
+ANGLE ON MITCH AND CHRIS
+
+MITCH
+
+They're coming this way.
+
+CHRIS
+
+(into phone, overly calm)
+
+You may be interested in knowing that Mitch reports that Herr Professor is approaching and I'm not even sweating.  Isn't that remarkable?
+
+INT. HOPSFIELD'S LAIR
+
+JORDAN
+
+Please hurry.  Atherton's coming.
+
+HOPSFIELD
+
+(typing furiously)
+
+Please, I don't work well under pressure.
+
+He finishes.
+
+HOPSFIELD (cont'd)
+
+There. I hope that does it.
+
+JORDAN
+
+(into phone)
+
+Okay, Chris  ... I mean Abbott.  Hello ... hello ... hello ...
+
+EXT. BOMBER
+
+Atherton and his group approach and enter the bomb bay.
+
+INT. BOMB BAY
+
+As they enter, there is no sign of Chris and Mitch.  Atherton checks out the laser and the computer.  The others examine various gauges and switches and the flight deck.
+
+CARMICHAEL
+
+Everything all right?
+
+ATHERTON
+
+Of course.
+
+EXT. BOMBER
+
+As the group exits the plane, Chris and Mitch drop out of the forward landing gear well in the background.
+
+ATHERTON
+
+(turning back)
+
+Oh, I forgot ...
+
+ATHERTON'S POV
+
+A glimpse of Chris and Mitch as they disappear around the corner of the building.
+
+CLOSE ON ATHERTON
+
+Uncertain of what he has just seen.
+
+CARMICHAEL (O.S.)
+
+What is it?
+
+ATHERTON
+
+Nothing.
+
+INT. DORM LIBRARY - PRE-DAWN
+
+Kent looks the worse for wear as he sits surrounded by psychology books dealing with schizophrenia.
+
+MITCH (V.O.)
+
+Hi, Kent.
+
+KENT
+
+(surprised)
+
+Oh, I thought you were gone.
+
+MITCH (V.O.)
+
+Not yet.  Have you been touching yourself?
+
+KENT
+
+Yes. I mean, no.
+
+INT. CHRIS AND MITCH'S ROOM - SAME TIME
+
+MITCH 
+
+(into mike)
+
+Good, Kent.  Dad, my father, you know, God, wants to show you something.
+
+KENT (V.O./FILTER)
+
+Why?  I mean, what?
+
+MITCH
+
+I've learned not to ask.
+
+INT. DORM LIBRARY
+
+MITCH (V.O.)
+
+He wants you to wait on the sidewalk at six thirty nine Ivy Crest Drive at precisely six-oh-eight this morning.
+
+KENT
+
+Ivy Crest?
+
+MITCH (V.O.)
+
+Just wait there and you shall receive a sign.  Do not despair and do not go inside.
+
+KENT
+
+Why not?  Hello?  Hello, Jesus?
+
+A student walks in and looks at him strangely.
+
+INT. COMMAND CENTER - DAWN
+
+Atherton and company watch the bank of monitors as the flight controller clears the bomber for take off.
+
+EXT. CAMPUS - DAWN
+
+Chris and Mitch jump into the van and drive off.
+
+INT. COMMAND CENTER
+
+Some monitors show the bomber climbing while others show the desert target area.  It is a mock up of a Presidential motorcade.  The open cars are filled with test dummies, and are linked together and are being towed slowly across the desert by a tractor.
+
+CONTROLLER 
+
+(into mike)
+
+Crossbow One, radar contact.  Climb and maintain flight level six five oh.
+
+EXT. ATHERTON'S HOUSE
+
+The van pulls up and parks across the street.  Chris and Mitch get out.  Just then, a Volvo pulls up and Jordan, Ick and Dr. Meredith get out.  Dr. Meredith is wearing a bathrobe, pajamas and slippers.
+
+MEREDITH
+
+Ah, Mr. Kinsley.  Why am I not surprised to see you here?  Perhaps you have the explanation for this so-called event I'm suppose to witness.
+
+CHRIS
+
+Yes, sir, I do, but first may I take this opportunity to compliment you on  your fashion sense.
+
+INT. CONTROL CENTER
+
+CONTROLLER 
+
+(into mike)
+
+Crossbow One, turn left to two eight zero.
+
+PILOT (V.O./FILTER)
+
+Two eight zero, roger.
+
+A technician hits a switch and a monitor pops on. Crosshairs dominate the center of the screen.  The desert floor rushes by.  Atherton turns to a specialist standing by.
+
+ATHERTON
+
+Norman, if you'd be so kind. This cockpit mock-up duplicates the shuttle flight deck and we've placed it here to demonstrate the firing technique.
+
+The specialist takes his place inside the command module.
+
+PILOT (V.O./FILTER)
+
+We are thirty one DME from the target.
+
+CONTROLLER 
+
+(mike)
+
+Roger, Crossbow. Open the doors.
+
+INT. BOMB BAY
+
+The doors open to reveal clouds rushing past and the ground far below.
+
+EXT. ATHERTON'S HOUSE
+
+MEREDITH
+
+These are rather strong accusations, Chris.
+
+CHRIS
+
+Yes, sir, I know.
+
+MEREDITH
+
+If they're true, I'm going to need some proof.
+
+CHRIS
+
+I think we're going to be able to accommodate you in just a minute, sir.
+
+Looking past Meredith, Chris sees Kent approaching.
+
+ANGLE ON KENT as he arrives at the house and stars up at it.  He glances at his watch and waits impatiently.
+
+INT. COMMAND CENTER
+
+Inside the firing module, the specialist pulls down the target sighting device and puts his hands on the joysticks.
+
+SPECIALIST
+
+Power on.
+
+CONTROLLER
+
+T minus fifty and counting.
+
+INT. BOMB BAY
+
+The large mirror lowers into its firing position and the laser powers up.
+
+EXT. ATHERTON'S HOUSE - MORNING
+
+The group watch Kent, who is nervously pacing back and forth, talking to himself.
+
+CHRIS
+
+(to Mitch)
+
+Boy, if this works, he's going to start a new religion.
+
+MITCH
+
+If it doesn't work ...?
+
+Chris shoots him a censoring look.
+
+INT. COMMAND CENTER
+
+This countdown continues.  Monitors display the target sight, the pilot's sighting screen of the ground and a camera's view of the bomber.
+
+TECHNICIAN
+
+Trajectory command relay, locked.
+
+ATHERTON
+
+Now, Norm here has firing control.
+
+ANGLE ON TARGETING MONITOR
+
+The target motorcade is sighted.
+
+INT. BOMB BAY
+
+The laser mirror and sighting lens move in unison as they line up on target.
+
+INT. COMMAND CENTER
+
+The crosshairs line up on the sighting monitor.
+
+EXT. ATHERTON'S HOUSE
+
+JORDAN
+
+What's he doing?
+
+THEIR POV
+
+Kent has now started toward the front door.
+
+MITCH
+
+I told him not to go in!
+
+CLOSER ANGLE ON KENT
+
+KENT
+
+(muttering to Jesus)
+
+Look, this is Jerry's house, we're very close, so if you're not going to answer me, then I'm going in ...
+
+He reaches for the front door.
+
+KENT (CONT'D)
+
+... here I come.
+
+ANGLE ON CHRIS AND MITCH
+
+CHRIS
+
+(shouting)
+
+Kent! Stop!
+
+ANGLE ON KENT
+
+who turns and sees them.
+
+INT. COMMAND CENTER
+
+Everyone is riveted to the sighting monitor.
+
+SPECIALIST
+
+Target locked. In ten, nine, eight ...
+
+As the countdown continues.
+
+INT. BOMB BAY
+
+The computer comes to life and electronically unlocks the laser optics from the sighting camera.  The mirror turns to the left.
+
+INT. COMMAND CENTER
+
+The aerial view of the motorcade remains centered on the sighting monitor.
+
+INT. ATHERTON'S HOUSE
+
+Kent opens the front door and enters.
+
+KENT
+
+(to himself)
+
+That looked like Dr. Meredith in a bathrobe. First I'm hearing things, now I'm seeing things.
+
+He closes the door.
+
+KENT (CONT'D)
+
+Okay, God. Let me have it.
+
+The room is dark, lit only by morning light coming through a large stained glass window at the top of the stairs.  In the middle of the room is what looks like a large above-ground swimming pool, covered in aluminum foil.  Kent is amazed.
+
+INT. COMMAND CENTER
+
+SPECIALIST
+
+... three, two, one, bingo.
+
+He hits the trigger.
+
+INT. BOMB BAY
+
+The laser fires.
+
+EXT. SKY
+
+The laser beam traces through the atmosphere.
+
+INT. COMMAND CENTER
+
+The group waits expectantly.  Nothing happens to the target.
+
+EXT. ATHERTON'S HOUSE
+
+Chris and Mitch, who are running toward the house, are stopped in their tracks by the incredible sight of the red laser beam shooting down out of the heavens, striking the grass, tracking across the lawn then up the wall of Atherton's house.
+
+INT. ATHERTON'S HOUSE
+
+The beam strikes the window and for one tiny moment causes the most incredible light show anyone has ever seen.
+
+KENT
+
+(in awe)
+
+Oh!
+
+The window is obliterated by the laser light, which crashes down directly onto the aluminum foil-covered pool.
+
+KENT (CONT'D)
+
+Oh, my!
+
+The foil is heated instantly in the laser light and there is the SOUND of tiny explosions, building to a roar.  In a second, the foil rises violently and tears open.  Kent picks up a piece of debris and examines it.
+
+KENT
+
+Popcorn?
+
+In the next instant, he is engulfed in popcorn.
+
+EXT. ATHERTON'S HOUSE
+
+The beam disappears as suddenly as it came.  Everyone stands in awe.  A few kernels fly out of the broken window, then a storm.
+
+INT. ATHERTON'S HOUSE
+
+Kent and furniture are being forced up the stairs by a rising tide of popping popcorn.  He struggles against it, loses, and sinks into the mound like a dinosaur in quicksand.
+
+EXT. ATHERTON'S HOUSE
+
+The windows are filling up with popcorn.  Finally, they crack and break as popcorn forces its way out of the house wherever it can.
+
+MITCH 
+
+Kent!
+
+Chris and Mitch head for the front door.  Suddenly, it bursts open and Kent is carried out by a moving wall of popcorn.
+
+INT. COMMAND CENTER
+
+People furiously check systems.
+
+CARMICHAEL
+
+I don't understand. Did it fire?
+
+TECHNICIAN
+
+Yes, we indicate a shot.  We've got another problem, though.  It's not shutting down.
+
+INT. BOMB BAY
+
+The computer is still working. The laser optics and equipment begin to melt.  It's been wired to self-destruct.
+
+INT. COMMAND CENTER
+
+The devastated group watches the laser self destruct on the monitor.
+
+DECKER
+
+Nice going, Jer.
+
+ATHERTON
+
+Something's wrong here.  Unlock the bird's eye.
+
+He takes over the command module sighting system
+
+ATHERTON
+
+I'm tracing where the shot went.
+
+We watch as the monitor's view swings away and across a residential neighborhood, coming to rest on a bird's eye view of his own house.
+
+ATHERTON (CONT'D)
+
+Oh, no.
+
+The monitor view moves in to reveal what looks like a growing mushroom.
+
+DECKER
+
+What have you done?
+
+ATHERTON
+
+Retired.
+
+EXT. ATHERTON'S HOUSE
+
+The group looks on as the mountain of popcorn continues to engulf the house.  Meredith goes to see if Kent is all right.
+
+CHRIS
+
+(to Mitch)
+
+Do you think we used too much?
+
+MITCH
+
+Maybe a little.
+
+CHRIS
+
+Well, I guess we all learned something here today.
+
+JORDAN
+
+What?
+
+CHRIS
+
+I don't know, but it seemed like the right thing to say, didn't it?
+
+ICK 
+
+It did to me.
+
+As they continue to watch the destruction of the house, and various neighbors come out to see what's what, a Winnebago pulls up and stops.  Hopsfield gets out.
+
+HOPSFIELD
+
+I think  you used too much.
+
+CHRIS
+
+Really? I'm sorry you missed it.
+
+HOPSFIELD
+
+Yeah, well, I had to pack.
+
+CHRIS
+
+Why?
+
+HOPSFIELD
+
+I'm getting married.
+
+CHRIS
+
+What? To whom?
+
+MITCH 
+
+(looking at the U-Haul)
+
+What is all this?
+
+HOPSFIELD
+
+Oh, I won. Only thirty-one point eight percent though. I have to figure that out. But not this summer.
+
+Mitch suddenly sees Sherry standing at the Winnebago door.
+
+MITCH
+
+Sherry?
+
+SHERRY 
+
+(kissing Hopsfield)
+
+Hi. Isn't it wonderful. I finally found him. Number  One. I've been looking for him for ten years.
+
+HOPSFIELD
+
+What can I do?  She loves me.
+
+CHRIS
+
+Right.  Congratulations.
+
+HOPSFIELD
+
+Thanks.  Anyway, we probably won't ever get to see you again, so, bye.
+
+CHRIS
+
+What do you mean?  Where are you going?
+
+SHERRY
+
+I've got a little survival place in Wyoming.  We're going to live there.
+
+HOPSFIELD
+
+Yeah, it's getting too weird around here.  See ya.
+
+They climb into the Winnebago and it pulls away. The others watch it go.
+
+ICK 
+
+You think it's getting too weird around here.
+
+CHRIS
+
+Absolutely.
+
+JORDAN
+
+I didn't notice.
+
+MITCH
+
+I like it.
+
+In the background, the popcorn has split the walls of the house and finally lifts the roof off like the top of a pot. The whole house tilts to its side and the popping stops.
+
+As we PULL BACK, Atherton's car pulls up and he gets out, dumbstruck.  Dr. Meredith walks over to him and confronts him. Kent joins Chris and the others who watch.
+
+THE END.
+

@@ -1,0 +1,1846 @@
+<b><!--
+
+</b>if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+QUANTUM PROJECT: ORIGINAL SCREENPLAY
+
+      1     INT.  A BIOCHEMICAL LANDSCAPE                            1
+
+            A violent electrical storm.  Veins of light pulse outward, branching
+
+            off into a spidery network of 
+
+            GLOWING INTERCONNECTEDNESS
+
+            We are inside a human brain.  A pack of neurons FIRE OFF to the left,
+
+            and rocket their way across synapses to the optic nerve.  Passing the
+
+            eye socket, they speed toward a silky, curvilinear membrane (the
+
+            retina) on which we see an image projected:
+
+            AN UPSIDE DOWN COMPUTER SCREEN
+
+            Neurons PING into the membrane: the picture suddenly FLIPS RIGHT SIDE
+
+            UP and we follow the light, flashing in a blur through the iris and
+
+            cornea until, exiting the eye we reverse POV and
+
+      2     EXT.  THE WORLD AS WE KNOW IT - DAY                      2
+
+            CLOSE ON A PAIR OF EYES
+
+            Deep deep blue.  Radiating more intelligence than wisdom.  Inside
+
+            each pupil is the reflection of a COMPUTER SCREEN.  A deferential
+
+            VOICE sounds from off camera.
+
+                                VOICE
+
+                      Professor Pentcho?
+
+      3     INT.  ATOMIC LABORATORIES  (PROFESSOR PAUL PENTCHO) - DAY3
+
+            Twenty-nine, athletic, owlishly handsome.  
+
+                                VOICE (ARLETTE)
+
+                      Multi-tasking again?
+
+            Pentcho raises his blue eyes from the computer screen and up at
+
+            ARLETTE (50's), his mannish Swiss assistant.  
+
+                                ARLETTE
+
+                      We can start the descent now.  
+
+      4     INT.  THE LABORATORIES (MOVING) - DAY                    4
+
+            A SERIES OF SHOTS
+
+            as Pentcho and Arlette stride through the facility.  They pass a
+
+            group of green-tagged VISITORS and their Swiss-accented GUIDE.
+
+                                GUIDE
+
+                      Two hundred feet below us is the world's
+
+                      largest particle accelerator...
+
+            His VOICE continues on overlap as they reach a hallway.
+
+                                GUIDE (OC) (CONT'D)
+
+                      27 kilometers in circumference, the beam
+
+                      pipe actually runs beneath the borders of
+
+                      Switzerland and France...
+
+                                PENTCHO
+
+                      Did you get that data off to Braverman at
+
+                      Cal Tech?
+
+            They are facing the CAPSULE/ELEVATOR that leads to the tunnel.
+
+                                ARLETTE
+
+                      Done.
+
+            Next to the elevator, two plants are dying in their pots, their
+
+            growing lamps off.  Pentcho looks around, finds the plug, pushes it
+
+            into the socket.  The lights glow.  He peers at a leaf: a tiny bug
+
+            crawls across...
+
+                                GUIDE (OC)
+
+                      ...at the moment of impact the electrons
+
+                      inside the pipe are travelling six hundred
+
+                      sixty six million miles per --  
+
+                                ARLETTE
+
+                      We need to progress.
+
+            He breaks out of it, swipes his I.D. card.  The capsule doors WHOOSH
+
+            open.  Pentcho nods at the man inside.  This is JACQUE, his accent
+
+            heavily Italian.
+
+                                JACQUE
+
+                      Hey, it is 3-P-O!  P, P, P!  Professore
+
+                      Paulo Pentcho!
+
+                                PENTCHO
+
+                      That's not an official nickname, Jacque.
+
+            Pentcho looks from Jacque to Arlette, who blushes.  Pentcho sits down
+
+            in the heavily consoled captain's chair.
+
+                                JACQUE
+
+                      Beh!  Eets just tun-nel humor.   
+
+            The giant lab disappears from sight as they DROP twenty stories below
+
+            the earth. 
+
+                                PENTCHO
+
+                      Did they recalibrate the 3k turn?  
+
+            Jacque nods.  They hit bottom.  Pentcho keys in data on the console
+
+            computer as the capsule moves LATERALLY on a track parallel to the
+
+            beam pipe, stopping in front of the RF CAVITY, bursting with a
+
+            billion dollars worth of nanotechnology.
+
+                                PENTCHO (CONT'D)
+
+                      Give me more angle-control on the bounce.
+
+                                JACQUE
+
+                      Benissimo, Professore.  
+
+            ON PENTCHO: a little bored, manning the console.
+
+                                PENTCHO
+
+                      Fifteen seconds Arlette...
+
+      5     INT.  PENTCHO'S BRAIN FIELD - DAY                        5
+
+            The camera surges forward into Pentcho's eyes:
+
+            DOUBLE CLICK
+
+            We see an image draw itself on the empty 'page' of the field: 
+
+            A BLACK DOT LOOPING INTO A STRING
+
+            accompanied by the following thought text:  
+
+                      "...two spatially separated particles will
+
+                      irresistibly attract..."
+
+            MOUSE CLICK - A WOMAN'S FACE
+
+            wide-set brown eyes brimming with emotion.  A hint of a SONG playing
+
+            somewhere in the BG.  
+
+            MOUSE CLICK
+
+            to the previous 'page' where the LOOP has formed into a sheet moving
+
+            through space, followed by the floating thought text: 
+
+                      "...until the force of the collision fuses
+
+                      them into..."
+
+                                PENTCHO'S VOICE
+
+                      Ten, nine, eight...
+
+            MOUSE CLICK - POV: LOOKING STRAIGHT DOWN AT
+
+            the BROWN-EYED WOMAN, her face dreamy, her body naked beneath silk
+
+            sheets.  PULL BACK: she's floating on an enormous Renaissance mural -
+
+            a wedding scene - that is a bedroom floor.  Off in the corner,
+
+            PENTCHO sits hunched over a clunky laptop, his fingers dancing,
+
+            dervish-like, across the keyboard.
+
+                                PENTCHO'S VOICE (CONT'D)
+
+                      Four, three, two...
+
+                                WOMAN
+
+                      Then goodbye...
+
+            CRACK!  Suddenly, the woman drifts away.  Pentcho looks up: THEIR
+
+            EYES LOCK WITH LONGING AS:
+
+      6     INT.  THE CAPSULE CONSOLE - SAME TIME                    6
+
+            Pentcho's FINGER depresses the START button. 
+
+      7     INT.  PARTICLE ACCELERATOR - DAY                         7
+
+            as we follow the PULSE SIGNAL from the keyboard to the CPU, across
+
+            the LOCAL AREA NETWORK to the MAINFRAME in the RF cavity, sending its
+
+            own signal into the BEAM PIPE, where two soon-to-be accelerated
+
+            ELECTRONS are released,  like horses bolting from the same starting
+
+            gate, but in opposite directions.  THE ROLLER-COASTER RIDE BEGINS. 
+
+            POV - ONE LIGHT INFUSED ELECTRON 
+
+            BLASTING through the beam pipe like a COMET, fused inside of a
+
+            looping, twenty seven kilometer single lane race track. WHOOOSH!
+
+            As the electron accelerates, so too does the sound, rushing to GUT
+
+            SPLITTING, EAR WRENCHING DB'S.  Heading around the turn, it barrels
+
+            STRAIGHT INTO THE PATH OF THE SECOND ELECTRON on its own speed-of
+
+            light power surge.
+
+            HERE COMES THE IMPACT POINT... but SCREEEEECH!  
+
+            What disc brakes might sound like, slammed to the floor of a vehicle
+
+            travelling six hundred sixty six million miles per hour.
+
+            SUDDENLY THE ELECTRON HAS STOPPED, SUSPENDED,
+
+            its phosphorescent glow trained like a spotlight on:
+
+            PENTCHO - EXTREME CLOSE UP
+
+            the dual computer screens reflecting out of his pupils, again.  A
+
+            VOICE speaks from nowhere, sonorous and packed with reverb:
+
+                                FEMALE VOICE
+
+                      WHAT DO YOU WANT?
+
+            The camera SURGES into Pentcho's eyes as the brain field opens to the
+
+            sounds of a nine alarm fire.  DING DING DING DING DING! The thought
+
+            text marches by in giant, attention-getting letters: "ELECTRONS DON'T
+
+            TALK!"
+
+                                FEMALE VOICE (CONT) (CONT'D)
+
+                      WHAT DO YOU WANT, PAUL?
+
+            More thought text scrolls by on the field, now in RED LETTERS:
+
+                      "I'm having a psychotic episode."
+
+            The field collapses back into PENTCHO, ashen-faced, watching his
+
+            computer screen, and seeing: the cursor (electron) blinking.
+
+                                JACQUE'S VOICE
+
+                      Impact!
+
+            Suddenly, we are back inside the pipe, HURTLING toward
+
+            KABLOOM!  THE SUB-ATOMIC EXPLOSION
+
+            A particle meteor shower of magnificent proportions.  They glow and
+
+            charge off and disappear, as the laws of E=mc2 take visual flight
+
+            inside this billion dollar kaleidoscope.  
+
+      8     INT. AIRPLANE IN 1ST CLASS (ON PENTCHO) - DAY            8
+
+            staring out the window, not really seeing the clouds as we SURGE into
+
+            his eyes and CLICK
+
+      9     INT.  THE BRAIN FIELD (POPPING OPEN) - DAY               9
+
+            stacking up windowlike flashbacks with startling ferocity.  
+
+            The glowing electron - CLICK -  Arlette: "multi-tasking again?" CLICK
+
+            - the capsule doors closing - CLICK - "you're having a psychotic
+
+            episode" - CLICK - the echo of the electron's voice: "WHAT DO YOU
+
+            WANT, PAUL?" 
+
+     10     INT.  THE AIRPLANE (PENTCHO) - DAY                      10
+
+            puts down a drink glass on the tray table of the seat next to him. 
+
+            Places headphones onto his ears.  Fiddles with the music channels:
+
+            country, stand-up, classical... Stays put on a Mozart concerto.  He
+
+            gazes back out at the clouds, fails to notice that
+
+            HIS DRINK GLASS IS MOVING
+
+            sliding slowly across the tray table.  It stops near the edge and
+
+            waits, as Pentcho looks up from the window.  As his head drifts back
+
+            toward the clouds outside
+
+            THE GLASS MOVES ACROSS THE TRAY TABLE IN THE OTHER DIRECTION 
+
+     11     EXT.  SAN FRANCISCO INTERNATIONAL AIRPORT - DAY         11
+
+            Pentcho's plane touches down.
+
+     12     INT.  A RED VOLKSWAGEN BEETLE - DRIVING                 12
+
+            On the freeway, heading for Berkeley, in eternal rush hour.  Stop,
+
+            go, sixty miles per hour, then five, then thirty. 
+
+            Pentcho drives, distracted, stares at his own eyes reflected in the
+
+            rear view mirror.  The camera SURGES in: CLICK
+
+     13     INT.  FLASHBACK - AIRPLANE - DAY                        13
+
+            It's Pentcho himself, on the airplane, listening to Mozart.  In the
+
+            foreground, the tray table and glass.  In the BG, his eyes fixed
+
+            aimlessly on the clouds outside.  Suddenly, Pentcho's face 
+
+            SPLITS INTO TWO DIMENSIONS
+
+            One stays focused forward, while the SECOND ONE turns to the side and
+
+            watches in amazement as
+
+            THE GLASS SLIDES ACROSS THE OPEN TRAY TABLE
+
+            Suddenly a horn BLARES, and CRASH!
+
+     14     INT/EXT.  THE BEETLE (PENTCHO) - DAY                    14
+
+            SLAMS into the car in front of him, triggering   
+
+            SLOW MOTION EFFECT
+
+            A three car COLLISION with Pentcho in the middle, an object lesson in
+
+            physics seen from ten different camera angles:
+
+            SCREECH CRUNCH CRUNCH 
+
+            Bumpers crumple, metal tears, human molecules SNAP forward.  POP POP
+
+            POP!  Like gunfire, bullet AIRBAGS clamp the drivers' heads back
+
+            against their headrests.  
+
+     15     INT. PENTCHO'S BRAIN - DAY                              15
+
+            The field ROCKS SIDEWAYS, in total OVERLOAD, so flooded with messages
+
+            that each one is undecipherable.  
+
+     16     EXT.  THE FREEWAY ACCIDENT SITE - DAY                   16
+
+            The three cars form a tangled metal sculpture.  Incredibly, as
+
+            Pentcho himself sees, they are all RED VW BEETLES.  He sits in a
+
+            daze.  A man's voice interrupts, scaling up into a SHOUT.
+
+                                VOICE
+
+                      What the hell were you thinking?  What?  I
+
+                      want to know!  WHAT?!!
+
+            This is WILL (30's), a scratch over one eye, peering in at Pentcho,
+
+            still behind the air bag/steering wheel, craning his stiffening neck
+
+            forward and back at the crumpled row of red automobiles.  He blinks,
+
+            then answers in an eerie voice.
+
+                                PENTCHO
+
+                      Probability of this happening, same make,
+
+                      model, color and year is less likely than
+
+                      the proof for the existence of God.  
+
+                                WILL
+
+                          (seething)
+
+                      Sorry I asked. (beat) You got insurance?  
+
+     17     EXT.  THE FREEWAY SITE (LIGHT RAIN IS FALLING) - DAY    17
+
+            A tow truck backs up to Pentcho's car.  He stands, dazed, off on the
+
+            shoulder, luggage next to him.  His eyes drift toward Will, giving
+
+            instructions into his cell phone.
+
+                                WILL
+
+                      Up the ramp.  Yeah... I'll -- (he turns) 
+
+                      There you are!  See me?  See?  They won't
+
+                      let you in?  Just walk... Here I am.
+
+            He waves at a red Dodge Durango on the street below.  
+
+            PENTCHO stares idly at the Durango as we 
+
+     18     INT. PENTCHO'S BRAIN - (MUSIC ON OVERLAP)               18
+
+            The picture is blurry but the song clear.  
+
+                                SINGER'S VOICE
+
+                      I know this world is kil...ling you...
+
+            CLICK - THE PICTURE SHARPENS
+
+            on a man and a woman, MAKING LOVE on a big brocade couch.  Their
+
+            bodies rock in unison, faces unseen. 
+
+                                SINGER'S VOICE (CONT'D)
+
+                      My aim is true-ooooh.  
+
+            The field collapses closed upon:
+
+     19     EXT.  THE FREEWAY ACCIDENT SITE - DAY                   19
+
+            A woman from the Durango is approaching, as Will, back on the phone,
+
+            argues with his boss.
+
+                                WILL
+
+                      I'll be there, Trent.  Yes.  20 minutes --
+
+            Click.  Will reddens, sees the sunglassed face of the woman, looking
+
+            past him and over to PENTCHO, signing the tow truck papers.  The
+
+            battered front end of his Beetle CRANKS upward.  
+
+                                WILL (CONT'D)
+
+                      Son-of-a-bitch.  As if it was my fault I got
+
+                      rear-ended by...
+
+            The woman stares, curiously, at Pentcho.  
+
+                                WILL (CONT'D)
+
+                      ...some schmuck dreaming about God.  Mia? 
+
+            She doesn't hear him.  Takes off her sunglasses, slowly.  Wide-set
+
+            brown eyes.
+
+                                WOMAN
+
+                      Paul...?
+
+            Finished now with the tow truck driver.  His head turns.  She moves
+
+            closer.  Will's voice protests from the BG.
+
+                                WILL'S VOICE
+
+                      Mia...
+
+            ON PENTCHO - SEEING HER, REALLY, FOR THE FIRST TIME
+
+     20     INT.  PENTCHO'S BRAIN -  (PRESENT DAY MIA)              20
+
+            overlapped by another photograph that slowly comes into focus - top
+
+            third, middle third, bottom - like a downloading Internet image from
+
+            his personal files.
+
+            IT'S MIA, YOUNGER, THE SAME WIDE-SET DARK EYES
+
+            Pentcho's heartbeat pounds LOUDER, drowning out the whisper:
+
+                                MIA
+
+                      Then goodbye...
+
+     21     EXT.  THE FREEWAY ACCIDENT SITE (BACK TO REALITY) - DAY 21
+
+            They lock into a stare, the molecules around them swirling with
+
+            emotion.  Barely audible:
+
+                                PENTCHO
+
+                      Less likely than the existence of God.
+
+            Mia brushes back a strand of hair.  Bites her lip.
+
+                                PENTCHO (CONT'D)
+
+                      I've been dreaming about you.
+
+                                MIA
+
+                      Day or night?
+
+            Pentcho loses himself in her brown eyes.
+
+                                PENTCHO
+
+                      Both.  
+
+            Atoms are vibrating, interchanging by the billions.  Another voice
+
+            gets in the way.
+
+                                WILL'S VOICE
+
+                      Mi.
+
+                                PENTCHO
+
+                      Is that your...
+
+                                MIA
+
+                      No. (beat) Not yet.
+
+            She shifts her weight from one slim leg to the other.
+
+                                PENTCHO
+
+                      Could we go somewhere?
+
+                                MIA
+
+                      I'm heading out of town.
+
+                                PENTCHO
+
+                          (deep breath)
+
+                      Okay.
+
+            Mia does a tiny double-take.  It's very sexy.
+
+                                MIA
+
+                      What?
+
+                                PENTCHO
+
+                      I could go out of town.  
+
+            Mia laughs.  This is so preposterous.
+
+                                MIA
+
+                      Could you?
+
+                                PENTCHO
+
+                          (nodding)
+
+                      Where to?
+
+                                MIA
+
+                      A place you've never been.  
+
+                                PENTCHO
+
+                      That's the physicist's playground.
+
+     22     EXT.  ADVENTURE WILDERNESS STORE - DAY                  22
+
+            Will SLAMS the Durango door shut and stalks into the store.
+
+     23     EXT.  HEADING TO XANADU (A SERIES OF INTERCUTS) - DAY   23
+
+            as the Durango motors into the alpine landscape.  Mia turns, looks at
+
+            her former lover.  He stares back, smiles. 
+
+                                MIA
+
+                      Why am I doing this?
+
+                                PENTCHO
+
+                      It's an experiment.
+
+            Mia turns onto a private road.  A MANSION appears in the distance,
+
+            cresting the hill.  
+
+    23a     EXT/INT.  XANADU - NIGHT                               23a
+
+            A massive wooden door.  Mia holds a flashlight, slips an oversized
+
+            key into the lock and turns.  
+
+            POV: THROUGH THE DOORWAY
+
+            An enormous hall.  Scaffolding rises from the stone floor.  Forty
+
+            foot high walls are draped in thick sheets of plastic. 
+
+            They enter like thieves.
+
+    23b     INT.  XANADU - A SHORT TIME LATER                      23b
+
+            Mia stands on top of an eight foot riser.  Pentcho passes up
+
+            harnesses and rope to her outstretched hands.  
+
+                                MIA
+
+                      We flopped the first time out.
+
+                                PENTCHO
+
+                      At the sub-atomic level, particles obey
+
+                      their own logic.  They connect in
+
+                      unimaginable ways.   
+
+            Mia slings the gear over her shoulder.  Looks very much in her
+
+            element.
+
+                                MIA
+
+                      And you think this is relevant to our
+
+                      relationship?  
+
+            Pentcho starts his own climb up the scaffolding.  Reaches the first
+
+            plank.
+
+                                PENTCHO
+
+                      Could be.  
+
+                                MIA
+
+                          (wryly)
+
+                      What universe are you in, Paul?
+
+                                PENTCHO
+
+                      A quantum one.  
+
+    23c     INT.  A HIGHER SCAFFOLDING - A SHORT TIME LATER        23c
+
+            Pentcho clips a safety line to his belt.  The two of them wear 
+
+            yellow hardhats and climbing harnesses.  They suddenly KICK OFF the
+
+            scaffold and DANGLE twenty five feet above the stone floor.  Hand
+
+            over fist, they start to ascend, hoisting themselves up the tug
+
+            ropes.
+
+                                PENTCHO
+
+                      The shorthand is, when you send electrons
+
+                      through space, it's impossible to say
+
+                      precisely what they are: particles or waves.  
+
+            They spin around slowly like tops as they hoist themselves up.
+
+                                PENTCHO (CONT'D)
+
+                      They come into being as one or the other at
+
+                      the moment we observe them.   
+
+            His words echo off the giant walls.  
+
+                                PENTCHO (CONT'D)
+
+                      Nothing is real until it's perceived.
+
+                                MIA
+
+                      The Buddhists have been saying that for a
+
+                      millennium.
+
+                                PENTCHO
+
+                      How?
+
+            Mia reaches an electric box, hanging a yard below the ceiling.
+
+                                MIA
+
+                      Baby, reality is what you choose to make it.
+
+            She flips the switch.  A set of lights FLARE ON.  Pentcho swallows a
+
+            breath.  In awe.
+
+                                PENTCHO
+
+                      God.
+
+            WE SEE WHAT HE SEES: 
+
+            A GIANT RENAISSANCE-STYLE FRESCO COVERS THE ENTIRE CEILING. 
+
+            Flocks of ANGELS fly above a GODDESS.  Cherubs.  Heralds.  
+
+            Pentcho's face flushes.  He's exhilarated.  She takes note:
+
+                                MIA
+
+                      But only if you live your life that way.  If
+
+                      you experience every moment as discovery.  
+
+            Pentcho's already there.  He kicks his legs out.  Joyrides on the tug
+
+            rope, arcing back and forth like a mad pendulum.
+
+                                PENTCHO
+
+                      Mia!  You're restoring heaven with dabs of
+
+                      paint.  You're bringing new order to the
+
+                      universe.
+
+            She beams from his excitement.
+
+                                MIA
+
+                      I always said we were in the same
+
+                      business... 
+
+            His wayward motion swings him STRAIGHT INTO HER.  They lock arms. 
+
+            The ropes shudder. 
+
+                                PENTCHO
+
+                      If you're right, we have a chance. (beat) To
+
+                      be together.
+
+            Pentcho reaches out to kiss her.  Doesn't see that their collision
+
+            has jogged the clutch on his harness rope.  Now it opens all the way.
+
+            WHOOSH!
+
+            In an instant, he's gripping air, FALLING at the speed of Newton's
+
+            discovery.
+
+            He hurtles downward in slow motion.  There's a SOUND rushing in
+
+            behind him, the RUMBLE OF A MEGA-EARTHQUAKE.  
+
+            Pentcho catches a glimpse up over his shoulder: the angels, the
+
+            goddess, Mia, all of it has been
+
+            SUCKED OUT OF EXISTENCE...
+
+            as Pentcho's eyes stare for a millisecond at 
+
+            THE VOID.  NOTHINGNESS.  NADA.
+
+            And then he's FALLING again, accelerating toward his own last
+
+            particle collision, when a VOICE murmurs from somewhere.
+
+                                VOICE (OC)
+
+                      I'm not done.
+
+            THWACK!  The safety line holds, dangling Pentcho a meter above the
+
+            stone floor.
+
+    23d     INT.  XANADU - SOME TIME LATER                         23d
+
+            They camp on old couch cushions, side by side, staring up at the
+
+            illuminated fresco.  Pentcho is bruised, battered, vulnerable.  
+
+                                PENTCHO
+
+                      When I was a kid I used to snap my head back
+
+                      like a gunfighter on the draw, hoping to
+
+                      catch a glimpse behind me.  
+
+            Mia props her head up on one elbow.
+
+                                MIA
+
+                      Of what?
+
+            ON THE FRESCO: A CHORUS OF ANGELS 
+
+                                PENTCHO
+
+                      God.  I dunno.  The eternal nothingness. 
+
+                      Mia. 
+
+            It's a plea.  She turns, stares directly into his eyes.
+
+                                PENTCHO (CONT'D)
+
+                      The universe is snapping my head back.  I'm
+
+                      losing my focus.  
+
+            Mia's face fills with light.  Her best smile.
+
+                                MIA
+
+                      Welcome, Paul.  Welcome.  
+
+            She traces a line from his forehead to the bridge of his nose,
+
+            quoting Yeats (from "The Second Coming") as a celebration:
+
+                                MIA (CONT'D)
+
+                      "Things fall apart; the center will not
+
+                      hold.  Mere anarchy is loosed upon the
+
+                      world."
+
+            He pulls her close to him.  They lie, spooned together, breathing in
+
+            unison, gazing up at the painted heaven.  
+
+            A firefly enters from outside, flutters in the air above them,
+
+            blushing a trace line of yellow light.
+
+                                PENTCHO
+
+                      An electron spoke to me yesterday.  (beat) I
+
+                      swear.  
+
+            Mia tries to suppress a giggle.  Can't.  
+
+                                MIA
+
+                      What did it want?
+
+                                PENTCHO
+
+                      That's what it asked me.  "What do you
+
+                      want?"  I didn't answer.  I was in the
+
+                      middle of an experiment.
+
+                                MIA
+
+                      Like now?  
+
+            He hesitates, then surrenders to the fact.
+
+                                PENTCHO
+
+                      Yes.  
+
+            The firefly dances above them.  Pentcho sits up (and away from her). 
+
+            Mock serious:
+
+                                PENTCHO (CONT'D)
+
+                      Did you know electrons have lovers?  
+
+            Mia notes his distance.  Faces him, cross-legged.
+
+                                MIA
+
+                      No.  I didn't.  (dryly) I'm listening.
+
+                                PENTCHO
+
+                      Inside every semi-conductor... you have two
+
+                      particles, with opposite charges, separated
+
+                      by an impassable barrier...
+
+            She looks, sees him disappear into his head.  
+
+                                PENTCHO (CONT'D)
+
+                      A strip of silicon, which for you and me
+
+                      would be like...
+
+            The vulnerability is gone.  And Mia, with it.
+
+                                MIA
+
+                      She's in L.A., he's in the Bay area --
+
+                                PENTCHO
+
+                          (plowing ahead)
+
+                      A five hundred foot thick steel wall.  But
+
+                      the connection between these two electrons
+
+                      is so --
+
+                                MIA
+
+                      Dysfunctional --
+
+                                PENTCHO
+
+                      That they tunnel, magically, through any
+
+                      obstacle, defying the practical laws of
+
+                      physics, in order to end up together --
+
+                                MIA
+
+                      And glow happily ever after.  
+
+            Silence.  The story hangs between them like a fog.
+
+                                MIA (CONT'D)
+
+                      Don't science me Paul.  (beat) What do you
+
+                      want?
+
+            ON PENTCHO'S FACE: It's blank.   
+
+            MIA looks up at the angels, closes her eyes, TURNS AWAY.
+
+            (OMIT SCENES 24, 25, 26, 27, 28)
+
+     29     EXT.  CITY STREET - EARLY MORNING                       29
+
+            The Durango pulls up, stops.  Pentcho gets deposited on the curb. 
+
+            Barely closes the door before the car SPEEDS away.  He looks up. 
+
+            Sees the sign on the bus stop bench:
+
+                      "LOVE NEVER FAILS"  Corinthians 13:8
+
+     30     EXT.  THE BAY AREA - DAY                                30
+
+            Storm clouds gather over the ocean.
+
+     31     EXT.  THE BERKELEY HILLS - POURING RAIN                 31
+
+            A taxi stops in front of a two story cottage, looking abandoned in
+
+            the wet weather.  Pentcho walks out, passing his dented VW BEETLE in
+
+            the driveway.  Ascends a flight of brick steps to the:
+
+     32     INT.  PENTCHO'S COTTAGE - ENTERING                      32
+
+            An alternately stark and cluttered space, less lived in than occupied
+
+            by a man on the run between his office and his mind.
+
+            Rivulets of water run from an open window, across a large desk, and
+
+            down onto the wood floor.  Pentcho scans around, unfazed.  Locates a
+
+            towel.  Mops up.  Dries off the computer and keyboard.  Bag still on
+
+            his shoulder, he fires up the machine and logs 
+
+            ON THE COMPUTER SCREEN
+
+            E-mail.  Lots of it.  Hundreds and hundreds of messages scrolling by
+
+            on the screen.  He turns away, sees his own rain soaked clothes
+
+            forming a puddle on the floor.  LIGHTNING cascades across the sky,
+
+            visible through the large bay window behind the desk.  Pentcho's eyes
+
+            stray back to the screen
+
+            STILL SCROLLING E-MAIL MESSAGES
+
+            as the thunder follows almost immediately.  CRACK!  He looks up: 
+
+            Veins of light pulse outward, branching into a spidery network
+
+            OF GLOWING INTERCONNECTEDNESS
+
+            A voice SOUNDS from somewhere non-local:
+
+                                VOICE (OC)
+
+                      Paul?  Pauly?
+
+            Pentcho leans toward the glass, looking out as we reverse POV:
+
+            A SINGLE LIGHTNING BOLT descends from the heavens on its own speed-of
+
+            light path straight at...
+
+            WHOMP!  It strikes the BEETLE dead on -- (SLOW MOTION) -- scorching
+
+            the roof.  Reverse POV:
+
+            ON PENTCHO - pupils dilated as we surge inward to 
+
+     33     INT.  PENTCHO'S BRAIN - (OPENING ON) NIGHT              33
+
+            AN OLDER MAN
+
+            wild, white Einstein hair.  He CLUTCHES suddenly at his chest, like a
+
+            heart attack victim.  His lips call out, but no voice follows.  He
+
+            fades, ominously, to black at the sound of
+
+     34     EXT.  THE SKY - (ROARING THUNDER) DAY                   34
+
+            Pentcho blinks once, his face illuminated by a dozen flashes of
+
+            lightning.  He touches his fingers to the glass:
+
+            A SECOND LIGHTNING BOLT DESCENDS
+
+            on the exact same path toward...  KABOOM!  THE RED BEETLE.
+
+            A plume of smoke rises out of the punctured roof.  
+
+     35     (OMIT)                                                  35
+
+     36     (OMIT)                                                  36
+
+     37     INT.  THE AIRPLANE - NIGHT                              37
+
+            Pentcho sits in his window seat, staring at the open tray table next
+
+            to him.  There's a glass.  It doesn't move.  
+
+    37a     EXT.  STOCK SHOT - LANDING IN LAX                      37a
+
+            The plane touches down.  We see the landmark spider-restaurant.
+
+     38     EXT.  CAR RENTAL FACILITY - NIGHT                       38
+
+            Pentcho crosses the lot with the rent-a-car EMPLOYEE.
+
+                                EMPLOYEE
+
+                      Rented every last ve-hicle.  'Cept one.  
+
+                                PENTCHO
+
+                      I'll take it.
+
+            It's a red 2000 BEETLE.
+
+     39     EXT.  THE 110 FREEWAY - NIGHT                           39
+
+            The sign says: "Hollywood - North.  Long Beach, San Pedro - South."
+
+     40     EXT.  SAN PEDRO/HOUSE - NIGHT                           40
+
+            The rain has stopped.  The red bug parks in front of a
+
+            GRAND HOUSE GONE TO SEED.  
+
+            Ditto the neighborhood.  A 7-Eleven sign blinks on the corner.
+
+            Pentcho walks up the cracked sidewalk to a sagging wooden porch.  
+
+            Looks for signs of life.  A light.  Something.  
+
+            He pushes on the front door.  Locked.  Rummages through his key ring
+
+            in the dark.  Slides one into the top lock.  Won't turn.
+
+            Tries another key.  Gets stuck.  He pulls it out.  Presses his face
+
+            close against the window.
+
+            TIRES SCREECH.  POLICE SIRENS BLARE.  
+
+            Pentcho turns, his EYES lit by the flashing bubble lights.  
+
+     41     INT.  THE BRAIN FIELD - POPPING OPEN ON                 41
+
+            THE EINSTEIN MAN
+
+            Crumpled on the floor, hands still clutching his chest.  The screen
+
+            COLLAPSES at the sound of 
+
+     42     EXT. HOUSE (VOICES SHOUTING FROM THE CORNER) - NIGHT    42
+
+            Foreign voices, jabbering at high speed.  Policemen BARK BACK on
+
+            loudspeakers.  Walkie-talkies.  
+
+            Pentcho RAPS ON THE GLASS.  He's frantic.  Harder now.  A THUNK
+
+            sounds from inside.  Or was it?  He picks one last key out in the
+
+            glare of the blue lights.  Jams it in the lock.  Twists and
+
+     43     INT.  THE HOUSE - PENTCHO                               43
+
+            bursts into the darkened foyer.  His foot catches on a thick doormat. 
+
+            He SPRAWLS forward as
+
+            A GUNSHOT ERUPTS ABOVE HIS HEAD
+
+            He drops, convulsed with fear.  Snaps his head back to see:
+
+            THE EINSTEIN MAN (ALEXANDER)
+
+            in bathrobe and slippers, hands shaking around a shotgun.
+
+                                ALEXANDER
+
+                      Paul... Pauly... 
+
+            Pentcho struggles to breathe.  Staccato:
+
+                                PENTCHO
+
+                      I... I thought you were dead.
+
+            Alexander drops the gun.  In shock, a whisper:
+
+                                ALEXANDER
+
+                      I must be.  
+
+     44     INT.  BAR AREA (A TEA KETTLE WHISTLES) - NIGHT          44
+
+            Alexander, recomposed, marches to the burners.  There's anger in his
+
+            every movement.  Restlessness.  This is no feeble old man.  He pours
+
+            tea like he was filling shot glasses.  Doubles.
+
+                                ALEXANDER
+
+                      Look at me.  
+
+            Pentcho stirs in a lump of sugar first.  Raises his eyes.  
+
+                                ALEXANDER (CONT'D)
+
+                          (contemptuous)
+
+                      "Alexander the Great."  
+
+            He lifts a kitchen chair, spins it around, straddles the back.  
+
+                                ALEXANDER (CONT'D)
+
+                      22 I built the first machine to transfer
+
+                      digital bits over a land line.  I wrote the
+
+                      TCP/IP protocol before thirty.  This mind
+
+                      (tapping his temples), the one and only, was
+
+                      OBGYN at the birth of the Internet.  And
+
+                      where has it taken me?  
+
+            He shoots upright.  Peers out the row of double sash windows, covered
+
+            by impenetrable iron grates.  
+
+                                ALEXANDER (CONT'D)
+
+                      To isolation.  To an armed camp.  To a
+
+                      biblical spoof of a crazed father firing a
+
+                      gun at his only son. 
+
+                                PENTCHO
+
+                      You taking any medication?
+
+            Alexander's eyes FLARE in anger.  
+
+                                ALEXANDER
+
+                      Don't waste it Pauly.  This is not an
+
+                      everyday talk.  Just input the information
+
+                      and ask relevant questions.  One: how did a
+
+                      celebrated life of the mind bring me
+
+                      (pulling the gun out) to this particular
+
+                      switching station?
+
+                                PENTCHO
+
+                      Dad...
+
+            He shoves the shotgun into an open trash can.
+
+                                ALEXANDER
+
+                      Two: what if I didn't miss?  
+
+                                PENTCHO
+
+                      You did.
+
+                                ALEXANDER
+
+                      Spare me your classical answer. 
+
+                      Measurements in.  Results taken.  What if I
+
+                      didn't miss?  
+
+                                PENTCHO
+
+                      You did miss --
+
+                                ALEXANDER
+
+                      -- What if your seven and a half precious
+
+                      liters were downloading over the parquet
+
+                      floor?  What then?  (softer) What did your
+
+                      life mean? (beat) Who did you nurture,
+
+                      Pauly?  Who did you love?
+
+            Pentcho shifts, uncomfortably, in his seat.  Ditto Alexander's mood. 
+
+            He does a startling one-eighty into nonchalance.   
+
+                                ALEXANDER (CONT'D)
+
+                      What was her name?
+
+                                PENTCHO
+
+                      Excuse me???
+
+                                ALEXANDER
+
+                      What was her name?  The one I met.
+
+            Alexander reaches out a finger, touches the dab of paint on Pentcho's
+
+            forehead.
+
+                                PENTCHO
+
+                      Mia...?
+
+                                ALEXANDER
+
+                      Yes.... 
+
+            He rubs the paint between his fingers. 
+
+                                ALEXANDER (CONT'D)
+
+                      The restorer...
+
+            Now he wanders off, disappears into the dark.
+
+            ON PENTCHO: wired, incredulous, heart thump thump thumping.  
+
+            He calls out after his father.  
+
+                                PENTCHO
+
+                      I need some air. (beat) Don't shoot me.  
+
+                                ALEXANDER'S VOICE (OC)
+
+                      Good night.  
+
+            INT.  ALEXANDER'S HOUSE - A SHORT TIME LATER
+
+            Pentcho paces in front of the open window, stops.  He turns to walk
+
+            out, is surprised by
+
+            ALEXANDER
+
+            Standing in the dark.
+
+                                ALEXANDER
+
+                      We've been kidding ourselves, Pauly.  Until
+
+                      you look for it, it doesn't even exist.  
+
+     45     EXT.  SAN PEDRO WHARF - NIGHT                           45
+
+            Pentcho slogs down the wharf.  Running from it.  Looking for it. 
+
+            Past homeless people slipping in and out of the shadows.  He snaps
+
+            his head back over his shoulder, sees an OLD WOMAN playing  the
+
+            accordian.  She stops.  Her eyes bore in on his own. 
+
+                                OLD WOMAN
+
+                      You would have a son with me...
+
+            Pentcho blinks.  The woman is suddenly FIFTY YEARS YOUNGER:
+
+                                YOUNG OLD WOMAN
+
+                      ...and his name would be Hope.
+
+     46     INT.  PENTCHO'S BRAIN - (A MATHEMATICAL FORMULA)        46
+
+            Numbers fly up on the field, are inscribed, erased, considered and
+
+            measured.  Pentcho's own VOICE is heard on overlap:
+
+                                PENTCHO'S VOICE
+
+                      "If you could look back fast enough, at near
+
+                      to the speed of light, then there would be
+
+                      no reality behind you, because it hadn't yet
+
+                      been created --
+
+     47     EXT.  THE WHARF - (A FOGHORN) NIGHT                     47
+
+            BELLOWS in the dark.  Pentcho twists his head forward, spots:
+
+            A PINK NEON HEART
+
+            blinking above a tatto parlor.  His eyes lock on, see the heart 
+
+            GLOWING BIGGER AND BIGGER, 
+
+            its electric pulse mimicing the beating of a real organ.  
+
+            CLOSER STILL - ON PENTCHO
+
+            Running from it.  Looking for it.  He stops dead in his tracks, tries
+
+            one last time to play gunfighter with the quantum reality:
+
+            HE SNAPS HIS HEAD BACK OVER HIS SHOULDER
+
+            and we see him, making the same move, from four different camera
+
+            angles: from his LEFT, his RIGHT, from the TOP OF HIS HEAD, and
+
+            looking up FROM GROUND ZERO as 
+
+            HE FINALLY WINS THE DRAW.
+
+            The RUMBLE OF A MEGA-EARTHQUAKE is unleashed.   Here it comes,
+
+            rolling in with a giant WHOOSHING SOUND...
+
+            POV PENTCHO: WATCHING REALITY SUCKED OUT OF EXISTENCE
+
+            The ships, the dock, the harbor OBLITERATED by an onrushing,
+
+            transparent cloud of NOTHINGNESS, EMPTINESS, a tabula rasa
+
+            superimposed upon the disappeared wharf.  
+
+            ON PENTCHO, FALLING TO HIS KNEES
+
+            hammered by his own victory, numb from shock and ecstasy, staring
+
+            into the void as we surge forward 
+
+     48     INT.  THE BRAIN FIELD                                   48
+
+            It's completely blank, just like the void.  The VITALS are flatlined. 
+
+            A single piece of thought text floats across the emptiness, almost
+
+            like a screen saver:
+
+                      Say Uncle.... Say Uncle...
+
+     49     EXT.  THE WHARF - (A VOICE) - NIGHT                     49
+
+                                VOICE
+
+                      Uncle, hey... 
+
+            A face, peering down at Pentcho.  The face belongs to the MAGIC MAN,
+
+            in a mad hatter hat, and a potpourri of found item clothing.  Like a
+
+            Baptist preacher on his sidewalk pulpit:
+
+                                MAGIC MAN
+
+                      Can you feel it, uncle?  Can you feel it
+
+                      right down to your bones?!  
+
+            ON PENTCHO: EXTREME CLOSE UP
+
+            Inside each pupil is the reflection of the NEON HEART.  We pull back
+
+            on Pentcho's face.  Calm.  Serene.
+
+                                PENTCHO
+
+                      Yes.  (beat) Yes I can.
+
+     50     EXT.  ALEXANDER'S HOUSE - NIGHT                         50
+
+            Pentcho turns the key, effortlessly opens the front door.
+
+            INT.  UPSTAIRS HOUSE - AN ORNATE TILE SHOWER - NIGHT
+
+            He stands beneath the stream of hot water, cleansing himself of a day
+
+            that began a very long time ago.
+
+            INT.  THE GUEST BEDROOM - NIGHT
+
+            Pentcho dresses, taking in the smell and texture of fresh clothes
+
+            against his body.  He sits down on the bed.  Sees a clock.  5:00 a.m. 
+
+            TUGS UP one of the double sash windows that faces the 7-Eleven. 
+
+            VOICES rise from the parking lot.  
+
+            Pentcho stretches out on the musty bedspread, eyes on the carved
+
+            plaster ceiling.  Suddenly, floating up through the open window:  
+
+                                WOMAN'S VOICE
+
+                      What do you want?!  
+
+            Pentcho cranes his head.
+
+                                WOMAN'S VOICE (CONT'D)
+
+                      Tell me!  Now!  Now!  
+
+            The old sash falls shut.  BOOM.  It's like a dam bursting inside him,
+
+            only the flood is LAUGHTER that starts deep in his belly, as a
+
+            giggle, then a chuckle that cascades upward and out into enormous
+
+            GUFFAWS.  The sound rocks the house.  Pentcho's smile is a mile wide. 
+
+            His eyes sparkle, then tear up as the
+
+            FRONT DOORBELL RINGS
+
+            He jumps off the bed, and bounds down the stairs.  
+
+     53     INT. THE FRONT HALL - NIGHT                             53
+
+            Alexander's already there, ushering MIA inside to:
+
+     54     INT.  THE LIVING ROOM - AT THE MOMENT THAT              54
+
+            Pentcho arrives.  He stops, incredulous, at the sight of her.  
+
+                                ALEXANDER
+
+                      Guess who's coming to dinner.
+
+            Mia jumps right in.  To Pentcho:
+
+                                MIA
+
+                      I didn't want to leave things the way we
+
+                      did.  Not this time.
+
+                                PENTCHO
+
+                      Wait.  I want to tell you something.
+
+            He takes her arm, steering her away from Alexander, into the living
+
+            room.  She stops cold at the sight of the MURAL.
+
+                                MIA
+
+                      I've been dreaming about this.
+
+                                PENTCHO
+
+                          (excited)
+
+                      Then you get it.  You'll understand.
+
+                                MIA
+
+                      What?
+
+            His face has the look of the little boy who has just stumbled upon
+
+            the pirate's treasure.  
+
+                                PENTCHO
+
+                      I know what I want.  I let go, and a second
+
+                      later you materialized at the door.  You
+
+                      see?  
+
+            CLOSE ON PENTCHO
+
+            feeling the feelings.
+
+                                PENTCHO (CONT'D)
+
+                      Mia.  I can create reality.  (beat) I can
+
+                      choose to love you with all my heart.  
+
+            Tears pool along the rims of her eyes.  She stares straight at him,
+
+            hiding nothing.
+
+                                MIA
+
+                      You know those people who won't be
+
+                      photographed because they're afraid you're
+
+                      stealing their souls...?  
+
+                          (long beat)
+
+                      I came to take back my picture.  The one I
+
+                      keep leaving with you.
+
+            His heart deflates.  His voice follows.  Barely audible:
+
+                                PENTCHO
+
+                      Why?
+
+                                MIA
+
+                      So I can move on.  You too.
+
+            A horn blares from outside.
+
+                                MIA (CONT'D)
+
+                      Be who you are, Paul.  I love who you are. 
+
+                      I do.
+
+            She turns and runs out the front door.
+
+     55     EXT.  ALEXANDER'S HOUSE - SECONDS LATER - NIGHT         55
+
+            Mia runs down to the curb where where boyfriend WILL holds open the
+
+            passenger door of the red Durango.
+
+                                MIA'S VOICE
+
+                      I'll drive.
+
+            She circles the car, disappears behind the wheel.  Will gets in his
+
+            side.  
+
+            ON THE FRONT PORCH
+
+            Pentcho, agitated, pushes open the door.  Alexander's already
+
+            outside, watching Mia motor off.  He turns, stares at his son.
+
+                                ALEXANDER
+
+                      Do you want to think about it some more?  
+
+            PENTCHO SPRINTS DOWN TO THE CURB.  Jumps into the Beetle.  The
+
+            headlights FLASH ON in the pre-dawn night.
+
+     56     INT.  THE DURANGO (DRIVING) - NIGHT                     56
+
+            Mia grips the wheel with two hands.  Will feigns nonchalance. 
+
+                                WILL
+
+                      You okay?
+
+            She nods.  Barely.  They merge onto the highway. 
+
+     57     INT.  THE BEETLE (DRIVING) - NIGHT                      57
+
+            Pentcho grips the wheel.  Eyes focused.  We surge into 
+
+     58     INT.  PENTCHO'S BRAIN FIELD - OPENING ON                58
+
+            PEARLS, PLAYING OUT, LOOPING INTO A STRING 
+
+            whose shape recalls the original brain field.  Thought text scrolls
+
+            below, accompanied now by Pentcho's own inner voice.
+
+                                VOICE AND TEXT
+
+                      Each part of physical reality is constructed
+
+                      of all the other parts...
+
+            EXTREME CLOSE-UP, ON A SINGLE PEARL
+
+            inside of which, the entire strand is reflected.
+
+                                VOICE AND TEXT (CONT'D)
+
+                      A web of connections created by the
+
+                      interdependence of all things...
+
+            The field collapses back into:
+
+     59     INT.  MIA IN THE DURANGO (DRIVING) - NIGHT              59
+
+            eyes on the rear view mirror, as a horn BLARES from the entrance to
+
+            the Long Beach bridge.
+
+            She re-checks the mirror, filled with bobbing headlight beams.  One
+
+            beam LOCKS ON, straight into the center of the glass, blinding her
+
+            for a split second.  She blinks.  Gasps to herself as the beam seems
+
+            to 
+
+            LIFT OUT OF HER MIRROR 
+
+            and train its phosphorescent glow on:
+
+            MIA - EXTREME CLOSE UP
+
+            the point of light reflecting out of her pupils.  PENTCHO'S VOICE
+
+            speaks from nowhere, sonorous and packed with reverb:
+
+                                PENTCHO'S VOICE
+
+                      What do you want?
+
+            Mia blinks again.  The beam is gone.  She looks over at WILL,
+
+            oblivious, checking his watch. 
+
+            BACK ON MIA
+
+            the understanding flooding her eyes as 
+
+            SHE SNAPS HER HEAD BACK (JUST LIKE PENTCHO THE GUNFIGHTER)
+
+            And we see her making her move from FOUR DIFFERENT CAMERA ANGLES,
+
+            from her left, right, up above, and from the back seat of the car as
+
+            the RUMBLE OF A MEGA-EARTHQUAKE WHOOSHES BY...
+
+            POV MIA: THE BRIDGE, THE CARS, THE BAY
+
+            all sucked out of existence until nothing remains but         
+
+            THE VOID.  NOTHINGNESS.  NADA.   CRASH!
+
+     60     INT.  THE DURANGO (SLAMMING INTO THE CAR AHEAD) - NIGHT 60
+
+            triggering a chain reaction of vehicles fish-tailing across the
+
+            bridge.  In quick succession come a STREAM OF IMAGES:
+
+            The pearls colliding...
+
+            Mia and Will exchanging a LOOK...
+
+            Traffic HALTING on the bridge...
+
+            Will getting SCORCHED by the MAN they plowed into...
+
+            Mia, exiting her side, looking BACK BEHIND HER...
+
+            PENTCHO, ditching his Beetle, ten car lengths south...
+
+            HE RUNS FORWARD, straight down the path of a tunnel-like headlight
+
+            beam.  
+
+            MIA PICKS UP SPEED, churning from the other direction.  
+
+            PULL BACK: FROM THE BRIDGE
+
+            as the two of them move toward the same point.  Suddenly, tiny sparks
+
+            of light GLOW and JUMP from portions of the bridge cable.
+
+            SLOW MOTION: PENTCHO AND MIA
+
+            gliding still closer.  A VOICE sounds:
+
+                                VOICE
+
+                      Impact!
+
+            Their bodies CONNECT, arms intertwine, lips touch lips...
+
+            PULL BACK - HIGHER
+
+            It's like a plug in the socket of the physical landscape
+
+            LIGHTING THE ENTIRE ELECTROMAGNETIC SPECTRUM
+
+            Every cell line, radio wave, satellite feed, fiber-optic cable, all
+
+            stretching in every possible direction 
+
+            FROM BRIDGE TO SEA TO SKY
+
+            pulsing outward into a spidery network of
+
+            GLOWING INTERCONNECTEDNESS. 
+
+                                     THE END
+

@@ -1,0 +1,4482 @@
+RED PLANET
+
+BODY { background-color: "#FFFFFF"; font-family: Courier New, Helvetica, sans-serif; font-size:10.0pt }
+
+DIV { position:absolute; left:5px; top:20px; width:734px; height:500px;  }
+
+#loc { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.2in; margin-bottom:0in;
+
+margin-left:0.8in;text-transform:uppercase } 
+
+#slug {
+
+	font-family:Courier New;
+
+	font-weight: normal;
+
+	margin-top:0in;
+
+	margin-right:1.2in;
+
+	margin-bottom:0in;
+
+	margin-left:0.8in;
+
+	text-transform:uppercase;
+
+<b>	
+
+</b><b>} 
+
+</b>
+
+#act { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.8in; margin-bottom:0in;
+
+margin-left:0.8in } 
+
+#speaker { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.in; margin-bottom:0in;
+
+margin-left:2.8in;text-transform:uppercase }
+
+#spkdir { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.7in; margin-bottom:0in;
+
+margin-left:2.2in }
+
+#dia { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:2.6in; margin-bottom:0in;
+
+margin-left:1.6in }
+
+#pg { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:1.75in; margin-bottom:0in;
+
+margin-left:6.5in }
+
+#right { font-family:Courier New; font-weight: normal;margin-top:0in; margin-right:0.75in; margin-bottom:0in;
+
+margin-left:5.0in }
+
+RED MARS
+
+FADE IN:
+
+EXT. EARTH - VIEWED FROM SPACE
+
+A perfect blue marble - clouds, oceans, continents.  A voice begins to speak.  An older, wise voice.  Bud Chantilas.  We'll meet him later.
+
+CHANTILAS (V.O.)
+
+The Earth.  From space.  In all its glory, the most perfect, self-regulating organism you could imagine.  We went out there; we turned around; we looked back; we saw it.  You'd think we'd behold and learn something.
+
+(beat)
+
+We didn't.
+
+The DATE APPEARS in one corner of the screen.  1961.
+
+CHANTILAS (V.O.)
+
+It was 1961 when we first went into space.  There were four billion people in the world.
+
+The POPULATION APPEARS in the other.
+
+CHANTILAS (V.O.)
+
+And at a rate that was scarcely comprehensible, we began to poison and populate our planet.
+
+DATE SPINS, the POPULATION as well.  The big, sparkling blue marble that is Earth begins to lose its luster and slowly turns gray.  By the year 2000, the population is six billion.
+
+CHANTILAS (V.O.)
+
+We increased by 80 million people a year.  Pumped out our toxins beyond measure.  Destroyed our resources killed forests, trees, plants, animals...Anything that couldn't be trademarked and sold at a profit we annihilated without a thought.  We killed half of what was on the planet.  We didn't care.  Right about the millennium, we got another warning...
+
+DISSOLVE TO:
+
+PERFECTLY ROUND LILY PAD
+
+in the midst of a pond.  Surrounded by hundreds of dead, dying and deformed frogs.
+
+CHANTILAS (V.O.)
+
+We killed all the frogs.  Every frog on the face of the planet.  We'd killed species before, sure, even a genus or two.  But this time we wiped out an entire phylum.  As the frogs breathe through their skin and react to toxins in the environment faster, this should have been a warning, canary in the coal mine kind of thing.
+
+The last frog dies.
+
+CHANTILAS (V.O.)
+
+Nah, we didn't pay any attention to that either.  The only people who were really upset were the French.  And no one really likes the French.  We - 
+
+DISSOLVE BACK TO:
+
+EXT. EARTH - VIEWED FROM SPACE
+
+DATE and POPULATION  begin to WHIR again.  The planet grows dimmer and dimmer.  The oceans grayer and grayer.
+
+CHANTILAS (V.O.)
+
+By 2050 there were 12 billion people.  It took us 100 years to go from the Industrial Revolution to putting a man in space.  It took us only another 100 to poison and overpopulate the planet so seriously that if we didn't go out and find somewhere else to live, we realized we were gonna die out as a species ourselves in the next two generations.
+
+FADE OUT.
+
+FADE IN:
+
+A billion stars.  We PULL BACK THROUGH -
+
+EXT. ARES - DAY
+
+A spaceship unlike anything you've seen.  Thirteen spheres up front, cuboctoahedral packing.  The MEV (Mars Entry Vehicle), a large cylinder behind.  The whole thing is slowly turning.
+
+SUPERIMPOSE: FIRST MANNED MISSION TO MARS (DAY 190)
+
+The ship floats by to reveal - 
+
+EXT. MARS
+
+Red, huge, and very close.  OVER which we hear -
+
+BOWMAN (V.O.)
+
+Houston, we are go for Mars orbit acquisition.
+
+CAPCOM (V.O.)
+
+You are go.  Nice flight.  Godspeed.
+
+Engines light up in the back of the craft.  The ship heads down towards Mars.  Enters orbit.  Disappears around the back side.
+
+SUPERIMPOSE: MARS - FOURTH PLANET FROM THE SUN
+
+The WORD SUN STARTS TO BLAZE BRIGHTER AND BRIGHTER, FILLING the SCREEN until we are LOOKING AT - 
+
+EXT. SUN
+
+A writhing ball of plasma.  The surface roils, waves of energy pass by and a flare starts to grow and expand out from one quadrant like a giant volcanic eruption.
+
+INT. SOLAR OBSERVATORY (EARTH) - DAY
+
+Two SOLAR ASTRONOMERS stare with mouths agape at the heliostat.  Monitors around record the event as well.  
+
+SOLAR ASTRONOMER
+
+Jesus...It's gotta be 800,000 miles long.  It's gonna shut down every comm satellite on this side of the planet.
+
+ALARMS are starting to BUZZ.
+
+SOLAR ASTRONOMER
+
+The good news is it's directional, most of it's gonna miss us.
+
+INT. MISSION CONTROL (HOUSTON) - DAY
+
+More ALARMS.  Science Officer, ANDY LOWENTHAL, turns to the Flight Director, MATT RUSSERT.
+
+LOWENTHAL
+
+The bad news is it's directional, and most of it's going toward Mars.  Sub-light speed.  It'll take 40 minutes to get there.
+
+RUSSERT
+
+Let 'em know.
+
+He looks to the Capcom, JOHN SKAVLEM.  News gets worse.
+
+SKAVLEM
+
+No comm.  They're on backside.  They'll be clear in...40 minutes.
+
+(NOTE All the crew in mission control wear small Projected Image Monocles (PIMs) over their dominant eye.  There are no giant viewscreens dominating the room as in missions past.  When so moved, the flight director can throw an image on a large general viewscreen.  But unless noted, there are no projected images in the room.)
+
+EXT. MARS ORBIT - NIGHT
+
+Dark side of Mars. The Ares is a slightly shining speck, moving towards the horizon and light.  At 17,000 mph.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Commander KATE BOWMAN is at the helm.  She's got a kind of quiet assurance.  You'd like her.  Mission co-pilot ED SANTEN is beside and behind her.  She speaks into a mike to rest of the ship - 
+
+BOWMAN
+
+We have stable orbit.  We've got three laps around, ninety minutes each.  In four and a half hours, we will launch the Mars Entry Vehicle.
+
+ROBBY GALLAGHER floats in through the hatch in the back.  He's been waiting 309 million miles for this - 
+
+GALLAGHER
+
+Are we there yet?
+
+Kate shakes her head.  She's about to respond when - 
+
+EXT. SPACE
+
+They just clear the edge of the planet, lights hit them and...
+
+INT. ARES - FLIGHT DECK
+
+Wham.  One light starts to flicker to red.  And then another.  Some just go off.
+
+BOWMAN
+
+What the hell??
+
+Santen reaches for the RADIO as it begins to blare STATIC.
+
+SANTEN
+
+Comm's out.
+
+Bowman begins to rapidly reset states.  Some hold, some flip back to red.  Things are bad, but she's calm.  Decides.
+
+BOWMAN
+
+Single event upsets.  All over the board.  Latch up.  Free flow.  We're gonna lose chips.  Shut it down.
+
+SANTEN
+
+Shut it down?
+
+Safety BUZZERS start to go off.
+
+BOWMAN
+
+Everything.  SEP, some kind of massive flare.  
+
+(then; into the intercom) 
+
+Gentlemen, correction, we will launch on this pass.  In fact...in five.
+
+Santen is shutting off every system he can get his hands on.  She reaches to finish it off herself.
+
+BOWMAN
+
+Proton flux.  MULTIPLE Event Upsets.  Ed, bye.
+
+Santen is out of his seat and heading back as fast as he can.  Gallagher behind him.  ALARMS ring now as he rushes out, the artificial gravity begins to fail.
+
+INT. ARES - MULTIPLE DECKS
+
+The crew madly scrambling everywhere.
+
+On the MEV DECK, BUD CHANTILAS, Chief Science Officer (60s, graying) is pulling himself into a spacesuit.
+
+Popping out of his bunk and into the wall, CHIP PETTENGILL (30s, a little dour), grabs a satchel of personal possessions and swims off down an access tube.
+
+Gallagher and Santen rush along, careening off the walls.
+
+Emerging onto the MEV deck, looking absolutely calm, COOPER BURCHENAL (40s, weathered, unconcerned) stops at an intercom station, presses a toggle - 
+
+BURCHENAL
+
+Katherine, you could probably cut off that caterwauling now.  I'm up from my nap.
+
+A moment later, the ALARM CEASES.
+
+INT. MARS ENTRY VEHICLE
+
+6 High G couches are faceted about the interior walls, crew names stenciled on them.  (Bowman's remains conspicuously empty.)  Santen straps himself in.  Chantilas, Burchenal, Pettengill, and Gallagher stream aboard.  Start cinching themselves in as - 
+
+INT. ARES - FLIGHT DECK - DAY
+
+Kate continues to try to shut the ship down.  Some circuits do, others flicker/free flow and refuse to stop.  One particular circuit will clear, but only as long as she holds it shut manually - MEV Launch Release.  Only takes her a moment to decide.  She's not happy, but tries not to let her concern show as -
+
+BOWMAN
+
+Gentlemen, it seems I will not be able to join you and will maintain the manual release for the MEV from the Flight Deck.
+
+SANTEN (V.O.)
+
+Commander!?!
+
+She has no time or inclination to engage in discussion about her decision.
+
+BOWMAN
+
+You are go for Mars descent, Lieutenant.  On my signal.
+
+INT. MEV
+
+Santen powers up the smaller craft.  Seals the door.  He can't believe he's doing this, but he has no choice.
+
+SANTEN
+
+We are green across the board.
+
+The last of them finish torquing themselves down.  Gallagher toggles his intercom to Bowman - 
+
+GALLAGHER
+
+Promise you won't leave if we don't like it there.
+
+INT. ARES - FLIGHT DECK
+
+She responds in kind.  Keeps her tone as light as she can...
+
+BOWMAN
+
+I promise.  
+
+(then) 
+
+Lieutenant Santen, you have control authority of the MEV.  Now.
+
+She holds the circuit closed...
+
+INT. MEV
+
+Lights are starting to flicker off on the board.  Waiting is not a good plan.  Santen calls out quickly -
+
+SANTEN
+
+Crew secure??!
+
+ALL OF THEM
+
+Secure.  Secure.  Secure.  Secure.
+
+Santen slams two large buttons on either side of him.
+
+EXT. ARES - MEV CYLINDER - DAY
+
+Explosive bolts blow the two halves of the cylinder away.  The MEV is an icosahedron revealed inside.  As this is space, and a vacuum, there is no sound.
+
+INT. MEV - DAY
+
+However, in here, it's LOUD.  EXPLOSION REVERBERATES.  Half a moment later, ANOTHER EXPLOSION and - 
+
+EXT. ARES - DAY
+
+The MEV is blown free of the Ares.  Again, oddly silent.  Small maneuvering MOTORS BURN for a moment, starting the MEV out of orbit and in free fall towards Mars.
+
+It drops, drops, drops and disappears, friction blazing as...
+
+INT. ARES - FLIGHT DECK - DAY
+
+There are still free-flows all over the board.  Bowman can't get them to shut down.  They flicker, pop on and off.  Systems start and shut down and start up again all over the ship.  Checks the COMM again.  Still STATIC.
+
+INT. ARES SPHERE SIX
+
+Control panel on the wall.  We hear a CLICKING.  Inside the panel, we see the switch sputtering on/off.  It fails, arcs.  Smoke begins to wisp out.
+
+INT ARES - FLIGHT DECK - DAY
+
+A red light comes on.  Soft BUZZ.  Kate turns.  It's a smoke warning in sphere six.
+
+INT. ARES - VARIOUS DECKS - DAY
+
+Bowman rushes through
+
+A sphere that's a garden.  Another with orchids growing on walls.  Artwork on huge LCD screens...Pulls open panels and slaps down banks of breakers as she goes.  Rooms turn dark, the artwork disappears.  Only phosphorescent safety lights remain.  More ALARMS.
+
+INT. ARES - SPHERE SIX
+
+Bowman yanks out a fire extinguisher.  Sprays down the offending area.  She is, of course, hurled across the room by the force.  For a moment, though, it looks like she's succeeded.  Smoke begins to wisp out again.  She pushes over, anchors her feet and jams the nozzle into a fire port.  Empties it.  This time it seems as if she's prevailed.  And then a gentle voice on the intercom.
+
+ANNUNCIATOR (V.O.)
+
+Fire.  Sphere 5.  Fire.  Sphere 5.  Smoke.  Sphere 8.  Smoke.  Sphere 8.
+
+She still doesn't panic.  Hurls herself down another access tube and...
+
+EXT. MARS - DAY
+
+Way up in the sky, we can see the tiny flare of the MEV entering the atmosphere.  A moment later, a SONIC BOOM reaches us.
+
+INT. ARES
+
+Bowman fights a fire in another sphere.  Dark now except for the flickering flames.  This time we see them otherworldly round and glowing in the zero G.  Smoke's in the air it's getting hard to breathe.  She puts out the fire, but from the ALARMS, it's clear she's now fighting a losing battle.
+
+INT. ARES - MAINTENANCE LEVEL/MEV DECK - DAY
+
+Kate rushes in.  Starts pulling master breakers.  LIGHTS are EXPLODING as the power surges.  She's surrounded by a cloud of glittering glass fragments.  We can see the fire/smoke panel lit up nearby.  The news is bad.  Half of the lights are red.  She yanks on a spacesuit.  Slaps on a small oxygen container.  Locks on the waist, wrists.  Reaches back to what seems to be a gelatinous hood.  Pulls it over her head, locks the front down and the helmet turns rigid and transparent.  She throws the last breaker.  Life Support.  The ship is now dead, but still burning.  She clips herself in with a set of safety tethers and...throws open the main hatch.
+
+INT. ARES - DAY
+
+The venting air crystallizes in a huge white plume.  Papers, books, cups, clothing flies forth as well.
+
+INT. ARES - MAINTENANCE LEVEL/MEV DOCK
+
+Bowman is sucked towards the open hatch.  Tethers hold.  Watching all her air escape is not a calming moment.
+
+INT. ARES MULTIPLE DECKS
+
+Without oxygen, the fires subside and die.  All of them.  The ship is still and dead.
+
+INT. MAINTENANCE LEVEL/MEV DOCK
+
+Total silence.  Fire lights are out.  Kate shuts the hatch.  Finally she lets herself begin to react.  Starts to hyperventilate and shake inside her spacesuit.
+
+EXT. MARS SURFACE
+
+The MEV has crash-landed.  It's a wreck.  Air bags deflate.  Half  have been destroyed.  The icosahedron attempts to unfold.  A figure struggles out of the shattered craft, collapses on the ground.
+
+GALLAGHER
+
+It wasn't supposed to be like this.
+
+FLASHBACK - EXT. JOHNSON SPACE CENTER - DAY
+
+SUPERIMPOSE: LAUNCH MINUS 9 DAYS
+
+The air is gray, thick.  Stragglers in heavy protective gear struggle through the fetid wind to an airlock on the side of...
+
+INT. NASA BRIEFING HALL - DAY
+
+...and join hundreds of journalists in the audience.  Lights dim.  In front, face lit from below at a podium, Senior Scientist HAROLD ERNEST, 60s, head of the Space Exploration Office.
+
+ERNEST
+
+As many of you may know, in 2032 the Space Exploration Office began a series of unmanned flights to Mars.
+
+The entire wall behind him, 40 feet by 100 feet, is a vid screen.  As he speaks the images appear.  Not as if he's narrating to the footage, but as if it's voice activated.
+
+ERNEST
+
+It had been determined by 2020 that Mars harbored no life.  Although beginning with the same resources as Earth four billion years ago, Mars didn't support any life beyond the microbial stage in the last 300 million years.  Nor did it have an atmosphere or climate supportive of human life.
+
+Exactly as he describes it, it occurs.  (Icecaps melt, temperature gradients rise, etc.).  In the audience are hundreds of journalists watching.
+
+ERNEST
+
+It was, however, concluded that Mars was receptive to terraforming.  If we could raise the temperature of the planet by only four degrees, the resultant melting of the ice caps would increase the density of the atmosphere, thus holding greater heat, melting the icecaps further.  We could use the greenhouse effect to our benefit.  To do this, we needed to increase the oxygen content of the atmosphere.  Resultingly, a series of probes were sent, each releasing further and further genetically manipulated lichen and algaes designed to stand the rigors of the Martian environment while augmenting the oxygen content of the Martian atmosphere.  In the last 28 years, we have sent 2200 probes.  The terraforming was initially successful.
+
+We see the probes launching and bursting in aerosol deployments over the Martian surface.  Algae blooms.  Red, orange, green, black, burnt sienna.  Every color you can imagine.  Valleys covered with color.
+
+ERNEST
+
+The average temperature on Mars has increased two and a half degrees over the last three decades.  The oxygen content began to increase as well.  And then eleven months ago, the O2 on Mars suddenly began to decline.  Soon after, all the remote sensors on the planet ceased functioning.  We have no idea what's gone wrong.  We need to know why.  Man's very destiny may lie in the answer.
+
+The color on Mars ebbs away.
+
+ERNEST
+
+We are about to embark on the greatest mission of human exploration.  By using a number of Heavy Lift Launch Vehicles and a modified close lunar cargo ship, we have created a vessel capable of journeying to Mars.
+
+We see construction being rushed along and Hab-1 (a kind of big space RV) landing and deploying on Mars as -
+
+ERNEST
+
+Three months ago, Hab-1, an unmanned living environment, was launched.  In nine days Ares-1, our first manned mission, will be sent to Mars.  Ladies and gentlemen, I give you the first men and women to travel beyond the reach of  Earth to the next planet in the solar system.
+
+Light comes up on the crew.
+
+ERNEST
+
+Lt. Commander Katherine Bowman will supervise the flight component of our mission.  Commander Bowman has 2200 hours in space.  She will be assisted by Pilot and Mission Specialist Ed Santen.  
+
+(next) 
+
+And we're pleased to have Dr. Bud Chantilas come out of retirement as our Chief Science Officer.  Bud brings a view as a generalist few can offer, with a Nobel in chemistry and a MacGregor in molecular biology.  He was off getting another Ph.D., this time in...
+
+(checks)
+
+...theology when we asked him to join us.  
+
+(next) 
+
+Dr. Chip Pettengill, who until recently has held the number two position in the Terraforming Office, is an expert in extremophile and cryptoendolithic biology.  
+
+(then)  
+
+Dr. Cooper Burchenal, late of Western BioTech has left the private sector to help us.  
+
+(last) 
+
+And we are also joined by Robert Gallagher.
+
+Santen turns to Kate and quietly mutters.
+
+SANTEN
+
+The janitor.
+
+His MIKE was on.  It ECHOES across the room.  But Gallagher's too quick to let him try to apologize anyhow.
+
+GALLAGHER
+
+That's technically space janitor.
+
+Crowd likes this.  Gallagher continues -
+
+GALLAGHER
+
+When the toilet breaks 80 million miles from the nearest hardware store, they call me.  Actually, they called me now 'cause then would be too late.
+
+ERNEST
+
+To be more precise, Mr. Gallagher is the Mechanical Systems Engineer.  We're glad to have him along.
+
+Ernest moves on quickly.
+
+ERNEST
+
+We stand on the threshold of the most triumphant moment of the millennium.  Science has brought us here, and science will take us further.
+
+CUT TO:
+
+END FLASHBACK
+
+EXT. MARS SURFACE - DAY
+
+The MEV is horrendously battered.  It's a wonder they're alive.  Chantilas is propped against a rock, moving a device the size of a hardback book across his abdomen.  It's a kind of combination x-ray/sonogram.  Doesn't like what he sees.  Puts it aside for the moment without discussing it with the others.
+
+Gallagher emerges from the MEV dragging some tools and other salvaged gear.  (NOTE All communication is via the VOX radios in their spacesuits.)
+
+CHANTILAS
+
+What've we got?
+
+GALLAGHER
+
+The radio's dead.  Rover's dead.  AMEE's dead.  You gave me a shop and three months and I could get this thing set for orbital re-entry.  Otherwise...it's staying here.
+
+Santen's climbed to the top of a nearby outcropping of rock.  Surveys the area
+
+red sky, blue clouds, rocks.
+
+BURCHENAL
+
+Anything?
+
+SANTEN
+
+No.
+
+PETTENGILL
+
+Great.  We put up with your shit for three hundred million miles, so you could crash-land us on Mars.  Just fucking great.
+
+BURCHENAL
+
+By all rights, son, we should be dead.  That was a decent piece of flying.
+
+SANTEN
+
+We have a mission to accomplish, people...
+
+PETTENGILL
+
+We'll be dead in eight hours anyhow when the air runs out.  'Cause megapilot missed the landing site.  There is no more fucking mission.
+
+That puts it all into perspective.
+
+GALLAGHER
+
+So, where the hell are we?
+
+SANTEN
+
+The G.P.S. was tied to the radios...which are dead.  Transponder on the Hab was tied to the nav computer...
+
+GALLAGHER
+
+...which is dead.  Didn't the boys at NASA pack us a compass?
+
+BURCHENAL
+
+There's no magnetic core on Mars.  Wouldn't do any good.
+
+Gallagher considers all this for a moment.
+
+GALLAGHER
+
+I don't think I like this planet.
+
+CHANTILAS
+
+Best guess.  Where do you think we are?
+
+Santen shrugs.  As much as you can shrug in a spacesuit.
+
+SANTEN
+
+Somewhere downrange.
+
+Santen pulls his HHC out of a pocket on his thigh.  2050 descendant of a laptop.  Mutters at it.  It whizzes past all Hab info
+
+schematics, the standard 360 degree pan from the landing site, topo map of Mars.  Zooms in to show where the Hab was deployed.
+
+SANTEN
+
+Based on the last uncorrupted nav state, and given that we were in a full manual descent with no computer correction, I'd say...in this 60x120 mile ellipse.
+
+Okay.  That's big.  There's a long moment of resignation.  It's a little irrational, but then, re the HHC -
+
+BURCHENAL
+
+We've got every other mission variable in here, we ought to be able to figure aerobrake friction and the speed and orbit of the Ares when we exited.  We should be able to close in on the downrange variables.  Tighten up the ellipse.  It's about the math.
+
+Gallagher can't believe it.
+
+GALLAGHER
+
+This is it.  This is that moment they told us about in high school.  Where one day again we'd use algebra.  And it would save our lives.  And I thought they were fucking kidding.
+
+Gallagher turns in frustration and walks away.  Chantilas calls to him - 
+
+CHANTILAS
+
+Stay in range.  A thousand yards.  And your radio's line of sight.
+
+GALLAGHER
+
+Right, I wouldn't want to get lost.
+
+He continues to wander off.  We can hear them discussing drag coefficients and whatnot.  It just makes him ill.
+
+Gallagher stares out at the Martian plain.  It would be kinda cool.  Except for the fact he's gonna die here.  He's pissed and frightened.  Yanks his HHC out.  Mutters, images appear.  All the Hab details.  Stares at the map and then the 360 degree panorama.  Back at the map.  Back at the panorama.  Something about it strikes him.  Looks at it some more.  He gets up, looks around.  Looks around some more.  Heads back to the guys...
+
+GALLAGHER
+
+I don't think it's about math.  I don't like math, so I'm biased.  I think it's about the picture.
+
+He holds out the picture of the panorama.  Santen dismisses him - he's not a scientist, he's not a pilot, he should leave them alone.
+
+SANTEN
+
+We're not in that picture.  If we were, we'd know where the Hab was.  We're trying to figure this out.
+
+Robby ignores him, tosses a rock in the sand, wraps the the 360 degree panorama around it.  Screen bends and turns translucent as he does.
+
+GALLAGHER
+
+Look, say that's the lander.  At about 30 degrees in the distance, it sees this mountain with the funny top.  And at about 180 degrees it sees this funny set of twin peaks.  (points) 
+
+Now I see this mountain over there.  And these peaks over there behind me almost on a straight line.  And then there's this other peak maybe, which would put us on the line, say here.  Which leaves the angle to the Hab at about there...
+
+Santen and Chantilas start to manipulate their HHCs faster than you can follow.  Muttering to them, hand-gesturing, cross-referencing back and forth to the map, as the ellipse shrinks and their landing location is...determined.
+
+BURCHENAL
+
+Space Janitor First Class Gallagher, nicely done.
+
+SANTEN
+
+The good news is it's an eight-hour walk.
+
+GALLAGHER
+
+There's bad news?
+
+Chantilas checks Gallagher's wrist monitor.
+
+CHANTILAS
+
+You've got seven and a half hours of air.  Try not to breathe too deep.
+
+BURCHENAL
+
+Let's get the hell outta here.
+
+Chantilas struggles to his feet.  As the five of them tromp away in the giant landscape...
+
+FLASHBACK - EXT. SPACE -DAY
+
+The Earth FILLS the SCREEN.  And then PULLING BACK, BACK, BACK, BACK...It recedes in the distance and disappears.  We CATCH UP WITH the Ares as the final launch stage fizzles out and is discarded.  
+
+SUPERIMPOSE: MISSION TIME: DAY 1
+
+INT. ARES - PRIMARY SPHERE - DAY
+
+A large open common space.  Empty for the moment.  Until Chantilas and Pettengill enter through an access tube.  Gravity follows them around as they walk.  Floor, ceiling wall...A meter on the wall with a glowing "G" points an arrow the direction of the current gravity.
+
+PETTENGILL
+
+Chief Science Officer Chantilas.  
+
+(off his nod) 
+
+This is trippy.
+
+Chantilas grins.  He's been up so many times he's forgotten what it's like the first time.
+
+CHANTILAS
+
+You'll get used to it.  When you get home, it feels weird you can't walk on the ceiling.
+
+INT. ARES - MEV DECK - DAY
+
+Gallagher comes in too fast.  Stumbles up.  It's just confusing.  He resets.  Opens up a locker, about three feet by three feet.  He calls in to what seems to be a large tangle of silver pipes.
+
+GALLAGHER
+
+Good morning, AMEE.  Step out carefully, we're in multi-directional gravity.
+
+AMEE, the Autonomous Mapping Exploration and Evasion unit, unfolds and steps gingerly from the cabinet.  About waist high, eight legs, stereo camera eyes.  Like a big silver spider.  Old attachments have been sawed off and buffed down.  She's a piece of off-the-shelf gear that's been modified.  When the light hits her at the right angle, we can see a Marine Corps insignia still etched under the refinishing.
+
+GALLAGHER
+
+How are we after launch?  I'd like to run a systems check.  (as she nods)  
+
+Shall we do the hokey-pokey?  Just to satisfy me?
+
+She rapidly shakes each of her legs in turn.  Gallagher flips on a wrist panel display.  Built into the fabric of his suit.  He sees what AMEE sees.
+
+GALLAGHER
+
+Take a look around.
+
+He flips off the lights.  She flicks over to IR, sees just fine in the dark.  Turns the lights back on.
+
+GALLAGHER
+
+And how is your C.P.U. today?
+
+A 1000 quick calculations flash by and then - "Good."
+
+GALLAGHER
+
+Okay, run the occasional self test.  Let me know if anything's wrong.  And back to storage.
+
+AMEE contracts and climbs back into her locker.  Gallagher shuts the door.  Display reads "Good-bye" and winks out.
+
+INT. ARES - KITCHEN/DINING SPHERE - NIGHT
+
+All six of them are gathered.  First dinner in space.
+
+BOWMAN
+
+Any Space Adaptation Sickness?  Vertigo?  No?  Liars.  You'll wake up all night long thinking you're falling.  Promise.  I'll hear you scream.  Status?
+
+BURCHENAL
+
+Garden's good.
+
+CHANTILAS
+
+Didn't lose a plant.
+
+BOWMAN
+
+Anything else?
+
+Gallagher holds back here a little.  Not a scientist, not an astronaut.  Suddenly feels like the most junior member of the crew.
+
+GALLAGHER
+
+Ahh, Commander...Bunch of the HVACs jammed from the lift-off.  Reset 'em.  They're fine now.
+
+BOWMAN
+
+I'll tell you what, unless we pass a recruiting station on an asteroid and you sign up for the military, you can call me Kate for the next six months, okay?
+
+GALLAGHER
+
+Okay.  
+
+(as she waits; he relents) 
+
+Kate.
+
+BOWMAN
+
+Why'd you come, Gallagher?
+
+Not expecting this one.  Takes a sec -
+
+GALLAGHER
+
+I did two years as a mechanic at NASCAR.  A year and a half at McMurdo in the South Pole.  Three years on subs.  I had the highest military tech ratings you can get.  And I went cross-country once with my cousins in a  motor home.  This didn't seem so bad.
+
+BOWMAN
+
+That's why they called.  Why'd you come?
+
+A beat, then -
+
+GALLAGHER
+
+You ever been to Europe?  Europe's horrible.  It's full of stodgy people whose ancestors didn't have the balls to go to America and try something new.  Earth is gonna be like Europe.  You might visit there and admire some old buildings and crap, but you wouldn't want to live there.  This was like getting a call to go with Columbus to America the first time.  But harder.  How could you not go?
+
+Damn.  Burchenal grins.
+
+BURCHENAL
+
+I don't like Europe much either, son.  Didn't quite figure it the same way, but damnation, you don't turn down a phone call like that, do ya? 
+
+(to Kate) 
+
+You?
+
+BOWMAN
+
+I spent my entire life training to fly the biggest, fastest thing you can fly.  This is it.  It's the best job in the world.  
+
+(points to Santen) 
+
+He's going 'cause he got the second best job in space.  He's a little pissed about it, but he still came.
+
+She's nailed him so precisely, Santen can only wince and look away.  Pettengill just pipes up.  Maybe no one's gonna ask and he wants to get it out in the open -
+
+PETTENGILL
+
+I was never supposed to come.  I came 'cause my boss couldn't.  He failed the medical.  Heart arrhythmia.  So here I am.  They tapped me on the shoulder, told me I was going to Mars.  I was supposed to be second in charge of the Terraforming office till I died.
+
+Chantilas's the last.  They turn to him.  His reason's a little different.
+
+CHANTILAS
+
+Psalm 107, verse 23
+
+They that go down to the Sea in Ships, that do business in great waters, these see the works of the Lord, and His wonders in the deep.'  So I figured how much wonder for those in space?
+
+Beat.
+
+SANTEN
+
+You're going to Mars because of a poem??
+
+Chantilas thinks about it.  He could go on about it, but...
+
+CHANTILAS
+
+Basically.
+
+INT. ARES - EXERCISE SPHERE - DAY
+
+SUPERIMPOSE: MISSION TIME: DAY 13
+
+There's no up here, equipment is attached to the floor, ceiling and walls.  Santen and Bowman are on a large spinning bicycle-driven centrifuge.  Santen's pedaling.  By keeping up the speed, he's able to provide enough extra gravity for Bowman, on the other side, to lift free-weights.  They're both dripping sweat so it must work.  TIMER goes off, they slow to a stop.  Pettengill comes in.  He looks a bit uncomfortable.  Certainly out of his element.  A little, well, puny.
+
+PETTENGILL
+
+So...required exercise.  Haven't had this since grade school.
+
+SANTEN
+
+Yeah, you musta been doing some kind of reverse thing where you get small...
+
+Santen's got years in the gym.  Muscles on muscles.  Bowman takes a two-second evaluation of the situation.
+
+BOWMAN
+
+You're done.  You can shower.
+
+SANTEN
+
+I'm not done.  I was gonna...
+
+BOWMAN
+
+No.  You're done.
+
+Santen can't believe he's being thrown out.  But he's also a product of the military and couldn't argue if he tried.
+
+SANTEN
+
+Yes, ma'am.
+
+He leaves.  Pettengill feels stupid.
+
+PETTENGILL
+
+You didn't have to do that.
+
+BOWMAN
+
+No.  I did.  If I didn't nip that in the bud, I wouldn't be doing my job.  
+
+(then) 
+
+Flying this beast is only half the job.  The whole job's to get the crew in place in shape to do what they have to do.  And the funny thing is, flying's the easy part.
+
+Pettengill stands abashed for a moment and then his resentment just bubbles out...
+
+PETTENGILL
+
+I just hate all those fucking guys.  I feel like I've spent my entire life being the guy who was hassled in phys ed.  I lost the first girl I ever cared about to some thug who could throw a football farther than I could.  It's like women are hardwired to think that guys who are proficient at sports are going to be better providers.  It's not like we hunt and kill our own food anymore.  
+
+(then) 
+
+He sells cars for a living now.  Cars.  I end up working on a project that may save the existence of mankind and he sells cars.
+
+This is impressively obsessive.
+
+BOWMAN
+
+You kept track of him.  What happened to her?  
+
+(off his look of "who?")  
+
+The girl.
+
+He has no idea.  She grins at him -
+
+BOWMAN
+
+Little competitive?  Who's hardwired for what, Cro-Magnon guy?
+
+He can't help it, he grins, a little abashed.
+
+BOWMAN
+
+We're gonna start with the bungees.  Try to quit being pissed off you weren't chosen for dodgeball, willya?
+
+PETTENGILL
+
+I'll try.  Twenty years of hating the bullying motherfuckers is a hard habit to break.
+
+END OF FLASHBACK.
+
+EXT. CRASH SITE (MARS) - DAY
+
+It's quiet.  And then, a slight METALLIC SOUND.  We PUSH TOWARDS the MEV and IN.  AMEE lies on the deck beside her storage container.  A leg twitches.  Then another.  Servo WHINE.  Gets gingerly to her feet.  Eyes turn.  Wriggles once as if she was stiff and cautiously makes her way outside.
+
+EXT. CRASH SITE (MARS) - DAY
+
+Looks around.  Analyzes.  Turns and heads off into the landscape.
+
+EXT. MARTIAN PLAIN - DAY
+
+A landscape so huge, it's hard to comprehend.  Five tiny figures progress across the bottom of the frame.  They've already come a long ways.  Beginning to string out.  Pause and regather.  Pettengill stops to catch his breath.
+
+GALLAGHER
+
+How you doing?
+
+PETTENGILL
+
+Little tired.  I'm okay.
+
+SANTEN
+
+You should have put more treadmill time in.
+
+PETTENGILL
+
+(sotto)
+
+Go fuck yourself.
+
+SANTEN
+
+What'd you say?
+
+PETTENGILL
+
+Ahhh...Musclehead, go fuck yourself??
+
+They're both getting louder and louder...
+
+BURCHENAL
+
+Guys...
+
+Burchenal reaches out, checks their wrist monitors.
+
+BURCHENAL
+
+We're doing fine.  In point of fact, he's using less O2 than you are.  We can stop a minute.  Unless you two want to shout at each other and use up your air.
+
+PETTENGILL
+
+Sorry.
+
+SANTEN
+
+Fine.  I'm sorry, too.
+
+No one's sorry.  They rest.  Use the moment to look around.  It's pretty astounding.  Chantilas uses the respite to re-scan his abdomen.  Puts the device away again.  He's in pain but refuses to acknowledge it.
+
+GALLAGHER
+
+How you doing?
+
+CHANTILAS
+
+Things are as they are.  
+
+(then) 
+
+Lord.  Look at it, we're on Mars.  Pretty damn amazing.
+
+PETTENGILL
+
+It' weird.  There's nothing here.
+
+GALLAGHER
+
+It's Mars.
+
+PETTENGILL
+
+No, I mean there's not even a trace of the algae.
+
+He kneels down, examines a rock.  Nada.
+
+PETTENGILL
+
+Even if it all died, there'd be something - a dried algal mat, traces on the lee sides, something.  Nothing.  Nada.
+
+BURCHENAL
+
+He's right.  We sent up fifty-two varietals.  Blue-green, black, orange.  Anhydriobiosics, chemotrauphs, even a thibacillus that could grow autotrophically on elemental sulfur.  Not only are they dead, they're all just gone.  I don't get it.  It's like they were scoured off the rock.
+
+GALLAGHER
+
+Maybe there was never anything in this valley.
+
+As they walk, Burchenal checks his HCC.
+
+BURCHENAL
+
+If we are where we think we are -
+
+Map appears on a small screen, he mutters to it, overlays of all the algae and lichen that were on Mars appear.
+
+BURCHENAL
+
+This valley was covered with blue algae a month ago.  Valley back one should have been covered in an orange-red chloroflectic.  He's right.  It's weird.  There should be something.
+
+They crest a small rise.  Below lies a valley that closes down quickly into an extremely narrow canyon.  Burchenal and Santen check their HHC maps.
+
+BURCHENAL
+
+This, however, makes sense.
+
+SANTEN
+
+Debris apron.  Delineated valley fill.  Depositional fan...
+
+He double-checks with Chantilas.  Seems they're going the right way.  Chantilas leans back heavily against a rock.
+
+CHANTILAS
+
+Good.  You gotta keep moving...
+
+Chantilas doesn't get up.
+
+GALLAGHER
+
+And what're you gonna do, sit here and watch?  You getting old and lazy?
+
+CHANTILAS
+
+My spleen's ruptured.  There's significant internal bleeding.  I'm not going any further.  And trying to carry me will slow you down just enough that we can all die.
+
+Robby's stunned, frantic.
+
+GALLAGHER
+
+We'll get you to the Hab.  Lock out the spine impulse and you can walk one of us through it.
+
+CHANTILAS
+
+No. You won't.
+
+Santen takes charge.  It's his mission now.
+
+SANTEN
+
+We build a litter.  We take him.
+
+CHANTILAS 
+
+(stern)
+
+Chain of command once we hit the surface starts with me.  And I'm ordering you to go, Lieutenant.  Now.  
+
+(turns to Robby) 
+
+I've only got about forty minutes.  There's really not much pain.  Put me around the corner where I've got a view.
+
+They lift him to the other side of the rock.  Gallagher stays with Chantilas a moment.  Stricken, speechless.  Inside Gallagher's helmet, we can see as the tears roll down.  Then -
+
+CHANTILAS
+
+It's okay.  I'm not sorry I came.
+
+Gallagher takes one last look over his shoulder.  We are already PULLING BACK, BACK, BACK.  Tiny figures in the landscape once again.  One left behind.
+
+INT. MISSION CONTROL - DAY
+
+Tense.  Flight Director Russert watches as Skavlem mutters into the mike.
+
+SKAVLEM
+
+Ares, this Houston, do you read?  Ares, this Houston, do you read?
+
+Skavlem continues in the b.g. as - 
+
+LOWENTHAL
+
+What do you want to do?
+
+RUSSERT
+
+Get every dish in the Deep Space Network pointed at Mars. 
+
+(doesn't like it, but) 
+
+Declare a spacecraft emergency.
+
+EXT. MARS SURFACE - DAY
+
+Chantilas has toppled over.  Unmoving.  We GO WIDE, WIDE, WIDE and...
+
+EXT. HILLSIDE (MARS) - DAY
+
+The four of them trudge up a long hill.  The summit is a dozen steps away.  Santen is the first to reach it.  He looks out over the horizon.  Turns back to the others -
+
+SANTEN
+
+You're gonna like this.
+
+HIS POV
+
+We see what he sees, as do the others as they arrive - not that far in the distance, in the valley below, they can see the lab shining in the sun.
+
+BACK TO SCENE
+
+BURCHENAL
+
+Twenty-six months of food, water and air, gentlemen.
+
+PETTENGILL
+
+We're saved...
+
+They run down the hillside.  For the first time we get a feeling for the .38 gravity.  Bouncing sixteen foot steps.  Like little kids as they come bounding down.
+
+EXT. VALLEY FLOOR (MARS) - DAY
+
+They keep running and leaping and coming.  Until the first one begins to slow.  It's not from exhaustion.  And then the second and the third.  It's from horror.
+
+The Hab is in tatters.  Roof is gone, walls are gone.  Nothing but the titanium ribs remain.  They approach.  The insides are not much better.  It's destroyed.  There's no food.  There's no water.  There's no air.
+
+EXT. MARS - HAB - DAY
+
+They search.  The news doesn't improve.
+
+SANTEN
+
+What the fuck happened here?
+
+PETTENGILL
+
+Jesus...
+
+Burchenal continues to look around for a moment.  It doesn't matter what happened.  It's over.  Shakes his head at Gallagher.
+
+BURCHENAL
+
+How's your air?
+
+GALLAGHER 
+
+(checks)
+
+Twenty-two minutes.
+
+BURCHENAL
+
+I'm not much better.
+
+SANTEN
+
+What the fuck...
+
+He kicks angrily at what's left of the structure.  Storms off.  It takes Pettengill a moment to process it, but...
+
+PETTENGILL
+
+We're all gonna die, aren't we?
+
+INT. ARES - MAINTENANCE LEVEL - NIGHT
+
+Pitch black except for the electroluminescent panels she's stuck around the room.  She cracks another one on.  They work like glowsticks, but the size of menus.
+
+She's jumpered the circuits.  Multimeters Velcroed all over the place.  Trying to reboot the entire ship.  Checks her loads, balances one more jumper, throws a breaker.  The SHIP GROANS, FLICKERS TO LIFE, DIES.  She checks a meter, changes a jumper, tries again.  This time the SHIP GROANS, FLICKERS TO LIFE and STAYS ON-line.  The systems begin to come alive around her.  Panels light up, turn from red to green.  Lights start to come on.  Gravity returns.
+
+INT. ARES - VARIOUS SPHERES - NIGHT
+
+Bowman moves through.  The place is a mess.  Soot and fire stains in some spheres.  Smoke damage in all.  Flowers destroyed.  The garden is half-wrecked.  She manually opens a set of valves in one room.  AIR HISSES in from an emergency supply.  She checks a meter in her hand, checks again to be sure.  Folds back the helmet of her suit.  Breathes.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Bowman tries to bring the rest of the ship back to life.  Half a dozen systems are just plain dead and have to be locked out.  Things are not good.  Light's beginning to come up.  Moments away from entering front-side orbit.  Kate opens a panel marked OBS and throws a series of switches.
+
+EXT. ARES - NIGHT
+
+Door slides open.  A small optical receiver is seen.  They clear the dark side and burst into the light.  
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+On a large viewscreen, Bowman can now scan the surface to about a one meter resolution.  Searches.  Starts wide, scanning the edge of the horizon as it comes into view.
+
+Picks up the glint of the MEV.  Zooms in.  At first there's nothing but the crashed MEV in profile.  (Like a spy satellite, we are an an EXTREME ANGLE, SLOWLY REVEALING more as the Ares grows less oblique and tracks overhead.)
+
+Then the severity of the damage comes clear.  Bowman tries not to react.  Nothing else is there.  No sign of activity or escape.  The footprints are beyond the resolution of the camera.  There's no reason to believe anything but they're all dead.
+
+EXT. HAB & ENVIRONS (MARS) - DAY
+
+Gallagher and Burchenal sit on rocks nearby.  Not exerting themselves.  Checking their monitors.
+
+BURCHENAL
+
+Maybe we got what we deserved.  We ignored science and truth on one planet and poisoned it beyond repair.  Then tried to get science to save us on another.  Maybe it's the inconsistency that did us in.
+
+Burchenal points at a depression a few hundred yards away.
+
+BURCHENAL 
+
+(then; points)
+
+That's what they call the datum.  Sea level.  If there was a sea.  Or when there was a sea, that's where it was.  You can tell 'cause the sand was created by what's called the fluvial process where water breaks rocks into smaller and smaller pieces.  We're the first men on Mars.  Even if it isn't gonna last long.
+
+(then)
+
+Would you rather I shut up so you can die quietly?
+
+GALLAGHER
+
+Nah, you can keep talking.  It's kinda peaceful.
+
+In the b.g., headed towards a ridge of rocks, we can see a lone figure making its way along.
+
+It's Pettengill.  He steps around the ridge.  We can hear his RADIO WHOOOSH TO STATIC as he loses line of sight communication with the others.
+
+Up ahead of him, standing on the edge of an enormous drop-off, just staring out into space, is Santen.  His back is to us.  Pettengill walks towards him.  Santen still doesn't hear.
+
+Santen's radio is off.  BEETHOVEN BLARES in his helmet.  A 3000 foot drop at his feet.  It is magnificent.  As Pettengill approaches and Santen remains unaware, the scene seems less and less innocuous.  We fear for him.  Until...
+
+Pettengill just walks right up beside him and stares out at the chasm as well.  Santen LOWERS his MUSIC.  They stand there silently for a moment.  Santen has some kind of weak-ass epiphany...
+
+SANTEN
+
+Look, I'm sorry.  I owe you an apology.  I've been a dick. I pick on people who are weaker than I am.
+
+It's way too little, way too late.  But Pettengill doesn't let on.  Just nods.  As if he's forgiven him.  Steps away and OUT OF FRAME.  We HOLD ON  Santen a moment and...Pettengill has picked up what would be a 250-pound rock back on Earth and is heaving it with all his might into Santen from behind.  It slams into him, bending him in half, knocking his feet out from under him.
+
+For half-a-moment we think Santen might regain his footing.  But he doesn't.  He starts to fall past the edge of the cliff.  Slowly.  In .38 grav SLOW MOTION.  Flailing.  Twisting in the air.  As he falls, looking up, he slaps OFF the MUSIC, the RADIO COMES BACK ON.  Pettengill leans over the edge.
+
+PETTENGILL
+
+Fuck you.  Fuck you.  I'm gonna die.  But I'm gonna spend the next five minutes of my life completely satisfied knowing I killed you.
+
+SANTEN
+
+No, you won't, because...
+
+Pettengill shakes his head and steps back out of the line of sight.  Santen's last taunt turns to STATIC.
+
+PETTENGILL
+
+Yes, I will.
+
+He turns and walks away.
+
+EXT. MARS - HAB - DAY
+
+Pettengill returns to the others.  He can hear over the RADIO as he approaches -
+
+BURCHENAL
+
+Johannes Kepler was the first to accurately map the orbit of the planet.  In 1609.
+
+PETTENGILL
+
+Santen's dead.
+
+They turn.  But not surprised.  They just figure he -
+
+BURCHENAL
+
+Chewed through his air...
+
+PETTENGILL
+
+He threw himself off the cliff.
+
+GALLAGHER
+
+Ouch.
+
+Burchenal bows his head down for a moment, overcome.  But it's not Santen.  It's the bigger picture...
+
+BURCHENAL
+
+It's not often you get to fail when 12 billion people are counting on you.
+
+Gallagher's got more pressing problems.  Checks his wrist.  unnerved.
+
+GALLAGHER
+
+I'm at under a minute here.  You guys know what this is gonna be like?
+
+BURCHENAL
+
+Hypoxia?  Dizzy.  Skin'll tingle.  Vision narrows.  Then anoxia.  Shock, convulsions, acidosis.
+
+GALLAGHER
+
+Gonna hurt?
+
+PETTENGILL
+
+Yeah.
+
+A WARNING TONE GOES OFF on Gallagher's SENSOR.  He starts to gasp.  Opens his mouth wide.  Sucking in and out air that's worth less and less to his body.
+
+He begins to claw at the air.  It's not pretty to watch.  Spins about seeking some release.  None forthcoming.  Claws some more.  Falls to his knees.  The others can barely watch.  They know they're next.
+
+Gallagher's growing more claustrophobic and crazed.  Falls the rest of the way to the ground.  Still clawing at the air.  It's horrible to see.  And in one last desperate, angry, trapped-feeling move, reaches up and unhooks the front of his helmet and throws it back.  Croaks out a faint epitaph as he collapses.
+
+GALLAGHER
+
+Fuck this planet.
+
+And he's still.  Still.  And then in a last reflexive shudder.  Gasps.  Gasps again.  Takes in the worthless Mars atmosphere.  And right when we think it's entirely over...Takes in some more.  Breathes again.  And again.  Opens his eyes.
+
+GALLAGHER
+
+I'm not dead.
+
+The other two are watching in amazement.
+
+GALLAGHER
+
+I'm not dead.  It's like being at high altitude.  There's not much air here.  But...
+
+Takes him a minute to catch his breath, but...
+
+GALLAGHER
+
+We're not gonna die.
+
+Burchenal's suit ALARM GOES OFF.  He doesn't screw with gasping in the suit.  Just opens the damn thing up and prays.  Breathes.  Raggedly.
+
+BURCHENAL
+
+It ain't much.  But it'll do.
+
+He looks around, puzzled.
+
+BURCHENAL
+
+What the hell's going on here??
+
+Pettengill's ALARM GOES OFF as well.  Much more tentatively he removes his helmet.  Breathes.  He's not really rejoicing like the others.
+
+PETTENGILL
+
+I thought we'd be dead.
+
+The enormity of what he's done strikes him.
+
+PETTENGILL
+
+I thought we'd be dead.
+
+They all breathe the thin Martian air for a moment.
+
+GALLAGHER
+
+God, if Santen had only waited five more minutes.  What a waste...
+
+OFF Pettengill's completely unsettled face...
+
+INT. ARES - FLIGHT DECK
+
+STATIC on the comm clears.  A brief caesura then -
+
+BOWMAN
+
+Copy.
+
+SKAVLEM (V.O.)
+
+Roger, Ares.  Good to hear from you.  We believe you may have suffered a proton field upset.  What is your status?
+
+Silence.  Silence.  Bowman struggles to maintain control.  Tear runs down.  Takes a deep breath.
+
+BOWMAN
+
+MEV launched.  Radio contact zero.  Visual shows crash site, one body, no motion.  Believe entire crew to be End of Mission.  Ares systems check at below 70 percent.  Telemetry to follow.
+
+She punches a button.  Starts to upload it to them.
+
+BOWMAN
+
+Air purge in fire control degraded orbital path.  Current orbit unstable.  Thirty-two hour projected failure.  Do you copy, Houston?
+
+INT. MISSION CONTROL - DAY
+
+The telemetry has come in.  Russert puts it up on the common viewscreen.  Ship status and all the failures are displayed.  It's a disaster.
+
+SKAVLEM
+
+Roger.  We copy that.
+
+He lets go of the mike.  Can't help himself.
+
+SKAVLEM
+
+Jesus fucking God.
+
+FLASHBACK - INT. ARES - ACCESS TUBE - NIGHT
+
+SUPERIMPOSE: MISSION TIME DAY 15
+
+Dark.  Someone moves along.  And emerges into -
+
+INT. ARES - OBSERVATION SPHERE - NIGHT
+
+An icosahedronal slice has been removed from one side and replaced with optical glass.  A billion stars are brighter and more numerous than you've ever imagined.  Gallagher comes in, bumps smack into Chantilas.  Thought he was alone.
+
+GALLAGHER
+
+Sorry
+
+CHANTILAS
+
+Lotsa room.
+
+They lean back against the "floor" for a moment and stare out at a billion and a half stars.
+
+CHANTILAS
+
+Know the stars at all?
+
+GALLAGHER 
+
+(pointing)
+
+Andromeda, Cassiopeia, Cetus, Lepus, Canis Minor.  We're looking at what you'd see south around midnight, mid-May if we were on Earth.  At about 42 degrees.
+
+He's not showing off.  He just really does know.  Chantilas looks at him, surprised.
+
+GALLAGHER
+
+My grandfather taught me to sail when I was a kid.  
+
+(fondly) 
+
+He made me learn the stars in case all the G.P.S. satellites fell out of the sky at once.  He said anyone who put his life in the hands of anything run by batteries was a jackass.
+
+CHANTILAS
+
+He sounds like quite a guy.
+
+GALLAGHER
+
+He didn't like what he called the easy answer or the quick fix.  He didn't want to own anything he couldn't repair himself.  
+
+(thinking back) 
+
+And, oh yeah, everything automatic sooner or later fails automatically, usually during or immediately before a crisis.  He had a lotta damn sayings.  
+
+(then)
+
+He wouldn't've approved of this.
+
+CHANTILAS
+
+Going to Mars?
+
+GALLAGHER
+
+No.  That we killed off half the living things on Earth.  That after we all but destroyed one planet with global warming, we're trying to bring another to life the same way.  Kinda tricky, don't you think?  He woulda said we were asking for trouble.
+
+CHANTILAS
+
+It looks like we got trouble.  That's why they sent us.
+
+A beat.  They go back to staring at the heavens.  Then -
+
+GALLAGHER
+
+I don't really get it.  You quit being a scientist?  You went back to school to study God??
+
+CHANTILAS
+
+I just realized science couldn't answer any of the really interesting questions.  
+
+(off Robby's look) 
+
+There are values that are fundamental to an adequate apprehension of the world in which we live that can't be expressed by equations or experiments.  In that, you see the hand of God.  
+
+(explaining) 
+
+Acknowledgment of basic values.  Love, kindness, joy.  Science doesn't have much use for these.  Look, ugly theories are wrong.  We know it by insight.  Science doesn't want to accept that.  We live in a moral world and have moral knowledge that tells us that love and truth are better than hatred and lies.  But it's modern to think this is little more than genetic imprinting or a tacit communal cultural agreement.  That's not a world I cared to live in anymore.
+
+Robby stares back into the void.  This is not the kind of conversation he's used to, but - 
+
+GALLAGHER
+
+I asked my grandfather once if God existed.  He played me Brahms' Third.  Then he asked me what good it was?  Or was it just vibration.
+
+CHANTILAS 
+
+(following)
+
+What good is beauty?
+
+GALLAGHER
+
+He said if a man could listen to Brahms and not believe in God, he was a fool.
+
+CHANTILAS
+
+I think I woulda liked your grandfather.
+
+Robby turns to him.
+
+GALLAGHER
+
+You didn't come on this trip because of science at all, did you?  That's why they let you come, but you're going to Mars to prove to yourself God exists.
+
+Yup.
+
+CHANTILAS
+
+Maybe I'll pick up a rock and it'll say so on the bottom  'Made by God.'
+
+GALLAGHER
+
+Maybe God's more subtle than you are.  
+
+(then) 
+
+You think we're doing something we shouldn't, Bud, messing with another planet?
+
+CHANTILAS
+
+(unconcerned)
+
+If so, it's because we're supposed to find something out.  (then)
+
+Let's say we didn't.  And we finished poisoning off the Earth and everyone was dead in a hundred years.  Then what was the point of any of it?  Music, art, beauty, love?  All gone.  The Greeks, the Romans, the Enlightenment, the Constitution, people dying for freedom, ideas?  None of that meant anything?  I'd rather go out and make a mistake than live in a world that bleak.
+
+GALLAGHER
+
+No one said jack to me about the Greeks and Romans.  Shit, I just came along to fix stuff.
+
+CHANTILAS
+
+Fooled ya, didn't we.  It's okay.  No one told the others either.
+
+There's a quiet moment.  Robby just came up to stare at the stars.  Wasn't expecting all this.  Then -
+
+CHANTILAS
+
+There's a reason the planets go around the stars in exactly the same way electrons go around the nucleus of the atom.  It's not an accident.  There's a design at the bottom of all this.  God's watching over you.
+
+GALLAGHER
+
+I just wish I didn't think he was chuckling.
+
+END OF FLASHBACK.
+
+EXT. HAB (MARS) - DAY
+
+Gallagher, Burchenal, and Pettengill are still stunned over the fact they're alive.
+
+BURCHENAL
+
+There shouldn't be enough oxygen on Mars to do this.
+
+PETTENGILL
+
+We never even got close to a breathable atmosphere.  Then the levels started to drop and the sensors all died.  I don't understand what's going on here.
+
+Gallagher is rummaging through the wreckage of the Hab.  It's been devastated.
+
+PETTENGILL
+
+Wattya lookin' for?
+
+Gallagher unearths a tangle of wire and chewed-up circuits.
+
+GALLAGHER
+
+This.
+
+He tosses it aside.  It's worthless.
+
+GALLAGHER
+
+It used to be the radio.  I don't mean to piss on the parade, guys, but no one knows we're here.  Don't you see?  The good news is we can breathe.  The bad news is, unless we can tell somebody, now we get to starve to death.  The only mission left is rescue.
+
+INT. ARES - FLIGHT DECK
+
+The schematic she sent back to Earth is on the screen here as well.  The ship is fucked-up bad.
+
+SKAVLEM (V.O.)
+
+The ground crew's dead, your orbit's unstable, and you're gonna burn  in less then a day and a half.  
+
+(beat: then) 
+
+Let's get you home.
+
+EXT. HAB - DAY
+
+The three of them rummage through the ravaged structure.  News isn't good.
+
+BURCHENAL
+
+We could head back to the lander, try to make something work there.
+
+PETTENGILL
+
+(won't make it)
+
+It's six hours back.
+
+GALLAGHER
+
+And it all ran through the main computer which was half-fried and dropped from a great height.
+
+Shakes his head no.  That ain't gonna help.  Then Burchenal, of all things, grins.
+
+BURCHENAL
+
+Gotta think about this scientifically.  There's another radio.  Two kilometers from here.
+
+GALLAGHER
+
+I didn't see any stores on the way over.  I miss a Radio Hut?
+
+BURCHENAL
+
+We sent it here.  Twenty years before you were born.  In 1997.  Think where we are...
+
+PETTENGILL
+
+(gets it)
+
+We're right over the edge from the Ares Vallis.  The Sojourner site.
+
+The HHCs are yanked out.
+
+PETTENGILL
+
+There was a high-density ridge ringing the valley.  The algae never took there.
+
+Gallagher checks his watch.
+
+GALLAGHER
+
+We still might have a chance this pass.  We wait long...
+
+They start to run towards a ridge to west.  Sun hangs low in the sky.  Only an hour or so of day left.
+
+CUT TO:
+
+GALLAGHER, PETTENGILL AND BURCHENAL
+
+with a goofy look on their faces.  Like kids at Disneyland the first time.  They're standing there looking at - 
+
+SAGAN/SOJOURNER SITE
+
+The little rover.  All those damned named rocks.  Our first big visit to Mars.  The reverie is over quickly.  Gallagher tosses down his bag of tools.  Walks over, kneels beside Sojourner (the rover).
+
+GALLAGHER
+
+Sorry about this.
+
+He pats it once and starts POWER-SCREWING off the cover.  Tosses another tool to Burchenal.  Re
+
+the Sagan lander -
+
+GALLAGHER
+
+Rip the panels off everything around the aerial.  
+
+(then)
+
+It's a fifty-year-old off-the-shelf computer radio modem on a frequency that we're not using for this mission.
+
+PETTENGILL
+
+Then why are we bothering?
+
+GALLAGHER
+
+Cause I'd rather die doing something than just sitting there.
+
+CUT TO:
+
+EXT. SOJOURNER SITE - DAY
+
+Gallagher has cobbled together a radio from 50-year-old parts.  Pettengill holds the solar panels at the sun while Robby carefully removes one of his two suit-radio microphones.  Checks with a meter, then solders it onto his jerry-rigged radio.
+
+GALLAGHER
+
+Testing, testing...
+
+He adjusts a tiny pot as he continues to call out.  A green LED comes on, flickering with his voice.
+
+BURCHENAL
+
+Does it work??
+
+GALLAGHER
+
+Well, the little green thing lights up.  I don't know if it works...
+
+(into mike) 
+
+This is Ares ground crew, come back.  This is Ares ground crew, do you copy?
+
+We PULL BACK WIDER AND WIDER.  They are so damn alone.
+
+INT. ARES - FLIGHT DECK - DAY
+
+Various return scenarios are flickering on different vid screens.
+
+SKAVLEM (V.O.)
+
+Okay, scenario three calls for you to lock out systems 17, 22 and 40.
+
+Kate tries.  40 freeflows, doesn't lock out.
+
+BOWMAN
+
+No joy.
+
+She resets everything.
+
+BOWMAN
+
+Maybe we're trying to be way too subtle.  Why don't we just jettison the damn tank?
+
+SKAVLEM (V.O.)
+
+Because the margins for error are so small.  There's enough fuel to get you home, then if you don't sneeze.  It makes us nervous.
+
+BOWMAN
+
+You want nervous...
+
+INT. MISSION CONTROL
+
+Over in the corner, Schlissel is listening to something on his headset that's blowing his mind.  He starts waving three fingers frantically at Skavlem and Russert.  They don't respond fast enough for him.  He reaches over and patches someone into the comm link.  A new voice breaks into the conversations.  The accent's Australian.
+
+OZZIE (V.O.)
+
+Right, right.  Commander Katherine Bowman?
+
+RUSSERT 
+
+(peeved)
+
+This is a restricted, encrypted frequency.  Who is this?
+
+OZZIE (V.O.)
+
+(unperturbed)
+
+This is Hank Osterbee in Canberra.  Deep Space Network, mate.  I've got a call for you.
+
+INT. ARES - FLIGHT DECK
+
+BOWMAN
+
+A call for me?
+
+OZZIE (V.O.)
+
+Right.  From the surface of Mars.  I'm routing it through.  Direct frequencies follow.
+
+There's CRUNCH OF STATIC, then - 
+
+GALLAGHER (V.O.)
+
+Commander Bowman?
+
+BOWMAN
+
+You're alive??  You're alive?!
+
+EXT. SOJOURNER SITE (MARS) - DAY
+
+GALLAGHER
+
+We're at sixty percent.  Lieutenant Santen and Bud are gone.  
+
+(beat: then)
+
+Oh, and by the way, we can breathe.
+
+INT. MISSION CONTROL - NIGHT
+
+SKAVLEM
+
+You can breathe??!
+
+GALLAGHER (V.O.)
+
+Not real well, but yeah.  
+
+(then) 
+
+Hey, Kate...We've changed our mind.  Get us outta here.  We'd like to come home.
+
+If the room was at a standstill before, now it's frozen.  Is there hope?
+
+SKAVLEM
+
+If they can breathe, can we live there?
+
+LOWENTHAL
+
+No.  Ninety percent of the algae's gone.  It's some kind of freak anomaly.  Mars is a dying planet.  Just like Earth.
+
+RUSSERT
+
+They're breathing.  It coulda worked.  Dammit, it coulda worked...
+
+Then through the cacophony comes one voice.
+
+SCHLISSEL
+
+It doesn't matter.  They're going to die tonight anyhow.  In an hour, the sun sets on Mars.  It's going to be minus 140.  They cannot survive in the open.  They're going to die.
+
+Yow.  Everyone shuts up.  It's ugly but true.
+
+LOWENTHAL
+
+He's right.  You can walk across the South Pole, long as you stay moving and you're wearing insulating clothing - the suits'll work - you can stay warm.  But once they stop moving, without shelter, they're gonna die.
+
+SCHLISSEL
+
+Her orbit could degrade at any time.  She could auger in and burn while they chat about old times and freeze to death.  It's a waste.  We should just bring her home.
+
+Skavlem doesn't love it, but - 
+
+SKAVLEM
+
+We can get a free return trajectory now.  She's got enough food and water to bring one person back.
+
+Russert not happy at all, but -
+
+RUSSERT
+
+You're not wrong.
+
+Nods to Skavlem...
+
+SKAVLEM
+
+Commander, this is Mission Control.
+
+INT. ARES - FLIGHT DECK - DAY
+
+BOWMAN
+
+No.
+
+SKAVLEM (V.O.)
+
+Ma'am?
+
+BOWMAN
+
+I'm not stupid, John, I know what the question is.  I'd ask  it if I was there.  And the answer is no.  So let's move on. 
+
+(then) 
+
+By my calculations, if I ditch my reserve tank now and commit to a three-second apogee burn, I stabilize my orbit for another eighteen hours.  I'd like someone to check the numbers as my apogee's in seven minutes.
+
+INT. MISSION CONTROL - NIGHT
+
+Russert has to grin.  It's gonna drive him crazy and it's exactly what he'd do.  Before any of them can bitch and whine -
+
+RUSSERT
+
+Come on, people, you heard the woman, let's get on it.
+
+The techs begin calculating madly.
+
+EXT. MARS SURFACE - DAY
+
+The crew is coming down a rise toward the Hab.  Carrying the radio.  Walking back quickly.  Sun is flat over the horizon.  Shadows are long, already getting cold.  You can see their breath.
+
+BOWMAN (V.O.)
+
+There's some concern at Mission Control.  About the weather.
+
+GALLAGHER 
+
+(deadpan)
+
+It's gonna rain?
+
+BOWMAN (V.O.)
+
+It's gonna get a little chilly.
+
+GALLAGHER
+
+I could see that.  It's dropped about fifty degrees in the last half hour.  We figure a hundred below fairly soon.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Bowman is doing her best to keep the tone light.  But she's gotta know whether or not he thinks he's gonna live or die.
+
+GALLAGHER (V.O.)
+
+It would have been nice to be in the Hab.  And there ain't no other motel to check into.
+
+BOWMAN
+
+You have a plan?  Any thoughts on how you might...stay alive?
+
+EXT. HAB (MARS) - ALMOST SUNSET
+
+They're back at the Hab now.  We can't quite tell what's going on, but Burchenal and Pettengill are busy doing something noisy and furious in the b.g.  Crashing, bashing, breaking.  Burchenal flicks open an entrenching tool.  Thumbs a button, edge whizzes by like a tiny chain saw.  Chews through something and...
+
+GALLAGHER
+
+Yeah...
+
+Behind Gallagher is a whoooosh of flame as Pettengill gets the debris he's piled in the middle of the Hab to light.  He's got stacks of additional fuel nearby.
+
+GALLAGHER
+
+We're gonna have a 75 million dollar campfire.
+
+EXT. HAB (MARS) - 20 MINUTES LATER
+
+The sun sets.  First sunset on Mars man has seen.  Red upon red upon red.  Fire burns behind them.  Sky turns black.  Fast.  A billion stars.  And then a METEORITE begins to fall.  It's huge.  It's red.  It EXPLODES.
+
+GALLAGHER
+
+What the hell was that?
+
+BURCHENAL
+
+She ditched the 'B' tank.  She must be figuring there's an even chance we'll live through the night.
+
+EXT. SPACE - NIGHT
+
+The Ares lights up and burns for three long seconds.  And off.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Bowman checks the gauges.  Eight liters was burned.
+
+BOWMAN
+
+Hell, what's eight liters?  
+
+(answers herself) 
+
+It'll either save their lives or I've screwed up getting home and I'll spend the next three hundred years circling this planet.
+
+EXT. HAB - NIGHT
+
+Burchenal pokes at the flames.  They're spread out and low.  Flickering yellow and blue.
+
+BURCHENAL
+
+I think we'll make it through.  There's so little O2, this is gonna burn real slow.
+
+Gallagher picks up a piece of scrap, about to feed it into the flames, then stops, examines it by the light of the fire.  It looks like someone took a rasp to it.  He gets up, turns on a suit light and looks over the remaining ribs of the structure.
+
+GALLAGHER
+
+What happened to this place?  Everything but the titanium supports were just chewed up.  Could a dust storm've done this?
+
+BURCHENAL
+
+No prevailing pattern to the damage.  I don't know what could've done it.
+
+Nor does it matter right now.  They sit back around the fire and relish the warmth.  Out in the darkness, past a rise, something catches Robby's eye.  A flash, a reflection.  Of the fire?  On what?  And then it's gone.  He doesn't bother to mention it.  Writes it off.
+
+TWO HUNDRED YARDS AWAY
+
+Behind a hill, AMEE crouches in the dark.  Pops up again, looks over, sees the three men and the fire.  Lowers back down - you'd swear she was thinking - then silently ambles away.
+
+BACK AROUND FIRE
+
+The weird tableau of three men in spacesuits around a campfire on Mars.  A moment then - 
+
+GALLAGHER
+
+You still think we had any business coming to Mars?  Screwing with stuff?  Trying to spread life?  You think maybe God's teaching us some hardass lesson?
+
+Pettengill just makes some kind of weird gulping noise and turns away.  They let him be.
+
+BURCHENAL
+
+God?  You talked to Chantilas too much on the trip over.  I don't mean to burst your bubble, but God's the retreat of the ignorant, the weak and the hopeless.
+
+GALLAGHER
+
+I bet you don't believe in Santa.  And you're no fun at all at Christmas.  
+
+(then) 
+
+Not everything gets an explanation you can write down as a formula.
+
+BURCHENAL
+
+Son, I'm a scientist.  A geneticist, as good as they come.  I write code, just like a hacker.  Four elements, A.G.T.P., in different orders, back the genome.  And your kidneys work or you grow a sixth finger.  I line up unconscious atoms and they give rise to conscious beings.  It's like if I stacked up a bunch of rocks in the right order and they become a dog.  I do that.  I chose when, I chose where, I chose how many fingers.   I just don't hold with mystical explanations for science, with organized religion, buildings with different symbols on 'em.  You spot God, you lemme know.  Till then, I put my trust in my three Ph.D's.  
+
+(then) 
+
+But I think life's an amazing thing.  And I believe that when you get it you should grab it with both hands and live as much of it as you can.  Which is why I am not happy about losing it on this damn ugly planet.
+
+Burchenal shuts his eyes.  We PUSH IN ON Gallagher looking rueful and...
+
+FLASHBACK - INT. ARES - HYGIENE SPHERE - DAY
+
+SUPERIMPOSE: MISSION TIME: DAY 32
+
+Gallagher comes in.  His timing, depending how you look at it, is very good or very bad.  Bowman steps out of the shower.  To dry off.  It's too late for Robby to stop or recoup.  He has to tough it out and try to act like an adult.  Bowman sees his discomfort.  She's amused.
+
+BOWMAN
+
+It's okay.  I had brothers.
+
+GALLAGHER
+
+I have two sisters.  
+
+(gives up) 
+
+Neither of them were this fine.
+
+Now she colors.
+
+BOWMAN
+
+The only way this works, is if we both make believe it doesn't matter.
+
+GALLAGHER
+
+I tried.  I really tried.  
+
+(then) 
+
+Maybe I should go fix something.
+
+BOWMAN 
+
+(laughing now)
+
+Maybe you should.
+
+He hesitates, leaves.  She starts to vacuum dry her hair.
+
+END OF FLASHBACK
+
+EXT. CAMPFIRE (MARS) - NIGHT
+
+Gallagher's half filled with regret, half annoyed with himself.  Sighs, shuts his eyes, tries to get some sleep.
+
+INT. MISSION CONTROL - NIGHT
+
+Place is ragged
+
+coffee on the workstations, techs as unshaven and beat as the crew on Mars.
+
+RUSSERT
+
+All right, people, we bought ourselves another eighteen hours in orbit.  The crew's burning pretty much what we've got on the surface so they don't freeze solid.  So whatever we can come up with...
+
+LOWENTHAL
+
+...has got to work before the sun sets again tomorrow and they freeze to death anyhow.
+
+RUSSERT
+
+What else is on Mars?
+
+SCHLISSEL
+
+Rocks.   Sand.
+
+RUSSERT
+
+The janitor just built a radio out of a fifty-year-old Rover mission.  Now, what else is on Mars?
+
+Mars maps come up on all their PIMs.  There are things on the surface.  Marked with various symbols.  Leftovers from other missions.
+
+SKAVLEM
+
+We sent a dozen probes even before the biologics started up.  Eight were return missions.
+
+LOWENTHAL
+
+And they're back.
+
+SKAVLEM
+
+There's a Viking lander...
+
+SCHLISSEL
+
+2,200 kilometers away.
+
+Silence.  They all stare at the PIMs.  And then Schlissel turns to a nearby TECH -
+
+SCHLISSEL
+
+S.Y.F.
+
+TECH
+
+Slap your forehead.
+
+SCHLISSEL
+
+We're not the only people who sent stuff to Mars.
+
+Other overlays come up on the maps.  New colors.  New symbols.
+
+SKAVLEM
+
+The Twenties were nothing but unmanned sample return missions.  Everyone wanted to bring back a bucket of Mars rocks.
+
+They find something near the Hab.
+
+SCHLISSEL
+
+There was Euro-Malaysian sample return mission 2018.
+
+TECH
+
+Checking...
+
+LOWENTHAL 
+
+(knows)
+
+It blew up on attempted return.
+
+Looking further afield, they find something else.
+
+TECH
+
+It ain't close, but there's an Uzbecki S.R.M. that failed to launch.
+
+SCHLISSEL 
+
+(argh)
+
+An Uzbecki probe from 2032.
+
+RUSSERT
+
+Is it viable?  Can we get plans?
+
+SCHLISSEL
+
+It was built at the Cosmos factory in Garagin in 2031.  (there's more) 
+
+The factory closed eight years later.  And then it burnt down.
+
+All right, that's the end of that.  And then Schlissel spots a detail that means something to him.
+
+SCHLISSEL
+
+It was designed by Aleksandr Ivanovich Borokovski.  He was the last of the greats in the Russian space program.
+
+RUSSERT
+
+Is he still alive??
+
+Schlissel's PIM flickers madly as he mutters at it.
+
+SCHLISSEL
+
+There's no closing date on his bio.  He'd be in his seventies.
+
+RUSSERT
+
+Find him.  Somebody get on the line to Kazakhstan.
+
+LOWENTHAL
+
+This is insanity.  A thirty-year-old lander built in a factory that doesn't exist anymore.
+
+TECH
+
+Found him!
+
+SCHLISSEL
+
+He emigrated.  He runs a deli in Brooklyn.
+
+INT. MISSION CONTROL - NIGHT
+
+Low hum of conversation, a bunch of the workstations are vacant, techs sleeping in cots nearby.  BOROKOVSKI, in his best suit, 20 years old, comes in led by two NASA flunkies.  Unhooks his filtration mask.  Vindicated.
+
+BOROKOVSKI
+
+All right, I am Borokovski.  I am here.
+
+EXT. HAB (MARS) - PRE-DAWN
+
+Sky's beginning to grow light.  Last of the fire flickering out.  Nothing left of the Hab but a few metal ribs.
+
+Gallagher stirs.  Stiff from sleeping on the ground.  Burchenal and Pettengill follow.  They've lived through the night.  Gallagher walks off twenty paces.  When we see him again, he's unlocked the top and bottom of his suit and dropped the trousers to his knees.
+
+GALLAGHER
+
+I'm the first man to piss on Mars.
+
+Burchenal and Pettengill follow suit on the other side of the Hab.  A beat, then - 
+
+BURCHENAL
+
+Damn.
+
+PETTENGILL
+
+Whoa.
+
+BURCHENAL
+
+You sure get some arc in this low gravity.
+
+The sun's gonna break any minute.  Something suddenly hits Burchenal.  He yanks up his pants, runs to remains of the Hab.  Looks around desperately.  Pulls free a metal rib.  Turns to Gallagher.
+
+BURCHENAL
+
+Run.  Towards the sun.
+
+Robby understands or doesn't bother to ask why.  Takes off.  Burchenal yanks free a shard of metal.  Pounds it into the sand a dozen feet from the Hab.  The sun is just breaking the horizon.  Robby is fifty yards away.
+
+BURCHENAL
+
+Stop!  Left.  Left.  A little more.  Right.  Mark it.
+
+He adjusts his own peg a tad.  Robby comes loping back.
+
+PETTENGILL
+
+What'd we do?
+
+GALLAGHER 
+
+(approvingly)
+
+Built a directional.  Now at least we know where something is.
+
+The RADIO CRACKLES.
+
+BOWMAN (V.O.)
+
+Good morning, boys.  Martian weather today's clear and cold.  Warming to a high today of around sixty.
+
+INT. ARES - FLIGHT DECK - DAY
+
+She hasn't slept.  There's notes and charts and additional HHC's all over the place.
+
+BOWMAN
+
+So...Houston has an idea.
+
+CUT TO:
+
+EXT. HAB (MARS) - MOMENTS LATER
+
+Gallagher, Burchenal and Pettengill have heard the plan.  It doesn't impress them.
+
+GALLAGHER
+
+That's it?  We walk a hundred kilometers in one day to find a twelve-by-twelve object that's been sitting there for 30 years.  
+
+(are you kidding) 
+
+That's the best plan they could come up with?
+
+BOWMAN (V.O.)
+
+It's the only plan they could come up with.
+
+GALLAGHER 
+
+(reconsiders)
+
+I guess that makes it best.
+
+BOWMAN (V.O.)
+
+There's an I.R. maintenance port on the Cosmos.  Your H.H.C. should talk to it.  You'll have to reprogram the launch sequence.  The bad news is...
+
+INT. ARES - FLIGHT DECK - DAY
+
+GALLAGHER (V.O.)
+
+There's bad news?
+
+BOWMAN
+
+(ignoring him)
+
+...is it's programmed in a forty-year-old dead operating system no one uses anymore.  It was something called...Windows.
+
+EXT.  MARS - DAY
+
+None of them have ever heard of it.
+
+BOWMAN (V.O.)
+
+We're getting a copy of it from the Smithsonian.  We're gonna have to download it to you.
+
+GALLAGHER
+
+Let's worry about it when we get there.  Where're we going?
+
+BOWMAN (V.O.)
+
+I've got coordinates for you.
+
+BURCHENAL
+
+How 'bout something simpler.  Like how many degrees it is off from the direction the sun rose.  We marked it.  I'm figurin' we're within half a degree.
+
+GALLAGHER
+
+Heck, we just gotta pack.
+
+He picks up a satchel of tools.  Everything else's burnt to a cinder.
+
+SAME SCENE - FIVE MINUTES LATER
+
+Basic trig has been calculated.  A triangle of scavenged wire stretches with one side along the directional, the other side points their way across the Martian landscape.  They take a last sighting, and stride off into the distance getting smaller and smaller and then -
+
+ON  the three of them.  Pettengill looks doubtful.
+
+PETTENGILL
+
+A hundred kilometers.  Sixty-odd miles.  Say two and a half marathons.  In twelve hours.  Do we really have a chance in hell?
+
+GALLAGHER
+
+It took us six hours to go 26 kilometers last time.  We don't have the rebreathers, we don't have the tanks.
+
+BURCHENAL
+
+Figure you weigh about fifty pounds in this gravity.  We have a chance in hell.  But not much more'n that.
+
+INT. MISSION CONTROL - NIGHT
+
+A messenger is escorted in and taken to Borokovski.  He's got a copy of Windows, fifty years old, and still in the shrink wrap.  Borokovski rips it open, then peers at tech requirements on the box.
+
+BOROKOVSKI
+
+I will need a computer with a CD-ROM drive.  And a pentium processor.
+
+Nobody moves.  It's like asking for a steam engine.
+
+SCHLISSEL
+
+What's a pentium processor?
+
+TECH
+
+What's a CD-ROM?
+
+BOROKOVSKI 
+
+(a little defensive)
+
+It was all state-of-the-art in Kazakhstan.  We were cut off.
+
+Still nobody moves.
+
+RUSSERT
+
+We gotta wake up the Director of Dead Technology at the Smithsonian.  And quick.
+
+Assistants scramble.  Schlissel comes over to peer curiously at the shiny silver disk and -
+
+FLASHBACK - EXT. SPACE - ARES - NIGHT
+
+SUPERIMPOSE: MISSION TIME: DAY 132
+
+The ship floats THROUGH FRAME.  We hear the familiar CLINK of POKER CHIPS.
+
+CHANTILAS (V.O.)
+
+Call.
+
+SANTEN (V.O.)
+
+Call.
+
+GALLAGHER (V.O)
+
+Call.
+
+INT. KITCHEN/DINING SPHERE - NIGHT
+
+Burchenal, Santen, Chantilas and Gallagher are playing poker.  Burchenal fans his cards down.  Full house.
+
+BURCHENAL
+
+Kings over queens.
+
+CHANTILAS
+
+That's it.  You're the best poker player in a hundred million miles.
+
+BURCHENAL
+
+Yep.
+
+He rakes in all the chips.
+
+BURCHENAL
+
+And no one'll play for money.  What a waste.
+
+SANTEN
+
+I'm done.  See you all in the morning.
+
+Game's over.  Santen leaves, Chantilas starts to follow, then turns and asks, three-quarters kidding -
+
+CHANTILAS
+
+Do you cheat?
+
+BURCHENAL
+
+Compared to what?
+
+Chantilas gives up and leaves.
+
+GALLAGHER
+
+Do you cheat?
+
+BURCHENAL
+
+Only Santen.
+
+That seems fair.  Gallagher's putting away the chips when -
+
+BURCHENAL
+
+You know what I miss?  A drink sometimes at the end of the day...Damned hard-asses at NASA.
+
+Gallagher gets a look in his eye.
+
+GALLAGHER
+
+You got enough gear on board to splice genes, right?  Glassware, tubing, Bunsen burners...all that kind of stuff?
+
+BURCHENAL
+
+Yep, sure do.  Why?
+
+INT. ARES - MAINTENANCE LEVEL - NIGHT
+
+Bowman comes in.  Robby moves quickly to intercept her.  Blocks her view.
+
+BOWMAN
+
+I came to apologize.  You were uncomfortable with a situation the other day, and I made you more uncomfortable for my own amusement.  I'm sorry.  It's too small a ship for playground games.  
+
+GALLAGHER
+
+Okay.
+
+He's done.  She can leave now.
+
+BOWMAN
+
+Okay?  No witty comeback?  No gloating?  
+
+(beat) 
+
+No explanation for why the temperature in this sphere is up three degrees?
+
+She slithers by him before he can stop her to find Burchenal tending a huge contraption of glass tubing, Bunsen burners and filtration tanks.
+
+GALLAGHER
+
+He's teaching me.  About biology.  I've developed an interest in...
+
+BOWMAN
+
+...fermentation?
+
+Even when you make it out of high-tech glassware, a still looks just like a still.
+
+BOWMAN 
+
+(stern)
+
+You built a still?
+
+GALLAGHER
+
+It's a science experiment.  Did you know that an ounce of red wine per day actually benefits your heart?
+
+BOWMAN 
+
+(adamant)
+
+So does three ounces of grape juice.
+
+GALLAGHER
+
+Grapes don't grow well hydroponically...So we, ah, used potatoes...
+
+BOWMAN
+
+You're making moonshine vodka on my ship.
+
+BURCHENAL
+
+Well, yes, ma'am.  But we ran it through the Gas Chromatograph Mass Spectrometer and the impurity levels are very low.
+
+BOWMAN
+
+How's it taste?
+
+Burchenal is the first to realize they're off the hook.
+
+BURCHENAL
+
+It's a little rough.
+
+BOWMAN
+
+Are you going to offer me a drink?
+
+BURCHENAL
+
+Of course.  That would be the polite thing to do.
+
+He does.  She tosses it back.  Woooof.
+
+BOWMAN
+
+That's a little rough.  How much have you made?
+
+BURCHENAL
+
+...'bout three liters.
+
+She considers.  Then -
+
+BOWMAN
+
+You're done.  Dismantle the science project.  Offer equal rations to the crew.  Mr. Santen doesn't drink or approve of those who do.  
+
+(stern again) 
+
+Now tell me the truth.  How much were you cutting this?
+
+GALLAGHER
+
+(they're busted again)
+
+About three to one.  I can't believe you drank that.
+
+BOWMAN
+
+I learned to fly in the Navy.  Wimps.
+
+INT. COMMON AREA SPHERE - NIGHT
+
+Gallagher, Bowman, and Burchenal are there.  They've got half a beaker of vodka left.  They're all looped and laughing.
+
+BURCHENAL
+
+I spent half of my life trying to make a better potato.  And the second half trying to stop it.  The things were so damn good they killed everything in their path. Corn, wheat, barley...
+
+(suddenly melancholy) 
+
+We fucked up our own back yard, hit the Malthusian wall, and tried to breed our way out of it.  Maybe we don't deserve another chance.
+
+Then he shakes it off.  Laughs.
+
+BURCHENAL
+
+Don't worry, if we need any help on the surface, I'm allowed to grow us some six-fingered lab assistants.
+
+He cracks up again.  He's wasted.  Knows it.
+
+BURCHENAL
+
+I gotta go to bed.
+
+He heads off drunkenly.  Gallagher gets an idea...
+
+GALLAGHER
+
+I'm in space.  I wanna see the stars.
+
+He flails off in another direction.  She laughs and follows him...
+
+BOWMAN
+
+Don't go outside.
+
+INT. OBSERVATION SPHERE - NIGHT
+
+A billion stars, two very drunk people, half a beaker of moonshine vodka.  She's talking about Burchenal -
+
+BOWMAN
+
+He's okay.  I bet there's a hell of a girl waiting for him back home.
+
+GALLAGHER
+
+Three.  And a horse.  He really likes the horse.
+
+BOWMAN
+
+You're serious?
+
+GALLAGHER
+
+He pines for the horse.  You?
+
+BOWMAN
+
+I don't have a horse.
+
+GALLAGHER
+
+That's too bad.
+
+He takes another swig.  Offers it to her.  She matches him.
+
+GALLAGHER
+
+Can I ask you something very personal?
+
+BOWMAN
+
+Okay.
+
+GALLAGHER
+
+It's about bras and space.
+
+She looks at him.
+
+BOWMAN
+
+I don't wear a bra in space.
+
+GALLAGHER
+
+I know.
+
+BOWMAN
+
+Bras are designed to hold your boobs in place on Earth where there's real gravity.  Why would I need one in space?
+
+GALLAGHER
+
+Cause it's really fucking distracting.
+
+BOWMAN
+
+You want me to wear a bra?
+
+GALLAGHER
+
+No.  Not at all.  I'm sorry I ever brought this up.
+
+The good news is neither of them will remember in the morning.  Much.  Another round.  Then -
+
+BOWMAN
+
+Do you have someone waiting for you back home?  Or a horse?
+
+GALLAGHER
+
+With the kind of jobs I've had, it's very hard to maintain any kind of relationship.  So...no horses.
+
+BOWMAN
+
+Or maybe you took those jobs 'cause you didn't want anyone waiting for you.  Or maybe...
+
+GALLAGHER
+
+No, I like horses just fine.
+
+They've floated very close.
+
+BOWMAN
+
+You know, you're not who I thought you were at first.
+
+GALLAGHER
+
+Is that an insult or a compliment?
+
+BOWMAN
+
+An observation.
+
+They're very, very close.  And very drunk.  It's when he should kiss her.  But he doesn't.
+
+The moment passes.  They both know it was there and now it's gone.  Drift apart.  Feel stupid.  Damn.
+
+END OF FLASHBACK
+
+EXT. MARS SURFACE - DAY
+
+MOVING ACROSS the landscape.  Miles and miles from where they started, we FIND  the three men as they move rapidly across a dry wash, across the bank and up and over a hill.  And stop dead at the top.
+
+Over the next ridge, the landscape is covered with algae.  Colors like brush strokes on the terrain.  Oxblood brown, burnt orange, cadmium yellow.
+
+PETTENGILL
+
+Wattya know.
+
+Pettengill gets down on one knee to examine it.  Half inch to an inch high, vibrantly colored.  Healthy.
+
+PETTENGILL
+
+Maybe it's the longitude.  Maybe it's the equatorial belt...
+
+GALLAGHER
+
+Maybe it doesn't matter 'cause we gotta keep moving or we're gonna die.
+
+Pettengill doesn't argue.  Just trying to stay alive is the great scientific mystery right now.  They bound down far side and...
+
+INT. MISSION CONTROL - DAY
+
+Borokovski is laboring to install Windows on a 50-year-old computer from the museum.  Schlissel and the Tech watch, kibbutz.  It crashes.  Again.
+
+BOROKOVSKI
+
+Yob tyvou mot!
+
+(Which, by the way, means "fuck your mother.")
+
+SCHLISSEL
+
+It keeps crashing.
+
+BOROKOVSKI
+
+That was part of its charm.  You had to buy programs to check why the program you had already bought was not working.
+
+TECH
+
+People installed this on their computers on purpose?  It wasn't a virus?
+
+BOROKOVSKI
+
+The company planned it this way.  It was later discovered they owned all the companies that sold you the products to fix the product they had already sold you.
+
+SCHLISSEL
+
+I remember this.  The government had to bomb the factory in the end.
+
+Borokovski nods.  Windows comes up.
+
+BOROKOVSKI
+
+Look, there we go...
+
+EXT. SURFACE OF MARS - DAY
+
+The ANGLE seems odd.  In fact it is.  It's from orbit.  It's Bowman searching on the telescope.
+
+INT. ARES - FLIGHT DECK - MONITOR - DAY
+
+As the picture skitters along the surface and finds them, tiny figures on a landscape.  In extreme profile.
+
+EXT. ARES - ORBIT - DAY
+
+A few minutes away from plunging onto the night side.
+
+INT. ARES - FLIGHT DECK - DAY
+
+She marks their location on the viewscreen, zooms out wide.  The Hab and the Cosmos are marked with symbols.  The computer pauses, analyzes, then spits them out as a little more than 56 kilometers along their way.
+
+More calculation is done on the screen.  They're more than halfway; they've used up less than half the available daylight; their average speed is looking good.  They're on time, on schedule and on the right course.  So far, so good.
+
+BOWMAN
+
+Ground crew, this is Ares.  You're a little more than half.  You're doing great.
+
+GALLAGHER (V.O.) 
+
+(over radio)
+
+Oh yeah, we're doing fabulous.
+
+As she plunges into darkness, we hear -
+
+BURCHENAL (V.O.)
+
+(singing)
+
+Rollin', rollin', rollin', keep them doggies rollin'.'
+
+EXT. MARS SURFACE - DAY
+
+They're all exhausted and a little punchy.
+
+BURCHENAL
+
+How long can a man go without food or water?
+
+GALLAGHER
+
+How long can you go without singing that dumb song?
+
+Burchenal looks hurt.  Walks another few paces.  Begins to sing again.  Gallagher turns to Pettengill.
+
+GALLAGHER
+
+There's two of us.  And we can stop him from singing.
+
+Pettengill considers.  Then sings along instead.  They only know the one line.  It's really annoying.
+
+GALLAGHER
+
+What is that?
+
+BURCHENAL
+
+I have no idea.  It's old, though.  It's classic music.
+
+GALLAGHER
+
+I don't know the classics.
+
+This sets Burchenal off.  He sings some more -
+
+BURCHENAL
+
+Mars ain't a place to raise your kids
+
+In fact it's cold as hell
+
+And there's no one there to raise them
+
+If you dig.'
+
+GALLAGHER
+
+What the hell is that?
+
+BURCHENAL
+
+You don't know any of the classics, do you?  He was a rocket man.
+
+GALLAGHER
+
+An astronaut wrote that?
+
+BURCHENAL
+
+Never mind.
+
+GALLAGHER
+
+Sing the one about the dogs again.
+
+BURCHENAL
+
+It's about cows.
+
+GALLAGHER
+
+Then why does it say doggies?
+
+All this time, they've been walking across a landscape pigmented with color - steel blue, alizarin crimson, malachite green - the algae varietals everywhere.  And then off to the left, the algae stops.  Erased, like it was never there, extirpated in a long crooked line.
+
+PETTENGILL
+
+What the fuck?
+
+GALLAGHER
+
+Yeah, what the fuck?  You said doggies.
+
+Then he sees as well.  They all see.  Can't help themselves.  They're drawn towards it.  Gallagher and Burchenal check their course in  the distance before veering off.  Pettengill is already heading towards it.
+
+It's maybe 100 yards away.  At 50, something indistinct can be seen.  Sort of.  It's like the line, and the surrounding terrain is out of focus, blurry.  At 30, the blurriness comes into focus.  It's alive.  It moves slightly.  You can see through it.  At ten, you can see it undulating.  Slowly, TOWARDS us.  Erasing the algae, the color slowly spreading outwards behind and diffusing.  And then we can see...
+
+A billion, a hundred billion...nematodes.  Little tiny translucent worms.  Eating the algae.  Slowly, irrevocably.  Advancing.
+
+Pettengill pulls out his entrenching tool.  Carefully separates one out.  Lifts it up to the light to see.  Maybe three inches long, skinnier than an earthworm.  One end lifts in the air, a tri-part mouth with little crystalline teeth opening and closing, searching for something to eat.
+
+It's fucking scary.  It gets worse when you realize how many of them there are.  The line's moved three or four inches closer as they stand there.  They take a step back.  No one can really speak yet.
+
+GALLAGHER
+
+What...
+
+PETTENGILL
+
+It's a nematode.   Or something like one.  It's probably this skinny so it defrosts each morning when the sun hits them.  Or they'r enot water-based at all.
+
+GALLAGHER
+
+Is it something we sent up by accident with the probes?
+
+PETTENGILL
+
+No.
+
+GALLAGHER
+
+I thought we said there wasn't any life on this planet.
+
+PETTENGILL
+
+We did.  We were wrong.  Maybe there wasn't when we checked.  I don't know.  It's not from Earth.  
+
+(beat; yow) 
+
+And it's not from here.
+
+BURCHENAL
+
+This can't be.  This can't be.
+
+Burchenal actually seems kind of upset about it.  Gallagher looks at him.  Say what?  Burch is upset.
+
+BURCHENAL
+
+It can't be here.  You don't understand.  The odds of there being any other life in the universe are infinitesimally small.  The odds that it could survive on something other than its home planet are equally astronomical.  The odds that it could travel to another solar system, let alone one where life already existed are...impossible.
+
+GALLAGHER
+
+But it's here.
+
+BURCHENAL
+
+Yeah.
+
+Burchenal seems almost unhappy about this.  It rocks his world.  In a bad way.  Gallagher turns to Pettengill happily and untroubled....
+
+GALLAGHER
+
+Well, it looks like we're not alone in the universe.  You just discovered life on another planet, pal.
+
+It takes a moment for this to sink in.  Then something hits Robby.
+
+GALLAGHER
+
+Made by God.  That's what's stamped on the bottom.  That's what Bud would have said.  He woulda loved this.
+
+Gallagher gets down on one knee and looks at them.  They're kinda horrible, but as he turns to Pettengill -
+
+GALLAGHER
+
+You know what this means?  You're gonna be more famous than Darwin.  They're gonna name buildings after you.  Spacecrafts, cities on Mars...
+
+The enormity of how badly Pettengill has screwed up - that in the space of one day, he's committed murder and discovered life on another planet - begins to dawn on him.  He doesn't handle it well.  He's fucked up like few people can imagine.  He tries to reset, it doesn't work.  The worm twists about, starts to eat the metal right off the entrenching tool.  He flicks it back to its relatives.
+
+PETTENGILL
+
+Right.  Right.  Motherfuck.  Motherfuck.
+
+And then he says something really odd -
+
+PETTENGILL
+
+Name them after Santen.
+
+BURCHENAL
+
+You hated Santen.
+
+PETTENGILL
+
+Yeah.
+
+He storms away.  They're both confused by this.  Pettengill finds a rock, sits down behind it.  He's obscured except for his head and shoulders.
+
+PETTENGILL
+
+I need a minute or two.
+
+GALLAGHER
+
+You wanna tell Houston?
+
+PETTENGILL
+
+Go ahead.  You do it.  Just give me a few minutes.
+
+INT. ARES - FLIGHT DECK - DAY
+
+BURCHENAL (V.O.)
+
+We seem to have come across the, uh, cause of the annihilation of the algae.  There's cryptoendolithic life here.  Eating it.
+
+INTERCUT as needed with Mission Control and Mars surface.
+
+LOWENTHAL 
+
+(concerned)
+
+They're hallucinating.
+
+BURCHENAL
+
+Pettengill's a bit overcome.  Or he'd be telling you about it himself.  But the discovery goes to him.  
+
+(baffled; but) 
+
+Though he wants to name them after Santen...
+
+SKAVLEM
+
+You're saying there's Martian life.
+
+PETTENGILL
+
+(calling out from behind the rock)
+
+No, that there's life on Mars.  We're not saying where it came from.  But not Earth.  Fuck.
+
+They all disregard that last bit.
+
+GALLAGHER
+
+They're like some kind of translucent worms.
+
+SKAVLEM
+
+You're all seeing these?
+
+BURCHENAL
+
+Oh yeah.  They're here.  What did you think this was, hypoxia?
+
+They did.
+
+EXT. MARS SURFACE - DAY
+
+Conversation's over.  Gallagher walks towards the rock -
+
+GALLAGHER
+
+We should get outta here.
+
+Pettengill doesn't respond.
+
+BURCHENAL
+
+Really.  We should get going...
+
+Gallagher walks over.  We hear a familiar WHINE.  Don't recognize what it is at first.  Until Gallagher around the rock and sees...
+
+Pettengill's flicked on the WHIZZING CUTTING EDGE of the entrenching TOOL.  Shreds his left wrist.  Lifts it and rips through his carotid arteries.  All but cuts off his head as he falls to the ground.  Suit's awash with BLOOD.  Overflowing onto the ground and him.  BURBLING in spurts.  Some hits the worms.
+
+BURCHENAL
+
+Jesus...Jesus God...
+
+Burchenal's joined him.  There's nothing they could do.  Only watch in shock.  It gets worse.  The worms come.  Pulsating and undulating towards Pettengill.  As if some secret message the food is here has spread through the billions of them in burst of knowledge.
+
+A diaphanous, hungry wave crests onto Pettengill and engulfs him.  He's covered in translucence as they devour him.  Gallagher and Burchenal stagger backwards in horror as a red aureole grows around him as he's eaten.  Color spreads out around him in a perfect ever-growing circle.  It's a feast.
+
+WIDE
+
+The two of them walk along.  Can't tell if they're hurrying towards something or away.  They've both figured out what's up.  A beat, then - 
+
+GALLAGHER
+
+He killed Santen.
+
+BURCHENAL
+
+Yep.
+
+GALLAGHER
+
+Probably figured we were gonna die anyhow.
+
+BURCHENAL
+
+Yep.  Figured wrong.  For now.
+
+GALLAGHER 
+
+(beat; then)
+
+Nobody deserves to die like that.
+
+BURCHENAL
+
+No.
+
+INT. MISSION CONTROL - DAY
+
+There's a general buzz of animated scientific debate.  One voice cuts through -
+
+LOWENTHAL
+
+We've thawed out three and four-million-year-old organisms from the permafrost in Siberia and they've come back to life.  It's possible.
+
+RUSSERT
+
+So even if there wasn't life there, there is now.
+
+SCHLISSEL
+
+And we warmed the place up and sent it something to eat.
+
+LOWENTHAL
+
+It could have sat there for millions of years since Mars cooled.  Waiting.  Rode in on a frozen meterorite from anywhere.  And waited.
+
+A voice chimes in from the corner -
+
+BOROKOVSKI
+
+Like sea monkeys.  But not as friendly.
+
+They all consider that.  Kinda bizarre but accurate.
+
+EXT. MARS SURFACE - DAY
+
+Burchenal and Gallagher trudge onward.  Burchenal checks his watch.  It's time.  Gallagher hands him the radio.  Walks ahead.  Doesn't want to hear.
+
+INT. ARES - FLIGHT DECK - DAY
+
+Bowman just heard the news.  It's like she's been punched.  It takes her a moment to recover.
+
+BOWMAN
+
+Copy that, Ground Crew.
+
+Mission Control has heard as well.  A beat, then - 
+
+SKAVLEM (V.O.)
+
+Requiescat in Pace.
+
+EXT. MARS SURFACE - DAY
+
+The sun is way past its zenith.  It hangs noticeably lower in the sky.  Maybe four or five o'clock.  Burchenal and Gallagher plod along.  They're beat.  There's no singing, there's no banter.  They're just trying to keep moving.
+
+INT. ARES - FLIGHT DECK - DAY
+
+Bowman finds them again with 10m scope.  Marks it.  Computer analyzes their position.  The results aren't encouraging.  Their average speed has been steadily dropping.  There's only two hours left till dark.  They've gone 79 kilometers.  And they're projected to get 88.5 kilometers before nightfall.  They're gonna miss getting to the Cosmos by about an hour.
+
+EXT. MARS SURFACE - DAY
+
+It's worse.  They're stumbling.  Not keeping in all that straight a line.  Having to constantly re-check their position.  RADIO CRACKLES.
+
+BOWMAN (V.O.)
+
+Ground Crew, this is Ares.  
+
+(studiously casual)
+
+How's it goin'?
+
+They look at each other.  Is she kidding?
+
+GALLAGHER
+
+We've just done a little over two marathons back to back.  We haven't had anything to eat or drink in two days.  There are these worms that want to eat us and a mad robot who wants to kill us.  Why do you ask?
+
+He starts to laugh.  For some weird reason Burchenal joins him.
+
+BOWMAN (V.O.)
+
+You're not going to like what I have to say.
+
+BURCHENAL
+
+You're going home?  Bring us some chicken.
+
+They crack up anew.
+
+BOWMAN (V.O.)
+
+You have to pick up the pace.
+
+They laugh.  It's not funny, but they really laugh.
+
+BURCHENAL
+
+We're not gonna make it?
+
+BOWMAN (V.O.)
+
+At this pace, you'll make about ninety kilometers.
+
+Burchenal shakes himself.  Digs into some deep reserve.  Picks up his speed and shouts -
+
+BURCHENAL
+
+We Sleep Till Brooklyn!
+
+He totters off towards the horizon.
+
+BOWMAN (V.O.)
+
+What was that?
+
+GALLAGHER
+
+Cooper's been singing classic music.  I don't know most of it.
+
+BURCHENAL
+
+No Sleep Till Brooklyn!
+
+GALLAGHER
+
+Neither does he.  I think he knows one line from each song.  We'll try to go faster.  We really will...
+
+He's trying to convince himself as well as her.  But he does pick up the pace and push after Burch and...
+
+INT. MISSION CONTROL - NIGHT
+
+Borokovski has listened in curiously to this exchange.
+
+BOROKOVSKI
+
+Why is he speaking of Brooklyn?
+
+SCHLISSEL
+
+He's singing classic music to keep his spirits up.
+
+The tech looks at him curiously.
+
+SCHLISSEL
+
+I studied it in college.  It's the Beastie Guys.  Most of the music we listen to today is based on the ground-breaking work they did before the turn of the century.
+
+EXT. MARS SURFACE - 40 MINUTES LATER
+
+They're stumbling.  Literally.  Gallagher just stops.
+
+GALLAGHER
+
+You know, I don't care if I weigh 60 pounds on Mars. I am one tired doggie.
+
+Gallagher sits down on a rock.  Burchenal collapses nearby.  They can't go any further.  Burchenal catches his breath.
+
+BURCHENAL
+
+Ten K short.
+
+The sun is a finger above the horizon.  Redder than red, breathtakingly beautiful.
+
+BURCHENAL
+
+It's pretty.
+
+GALLAGHER
+
+Too bad we're gonna be dead.  I can't keep walking in circles.  And there's nothing to keep us warm.
+
+They look around unhappily.  Ugly way to die.
+
+GALLAGHER
+
+It's gonna be like trying to live on Mount Everest.
+
+BURCHENAL
+
+What would we do if we were on Mount Everest?
+
+Thinks a long time.
+
+GALLAGHER
+
+I would have brought a tent.
+
+BURCHENAL
+
+If we didn't have a tent.
+
+Robby's so tired he's confused.
+
+GALLAGHER
+
+We don't have a tent.
+
+BURCHENAL
+
+Yeah.  Yeah, I know.
+
+GALLAGHER
+
+I'd guess you'd dig a snow cave.  Use the snow for insulation.  You've seen the 3Ds.
+
+There's a funky-looking hillock nearby.  Five feet high, as big around.  Burchenal totters to his feet.  Goes over and kicks it.  It's soft volcanic rock.
+
+BURCHENAL
+
+Let's dig a snow cave.
+
+GALLAGHER
+
+There's no snow.
+
+Burchenal kicks at it again.  Gives.  He takes out the entrenching tool, hacks at it.  Knocks a piece free.
+
+BURCHENAL
+
+Let's dig a snow cave or we're gonna fucking die.
+
+He starts to wail on it.  Gallagher staggers over and joins him.  The two of them start to flail away like a cross between prehistoric man and giant beavers, desperate as - 
+
+EXT. MARTIAN HORIZON
+
+The sun begins to set.  30 miles away, the terminus, the line where night turns to day, begins to advance across the planet towards them.  In the dark of the shadow, the FROST forms a dozen feet behind and follows growing, GROWLING - the cold advancing TOWARDS us with a CRACKLING CRUNCHING FREEZING WHINE.  It's as if the cold has a sound...
+
+BACK AT HILLOCK
+
+Gallagher and Burchenal can see the darkness approaching.  Digging madly.   Cackling.  Losing their minds.  Can't tell who is who as they're silhouetted against the sun, one now inside the hillock throwing rock back as the other clears.
+
+The sun continues to drop.  Terminus continues its pernicious HISSING and freezing approach.
+
+Halfway inside now.  On his knees, suit light on, Gallagher chops away at the rock.  When he's thigh-deep in debris, he backs out, dragging the leavings with him.  Burchenal leaps in, replacing him.  Dripping in sweat, nutty, but at least they're doing something.
+
+The last of the sun disappears.  Their breath is in the air.  The darkness and frost reaches them now.  The sweat begins to freeze, ice in their hair and eyebrows and stubble.  But they've dug most of the shelter.  They continue to thrash and chop away.  The frost is now everywhere.
+
+Gallagher climbs inside.  Burchenal drags a lava boulder over to seal the entrance.  Climbs in, hooks his tool into the rock and seals it shut.
+
+INT. CAVE - NIGHT
+
+It's not big.  The two of them are scrunched into balls.  They chop away and pack the debris in the entry tunnel to block the cold.  Shaking bitterly.  Lips blue...
+
+EXT. MARS SURFACE - NIGHT
+
+Nothing.  Darkness.  Rocks.  And in the midst of it all, our crazy hillock/snow cave.
+
+INT. HILLOCK/CAVE - NIGHT
+
+Gallagher looks up to find Burchenal staring at him.  Actually, not exactly at him.  At his forehead.
+
+GALLAGHER
+
+What?  Is this some kind of cartoon moment where you're imagining I'm a giant chicken and you're going to eat me?
+
+BURCHENAL
+
+It's melting
+
+GALLAGHER
+
+It's a Wizard of Oz moment?
+
+BURCHENAL
+
+The ice on your forehead is melting.  The rock's really insulating us.  We might not freeze to death.
+
+GALLAGHER
+
+Oh.  Good.
+
+And then the enormity of what's gone on hits them.  And the exhaustion.  Adrenaline is gone.  Gallagher physically droops.  Burchenal follows.
+
+GALLAGHER
+
+I've never been this tired.  I've never hurt this bad.  You think dead is worse than this?
+
+BURCHENAL
+
+Hell, we'll probably know soon.  Shut up.  Rest.
+
+GALLAGHER
+
+We oughta probably tell someone we're not frozen solid.  Yet.
+
+Burchenal checks his watch.
+
+BURCHENAL
+
+We're on the nightside, can't reach Houston.  Bowman's dayside for another forty-five.
+
+INT. MISSION CONTROL - NIGHT
+
+Common viewscreen shows ground crew's projected position.  Darkside of the planet.  Estimated temperature of -20 degrees fahrenheit and falling.  The room's downcast.  And bewildered...
+
+SKAVLEM
+
+Not a word before it got dark.
+
+-25 degrees.  -30 degrees.
+
+RUSSERT
+
+They're dead.  Or dying.  Let's get Bowman home.
+
+SKAVLEM
+
+She's gonna wanna waste a pass trying to get them on the radio.
+
+RUSSERT
+
+Let her.  She's got five and a half hours before the orbit starts to decay.  If she has to do this so she can concentrate later on, so be it.
+
+Skavlem gets busy on the radio with Bowman -
+
+SKAVLEM
+
+Ares, this is Houston...
+
+INT. CAVE - NIGHT
+
+Their breath condenses on the ceiling.  Freezes.  Then falls down.  It's snowing.  They've got their own weather system.  Gallagher watches it fall.  Burchenal seems kinda pissed.
+
+BURCHENAL
+
+No, I don't know why the worms are here.  No, I don't know why we're still alive.
+
+GALLAGHER
+
+There's gotta be a reason.
+
+A moment, then - 
+
+BURCHENAL
+
+You're talking about faith, son.  Faith is another way of saying I know something you don't know but I can't tell you 'cause it's a secret.  But I don't know why I know it. 
+
+(agitated) 
+
+I live in the real world.  I've lived there my whole life.  I'm comfortable there.
+
+GALLAGHER
+
+We're not in the real world.  We're on Mars.  
+
+(softly) 
+
+Nobody gets in a rocket ship to outer space without some kind of faith.  Do they?
+
+Burchenal doesn't answer.  Not directly.  But he looks like a third grader busted in some elaborate story he can't keep up.
+
+BURCHENAL
+
+If you think I'm gonna have some kind of weak-ass epiphany for you right here in this cave, you're wrong.  Now, why don't you get that light outta my eyes and let me try to rest.
+
+Gallagher's satisfied.  Lowers the light to a dull glow, leans back against the rock and...
+
+EXT. ARES - DAY/NIGHT
+
+The ship slips into darkness.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Bowman reaches for the mike, begins -
+
+BOWMAN
+
+Ground crew, this is Ares.  Do you read?  
+
+(off no response)  
+
+Ground crew, this is Ares.  Do you read?
+
+INT. CAVE - NIGHT
+
+The radio lies on the ground.  The green light flickers with her transmissions.  But little signal seeps through the rock.  What there is is MUFFLED and INDISTINCT.
+
+BOWMAN (V.O.)
+
+Zzzzz zzz, zzz zz, zzzzzz?
+
+And Gallagher and Burchenal are fast, fast asleep.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Time's passed.  Bowman has searched with the 10m scope.  IR, thermal.  She picks up the occasional footprint.  Tracks their progress.   Finds some odd rock configurations.  And...nothing.  They're just gone.  Finally, she gives up.  Picks up mic sadly for one last time -
+
+BOWMAN
+
+Ground crew, this is Ares.  It was a pleasure and an honor to serve with you, gentlemen.
+
+Sits quietly a moment, then turns off the screen.  Brings up a new image.  Shows her current fuel status, position and projected path.  She begins to work on getting home.
+
+EXT. MARS SURFACE - NIGHT
+
+Dead quiet.  The two small moons shine faintly.  A rime of ice covers everything.  The hillock shimmers in the feeble light.  The rock entrance is sealed over with frost.
+
+INT. CAVE - NIGHT
+
+Gallagher and Burchenal breathe shallowly.  The inside of the cave is covered in white flaking hoarfrost.  Lips are blue.  Skin is pale.  Gallagher's eyes open.  Something's wrong.  Doesn't know what.  And then he realizes the air moving in and out of his lungs isn't doing him any good at all.  The door is caked shut with ice.  There's no air.
+
+He moves badly, uncoordinated, but manages to chop and shove it open.  Fresh ice cold air rushes in.  Burchenal awakes.  Only half-responsive.  Gallagher grabs him, drags him out.
+
+GALLAGHER
+
+Breathe!  Breathe!
+
+EXT. MARS SURFACE - NIGHT
+
+Cognizance returns.  Burchenal looks at his watch.
+
+It doesn't make any sense.  Three hours have passed.  Three hours...
+
+BURCHENAL
+
+Son of a bitch.  Son of a bitch.  We've been asleep for three hours!
+
+Gallagher desperately hauls out the radio.
+
+GALLAGHER
+
+Ares, this is ground crew.  Ares, this is ground crew.
+
+BURCHENAL
+
+Forget it.  She's dayside again.  If she's even still here. 
+
+(then) 
+
+We gotta get to Cosmos.
+
+Burchenal looks around.  Oh God...It gets worse.
+
+BURCHENAL
+
+Can't see the landmarks.
+
+Gallagher starts to madly scan the night sky.
+
+GALLAGHER
+
+We gotta keep moving.
+
+He yanks out his HCC.  Mutters rapidly into it.  We see the map appear.  Hab/Cosmos line marked.  Then a star chart for Mars on this day and time.  He calls for it to change to a horizon projection.  The machine freezes, computes.  Brings up a horizon.  It matches what Robby sees.  And highlights a star sitting just above the horizon that will lead them on their way.  Canis Minor.  They start to run...
+
+A beat.  AMEE rises up silently from behind a rock and watches them go.
+
+EXT. MARS - SURFACE - NIGHT
+
+The two men run.  Lit by the two moons Phobos and Deimos - Fear and Terror.  It's unbelievably cold.  Plumes of breath light up around them as they go.  Following the star on the horizon.  Across a valley, over a ridge.  Over a dune.  Scrambling.
+
+Up and over the next long, long gradient.  They lose the star over this false horizon as they climb.  There's something odd, however.  A faint broad wash of light coming over the lip.  They crest the rise to reveal - 
+
+VALLEY
+
+Completely covered in phosphorescent algae.  Pale green and glowing.  A mile across, a mile wide.  If they weren't rushing for their lives, it would be worth stopping to stare.
+
+Across the vale Canis Minor sits directly in the center of a small mountain pass.  They're about to dash onward when something - intuition, it's hard to say what - hits Burchenal.
+
+BURCHENAL
+
+Stop.
+
+GALLAGHER
+
+What?
+
+Burchenals' not quite sure at first.  But won't enter the algae.  Walks left, walks right.  Kneels down.
+
+The algae glows.  Otherworldly.  And then movement.  In the f.g. a worm, green, glowing and filled with algae, slithers through.  And then another.  And another, indistinguishable from the plants around them they've imbibed.
+
+And then as Burchenal plays his light out across the valley we realize it's entirely full of worms.  Gallagher takes an appalled step back.  They're fucked.
+
+GALLAGHER
+
+We're fucked.
+
+Burchenal considers for a moment.  And yeah, probably has that epiphany.  Then-
+
+BURCHENAL 
+
+(re the pass)
+
+Get to the closest point you can safely.  I'm gonna go down to that end.
+
+He starts to run to the far end.
+
+GALLAGHER
+
+What are you gonna do?
+
+Burchenal's far enough away now that his voice comes over the SUIT RADIO.
+
+BURCHENAL (V.O.)
+
+I'm gonna distract them.
+
+GALLAGHER
+
+You're gonna distract the worms??
+
+BURCHENAL (V.O.)
+
+Yeah.
+
+Perhaps Gallagher ought to give this more thought.  But he doesn't.  Maybe it's the exhaustion.  Maybe it just never would have occurred to him.  Burchenal disapears into the darkness and the distance.  Gallagher waits.  Then -
+
+BURCHENAL (V.O.)
+
+You ready?
+
+GALLAGHER
+
+Yeah.
+
+BURCHENAL (V.O.)
+
+Good.  Lemme know when it starts to clear.
+
+Gallagher doesn't get it.  But a moment later, a shiver runs through the worms.  And they start to undulate away.  Towards Burchenal.  Pulsing faster and faster until it's clear in a moment or two, like a giant amoebae withdrawing, he will have clear access to the pass.
+
+BURCHENAL
+
+at the far end, is five hundred yards into the worms.  They know.  They've told each other.  And they're coming in pulsating waves.  Towards him.  At the epicenter.  He gags.  And hears - 
+
+GALLAGHER (V.O.) 
+
+(stunned)
+
+It's clear.
+
+Burchenal tries to turn around.  He's mired now.  And they're up to his waist.  It's a fucking nematode feeding frenzy.
+
+BURCHENAL
+
+Good.
+
+He can't even lift his feet.  They're beginning to cover him now.  He can see the color of his suit spreading around him as they devour it.
+
+BURCHENAL 
+
+(then; oddly calm)
+
+You were right, son.  There's gotta be a reason.  This can't just be an accident.  I don't know what the worms're doing here or how they got here.  But science don't explain it.  And it pisses me off to no end.
+
+Gallagher turns.  He can see now what Burchenal has done.  A tiny glowing figure can be seen 1000 yards away.  Gallagher's speechless at first...
+
+BURCHENAL
+
+I'm gonna have to turn off my radio in a sec.  So you don't have to hear me screaming like a girl.
+
+GALLAGHER
+
+What have you done??
+
+BURCHENAL
+
+Finding out there's things I don't understand.  That science don't know squat about.  Maybe even the damn Earth's worth saving.  Someone's gotta give it a try.  Gotta find out about these worms.  Go, get off this fucking planet.
+
+During which we've CUT TO Gallagher, 'cause you don't want to see this.
+
+BURCHENAL (V.O.)
+
+There's two women in Missoula, one in Bozeman.  Tell them each they were my last words.  And make sure my horse gets sold to someone who knows how to ride.  
+
+(then) 
+
+Oh, my Lord...
+
+RADIO GOES SILENT.  Across the distance we can see a figure, now entirely coated in luminous worms, writhing wildly.  Gallagher leaves his light on, starts to run.  As Robby flees, we PULL BACK, FURTHER and FURTHER until he's just a tiny figure in the landscape - until we are AT what was Burchenal.  The frenzy is all but over.
+
+The phosphorescence is gone in the center of the circle.  The edges are the color of his suit.  Then blood red for forty yards.  Bits of bone white.  And then right in the dead center, as we watch; gray, spreading, spreading as what was once Burchenal's brain is food for worms.
+
+EXT. MARS SURFACE - NIGHT
+
+Gallagher scrambles up, steeper and steeper, to the edge of the valley and the ridge line.  From the top he can see the way below is his prize - the Cosmos.  Checks his watch, hopefully, desperately triggers the radio.
+
+GALLAGHER
+
+Ares, this is ground crew.  Ares, this ground crew.  Do you copy?
+
+EXT. ARES - NIGHT
+
+Above him somewhere in the sky.
+
+INT. ARES - MAINTENANCE DECK - NIGHT
+
+Bowman is locking out parts of the ship to conserve power on the way home.  At first she's not sure she really heard that.  Rushes across the room to the radio interface.
+
+BOWMAN
+
+Ground crew?!  Status??
+
+GALLAGHER (V.O.)
+
+Me.  Alone.  The worms just ate Burchenal.  Thought you might be gone.  
+
+(shaky) 
+
+Guess you promised you wouldn't leave...
+
+BOWMAN
+
+Robby, I'm...still here.
+
+They both know he's caught her still here sheerly by happenstance.
+
+GALLAGHER (V.O.)
+
+I'm about a kilometer from the Cosmos.  It's in sight.  Call you when I'm there.
+
+EXT. RIDGE LINE (MARS) - NIGHT
+
+Gallagher heads down.  Bounding down the hill.  No algae on his side.  He leaves a trail of phosphorescent footprints as he goes.  They grow fainter and fainter as he descends.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Bowman comes rushing in.  Too fast.  Slams up into a wall.  Resets.  Belts herself in.
+
+EXT. COSMOS SITE - NIGHT
+
+It's been sitting there for 30 years.  As he approaches, the solar panels turn and track towards his light.  It's still waiting.  Sits on six over-built legs.  Sample return vehicle launches off the base.  Liquid fuel tanks, sample return container the size of a large trash can.  We hear - 
+
+BOWMAN (V.O.)
+
+How you doing?
+
+GALLAGHER 
+
+(unsettled)
+
+It's really cold.  My fingers aren't sure they want to work.
+
+BOWMAN (V.O.)
+
+You can do this.  
+
+(then)
+
+The maintenance port has a cover.  It should be marked.
+
+Gallagher looks it over.  Minor stumbling block...
+
+GALLAGHER
+
+Yeah.   In Cyrillic.
+
+Finds it anyhow.  He flexes his unresponsive fingers, and after a try or two, unscrews the cover, reveals an IR port.
+
+GALLAGHER
+
+Got it.
+
+BOWMAN (V.O.)
+
+All right, I'm gonna download this to you.
+
+Gallagher yanks out his HHC.  Dozen adapters in the back.  Finds the one that fits the old modem port on the jerry-rigged radio.
+
+GALLAGHER
+
+Go.
+
+Plugs it in.  Stuff flashes.  On the HHC, Windows comes up, the Cosmos LaunchMaster program, Cyrillic crudely relabeled in English.  Unplugs the modem so he can speak again.
+
+GALLAGHER
+
+It's still got power.
+
+BOWMAN (V.O.)
+
+You should be able to run diagnostics.
+
+There's a diagnostics check and launch check.  He hits diagnostics.  The two talk, link up, and  - a Windows error screen comes up on the HHC:
+
+"Warning - your system has become busy or unstable.  Press Ctrl-Alt-Delete to exit programs and reboot."
+
+GALLAGHER
+
+I know now why it didn't launch.  
+
+(says the magic words) 
+
+Control alt delete.
+
+Reboots in the blink of an eye.  Systems check positive.
+
+GALLAGHER
+
+It's looking good.
+
+BOWMAN (V.O.)
+
+Okay, this thing only has two settings. On and off.  One sends it all the way back to Earth.  As you don't have air, food or water, that would be bad.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Bowman is calculating madly as she goes on.  Trying to sound calm.  She's anything but.
+
+BOWMAN
+
+We want just enough lift for escape velocity.  With the weight you left at and the suit...I peg you at 165.  It was designed to take 200 pounds of rocks home.  Tanks are seven liters each.  You need to take two liters out of each tank.  There's a central purge; you're gonna have to be exact.
+
+EXT. COSMOS SITE - DAY
+
+As she continues - 
+
+BOWMAN (V.O.)
+
+And you better try to find something to put the fuel in and get it the hell away from there, as we don't want it to go up when the rocket goes off.
+
+Gallagher considers.  Yeah, it all makes sense.  But how?
+
+CUT TO:
+
+EXT. COSMOS SITE  - MINUTES LATER
+
+Gallagher, using the few tools he has left, has unbolted the sample return container.  Measures its width - 
+
+GALLAGHER
+
+I need you to do some math.  A cylinder 50 centimeters wide, how deep is six liters?
+
+BOWMAN (V.O.)
+
+Eleven and three quarters centimeters.
+
+He measures and scribes in the line.
+
+GALLAGHER
+
+Somewhere, Mr. Plummer, my 10th-grade math teacher, is cackling like a son-of-a-bitch.
+
+Under which, he slithers underneath, opens the main purge and fills the big steel bucket with rocket fuel.  It looks just like the guy at Texaco, working on your car.  Lugs it away from the Cosmos.
+
+GALLAGHER
+
+Now what?
+
+BOWMAN (V.O.)
+
+Launch diagnostics.  Avoid pressing anything that says ignition.
+
+He runs it - seals are good, pumps are good, engine's ready.  And the ignition power force, all 300 volts of it, is dead as a doornail.  The program suggests the replacement part number.  And suggests he order it quickly.  Checks again.  Answer's the same.  He slumps down, sits beside SRM.  He ain't going nowhere.  Just sits there.  Can't move.  Can't speak.  After all this, he's fucked.  Stares out into the distance.  Finally - 
+
+BOWMAN (V.O.)
+
+Gallagher?
+
+GALLAGHER
+
+No.  No go.  There's enough power to run the computer, but not enough to launch.
+
+BOWMAN (V.O.)
+
+How much do you need?
+
+GALLAHER
+
+I need 300 volts at six amps.  And I've 28 volts running the computer system.  Ignition battery's stone cold.
+
+Beat.
+
+BOWMAN (V.O.)
+
+Is there anything you can use?
+
+GALLAGHER
+
+Let me look around and see if I see a high voltage source....No, just rocks.  In fact, everywhere I look, there's just fucking rocks.  And more fucking rocks.
+
+Then, as he tries not to break down -
+
+GALLAGHER
+
+I'm gonna die here.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+She's shook.  She knows he's right.  Not a damn thing she can say.  Tries to maintain.  Barely.  Looks up at one of the screens.  In four minutes she's back on day side orbit.  And then home.
+
+INTERCUT WITH:
+
+EXT. COSMOS SITE - NIGHT
+
+Gallagher steadies himself.  Picks the radio back up.  He's just babbling to keep himself sane for a little while.
+
+GALLAGHER
+
+I didn't come here to be a citizen.  I came as a tourist.  You know, visit Mars, check out the sights.  Go home.
+
+Bowman tries to do the right thing.  Whatever the hell that is...Takes a breath, wipes away an errant tear, tries to be calm for him.
+
+BOWMAN
+
+Is there anything you want me to do?
+
+GALLAGHER 
+
+(thinks; then)
+
+Tell all of Burchenal's women that they were the only one.  Sell his horse to somebody nice.
+
+BOWMAN
+
+For you?
+
+GALLAGHER
+
+No.
+
+Then, burbling up, unplanned...
+
+GALLAGHER
+
+I shoulda kissed you.
+
+There's a long beat.  Yeech.  He shouldn't have said anything.  Then - 
+
+BOWMAN
+
+Yeah.  You shoulda kissed me.
+
+Gallagher can't believe it.  He could kick himself.
+
+GALLAGHER 
+
+(to himself)
+
+Okay.  This is like all the worst parts of high school math and the beautiful girl you're too stupid to tell you're madly in love with.  And then, I get to die.  What a shitty day.
+
+(into radio) 
+
+Commander Bowman, I am really sorry I didn't kiss you.  Really, really sorry.
+
+He pauses.  Only half a beat, but...
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+She bursts from the darkness into the light of day side and is gone.  RADIO turns to STATIC...
+
+EXT. COSMOS SITE - NIGHT
+
+When he goes on -
+
+GALLAGHER
+
+Loved you madly, shoulda said so.
+
+It's too late.  She never hears.  STATIC.  He realizes she's gone.  Puts the radio down.  He is very, very alone.
+
+INT. ARES - FLIGHT DECK - DAY
+
+She sits there, just gut-shot for a moment.  Picks up the mike.
+
+BOWMAN
+
+Houston, this is Ares, commencing return sequence.
+
+INT. MISSION CONTROL - DAY
+
+On all the PIM's her return trajectory is plotted.  She's to come all the way across the day side, enter night, begin acceleration and slingshot around the backside of Mars and head home.
+
+SKAVLEM
+
+Copy.  Ares, beginning return
+
+She steels herself then reports the rest of the news -
+
+BOWMAN (V.O.)
+
+Ground crew, reduced to Gallagher, reached Cosmos, failed second diagnostics.  No joy, no launch.  While crew member is still extant, mission commander declaring him E.O.M.  Commencing return.
+
+There's silence in Mission Control.  Not everyone has followed the circumvention.
+
+TECH
+
+What was all that?
+
+SCHLISSEL
+
+Gallagher made it to the Cosmos, won't launch, he's alive, she's gotta leave him.
+
+TECH
+
+Whoa.
+
+BOROKOVSKI
+
+Da...
+
+EXT. COSMOS SITE - NIGHT
+
+Gallagher sits there.  And sits there.  Alone beyond imagining.  Hope gone.  Just staring 1000 yards out into the distance.  Not looking at anything.  Waiting to die.  He's given up.
+
+And then...he shakes himself out of it.  Just feels foolish he's let himself go this far.  Gets up.  Done with feeling sorry for himself.
+
+GALLAGHER
+
+Well, this can't get any worse.  I guess.
+
+Grabs himself to stay warm.  Hops up and down.  On one of the hops he ends up facing the direction he came from.  There's something green and phosphorescent coming over the ridge.  They've tracked him.  Footprint by footprint.
+
+He looks closer.  It's not just the ridge.  They're down in the valley with him.  The ones in the front are back to translucent, not glowing anymore.  They're hungry for something new.  He gets down low to silhouette them against the sky.  There are already four or five hundred thousand on this side of the hill.  And they're coming.  Faster.
+
+GALLAGHER
+
+I guess I was wrong.  It can get worse.  A lot fucking worse.  
+
+(shouts at them) 
+
+Forgive me if I don't feel like getting eaten before I die!
+
+They don't really respond.  Except the ones in the front who rear up, and seem to listen or sniff for him.  And gnash their little crystalline teeth.  They split now to come at him from two sides.  Gallagher gets caught in a dry-heave.
+
+GALLAGHER
+
+Oh, man...
+
+Sees the bucket of rocket fuel.  Lot closer to them than it is to him.  Gathers his nerve, runs, grabs the bucket.  Drags it twenty feet back.  Then tilts it, carefully pouring it out in a ring around himself and the Cosmos.  Worms closing in as he goes.  Leads a fuse of fuel back towards him.  Lights it.
+
+It burns low and yellow in the oxygen-depleted atmosphere.  Doesn't look like much.  Certainly not a defence.  First worm gets near it.  Unsure.  Bewildered.  Pulls back.  But his compatriots are behind him, still coming.  No choice.  He advances.  And...POOF.  VAPORIZES in burst of red-orange as he touches the flame.
+
+And the next...And the next.  Like little sparks.  Gallagher watches, puzzled by this...And then it hits.  Right as the ring of flame is about to die out.  The main wave touches the ring of fire.  And...they do burn.  And SCREAM.  Little WORM SCREAMS that multiplied by tens and hundreds of thousands begin to pierce the air.
+
+GALLAGHER
+
+That's for eating the Hab!  And killing Cooper, you slimy worm fuckers!
+
+Rolling waves of flame.  Half plasma.  Flying blobs of burning worms rain down like napalm.  One lands on and torches the cobbled-together radio.  It's so damn hot for a moment Gallagher panics, thinking everything might explode.  Then it drops to embers and the wave burns over the hill like a wild fire.
+
+Gallagher does a dance of triumph.  However short-lived.  Then it hits him -
+
+GALLAGHER
+
+How do you burn like that without oxygen??
+
+There's a BLAST of flame from the far side of the ridge that rattles rocks and Cosmos.  Knocks him to the ground.
+
+GALLAGHER
+
+Holy shit...Holy shit!
+
+Gallagher stares with wonder over the hill.  He figured it out.  There's a couple of dozen worms, unburnt and thrown free.  He picks one up, looks at it.
+
+GALLAGHER
+
+You motherfuckers stole all the oxygen.  
+
+(realizes)  
+
+And you can give it back.  Motherfuckers.  I gotta tell someone.  It could work.  It could work here...
+
+He turns, looks - the radio is still burning.  He snatches it up, scorches him.  Tries to put it out.  It's cooked.  Deceased.  He's devastated.  Drops to his knees.
+
+GALLAGHER
+
+No!!  Not after all this.  No!!!
+
+It ain't gonna work ever again.  All the shouting isn't gonna make a difference.  He knows the answer, he knows how to save the species and there's no one he can tell.
+
+As he stumbles back onto his feet, he's jarred the switch that links to AMEE's display.  it comes on, shows:
+
+AMEE'S POV
+
+The fire on the far side of the ridge.  She's approaching it.  And fast.
+
+BACK TO SCENE
+
+Gallagher stares at it for a moment...
+
+GALLAGHER
+
+My day is not getting better, is it.
+
+There's a look on his face somewhere between inspiration and fear.  Like he's got an idea.  But it might be a really, really bad one...
+
+EXT. MARS SURFACE - NIGHT
+
+AMEE skitters along.  Moving fast.  Climbs up and ever so carefully peers over the ridgeline.
+
+AMEE'S POV
+
+The Cosmos down below.  And beneath it, his feet sticking out as he works on something, Gallagher.  He messed with her once; she recognizes him.  If she could bare her teeth like an angry dog, she would.  AMEE considers for a moment.  Makes her move.
+
+EXT. COSMOS SITE - NIGHT
+
+She comes down the hill.  Twelve, sixteen, twenty-foot strides.  Doing forty or fifty miles an hour easy.  And all but silently.  Gallagher hasn't yet responded.  And then she's all the way to him.  She rears up to strike and -
+
+And Gallagher, in his skivvies, bursts up from where he's buried himself in the sand, avenging, entrenching tool high over his head, already swinging as AMEE wheels back around and...He chops off both her eyes.  Sidesteps as she rushes him blindly and backhands her in her electronic Marine cranium from behind.
+
+Whatever he's hit, the jolt stiffens his arm, throws him off.  The tool stays embedded.  She runs headlong into the Cosmos.  Smashes, stumbles, falls.  And before she can get back up to her feet...He wraps the sleeve of his shirt around his hand, rescues the entrenching tool and deals a death stroke to the silver arachnid.
+
+GALLAGHER
+
+Robust real-time response to the environment, my butt.
+
+Gallagher grabs his satchel of tools and begins to unbolt her as fast as he can.  Checks his watch.  Whatever he's racing, there's only minutes to go.
+
+Deep within the electronic entrails of AMEE, he dredges up her Esource.  Size of a soda can.  POWER CELL that runs her for year and a half.  HUMS as he removes it from its shielded container.  It's 280 volts.
+
+GALLAGHER
+
+Work.
+
+He rips open a panel on the Cosmos, yanks out the dead cell and hooks the new one in.  It doesn't fit.  He's got nothing left but a couple of wrenches and a tube of epoxy.  Glues it in place.
+
+Runs the launch Diagnostics on his HCC.  It flickers, goes to yellow, flashes on and off to green.  He yanks back on his suit.  Grabs a handful of the uncharred worms and seals them in the container that held the Esource.
+
+Stuffs it in a side pocket.  Looks at the top of SRV.  Wedges himself under some cables and wiring on the top.
+
+GALLAGHER
+
+This oughta be interesting.
+
+Checks his watch.  It's now or never.
+
+EXT. ARES - DAY
+
+The ship is just about to enter the darkside.
+
+INT. ARES - FLIGHT DECK - DAY
+
+Bowman's got her suit on.  Screens show the apogee launch and a slingshot around the backside.
+
+BOWMAN
+
+Houston, this is Ares.  I am go for return ignition.
+
+SKAVLEM (V.O.)
+
+Copy that, Ares, you are go for return.
+
+She slides into the darkness.
+
+EXT. COSMOS SITE - NIGHT
+
+Gallagher watches the second hand come around, takes a deep breath, and...
+
+GALLAGHER
+
+Fuck you, Mars.
+
+...slaps the helmet shut.  Hits ignition.  Nothing happens.  Then the GRINDING of thirty-year-old PUMPS.  And then a GIANT flaming ROAR.  And it launches.
+
+Gallagher, epoxied to the top, is pinned flat.  Face squashes, eyes bulge.  Ship starts to glow friction.  Thirty-year-old paint chips off like tiny shooting stars burning away as this reverse comet leaves the atmosphere.
+
+We can hear him roaring at the top of his lungs as the ROCKET BLOWS by and...
+
+MARS
+
+pulls away in the b.g.  Rapidly contracting.  FROM FILLING the FRAME, TO a red circle below.  Atmosphere thins, the friction and flame decrease and disappear.
+
+SKY
+
+turns from deep red to maroon to black as he blows through the clouds into the outer reaches of the Mars atmosphere and beyond.  The ENGINES STOP.  Fuel's expended.  And...
+
+Quiet.  He comes skittering back from the edge of blacking out.  He floats silently, orbiting the planet, slowing receding into the distance.  Until he's...gone.
+
+EXT. ARES - NIGHT
+
+We see Bowman THROUGH the front viewport.  Unhurried.  Making the last of her preparations.  Downhearted and slow.  Then -
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+She's strapped in now.  Counter on a screen is ticking down.  13, 12, 11...She tries to allay her horror at what she's doing.  Reaches for the mike.
+
+BOWMAN
+
+Robby...
+
+(no answer) 
+
+If you can still hear me...I'm so sorry.  And I shoulda just kissed you.
+
+EXT. COSMOS SITE
+
+Radio, three-quarters cooked, lays there on the still-smoking ground.
+
+INT. ARES - FLIGHT DECK - NIGHT
+
+Countdown continues.  Nine, eight, seven...Then just breaking the horizon way out in front of her, a shiny metallic speck breaches into the light.  It's a man, glued to thirty-year-old spacecraft.  Four, three...She slams down an abort button, as with the other hand she twists the radio over to the suit-to-suit frequency.
+
+BOWMAN
+
+Gallagher...
+
+No response.
+
+EXT. COSMOS
+
+Gallagher is sucking on a few useless raspy breaths.  He can see her, ten kilometers away.  Barely hanging on.
+
+GALLAGHER
+
+No.  Air.
+
+INT. MISSION CONTROL - NIGHT
+
+They stare up at the screen awaiting her return ignition.
+
+SKAVLEM
+
+She should be clearing.  Starting the burn.
+
+She's not showing.  Still not showing.  And then...
+
+SCHLISSEL
+
+There's secondary object in orbit.
+
+INT. ARES - FLIGHT DECK
+
+Bowman has flipped a set of joysticks/collectives out from underneath the dash in front of her.  She's shouting at the computer.
+
+BOWMAN
+
+Reroute.  Orbital maneuvering.  Power the OMS, power the R.C.S.  I need roll, pitch, yaw, X, Y, Z.  Now.  Goddammit now!
+
+INT. MISSION CONTROL - NIGHT
+
+They've figured out what's up.  Some are thrilled, others are freaked.
+
+LOWENTHAL
+
+No!  No, there's no fuel for maneuvering.  Stop her!
+
+Skavlem shakes his head.  Not a chance.  Nor would she listen to him.
+
+BOROKOVSKI
+
+She is going to burn fuel to rescue this man without enough to come home?  
+
+(very Russian of her) 
+
+I like this girl.
+
+INT. ARES - FLIGHT DECK
+
+Which is exactly what she does.
+
+BOWMAN
+
+I want ten milliliter bursts.  Now!
+
+And puff, puff, puff...
+
+EXT. MARS ORBIT - NIGHT
+
+Ares, bit by bit, dives down into a smaller orbit to catch up with the Cosmos.
+
+INT. ARES - FLIGHT DECK
+
+Bowman grabs the whole orbital maneuvering assembly, yanks it out of the flight deck, turns and rushes from the sphere.
+
+EXT. COSMOS - ORBIT - DAY
+
+As he watches it come closer, he's depleted what little air there was in the suit.  And starts to die.
+
+INT. ARES - MEV DECK - DAY
+
+It's now an empty docking port.  Bowman careens in.  No artificial gravity here.  Floats as she shouts at the computer.
+
+BOWMAN
+
+I want a 180 degree.  Now!
+
+EXT. ARES - ORBIT - DAY
+
+Puff, puff...The ship turns end over end.  As...
+
+INT ARES - MEV DECK
+
+Kate plugs the maneuvering deck in with one hand, slaps an oxygen bottle on and her helmet shut.
+
+BOWMAN
+
+Seal this level!  Open the dock.
+
+Clips herself in just in time as the DOORS  behind her SLAM shut and the giant doors in front of her open.  Air purges.  And in front of her, 300 yards away, is the Cosmos.
+
+BOWMAN
+
+Gallagher!  Gallagher!
+
+He doesn't respond.
+
+EXT. COSMOS - CLOSE ON HIM
+
+Because he's unconscious or dead.  His head lolls there.
+
+INT. ARES - MEV DECK
+
+There's no time left for subtlety.  Bowman yanks a device off the wall.  It looks like a 40mm rifle with a power cable.  Points it at him.  Triggers it.  It's a huge laser pointer.  Lights him up.  Shouts to the computer.
+
+BOWMAN
+
+Hard Dock!
+
+The ship pauses, like it's thinking.  And refuses.
+
+ANNUNCIATOR (V.O.)
+
+Object out of range.  Emergency braking will commence in seven seconds.
+
+Ares turns off the pointer.  Kate throws it angrily aside.  There's a linear acceleration track on the side of the wall with a line thrower attached.  She clips in.  Grabs something the size of a medicine ball with seventy nozzles sticking out of it in her free hand.   And shouts -
+
+BOWMAN
+
+Last acquisition.  Line release.  Full velocity.
+
+And it does.  The linear accelerator wrenches her violently along the track and hurls her into space.  REEL and a line behind her WHIR.  It's like the world's largest angler has cast her into the void.
+
+EXT. ORBIT - DAY
+
+Tumbling, she half-regains her bearing, holds out the mini-thrust ball.  Shouts something at it.  FIRES.  Drags her by the arm towards Cosmos.  She hits it.  Twisting, flailing, way too hard.  Half knocks herself out.  Recovers, clips in with the tether on her suit.  Gallagher is completely insensate.
+
+She shouts something in the silence we can't hear.  The reel in the ship starts to spin.  So damn fast it's smoking.
+
+The Cosmos is reeled in, oscillating wildly at the end of the line.  The Ares, giant by comparison, is about to swallow up the tiny SRM and its two passengers.  At 45 mph.
+
+INT./EXT. ARES - MEV DECK
+
+Dock comes careening at them.  They're both going to be squashed like bugs.
+
+Bowman slashes loose the line.  And fires everything left in the portable thrust engine at once.  Blue plasma flares.  Her arm is wrenched wildly, pulled from its socket.  But...
+
+The Cosmos spins 180 degrees as they plunge through the opening of the port into the Ares.  They're on the lee side as the Cosmos hits the far side of the dock like a freight train.
+
+BOWMAN
+
+Seal!  Emergency atmosphere.  Now!
+
+The DOCKING DOORS SLAM SHUT.  The room is buffeted in white mist.  She grabs an emergency cutting tool, hooks it into the front of Gallagher's suit.  Rips it open from stem to stern.  He's limp, unresponsive.
+
+BOWMAN
+
+No.  Not after all that, dammit.  No.
+
+She checks, he has no pulse.
+
+BOWMAN
+
+Dammit, no!
+
+A first aid station is bolted into the wall.   She grabs him by the shirtfront, launches them over there.  Takes out a pair of pre-gummed HEART PADDLES, slaps them onto his chest and FIRES them.
+
+Gallagher is thrown entirely across the room by the current.  Slams into the far wall.  Opens his eyes.  Starts to breathe.
+
+GALLAGHER
+
+Hey, I knew you wouldn't leave without me.  
+
+(beat) 
+
+You promised.
+
+INT. MISSION CONTROL - NIGHT
+
+They're all stunned.  And freaked.  They've got a serious problem now.
+
+BOWMAN (V.O.)
+
+Mission Control.  This is Ares.  Recovered ground crew.  Request recalc and reconfiguration for return flight.  Orbit is stable but diminished.
+
+The scientists have been figuring madly.  And they don't like what they're coming up with.
+
+LOWENTHAL
+
+We can get 'em back.  Slowly.  Fifty extra days.  And we're not going to be able to support food and and air for two people.
+
+Russert nods.  Motions to Skavlem.
+
+INT. ARES - FLIGHT DECK - DAY
+
+Bowman and Gallagher listen as -
+
+SKAVLEM (V.O.)
+
+...that travel has been increased by approximate two months.  Concern is that available life support is untenable for duration and current crew strength.
+
+Gallagher's unimpressed.  Worms tried to eat him, robots tried to kill him and they're worried about this?  Feh.
+
+GALLAGHER
+
+Scientists.  Scientists sent us here.  Scientists figured the whole thing out with Mars.  I hate to bring this up, but they got us into this whole mess in the first place.  Hell, they shouldn't be allowed to drive 'cause they miss the turnoff as they consider the ramifications of the internal combustion engine.
+
+He picks up the mike.
+
+GALLAGHER
+
+Hey, guys.  How 'bout we come about halfway home and you send a ship with air and food and stuff to meet us?  In the middle.  And we don't have to get all the way back.  Huh?
+
+INT. MISSION CONTROL - NIGHT
+
+Schlissel nods.  That'd work.  As Russert, Lowenthal and the big guys start to talk this over, Borokovski motions to Schlissel and his new friend the Tech.
+
+BOROKOVSKI
+
+I know where there is a rocket in Uzbeckistan.  For cheap.  A friend of mine has kept it.
+
+INT. ARES - FLIGHT DECK - DAY
+
+OUT the window, Mars drifts by in the view port.  Bowman looks at it kinda sadly.
+
+BOWMAN
+
+So much for saving humankind and living on Mars.  I guess the worms took care of that.
+
+GALLAGHER
+
+The worms are not our enemy.  They're our friends.
+
+He's pulled the container out of his pocket.  Unscrews it to show her the little slimy monsters.  She recoils in horror.
+
+BOWMAN
+
+You brought them back?  Are you insane??
+
+GALLAGHER
+
+It's okay, I'm pretty sure they don't like titanium. 
+
+(then) 
+
+We're gonna live.  On Mars.  Hell, maybe even back on Earth. Maybe anywhere we want.  And the reason we're gonna live, is the damn worms.  Yeah, they ate all the algae, and damn near everything else, but they store and excrete oxygen.
+
+She finds this hard to believe.  But he explains.
+
+GALLAGHER
+
+That's why we could breathe.  You should have seen these suckers burn when they went up.  I had some time to think about this.  I was in orbit for six minutes before you found me.  I shoulda been dead.  But the air locked in the suit was almost pure O2.  'Cause of the worms.  We didn't just find a new place to live on, we may have saved our old one.  Toxic waste, they'll eat it.  Poisonous landfills, they'll eat it.
+
+She's still trying to absorb all this.  It's been a long couple of days.
+
+GALLAGHER
+
+God's got a sense of humor.  He's giving us another chance.  If we can all get along this time.  Burchenal knew somewhere that it wasn't the science, it was about having something to believe in.  Bud always knew.  Wonders of the deep.  We just had to go to Mars to remind ourselves of what we should have been able to see back on Earth.  It's not all about us.  We can't kill everything and survive.
+
+Bowman looks back at Mars.  Astounded.  Believes.
+
+BOWMAN
+
+You wanna tell them back on Earth the species is saved and we're gonna live?
+
+GALLAGHER
+
+How should I know, I'm the janitor.  
+
+(then)
+
+Look, Commander...I just fought off half a million screaming nematodes, and a killer robot and glued myself onto a rocket to get offa Mars, and I was wondering...
+
+BOWMAN
+
+If you could kiss me?
+
+GALLAGHER
+
+Yeah.
+
+BOWMAN
+
+Yeah.
+
+He does.  She kisses him back.  They continue for a long damn time.  Finally, they break apart and...
+
+BOWMAN
+
+It's an extra fifty days back.
+
+GALLAGHER
+
+Gee, wonder what we'll find to do with ourselves.
+
+As she starts to laugh...
+
+FADE OUT.
+
+THE END
+

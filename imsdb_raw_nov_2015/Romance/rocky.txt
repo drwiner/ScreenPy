@@ -1,0 +1,9868 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Rocky
+
+				    "ROCKY"
+
+					  by
+
+			    Sylvester Stallone
+
+RING PRODUCTIONS, INC.
+
+MASTER SCRIPT: INCLUDES ALL REVISIONS AS OF 1/7/76  REVISED:
+
+INT. BLUE DOOR FIGHT CLUB - NIGHT
+
+SUPERIMPOSE OVER ACTION... "NOVEMBER 12, 1975 - PHILADELPHIA"
+
+... The club itself resembles a large unemptied trash-can.
+
+The boxing ring is extra small to insure constant battle.
+
+The lights overhead have barely enough wattage to see who is
+
+fighting.
+
+In the ring are two heavyweights, one white the other black.
+
+The white fighter is ROCKY BALBOA.  He is thirty years old.
+
+His face is scarred and thick around the nose... His black
+
+hair shines and hangs in his eyes.  Rocky fights in a
+
+plodding, machine-like style.  The BLACK FIGHTER dances and
+
+bangs combinations into Rocky's face with great accuracy.
+
+But the punches do not even cause Rocky to blink... He grins
+
+at his opponent and keeps grinding ahead.
+
+The people at ringside sit on folding chairs and clamor for
+
+blood... They lean out of their seats and heckle the fighters.
+
+In the thick smoke they resemble spectres.  Everyone is
+
+hustling bets... The action is even heavier in the balcony.
+
+A housewife yells for somebody to cover a two dollar bet.
+
+The BELL RINGS and the fighters return to their corner...
+
+Somebody heaves a beer can into the ring.
+
+The Black Fighter spits something red in a bucket and sneers
+
+across the ring at Rocky.
+
+				BLACK FIGHTER
+
+			(to cornerman)
+
+		... I'm gonna bust his head
+
+		wide open!
+
+In Rocky's corner he is being assisted by a shriveled,
+
+balding CORNERMAN, who is an employee of the club... He
+
+works on Rocky without any enthusiasm.
+
+				CORNERMAN
+
+			(lackluster)
+
+		... Ya waltzin' -- Give the
+
+		suckers some action.
+
+				ROCKY
+
+		Hey --
+
+				CORNERMAN
+
+			(overriding)
+
+		Ya movin' like a bum -- Want
+
+		some advice --
+
+				ROCKY
+
+		... Just gimme the water.
+
+										2.
+
+A FIGHT FAN rushes up to Rocky... He is sixty-five, with
+
+yellow teeth and wearing sunglasses.
+
+				FAN
+
+		Should I bet the fight don't
+
+		go the distance -- Ya feel
+
+		strong?
+
+				ROCKY
+
+		Absolutely.
+
+				CORNERMAN
+
+		... Ya want some good advice?
+
+				ROCKY
+
+		... I just want the mouthpiece.
+
+The BELL RINGS... Rocky makes the sign of the cross.  The
+
+fighters engage in battle.  The other fighter grabs Rocky in
+
+a clinch and purposely butts him... The butt opens a bleeding
+
+cut on the corner of Rocky's eye.
+
+Rocky becomes furious over the foul and drives a flurry into
+
+the man's body... Rocky slams the man on the jaw and the
+
+fighter is out for the night.  The fans throw rubbish into
+
+the ring.  Rocky ignores it.
+
+The fans loudly go about collecting bets.  The referee does
+
+not bother to even count the fighter out and drags him under
+
+the ropes where he is placed on a stretcher.  Two new
+
+fighters enter the ring.  Rocky slips on a tattered robe.
+
+Embroidered clumsily on the back is, "The Italian Stallion."
+
+				ANNOUNCER
+
+		Winner, Rocky Balboa -- Next a
+
+		six rounder between local
+
+		lightweights.
+
+Without pomp Rocky climbs out of the ring and bums a
+
+cigarette from a spectator... The fighter on the stretcher
+
+passes behind him.  He watches for a moment and continues up
+
+the aisle... Before he even reaches the rear of the club the
+
+BELL RINGS and the next fight has already begun... Rocky
+
+fades into the darkness of the rear of the club.
+
+THE TITLE CREDITS END:
+
+INT. DRESSING ROOM - NIGHT
+
+Rocky has nearly completed dressing and reaches into his
+
+locker for his hat... Also in the dingy room are ten other
+
+fighters... Two taped fighters talk shop in the corner.
+
+										3.
+
+				FIGHTER #1
+
+		... Tomorrow me an' my woman
+
+		are gonna tip on down to
+
+		Atlantic City, man.
+
+				FIGHTER #2
+
+		... It's cold, Bro'.
+
+				FIGHTER #1
+
+		... That's right, I got the
+
+		city to myself...
+
+Another paces nervously... Two other fighters shadowbox and
+
+spit nervously on the floor.
+
+A young pug combs his hair and listens to a portable RADIO
+
+that is BLASTING MUSIC.
+
+The fighter that Rocky has just defeated is drinking a beer
+
+and joking with three other fighters... Some of the fighters
+
+are smoking.  The room is cloudy.
+
+A short man of fifty enters.  He is dressed in a sweater
+
+buttoned over a t-shirt.
+
+				PROMOTER
+
+		...Balboa!?
+
+Rocky raises his head.  The promoter steps over.
+
+				PROMOTER
+
+			(continuing)
+
+		... Twenty bucks for the
+
+		locker an' cornerman -- Two
+
+		bucks for the towel an'
+
+		shower, seven for tax -- The
+
+		house owes ya, sixty-one
+
+		dollars.
+
+The man peels off the money and departs... Rocky closes his
+
+locker, nods to the defeated fighter, and leaves.
+
+INT. TROLLEY - NIGHT
+
+Rocky is on the trolley heading to South Philly... The
+
+trolley is empty except for a thin old black WOMAN... The
+
+black Woman studies Rocky's bruised face... Rocky becomes
+
+self-conscious.
+
+				ROCKY
+
+			(almost apologetic)
+
+		I'm a fighter.
+
+										4.
+
+				WOMAN
+
+			(tired)
+
+		... Yo' iz an accident.
+
+EXT. STREET - NIGHT
+
+Rocky exits the trolley and walks down the block... He waves
+
+at a pair of high-heeled hookers and they wave back.
+
+Rocky passes a sleeping wino curled in front of a dirty
+
+bookstore.  Rocky drags the man into a protective passageway.
+
+Further down the street, Rocky pauses in front of the
+
+"ANIMAL TOWN PET SHOP"... He peers into the dark store and
+
+sees a sad, huge dog sitting in the window.  He mumbles to
+
+the dog and continues to the corner.
+
+EXT. ROCKY'S APARTMENT - NIGHT
+
+A short while later, Rocky approaches his apartment located
+
+in the most deprived section of South Philly.  He kicks away
+
+the litter that has gathered against the apartment steps and
+
+enters.
+
+INT. ROCKY'S HALLWAY - NIGHT
+
+The narrow hallway is painted olive brown.  A single light
+
+bulb illuminates the gloomy corridor.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Rocky enters.  The one-room apartment is drab, with a
+
+curling boxing poster of Rocky Marciano tacked on the wall...
+
+Nailed against the far wall is a mattress.  The mattress is
+
+used as a punching bag.  Stuffing spills out of the center.
+
+Rocky drops his coat on the floor.  He puts on a pair of
+
+glasses.  He crosses to a small turtle bowl... He lifts the
+
+creatures.
+
+				ROCKY
+
+		...Look who's home.
+
+Rocky starts to boil a pan of water on his hot plate, then
+
+places an old 45 RPM record on a battered phonograph.  The
+
+record is a tune, "ALL IN THE GAME."
+
+... As the CRACKLING MUSIC BEGINS, Rocky picks up his
+
+hairbrush.  Using it like a microphone, he mimes to the
+
+record.  He assumes the posture of a famous singer crooning
+
+to thousands of adoring fans... He then switches into a
+
+bullish fighting stance and throws several punches.
+
+The water boils.  Rocky soaks his badly-swollen hands.
+
+										5.
+
+EXT. SUNRISE OF PHILADELPHIA SKYLINE - DAWN
+
+We SEE the jagged skyline, highlighted by the towering
+
+figure of William Penn that rises above the dawn haze as it
+
+sits majestically above City Hall...
+
+EXT. DOCKS - EARLY MORNING
+
+Rocky is walking along the waterfront... He has a bandaid
+
+over one eye.  He looks at the rugged stevedores going about
+
+their business... He stuffs his hands in his cheap wool
+
+jacket and approaches a ship being unloaded.
+
+Rocky passes two thick Mafia types leaning against a parked
+
+car.  These men look like blood drinkers.
+
+				MAFIA #1
+
+		Yo, Rock -- How's your Boss?
+
+				ROCKY
+
+		Real good.
+
+				MAFIA #2
+
+		Fightin' again?
+
+				ROCKY
+
+		Yeah, here an' there.
+
+				MAFIA #1
+
+		Mebbe we make sum money
+
+		togather soon... Give ya boss
+
+		my best.
+
+Rocky shrugs and moves away... He nears a heavy man working
+
+the crane.  The heavy man looks frightened... He stops the
+
+crane and hurries into the ship's hole.  Rocky dashes up the
+
+gangplank.
+
+INT. SHIP - DAY
+
+The man enters the ship's hole and runs past tons of stacked
+
+crates and coffee beans.
+
+Rocky sprints after him... He lunges and flings the man by
+
+the neck against the wall of stacked cargo.
+
+				FATS
+
+			(terror-filled)
+
+		Don't hit the face!  Not the
+
+		face!!
+
+				ROCKY
+
+		Mr. Gazzo wants the two
+
+		hundred now!
+
+										6.
+
+				FATS
+
+		Honest to God I'm broke --
+
+		Gimme a break.
+
+				ROCKY
+
+		Mr. Gazzo says I should get
+
+		two hundred or break the thumb.
+
+				FATS
+
+		Please, I need my hands to
+
+		work -- Christ, don't bust my
+
+		thumbs.
+
+At wits' end the man picks up a large metal hook used by
+
+stevedores.  Rocky remains cool.
+
+				ROCKY
+
+		Goin' fishin'?
+
+The man drops the hook.
+
+				ROCKY
+
+		What's ya name again?
+
+				FATS
+
+		Bob.
+
+				ROCKY
+
+		Look, Bob, if ya wanna dance,
+
+		ya gotta pay the band -- If ya
+
+		borrow, ya gotta pay the man...
+
+		Me, I ain't emotionally
+
+		involved.
+
+Rocky's determined expression strikes home.  The fat man
+
+quickly fumbles through his pockets and hands over a small
+
+wad of bills.
+
+				ROCKY
+
+			(continuing; counting)
+
+		A hundred an' thirty.
+
+				FATS
+
+		That's it, I'm broke.
+
+				ROCKY
+
+		That's it? -- Completely?
+
+				FATS
+
+		That's it.
+
+				ROCKY
+
+		What about for food an' stuff?
+
+										7.
+
+				FATS
+
+		You have my food in ya hand.
+
+Rocky looks almost sympathetically into the fat man's
+
+flushed expression.
+
+				ROCKY
+
+		... The juice is climbin'
+
+		every week.
+
+				FATS
+
+		I know the juice is climbin' --
+
+		I been workin' six months just
+
+		to pay the damn interest.
+
+				ROCKY
+
+		Ya still light seventy.
+
+				FATS
+
+		Waits! -- Be smart.  Ya don't
+
+		have to break nothin' -- Here,
+
+		take my coat, it's worth
+
+		fifty-sixty dollars.  It's
+
+		yours.
+
+The man quickly removes his coat and extends it...
+
+				FATS
+
+			(continuing)
+
+		See, ya a smart guy, Gazzo's
+
+		don't have to know nuthin'.
+
+		I'll go tape up the hand like
+
+		ya broke my thumb.  Gazzo
+
+		won't be wise to nothin' -- Be
+
+		a smart guy, keep the coat,
+
+		we'll fake like ya broke the
+
+		hand.
+
+The man extends his coat again... Rocky suddenly grabs the
+
+man's thumb and bends him to his knees.
+
+				FATS
+
+			(almost a whisper)
+
+		No - no - no - Please -
+
+		Please - Please don't...
+
+Rocky releases the man who remains almost in shock.  The
+
+thumb is fine.
+
+				ROCKY
+
+		...That's what coulda happened.
+
+			(walks off.)
+
+										8.
+
+EXT. STREET - DAY
+
+Later that morning Rocky passes "Animal Town Pet Shop" in
+
+South Philly... The shop is not very prosperous looking.  In
+
+the window hangs a sign reading "Today's special -- Mixed
+
+Kittens -- $1.50"... Rocky stops at this shop every morning.
+
+He stares at a litter of Lhasa Apsa puppies.  He taps the
+
+window and whistles.  He SEES a girl behind the counter and
+
+presses his face against the window and does his impression
+
+of the Hunchback of Notre Dame.  The girl nervously looks
+
+away.
+
+The girl behind the counter is ADRIAN KLEIN.  She is not
+
+very attractive, but pleasant-looking.  Thirty years old.
+
+Brown hair pulled back.  Light skinned.  She wears glasses.
+
+Rocky really stops by to flirt with Adrian, but she is so
+
+painfully shy nothing ever gets started... Rocky enters.
+
+INT. PET SHOP - DAY
+
+				ADRIAN
+
+		... Could you take the puppy
+
+		out --
+
+				CUSTOMER
+
+		It can breathe.
+
+				ADRIAN
+
+		Please -
+
+				CUSTOMER
+
+		Please, nothin' - I paid for
+
+		this dog and can do whatever I
+
+		want with it - I can throw it
+
+		through the window if I want -
+
+		Now give me my two dollars
+
+		back before I do throw it
+
+		through the window.
+
+Rocky walks over to her, stares hard in her face and snatches
+
+the bag out of her hand.  He removes the puppy and hands it
+
+to Adrian.
+
+				CUSTOMER
+
+		Get away from me - Give me that!
+
+Rocky takes a couple dollars out of his pocket and hands it
+
+to the lady... She nervously exits.
+
+				ROCKY
+
+		... How's the turtle food this
+
+		week?
+
+										9.
+
+				ADRIAN
+
+		... Fine.
+
+				ROCKY
+
+		Me, I'm kinda aggravated.
+
+				ADRIAN
+
+		... I'm sorry.
+
+				ROCKY
+
+		Ain't your fault - Here's the
+
+		problem.
+
+Adrian nods... Though charmed, she is slightly intimidated.
+
+				ROCKY
+
+		The last food I got here had
+
+		more moths than flies -- An'
+
+		the moths get caught in my
+
+		turtle's throat -- That makes
+
+		them cough --
+
+The OWNER, a squat woman of forty, steps out of the back and
+
+waves at Rocky.
+
+				ROCKY
+
+			(continuing)
+
+		Yo, Gloria -- I was talkin'
+
+		about the turtle food -- Like
+
+		I was sayin', the moths get
+
+		caught in the turtle's throat
+
+		an' makes 'em cough...
+
+			(coughs)
+
+		A little cough an' I gotta
+
+		smack 'em on the shell -- An'
+
+		whatta think they get?
+
+Adrian shrugs.
+
+				ROCKY
+
+			(continuing)
+
+		I smack 'em hard on the shell
+
+		an' they get... What?
+
+				ADRIAN
+
+		... I don't know.
+
+				ROCKY
+
+		Shell-shocked!
+
+Both the Owner and Adrian smile.
+
+									10.
+
+				OWNER
+
+		Startin' with the bad jokes
+
+		early today, huh.
+
+				ROCKY
+
+		Inventin' jokes ain't easy.
+
+Rocky steps over to a large cage at the rear of the shop...
+
+Inside is a huge dog.
+
+				ROCKY
+
+			(continuing)
+
+		How's Butkus this mornin'?
+
+				OWNER
+
+		Ain't had time to check 'em.
+
+Rocky opens the cage and the large dog jumps out and looks
+
+very happy.
+
+				ROCKY
+
+		Yo, Butkus -- Dead.  Play dead.
+
+The dog plays dead.
+
+				ROCKY
+
+		...What kinda dog is this again?
+
+				OWNER
+
+		Bullmastiff.
+
+				ROCKY
+
+		The owner was suppose to pick
+
+		him up three weeks ago.
+
+				OWNER
+
+		We're not responsible for
+
+		animals left over thirty
+
+		days - We board it ain't a
+
+		animal shelter, Y'know.
+
+		...Adrian, I want you to clean
+
+		all those cat cages downstairs,
+
+		they're a mess.
+
+			(Adrian nods.)
+
+Rocky waves goodbye to Adrian and exits the shop.
+
+EXT. LEHIGH ST. TRAIN TRESTLE - DAY
+
+Gazzo picks up Rocky.
+
+									11.
+
+INT. GAZZO'S CAR - MOVING - DAY
+
+MR. GAZZO and his YOUNG BODY GUARD sit in the front seat...
+
+Rocky is in the back seat.
+
+				ROCKY
+
+		He only had a hundred an'
+
+		thirty. -- I think he's good
+
+		for the rest next week, Mr.
+
+		Gazzo.
+
+				GAZZO
+
+			(patiently)
+
+		Sure, Rocky, Bob's good for
+
+		it...
+
+Gazzo hands Rocky a twenty.
+
+				GAZZO
+
+		Tomorrow collect from Del
+
+		Rio -- He's late three weeks.
+
+		How'd you do last night?
+
+				ROCKY
+
+		... Fine.
+
+Gazzo's Bodyguard looks at Rocky's bruised face in the
+
+mirror and smiles.
+
+				BODYGUARD
+
+		Did ya get the license number?
+
+				ROCKY
+
+		Of wa?
+
+				BODYGUARD
+
+		... Of the truck that run over
+
+		your face.
+
+Gazzo steps out of the car and beckons to Rocky.
+
+				GAZZO
+
+		Yo Rock.  Did I give you a job
+
+		this mornin?  How come ya
+
+		didn't break this guy's thumb
+
+		like I asked ya?  When ya
+
+		don't do what ya are told, it
+
+		makes me look bad, kid.
+
+				ROCKY
+
+		I figure if I break the thumb
+
+		this guy gets thrown outta his
+
+		job and can't pay nothin no
+
+		more.
+
+									12.
+
+				GAZZO
+
+		It don't matter.  It's my
+
+		reputation.  These guys think
+
+		they can get off light.  It's
+
+		bad for my reputation -- It's
+
+		bad for business.  See ya
+
+		killer.
+
+Gazzo gets into his car.
+
+				GAZZO
+
+			(to Bodyguard)
+
+		... The Rock's a good kid.
+
+				BODYGUARD
+
+			(emotionless)
+
+		... A meatbag.
+
+They pull away.
+
+EXT. GYM - DAY
+
+Gazzo drives off and Rocky strolls across the street to
+
+Goldmill's Gym.  On the way he passes several familiar
+
+people and exchanges waves... Out front is a young Irishman
+
+who runs a soft pretzel stand... His name is RUDY.  It is
+
+apparent from his face he was a prize fighter... He is blind
+
+and mentally defective.
+
+				RUDY
+
+		...See the fight last night?
+
+				RUDY
+
+		Nah, I was fightin' myself.
+
+				RUDY
+
+		Apollo Creed beat the bum to
+
+		pieces.
+
+EXT./INT. GYM - DAY
+
+Mickey's Gym is surrounded by bars and a couple of greasy
+
+spoons.  Out front a crowd of young Blacks talk and jive
+
+among themselves.  Two winos lean against the entrance.
+
+Rocky enters the gym... The place is nearly full.  The
+
+MEASURED BEAT of SKIP ROPES and THROBBING SPEED BAGS makes
+
+the room come alive, like it was a mindless piece of
+
+machinery.  Over the loudspeaker MUSIC by the Isley Brothers
+
+BLARES out... The music adds a background to the CLANG of
+
+the AUTOMATIC TIMERS, SNORTING SPARRING PARTNERS and the
+
+THUDDING of HEAVY BAGS.
+
+									13.
+
+The room is divided -- Fifty percent Black -- thirty-five
+
+percent Latin -- ten percent white -- five percent other.
+
+As Rocky walks through the gym many of the FIGHTERS pause to
+
+wave and yell greetings.
+
+				FIGHTER #1
+
+		Hey, hear ya knocked Spider
+
+		Rice out in the sixth?
+
+				ROCKY
+
+		The third -- Shoulda seen it.
+
+Rocky passes another FIGHTER punching the heavy bag.
+
+				FIGHTER #2
+
+			(removes glove)
+
+		Hey, Rock, touch my hand.
+
+				ROCKY
+
+		How come?
+
+				FIGHTER #2
+
+		C'mon, it's important.
+
+Rocky touches the Fighter's bare hand.
+
+				FIGHTER #2
+
+			(continuing)
+
+		Can ya tell I just whacked-off?
+
+Rocky smiles and moves away.
+
+INT. DRESSING ROOM - DAY
+
+The dressing room is lined with dented lockers.  Wooden
+
+benches stretch across the room.  On the wall is a sign that
+
+reads, "NO KISSING."
+
+Rocky goes to his locker.  He tries to open it but fails.
+
+He leans his ear against the lock and rolls the tumblers.
+
+Still it does not open.  He shakes the lock forcefully, no
+
+luck... Rocky is flustered and sits on a bench to ponder the
+
+situation.
+
+After a moment of deep thought, Rocky stands, seizes the
+
+bench and smashes open the lock.  Opening the door Rocky is
+
+taken aback when he sees a set of very flashy clothes.
+
+				ROCKY
+
+			(mumbling)
+
+		... These ain't my clothes.
+
+									14.
+
+He sees a picture of several black girls taped on the inside
+
+of the door.
+
+				ROCKY
+
+			(continuing)
+
+		... These ain't my pictures.
+
+A short powerful man of thirty-five enters.  His hair looks
+
+like it has been shaped with hedge clippers.  His name is
+
+MIKE.
+
+				ROCKY
+
+		Yo, Mike -- What's happenin'
+
+		here?
+
+				MIKE
+
+		It ain't your locker no more.
+
+				ROCKY
+
+		Whatta ya talkin' about it
+
+		ain't my locker no more?
+
+				MIKE
+
+		Listen, I'm with you -- But ya
+
+		gotta talk to Mickey -- I put
+
+		ya stuff in the bag over there.
+
+Rocky looks at his belongings crammed in a wilted shopping
+
+bag and follows Mike across the room... Mike leans his head
+
+into the shower room.  Two Latin fighters are lathering up.
+
+				FIGHTER
+
+		...Hey, Peanut, gimme some
+
+		soap, Man.
+
+				MIKE
+
+			(irate)
+
+		Hey, Nobody -- Yeah, you,
+
+		Nobody -- You don't call me
+
+		Peanut.
+
+				FIGHTER
+
+		Peanut, gimme some soap.
+
+The fighters laugh.  Inflamed, Mike removes a bar of soap
+
+from his pocket and hurls it at the insulting fighter.  It
+
+hits just above the man's head.  The fighters are shocked
+
+into silence.
+
+Mike turns and exits with Rocky... The fighters curse them
+
+loudly in Spanish.
+
+									15.
+
+INT. GYM - DAY
+
+Rocky and Mike move past fighters going through their
+
+training routines.
+
+				ROCKY
+
+		You were ready to bite that
+
+		guy's face.
+
+				MIKE
+
+		Yeah -- See the fight last
+
+		night?  Apollo Creed beat that
+
+		English guy bad.
+
+				ROCKY
+
+		Creed's great.
+
+Mike fakes a friendly punch at Rocky and hurries off to
+
+another chore...
+
+INT. GYM - DAY
+
+The Owner, MICKEY, sits on a stool near the entrance.  He
+
+wears a baggy suit... He is in his late seventies.
+
+Rocky approaches... Mickey is conversing with another fighter.
+
+				MICKEY
+
+		I don't care what nobody says,
+
+		this bum Creed woulda never
+
+		made it in the Thirties --
+
+				ROCKY
+
+		Hey, how ya feelin', Mickey?
+
+				MICKEY
+
+			(monotoned)
+
+		... What?
+
+				ROCKY
+
+		I said, how ya feelin'?
+
+				MICKEY
+
+			(dryly)
+
+		Do you see me talkin'?  Huh?
+
+				ROCKY
+
+			(low)
+
+		Yeah.
+
+									16.
+
+				MICKEY
+
+			(spitting)
+
+		Then stand there an' wait till
+
+		I'm done -- Creed's good,
+
+		yeah, he's real fine but I
+
+		gotta boy, y'know Big Dipper,
+
+		who's got the stuff it takes
+
+		to be a champ -- He's mean,
+
+		quick, an' big -- What more
+
+		d'ya need?  Okay, go to work...
+
+			(to Rocky)
+
+		Hey -- Yeah -- Whatta ya want?
+
+				ROCKY
+
+		I was talkin' with ya man,
+
+		Mike. -- Hey, how come I been
+
+		put outta my locker?
+
+				MICKEY
+
+		Dipper needed it.
+
+Rocky turns and looks at DIPPER sparring... Dipper is a
+
+young, muscular heavyweight with a mean expression.
+
+				MICKEY
+
+			(continuing)
+
+		Dipper's a climber -- You're a
+
+		tomato.
+
+				ROCKY
+
+		... Tomato?
+
+				MICKEY
+
+		Facts is facts.  I run a
+
+		business here -- I'm cleanin'
+
+		house --
+
+Mickey pauses to watch a young middleweight time-skip as his
+
+trainer sings "FASCINATIN' RHYTHM."
+
+				MICKEY
+
+			(continuing)
+
+		How old are ya?
+
+				ROCKY
+
+		...What?
+
+				MICKEY
+
+		How old?
+
+				ROCKY
+
+		Come July, twenty-five.
+
+									17.
+
+				MICKEY
+
+		More like thirty.
+
+				ROCKY
+
+		Twenty-five, thirty -- What's
+
+		the difference? -- It took me
+
+		two months to learn the
+
+		combination of that locker.
+
+				MICKEY
+
+		The legs must be goin'.
+
+				ROCKY
+
+		Yeah, they're goin', -- that's
+
+		nature... That was my locker
+
+		for six years.
+
+				MICKEY
+
+		... Did ya fight last night?
+
+				ROCKY
+
+		Yeah --
+
+				MICKEY
+
+		Did ya win?
+
+				ROCKY
+
+		Yeah, Kayo.
+
+				MICKEY
+
+		... Who'd ya fight?
+
+				ROCKY
+
+		Spider Rice.
+
+				MICKEY
+
+		Rice is a bum.
+
+				ROCKY
+
+		You think everybody I fight is
+
+		a bum.
+
+				MICKEY
+
+		Ain't they?
+
+Mickey shoots Rocky a quick, indifferent look and removes a
+
+rosary from his pocket and idly rolls it around his fingers.
+
+									18.
+
+				MICKEY
+
+			(continuing)
+
+		Ya want the truth -- Ya got
+
+		heart, but ya fight like an
+
+		ape -- The only thing special
+
+		about you is ya never got ya
+
+		nose broke -- keep ya nose
+
+		pretty -- what's left of ya
+
+		brain an' retire.
+
+				ROCKY
+
+		Listen, I'm gonna take a
+
+		steam -- Did good last night --
+
+		Shoulda seen it.
+
+				MICKEY
+
+		Hey, ever think about retirin'?
+
+				ROCKY
+
+		...No.
+
+				MICKEY
+
+		Think about it.
+
+				ROCKY
+
+		Yeah, sure.
+
+Shrugging, Rocky moves away.
+
+				ROCKY
+
+			(continuing)
+
+		...I think I'm gonna take a
+
+		steam -- Shoulda seen me
+
+		fight -- Did good, y'know.
+
+Mickey leans over to Mike who approaches with a mop and pail.
+
+				MICKEY
+
+			(gesturing
+
+			towards Rocky)
+
+		Known him since he was
+
+		fifteen -- A waste of life.
+
+Dejected, Rocky travels to the locker room.  He passes Big
+
+Dipper sparring in a ring... Dipper spits a mouthful of
+
+water in a bucket and looks smugly at Rocky.
+
+				DIPPER
+
+			(to Rocky)
+
+		... I dig yo' locker, Man.
+
+				TRAINER
+
+		Time, Dipper.
+
+									19.
+
+Dipper smiles cruelly and begins sparring... Scene FADES on
+
+Rocky's crestfallen expression.  He moves off.
+
+EXT. PET SHOP - DUSK
+
+At sunset Rocky comes down the street and pauses at the pet
+
+shop... He is eating Colonel Sanders' fried chicken out of a
+
+bag... He taps on the window with a chicken bone.
+
+INT. PET SHOP - DUSK
+
+Inside Adrian is arranging pet toys on the counter... She
+
+hears the tapping, sees Rocky, and tenses.  Rocky enters.
+
+				ROCKY
+
+		... Wow -- cold!  Good night
+
+		to catch pneumonia.
+
+Adrian smiles slightly and moves behind the counter.  Rocky
+
+fumbles idly among the pet toys.
+
+				ROCKY
+
+			(continuing)
+
+		Ah -- I came in here for
+
+		somethin'... Oh, yeah, would
+
+		ya like somebody to walk ya
+
+		home?
+
+The girl wants to say yes but a tremendous inferiority
+
+complex will not permit it... Rocky understands.
+
+				ROCKY
+
+			(continuing)
+
+		Hey, how's my buddy doin'?
+
+			(looks into
+
+			Butkus' cage)
+
+		-- Nice dog -- Well, I'll see
+
+		ya later.
+
+				ADRIAN
+
+		... Goodnight, Rocky.
+
+Rocky exits.  Adrian watches his departure with mixed
+
+emotions.
+
+EXT. ANDY'S BAR - NIGHT
+
+A short while later Rocky arrives at Andy's Bar... He throws
+
+the Colonel Sanders bag and bones in a large public litter
+
+can.  The trash can has a bicentennial picture of George
+
+Washington pointing at a pile of garbage.  The caption
+
+reads, "There was no litter at Valley Forge!"
+
+									20.
+
+INT. ANDY'S BAR - NIGHT
+
+Rocky enters the bar.  He sits the Drunk in a booth...
+
+Several drinkers wave at him.  OLD ANDY sets a mug of beer
+
+in front of him... Rocky seems to be looking for someone.
+
+				ROCKY
+
+		Catch pneumonia out there --
+
+		Seen Paulie?
+
+Andy casually nods towards the men's room.
+
+Rocky traverses the room and passes TWO DRUNKS leaning on
+
+the bar.
+
+INT. ANDY'S RESTROOM - NIGHT
+
+Rocky enters the restroom... It is a vile stench hole with
+
+years of the remnants of many sick drunks caked on the wall.
+
+PAULIE is presently trying to comb his hair in the only
+
+remaining piece of mirror in the room... Paulie is in his
+
+early thirties.  He is medium height.  Brown hair.  Square
+
+shouldered.  He has a foul personality... A classic
+
+misanthrope.
+
+				ROCKY
+
+		Yo, Paulie.
+
+				PAULIE
+
+			(very drunk)
+
+		Yo, Rocky -- Look at this
+
+		mirror.  I'd like to kill the
+
+		friggin' moron who broke this
+
+		mirror.
+
+				ROCKY
+
+		Yo, Paulie.
+
+				PAULIE
+
+		What?
+
+				ROCKY
+
+		Your sister's givin' me the
+
+		shoulder.
+
+				PAULIE
+
+		Forget her.  You could do
+
+		better than my sister.
+
+				ROCKY
+
+		Every mornin', every night I
+
+		pass by -- I smile.
+
+				(MORE)
+
+									21.
+
+				ROCKY (CONT'D)
+
+		I say jokes.  Nothin'.  She
+
+		looks at me.
+
+				PAULIE
+
+			(annoyed)
+
+		Looks, huh?
+
+				ROCKY
+
+		Yeah, like I was a plate of
+
+		leftovers -- Somethin' wrong
+
+		with my face -- Whatta I need,
+
+		a Caddy to connect with ya
+
+		sister?
+
+				PAULIE
+
+		My sister's a friggin' loser.
+
+				ROCKY
+
+		Hey --
+
+				PAULIE
+
+		Sometimes she gets me so
+
+		crazy, I'd like to split her
+
+		head with a razor.
+
+				ROCKY
+
+		Don't get mental, man.
+
+				PAULIE
+
+		Ya caught me in a bad mood.
+
+				ROCKY
+
+		Ya always in a bad mood --
+
+				PAULIE
+
+		... Adrian ain't sharp.
+
+The restroom stench is overwhelming... Rocky covers his nose
+
+with the neckline of his t-shirt.
+
+				PAULIE
+
+			(continuing)
+
+		She's a loser -- She don't
+
+		enjoy life -- She reads --
+
+		Brainy -- Pushin' thirty
+
+		friggin' years old!  She's
+
+		gonna die alone if she don't
+
+		wise up.
+
+				ROCKY
+
+		I'm thirty myself.
+
+									22.
+
+				PAULIE
+
+		An' you're dyin' alone, too.
+
+				ROCKY
+
+		I don't see no crowd around
+
+		you, neither.
+
+				PAULIE
+
+			(pointing at
+
+			the wall)
+
+		I wanna kill the friggin'
+
+		moron who broke the mirror.
+
+				ROCKY
+
+		Let's get outta this stink.
+
+INT. ANDY'S BAR - NIGHT
+
+The restroom door opens.  Rocky guides Paulie out.  Though
+
+stumbling, Paulie talks as he walks.
+
+				PAULIE
+
+		The girl's dryin' up!  She's
+
+		gotta live a little before her
+
+		body dries up!!  You're a pal,
+
+		Rock -- How 'bout yo' talk to
+
+		her?  Y'know, it's Thanksgivin'
+
+		tomorrow.
+
+				ROCKY
+
+		... Sure.
+
+				PAULIE
+
+		Tomorrow you come for some
+
+		bird, right?
+
+				ROCKY
+
+		Absolutely...
+
+Paulie smiles and Rocky guides him to a booth... Rocky steps
+
+to the bar.  Andy leans over to him.
+
+				ANDY
+
+		That was alotta crap to go
+
+		through for a dinner invite.
+
+Rocky shakes his head no and raises his eyes towards a
+
+suspended television... the nightly sports broadcast is on.
+
+The SPORTS COMMENTATOR is at the airport and about to
+
+interview the heavyweight champion of the world, APOLLO
+
+CREED.  Creed is twenty-eight years old.  He is a tall,
+
+smooth-muscled Black with barely a scar on his light coffee-
+
+colored face...
+
+									23.
+
+He is followed by an entourage of mixed trainers and
+
+cornermen.  Also tagging alone is a small group of hangers-on.
+
+The Commentator interviews Creed as he and his followers
+
+disembark a private jet.
+
+				COMMENTATOR
+
+		How was the flight, Champ?
+
+				APOLLO
+
+		Very high an' very fast.
+
+Apollo's crowd smiles almost automatically at everything he
+
+says.
+
+				COMMENTATOR
+
+		Apollo, how would you rate
+
+		this last British challenger,
+
+		Henry Wilcoxson?
+
+				APOLLO
+
+		He was big, an' very nasty so
+
+		I destroyed him in a hurry --
+
+		Now I'm gettin' ready for Mac
+
+		Lee Green next month.
+
+				COMMENTATOR
+
+		You're referring to the much
+
+		publicized bicentennial fight?
+
+				APOLLO
+
+		That's right -- It's gonna be
+
+		the greatest sportin' event in
+
+		this country's history -- A
+
+		gala occurrence!
+
+				COMMENTATOR
+
+		Still to be held in
+
+		Philadelphia?
+
+				APOLLO
+
+		The Bicentennial Heavyweight
+
+		Championship of the World is
+
+		gonna be held in the only
+
+		place it can be held --
+
+		Philadelphia! -- the nation's
+
+		cradle -- January First -- the
+
+		first major event of our two
+
+		hundredth year.
+
+				COMMENTATOR
+
+		Where're you off to now?
+
+Apollo draws his wife close.
+
+									24.
+
+				APOLLO
+
+		Me an' my wife are goin' home
+
+		'cause we miss our children
+
+		an' can't go no more time
+
+		without seein' them.
+
+				COMMENTATOR
+
+		Any quick advice for young
+
+		boxing hopefuls?
+
+				APOLLO
+
+			(looks straight
+
+			into the camera)
+
+		... Stay in school an' use
+
+		your brains, dig -- Be a
+
+		lawyer, be a doctor, carry a
+
+		leather briefcase an' forget
+
+		about sports!!  Sports can
+
+		only make ya grunt an' smell --
+
+		Be a thinker not a stinker!!
+
+Apollo's entourage laughs and they move on... The Commentator
+
+faces the camera.
+
+				COMMENTATOR
+
+		Jerry Simpson at Kennedy
+
+		Airport with the Champion,
+
+		Apollo Creed.
+
+The sports show cuts away, but Rocky continues to look at
+
+the television with a pensive stare... Andy has been speaking
+
+the following dialogue over Apollo's broadcast.
+
+				ANDY
+
+		Nobody cares what's happenin'
+
+		in the world of sports
+
+		nomore -- Downhill.  Baseball,
+
+		downhill -- Basketball,
+
+		downhill.  Football's goin',
+
+		too.  Bank on it.  Baseball
+
+		use to be America's best
+
+		sport... Sure -- Nuttin' like
+
+		squattin' through a great
+
+		double header, but now
+
+		baseball's all business.
+
+The news report with Apollo ends.  Andy drinks.
+
+				ANDY
+
+			(continuing)
+
+		Where are the real fighters?
+
+		The pros.  Today we jig clowns.
+
+									25.
+
+				ROCKY
+
+		Clown.
+
+				ANDY
+
+		Yeah.
+
+				ROCKY
+
+		He took his best shot an'
+
+		became champ -- What shot did
+
+		you ever take?
+
+				ANDY
+
+		Yo, Rock, you ain't happy with
+
+		yourself?  Fine.  But me, I
+
+		gotta business here -- I don't
+
+		need to take no shot.
+
+Becoming despondent, Rocky rises and crosses to Paulie
+
+slumped unconscious in the booth.
+
+Rocky exits the bar... Andy turns to his customers.
+
+				ANDY
+
+			(continuing; boldly)
+
+		Take a shot, he says! -- Sure,
+
+		I'll take a shot!
+
+Laughing, Andy pours himself a shot.
+
+EXT. ATOMIC HOAGIE SHOP - NIGHT
+
+Rocky passes an all-night sandwich shop... In the window
+
+hangs the sign "ATOMIC HOAGIE SHOP, INC." Out front are
+
+several YOUNG MEN and WOMEN.  They are much too young to be
+
+out so late... A boy with a badly-chipped tooth beckons to
+
+Rocky.
+
+				CHIPPED TOOTH
+
+			(aggressively)
+
+		Yo, Rocks, buy us sum wine, man.
+
+				ROCKY
+
+		... No wine -- Bad for ya'
+
+		brain.
+
+				CHIPPED TOOTH
+
+		C'mon, man, it's cold, man.
+
+				ROCKY
+
+		No wine.
+
+				CHIPPED TOOTH
+
+		Yo, Rock, gimme a dollar.
+
+									26.
+
+				ROCKY
+
+		Why?
+
+				CHIPPED TOOTH
+
+			(sarcastically)
+
+		'Cause we dig ya, man -- Gimme
+
+		a dollar.
+
+				ROCKY
+
+		No dollar.
+
+				CHIPPED TOOTH
+
+		Hey, give Rocky a dime.
+
+				YOUNG MAN #2
+
+		... How come?
+
+				CHIPPED TOOTH
+
+		So he can call all his friends.
+
+				ROCKY
+
+			(mildly embarrassed)
+
+		... That's an old one.
+
+				CHIPPED TOOTH
+
+		Buy us some Thunderbird, man.
+
+Rocky ignores the statement and faces a very young girl who
+
+is smoking and leaning whore-like against the wall.
+
+				ROCKY
+
+		Is that Marie? -- Marie, ya
+
+		brother know you're hangin'
+
+		out so late?
+
+The girl, MARIE, assumes an indifferent attitude, attempting
+
+to impress her friends.
+
+				MARIE
+
+		... Screw you.
+
+				ROCKY
+
+			(awed)
+
+		What'd you say?
+
+				MARIE
+
+		... Screw you, yoyo.
+
+The gang laughs.  Angered and shocked, Rocky grabs her arm.
+
+				ROCKY
+
+		Did these guys teach you to
+
+		talk dirty?  Huh?
+
+									27.
+
+				MARIE
+
+		Hey --
+
+				ROCKY
+
+		What?
+
+				MARIE
+
+		Stuff it, man!
+
+				ROCKY
+
+			(shakes her)
+
+		Don't you never say that --
+
+			(to the gang)
+
+		-- You guys talk like that in
+
+		front of a little girl -- You
+
+		guys are scum.
+
+				CHIPPED TOOTH
+
+		This is our place, dig!
+
+The gang reluctantly backs up a step.
+
+				ROCKY
+
+		Don't ya never come round this
+
+		girl -- Go home.
+
+				YOUNG MAN #2
+
+		This is our corner, man!  You
+
+		go, chump!
+
+Rocky moves forward and they scatter... They quickly move off.
+
+				CHIPPED TOOTH
+
+			(backpedaling)
+
+		We'll kill you, man -- We
+
+		gotta gun.
+
+				ROCKY
+
+		Pull heat on me? -- I'll dent
+
+		ya face!
+
+Rocky leads the girl away.
+
+EXT. STREET - NIGHT
+
+Rocky is walking the young girl home... They are presently
+
+cutting through a dark public school yard.  They pass
+
+through the beams of light cast off by weak flood lights
+
+located at the top of the school building.  The atmosphere
+
+is somewhat eerie.
+
+									28.
+
+				ROCKY
+
+		How come ya wanna hang out
+
+		with those guys?  They teach
+
+		ya bad things.
+
+				MARIE
+
+		I like 'em.  If you don't you
+
+		can f--
+
+				ROCKY
+
+		Hey!  When I was your age,
+
+		there was only one girl who
+
+		talked like that in the whole
+
+		neighborhood.
+
+				MARIE
+
+			(bored)
+
+		... Yeah.
+
+She attempts to light a cigarette... Rocky nonchalantly
+
+tosses it to the ground.
+
+				ROCKY
+
+		Make your teeth yella --
+
+				MARIE
+
+		I like yella teeth.
+
+				ROCKY
+
+		Makes your breath like garbage.
+
+				MARIE
+
+		Maybe I like garbage.
+
+Rocky and Marie take a shortcut through a dark school yard.
+
+				ROCKY
+
+		Nobody likes garbage --
+
+		Anyway, this girl with the
+
+		dirty mouth wasn't bad lookin',
+
+		but the guys wouldn't take her
+
+		out for any serious datin'.
+
+				MARIE
+
+		Why?
+
+				ROCKY
+
+		'Cause that's the way guys
+
+		are -- They laugh when ya talk
+
+		dirty.  They think ya cute for
+
+		a while, but then ya getta
+
+		reputation an' watch out.
+
+				(MORE)
+
+									29.
+
+				ROCKY (CONT'D)
+
+		Nobody's ever gonna take ya
+
+		serious.  Ya get no respect...
+
+		I gotta use a bad word --
+
+		Whore.  You'll end up maybe
+
+		becomin' a whore.
+
+				MARIE
+
+		C'mon, Rocky.  I'm twelve.
+
+				ROCKY
+
+		That doesn't matter -- You
+
+		don't really have to be a
+
+		whore, just act like one an'
+
+		that's it.
+
+				MARIE
+
+		What?
+
+				ROCKY
+
+		Yo, a bad reputation -- Twenty
+
+		years from now people will say
+
+		'D'you remember Marie?' 'No,
+
+		who was she?' 'She was that
+
+		little whore who hung out at
+
+		the Atomic Hoagie Shop.' 'Oh,
+
+		now I remember!'... See, they
+
+		don't remember you, they
+
+		remember the rep.
+
+Rocky and Marie exit the dark school yard... Standing in the
+
+shadows of the building are three young muggers.  The light
+
+from their cigarettes flares red in their faces.
+
+The muggers pace Rocky across the street and follow them
+
+down the block... Rocky sees them and stops and faces the
+
+three.  The muggers pause and study Rocky from a distance of
+
+twenty yards.  Rocky gives a loud boxer's snort, wipes his
+
+nose with the side of his thumb and rolls his shoulders...
+
+The muggers are intimidated and slowly peel off the meander
+
+away.
+
+Rocky turns to Marie who has been standing behind him.
+
+				ROCKY
+
+			(points down
+
+			the block)
+
+		... That's your house, ain't it?
+
+Marie nods.
+
+				ROCKY
+
+			(continuing)
+
+		Listen, I hope ya don't --
+
+									30.
+
+				MARIE
+
+		I won't.
+
+				ROCKY
+
+		What was I gonna say?
+
+				MARIE
+
+		Ya hope I don't keep acting
+
+		like a whore or I'll turn into
+
+		one, right?
+
+				ROCKY
+
+		Ya, somethin' like that.
+
+They exchange smiles and Marie moves away.  Rocky has made
+
+an impact on her life.
+
+				MARIE
+
+		Goodnight, Rocky.
+
+				ROCKY
+
+		'Night, Marie.
+
+She takes a few more steps and pauses again.
+
+				MARIE
+
+		... Fuck you, Creepo!!!
+
+The girl runs to her house as Rocky looks on in dismay.
+
+				ROCKY
+
+			(walks off)
+
+		... Yeah, who're you to give
+
+		advice, Creepo.
+
+INT. JERGENS' OFFICE - DAY
+
+APOLLO CREED and his LAWYER and TRAINER are seated in the
+
+offices of MILES JERGENS.  Jergens, a successful promoter
+
+looks unhappy as he looks into the scowling face of Apollo
+
+Creed.
+
+				LAWYER
+
+		Are the doctor's reports
+
+		confirmed?
+
+				JERGENS
+
+		Definitely --
+
+			(reading)
+
+		-- It says here, Mac Lee Green
+
+		has suffered a seriously
+
+		cracked third metacarpal in
+
+		his left hand.
+
+									31.
+
+				APOLLO
+
+		Damn.
+
+				JERGENS
+
+		I suppose we could cancel the
+
+		fight indefinitely if you are
+
+		set on fighting Green.
+
+				TRAINER
+
+		It ain't just Green, what
+
+		about the time Apollo's
+
+		invested --
+
+				JERGENS
+
+		I believe we can find a
+
+		solution.
+
+				APOLLO
+
+		Solution, nothin' -- What
+
+		about the Bicentennial fight.
+
+				LAWYER
+
+		Jergens, don't play games with
+
+		my client!  Apollo has already
+
+		done nearly a million dollars
+
+		worth of publicity --
+
+				TRAINER
+
+		Ten million's worth!
+
+				LAWYER
+
+		-- And has made contractual
+
+		obligations with over twenty
+
+		different organizations -- He
+
+		doesn't want to be embarrassed.
+
+				APOLLO
+
+		You best find me another
+
+		ranked contender an' I mean in
+
+		a flash, man!
+
+				JERGENS
+
+			(holding up
+
+			some notes)
+
+		I contacted Ernie Roman's
+
+		manager, he's fighting in
+
+		France the same week.
+
+				APOLLO
+
+		Then gimme Buddy Shaw -- He's
+
+		ranked fifth.
+
+									32.
+
+				JERGENS
+
+		Shaw's fighting in South
+
+		America -- Why not postpone
+
+		the bout until July Fourth?
+
+				LAWYER
+
+		Hell with Fourth of July, man!
+
+		Ten thousand things'll be
+
+		goin' down on the Fourth of
+
+		July! -- Apollo wants to be
+
+		first!
+
+				JERGENS
+
+		That may not be possible, Jimmy.
+
+				TRAINER
+
+		This man here is the Star,
+
+		dig -- Don't cause him to
+
+		breathe heavy -- Now what
+
+		'bout that sucker, Billy Dukes?
+
+				JERGENS
+
+		Went to California and gained
+
+		fifty pounds -- and I called
+
+		every worthwhile contender,
+
+		but they say five weeks isn't
+
+		enough time to get in shape.
+
+Apollo stands beneath a new fight poster and points to it.
+
+				APOLLO
+
+		Shape, nothin' -- They're
+
+		afraid.  They know everybody
+
+		in the world's gonna see this
+
+		fight an' none of them gotta
+
+		prayer of beating me so
+
+		they're makin' excuses so they
+
+		don't have to be the chump
+
+		that's gonna be whipped in
+
+		front of the whole civilized
+
+		world!!
+
+				JERGENS
+
+		Apollo, I'm sure there's a way
+
+		to salvage this.
+
+				TRAINER
+
+		Nobody wants to be dissected
+
+		on the country's birthday.
+
+									33.
+
+				JERGENS
+
+		All I can counter with is that
+
+		I'm a goddamn good promoter --
+
+		I've promoted in every country
+
+		in the world -- and I've tried
+
+		to the best of my abilities.
+
+		Perhaps you're right, and no
+
+		one wants to be beat on the
+
+		country's birthday... I don't
+
+		know what else to say --
+
+				APOLLO
+
+		I do -- Maybe what this fight
+
+		needs is something new -- a
+
+		novelty.
+
+				TRAINER
+
+		You's the novelty, Champ!
+
+				APOLLO
+
+		Give my main man a raise!!
+
+Everyone laughs.
+
+				APOLLO
+
+			(continuing)
+
+		Now here's what's goin' down.
+
+		Listen, 'cause I'm gonna say
+
+		this but one time.  On January
+
+		first, the first day of the
+
+		Bicentennial I'm gonna fight
+
+		me a local poor underdog, dig?
+
+		A snow-white underdog.  An'
+
+		I'm gonna put his face on this
+
+		poster with me, hear?  An'
+
+		I'll tell you why, 'cause I'm
+
+		sentimental -- An' all the
+
+		people in the country all
+
+		sentimental, man, an' they'd
+
+		like nothin' better than me,
+
+		Apollo Creed, to let some
+
+		unknown get a shot at the
+
+		greatest title in the world on
+
+		this country's biggest birthday.
+
+		Now that's the way I see it
+
+		an' that's the way I want it!!
+
+				JERGENS
+
+		... It's very American.
+
+				APOLLO
+
+		No, man, it's very smart.
+
+									34.
+
+EXT. STREET - DAY
+
+Late that afternoon Mr. Gazzo's white 1970 Cadillac pulls up
+
+to Rocky's apartment... Rocky is in the back seat with the
+
+loan shark.  Gazzo's bodyguard is driving.
+
+Gazzo flips through a small black notepad.
+
+				ROCKY
+
+		Next Wednesday I grab a grand
+
+		from Snyder.  An' Thursday two
+
+		yards from Cappoli, okay?
+
+				GAZZO
+
+		No, two yards from Snyder, an'
+
+		a grand from Cappoli.
+
+				ROCKY
+
+		Ya sure?
+
+				GAZZO
+
+		Hey, screw ya brain on right.
+
+		Now, who's this girl you're
+
+		going out with tonight?
+
+				ROCKY
+
+		How'd you know?
+
+				GAZZO
+
+			(smiles)
+
+		You think I don't hear things?
+
+				ROCKY
+
+		Paulie's sister.
+
+				BODYGUARD
+
+			(abrasively)
+
+		Hear she's retarded.
+
+				ROCKY
+
+			(dryly)
+
+		She ain't retarded, she's shy.
+
+				BODYGUARD
+
+		Take 'er to the zoo -- Retards
+
+		like the zoo.
+
+				ROCKY
+
+		Does that bum have to say that?
+
+The Bodyguard reddens... Gazzo motions to his Bodyguard to
+
+relax.
+
+									35.
+
+				GAZZO
+
+		Buddy's in a bad mood --
+
+		prostate problems.
+
+				ROCKY
+
+		He's always in a bad mood.
+
+			(laughs)
+
+		Count ya blessin's.  Ya a
+
+		healthy person -- ya legs
+
+		work -- ya hands work --
+
+The Bodyguard has been looking at Rocky with murderous eyes.
+
+				BODYGUARD
+
+		I don't like ya face.
+
+				ROCKY
+
+		Don't like yours neither.
+
+				BODYGUARD
+
+		Kiss my ass.
+
+				ROCKY
+
+		Move your shoulders down.
+
+Mr. Gazzo is amused.  He steps out of the car, followed by
+
+Rocky.
+
+				GAZZO
+
+			(smiles)
+
+		Buddy's got a thing against
+
+		ya, Rock.  Some people just
+
+		hate for no reason, y'know.
+
+				ROCKY
+
+		Yeah.
+
+				GAZZO
+
+		Here's fifty bucks -- You an'
+
+		the girl have a nice time.
+
+				ROCKY
+
+		Thanks, Mr. Gazzo.
+
+Rocky enters his apartment and Gazzo drives off.
+
+INT. JERGENS' OFFICE - DAY
+
+The SCENE REVERTS BACK TO Miles Jergens' office.  Apollo
+
+pores over a large record book.
+
+				APOLLO
+
+		How 'bout this Billy Snow?
+
+									36.
+
+				JERGENS
+
+		Fouls.
+
+				APOLLO
+
+		How 'bout this Big Chuck Smith?
+
+				TRAINER
+
+		Too old, dull fighter.
+
+			(points at a name)
+
+		Bobby Judge is a good boy.
+
+				APOLLO
+
+		... I don't feel heat from the
+
+		name.
+
+				JERGENS
+
+		Joe Zack is a good prospect --
+
+		Exciting boy.
+
+				APOLLO
+
+		... Still don't feel no heat.
+
+				JERGENS
+
+			(sighs)
+
+		Exactly what are you looking
+
+		for, Apollo?
+
+				APOLLO
+
+		... This man.
+
+Everybody leans forward.
+
+				APOLLO
+
+			(continuing;
+
+			much amused)
+
+		'The Italian Stallion' -- He's
+
+		my man.
+
+				JERGENS
+
+		Rocky Balboa -- His record's
+
+		poor --
+
+				APOLLO
+
+		Don't matter -- That name.
+
+		'The Italian Stallion,' it's
+
+		right on.
+
+			(laughs)
+
+		Who discovered America?  An
+
+		Italian, right?  So, man, what
+
+		could be better than to get it
+
+		on with one of his ancestors --
+
+				TRAINER
+
+		He won't last one round.
+
+									37.
+
+				APOLLO
+
+		Listen, I gonna carry this boy
+
+		three rounds, then drop 'im
+
+		like a bad habit.
+
+				TRAINER
+
+		I don't like you messin' with
+
+		southpaws -- They do everything
+
+		wrong.
+
+				APOLLO
+
+		Southpaw, nuthin' -- I'll drop
+
+		'im in three -- 'Apollo Creed
+
+		meets the Italian Stallion.'
+
+		Shhiii -- Sounds like a damn
+
+		monster movie!!
+
+Everyone laughs.
+
+						FADE OUT.
+
+FADE IN:
+
+EXT. STREET - DUSK
+
+Rocky and Paulie walk towards his house... Even though it is
+
+cold and dark, a group of kids conduct an energetic game of
+
+half-ball. (Half-ball is a variation of stick-ball.)
+
+				ROCKY
+
+			(mimes throwing)
+
+		I usta be deadly at half-ball.
+
+				PAULIE
+
+		I hate the friggin' game...
+
+		I'd like to talk some business.
+
+				ROCKY
+
+		What kinda business?
+
+				PAULIE
+
+		Look at my hands -- See how
+
+		the joints are swollen.
+
+Paulie extends his thick hands and tries to make a fist.
+
+				PAULIE
+
+			(continuing)
+
+		Inflamed joints -- Walkin' in
+
+		an' out of a freezer carryin'
+
+		meat plays hell on the joints.
+
+				ROCKY
+
+		Maybe ya should see a doctor.
+
+									38.
+
+				PAULIE
+
+		I don't need a doctor, I need
+
+		a different job.
+
+				ROCKY
+
+		Maybe another job is the best
+
+		thing.
+
+				PAULIE
+
+		Do me a favor -- Talk to Gazzo.
+
+		Tell him I'm a friend an'
+
+		would do a good job... Tell
+
+		him I ain't bothered by
+
+		nothin' an' would be a great
+
+		collector... Bustin' bones
+
+		don't bother me -- Tell him
+
+		I'm a good worker.
+
+				ROCKY
+
+		Gazzo's gotta come to you.
+
+				PAULIE
+
+		I'm askin' ya to go to him --
+
+		As a favor.
+
+				ROCKY
+
+		Gazzo's gotta come to you --
+
+		Hey, Paulie, it's a bad job --
+
+		Do what you do now.
+
+EXT. ATOMIC HOAGIE SHOP - DUSK
+
+They continue past the Atomic Hoagie Shoppe, Inc... A group
+
+of young men pitch quarters on the sidewalk out front.
+
+Rocky pauses... He sees Marie, the little girl from the
+
+night before, hanging around with the guys.  She sees Rocky.
+
+Marie takes a deep drag on her cigarette and faces the
+
+opposite direction... The gang smiles and continues to pitch
+
+quarters.
+
+Anger and disappointment register across Rocky's face.
+
+				PAULIE
+
+		You know her?
+
+Rocky shrugs and the two men move off... Filling the night
+
+air is the METALLIC SOUND of pitching QUARTERS.
+
+EXT. PAULIE'S APARTMENT - NIGHT
+
+The men arrive at Paulie's home.  It is at the top of a
+
+dimly-lit four story walk-up.
+
+									39.
+
+				ROCKY
+
+		Ya sister knows I'm comin'?
+
+				PAULIE
+
+		Yeah, sure -- She's very
+
+		excited.
+
+INT. PAULIE'S APARTMENT - NIGHT
+
+Paulie unlocks the apartment door and enters... Rocky
+
+stiffly follows.  Paulie's sister steps out of the kitchen.
+
+A large serving spoon is in her hand... The TV is on.
+
+She stops short and eyes Rocky... She is visibly unsettled
+
+by Rocky's unexpected presence.
+
+				ADRIAN
+
+			(weakly)
+
+		Paulie, you're late.
+
+She looks at Rocky again.
+
+				PAULIE
+
+		Did you call the hospital?
+
+			(to Rocky)
+
+		If I'm ten minutes late, she
+
+		calls the hospital.
+
+Adrian enters the bedroom and slams the door... Paulie
+
+follows.  An argument ensues and Rocky overhears.
+
+OVER the argument is HEARD a SPORTS BROADCAST rising from
+
+the TELEVISION.
+
+				COMMENTATOR (V.O.)
+
+		... Unfortunate luck for
+
+		fifth-ranked heavyweight, Mac
+
+		Lee Green.  The slugging
+
+		fighter acquired a serious
+
+		fracture in his left hand
+
+		after an aggressive day of
+
+		sparring -- Champion Apollo
+
+		Creed says he'll be 'shopping
+
+		for another victim,' to fill
+
+		Green's vacancy for the
+
+		Bicentennial Championship
+
+		Fight to be held in Philly
+
+		next month... By the way,
+
+		rumor has it that this will be
+
+		the most widely-viewed sporting
+
+		event in the entire world --
+
+		and that includes the Super
+
+		Bowl, folks... Today U.S.
+
+		swimmers set a new...
+
+									40.
+
+Meanwhile, the argument between brother and sister continues
+
+in the bedroom.
+
+				ADRIAN
+
+		... Paulie, why didn't you
+
+		tell me you were bringing him
+
+		home?!  Look at me, I'm not
+
+		ready for this.
+
+				PAULIE
+
+		Like it would make a difference
+
+		if you were, right?  This
+
+		guy's a friend and now he's
+
+		takin' ya out.
+
+				ADRIAN
+
+		No... I can't!
+
+				PAULIE
+
+		Ya, ya goin' outta the bedroom
+
+		an' I don't wanna know from
+
+		nothin'.
+
+				ADRIAN
+
+		Paulie, please --
+
+				PAULIE
+
+		Hey, I want ya out
+
+		instamaticly. -- I'm sicka
+
+		lookin' at ya hangin' around
+
+		like a friggin' spider -- Go
+
+		out -- Live!  Do, enjoy life.
+
+				ADRIAN
+
+		... Like you?
+
+				PAULIE
+
+		Don't get wise with me.  I
+
+		want ya to stop bein' a loser.
+
+				ADRIAN
+
+		I can't go out.
+
+				PAULIE
+
+		Why?
+
+				ADRIAN
+
+		Paulie, it's Thanksgiving.
+
+		I've gotta turkey in the oven.
+
+Paulie turns and leaves the bedroom... He enters the kitchen.
+
+Grabbing a large fork, he opens the oven and spears the
+
+turkey... With the turkey suspended on the end of the fork,
+
+Paulie heaves the dripping bird out the window.
+
+									41.
+
+Adrian has seen this and is shattered.  She runs back into
+
+the bedroom and locks the door.
+
+				PAULIE
+
+		!! Ya want the bird, go out in
+
+		the alley an' eat the bird --
+
+		I want ya outta the house --
+
+		Enjoy ya friggin' life... Ya
+
+		hungry, Rock?
+
+				ROCKY
+
+		Maybe ya better forget it.
+
+				PAULIE
+
+		Forget nothin' -- Here, talk
+
+		to my sister, tell 'er
+
+		somethin' nice.
+
+Rocky walks over to Adrian's bedroom door and begins speaking
+
+to the enclosed girl.
+
+				ROCKY
+
+		... Yo, Adrian, it's me,
+
+		Rocky... Ah, ah -- Ah, it's
+
+		kinda hard for me to think of
+
+		somethin' to say, y'know --
+
+		'Cause I never talked to a
+
+		door before, I mean whatta ya
+
+		say to a door.
+
+Rocky turns away and begins to walk off.
+
+				ROCKY
+
+			(continuing)
+
+		... Maybe I better forget it.
+
+				PAULIE
+
+		Try again, c'mon, try again.
+
+Rocky goes over to the door and begins speaking again.
+
+				ROCKY
+
+		Ah, Adrian, I know ya ain't
+
+		too happy at this moment, but
+
+		would ya do me a favor -- I
+
+		ain't got nobody to spend
+
+		Thanksgivin' with -- How 'bout
+
+		you an' me goin' out -- Get
+
+		somethin' to eat, maybe laugh
+
+		a little, who knows... Would
+
+		ya like, I dunno, go out
+
+		together?
+
+Adrian opens the door... She already has her winter coat on.
+
+									42.
+
+				ROCKY
+
+			(continuing)
+
+		We'll have a good time.
+
+Paulie opens the front door and gives Rocky an encouraging
+
+smile...
+
+				ROCKY
+
+			(continuing)
+
+		What's ya sister like to do?
+
+				PAULIE
+
+		Ice skate.
+
+				ROCKY
+
+		I didn't want no turkey anyway.
+
+				ADRIAN
+
+		It's Thanksgiving.
+
+				ROCKY
+
+		To you, to me it's Thursday.
+
+INT. ICE SKATING RINK - NIGHT
+
+Rocky and Adrian enter a deserted skating rink.
+
+				ROCKY
+
+		Looks quiet, y'know.
+
+				ADRIAN
+
+		I think it's closed.
+
+				ROCKY
+
+		I think mebbe we're early or
+
+		somethin' --
+
+From across the rink a CLEANING MAN yells at them.
+
+				CLEANER
+
+		Hey, whatta ya doin' here --
+
+		we're closed... Yo, we're
+
+		closed!
+
+				ROCKY
+
+			(yells back)
+
+		Are ya closed to the General
+
+		Public or to just everybody.
+
+									43.
+
+				CLEANER
+
+			(starts to walk over)
+
+		Hey, the rink is empty 'cause
+
+		we're closed -- ya ain't
+
+		allowed in here so do me a
+
+		favor an' not stay here.
+
+				ROCKY
+
+		Wait here, gotta smooth this
+
+		guy out.
+
+				ADRIAN
+
+			(softly)
+
+		We could go somewhere else
+
+		an' --
+
+Rocky approaches the Cleaner.
+
+				CLEANER
+
+		Yo, pal, what's with you --
+
+		The place ain't operatin'.
+
+				ROCKY
+
+		Listen, I gotta problem.  This
+
+		girl ain't feelin' well,
+
+		y'know -- The doctor says she
+
+		should exercise, y'know once
+
+		in awhile an' ice skatin' is
+
+		the best thing --
+
+				CLEANER
+
+		This a con?
+
+				ROCKY
+
+		Look at her, ya can see she
+
+		ain't feelin' good -- needs a
+
+		few minutes exercise --
+
+				CLEANER
+
+		Few minutes?
+
+				ROCKY
+
+		... Ten minutes.
+
+				CLEANER
+
+		Ten minutes for ten dollars.
+
+				ROCKY
+
+		... Yeah, give 'er the Blades.
+
+INT. ICE SKATING RINK - NIGHT
+
+Adrian has on skates.  Rocky follows her onto the ice.  He
+
+wears street shoes.
+
+									44.
+
+				ADRIAN
+
+		... Aren't you skating?
+
+				ROCKY
+
+		Ain't skated since I was
+
+		fifteen -- That's when I
+
+		started fightin' -- gotta
+
+		watch the ankles.  Yeah,
+
+		fightin' use to be tops with
+
+		me, but no more.  All I wanted
+
+		to prove was I weren't no
+
+		bum -- That I had the stuff to
+
+		make a good pro.
+
+				ADRIAN
+
+		And you never got the chance?
+
+The Cleaner yells from the sideline.
+
+				CLEANER
+
+		Nine minutes!
+
+				ROCKY
+
+		Hey, I ain't cryin'... I still
+
+		fight.  Kinda do it like a
+
+		hobby.  See I'm a natural
+
+		southpaw an' most pugs won't
+
+		fight a southpaw 'cause we
+
+		mess up their timin' an' look
+
+		awkward -- Southpaw means
+
+		lefthanded... But I guess in
+
+		the long run things probably
+
+		worked out for the best, right?
+
+				ADRIAN
+
+		But you never had a chance to
+
+		prove yourself.
+
+				ROCKY
+
+		Absolutely.
+
+				CLEANER
+
+		Eight minutes!
+
+Adrian slips and Rocky breaks her fall.
+
+				ROCKY
+
+		I just dislocated my finger.
+
+				ADRIAN
+
+		Ohh!
+
+				CLEANER
+
+		Seven minutes!
+
+									45.
+
+				ROCKY
+
+		It ain't your fault -- I
+
+		originally done it in the Baby
+
+		Crenshaw fight.
+
+			(opens his wallet)
+
+		That's me fightin' Big Baby
+
+		Crenshaw -- Big Baby was the
+
+		size of an airplane an' I
+
+		broke my hands on his head --
+
+		I lost, but it's a nice
+
+		picture, don't ya think?
+
+				CLEANER
+
+		Six!
+
+				ROCKY
+
+		How 'bout some Cokes?
+
+				CLEANER
+
+		Cost ya a buck.
+
+				ROCKY
+
+		This guy is beautiful -- get
+
+		the Cokes.
+
+Adrian does a slight turn and Rocky has to speed up and
+
+nearly falls.
+
+				ROCKY
+
+			(continuing)
+
+		See, I ain't graceful,
+
+		y'know -- I don't move good --
+
+		Stink as a dancer too -- But I
+
+		can really swat, I hit hard,		real hard, but I'm a southpaw
+
+		an' nobody wants to fight a
+
+		southpaw! -- Havin' a good time?
+
+Adrian nods and is very nervous... The Cleaner moves
+
+carefully across the ice.
+
+				ROCKY
+
+			(continuing)
+
+		Y'know how I got started in
+
+		the fight racket?
+
+				ADRIAN
+
+		By accident?
+
+				CLEANER
+
+		Here -- Three minutes.
+
+									46.
+
+				ROCKY
+
+		Yeah -- My ol' man who was
+
+		never the sharpest told me --
+
+		I weren't born with much brain
+
+		so I better use my body.
+
+For the first time, Adrian laughs.
+
+				ROCKY
+
+			(continuing)
+
+		What's funny?
+
+				ADRIAN
+
+		My mother told me just the
+
+		opposite.  She said, 'You
+
+		weren't born with much of a
+
+		body so you'd better develop
+
+		your brain.'
+
+				CLEANER
+
+		Time!
+
+The Cleaner walks over as Rocky and Adrian get off the ice.
+
+				CLEANER
+
+			(continuing)
+
+		That's ten bucks.
+
+				ROCKY
+
+		I must be goin' deaf 'cause I
+
+		thought ya said, 'ten cents.'
+
+Rocky hands him a dime.
+
+				CLEANER
+
+			(weakly)
+
+		... How 'bout for the Cokes?
+
+				ROCKY
+
+		Charge it.
+
+Rocky and Adrian start to leave.  Rocky pauses at the door
+
+and fishes into his pocket and hands over eleven dollars.
+
+				ROCKY
+
+			(continuing)
+
+		Had ya goin', didn't I, huh?
+
+He grins and leaves.
+
+									47.
+
+EXT. STREET - NIGHT
+
+				ROCKY
+
+		Some people are very shy by
+
+		nature.
+
+				ADRIAN
+
+		... I suppose.
+
+				ROCKY
+
+		I would say you're very shy bu
+
+		nature.
+
+				ADRIAN
+
+		... I suppose.
+
+				ROCKY
+
+		Some people think bein' shy is
+
+		a disease, but it don't bother
+
+		me.
+
+				ADRIAN
+
+		It doesn't bother me either.
+
+				ROCKY
+
+		Then why did I bother bringin'
+
+		it up?  'Cause I'm dumb,
+
+		that's why... Y'know, I think
+
+		we make a real sharp coupla
+
+		coconuts -- I'm dumb an'
+
+		you're shy.
+
+				ADRIAN
+
+		... It is just hard for me to
+
+		understand why anybody wants
+
+		to be a fighter.
+
+				ROCKY
+
+		Ya gotta be a little soft to
+
+		wanna be a pug... It's a
+
+		racket where ya' almost
+
+		guaranteed to end up a bum.
+
+				ADRIAN
+
+		I don't think you're a bum.
+
+				ROCKY
+
+		... I'm at least half a bum.
+
+		Yeah, fightin' is a crazy
+
+		racket.  The roughest part is
+
+		the mornin' after.
+
+				ADRIAN
+
+		Morning after?
+
+									48.
+
+				ROCKY
+
+		After a rough fight, ya'
+
+		nothin' but a large wound.
+
+		Sometimes I feel like callin'
+
+		a taxi to drive me from my bed
+
+		to the bathroom... Ya' eyes
+
+		hurt, ya' ears hurt, ya' hair
+
+		even hurts... But the thing
+
+		I'm proud of is I been in over
+
+		sixty fights an' never had a
+
+		busted nose -- Bent an'
+
+		twisted an' bitten but never
+
+		broke... That's rare.
+
+				ADRIAN
+
+		Why do you do it if it hurts
+
+		so bad?
+
+				ROCKY
+
+		... Guess.
+
+				ADRIAN
+
+			(pause)
+
+		'Cause you can't sing or dance?
+
+Rocky smiles.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Rocky and Adrian enter his one-room apartment... She is
+
+nervous and taken aback by the bleakness of the room...
+
+Rocky goes to the icebox.
+
+				ROCKY
+
+		Would ya like a glass of water?
+
+				ADRIAN
+
+		... No thanks.
+
+Adrian looks at the mirror above Rocky's dresser.  She sees
+
+a high school photo of Rocky.  He once was handsome and
+
+smooth-faced... Rocky steps up behind her and his face is
+
+reflected in the mirror.
+
+He turns on his cheap RECORD PLAYER... He reaches into the
+
+turtle bowl.
+
+				ROCKY
+
+		Here's the guys I was tellin'
+
+		ya about -- This is Cuff an'
+
+		Link.
+
+				ADRIAN
+
+		I sold them to you.
+
+									49.
+
+				ROCKY
+
+			(very embarrassed)
+
+		... Oh, yeah, I bought the
+
+		whole kit -- Yeah, ya sold me
+
+		the turtles, the bowl, an' the
+
+		mountain -- I had to get rid
+
+		of the mountain 'cause they
+
+		kept fallin' off.
+
+				ADRIAN
+
+		Do you have a phone?
+
+				ROCKY
+
+		I had it pulled.  People
+
+		callin' all the time.  Who
+
+		needs it -- Who'd you wanna
+
+		call?
+
+				ADRIAN
+
+		I wanna let my brother know
+
+		where I am.
+
+				ROCKY
+
+		D'you really wanna call?
+
+				ADRIAN
+
+		Yes, I do.
+
+				ROCKY
+
+		You sure?
+
+				ADRIAN
+
+		Yes.
+
+				ROCKY
+
+		Why?
+
+				ADRIAN
+
+		I think he might be worried.
+
+				ROCKY
+
+		I'll call your brother.
+
+Rocky flings open the window and bellows like a foghorn.
+
+				ROCKY
+
+			(continuing)
+
+		!!Yo, Paulie -- Ya sister's
+
+		with me!  I'll call ya later.
+
+Rocky closes the window and faces the woman... She is not
+
+smiling.  She looks frightened.
+
+									50.
+
+				ROCKY
+
+			(continuing)
+
+		What's the matter?  Ya don't
+
+		like the room?
+
+				ADRIAN
+
+		It's fine.
+
+				ROCKY
+
+		It's only temporary.
+
+				ADRIAN
+
+		It's not that --
+
+				ROCKY
+
+		What's the problem?  You don't
+
+		like me -- Don't like the
+
+		turtles -- What is it?
+
+				ADRIAN
+
+		I don't think I belong here.
+
+				ROCKY
+
+		It's okay.
+
+				ADRIAN
+
+		No, I don't belong here.
+
+				ROCKY
+
+		It's all right -- You're my
+
+		guest.
+
+				ADRIAN
+
+		... I've never been in a man's
+
+		apartment before.
+
+				ROCKY
+
+			(gesturing)
+
+		They're all the same.
+
+				ADRIAN
+
+		I'm not sure I know you well
+
+		enough -- I don't think I'm
+
+		comfortable.
+
+				ROCKY
+
+		Yo, I'm not comfortable either.
+
+				ADRIAN
+
+			(standing)
+
+		I should leave.
+
+									51.
+
+				ROCKY
+
+		But I'm willin' to make the
+
+		best of this uncomfortable
+
+		situation.
+
+Adrian moves to the door... Rocky intercepts her.
+
+				ROCKY
+
+			(continuing; softly)
+
+		Would ya take off your glasses?
+
+				ADRIAN
+
+			(dumbstruck)
+
+		What?
+
+				ROCKY
+
+		The glasses... Please.
+
+Rocky removes her glasses and looks deeply into her eyes.
+
+				ADRIAN
+
+			(timidly)
+
+		... T-thank you.
+
+				ROCKY
+
+		Do me another favor?
+
+				ADRIAN
+
+		... What?
+
+				ROCKY
+
+		Could ya take off that hat.
+
+After a moment, Adrian removes the hat... She is becoming
+
+rather pretty.
+
+				ROCKY
+
+			(continuing)
+
+		I always knew you was pretty.
+
+				ADRIAN
+
+		Don't tease me.
+
+The woman melts into the corner and begins lightly sobbing...
+
+Rocky steps forward and fences her with his arms and body.
+
+				ROCKY
+
+		I wanna kiss ya -- Ya don't
+
+		have to kiss me back if ya
+
+		don't feel like it.
+
+Rocky softly kisses the woman... Her arms hang limp.  He
+
+puts more passion into the kiss and she starts to respond.
+
+Her hand glides like smoke up his back.
+
+									52.
+
+She embraces his neck.  The dam of passion erupts.  She
+
+gives herself freely for the first time in thirty years.
+
+EXT. GOLDMILL'S GYM - DAY
+
+The following day, Rocky strolls down the street to
+
+Goldmill's Gym... Out front a group of young blacks stop
+
+talking and study Rocky as he passes.  Rocky's eyebrows knit
+
+in confusion.
+
+INT. GOLDMILL'S GYM - DAY
+
+Rocky climbs the stairs and enters the gym...
+
+... In a matter of seconds, his presence is known and the
+
+athletes stare in wonderment... The big black heavyweight
+
+contender, Dipper, throws down his towel in disgust and
+
+turns away.
+
+Mike quietly approaches Rocky.
+
+				MIKE
+
+		Hey, Rock -- What happened?
+
+				ROCKY
+
+		'Bout what?
+
+Mickey Goldmill steps out of his office...
+
+				MICKEY
+
+		Did ya get the message, kid?
+
+				ROCKY
+
+		Message -- What message?
+
+Mickey pulls out a card from his breast pocket... He hands
+
+it to Rocky.
+
+				MICKEY
+
+		A Rep from Miles Jergens'
+
+		Promotions was lookin' for
+
+		ya -- They need sparrin'
+
+		partners for Creed.
+
+				ROCKY
+
+		Ya puttin' me on?
+
+				MICKEY
+
+		Here's the card?
+
+				ROCKY
+
+		When was they here?
+
+									53.
+
+				MICKEY
+
+		'Bout an hour ago.
+
+				ROCKY
+
+		Probably lookin' for sparrin'
+
+		partners.
+
+				MICKEY
+
+		... I said that before.
+
+Rocky turns from Mickey and jogs out of the gym.  Mickey
+
+fumbles with his rosary beads.
+
+				MICKEY
+
+			(continuing)
+
+		... Waste of life.
+
+EXT. SKYSCRAPER - DAY
+
+Rocky steps off a bus in mid-town Philadelphia.  He hurries
+
+down Broad Street.  Every few steps he breaks into a trot...
+
+He enters a skyscraper.
+
+INT. OFFICE BUILDING - HALL - DAY
+
+Rocky exits the elevator and enters the office of Miles
+
+Jergens' Productions.
+
+INT. JERGENS' PRODUCTIONS - DAY
+
+The SECRETARY is slightly startled by Rocky's excited
+
+expression.
+
+				SECRETARY
+
+		May I help you?
+
+Rocky hands her the business card.
+
+				SECRETARY
+
+			(continuing)
+
+		Your name, please?
+
+				ROCKY
+
+		Balboa, Rocky Balboa.
+
+The Secretary rises and enters Jergens' office... Rocky eyes
+
+the multitude of sporting pictures hanging on all four walls.
+
+The Secretary returns.
+
+				SECRETARY
+
+		You may go in.
+
+Rocky collects himself and enters...
+
+									54.
+
+INT. JERGENS' OFFICE - DAY
+
+Miles Jergens warmly greets him.
+
+				JERGENS
+
+		Hello, Mr. Balboa -- I'm Miles
+
+		Jergens -- Please, have a seat.
+
+				ROCKY
+
+		... Thanks.
+
+				JERGENS
+
+		Mr. Balboa --
+
+				ROCKY
+
+			(overriding)
+
+		Rocky.
+
+				JERGENS
+
+		Rocky, do you have any
+
+		representation?  A manager?
+
+				ROCKY
+
+		No -- Just me.
+
+				JERGENS
+
+		Rocky, would you be interested
+
+		in --
+
+				ROCKY
+
+		Sparrin'?
+
+				JERGENS
+
+		Excuse me.
+
+				ROCKY
+
+		I know ya need sparrin'
+
+		partners -- I'm very available.
+
+				JERGENS
+
+		I'm sure you are.
+
+				ROCKY
+
+		Absolutely -- Sparrin' with
+
+		the Champ would be an honor --
+
+		y'know what?
+
+				JERGENS
+
+		What?
+
+				ROCKY
+
+		I wouldn't take no cheap shots.
+
+		I'd be a good sparrin' partner.
+
+									55.
+
+Jergens seems very amused.  He lights a cigar.
+
+				JERGENS
+
+		Rocky, would you be interested
+
+		in fighting Apollo Creed for
+
+		the Championship?
+
+				ROCKY
+
+		... Like I said, I'd make a
+
+		boss sparrin' mate.
+
+				JERGENS
+
+		Did you hear what I said?
+
+				ROCKY
+
+		Sure, an' I'm smart enough to
+
+		know that no sparrin' partner
+
+		should take cheap shots at the
+
+		Champ.  He's just there to
+
+		help condition the man.
+
+				JERGENS
+
+		Not spar, I'm asking whether
+
+		you would be interested in
+
+		fighting Creed for the
+
+		championship.
+
+The weight of the statement comes crashing down in Rocky.
+
+For a long moment he becomes nothing more than a basket case
+
+as he ponders the statement... He half regains his senses.
+
+				ROCKY
+
+		... Ah... Absolutely.
+
+The SCENE FADES and becomes a black and white television.
+
+INT. PAULIE'S APARTMENT - NIGHT
+
+Rocky and Adrian are at her home watching an old black and
+
+white television... Rocky smiles... The film now cuts to
+
+Apollo being interviewed.
+
+				REPORTER #1
+
+		How'd you like the 'City of
+
+		Brotherly Love?'
+
+				APOLLO
+
+		I like my Philadelphia Brothers.
+
+		An' I'm patriotic!
+
+Apollo has to move to the side to avoid a thrusting
+
+microphone.
+
+									56.
+
+				APOLLO
+
+			(continuing;
+
+			mock seriousness)
+
+		If yo' don't back up I'm gonna
+
+		send yo' home with a microphone
+
+		in yo' nose!
+
+The Reporters laugh.
+
+				REPORTER #2
+
+		Why did you agree to fight a
+
+		man who has virtually no
+
+		chance of winning?
+
+				APOLLO
+
+		If history proves one thing,
+
+		everybody gotta chance --
+
+		Didn't yo' all ever hear of
+
+		David an' Goliath? -- 'Course
+
+		I woulda knocked out Goliath.
+
+				REPORTER #3
+
+		It is a coincidence that
+
+		you're fighting a white man on
+
+		the most celebrated day in the
+
+		country's history?
+
+				APOLLO
+
+		The same coincidence that he's
+
+		fightin' a black man.
+
+				REPORTER #1
+
+		What're your feelings about
+
+		the challenger?
+
+				APOLLO
+
+		He's Italian.
+
+				REPORTER #1
+
+		What does that mean?
+
+				APOLLO
+
+		It means if he can't fight, I
+
+		bet he can cook!
+
+Rocky and Adrian laugh at the interview... Paulie, her
+
+brother, takes offense.
+
+				PAULIE
+
+		Do me a favor -- His lungs,
+
+		punch 'em out.
+
+				ADRIAN
+
+		Paul.
+
+									57.
+
+Rocky's interview now fills the screen.  Rocky squints and
+
+looks nervous under the hot lights.
+
+				REPORTER #2
+
+		This is your largest payday
+
+		ever -- How do you feel about
+
+		it?
+
+				ROCKY
+
+		Feel?  I dunno... Happy.
+
+				REPORTER #2
+
+		How will you fight Apollo Creed?
+
+				ROCKY
+
+			(mind elsewhere)
+
+		Creed's great, ain't he...
+
+		I'll do what I can.
+
+				REPORTER #1
+
+		Where did you get the name,
+
+		'Italian Stallion?'
+
+				ROCKY
+
+		I thought of it 'bout eight
+
+		years ago, when I was eatin'
+
+		dinner.
+
+				REPORTER #2
+
+		Is it true the most you've
+
+		ever made in a prizefight is
+
+		five hundred dollars?
+
+				ROCKY
+
+		Four hundred -- But that was a
+
+		long time ago.
+
+				REPORTER #2
+
+		And now your payday will be
+
+		one hundred and fifty thousand
+
+		dollars.  Any comment?
+
+				ROCKY
+
+		Listen, I wanna say hi to my
+
+		girlfriend -- Yo, Adrian!
+
+Adrian blushes and laughs.
+
+				ADRIAN
+
+		Oh, Rocky!
+
+				PAULIE
+
+			(dry)
+
+		Christ.
+
+									58.
+
+				ADRIAN
+
+		You didn't!
+
+				ROCKY
+
+		Sure I did.  You heard.
+
+They continue to watch the remainder of the interview... The
+
+head COMMENTATOR is looking directly into the camera.
+
+				COMMENTATOR
+
+		A Bicentennial Fight --
+
+		January first.  It will be the
+
+		first sporting event on our
+
+		two hundredth birthday and is
+
+		already being called by many
+
+		the greatest farce in sports
+
+		history.  If this man lasts
+
+		more than a minute I would say
+
+		he's on borrowed time.
+
+			(sarcastically)
+
+		It's matches like this with
+
+		their exorbitant prices that
+
+		give sports a bad name -- Not
+
+		only is this match bad,
+
+		people, it's sad!  Why a Rocky
+
+		Balboa?  At the State Athletic
+
+		Commission, Larry Duggan
+
+		reporting.
+
+				PAULIE
+
+			(irate)
+
+		The guy's a friggin' moron.
+
+				ROCKY
+
+		Why?
+
+				PAULIE
+
+		Don't it matter none he's
+
+		makin' ya out a fool? -- I'd
+
+		break his lips.
+
+				ROCKY
+
+		It don't matter.
+
+				PAULIE
+
+		He's takin' cheap shots.
+
+				ROCKY
+
+		It don't bother me none.
+
+				PAULIE
+
+		Yo, Rock -- now ya'll be
+
+		lookin' for people to help,
+
+		right?
+
+									59.
+
+				ROCKY
+
+		Help what?
+
+				PAULIE
+
+		Y'know, to help keep ya livin'
+
+		clean.
+
+				ROCKY
+
+		I'll do okay.
+
+				PAULIE
+
+		Ya gotta have a guy help ya
+
+		exercise, mebbe somebody to be
+
+		standin' by with a towel or
+
+		run errands, y'know.
+
+				ROCKY
+
+		Hey, who cared about me
+
+		yesterday, huh?  Nobody -- I
+
+		think I'm gonna train myself.
+
+				PAULIE
+
+		Without havin' good people
+
+		around, ya won't have such a
+
+		good chance.
+
+Adrian is not happy with her brother's overbearing attitude.
+
+She faces him.
+
+				ADRIAN
+
+		Einstein flunked out of
+
+		school... twice.
+
+				PAULIE
+
+		That so.
+
+				ADRIAN
+
+		Roosevelt finished last in his
+
+		class -- Beethoven was deaf,
+
+		an' Helen Keller was blind --
+
+		I think Rocky has a good chance.
+
+INT. HALLWAY OF PAULIE'S APARTMENT - NIGHT
+
+Rocky stands in Adrian's doorway.  He kisses her.
+
+				ROCKY
+
+		See ya tomorrow.
+
+Rocky moves down the stairway and continues to do so as he
+
+converses with Adrian who remains upstairs.  His VOICE
+
+ECHOES up the stairwell.
+
+									60.
+
+				ROCKY
+
+			(continuing)
+
+		How'd ya like hearin' ya name
+
+		on TV?
+
+				ADRIAN
+
+		I don't know -- I was shocked.
+
+		Why did you do that?
+
+				ROCKY
+
+		Ya puttin' me on, right?
+
+				ADRIAN
+
+			(smiles)
+
+		Absolutely -- What time should
+
+		I expect you?
+
+				ROCKY
+
+		'Bout seven.
+
+				ADRIAN
+
+		I'll be waiting.
+
+Rocky is now on the ground floor yelling up to Adrian on the
+
+top floor landing.
+
+				ROCKY
+
+		Y'know how I said that stuff
+
+		on television didn't bother me?
+
+				ADRIAN
+
+		Yes.
+
+				ROCKY
+
+		It did.
+
+As Rocky completes the last word, he exits the building and
+
+slams the door which RESOUNDS throughout the apartment house.
+
+EXT. ATOMIC HOAGIE SHOP - NIGHT
+
+Gazzo, the bodyguard, and Rocky are standing out front.
+
+They are eating hot sandwiches.
+
+				ROCKY
+
+		Y'know I won't be able to work
+
+		for ya no more.
+
+				GAZZO
+
+		Hey -- if a good man can make
+
+		a better life, let him make it.
+
+				ROCKY
+
+		I feel bad about walkin'.
+
+									61.
+
+				GAZZO
+
+		Take your shot, kid -- You got
+
+		money for trainin' expenses?
+
+				ROCKY
+
+		A few bucks.
+
+Gazzo takes out a wad and peels off several bills.
+
+				GAZZO
+
+		Here's five hundred -- Put it
+
+		in your glove.
+
+				ROCKY
+
+		Do I have to pay juice?
+
+Gazzo looks at the Bodyguard and shakes his head as if to
+
+imply, "Why's this guy asking such a foolish question?"
+
+Gazzo and the bodyguard step to the white Caddy parked at
+
+the curb.  They enter the cab.  Rocky watches.
+
+INT. CAR - NIGHT
+
+				GAZZO
+
+			(smiles)
+
+		Does Santa Claus charge juice?
+
+		Merry Christmas -- Now, how's
+
+		about my present, ya gonna win?
+
+				ROCKY
+
+		Gonna try.
+
+				GAZZO
+
+		Listen, kid, I'm with ya.  Ya
+
+		know, I'm with ya -- Italian,
+
+		we're blood.  You kill this
+
+		rug -- We Guinneas gotta show
+
+		these Afro-Americans where
+
+		it's at.  Give it your best
+
+		shot cause I want ya to prove
+
+		to these bums on the corner
+
+		that my man can't be beat by
+
+		this rug... Ya got any action
+
+		on the side.
+
+				ROCKY
+
+		No action.
+
+				GAZZO
+
+		Ya gettin 150 grand killer.
+
+		Ya got any plans for it?
+
+		Whatta ya think?
+
+				(MORE)
+
+									62.
+
+				GAZZO (CONT'D)
+
+		Ya like to put it on the
+
+		street, make it work for ya?
+
+				ROCKY
+
+		I'm gonna do somethin with it.
+
+				GAZZO
+
+		Sure, you do what ya want.
+
+		Stay away from the stock market.
+
+				ROCKY
+
+		Black market?
+
+				GAZZO
+
+		Same thing.  Ya know, Rock,
+
+		remember when we was kids, we
+
+		fought together.  An' I wasn't
+
+		well an' ya had to beat up
+
+		that Irish kid -- what's his
+
+		name? -- Gallager -- I bought
+
+		a suit and became a businessman.
+
+		You put on gloves.  An' I
+
+		remember Mama almost cried,
+
+		may she rest in peace -- an'
+
+		our ol' man who said ya had no
+
+		brains -- I'd like to lay
+
+		hands on that bastard.  You
+
+		ain't never had any luck.
+
+		Even when I owned you in '66
+
+		you never had luck.  But now I
+
+		think you might be gettin'
+
+		some luck kid.  Whatta you
+
+		think?
+
+Rocky smiles and Gazzo gets into his car.  Rocky follows him
+
+across the street.
+
+				ROCKY
+
+		Yo, you gonna show, Tony?
+
+				GAZZO
+
+		Where else am I gonna go.
+
+			(to Bodyguard)
+
+		Bet three grand on Rocky.
+
+				BODYGUARD
+
+		He's a bum -- are you kiddin?
+
+				GAZZO
+
+			(slaps Bodyguard)
+
+		No!  I'm not kiddin!
+
+Rocky walks away.
+
+									63.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Rocky returns home and enters his apartment.  After turning
+
+on the light, he flips on his RECORD PLAYER.  He now feeds
+
+the turtles.
+
+				ROCKY
+
+		Look who's home!
+
+Rocky notices two telegrams laying inside the threshold.  He
+
+approaches them with a sense of awe.  He opens and reads one.
+
+Settling on the bed, he reads the other.
+
+A KNOCK is HEARD.  Rocky opens the door.  Mickey Goldmill,
+
+the gym owner, stands framed in the doorway.
+
+				MICKEY
+
+			(stiffly)
+
+		I seen the light.  I figure
+
+		somebody was home.
+
+				ROCKY
+
+		Hey, Mickey -- Whatta ya doin'
+
+		here?  Here, sit down.
+
+Rocky tosses soiled clothing off a mangled armchair.
+
+				ROCKY
+
+			(continuing)
+
+		Best seat in the house -- Hey,
+
+		Mick, this is too much.
+
+				MICKEY
+
+		How do you mean?
+
+				ROCKY
+
+		I'm usta seein' ya at the gym,
+
+		but seein' ya here, in my
+
+		house, it's kinda outta joint.
+
+By the manner in which Goldmill listens, it is obvious
+
+something important is preying on his mind.
+
+Rocky is slightly uncomfortable, almost embarrassed at
+
+having outsiders see how he lives.
+
+				MICKEY
+
+		Listen, Rock, you're a very
+
+		lucky guy.
+
+				ROCKY
+
+		Yeah.
+
+									64.
+
+				MICKEY
+
+		What's happened is freak luck.
+
+				ROCKY
+
+		Freak luck for sure.
+
+				MICKEY
+
+		Look at all them other fighters.
+
+		Real good boys.  Good records.
+
+		Colorful.  Fight their hearts
+
+		out for peanuts -- But who
+
+		cared?  Nobody.  They got it
+
+		shoved in their back door.
+
+		Nobody ever give them a shot
+
+		at the title...
+
+				ROCKY
+
+			(uneasy)
+
+		Freak luck is a strange thing.
+
+Mickey does not hear.  His attention is drawn to the turtles.
+
+				MICKEY
+
+		Whatta' those?
+
+				ROCKY
+
+		Turtles -- domestic turtles.
+
+				MICKEY
+
+			(businesslike)
+
+		I'm here tellin' ya to be very
+
+		smart with this shot.  Like
+
+		the Bible sez, ya don't get no
+
+		second chance.
+
+Mickey looks hard into Rocky's eyes.
+
+				MICKEY
+
+			(continuing)
+
+		Ya need a manager.  An advisor.
+
+		I been in the racket fifty
+
+		years.  I done it all, there
+
+		ain't nothin' about the world
+
+		of pugilism that ain't livin'
+
+		up here.
+
+He lights a half-smoked cigar.
+
+				ROCKY
+
+			(at a loss)
+
+		Fifty years, huh.
+
+									65.
+
+				MICKEY
+
+			(stronger)
+
+		Fifty years.  The rep is known
+
+		around Philly, an' a good rep
+
+		can't be bought, but I don't
+
+		have to tell you that.
+
+				ROCKY
+
+		How 'bout a glass of water?
+
+				MICKEY
+
+		Rocky, d'ya know what I done?
+
+				ROCKY
+
+			(uneasy)
+
+		... What?
+
+				MICKEY
+
+			(driving each
+
+			word hard)
+
+		I done it all.  I've done an'
+
+		seen everything'.  Believe
+
+		what I'm tellin' ya -- Ya
+
+		shoulda seen the night in
+
+		Brooklyn, I smacked 'Ginny'
+
+		Russo outta the ring, September
+
+		14, 1923 -- same night Firpo
+
+		knocked Dempsey outta the ring.
+
+		But who got the Press?  He did.
+
+		He had a manager -- September
+
+		14, 1923.
+
+				ROCKY
+
+			(softly)
+
+		Ya got a good mind for dates.
+
+Mickey deafly continues, becoming more engrossed every second.
+
+				MICKEY
+
+		Look at this face -- twenty-
+
+		one stitches over the left
+
+		eye, thirty-four over the
+
+		right -- my nose was busted
+
+		seventeen times, the last
+
+		being the Sailor Mike fight
+
+		New Year's Eve, 1940, in
+
+		Camden, New Jersey -- What a
+
+		professional pastin' I give
+
+		him.  Here, read about it.
+
+				(MORE)
+
+									66.
+
+				MICKEY (CONT'D)
+
+			(shows a tiny
+
+			press clipping;
+
+			points to
+
+			cauliflower ear)
+
+		An' he give me the vegetable
+
+		on the ear.  I got pain an'
+
+		experience... an' you got
+
+		heart -- kinda remind me of
+
+		Marciano, ya do.
+
+Rocky points to his most prized possession.
+
+				ROCKY
+
+		Nobody ever said that --
+
+		There's his picture.
+
+				MICKEY
+
+		Yeah, ya kinda remind me of
+
+		the Rock.  Ya move like 'im.
+
+Mickey has rung the bell.  Nothing could please Rocky more
+
+than being compared to his idol.
+
+				ROCKY
+
+		Really think so?
+
+				MICKEY
+
+		Ya got heart.
+
+				ROCKY
+
+		Heart, but I ain't got no
+
+		Tocker.
+
+Rocky shifts against the wall and lowers himself into a
+
+crouch.
+
+				MICKEY
+
+		Christ, I know this business.
+
+		Rocky, when I was fightin' it
+
+		was the dirtiest racket goin',
+
+		see.  Pugs like me was treated
+
+		like fightin' dogs -- throw ya
+
+		in the pit an' for ten bucks
+
+		ya try to kill each other.  We
+
+		had no management...
+
+				(MORE)
+
+									67.
+
+				MICKEY (CONT'D)
+
+		fought in boxcars, in
+
+		whorehouse basements, any
+
+		joint with a floor -- October
+
+		1931 I fought a bum who put a
+
+		tack in the thumb of his glove
+
+		an' punched so many holes in
+
+		my face I had spit shootin'
+
+		outta my cheeks -- I never had
+
+		no manager watchin' out for
+
+		me -- See that picture outside
+
+		the gym -- 'Mighty Mick,'
+
+		that's me in my prime.  I had
+
+		all the tools.  I coulda
+
+		starched any lightweight husky
+
+		on the East Coast -- But I had
+
+		no management.  Nobody ever
+
+		got to know how slick I was,
+
+		but I had a head for business
+
+		an' stashed a few bucks an'
+
+		opened the gym -- It's a dirt
+
+		hole, I know it, but that an'
+
+		a lotta scars is what I got to
+
+		show for fifty years in the
+
+		business, kid -- now you come
+
+		along with this shot an' I
+
+		feel like it's me gettin' the
+
+		shot I never got... Yeah, we
+
+		was treated like dogs -- like
+
+		them Dago's, no offense, in
+
+		the Colosseum in Rome there --
+
+		An' now I got all this
+
+		knowledge, I wanna give it to
+
+		ya so I can protect ya an'
+
+		make sure ya get the best deal
+
+		ya can!
+
+Rocky rises and opens a window.
+
+				MICKEY
+
+			(continuing)
+
+		Respect, I always dished ya
+
+		respect.
+
+				ROCKY
+
+		... Ya gave Dipper my locker.
+
+				MICKEY
+
+			(almost begging)
+
+		I'm sorry, I -- I made a
+
+		mistake.  Kid, I'm askin' man
+
+		to man.  I wanna be ya manager.
+
+									68.
+
+				ROCKY
+
+		The fight's set -- I don't
+
+		need a manager.
+
+				MICKEY
+
+		Look, you can't buy what I
+
+		know.  Ya can't.  I've seen it
+
+		all!  I got pain an' I got
+
+		experience.
+
+				ROCKY
+
+		I got pain an' experience too.
+
+				MICKEY
+
+		Please, kid.
+
+				ROCKY
+
+			(tightly)
+
+		Whatever I got, I always got
+
+		on the slide.  This shot's no
+
+		different.  I didn't earn
+
+		nothin' -- I got it on the
+
+		slide... I needed ya help
+
+		about ten years ago when I was
+
+		startin', but ya never helped
+
+		me none.
+
+Mickey drops the ashtray and kneels to pick it up... He
+
+remains on one knee.
+
+				MICKEY
+
+		If ya was wantin' my help, why
+
+		didn't ya ask?  Just ask.
+
+				ROCKY
+
+		I asked, but ya never helped
+
+		nothin'! -- Like the Bible
+
+		sez, ya don't get no second
+
+		chance.
+
+				MICKEY
+
+			(yells)
+
+		Rocky, I'm seventy-six years
+
+		old.  Maybe you can be the
+
+		winner I never was -- your
+
+		shot is my last shot!
+
+Rocky is choked and goes into the bathroom and closes the
+
+door.
+
+Mickey struggles to his feet and, like a beaten man, leaves.
+
+Several moments later Rocky steps out and lowers himself
+
+into bed.  Springing up a second later, he runs outside.
+
+									69.
+
+EXT. STREET OF ROCKY'S APARTMENT - NIGHT
+
+Rocky races up the block toward the shadowy and hunched form
+
+of Mickey.  Way in the distance, we SEE Rocky stop the old
+
+man beneath a street lamp.  He places an arm around his
+
+shoulder.
+
+INT. ROCKY'S APARTMENT - PRE-DAWN
+
+The following morning, Rocky's ALARM CLOCK GOES OFF at
+
+exactly four A.M.  Not accustomed to rising this early, with
+
+great difficulty Rocky staggers to his feet and wavers to
+
+the bathroom.  He turns the light on and roaches scatter.
+
+At the top of the mirror hang the telegrams.  Rocky fills
+
+the basin and submerges his face in cold water.
+
+Rocky sways to the icebox and removes a dozen eggs.  He
+
+cracks five raw eggs into a glass and downs it in one
+
+swill... his body quivers.
+
+EXT. STREET OF ROCKY'S APARTMENT - PRE-DAWN
+
+Rocky steps outside.  He is dressed in a well-worn sweat
+
+suit with a hood, gloves and sneakers.  It is pitch dark and
+
+his steaming breath attests to the cold.
+
+He begins running down the center of the deserted street.
+
+He can only be clearly SEEN as his form passes beneath the
+
+street lamps.
+
+Two garbage men stop hoisting cans to watch him pass.
+
+EXT. ART MUSEUM STAIRS - DAWN
+
+Rocky stands at the base of an overwhelmingly steep flight
+
+of stairs.  He stares up at the stairs that nearly disappear
+
+into the morning gray.  Taking a deep breath, he starts up.
+
+From the start, he looks out of shape and halfway up his
+
+legs give way.  Standing, he brushes off and descends the
+
+stairs.
+
+EXT. CITY HALL - DAWN
+
+Rocky passes City Hall and veers to the river.  He pauses,
+
+heaving great gusts of exhausted breaths.  He throws several
+
+lazy jabs in the air and walks awhile with hands on his
+
+aching sides.  Men delivering the morning papers observe
+
+with amusement.
+
+Rocky forces himself to begin running again.
+
+									70.
+
+EXT. ELEVATED TRAIN STATION - DAWN
+
+Heading along Spring Garden Street, Rocky passes beneath an
+
+elevated train station.  The ROARING TRAIN overhead seems to
+
+blend perfectly with his muscular running style.
+
+EXT. DOCKS - DAWN
+
+The sky is beginning to lighten.  The fighter now runs along
+
+the piers and past anchored freighters.
+
+EXT. EASTERN PACKING COMPANY - DAWN
+
+It is five-thirty and Rocky approaches the loading platform
+
+belonging to Eastern Packing Company.  Alongside the loading
+
+platform come several boxcars.
+
+Rocky mounts the ramp and knocks on the metal door.  It soon
+
+opens and Paulie guides him inside.  Paulie is drunk.
+
+INT. SHIPPING OFFICE - DAY
+
+				PAULIE
+
+		How ya feelin'?
+
+				ROCKY
+
+			(panting)
+
+		... Tight.
+
+				PAULIE
+
+		I got whiskey here.
+
+				ROCKY
+
+		... No.
+
+Rocky notices TWO PUERTO RICANS lounging alongside theshipping office.
+
+				PAULIE
+
+		This is the guy who's fightin'
+
+		Apollo Creed.
+
+				JOSE
+
+			(heavy accent)
+
+		Good luck -- Kill him, man.
+
+				PAULIE
+
+			(as though
+
+			rehearsed badly)
+
+		Hip -- Hip -- Hooray!  C'mon --
+
+		Hip -- Hip --
+
+									71.
+
+				JOSE
+
+			(walks away)
+
+		Hooray, man.
+
+				PAULIE
+
+		Rock'll be comin' by every
+
+		mornin' to pick up some
+
+		Prime -- can't train on that
+
+		store crap.
+
+Rocky smiles and Paulie leads him out of the office and to
+
+the large metal door of a walk-in refrigerator.
+
+INT. FREEZER - DAY
+
+They enter.  The freezer resembles a modern torture chamber...
+
+row after row of hanging slabs of beef stretch into the
+
+darkness to the far end of the refrigerator.  The blower
+
+overhead causes the men to speak loudly.
+
+				PAULIE
+
+			(teasing)
+
+		If ya don't pay Gazzo, ya end
+
+		up hangin' on the hook, right?
+
+				ROCKY
+
+		Gazzo's a good man.
+
+				PAULIE
+
+		How 'bout you talk to 'em
+
+		about me?
+
+			(tightly)
+
+		Please do me that favor.
+
+				ROCKY
+
+		Keep this job, ya eat better.
+
+Paulie opens a jackknife and idly jabs the hanging meat.  He
+
+swills whiskey from a pint bottle.
+
+				PAULIE
+
+		Y'know, d'ya think you an' my
+
+		sister -- Ah, doin' good
+
+		together?
+
+				ROCKY
+
+		Whatta you think?
+
+				PAULIE
+
+		Ain't sure, what's the story?
+
+				ROCKY
+
+		What?
+
+									72.
+
+				PAULIE
+
+		The story -- what's happenin'?
+
+Paulie speaks like a man who has been mulling this over for
+
+quite a while.
+
+				PAULIE
+
+			(continuing)
+
+		Ya really like her?
+
+				ROCKY
+
+		Sure I like her.
+
+				PAULIE
+
+			(nervous laughter)
+
+		What's the attraction?  I
+
+		don't see it?
+
+				ROCKY
+
+		I dunno -- she fills gaps.
+
+				PAULIE
+
+		What gaps?
+
+				ROCKY
+
+			(shrugs and
+
+			takes meat)
+
+		She got gaps.  I got gaps --
+
+		together we fill the gaps.
+
+				PAULIE
+
+			(sharply)
+
+		You ballin' her?
+
+				ROCKY
+
+			(turns around)
+
+		Don't talk dirty 'bout ya
+
+		sister.
+
+				PAULIE
+
+			(tersely)
+
+		C'mon, ya screwin' her?
+
+From across the room Rocky looks him hard in the eyes.
+
+				ROCKY
+
+		That's why I can't put ya
+
+		together with Gazzo, cause ya
+
+		talk too much -- big mouth.
+
+Paulie reddens.  He steps forward and slams his fists in a
+
+hanging beef.
+
+									73.
+
+The punching of the beef is a muted challenge and Rocky
+
+responds.
+
+Rocky walks up to a beef and slams his fist into the ribs.
+
+The grotesque object swings in a wide arc like a hanging
+
+corpse.  Rocky moves to the next one and hooks.
+
+Rocky's face reveals a never before seen concentration, as
+
+though he were locked in total battle.
+
+				PAULIE
+
+		Hit the rump.  The rump!
+
+		Ya'll break the ribs!
+
+Rocky speeds up and continues pounding on the second row of
+
+beef.  Paulie's eyes widen and his face grimaces with every
+
+punch, like he were receiving it.  Rocky moves into the dark
+
+recess of the refrigerator.  Only the dull SOUNDS of his
+
+POUNDING FISTS can be HEARD.
+
+Rocky works his way to Paulie again.  Every hanging beef
+
+swings and appears surrealistically alive.
+
+				PAULIE
+
+			(continuing)
+
+		We do that to Creed an'
+
+		they'll take us to jail for
+
+		murder.
+
+Rocky looks at his hands.  They are drenched in red up to
+
+the elbows with beef blood.
+
+Paulie hands him a package of beef.
+
+				ROCKY
+
+		Don't talk dirty 'bout ya
+
+		sister.
+
+Rocky takes the package and runs out.  Paulie's bleary eyes
+
+reveal a fearful respect and slight resentment.
+
+INT. GOLDMILL'S GYM - DAY
+
+The gym is filled to capacity.  The NOISE is DEAFENING.
+
+Rocky pounds a heavy bag.
+
+Mickey steps forward and removes a piece of string from his
+
+pocket.
+
+									74.
+
+				MICKEY
+
+			(passionate)
+
+		Stop!  Stop!  I can't stand it!
+
+		It's clumsy.  You're off
+
+		balance.
+
+He motions to his bullish helper, Mike.  He hands him the
+
+string.
+
+				MICKEY
+
+			(continuing)
+
+		Tie it to both ankles -- Leave
+
+		two feet slack.
+
+				ROCKY
+
+		I never had good footwork.
+
+Mike completes the task.
+
+				MICKEY
+
+		Forget the footwork -- You're
+
+		off balance.  The legs are
+
+		sticking everywhere.  Marciano
+
+		had the same problem, an' the
+
+		string cured it.  When you can
+
+		hit and move without breakin'
+
+		the string you'll have balance.
+
+				MIKE
+
+		You'll be a very dangerous
+
+		person.
+
+Two young boys in street clothes interrupt Mickey.
+
+				BOY
+
+		Rocky, could we have your
+
+		autograph?
+
+				ROCKY
+
+		... Sure.
+
+				MICKEY
+
+			(irate)
+
+		Don't you boys ever interrupt
+
+		when I'm conductin' business,
+
+		or I'll kill you both -- Go
+
+		away.
+
+The boys depart.
+
+									75.
+
+				MICKEY
+
+			(continuing)
+
+		Autographs!  Ya wanna be a
+
+		writer or a fighter?  Let's
+
+		work.
+
+Mike looks off across the gym.
+
+				MIKE
+
+		... we got visitors.
+
+Mickey strains his eyes to see a group of REPORTERS and NEWS
+
+CAMERAMEN entering his gym.
+
+				MICKEY
+
+			(approaching)
+
+		Can I help you guys?
+
+				REPORTER
+
+			(to Cameraman)
+
+		Set the camera up over there.
+
+			(to Mickey)
+
+		We're from Channel Seven --
+
+		Covering the pre-fight training.
+
+				MICKEY
+
+		I own the place.
+
+The Reporter has a hundred things on his mind... he turns
+
+from Mickey and nods to his crew... the other television
+
+crews rush to set up.
+
+				CAMERAMAN
+
+		Rolling here.
+
+				SOUND MAN
+
+		Speed here.
+
+				REPORTER
+
+			(to the camera)
+
+		We're here at Goldmill's
+
+		Gym -- A Philadelphia landmark
+
+		of sorts since 1929 -- The
+
+		stench of toil permeates every
+
+		corner.  The sweat a trademark
+
+		of a unique profession... Yet,
+
+		the most unique fixture is an
+
+		unprecedented 50 to 1 underdog
+
+		heavyweight named, Rocky Balboa.
+
+The camera turns to Rocky.
+
+									76.
+
+				ROCKY
+
+			(to Mickey)
+
+		Should I do this?
+
+Mickey nods and Rocky faces the glaring lights.
+
+				REPORTER
+
+		So much has happened lately --
+
+		Has it changed your life style
+
+		much?
+
+				ROCKY
+
+		... People talk to me more.
+
+				REPORTER
+
+		How're you preparing for this
+
+		Bicentennial bout?
+
+A young punchy fighter yells out:
+
+				FIGHTER
+
+		Readin' fuckin' history books,
+
+		man!
+
+The gym explodes with laughter.
+
+				REPORTER
+
+			(flushed)
+
+		We can cut that out later.
+
+		Apollo Creed says he'll let
+
+		you stay three rounds before
+
+		he puts you away.
+
+				ROCKY
+
+			(honestly)
+
+		Apollo's a great fighter.
+
+				REPORTER
+
+		Do you feel you have a chance?
+
+				ROCKY
+
+		Maybe --
+
+He faces Mickey.  Mickey whispers in his ear.
+
+				ROCKY
+
+			(continuing)
+
+		I'll tear his head off.
+
+				REPORTER
+
+		Do you have anything derogatory
+
+		to say about the Champion?
+
+									77.
+
+				ROCKY
+
+		Derogatory?  Yeah, he's great.
+
+Apollo Creed and his entourage enter the gym.
+
+				APOLLO
+
+			(bellowing)
+
+		I am the Champion of the whole
+
+		world!!!
+
+The gym freezes... everyone turns and stares in wonderment...
+
+Mickey Goldmill shakes his head in disbelief.  He now
+
+realizes it is a publicity stunt.
+
+				APOLLO
+
+			(continuing)
+
+			(approaching Rocky)
+
+		Italian Stallion, I come over
+
+		to tell you to be very smart
+
+		an' after this fight donate
+
+		what's gonna be left of your
+
+		body to science, cause after
+
+		this fight what's left won't
+
+		fill a tuna fish can!... So
+
+		beware, Mon Cher!!!
+
+Apollo turns to the cameras... Rocky is speechless.
+
+				APOLLO
+
+			(continuing)
+
+		This classic fight -- Tha's
+
+		right, this bicentennial
+
+		fight's goin' down in the
+
+		history books 'cause January
+
+		first I'm gonna be the first
+
+		man to bounce another man offa
+
+		the planet Pluto!
+
+Dipper stands in the far ring... the attention Rocky is
+
+receiving makes him a killer.
+
+				APOLLO
+
+			(continuing)
+
+		Now I gots a special
+
+		announcement, y'hear.  For the
+
+		first time in alotta years
+
+		this championship fight is
+
+		gonna be on your home T.V.!
+
+		Free -- 'Course that's just
+
+		for Philly -- My present to
+
+		the city...
+
+				(MORE)
+
+									78.
+
+				APOLLO (CONT'D)
+
+		Now some ya'll ain't much on
+
+		likin' me, but ya gotta admit
+
+		Apollo Creed is one DAMN
+
+		generous, 100% pure, government
+
+		inspected, Afro-American Folk
+
+		Hero!!!
+
+Everyone laughs... Dipper moves across the room like a large
+
+snake.  He brushes people aside and steps behind Rocky.  He
+
+nudges him... Rocky thinks it is an accident and ignores it.
+
+Dipper pushes harder and Rocky looks questioningly at him.
+
+				DIPPER
+
+			(loud)
+
+		Ya nothin', Boy!
+
+Apollo stops his sales pitch in mid-sentence... The
+
+television crew faces Dipper.
+
+				DIPPER
+
+			(continuing)
+
+		I say ya nothin'!
+
+				MICKEY
+
+		What's happenin' here?
+
+				DIPPER
+
+		I'm happenin'!  This pig is
+
+		takin' my shot -- I iz a
+
+		contender.  He's nothin'.
+
+				ROCKY
+
+			(dumbstruck)
+
+		Yo', Dipper, why're ya --
+
+				DIPPER
+
+			(shaking his fist)
+
+		Spar me in front of these here
+
+		TV dudes -- I knock ya ass to
+
+		Jersey!
+
+Dipper's fat black trainer holds out his hands and Dipper
+
+slaps them soul style.
+
+				MICKEY
+
+			(to Dipper)
+
+		You can forget about sparring,
+
+		kid.
+
+				DIPPER
+
+		Yo' know I iz the best man
+
+		here!  Yo' said so yoself!
+
+									79.
+
+				MICKEY
+
+			(almost
+
+			apologetically
+
+			to the crew)
+
+		Why let Rocky here take a
+
+		chance on cuttin' or breakin'
+
+		a hand? -- Take a shower,
+
+		Dipper.
+
+				DIPPER
+
+		Don't mouth me, old man, I'll
+
+		knock yo' out too.  C'mon,
+
+		wop, spar me, let everybody
+
+		see who's got the heat around
+
+		here.
+
+Silence looms over the gym... Apollo is apprehensive.  The
+
+scene is becoming too real.  The frightened television crew
+
+slyly begins putting away their expensive equipment.
+
+				DIPPER
+
+			(continuing; insanely)
+
+		Man, yo' best keep them
+
+		cameras out!  Fight me, boy!
+
+		Let Creed here see the kind of
+
+		punk he's fightin'!
+
+Mike forces his way through the crowd and stands behind Rocky.
+
+				MIKE
+
+		Don't chance it, man -- He's
+
+		sick.
+
+				MICKEY
+
+		This is gettin' outta hand --
+
+		Rocky will fight in the ring
+
+		January first, not here!
+
+				DIPPER
+
+		Yo' yellow, old man.
+
+				MICKEY
+
+		Not yellow, cautious.
+
+			(to the crew)
+
+		See, it's very easy for a
+
+		fighter to accidentally hurt --
+
+Dipper suddenly steps forward and slaps Rocky very hard
+
+across the side of the head... The gym becomes stone cold.
+
+Dipper is in total command and enjoying every moment of it.
+
+									80.
+
+				DIPPER
+
+		If yo're afraid to fight me,
+
+		then get down an' kiss my
+
+		feet, boy.
+
+Mickey looks nervously around and knows it's only seconds
+
+before the blood will run... Rocky stands motionless.
+
+				MICKEY
+
+			(softly)
+
+		Let's take a walk, Rock.
+
+		Please, don't take a chance.
+
+		He wants to hurt you so you
+
+		can't fight.
+
+Rocky swallows his pride.  He still has the string around
+
+his ankles.  He starts to shuffle away with Mickey... Dipper
+
+steps forward and viciously slaps Rocky again.
+
+Mike jumps forward.
+
+				MIKE
+
+		Why you tryin' to cut 'im, man!
+
+		Back off, scumbag, or I'll
+
+		bite your face!
+
+Dipper cuts loose with a hook and knocks Mike flat.  The
+
+room reeks of fear... Apollo's eyes flick back and forth
+
+between Rocky and Dipper.  Apollo taps his bodyguards and
+
+they begin to ease away.
+
+				DIPPER
+
+		... Now, boy, kiss my feet.
+
+Rocky eyes his friend lying on the floor.  He shuffles
+
+forward and stands before Dipper.
+
+				DIPPER
+
+			(continuing;
+
+			almost in a whisper)
+
+		... Kiss 'em.
+
+Rocky looks at Mickey, then lowers his eyes to Dipper's
+
+feet... Dipper smiles.  Rocky starts to bend towards the
+
+shoes.  Without warning, he explodes with a pair of
+
+combinations into Dipper's exposed ribs.  A CRACK is HEARD
+
+and Dipper sinks to the floor writhing in pain... The room
+
+is silent except for Dipper's moaning.
+
+Apollo is stunned by the scene.  The gym has become a very
+
+gloomy place.  He eyes Rocky with admiration and a hint of
+
+apprehension... He leaves.
+
+									81.
+
+Mickey is the first one to shake off the chill... He shakes
+
+his fists at the Reporters, and puts his arm around Rocky.
+
+				MICKEY
+
+		The kid's got cannons -- Print
+
+		that.
+
+The crowd disperses, leaving Dipper a pathetic and broken
+
+figure lying on a dirty gym floor.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+They enter the dismal apartment... On the floor are at least
+
+ten telegrams.  Rocky scoops them up and tosses them aside.
+
+Next to the door is a pile of over a hundred telegrams.
+
+				ADRIAN
+
+		Don't you open them anymore?
+
+				ROCKY
+
+		They either say, 'Kill the
+
+		nigger' or 'Hope you die,
+
+		Honky.' -- What ya got in the
+
+		bag?
+
+Adrian steps to the window.  She pulls a pair of short but
+
+lovely curtains from a shopping bag... The colorful curtains
+
+glare in the dark room.
+
+				ADRIAN
+
+		Like?
+
+				ROCKY
+
+		Sharp -- Real nice.
+
+				ADRIAN
+
+		Really -- You don't think
+
+		they're overly feminine?
+
+				ROCKY
+
+		No... Sharp -- You look great.
+
+Adrian smiles and pulls out a small Christmas wreath...
+
+Rocky smiles.  His eyes show what he feels for this woman.
+
+				ROCKY
+
+		Adrian, you really look great,
+
+		y'know -- But I can't fool
+
+		around durin' trainin' --
+
+		makes the legs weak.
+
+				ADRIAN
+
+		Don't want weak legs.
+
+									82.
+
+				ROCKY
+
+		Can't fool around -- You look
+
+		very great.
+
+				ADRIAN
+
+		-- The legs.
+
+				ROCKY
+
+		Yeah... But I think weak legs
+
+		ain't bad sometimes, y'know.
+
+Rocky approaches in a seductive manner.  Adrian
+
+uncharacteristically removes her sweater.  Underneath is a
+
+T-shirt that reads "Win, Rocky, Win."
+
+				ADRIAN
+
+		I thought it might be cute.
+
+				ROCKY
+
+		Ya right --
+
+			(laughs)
+
+		Mebbe we best just hold
+
+		hands -- the shirt made me
+
+		feel guilty, y'know.
+
+SCENE FADES.
+
+EXT. STREET - PRE-DAWN
+
+Rocky is running... for extra weight he carries his huge
+
+dog, Butkus.  After a half a block he sags under the weight,
+
+and laughing, begins to wrestle with the dog on the
+
+pavement... Rocky tries to sneak away from the dog, but
+
+after a few steps the beast sees him and chases him down the
+
+street.
+
+EXT. EASTERN PACKING COMPANY - DAWN
+
+It is early morning and as usual Rocky jogs to the meathouse.
+
+He is followed by his new dog, Butkus.  He is stopped short
+
+when he notices several television news vans parked out front.
+
+INT. EASTERN PACKING COMPANY - DAWN
+
+He and the dog enter the freezer area and see several
+
+reporters and men with mini-cameras milling around... Paulie
+
+is waiting for him -- Rocky is upset and goes outside.
+
+Paulie follows.
+
+									83.
+
+EXT. EASTERN PACKING COMPANY - DAWN
+
+				PAULIE
+
+		Yo, Rock.  I made a few phone
+
+		calls an' thanks to me ya
+
+		goin' to be a big man --
+
+		Thatta dog?
+
+				ROCKY
+
+		Whatta these guys want?
+
+				PAULIE
+
+		To see ya train.
+
+				ROCKY
+
+		Yo, what's with you? -- It was
+
+		suppose to be private.
+
+				PAULIE
+
+		I thought I was doin' ya a
+
+		favor -- C'mon inside --
+
+		Y'know, my sister really likes
+
+		ya.
+
+Rocky follows Paulie inside.
+
+INT. EASTERN PACKING COMPANY - DAY
+
+A REPORTER points in Rocky's direction and suddenly he is
+
+surrounded and led into the freezer area and positioned
+
+beside a slab of hanging beef.  The camera lights go on.
+
+				COMMENTATOR
+
+		Just relax, Mr. Balboa --
+
+			(to the camera)
+
+		Today we're here with
+
+		heavyweight challenger, Rocky
+
+		Balboa.  The reason we are
+
+		standing in a refrigerated box
+
+		is that Mr. Balboa has an
+
+		unusual method of training and
+
+		in a moment he is going to
+
+		demonstrate it for our viewing
+
+		audience -- But first, Rocky,
+
+		how did you ever come to train
+
+		in an icebox?
+
+				ROCKY
+
+		Ah -- My buddy Paulie let me
+
+		in one day an' I hit the beef
+
+		here an' liked it -- An' since
+
+		I become a challenger, the
+
+		owner don't mind neither.
+
+									84.
+
+				COMMENTATOR
+
+		Is this a common training
+
+		method -- I mean do other
+
+		fighters pound raw meat?
+
+				ROCKY
+
+		I think me and Paulie invented
+
+		it.
+
+				COMMENTATOR
+
+		Would you give us a
+
+		demonstration?
+
+Rocky steps over to a hanging beef and begins pounding with
+
+incredible intensity... Everyone present is taken aback.
+
+Rocky completes hitting the meat and stands there with his
+
+hands dripping beef blood.
+
+The Commentator is unnerved and Rocky looks straight into
+
+the camera lens and holds up his bloody fists.
+
+				COMMENTATOR
+
+		... Diane Lewis in the
+
+		meathouse with the Southpaw,
+
+		Rocky Balboa.
+
+INT. JERGENS' OFFICE - DAY
+
+Apollo sits behind Jergens' desk.  Jergens is not present.
+
+Four middle-aged and younger types and Creed's lawyer sit
+
+around the desk.  The desk is flowing with forms and charts.
+
+				APOLLO
+
+		How much is being channeled
+
+		into West Coast closed-circuit
+
+		advertising?
+
+				LAWYER
+
+		Three hundred thousand.
+
+				APOLLO
+
+		Make it four hundred an' fifty.
+
+			(to younger man)
+
+		Send two hundred roses to the
+
+		mayor's wife from me, get a
+
+		picture an' make sure it gets
+
+		all the papers.
+
+				BUSINESSMAN #3
+
+		Do ya want to run the fifteen
+
+		radio spots in the mid-west?
+
+		I think you could spend the
+
+		money better in Canadian
+
+		publicity.
+
+									85.
+
+				APOLLO
+
+		Yeah, I'd like to get Canada --
+
+		see, if we can get a tax
+
+		break -- Gimme the figures on
+
+		the Program Concession.
+
+Meanwhile, the trainer sits across the room in a darkened
+
+corner looking at a small television.  He is watching
+
+Rocky's bloody exhibition on the news...
+
+He waves at Apollo.
+
+				TRAINER
+
+			(worried)
+
+		Apollo, you oughta come see
+
+		this boy you're gonna fight on
+
+		TV -- looks like he means
+
+		business.
+
+Apollo is still engrossed in his paperwork.
+
+				APOLLO
+
+		I mean business, too --
+
+			(to men)
+
+		The gross rental of the arena
+
+		is gonna include the four
+
+		hundred ushers, right? --
+
+		Gimme some coffee.
+
+EXT. PAULIE'S STREET - NIGHT
+
+It is a moonless night and Paulie staggers across the street
+
+and enters his building... He staggers up the stairs.
+
+INT. PAULIE'S APARTMENT - NIGHT
+
+Paulie removes his coat and tosses it listlessly in a
+
+chair... He rubs his red eyes and sways into the kitchen.
+
+He takes a bottle of wine out of the icebox.  As he swills
+
+the wine he hears the SOUND of Rocky's and Adrian's VOICES
+
+traveling from his sister's room.  Paulie's face tightens
+
+and he staggers towards the bedroom.
+
+He stands outside the bedroom door and peers through a
+
+crack... Rocky, Adrian, and the dog are watching TV in the
+
+otherwise darkened room.
+
+				ADRIAN
+
+		... And he called the
+
+		reporters --
+
+				ROCKY
+
+		Yeah... Threw my whole day off.
+
+									86.
+
+				ADRIAN
+
+		Don't be mad at him -- He just
+
+		wants to help.
+
+				ROCKY
+
+		Yo -- I ain't mad.  I'm just
+
+		outta joint when reporters are
+
+		around -- They take cheap
+
+		shots an' Paulie knows it.
+
+				ADRIAN
+
+		... Are you going to say
+
+		anything to him?
+
+				ROCKY
+
+		... What's to say?  I dunno
+
+		what he wants from me --
+
+Filled with uncontrollable anger, Paulie smashes into the
+
+room.
+
+				PAULIE
+
+		Nothin'!  I want nothin' from
+
+		you!!!
+
+				ADRIAN
+
+		Paulie!
+
+				PAULIE
+
+		Shutup!  I want nothin' -- I
+
+		ain't no charity case!  Get
+
+		outta my house!
+
+				ADRIAN
+
+		It's not your house --
+
+				PAULIE
+
+		You ain't no friend no more --
+
+		Go home!  Outta my house I
+
+		want ya!
+
+				ADRIAN
+
+		Don't talk like that to him!
+
+				PAULIE
+
+		Get outta my life both of ya's.
+
+Paulie kicks the door out of frustration and appears to be
+
+bordering on a nervous breakdown.
+
+				PAULIE
+
+			(continuing)
+
+		Outta my house I want ya!!
+
+									87.
+
+				ROCKY
+
+		... It's cold outside, Paulie.
+
+Paulie goes to the living room closet and removes a baseball
+
+bat... Rocky and Adrian quickly follow.
+
+				PAULIE
+
+		I don't want ya messin' up my
+
+		sister no more -- He's scum
+
+		from the corner, I don't raise
+
+		ya to hang with no bum!
+
+Adrian is speechless... Rocky moves towards Paulie.
+
+				PAULIE
+
+			(continuing;
+
+			raising the bat)
+
+		... Wanna hit on me?  C'mon --
+
+		C'mon, I'll break both ya arms
+
+		so's they never work...
+
+Rocky freezes...
+
+				ADRIAN
+
+		... Paulie.  Stop now!
+
+				PAULIE
+
+		I want 'im outta here --
+
+			(to Rocky)
+
+		Don't think I'm good enough to
+
+		work for Gazzo?
+
+			(spits)
+
+		That's what I think of bums
+
+		like you an' Gazzo!
+
+			(spits again)
+
+		You're goin' up an' don't care
+
+		enough to throw Paulie some
+
+		crumbs!
+
+			(spits)
+
+		I give ya meat, an' I give ya
+
+		my sister, too!
+
+				ADRIAN
+
+		Only a pig would say that!
+
+Paulie smashes a small table with the bat.
+
+				PAULIE
+
+			(to Adrian)
+
+		You forget what I went through
+
+		to give ya the best.
+
+									88.
+
+				ADRIAN
+
+		You gave me what?!  Knots!
+
+		You gave me knots in here
+
+		every day -- you made me
+
+		scared of everything!
+
+				PAULIE
+
+		I always seen ya had the best,
+
+		but did ya ever think of
+
+		puttin' in a good word for me
+
+		with this scumbag!
+
+Paulie smashes a large lamp with the bat.
+
+				ADRIAN
+
+		Don't do that again!
+
+				PAULIE
+
+		Get away from me -- I could
+
+		never even get married 'cause
+
+		you couldn't live by yaself --
+
+		ya'd die by yaself!  So
+
+		instead I put you two
+
+		together -- Did ya think of
+
+		puttin' in a good word for
+
+		me? -- You owe me!
+
+				ADRIAN
+
+		Owe you what?
+
+				PAULIE
+
+		You owe me an' are supposed to
+
+		treat me good!
+
+				ADRIAN
+
+		Good?  Good, Paulie?!  I've
+
+		been treatin' you like a baby.
+
+		Since I can't remember it's so
+
+		long -- I'm the only one who
+
+		feeds you an' puts you in bed
+
+		when ya can't stand up -- and
+
+		it's you that made me feel
+
+		like a loser -- That's what ya
+
+		use to call me 'Loser' -- What
+
+		kind of name is that?  So can
+
+		ya blame me for not remembering
+
+		to talk about you when I'm
+
+		with Rocky -- I don't owe you,
+
+		Paulie, you owe me.
+
+The brother flares up and threatens Adrian with the bat.
+
+				PAULIE
+
+		You busted?!
+
+									89.
+
+				ADRIAN
+
+		What?!
+
+				PAULIE
+
+		You a virgin? -- Ya let 'im in
+
+		ya pants, didn't ya!  Ya
+
+		pulled down ya pants an' let
+
+		him have it, didn't ya!!
+
+Mortified, Adrian runs to her room... Rocky steps to Paulie.
+
+				ROCKY
+
+			(fuming)
+
+		Hey --
+
+Paulie cocks the bat back and tenses... Rocky remains still.
+
+				PAULIE
+
+			(softly)
+
+		... I can't haul meat no more.
+
+				ROCKY
+
+		What can I do about it?
+
+				PAULIE
+
+		Christ, I been beggin' ya for
+
+		a break until I'm sick inside.
+
+				ROCKY
+
+		What break?  Huh?  What break!
+
+		Who am I to give breaks!  I'm
+
+		a fighter, you haul meat.  You
+
+		do what you do an' I do what I
+
+		do best -- that's it -- that's
+
+		life, man!
+
+Paulie looks ashamed... Rocky walks, then returns.
+
+				ROCKY
+
+			(continuing)
+
+		... An' what ya said to my
+
+		girlfriend ain't right -- Do
+
+		it again, I'll kill ya.
+
+Rocky goes into the bedroom... Adrian has buried her face in
+
+a pillow... She is rocking slightly.  Rocky cradles her and
+
+kisses her cheek.
+
+				ROCKY
+
+			(continuing)
+
+		Wanna hear a dirty joke?
+
+									90.
+
+				ADRIAN
+
+			(smiles)
+
+		... Yes --
+
+INT. MICKEY'S OFFICE - DAY
+
+Mickey is in his cluttered office above the gym... the room
+
+is dark.  Blankets are tacked over the windows.  Rocky is
+
+watching 8 mm movies of Apollo Creed in action... Rocky
+
+watches with intense concentration as the fighter moves like
+
+a huge dancer around the ring.
+
+				MICKEY
+
+		His defense is great, can't
+
+		lie 'bout that -- You have a
+
+		rollin' style.  Can't retreat
+
+		as fast -- But your style
+
+		ain't retreatin'.
+
+They both watch the flickering images.
+
+				MICKEY
+
+			(continuing)
+
+		See how he plays sometimes --
+
+		Drives his cornermen nuts.
+
+		Nobody knows his next move --
+
+		Him included.
+
+They watch more action... Creed has a fighter helpless
+
+against the ropes.
+
+				MICKEY
+
+			(continuing)
+
+		Killer instinct -- Ya both got
+
+		the killer touch.  Interestin'.
+
+		See that! -- Right-cross
+
+		combination.  Beautiful.  But
+
+		you got the power to rip the
+
+		body.
+
+They watch more action.
+
+				MICKEY
+
+			(continuing)
+
+		Rocky, when ya climb into the
+
+		square, an' know ya' meetin'
+
+		the best fighter in the world,
+
+		ya' gonna be ready, ya' gonna
+
+		be ready 'cause I been waitin'
+
+		for fifty years -- Fifty years.
+
+		When I'm done with you, you'll
+
+		gonna be able to spit nails.
+
+				(MORE)
+
+									91.
+
+				MICKEY (CONT'D)
+
+		You'll gonna be able to eat
+
+		lightin' and crap thunder --
+
+		You'll be a very, very
+
+		dangerous person...
+
+The SCENE FADES on Mickey's voice and Rocky staring
+
+transfixed at the images projecting on the wall...
+
+INT. GOLDMILL'S GYM - DAY
+
+Rocky is pounding the heavy bag with intense concentration.
+
+As he strikes from all angles, Mickey instructs.
+
+INT. GOLDMILL'S GYM - LATER
+
+Rocky now works on the incline situp board... While doing
+
+situps, he pounds himself in the stomach with a dumbbell.
+
+The pain is evident on his face.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Pushups between two chairs as Mike sits on his shoulders...
+
+Mickey coaching drives him on.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Mike has on a pair of target gloves and Rocky moves around
+
+the ring swinging at them.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Drenched in sweat, Rocky hums the speed bag.  His expression
+
+is hard and flushed.  Mickey clicks a stopwatch and pats
+
+Rocky's shoulder... He is very happy.
+
+INT. GOLDMILL'S GYM - STILL LATER
+
+Rocky has just completed exercising with the medicine ball...
+
+Dino hands him a towel... Paulie crosses the gym as Rocky
+
+heads to the steam room... A thin man crosses the gym and
+
+Mickey nods.
+
+				MICKEY
+
+		What cha say, Benny -- Meet
+
+		'The Rock.' This is our
+
+		cutman, Benny Stein.
+
+				ROCKY
+
+		Yo, Benny.
+
+				MICKEY
+
+		Check the eyes, Ben.
+
+									92.
+
+Benny checks the skin around Rocky's eyes.
+
+				BENNY
+
+		Ain't bad.  Seen worse --
+
+		Cover up an' things should be
+
+		okay.
+
+				MICKEY
+
+		Take a shower.
+
+Heading towards the shower, Rocky is intercepted by Paulie
+
+who traverses the gym.  He stops Rocky at the shower room
+
+entrance.
+
+				PAULIE
+
+		Yo, Rock, I think I found an
+
+		angle to make some bread usin'
+
+		ya name, ya mind?
+
+Exhausted, Rocky studies Paulie's face a moment and nods
+
+'yes.'... Rocky sways into the shower room and Paulie
+
+strides off.
+
+EXT. STREET - DAY
+
+Running... Rocky's crowd of trailing boys has tripled.
+
+Dashing through the streets, he resembles the Pied Piper.
+
+EXT. ART MUSEUM STAIRS - DAY
+
+It is twilight and Rocky is alone at the very bottom of a
+
+huge flight of steps that seem to stretch into the heavens...
+
+Rocky takes a deep breath and sprints up the never-ending
+
+stairs... Halfway up, his body shows the strain.  Nearing
+
+the top, Rocky pumps with all his strength and arrives at
+
+the very top... He looks down the steep stairs and swells
+
+with pride... He is ready.
+
+INT. MAYOR'S OFFICE - DAY
+
+Rocky is led into Mayor Rizzo's office by an aide... Rocky
+
+is very nervous as he approaches the mayor, who is seated
+
+behind his wide desk.
+
+				MAYOR
+
+		Sit down, Rocky.
+
+Flips open a thick file that lays in front of him.
+
+									93.
+
+				MAYOR
+
+			(continuing)
+
+		I've been going over your
+
+		record -- You've been the busy
+
+		type --
+
+			(reading)
+
+		Nineteen arrests -- probation
+
+		three times -- expelled from
+
+		seven public schools in 1964
+
+		and '65.
+
+Rocky tries to sink into the chair.
+
+				MAYOR
+
+			(continuing)
+
+		I'm a very busy man, but I
+
+		just wanted to remind you that
+
+		you'll be setting an example
+
+		for thousands of guys like
+
+		yourself and maybe start them
+
+		off in a new direction and
+
+		give our police force a
+
+		break -- I also hope you try
+
+		your very best and bring pride
+
+		to Philadelphia.
+
+				ROCKY
+
+		... I'll try.
+
+The mayor presses a button and a photographer enters.
+
+				MAYOR
+
+		Would you stand up, please.
+
+Rocky rises and the mayor shakes his hand... Their picture
+
+is taken three times... The photographer exits.
+
+				MAYOR
+
+			(continuing)
+
+		Thank you for coming by,
+
+		Rocky -- good luck.
+
+				ROCKY
+
+			(turns)
+
+		Any time.
+
+				MAYOR
+
+			(sitting)
+
+		Wait... After the fight you'll
+
+		have nearly a hundred and
+
+		fifty thousand dollars -- What
+
+		do you plan to do with it?
+
+									94.
+
+				ROCKY
+
+			(smiles)
+
+		... Run for mayor.
+
+The mayor is shocked at first but then breaks into a big,
+
+friendly laugh, and Rocky exits.
+
+INT. ROCKY'S APARTMENT - NIGHT
+
+Adrian and Rocky are at his apartment.  They are looking at
+
+new scrapbooks.  Newsweek Magazine: Headline: "The Italian
+
+Stallion or Donkey?" -- Philadelphia Magazine -- Rocky
+
+stands with the mayor.
+
+				ADRIAN
+
+		Rocky, do you realize everybody
+
+		in this country knows your
+
+		face, and after the fight
+
+		everybody in the world is
+
+		going to.
+
+				ROCKY
+
+		Yeah...
+
+She flips through Sports Illustrated, The American Sportsman,
+
+Ring Magazine, World Boxing, True, and a multitude of other
+
+clippings.
+
+The TELEPHONE RINGS... Rocky rises and walks to the new
+
+white object hanging on the wall.
+
+				ROCKY
+
+			(continuing)
+
+		My first call... Hello?  Yeah,
+
+		speakin' -- Who is this?
+
+		Bruce?  Bruce who? -- Yo,
+
+		Bruce!  How ya been?  I ain't
+
+		seen ya for nine or eight
+
+		years -- Yeah, things is
+
+		great, how's things with you
+
+		upstate -- Ya sellin' real
+
+		estate, hey, that's a good
+
+		job... Yeah, I gotta advance,
+
+		but I bought ringside seats
+
+		for the guys at the gym.  I
+
+		get the hundred an' fifty
+
+		grand after the fight...
+
+Adrian overhears the statement.
+
+									95.
+
+				ROCKY
+
+			(continuing)
+
+		... Yeah, I know it's a lotta
+
+		money -- Condominiums?  Nobody
+
+		uses them anybody.  Listen, I
+
+		think a pet shop is a good
+
+		investment, y'know -- I don't
+
+		care 'bout long hours --
+
+		there's no depreciation --
+
+		that don't matter none to
+
+		me -- Yeah, I like animals.
+
+		Why don't ya give me ya number
+
+		an' I'll call ya back?  Lemme
+
+		getta pencil --
+
+Rocky makes no motion to get a pencil.
+
+				ROCKY
+
+			(continuing)
+
+		Okay, what is it -- four-
+
+		twelve 659-2424.  Yeah, yeah,
+
+		thanks for callin' -- Sure
+
+		I'll get back to ya, Bruce --
+
+		see ya.
+
+Rocky hangs up.
+
+				ADRIAN
+
+		What was that you said about a
+
+		pet shop?
+
+				ROCKY
+
+			(distant)
+
+		... What?
+
+				ADRIAN
+
+		What did you say about a pet
+
+		shop?
+
+				ROCKY
+
+		I don't want ya cleanin'
+
+		nobody else's cages no more.
+
+				ADRIAN
+
+		Is everything all right?
+
+				ROCKY
+
+		I gotta go out for a while.
+
+Rocky grabs his coat and moves to the front door.
+
+				ROCKY
+
+			(continuing; to dog)
+
+		... Come.
+
+									96.
+
+INT. GOLDMILL'S GYM - NIGHT
+
+Rocky arrives at Goldmill's Gym... He unlocks the gym's door.
+
+Rocky and the dog move through the eerie shadows of the gym.
+
+Rocky moves across the gym with his dog and moves up the
+
+steps to Mickey's office... At the top of the stairs he
+
+looks down at the ring, reflects for a moment, then enters
+
+the office.
+
+INT. MICKEY'S OFFICE - NIGHT
+
+After turning on the lights, he quickly cleans the cluttered
+
+desk and sets up the projector... He goes to the cabinet and
+
+removes a stack of 16 mm films.
+
+						DISSOLVE TO:
+
+INT. MICKEY'S OFFICE - SEVERAL HOURS LATER
+
+The office clock indicates it is several hours later.  Rocky
+
+is engrossed in watching another Apollo Creed film.  He sits
+
+motionless.
+
+Rocky sits upright.  Something catches his eyes... He
+
+springs at the projector.  He reruns the scene several times.
+
+						DISSOLVE TO:
+
+INT. MICKEY'S OFFICE - SEVERAL HOURS LATER
+
+Several hours later Rocky is engrossed in watching another
+
+Apollo Creed film... He sits motionless.  Something catches
+
+his eye.  Rocky stops the projector as Apollo is delivering
+
+a knockout blow to an unfortunate opponent.
+
+Rocky moves right up to freeze frame and inspects it like it
+
+was a priceless painting... He backs off and begins writing
+
+on a note pad.
+
+						DISSOLVE TO:
+
+INT. MICKEY'S OFFICE - DAWN
+
+The first light of dawn streams through Mickey's filthy
+
+windows... Rocky is slumped in a chair and it is apparent he
+
+has lost interest in watching the movies.
+
+The film has completed its run through the projector and
+
+lazily flops around on the top reel... Listlessly Rocky rubs
+
+his reddened eyes.
+
+									97.
+
+The door opens and Mickey flips on the light... The two men
+
+stare at each other for a long moment.  Mickey studies
+
+Rocky's despondent expression and knows what is on the
+
+fighter's mind.
+
+				MICKEY
+
+		... I know what you're
+
+		thinkin'm kid -- At least ya
+
+		gotta shot -- All ya can do is
+
+		try ya' best.
+
+Rocky stands and, with his dog, inches past Mickey and exits
+
+the room.  Mickey walks over and turns off the projector.
+
+He idly pushes the machine with a lazy motion until it
+
+slides off the desk and crashes to the floor.
+
+EXT. STREET - DAWN
+
+After leaving Mickey's gym, Rocky and his dog listlessly
+
+move down the street and head for home.
+
+INT. ROCKY'S APARTMENT - DAY
+
+Rocky arrives at his apartment... Adrian is asleep on the
+
+couch.  He lowers himself beside her.  Her eyes open.
+
+				ROCKY
+
+		... Can't do it.
+
+				ADRIAN
+
+		... What?
+
+				ROCKY
+
+		... I can't beat him.
+
+				ADRIAN
+
+		Apollo?
+
+				ROCKY
+
+		Yeah, I can't beat him.
+
+Adrian touches his face.
+
+				ROCKY
+
+		I been watchin' the movies --
+
+		studyin' -- He ain't weak
+
+		nowhere.
+
+				ADRIAN
+
+		What're we going to do?
+
+				ROCKY
+
+		... I dunno.
+
+									98.
+
+				ADRIAN
+
+		Oh, Rocky -- you worked so hard.
+
+				ROCKY
+
+		It ain't so bad, 'cause I was
+
+		a nothin' before --
+
+				ADRIAN
+
+		Don't say that.
+
+				ROCKY
+
+		C'mon, it's true -- But that
+
+		don't bother me -- I just
+
+		wanna prove somethin' -- I
+
+		ain't no bum... It don't
+
+		matter if I lose... Don't
+
+		matter if he opens my head...
+
+		The only thing I wanna do is
+
+		go the distance -- That's all.
+
+		Nobody's ever gone fifteen
+
+		rounds with Creed.  If I go
+
+		them fifteen rounds, an' that
+
+		bell rings an' I'm still
+
+		standin', I'm gonna know then
+
+		I weren't just another bum
+
+		from the neighborhood...
+
+Adrian touches Rocky's face... The fighter gently lowers
+
+himself beside his woman.
+
+				ROCKY
+
+			(continuing)
+
+		... No foolin' around.
+
+INT. ARENA - NIGHT
+
+It is the night of the Bicentennial fight... The location is
+
+the Philadelphia Spectrum.
+
+The Spectrum is filling to capacity... Grandly dressed
+
+celebrities and wealthy fight fans lower themselves into
+
+their ringside seat.  Nearly everyone is holding a red,
+
+white, and blue sweater...
+
+The arena is decorated in tons of patriotic red, white and
+
+blue.  High above the ring are huge posters of GEORGE
+
+WASHINGTON - ABE LINCOLN - DR. MARTIN LUTHER KING, JR. - BEN
+
+FRANKLIN - and APOLLO CREED.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+Apollo Creed sits in his dressing room... It is dead silent
+
+except for some NOISE that filters under the door from the
+
+arena.
+
+									99.
+
+It is a CLOSE-UP of Apollo's hand being taped... The RASPING
+
+SOUND of the adhesive tape is very pronounced.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+The atmosphere is identical to Apollo's dressing room.
+
+Adrian watches in silence as Mike wraps Rocky's hand.
+
+Again, the most pronounced SOUND is the RASPING of the
+
+adhesive tape.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+Apollo's other hand is being wrapped.  Dead silence except
+
+for the TAPE and APOLLO'S BREATHING.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Rocky's other hand is being wrapped in a CLOSE-UP.  The only
+
+SOUND is the TAPE and ROCKY'S mounting BREATHING PATTERN.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+CLOSE-UP of drops being placed in his nose to help increase
+
+his intake of oxygen.  The tremendously magnified SOUND of
+
+APOLLO TAKING IN AIR.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+CLOSE-UP of the drops being placed in Rocky's nose.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+A heavy coating of vaseline is applied around the Champion's
+
+eyes... In an EXTREME CLOSE-UP, the eyes shine brightly with
+
+the grease.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Grease is smeared around Rocky's eyes... In the EXTREME
+
+CLOSE-UP several deep scars are SEEN.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+CLOSE-UP of Apollo's trainer digging his fingers deeply into
+
+the thick neck muscles of Apollo's upper back and neck.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+CLOSE-UP OF Mike's arms wrapped around Rocky's waist and
+
+lifting his diaphragm up... Magnified BREATHING ROARS from
+
+the screen.
+
+									100.
+
+INT. APOLLO'S DRESSING ROOM - NIGHT
+
+Apollo's trainer slips a mouthpiece into Apollo's mouth.
+
+Apollo shakes his head and the trainer removes it and places
+
+another one in the champ's mouth... Creed nods yes.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Everyone present is motionless as Rocky is in the bathroom.
+
+Alone, Rocky is on his knee praying.  Completing his silent
+
+prayer, he stands and looks at himself in the mirror.
+
+Suddenly a wave of emotion sweeps over him as he thinks that
+
+in a few moments he will face the most overwhelming challenge
+
+of his life.
+
+Out in the dressing room, the door opens and a guard leans
+
+in and nods that it is time.  He leaves... Rocky steps out.
+
+				MICKEY
+
+		... It's time, kid.
+
+Rocky nods and moves toward Adrian.
+
+				ADRIAN
+
+		... I'll wait for you here.
+
+Rocky nods and she kisses him.  The fighter leaves with his
+
+trainers... Adrian is on the verge of tears.
+
+INT. HALLWAY - NIGHT
+
+Rocky, Mickey and Mike start down the long hallway... Up
+
+ahead are three security guards... Rocky rubs his bare
+
+shoulders.
+
+				ROCKY
+
+		Yo, Mick, can I have my rob?
+
+Rocky puts on the robe... Embroidered across the back in
+
+flaming letters is:
+
+		"THE ITALIAN STALLION"
+
+				*Pennzoil*
+
+Mike helps him into the robe... Mickey is not amused.
+
+				MICKEY
+
+		Don't you care what the people
+
+		will say?
+
+				ROCKY
+
+		... I'm doin' it for a friend.
+
+									101.
+
+				MICKEY
+
+		Whatta you get outta this?
+
+				ROCKY
+
+		I get the robe an' Paulie gets
+
+		three grand.
+
+				MICKEY
+
+		... Shrewd.
+
+INT. ARENA - NIGHT
+
+TWO RINGSIDE COMMENTATORS sit in front of a panel of closed
+
+circuit televisions.
+
+				COMMENTATOR #1
+
+		We would like to welcome our
+
+		viewing audience to the Grand
+
+		World Championship Bicentennial
+
+		Heavyweight Fight -- the first
+
+		major event of the Bicentennial
+
+		Year... A point of interest is
+
+		that the fight is being beamed
+
+		to more than seven hundred and
+
+		fifty million fans in theatres
+
+		in nearly every corner of the
+
+		world.  I would like to
+
+		welcome an old friend, and co-
+
+		commentator for this evening's
+
+		event -- Jimmy Michaels.
+
+				COMMENTATOR #2
+
+		Thank you, Bob.  The
+
+		electricity is everywhere
+
+		tonight.  Rocky Balboa, a
+
+		fifty-to-one underdog, is
+
+		living a Cinderella story
+
+		which has captured peoples'
+
+		imaginations all over the
+
+		world -- to quote a popular
+
+		sports magazine, 'The fighting
+
+		style should be 'The Caveman
+
+		Against the Cavalier.' From
+
+		the increase in sound it
+
+		appears the challenger is now
+
+		approaching the ring... His
+
+		record is forty-four wins,
+
+		twenty losses and thirty-eight
+
+		knockouts.
+
+				COMMENTATOR #1
+
+		I only wonder if this man has
+
+		the skill to go past three
+
+		rounds -- Vegas odds say, 'no.'
+
+									102.
+
+ANOTHER ANGLE
+
+A wedge of uniformed guards knife down the aisle to the ring.
+
+Many people wish Rocky well as he passes... people also hurl
+
+insults.  From the expression on Mickey's face it is also
+
+the greatest night of his life.  In the audience are familiar
+
+faces from the gym.  From the back of the arena a ROAR goes
+
+up... Apollo Creed is in a mock boat dressed like George
+
+Washington.  He throws silver dollars.  The NOISE builds to
+
+DEAFENING proportions.  Creed's trainer holds the rope and
+
+Creed bounds into the ring.  He tears off the Washington
+
+outfit and it is clearly SEEN that Apollo Creed is garbed in
+
+an outrageous Uncle Sam outfit... On his head is a red,
+
+white and blue sequined top hat.  The robe is sequined red,
+
+white and blue.  His boxing trunks are red, white and blue
+
+silk with stars around the waistband.  The boxing shoes
+
+match the trunks.  On his chin is a pointed white Uncle Sam
+
+beard.
+
+				COMMENTATOR #2
+
+		You could go deaf with the
+
+		noise -- it undoubtedly means
+
+		Champion Apollo Creed is
+
+		heading towards the ring --
+
+				COMMENTATOR #1
+
+		Am I seeing right?  Creed is
+
+		approaching the ring in a boat.
+
+		Is he supposed to be George
+
+		Washington?  Obviously so.
+
+				COMMENTATOR #2
+
+		It's been confirmed that it is
+
+		definitely an impersonation of
+
+		George Washington -- a great
+
+		way to start 1976 off.
+
+				COMMENTATOR #1
+
+		I agree.
+
+Immediately Creed begins gracefully dancing in a wide circle.
+
+He passes within inches of Rocky in his Uncle Sam outfit.
+
+				APOLLO
+
+		I want you!  I want you!
+
+The crowd loves the taunting.  Apollo Creed floats back to
+
+his corner.
+
+				MICKEY
+
+		Don't let 'im get you tight.
+
+									103.
+
+				ROCKY
+
+		Whatta ya think that outfit
+
+		cost?
+
+ANOTHER ANGLE
+
+The ANNOUNCER steps to the center of the ring... Several men
+
+in suits stand against the ropes... Paulie is dressed nicely
+
+and sits at ringside with a pretty blonde escort.  Rocky
+
+waves at him.  Paulie waves back and secretly gestures at
+
+his date... Rocky smiles and gestures back.
+
+				ANNOUNCER
+
+		Ladies and gentlemen --
+
+		Welcome to the Bicentennial
+
+		Heavyweight Championship
+
+		Fight... We are very proud to
+
+		have with us four former Great
+
+		Champions... Ladies an' gents,
+
+		'The one and only 'Manassa
+
+		Mauler' -- Jack Dempsey!'
+
+The CROWD ROARS and JACK DEMPSEY waves and goes to Creed's
+
+corner, then Rocky's.
+
+				DEMPSEY
+
+		Good luck, kid.
+
+He moves off.
+
+				ROCKY
+
+			(to Mickey)
+
+		Christ, Jack Dempsey.
+
+ANOTHER ANGLE
+
+The Announcer points and the timekeeper RINGS the BELL.
+
+				ANNOUNCER
+
+		Former Middleweight Champion --
+
+		'The Bronx Bull' -- Jake
+
+		LaMotta!
+
+JAKE LA MOTTA raises his fist and gives best wishes to both
+
+contenders... Timekeeper RINGS the BELL.
+
+ANOTHER ANGLE
+
+				ANNOUNCER
+
+			(continuing)
+
+		The man with the big punch --
+
+		Everybody's favorite, 'The
+
+		Brown Bomber ' -- Joe Louis!
+
+									104.
+
+JOE LOUIS bows and steps to Creed's corner.  Creed strikes a
+
+boxing pose and Louis tosses a playful punch.
+
+				ROCKY
+
+		They must be friends.
+
+ANOTHER ANGLE
+
+				ANNOUNCER
+
+		Now, last but certainly not
+
+		least -- the former Heavyweight
+
+		Champion, a son of Philly,
+
+		Smoking Joe Frazier!
+
+FRAZIER rumbles to the center of the ring.  The CROWD CHEERS.
+
+Apollo puts on a show... He grimaces and gestures like he's
+
+going to attack Frazier.  His cornermen hold him back.  They
+
+laugh.  Frazier goes to Rocky's corner.
+
+				FRAZIER
+
+		Save some of him for me.
+
+ANOTHER ANGLE
+
+The Commentators beckon to Frazier as he exits the ring.
+
+				COMMENTATOR #1
+
+		The former champ looks great --
+
+		Can we get Joe over here --
+
+		here he comes.
+
+Joe Frazier stands in front of the Commentators.
+
+				COMMENTATOR #1
+
+			(continuing)
+
+		Joe, what are your feelings
+
+		about tonight's fight?
+
+				FRAZIER
+
+		Well, I think any man who
+
+		works an' trains hard always
+
+		gotta chance.
+
+				COMMENTATOR #2
+
+		You look in great shape, Joe.
+
+				FRAZIER
+
+		I'm always in shape.
+
+Joe laughs and exits.  The timekeeper RINGS the BELL.
+
+									105.
+
+ANOTHER ANGLE
+
+				ANNOUNCER
+
+		... Now for the evening's main
+
+		event -- In the corner to my
+
+		right, The Challenger, wearing
+
+		white trunks -- At one hundred
+
+		an' ninety-one pounds, one of
+
+		Philly's own sons -- 'The
+
+		Italian Stallion,' Rocky Balboa!
+
+A good CROWD RESPONSE.
+
+ANOTHER ANGLE
+
+				ANNOUNCER
+
+		In the far corner, wearing
+
+		red, white an' blue -- Weighing
+
+		in at two hundred and ten
+
+		pounds -- Undefeated in forty-
+
+		six fights -- the Heavyweight
+
+		Champion of the World -- 'The
+
+		Master of Disaster' -- Apollo
+
+		Creed!
+
+The arena EXPLODES and Creed puts on a display of hand speed.
+
+ANOTHER ANGLE
+
+The REFEREE motions to both fighters... They step to the
+
+center of the ring.  As the Referee explains the rules
+
+Apollo and Rocky stare hard into each other's eyes... The
+
+Referee's voice fades and the fighters' expressions fill the
+
+screen... Something soulful and frightening is being
+
+communicated.
+
+				REFEREE
+
+		... Now come out fighting.
+
+The fighters return to their corners.
+
+				MICKEY
+
+		God bless ya, Rock.
+
+				ROCKY
+
+		Thanks, Mick -- I'm gonna try.
+
+ANOTHER ANGLE
+
+The BELL RINGS... Creed dances forward and boxes Rocky as
+
+though he considers the man an amateur.
+
+									106.
+
+ANOTHER ANGLE
+
+				COMMENTATOR #1
+
+		The Champ stings the slower
+
+		challenger with jabs at
+
+		will -- Balboa blocks eighty
+
+		percent of the blows with his
+
+		face -- Creed doesn't look the
+
+		best he's ever been but is
+
+		moving smoothly -- Creed snaps
+
+		out a triple combination that
+
+		backs Balboa into a corner --
+
+		oh, a solid hook by Creed, a
+
+		master of fist-men.
+
+				COMMENTATOR #2
+
+		The Champion is smiling and
+
+		toying with the man -- trying
+
+		to give the fans their money's
+
+		worth and make a show of it
+
+		with the badly out-classes
+
+		challenger -- Another left to
+
+		right combination.  I feel
+
+		sorry for --
+
+				COMMENTATOR #1
+
+		Creed is down!!!
+
+ANOTHER ANGLE
+
+Rocky suddenly explodes with an upswing hook to the jaw.
+
+Creed is dropped.  The arena EXPLODES.  Creed's eyes show
+
+disbelief.  So do Rocky's.
+
+Rocky backs into his corner... Mickey and Mike yell at him.
+
+				MICKEY
+
+		You can do it!  Goddamnit, you
+
+		got the power!  The body, get
+
+		the body!!!  Ya got him goin'!
+
+				REFEREE
+
+		Six!... Seven!... Eight!...
+
+Creed is up... His playful attitude is gone... he is now all
+
+business.  His lightning jab stings Rocky's face repeatedly.
+
+				APOLLO
+
+		... Come at me, sucker!
+
+Rocky charges and a terrific right crashes against Apollo's
+
+chin, followed by an uppercut to the liver that causes Creed
+
+to cringe...
+
+									107.
+
+Apollo counters with jabs and Rocky whips brutal combinations
+
+to the body.
+
+The BELL RINGS.
+
+ROCKY'S CORNER
+
+				ROCKY
+
+		How am I doin'?
+
+				MICKEY
+
+		Real good.
+
+				ROCKY
+
+		See how fast he is -- damn!
+
+				MICKEY
+
+		Breathe deep -- Keep ya chin
+
+		down!!  Use the legs and drive
+
+		through 'im.  Attack --
+
+		Attack -- Attack!
+
+APOLLO'S CORNER
+
+Apollo does not sit.  He stands and clowns with the
+
+spectators to prove he is not hurt.
+
+				APOLLO
+
+			(to Trainer)
+
+		... That boy damn near broke
+
+		my arm.
+
+				TRAINER
+
+		Sure -- He can hit -- Don't
+
+		play no more -- Stick an'
+
+		move, hear?
+
+				APOLLO
+
+		I'll carry him 'till the third.
+
+				TRAINER
+
+		Don't play with this man, he's
+
+		fightin' hard -- Let 'em feel
+
+		some real heat!
+
+ANOTHER ANGLE
+
+The BELL for the second round RINGS... Rocky rushes out fast
+
+and furious.  Apollo melts out a left hook that raises a
+
+goose egg over Rocky's eye... Apollo employs footwork that
+
+dazzles Rocky.  He has class.  He studies Rocky and employs
+
+his lightning jab with cutting accuracy. Still Rocky shuffles
+
+ahead, bombarding Creed's midsection with hooks.
+
+									108.
+
+ANOTHER ANGLE
+
+The round ends with Apollo assaulting Rocky with blinding
+
+combinations and delivering a stupendous right cross that
+
+flings Rocky into the ropes and shatters his nose... The
+
+round ends.
+
+ANOTHER ANGLE
+
+Apollo stands in his corner and jokes with the fans, but he
+
+is beginning to show the strain from the body punches.
+
+				APOLLO
+
+		Man, I rearranged his face
+
+		with that right -- The people
+
+		love what's happenin' tonight.
+
+				TRAINER
+
+		People nothin', you in a
+
+		fight, my man, -- ya best
+
+		believe what you hear... Knock
+
+		that boy out soon an' let's go
+
+		home.
+
+ANOTHER ANGLE
+
+Rocky sits as Mickey and Benny try to reduce the swelling
+
+around his eyes... The nose is shattered.
+
+				MICKEY
+
+		Ya nose is broke.
+
+				ROCKY
+
+		Damn!  How's it look?
+
+				MICKEY
+
+		Can't hardly tell.  Don't
+
+		swallow the blood -- Go for
+
+		his ribs.  Don't let 'im
+
+		breathe.
+
+				ROCKY
+
+		... The guy's great.
+
+				MICKEY
+
+		Why don't ya tell 'im you're a
+
+		fan!
+
+ANOTHER ANGLE
+
+The Commentators are caught up in the action.  They speak
+
+rapidly into their microphones.
+
+									109.
+
+				COMMENTATOR #2
+
+		If you had asked anyone who
+
+		knows boxing, they never
+
+		would've predicted a first
+
+		round knockdown and the second
+
+		round punishment to the body
+
+		of the Champion... Most
+
+		fighters will tell you,
+
+		receiving a good body punch is
+
+		the next worst thing to dying.
+
+				COMMENTATOR #1
+
+		Round three ready to start and
+
+		should be interesting to see
+
+		if Creed can put the challenger
+
+		away -- there goes the bell.
+
+ANOTHER ANGLE
+
+Round three... Apollo comes out dancing.  He skips and side-
+
+steps Rocky's sledgehammer hooks.  An expert ring general,
+
+Apollo uses the ring fully.  Rocky keeps tearing in and
+
+Creed meets the bombing attack that cause thick swelling...
+
+Near the end of the round Rocky fires a penetrating punch to
+
+the heart.
+
+				COMMENTATOR #1
+
+		Apollo almost sprints out of
+
+		his corner -- feints and
+
+		throws a pair of left-right
+
+		combinations.  Balboa drops
+
+		beneath a left upper cut and
+
+		lands a very solid shot on
+
+		Creed's temple -- not much
+
+		movement from Balboa, duck a
+
+		left, a right, another left
+
+		and explodes with a right hook
+
+		to the temple -- I mean
+
+		explodes.  The Champ backs off.
+
+				COMMENTATOR #2
+
+		There's no way Apollo expected
+
+		this kind of hitting power.
+
+				COMMENTATOR #1
+
+		No way -- but the brilliant
+
+		ability of the Champion to
+
+		master situations like this is
+
+		one of his most outstanding
+
+		traits -- Creed tosses a
+
+		perfect right hand that rocks
+
+		Rocky.
+
+				(MORE)
+
+									110.
+
+				COMMENTATOR #1 (CONT'D)
+
+		Creed on the offensive --
+
+		Balboa takes the punishment
+
+		and counters with a left flush
+
+		over the heart... that hurt.
+
+The wallop knocks Apollo off balance... The CAMERA GOES TO A
+
+STEEP ANGLE SHOT from the floor, VERTICALLY UP Apollo's body.
+
+The SCENE GOES INTO SLOW MOTION... Rocky releases a
+
+terrifying uppercut that opens a gash under Creed's eye.
+
+Creed's face contorts with excruciation.
+
+				TRAINER
+
+			(yelling)
+
+		Cover your face!  Cover up!
+
+			(to Assistant)
+
+		My man's cut, my man's
+
+		bleedin' -- Get ready!
+
+ANOTHER ANGLE
+
+The BELL SOUNDS.  Apollo's corner works frantically to close
+
+the wound... The ring DOCTOR inspects the cut.
+
+				TRAINER
+
+		Bad?  Talk to me, man!
+
+				DOCTOR
+
+		Deep, but passable.
+
+				APOLLO
+
+			(staring at Rocky)
+
+		... That man's takin' his job
+
+		too serious.
+
+				TRAINER
+
+		He's movin' to your left --
+
+		don't let him no more -- dance
+
+		and stick, hear?  Don't
+
+		play -- I know what ya feelin',
+
+		but don't play.
+
+				APOLLO
+
+		He got lucky.
+
+				TRAINER
+
+		Luck!  You fightin' a crazy
+
+		man -- but you got him hurt
+
+		bad.
+
+			(to Assistant)
+
+		More ice, now!
+
+									111.
+
+ANOTHER ANGLE
+
+Rocky's face is in very bad shape, not cut, but wretchedly
+
+swollen around the eyes.
+
+				MICKEY
+
+		How you holdin' up, kid?
+
+				ROCKY
+
+		Fine... That guy's great.
+
+				MICKEY
+
+		Gimme the water!  Ya getttin'
+
+		tagged with his right.  I
+
+		think you should feint left
+
+		and high hook 'im -- Benny,
+
+		check the eyes!  Can ya see?
+
+				ROCKY
+
+			(standing)
+
+		See what?
+
+				MIKE
+
+		Ya sappin' his strength --
+
+		He's losin' steam.
+
+				ROCKY
+
+		He ain't losin' nothin'.
+
+				MICKEY
+
+		Keep on him -- You're doin'
+
+		great.
+
+SERIES OF SHOTS
+
+In the next ten rounds, Apollo cuts and slashes Rocky to
+
+ribbons, but pays dearly... Both his eyes and lips are cut.
+
+Welts across his midsection attest to Rocky's body-battering.
+
+INT. ROCKY'S DRESSING ROOM - NIGHT
+
+Adrian is unable to remain alone... She is lured by the
+
+GROWING ROAR OF THE FANS... She exits the dressing room.
+
+INT. ARENA HALL - NIGHT
+
+Stepping out of the dressing room she walks down the corridor.
+
+The MOUNTING CHEERS make her speed up.  She opens the door
+
+at the end of the corridor and is hit by a THUNDEROUS WAVE
+
+OF SOUND.  The guard at the door inspects her and goes back
+
+to watching the fight.
+
+									112.
+
+INT. ARENA - NIGHT
+
+Adrian stands at the rear of the arena and watches the
+
+battle.  She is entranced by the power of it all.
+
+Back in the ring, Rocky keeps grinding ahead.  He plants a
+
+thumping left over the Champion's heart and Creed winces...
+
+Rocky is game but losing.
+
+At ringside Paulie is frantic... He is living the fight from
+
+his seat.
+
+Mr. Gazzo and his Bodyguard watch from the second row.
+
+Gazzo looks proud.  The Bodyguard, impassive.
+
+INT. ANDY'S BAR - NIGHT
+
+A huge and lively crowd look up at the television over the
+
+bar... They see Rocky driving Creed against the ropes and
+
+cheer loudly.
+
+				ANDY
+
+		... The Rock's got real stones.
+
+INT. ARENA - NIGHT
+
+The men are fighting with appalling tenacity.  Rocky rips
+
+and tears into the body... Apollo counters with a ceaseless
+
+stream of rapier-like lefts... The Challenger is seriously
+
+outclassed.
+
+				APOLLO
+
+		C'mon -- Lemme cut yo'!
+
+Rocky wades in and Creed employs incredible footwork.  He
+
+sets himself and cuts loose with a thunderbolt right cross
+
+to Rocky's already broken nose.  Blood sprays from the wound
+
+and red droplets drip from his chin...
+
+Rocky takes a merciless beating and is staggered by a
+
+torrent of combinations.  Rocky's eyes are closed.  But
+
+Creed cannot drop him... The BELL RINGS.
+
+ANOTHER ANGLE
+
+The Commentators shift in their seats.
+
+				COMMENTATOR #1
+
+		Without a doubt this is the
+
+		most punishing brawl I have
+
+		ever seen -- The ringside
+
+		audience is spotted with blood.
+
+				(MORE)
+
+									113.
+
+				COMMENTATOR #1 (CONT'D)
+
+		This fight should have been
+
+		stopped rounds ago but Rocky
+
+		Balboa refuses to fall --
+
+				COMMENTATOR #2
+
+		Not only has he refused to
+
+		fall, but he has beaten the
+
+		Champion's body without mercy
+
+		and the bout has become a
+
+		vicious slugfest.
+
+ANOTHER ANGLE
+
+Apollo's corner is in turmoil... The Champion is definitely
+
+hurt.
+
+				APOLLO
+
+		My side.
+
+				TRAINER
+
+			(to Assistant)
+
+		Get that doctor.
+
+				APOLLO
+
+		No doctor!
+
+				TRAINER
+
+		You're hurtin', man!
+
+				APOLLO
+
+		No doctor!... I'm feelin'
+
+		good, bro!
+
+ANOTHER ANGLE
+
+In Rocky's corner, things are frantic.  His eyes are swollen
+
+shut.
+
+				MICKEY
+
+		Wanna keep goin'?
+
+				ROCKY
+
+		Would you keep goin'?
+
+				MICKEY
+
+		... Yeah.
+
+				MIKE
+
+		No more, ya wanna lose an eye?
+
+		No more.
+
+									114.
+
+				ROCKY
+
+		Open my eyes -- Please, open
+
+		my eyes!
+
+Mickey nods to Benny.  He secretly places a small ring knife
+
+between his index and middle finger.  In one smooth movement
+
+he drags the razor over the blood welts and quickly covers
+
+the draining wounds with gauze... It is done so quickly no
+
+one is ever aware of the operation.
+
+ANOTHER ANGLE
+
+At the rear of the arena Adrian looks transfixed at the ring.
+
+She is caught up in the heat of the battle.
+
+ANOTHER ANGLE
+
+The BELL RINGS for round fourteen.  Rocky bores in close,
+
+but Apollo still has spring in his legs.  He seems determined
+
+to end it this round... Apollo catches Rocky flush on the
+
+jaw.  Rocky is staggered.  Like a wolf, Apollo cuts loose
+
+with pure savagery.  Rocky is driven against the ropes and
+
+receives a devastating beating from the Champion... Rocky is
+
+dropped.
+
+Rocky sits stunned in the middle of the ring... Everything
+
+is a distortion.  He looks for familiar faces as though to
+
+ask for help... Mickey and Mike scream frantically for him
+
+to stay down.
+
+				REFEREE
+
+		Six -- Seven -- Eight --
+
+Rocky gets to his feet and tenses with renewed energy.  He
+
+is like a wounded wild animal.  The tide suddenly turns.
+
+Rocky drops low and catches Apollo with a pair of terrific
+
+body punches that seem to drive Apollo's diaphragm up to his
+
+throat... A CRACK is HEARD.  A glaze of pain covers Apollo's
+
+eyes.  It is only a supreme effort that keeps the Champion
+
+upright... Apollo is badly hurt.  He is bent over.
+
+Rocky moves towards Apollo.  Apollo flicks dread jabs into
+
+Rocky's eyes... The Italian wades in with punches that seem
+
+to bulge out Apollo's back.  Creed takes the punishment like
+
+a stoic.
+
+Blood is running from Apollo's mouth.  In the clinch he
+
+leans over Rocky and it drips down the Italian's neck and
+
+shoulders.  Apollo shields his wound from the ringside
+
+judges and continues to fight.
+
+									115.
+
+ANOTHER ANGLE
+
+The BELL RINGS.  Apollo's men rush out and guide him to his
+
+corner.
+
+				APOLLO
+
+		... Ribs broke --
+
+Blood trickles from the corner of Apollo's mouth.  The
+
+Trainer feels the ribs.
+
+				TRAINER
+
+		Yo' bleedin' inside, man --
+
+		Get that doctor.
+
+				APOLLO
+
+		One more round.
+
+				TRAINER
+
+		Don't kill yourself, man --
+
+		Let the doctor stop the fight.
+
+				APOLLO
+
+		... Stop jivin'!
+
+				TRAINER
+
+		Cover the ribs -- Look here,
+
+		elbow down, tight -- Tight --
+
+		stand straight -- you're the
+
+		best, you're the best!
+
+				APOLLO
+
+		... Thanks.
+
+ANOTHER ANGLE
+
+Rocky no longer resembles himself... His face has completely
+
+been beaten to jelly, but his mood is buoyant.
+
+				ROCKY
+
+		How I look out there, Mick?
+
+				MICKEY
+
+			(truly worried)
+
+		Great, kid, great.
+
+The ring Doctor leans over Rocky and checks the eyes.
+
+				DOCTOR
+
+		One more round -- How do you
+
+		feel?
+
+Rocky is approaching the supreme moment of his life.  He
+
+cannot be bothered with pain or doctors.
+
+									116.
+
+				ROCKY
+
+		Fine -- Go away, I'm gonna
+
+		make it -- I'm gonna make it!
+
+Everyone is distraught over Rocky's dangerous condition.
+
+				MICKEY
+
+		We gotta stop it, kid.
+
+				MIKE
+
+		Ya gave it ya best shot!
+
+				MICKEY
+
+		Nobody's gonna say ya didn't
+
+		give ya all.  I can't let ya
+
+		go out.
+
+Rocky stands and eyes them all.
+
+				ROCKY
+
+			(impassioned
+
+			and quietly)
+
+		I'll kill ya all... Don't stop
+
+		nothin' --
+
+ANOTHER ANGLE
+
+The BELL RINGS... Apollo moves cautiously out of his corner
+
+and circles to Rocky's right.
+
+ANOTHER ANGLE
+
+The Commentators stare unansweringly at the fighters.
+
+				COMMENTATOR #1
+
+		The fight has slowed down to a
+
+		near stand-still -- Creed
+
+		circles to Rocky's right...
+
+		The spectrum is nearly
+
+		silent -- Neither fighter has
+
+		made a motion to throw... I've
+
+		never seen anything like it in
+
+		the last round of a
+
+		championship fight... Apollo
+
+		spits blood on the canvas.  It
+
+		appears he is protecting his
+
+		right side.  His ribs were
+
+		probably injured at the end of
+
+		round fourteen.
+
+				(MORE)
+
+									117.
+
+				COMMENTATOR #1 (CONT'D)
+
+		It's confirmed, unofficially,
+
+		Creed's ribs may be broken --
+
+		Apollo fakes a left and throws
+
+		a big tired right -- Balboa's
+
+		mouthpiece is out!  Creed
+
+		attacks with one hand!
+
+ANOTHER ANGLE
+
+Apollo feints and Rocky falls for it.  The Champion unleashes
+
+a lethal blow to the side of the head that jolts Rocky's
+
+mouthpiece into the second row... Rocky sags against the
+
+ropes in a crucified position... The insane crowd leaps to
+
+their feet.
+
+ANOTHER ANGLE
+
+Rocky's bloody teeth snarl at Apollo and he waves him to
+
+come ahead and fight toe to toe... Apollo obliges with a
+
+weary but effective burst of rights and lefts that have K.O.
+
+written on every punch.  Rocky counters the assault blow for
+
+blow.
+
+				ROCKY
+
+		Gimme ya best!!!!
+
+Mickey looks at the clock... TEN SECONDS TO GO.
+
+				ROCKY
+
+			(continuing)
+
+		Gimme ya best!!!
+
+Blood sprays over the ropes and onto the ringside
+
+photographers... They are horrified and wipe away the blood.
+
+The fighters stand toe to toe and drag every remaining bit
+
+of strength from their souls and beat each other without
+
+mercy.  They look hypnotized and have entered a dimension
+
+far beyond blood and pain.
+
+				SIX
+
+				FIVE
+
+				FOUR
+
+				THREE
+
+				TWO
+
+				ONE!
+
+ANOTHER ANGLE
+
+The BELL RINGS... The arena EXPLODES with thunderous approval.
+
+									118.
+
+Their cornermen rush to their collapsed fighters... In the
+
+midst of all the confusion both fighters look at each other
+
+with unabashed respect -- They stand like blood-drenched
+
+gladiators on the most dramatic night of their lives.
+
+As though reacting to some unspoken command, they both step
+
+towards each other and embrace... Apollo whispers in Rocky's
+
+ear.
+
+				APOLLO
+
+		... Ain't gonna be no rematch.
+
+				ROCKY
+
+		... Don't want one.
+
+Mickey comes over and separates them and leads him back to
+
+his corner... Mickey embraces him.
+
+ANOTHER ANGLE
+
+The Announcer enters the ring with a microphone.
+
+				ANNOUNCER
+
+		Attention, please!!  Attention!!
+
+		Ladies and gentlemen, tonight
+
+		we have had the rare privilege
+
+		to have witnessed the greatest
+
+		exhibitions of stamina and
+
+		guts ever in the history of
+
+		sports.
+
+The CROWD ROARS.
+
+				ANNOUNCER
+
+			(continuing)
+
+		Ladies and gentlemen -- We
+
+		have a split decision!
+
+ANOTHER ANGLE
+
+Apollo did not expect this and tenses.  His corner nervously
+
+tries to reassure him.  It does no good.
+
+ANOTHER ANGLE
+
+Rocky did not expect this either and looks in confusion at
+
+Mickey, but Mickey is frozen with anticipation.
+
+ANOTHER ANGLE
+
+				ANNOUNCER
+
+		Judge Walker scores it eight-
+
+		seven Creed... Judge Roseman
+
+		scores it eight-seven Balboa.
+
+									119.
+
+ANOTHER ANGLE
+
+Apollo is rigid.  Fear radiates from his eyes.  To lose the
+
+crown on this night after the fight he fought would kill
+
+him... A silence has blanketed the arena.
+
+ANOTHER ANGLE
+
+				ANNOUNCER
+
+		Judge Conners scores it nine-
+
+		six Creed... Winner and still
+
+		Heavyweight Champion of the
+
+		World, Apollo Creed!
+
+ANOTHER ANGLE
+
+Rocky sorely smiles and looks at the waves of CHEERING fans
+
+that circle the ring and reach out towards him... Mickey
+
+grabs Rocky's hand and raises it.  The CROWD ROARS.
+
+				MICKEY
+
+		I don't care what they say,
+
+		you're a winner.
+
+				ROCKY
+
+		Yo, can I have my locker back?
+
+Mickey and Rocky look at each other and grin.  Mickey hugs
+
+Rocky like a son.  Mickey raises Rocky's hand again.  Rocky
+
+turns away from Mickey and pats Benny the cut-man's
+
+shoulder... Benny smiles wearily.  Rocky stares across the
+
+ring at Apollo Creed, who stands victorious, but his face
+
+and body are badly distorted... The two men lock stares that
+
+reflect admiration.
+
+ANOTHER ANGLE
+
+Apollo climbs out of the ring and the fans crush forward
+
+screaming his name and waving red, white and blue banners.
+
+ANOTHER ANGLE
+
+Rocky also climbs out of the ring and waves of frantic well-
+
+wishing fans rumble forward... Mickey's eyes show mounting
+
+apprehension as the fans become abnormally active.
+
+ANOTHER ANGLE
+
+They shove the police aside and clutch wildly at Creed.
+
+Creed's army of bodyguards swing angrily at the crowd but
+
+they are soon engulfed by screaming waves of humanity.
+
+Apollo is suddenly hoisted into the air and is being carried
+
+along by a legion of fans.
+
+									120.
+
+ANOTHER ANGLE
+
+On the opposite aisle Rocky is experiencing the same
+
+overwhelming adulation by his fans but does not seem to be
+
+frightened by it, like Apollo.  Mickey tries his best to
+
+control things but his voice is drowned out in the growing
+
+clamor.  The fans shove the guards aside and hoist Rocky to
+
+their shoulders.
+
+ANOTHER ANGLE
+
+Rocky's and Apollo's fans are aggressively competing against
+
+each other... chanting, 'Creed, Creed, Creed.'
+
+Rocky's fans counter by bellowing, 'Rocky, Rocky, Rocky.'
+
+ANOTHER ANGLE
+
+Paulie tries to get to Rocky but is shoved aside and he
+
+starts swinging.
+
+ANOTHER ANGLE
+
+Both Rocky and Apollo are completely at the mercy of the
+
+crowd.  They are being passed overhead and remain helpless
+
+as their bodies float up the aisle on the sea of hands...
+
+The CHANTING IS DEAFENING.
+
+ANOTHER ANGLE
+
+Fearful that Rocky is in danger, Adrian tries to move
+
+forward.  Running headlong into the crowd, she angles
+
+through the mass to get to Rocky.
+
+ANOTHER ANGLE
+
+She is manhandled and shoved in a multitude of directions,
+
+but she keeps her feet... She sees him.  In the distance,
+
+Rocky floats INTO VIEW and Adrian flattens against the wall
+
+and waits for the procession to pass.
+
+The procession approaches and she clearly sees Rocky's
+
+unbelievably battered but smiling face.  He appears to be
+
+king of the world.
+
+The procession approaches and passes Adrian.  She jumps on
+
+her toes and waves frantically but is not seen.  She screams
+
+Rocky's name... Somehow the delicate voice knifes through
+
+the racket and reaches Rocky.
+
+Rocky frantically looks in all directions and barely manages
+
+to see Adrian jumping up and down waving.  The crowd is
+
+carrying him away.  He attempts to lower himself but the
+
+crowd won't permit it.
+
+									121.
+
+Rocky instead turns and begins climbing across people's
+
+heads and shoulders.  He resembles a man trying to go up a
+
+down escalator.  People are jammed so tightly together Rocky
+
+manages to crawl across them to Adrian.
+
+Still suspended in air, Rocky leans down and Adrian jumps up
+
+and they lock in an embrace.
+
+				ADRIAN
+
+		I love you -- I love you -- I
+
+		love you...
+
+The two are swept along into the greatest night anyone can
+
+remember...
+
+				THE END
+

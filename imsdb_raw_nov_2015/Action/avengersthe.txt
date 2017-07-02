@@ -1,0 +1,8342 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Avengers
+
+					THE AVENGERS
+
+				Screenplay by Don Macpherson
+
+					June 21, 1995
+
+1	BLUE SKY WITH CLOUDS
+
+	PAN DOWN to reveal:
+
+2	EXT - SALTFLATS - DAY
+
+	A flat horizon, stretching to infinity.
+
+	A 360 degree pan reveals: nothing.  Deserted, no hiding places.  No animals, no
+
+	humans, no objects.  Except in mid distance --
+
+3	RED PHONE BOX
+
+	brightly painted, traditional, comforting, belongs in a village green.  Perfectly
+
+	ordinary -- except for its location.
+
+	Silence.  Only the wind over the plain.  Except --
+
+	The PHONE RINGS.
+
+	RING-RING ... a mellow, old-fashioned tone.  We wait for someone to answer it.  But
+
+	of course nothing and nobody for miles.  Except --
+
+4	IN DISTANCE
+
+	a CAR ENGINE ... A puff of smoke on the horizon ... VA-VA-VOOM of high geared
+
+	acceleration, as INTO VIEW
+
+	ZOOM! --
+
+5	CAR	
+
+	speeding like a bullet.  Driven at maximum, breakneck speed, 125 mph.  A petite open
+
+	top '65 Lotus Elan, all streamlined curves, full throttle, it nears the phone box, and --
+
+	SCREECHES to a halt.
+
+	Dust clears, ENGINE NOISE FADES.  From the seat, hops --
+
+6	KINKY BOOT
+
+	in black leather.
+
+	Buckled.  Strap at ankle.  Crunching into the ground.
+
+	PAN UP TO:
+
+7	BEAUTIFUL WOMAN
+
+	late 20's.  In CLOSEUPS of -- Tight black leather catsuit.  A flash of auburn hair. 
+
+	Black leather like a second skin.  Smoothed over legs, thighs.  Buckled at wrists, straps
+
+	at ankles, zips --
+
+	Pulled up over flesh.  This is EMMA PEEL, scientist.  Sexual, invulnerable, cool.  Very
+
+	cool.  She locks up at clouds in the sky.  Then steps across to the phone box.  Picks up
+
+	the phone.
+
+					EMMA
+
+			How now brown cow ...
+
+				(pause)
+
+			The rain in Spain falls mainly
+
+			on the plain ...
+
+				(pause)
+
+			The quick brown fox jumped over
+
+			the lazy --
+
+	From the receiver, an irritated official voice.
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Password affirmative. Thank you,
+
+			Doctor.
+
+	Emma puts down receiver.  Hangs a cardboard outside the phone box.  Then presses
+
+	button bakelite box.
+
+	A second's wait.  A coin from the slot.  Then a HUM as --
+
+8	INSIDE PHONE BOX
+
+	the floor lowers automatically.  Emma disappears.  Hanging outside the box, a notice
+
+	now reads "Out of Order."
+
+	Next to the call box we notice a sign: an arrow pointing into the desert:  "London 84
+
+	miles."
+
+9	INT.  LABORATORY
+
+	underground.  Emma descends on the lift platform; steps into a research lab in retro hi
+
+	tech.  Walks past assistants, down long pink and orange steel corridors, Werner von
+
+	Braun goes disco.  Nears a door, marked:  "Prospero Project -- Authorized Personnel
+
+	Only." Logo with lightning emerging from a cloud.
+
+10      FROM AIRLOCK DOOR
+
+	A man enters, older.  In matching leather suit: like an astronaut.  Early 40's, handsome,
+
+	charismatic, with swept-back silver-black hair.  His name tag: DR. PETER PEEL.
+
+					PETER
+
+			Ready, darling?
+
+	Peter fixes her name tag: DR. EMMA PEEL; runs a finger down over her breast.  She
+
+	smiles.
+
+					EMMA
+
+			Ready as I'll ever be ...
+
+	Mutual erotic, intellectual attraction.  Peter takes her hand and they walk down:
+
+11      LONG CORRIDOR
+
+	air-lock doors: a series of sealed chambers inside a hitech Labyrinth --
+
+	A man joins them.  A shyer, bespectacled, less handsome version of Peter.  On his name
+
+	tag: DR. VALENTINE PEEL -- brother and partner.
+
+	In b.g., a countdown starts, ECHOING thru the lab
+
+					VALENTINE
+
+			Atmospheric pressure checked, antenna ready... 
+
+			Thermal chamber ready ... Compression module 
+
+			set ... Temperature control on course between 
+
+			one and one forty ... Water turbulence steady ...
+
+					PETER
+
+			Anything else?
+
+	Valentine smiles, shrugs --
+
+					VALENTINE
+
+			Good luck ... Peter ... Emma.
+
+					EMMA
+
+			Thanks, Valentine ...
+
+	Emma gives him a quick peck on the cheek.
+
+	A shy look from Valentine at Emma.  Peter senses
+
+					PETER
+
+			Just a minute, darling. My brother's a 
+
+			worry wart. I better have a word ...
+
+			Valentine --
+
+	Peter takes Valentine over to one side.  Emma checks gauges and dials.  Behind her a
+
+	conversation.  Peter returns.
+
+	He takes a ring from his finger --
+
+12      CLOSEUP - DIAMOND GEM
+
+	on a gold ring.
+
+13      BACK TO SCENE
+
+	He slips it onto her finger.
+
+					PETER
+
+			Something to remember me by.
+
+	Peter smiles.  The remark strikes Emma as curious.  But no time to query.  She smiles
+
+	back.  He gives her a kiss --
+
+					PETER
+
+				(checks his watch)
+
+			See you in an hour ...
+
+					EMMA
+
+			One sunny day ...
+
+	The countdown ECHOES around them as they separate.
+
+14      IN DISTANCE
+
+	Valentine watches her.
+
+15      INT.  LAB CHAMBER
+
+	Inside a bed of ice, Emma is lowered by hydraulic machine into a steel radioactive
+
+	thermal chamber, glowing eerily blue
+
+	The effect is very cold.  Frozen.  Numb.  Like a sci-fi Sleeping Beauty, beauty
+
+	entombed and sealed in a glass coffin.  Plunged down into a vault.  Opposite her --
+
+	In another glass coffin, Peter Peel, is lowered down.
+
+16      FROM EMMA'S POV
+
+	The sound of their HEARTBEATS.  Their BREATHING.  BLEEP and PULSE OF
+
+	ELECTRONICS.  Thru glass and leather.  Like cerebral sex.  Technological, erotic.
+
+	Peter winks at her -- Emma locks longingly at him, as --
+
+17      UP IN CONTROL ROOM
+
+	Valentine watches behind glass.  Like a kid excluded from a bedroom.  He attends to
+
+	dials.  And to his female assistant --
+
+					VALENTINE
+
+				(thrilled)
+
+			Readings still normal ...
+
+	The assistant smiles oddly.  FOCUS ON --
+
+	An insignia tattooed on her neck: "X404."  A replicant.
+
+	They monitor screens.  A DULL HUM.
+
+18      EXT.  SALTFLATS - DAY
+
+	A weather antenna emerges from the ground:  an enigmatic phallic silver blob, like a
+
+	Koons sculpture.  The sun glints off it ...
+
+19      DOWN BELOW
+
+	A temperature gauge rises.
+
+	The ice is infused with pulsating colors: purple -- blue -- green -- red.  Starts to heat
+
+up     as if --
+
+	It soaks up temperature:  from cold to hot in instants.
+
+20      CLOSEUP - WHITE GLOVED HAND ON DIAL
+
+	"CUMULUS COLLECTOR." The graphs accelerate, but over the dull HUM -- a
+
+	MURMUR, a BREATH.  As Emma's HEARTBEAT rises
+
+	The gloved  hand turns up the dial, past a red danger mark.
+
+	Suddenly a BLIP.  Something wrong.
+
+21      DOWN IN HIS VAULT
+
+	Peter Peel's "coffin" starts to overheat. Peter reacts --
+
+					PETER
+
+				(intercom cutting out)
+
+			Losing control -- malfunction
+
+			in thermal chamber -- for Christ's
+
+			-- Emm --!
+
+22      IN CONTROL ROOM
+
+	Needles push off the dials, as --
+
+	The ice swells: strange mix of colors, absorbing heat and energy in clusters of molten
+
+	metal ... steam and sparks ignite ... Valentine's eyes widen in alarm ...
+
+					COUNTDOWN (V.O.)
+
+			Five -- four --  three -- two --
+
+			one ... Three -- two -- one ...
+
+				(repeating)
+
+			Three -- two -- one ...
+
+23      INSIDE COFFIN
+
+	Peter's glass cracks
+
+	The emergency light goes on -- the ALARM sounds -- lab assistants running ...
+
+24      IN HER COFFIN
+
+	Emma realizes; looks to Peter --
+
+25      EXT.  SALTFLATS - DAY
+
+	The "Koons" antenna is drawing a strange purple cloud towards it, from otherwise blue
+
+	sky ... siphoning the purple atmosphere down itself into
+
+26      INT.  CONTROL ROOM - CONTINUOUS ACTION
+
+	Thru the air ducts the purple cloud starts to billow ... Panic stations! Valentine looks
+
+	aghast at the graphs:  all systems fucked, over the intercom --
+
+					VALENTINE
+
+			Emma, Peter, get out! It's going to explode!
+
+	FROM Valentine's anguished face TO Emma's face, as
+
+					VALENTINE
+
+			Emma ...
+
+27      FROM HER VAULT
+
+	Emma undoes the straps, clambers out of her pod
+
+28      ANGLE (IN DREAMLIKE SLOW MOTION)
+
+	Emma clambers onto her husband's pod -- in a sequence eternally replayed for her as a
+
+	nightmare --
+
+29      BACK TO SCENE
+
+					VALENTINE
+
+			Get out! Leave him -- ! Emma!
+
+30      RAPID INTERCUTS
+
+	The purple smoke enveloping Peter's	pod, soft caresses -- Peter struggling within,
+
+	looking at Emma --
+
+					EMMA
+
+			Peter!
+
+	Her leatherclad limbs straddled over his glass coffin.  Her HEARTBEAT sounds ... She
+
+	grabs, claws on glass --
+
+	Her fist draws back, blam! blam! blam! three deadly blows, Emma SMASHES the pod
+
+	cover, it --
+
+	Cracks -- splinters -- not breaking -- obscuring his face inside like a spider's web, as
+
+	behind her
+
+					VALENTINE
+
+			Don't wait for him -- he's not --
+
+	Breathless, blood smeared on glass, Emma's gashed fist bleeds thru torn leather glove --
+
+	twisted mass of flesh and glass -- GROWLING sound growing as:
+
+31      ABOVE GROUND
+
+	The voluminous purple cloud being sucked by the antenna...!
+
+32      CLOSEUP ON EMMA'S DIAMOND RING
+
+	gleaming thru a tear of blood as she pounds the glass --
+
+33      BACK TO SCENE
+
+					PETER
+
+				(faint)
+
+			Emma ... Emma ...
+
+	As a GROWLING sound grows till
+
+	BOOM!  An EXPLOSION rocks the vault -- flames burst out -- sound and vision
+
+	separate -- Emma hears explosion as a slow moving tear thru her psyche.  A trauma.
+
+34      ANGLE (IN EXTREME SLOW MOTION)	
+
+	The blast flings Emma back thru space, flying unconscious as if in a dream, floating
+
+	backwards in --
+
+	A milky way op-art swirl of glass and steel fragments, now -- out of control,
+
+	weightless, powerless, as --
+
+	The background of sealed doors, white corridors all vanish. A spinning, black void
+
+	opens up behind her, as her eyes shut, head falls back --
+
+	An orgasmic, dream of near-death, as a CRASH OF MUSIC BEGINS a hip new
+
+	version of the "AVENGERS" THEME TUNE --
+
+	CREDITS SEQUENCE.
+
+35      SERIES OF SHOTS
+
+	In stark silhouette  The swishing of a bowler hat spinning thru space
+
+	An umbrella tossed in the air, flicked like a deadly weapon --
+
+	A rich velvety feel, key colors black/white/red.  Dandyish and erotic followed by blasts
+
+	of violence, dreamy op-art puzzles and psychedelic patterns over --
+
+	A sensuous BLACK, background -- slowly revealed to be a woman's leather-clad 
+
+	body --
+
+	In silhouette -- A bowler hatted man, Steed, a catsuited woman Emma.  Flashes of: 
+
+	hair -- eye -- a red rose -- in bloom -- petals folding and unfolding, then tightly shut.
+
+	A thorned stem, sharp to the touch --
+
+	FROM black and white INTO color -- leather Background metamorphosing into black
+
+	and white of a chessboard as ...
+
+	A medieval knight moves around its queen in a formal dance --
+
+	A fetishistic attention to detail: leather catsuit, swish of legs, boots ... hair tossed
+
+	back - - red nails over black ... creamy white skin ... zips ...
+
+	A silhouetted man in bowler hat in Savile Row suit -- old Etonian knotted tie --
+
+	umbrella stabs like a sword --
+
+	Umbrella with knotted stems of a rose furling round -- then a tear, gash -- rose cut and
+
+	tossed into --
+
+	His lapel. Until, at the end: together in silhouette.
+
+	Bowler hat thrown, skimming, swishing thru air, until --
+
+	Now only a single HEARTBEAT ... BA-BOOM ... BA-BOOM ...
+
+	Then --
+
+	PISTOL SHOTS OVER as:
+
+36      INT.  EMMA'S BEDROOM - PRE-DAWN
+
+	A gasp as Emma wakes abruptly from her nightmare, years later, startled by the shots,
+
+	naked beneath satin sheets.  Her HEARTBEAT FADES as she looks around her Klaus
+
+	Oldenberg room, vinyl comforter, satin sheets.  A toss of her hair.
+
+	Looks more mature. Sexual, haunted. Mrs. Emma Peel -- widow.
+
+	Same every night.  Next to the clock, a framed photo of her dead husband, Peter Peel.
+
+	From outside ANOTHER SHOT ...
+
+	Emma flings on a satin robe, goes to the window and sees --
+
+37      HER POV
+
+	a CAR zooooming past, its bowler-hatted driver racing thru early morning streets.  The
+
+	damn thing BACKFIRES again ...
+
+38      BACK TO SCENE
+
+	Emma frowns, annoyed.
+
+39      EXT.  STREETS - DAWN
+
+	Zoom!  The sleek, sporty black Jaguar SS100 burns down deserted streets.  Inside is a
+
+	bowler-hatted man --
+
+	JOHN STEED, late 30's.  Handsome English gent, roguish looks, dandy's clothes.  A
+
+	Beau Brummel figure in a Savile Row suit, velvet collar, embroidered waistcoat.
+
+	A debonair Etonian, Steed oozes charm, wit and - when he chooses to -- hard-edged,
+
+	steely menace.  He drives through --
+
+40      LONDON (1999)
+
+	This is 'Avengersland': a parallel world painted by Rene Magritte, forever England.
+
+	Bright pinks, greens and reds, an imperial city in final decadent bloom.  White stucco
+
+	buildings. Regency style in candy colors.  A surreally 90's city like a hipper, edgier
+
+	version of the 60's preserved in aspic, where --
+
+	Over the RADIO, a plummy voice:
+
+					ANNOUNCER (V.O.)
+
+				(filtered)
+
+			... The War Office today approved military 
+
+			expenditure for the nation's new defense alert 
+
+			system. A spokesman  said he would raise the 
+
+			matter at the forthcoming World  Council of 
+
+			Ministers, but that a state of vigilance was 
+
+			still necessary in the uncertain climate.
+
+	As Steed turns into a mews, we realize that in this kinky, pop world, ordinary life does
+
+	not intrude.  No traffic.  No extras.  Nothing to spoil the view.
+
+	As the radio continues with a weather forecast, Steed --
+
+41      EXT.  STEED'S GARAGE - DAWN	
+
+	Steed's car enters his garage -- Door closes as --
+
+42      INT.  STEED'S FLAT - DAWN
+
+	but the curtains are still drawn so the place is dark.
+
+	A large bachelor's den.  Dark wood, leather armchairs ...
+
+	Steed enters his library from a concealed door --
+
+	Titles on wine and birdwatching.  He clicks the door, goes to his drinks cabinet. Pours
+
+	a brandy.  Hears a noise ...
+
+	Instantly on guard.  In his glass, sees a shadowy reflection move.  Steed peers 'round a
+
+	corner.  Sees a silhouetted figure stand over his desk -- a burglar?
+
+	Steed sneaks up behind -- raises his umbrella, and --
+
+	Crack!  Brings the umbrella down -- on the suspect's head.  Who manages to dodge,
+
+	swivel 'round, and --
+
+	Bam!  Delivers an expert blow to Steed's stomach.  A rapid exchange of blows.  Steed
+
+	recoils, about to jab the umbrella, when --
+
+	His assailant about to deliver a kick to his crotch -- Steed covers the area -- bam! a
+
+	spiked heel hits his bowler -- as the curtains are drawn back, light floods in -- they
+
+	freeze.
+
+	Steed knows his opponent:  a lethal blonde in red leather.
+
+					STEED
+
+			Brenda -- ?
+
+43      FROM ABOVE HIM
+
+	a voice --
+
+					MOTHER (O.S.)
+
+			Steed -- ?!
+
+44      BACK TO SCENE
+
+	Steed swivels 'round to face -- upside down -- a man hanging like a bat from the ceiling
+
+	inches before him --
+
+	Pommaded hair, fat, dandyish:  MOTHER, head of secret services; hands of extendable
+
+	metal hooks.  And BRENDA, his beautiful leather-clad bodyguard.  Who smiles
+
+	seductively.
+
+					STEED
+
+			Mother. I thought you were burglars.
+
+					MOTHER
+
+			Brenda and I thought we'd drop in.
+
+	Mother suits action to the word, drops into his wheelchair.
+
+					BRENDA
+
+			See how you're getting on ...
+
+					STEED
+
+			Something in the wind?
+
+	Mother wheels himself from the study.  Taps a barometer.  It whirls around.
+
+					MOTHER
+
+			Weather's turning nasty.
+
+					STEED
+
+			You didn't come to talk about the
+
+			weather, surely.
+
+					MOTHER
+
+			Oh yes I did. I want you to meet
+
+			somebody.
+
+				(off Steed's look)
+
+			I expect you'll like her.
+
+	Brenda coolly files her nails.  A flash of jealousy.
+
+					STEED
+
+			'Her'?
+
+45      INT.  EMMA'S FLAT (PRIMROSE HILL) - DAY
+
+	A groovy penthouse (a Lichtenstein come to life?).  Bach PIANO MUSIC floats in the
+
+	air.
+
+	Hands gliding over keys, Emma Peel plays with virtuoso skill.  On the piano, a framed
+
+	picture of her late husband.  And a photo of Emma between Peter and Valentine.
+
+	A KNOCK.  Emma gets up, goes to the door.  The MUSIC KEEPS PLAYING, keys
+
+	jumping up and down automatically, as --
+
+46      AT DOOR
+
+	Emma flicks open a large automated eye.  Peers thru.  Opens
+
+47      IN CORRIDOR
+
+	A MESSENGER (distinctive outfit) hands over a package tied in a bow.
+
+					MESSENGER
+
+			Dr. Peel?
+
+					EMMA
+
+			Thank you ...
+
+	Emma shuts the door.  Unties the bow, opens up  Finds an embossed card:
+
+					EMMA
+
+				(reads)
+
+			'Please answer the Telephone.'
+
+	Emma looks: The phone sits there.
+
+	Just then ... RING-RING.  Emma goes over, picks up the phone.  A recorded message,
+
+	an upper-class woman's voice:
+
+					WOMAN (V.O.)
+
+				(filtered)
+
+			Boodles Club, the Mall, 2:30 p.m.
+
+			Mr. John Steed ... Boodles Club,
+
+			the Mall, 2:30 p.m. Mr. John
+
+			Steed ...
+
+	BEEP.  The phone goes dead.  Emma opens up the case.  Unveils a brace of kippers.
+
+	Puzzled, she holds up a fish.
+
+					EMMA
+
+			Kippers ...?
+
+48      EXT.  BOODLE-S CLUB (PALL MALL) - DAY
+
+	Near the Mall, outside white stucco buildings, a Lotus Elan pulls up and parks as a car
+
+	conveniently leaves, cutting off another angry CAR.  HONK!  A dash clock says 2:15.
+
+	Out gets --
+
+	-- Emma Peel, different attire.  She climbs steps.  On a brass plaque, "Boodles
+
+	Gentlemen's Club."  She goes in, passing --
+
+	-- an astonished uniformed commissionaire.
+
+49      INT.  BOODLES' LOBBY - CONTINUOUS ACTION
+
+	A PORTER approaches her, equally surprised.
+
+					PORTER
+
+			May I help you, madam ...
+
+					EMMA
+
+			Mr. John Steed, please.
+
+					PORTER
+
+			I'm afraid that's impossible.
+
+					EMMA
+
+			Impossible?
+
+	The Porter points to a notice:  "No non-members.  No animals.  No women."
+
+					PORTER
+
+			You are female?
+
+					EMMA
+
+			As you see.
+
+					PORTER
+
+			Then you can't come in.
+
+					EMMA
+
+			I have an appointment.
+
+					PORTER
+
+			No women. Not in Boodles. Not
+
+			since 1922.
+
+					EMMA
+
+			Really -- what happened in 1922?
+
+	Bored, Emma breezes past, already inside the hall.  Old mahogany, portraits of dead
+
+	politicians, leather chairs.  A male enclave.
+
+	The Porter rushes up to restrain her.
+
+	Hardly missing a step, Emma lays a gentle hand on his shoulder -- finds the nerve ends. 
+
+	The Porter winces and --
+
+					EMMA
+
+			Thank you so much. I can find Mr.
+
+			Steed myself ...
+
+	-- collapses on the ground in agony.  Emma ignores him.  Pushes thru double doors,
+
+	upstairs, statues of naked bronze warriors frown down on her, into
+
+50      INT.  BOODLES - TURKISH BATHS - DAY
+
+	Thru a cloud of steam in an oriental room
+
+	Steed sits naked save for a towel.  He hears a disturbance, thru the mist, sees --
+
+	Emma before him.  Automatically, Steed dons his bowler and tips it in her direction.
+
+					STEED
+
+			Doctor Peel, I presume?
+
+					EMMA
+
+			And you must be Steed. Please
+
+			don't get up.
+
+	He doesn't.  HISSING STEAM between them as they study.
+
+					STEED
+
+			I was about to throw in the towel.
+
+					EMMA
+
+			I had a spot of bother at the door.
+
+					STEED
+
+			I shouldn't wonder. Not a woman
+
+			inside Boodles since --
+
+					EMMA
+
+			1922. Why the kippers?
+
+					STEED
+
+			Red herring would have been too
+
+			obvious, don't you think?
+
+					EMMA
+
+				(looks around)
+
+			So what was all this -- some sort
+
+			of test?
+
+					STEED
+
+			Congratulations, you've penetrated a 
+
+			bastion of male privilege. I guessed 
+
+			you weren't a stickler for Tradition, 
+
+			doctor.
+
+					EMMA
+
+			Whereas you are.
+
+					STEED
+
+			Dyed in the wool. But I can admire 
+
+			someone who doesn't play by the 
+
+			rules.
+
+					EMMA
+
+			Rules are made to be broken.
+
+					STEED
+
+			Not by me. Play by the rules,
+
+			Doctor, or the game is nothing.
+
+					EMMA
+
+			And just what is the game?
+
+					STEED
+
+			I say, this is all terribly formal.  
+
+			Must I go an calling you Dr. Peel?
+
+					EMMA
+
+				(re:  the steamroom) 
+
+			Under the circumstances, you may 
+
+			call me Mrs. Peel.
+
+					STEED
+
+			Much better.
+
+					EMMA
+
+			And now that we've settled the matter 
+
+			of honorifics, will you kindly explain 
+
+			why you wished me to meet you?
+
+					STEED
+
+			I didn't. Mother did.
+
+					EMMA
+
+			Mother?
+
+	Steed steps closer, smiling.
+
+					STEED
+
+			I expect you'll like him.
+
+	Off Emma's reaction --
+
+51      EXT.  THAMES RIVER (NEAR WHITEHALL) - DAY
+
+	CAR ROAR OVER.  Down the embankment Parliament and Big Ben in b.g., the sleek
+
+	Jaguar zooms at 60mph.  Steed dodges traffic --
+
+	Wearing racing goggles, windscreen down --
+
+	Executes a nifty maneuver, swerves on a zebra crossing, scatters pedestrians,
+
+	HONKING his HORN.  Beside him, Emma is cool as a cucumber.  Steed turns
+
+	charmingly.
+
+					STEED
+
+			Tea time -- four o'clock.  Mustn't
+
+			be late.
+
+				(beat)
+
+			A word of warning. Don't take the
+
+			macaroon. Mother's favorite.
+
+	Steed swerves down a narrow alleyway, into a secret car park entrance by the
+
+	riverbank.  He pulls up before a sign:
+
+			RIVER THAMES WATER AUTHORITY
+
+					No Admittance
+
+	At a control barrier Steed inserts a card.  Emma sees a light flash up: "Security -- Top
+
+	Priority Clearance Only."  The barrier lifts.  She looks again at Steed, reappraising him
+
+	as Big Ben approaches four.  The car disappears in darkness ...
+
+52      LARGE WINDOW CURTAIN
+
+	opens, revealing water!  We are beneath the Thames -- garbage and fish float past a
+
+	window of reinforced glass.  An original Campbell's tomato soup can floats down as we
+
+	WIDEN to reveal ...
+
+53      INT. SECRET SERVICE HQ - UNDERWATER - DAY
+
+	Mother in his wheelchair, pulling the curtain cord.
+
+					MOTHER
+
+			That's better. I much prefer a
+
+			womb with view, don't you, Mrs.
+
+			Peel?
+
+	A delicate CLOCK on the mantel CHIMES FOUR.
+
+	Mother wheels himself forward and hooks onto the kettle.
+
+					MOTHER
+
+			Shall I be mother?
+
+	He pours, presiding like a fat spider at the center of a subterranean web, known as The
+
+	Ministry: a vast bureaucracy in a labyrinth of tunnels.
+
+	Catches Emma's wandering lock
+
+					MOTHER
+
+			I expect you're wondering where
+
+			you are.
+
+	An atmosphere of a gentleman's club reigns in the subterranean bureau -- Emma takes
+
+	her tea ...
+
+					EMMA
+
+			Don't tell me: You're the shadow secret 
+
+			service. You're so hushhush, even the 
+
+			legit secret service knows nothing about 
+
+			it. Am I right?
+
+	Bodyguard Brenda, a glam leather Moneypenny, wheels a trolley brimming with fancies
+
+	over to Emma and Steed.
+
+					MOTHER
+
+			Close. We're so hush-hush, even
+
+			we know nothing about it.
+
+				(before Emma can
+
+				make sense of this) 
+
+			Now let's see, there's coconut cake, 
+
+			date and walnut; I recommend the 
+
+			rum baba ...
+
+					EMMA
+
+			Hmmm ...
+
+					MOTHER
+
+			Looks like rain, Steed...
+
+					STEED
+
+			... Showers followed by sunny periods.
+
+					EMMA
+
+				(looks up from
+
+				trolley)
+
+			We're not here to talk about the
+
+			weather, surely.
+
+					MOTHER
+
+			Oh, yes we are.
+
+					BRENDA
+
+				(to Emma, cunning)
+
+			Macaroon?
+
+	Emma hesitates; takes a cake.  About to take a bite, when --
+
+	Mother switches off lights.  A screen drops, covering the water window as the mood
+
+	changes from coziness to terror -- an ancient PROJECTOR RATTLES on ...
+
+54      IN DARKNESS
+
+	Emma watches on the wall, an official Ministry film of macabre death tableaux in the
+
+	English countryside:
+
+					MOTHER
+
+			We've had a series of bizarre weather reports.  
+
+			We kept them hush-hush and sent agents into 
+
+			the field for data. Case number one: 
+
+			April 14, 3:35 P.M., Special Agent Simkins 
+
+			investigating mysterious fires in corn circles.  
+
+			A field outside the village of Little Snoring, 
+
+			one of the hottest days of the year. Trapped 
+
+			by a sudden blizzard. Found frozen to death 
+
+			in a giant ice cube -- like a mammoth in 
+
+			perma-frost.
+
+				(the picture changes)
+
+			Case two: Pilot Raymond Shaw, May 6, 11:28 A.M. 
+
+			Took off from a deserted airstrip near Stoke Poges, 
+
+			investigating bizarre atmospheric reports. A freak 
+
+			rainstorm downed him. Knocked unconscious by a 
+
+			flying fish, falling from 15,000 feet. Twenty-five 
+
+			inches of rain in eight minutes, over an area the size 
+
+			of a cricket pitch ...
+
+				(the picture changes)
+
+			... Case three: June 2, 5:43 P.M. Defense Chief 
+
+			Major Courtnay. Remains discovered in a turnip 
+
+			field near Ashby de la Zouche. Our boffins 
+
+			recorded a sudden blast of heat. Scorched earth, 
+
+			temperature of 1000 degrees. Spontaneous 
+
+			combustion. Not much of him left ...
+
+	CLICK.  The lights go back on.  Emma notices - a new arrival
+
+	a tall, striking OLDER WOMAN; dark glasses.
+
+					MOTHER
+
+			My number two. Special assignments.  
+
+			She's --
+
+					EMMA
+
+			Let me guess -- 'Father'?
+
+					FATHER (OLDER WOMAN)
+
+			All happy families here, Mrs. Peel.
+
+	Father's dark glasses turn to Emma like a hawk.  Runs her fingers over Emma's face. 
+
+	Gets the outline.  Emma realizes --
+
+					EMMA
+
+			You're --
+
+	Blind ... Father smiles.
+
+					FATHER
+
+			God, you're quick.
+
+					MOTHER
+
+			Have a look at these, Mrs. Peel --
+
+	He passes 'round a box of evidence related to the screen events:  Steed investigates a
+
+	pair of black shoes and bowler; Emma, a fish.  The shoes have agent Simkins' name
+
+	in them ...
+
+					STEED
+
+			Ah ... From Trubshaw's.  My
+
+			shoemaker.
+
+					EMMA
+
+				(unimpressed)
+
+			A kipper. Or a red herring? What were 
+
+			they investigating?
+
+					FATHER
+
+			A series of bizarre shifts in local weather 
+
+			patterns ...
+
+					STEED
+
+			Global warming?
+
+					FATHER
+
+			Jungle plants in the Arctic? A lush 
+
+			English village transformed overnight 
+
+			into African scrubland? Blizzards in summer?
+
+					EMMA
+
+			How curious ...
+
+					MOTHER
+
+			Something strange is happening. And 
+
+			whoever knows about it doesn't want 
+
+			us to find out.
+
+					FATHER
+
+				(to Steed)
+
+			Your mission is simple. Find out
+
+			how and why these agents died.
+
+					EMMA
+
+			I'm no spy -- where do I fit in?
+
+					MOTHER
+
+			Your research into climate engineering was 
+
+			state-of-the-art. Your experiments could 
+
+			have revolutionized our knowledge of global 
+
+			warming -- had they succeeded. We need 
+
+			your expertise.
+
+					STEED
+
+			Perhaps I'd better start calling you doctor 
+
+			again, Mrs. Peel --
+
+	Emma hesitates, unsure for the first time ...
+
+					EMMA
+
+			I'm not sure I'm ready to return to work.  
+
+			I've been out of action for some time. I'll 
+
+			consider your proposal.
+
+	She gets up, ready to go.
+
+					FATHER
+
+			One moment, Mrs. Peel. There's another 
+
+			special reason we wanted you to join our 
+
+			happy family; rather curious, actually ...
+
+	Mother hits the lights.  He flicks the video into slow-mo.  File thru image clarification,
+
+	identikit sketches.
+
+					MOTHER
+
+			Eye witness reports. Strangers in the area.  
+
+			One description tallied in all three places.  
+
+			Recognize her?
+
+	Emma locks.  On the screen comes -- Emma Peel.  Steed reacts.
+
+					EMMA
+
+			Me, isn't it?
+
+	Emma stares at the screen: incredible.  Like a twin sister.
+
+					FATHER
+
+			Think of it as special assignment, Mrs. Peel.  
+
+			With a twist. You're our chief suspect.
+
+					EMMA
+
+			You're saying I have no choice.
+
+					MOTHER
+
+			Father will be your controller. Steed here 
+
+			will show you the ropes.
+
+					EMMA
+
+				(very arch)
+
+			Ropes?
+
+55      INT.  SECRET SERVICE HQ SHOOTING GALLERY
+
+	A life-size target of a man with blank face, bowler hat and umbrella, flips up, and --
+
+	BLAM! BLAM! BLAM! BLAM!  Is riddled with holes by
+
+Emma, who works at reloading as
+
+56      HIGH ABOVE IN ONE-WAY MIRRORED GALLERY
+
+	looking on, Mother with Steed.
+
+					STEED
+
+			Think she really killed those agents?
+
+					MOTHER
+
+			She may not know. Theory goes she
+
+			may be very ill.
+
+					STEED
+
+			Amnesia?
+
+					MOTHER
+
+			Possibly. Split personality ...
+
+					STEED
+
+			Insane ... ?
+
+					MOTHER
+
+			Who knows? If Dr. Darling is right, 
+
+			you should watch out.
+
+					STEED
+
+			Why?
+
+					MOTHER
+
+			She may try to kill you.
+
+57      IN SHOOTING GALLERY
+
+	Emma swiftly turns, aims, and --
+
+	BLAM! BLAM! BLAM! BLAM! BLAM! BLAM! FIRES with dead-eye precision. 
+
+	All on target.  Steed reacts.  Ulp.
+
+					STEED
+
+			Perhaps I ought to talk with Dr. 
+
+			Darling.
+
+58      INT.  SECRET SERVICE HQ PSY OPS ROOM
+
+	A gallery of portraits of Emma Peel projected on the wall based on Warhol's Jackie
+
+	(1964) -- Poignant, inscrutable, fascinating, iconic -- blown up, dissected, analyzed. 
+
+	The swirling newspaper dots cover Mother and Steed like bubbles from a light show.
+
+	As DR. DARLING, head of the Ministry's Psychological Operations (Psy Ops) -- a
+
+	kind of spy version of Timothy Leary, briefs them. In his thick dark glasses and beard,
+
+	Darling's obsessive interest in Emma adds a sinister air.
+
+					DR. DARLING
+
+			One key point: Mrs. Peel is a widow:
+
+			she's obsessively devoted to the memory 
+
+			of her husband the scientist Peter Peel. 
+
+			You may find her a little ... remote.
+
+	Images of Peter Peel on the wall.  Of Emma with him.
+
+					DR. DARLING
+
+			They were a team. Met at Cambridge. 
+
+			Working on a top secret research mission 
+
+			into weather conditions, code name The
+
+			Prospero Project, when Peel died.
+
+	Steed looks meaningfully at Mother.
+
+					MOTHER
+
+			Something went wrong. System malfunction.  
+
+			Explosion. Mrs. Peel had a narrow escape.  
+
+			Suspected sabotage. Nothing proven. File 
+
+			still open.
+
+					STEED
+
+			How come you took so much interest
+
+			in her, Dr. Darling?
+
+					DR. DARLING
+
+			Her husband was one of ours.
+
+					STEED
+
+				(eyes Peel's photo,
+
+				then Mother)
+
+			Peel? Did she know?
+
+					MOTHER
+
+			Still doesn't. Better safe than sorry.  She 
+
+			was in a dangerous game, Steed. High 
+
+			stakes. She may prove to be a risk.  If 
+
+			she is, there's only one solution.  Termination.
+
+					STEED
+
+			Anyone particular in mind?
+
+					MOTHER
+
+			You.
+
+	OFF Steed's reaction.  CLASHING BLADES OVER ...
+
+59      INT.  SECRET SERVICE FENCING SALON
+
+	Steed and Emma (new outfit), cross swords.  Like everything else she does, Emma is a
+
+	champion.  Steed is hard put.  Both fence attached to cables -- very high-tech 
+
+	dueling ...
+
+	Steed is in white; Emma (natch), in black ... yin and yang ...
+
+					STEED
+
+			You're a lady of hidden talents,
+
+			Mrs. Peel ...
+
+	Tic-tac ...
+
+					EMMA
+
+			I've no intention of hiding them ...
+
+	Tic-tac ...
+
+					STEED
+
+			Scientist ...
+
+				(tic-tac)
+
+			... marksman ...
+
+				(tic-tac)
+
+			... swordsman ...
+
+				(tic-tac)
+
+			... To what do you attribute your 
+
+			overachievements?
+
+	Fast swordplay.  Tic-tac-tic-tac-tic.  Steed's good, too.
+
+					EMMA
+
+			My father always wanted a boy.
+
+					STEED
+
+			Really?  I fail to see the connection.
+
+					EMMA
+
+			I had a feeling you would. Touche!
+
+	She lunges; her foil tips right into the heart on Steed's chest.  BUZZ!  Steed removes
+
+	his mask; holds her foil tip.
+
+					STEED
+
+			I take your point.
+
+	Emma takes off her mask.
+
+					EMMA
+
+			Do you?
+
+					STEED
+
+			Yes indeed. I need protection.
+
+60      EXT.  SIGN - DAY
+
+	"Trubshaw's of Jermyn Street, since 1756."  Steed's Jag parked in front -- of course
+
+	there's a space.  Getting out
+
+					EMMA
+
+			I thought we were on our way.
+
+					STEED
+
+			Oh, absolutely, but Trubshaw's a man 
+
+			worth meeting. No point setting out 
+
+			half shod.
+
+					EMMA
+
+				(dry)
+
+			Or half cocked.
+
+61      CLOSEUP - TRUBSHAW
+
+	slips Steed's hand-made shoes an.  The "lasts" shapes of shoes beside him -- bear
+
+	Steed's name.
+
+					STEED
+
+			I couldn't agree more. Thank you, 
+
+			Trubshaw.
+
+					TRUBSHAW
+
+				(significantly)
+
+			Very good, Mr. Steed.
+
+	WIDEN to reveal:
+
+62      INT.  TRUBSHAW'S GENTLEMEN'S SHOP - DAY
+
+	A bull moose's antlers.  A horned rhino.  A Leopard.  A tiger.  Then next to them, in a
+
+	wall of hunting trophies Emma paces impatiently beneath them.  Shop assistants attend
+
+	in tails and wing-collars, very old school tie.  Steed emerges helped into a new flashy
+
+	waistcoat ...
+
+					EMMA
+
+				(gags at the waistcoat)
+
+			Steed, we really must be --
+
+					STEED 
+
+				(relishing his shoes)
+
+			Ahh. Perfect fit. The luxury of a 
+
+			hand-made shoe. As unique as a face 
+
+			or a fingerprint. Or should I say DNA?
+
+63      BEHIND DISPLAY
+
+	Eyes watching Emma and Steed rise ...
+
+					EMMA
+
+			You can but I wish you wouldn't ...
+
+					STEED
+
+			Thank you, Trubshaw ...
+
+	A youngish man -- in black polo neck, Beatle-cut mop, pauting lips, smart suit, druggy
+
+	high-pitched giggle.  BAILEY, a cocky, cool psychopath.  He watches Steed and
+
+	Emma leave ...
+
+	... and saunters after them ...  CAR ROAR OVER.
+
+64      EXT.  LONDON STREETS - DAY
+
+	as the Jag races through them, heading for the country.
+
+					EMMA (V.O.)
+
+			That place is so absurd, so out of date ...
+
+					STEED (V.O.)
+
+			Do you really think so?
+
+	Another car follows them ... as they pass Buckingham Palace, now painted pink and
+
+	guarded by female grenadiers ...
+
+65      SIGN
+
+	reading:  "Scotland" with an arrow, as Steed and Emma zoom past in the Jag ...
+
+					STEED (V.O.)
+
+			Press that button, would you?
+
+			Tea?
+
+66      CLOSEUP - SPECIAL DASHBOARD COMPARTMENT
+
+	opens, revealing a tea service: a samovar of tea, feeding into a pre-warmed pot,
+
+	pouring into two china cups ...
+
+	WIDEN to reveal:
+
+67      INT.  JAG - DAY
+
+	Emma, reacts, pours from the samovar ...
+
+					STEED
+
+			Sorry. Didn't mean to interrupt
+
+			your flow of oratory ...
+
+	Steed's JAG BACKFIRES again as at the beginning ...
+
+					EMMA
+
+			You know what I mean. This car
+
+			-- and you. Nobody walks around
+
+			like that. Milk?
+
+					STEED
+
+			Not all Tradition is bad, Mrs.
+
+			Peel. No thank you.
+
+	She hands over a cup.
+
+					EMMA
+
+			But why? What's the point?
+
+					STEED
+
+			A Gentleman has to have a code.
+
+			This is part of mine. A uniform.
+
+			Think of it as my suit of shining
+
+			armor.
+
+					EMMA
+
+			And I suppose you're the knight.
+
+					STEED
+
+			The most unpredictable piece on
+
+			the board. And always ready to
+
+			protect his queen.
+
+					EMMA
+
+			That's predictable. When I find
+
+			a queen in need of protection
+
+			I'll let you know.
+
+	Steed looks in the mirror.  Behind them, a car.  Tailing?
+
+					STEED
+
+			I'm hoping you will.
+
+	He puts his foot down.  Zoom ...
+
+68      EXT.  COUNTRYSIDE - DAY
+
+	Towards picturesque Scotland.  The JAG ROARS by - then the other car ...
+
+69      INT.  JAG - DAY
+
+	Emma consults a list, reads --
+
+					EMMA
+
+			Sir August Merryweather ... why
+
+			are we seeing him first?
+
+					STEED
+
+			As per mother's instructions.
+
+					EMMA
+
+			Do we always follow Mother's
+
+			instructions?
+
+					STEED
+
+			For a man in my position --
+
+					EMMA
+
+			Just what is your position, if you don't 
+
+			mind my asking.  How did a stuffed 
+
+			shirt like you get into this line of work?
+
+					STEED
+
+				(smiles)
+
+			They call me in when they've reached a 
+
+			dead end. Freelance. Like yourself.
+
+					EMMA
+
+			I have no choice. Why should you
+
+			risk your life?
+
+					STEED
+
+			After our fencing match, I was rather 
+
+			hoping you would do the risking.  
+
+			More tea?
+
+					EMMA
+
+			No thanks.
+
+					STEED
+
+			I meant me.
+
+	Emma takes in Steed's evasive answers.  Sighing, she pours.
+
+70      EXT.  HIGHLANDS - DAY
+
+	The Jag winds around Loch Ness, followed by the car.
+
+					STEED (V.O.)
+
+			According to Mother, Sir August owns 
+
+			half of the Highlands. A millionaire.  
+
+			Former head of Special Projects at the 
+
+			Ministry. Now ...
+
+					EMMA (V.O.)
+
+			An eccentric recluse?
+
+71      INT.  JAG - DAY
+
+					STEED
+
+			Not so much eccentric. More barking 
+
+			mad. He has a wife called June. And 
+
+			a daughter somewhere -- Julie.
+
+					EMMA
+
+			June, July ... August?
+
+					STEED
+
+			The family does seem to be somewhat 
+
+			meteorologically inclined.
+
+					EMMA
+
+			Any other vices?
+
+					STEED
+
+			All of a piece, really. A fanatical 
+
+			weatherman. Chairman of BROLLY.
+
+				(off her look)
+
+			British Royal Organisation For
+
+			Lasting Liquid Years. Thinks British 
+
+			weather has been tampered with 
+
+			by ... aliens.
+
+	Emma takes this in.
+
+					EMMA
+
+			So ... I distract him while you snoop 
+
+			around? How?
+
+					STEED
+
+			Small talk.  Try the weather.
+
+72      EXT.  HUGE COUNTRY HOUSE - DAY
+
+	Steed and Emma speed up to the huge open main gates
+
+	Signs:  "Private: No Admittance."  Guards in hunting gear and plus fours, with loaded
+
+	rifles.  They start up the drive ...
+
+	Several peacocks on the lawn fan open their beautiful tails.
+
+	One of them, a mechanical peacock whose thousand eyes CLICK with the WHIR of a
+
+	CAMERA ...
+
+	The other car pulls in behind. Inside, reveal Bailey watching them.
+
+73      INT.  MANOR HOUSE CORRIDOR - DAY
+
+	On a tartan carpet, a SCOTTIE BARKS furiously at a set of EXPIRING BAGPIPES
+
+	on the floor.  PAN UP to reveal:
+
+	A BUTLER leading Emma down the corridor --
+
+	-- where she admires the eccentric fixtures, pausing to note a large teddy bear outfit
+
+	with tartan trimmings instead of the usual suit of armor.
+
+					EMMA
+
+			Original ...
+
+					BUTLER
+
+			This way, miss ...
+
+					EMMA
+
+			Missus ...
+
+	He opens the double doors, admitting Emma into
+
+74      INT.  A LARGE ROOM
+
+	of semi-tropical climate.  Jungle plants, parakeets, snakes.  Walls lined with display
+
+	cabinets and bell jars:  stuffed birds, butterflies, spiders.  A thermometer reads:
+
+	100 degrees with high humidity. The Butler leaves.
+
+	Emma fans herself.  Nobody in the roam.  But hears a sound of RAINFALL from a
+
+	smoked glass conservatory.
+
+					EMMA
+
+			Sir August ... ? Sir August ... ?
+
+					VOICE (O.S.)
+
+			Eh? In here!
+
+	Emma follows the SOUND, steps cautiously forward.
+
+75      INT.  CONSERVATORY
+
+	beneath a sprinkler system of torrential rain, an old man splashes in bizarre rubber togs.
+
+	Emma stays cool.
+
+					EMMA
+
+			I've come to apply for membership
+
+			in Brolly --
+
+					SIR AUGUST
+
+				(shouts above the tempest)
+
+			You don't get rain like you used to in 
+
+			England. A good shower that's the ticket.  
+
+			Stiffens resolve, puckers the spirit, quells 
+
+			the namby-pamby in a man.
+
+	SIR AUGUST steps out of the shower and wind machine.  A belted rubber macintosh,
+
+	flippers, goggles.  He starts to disrobe, the NOISE DIES DOWN --
+
+					EMMA
+
+			I so agree. How did you acquire a 
+
+			taste for it?
+
+					SIR AUGUST
+
+			Out in India. So character-forming for the 
+
+			British. Not the heat. Good Lord, no. The 
+
+			rain, dash it. A good monsoon. Fifteen 
+
+			inches overnight. A whole week of lovely 
+
+			rain. I remember one summer in Jaipur ...
+
+	Sir August removes his goggles, recognizes her.
+
+					SIR AUGUST
+
+			You
+
+					EMMA
+
+			Have we met?
+
+					SIR AUGUST
+
+			You mean you don't recall??
+
+	Before Emma can reply, the door opens...
+
+					SIR AUGUST
+
+			Ah, Lady June ...
+
+	Emma's attention switches to LADY JUNE, a buxom lady in a sou'wester and galoshes,
+
+	who wheels in a tray of scones.
+
+					LADY JUNE
+
+			Dear August.  Loves his showers.
+
+			Like a baby.
+
+				(beat)
+
+			Scones, Mrs. Peel?
+
+					EMMA
+
+			Thank you, Lady -- June ...
+
+	Emma sees Sir August gazing wistfully out of the window, which is rapidly 
+
+	darkening ...
+
+					SIR AUGUST
+
+			Ah, beautiful. Just as he promised.
+
+					EMMA
+
+			Promised? Who promised?
+
+					SIR AUGUST
+
+			There, look!
+
+	Emma looks, sees rain start to pitter-patter on the windows.  Emma exchanges looks
+
+	with June as the rain starts pouring.
+
+					SIR AUGUST
+
+			Imagine being caught out in a blow 
+
+			like that!
+
+76      EXT.  MOORLAND - DAY
+
+	THUNDER and lightning -- Steed is caught out in it; puts up his umbrella; wanders
+
+	over the brow of a hill, past a big sign:  "No Trespassers."  Rains more.  And more.
+
+	Turns to a tempest, as --
+
+					STEED
+
+			I say, this is a bit much.
+
+	Lashed by rain ' Steed carries on to the brow of the hill.  He looks over, peers through
+
+	the mist at --
+
+	A deep purple cloud.  Mushrooming towards him.
+
+	Steed can't escape it.  It envelops him.  Starts to blink.  Cough.  Footsteps less sure. 
+
+	Surrounded by thick purple haze
+
+	Steed stumbles and falls
+
+	Down a hill.  Tumbles to the bottom.  He knocks his head on a rock.  Steed blinks,
+
+	shakes his head.  Eyes refocus.  He sees
+
+77      UNDULATING SAND DUNES
+
+	Sun shining down on yellow sand, a barren vista.  Dead trees.  Suddenly Steed's in the
+
+	Sahara.  A heat haze shimmers.
+
+	Steed blinks, thinks he's dreaming when he sees ...
+
+78      IN DISTANCE - RED PHONE BOX
+
+	Steed heads towards it.  The PHONE BOX seems further away.  Like an optical
+
+	illusion.  Then hears RINGING.
+
+	Steed still bowler-hatted.  Overcoat.  Perspiring.  Takes off bowler, wipes brow. 
+
+	Adjusts rose in buttonhole.  It wilts.
+
+	He arrives at the phone box. Opens the door.  Steed picks up the RINGING PHONE,
+
+	listens to --
+
+	A SCRATCHY ORCHESTRAL RECORDING of "The Merry Widow."
+
+					STEED
+
+			'The Merry Widow'...?
+
+	Over the MUSIC, a strange --
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			... Hello ... Hello? ... Who the
+
+			hell...? Who is this? ... You must
+
+			leave the test area. I repeat,
+
+			leave the area ... Help is on the
+
+			way ...
+
+	CLICK.  The line goes dead.  Steed is baffled.  Steps out, sees --
+
+79      ON HORIZON
+
+	a shimmering heat haze.  A figure on a camel moving towards them.  Steed watches
+
+	amazed, as the camel pads closer ...
+
+	The mirage arrives. The rider dismounts. A woman in yashmak and veils. She draws
+
+	closer. Drops the veils to reveal --
+
+	Emma Peel.  In her black leather catsuit.
+
+					.STEED
+
+			Mrs. Peel. Good of you to drop by. 
+
+			And I see you're wearing your - 
+
+			riding outfit?
+
+	Emma moves closer.  Steed smiles at her.  Emma closer and -- chop! -- gives a kung-fu
+
+	jab to the throat, a kick to the balls, a jab to the stomach.  As Steed lies on the 
+
+	ground --
+
+					STEED
+
+			Manners, Mrs. Peel.
+
+	Emma takes out a .38 GUN, points at his heart, FIRES -- 
+
+	BLAM!  BLAM!  BLAM!  BLAM!  FOUR SHOTS --
+
+80      EMMA'S POV
+
+	-- The bullets strike his chest.  Round his heart.  Steed slumps back on the sands.  Eyes
+
+	close ...
+
+81      EMMA
+
+	moves over him. Drops a small toy snowshaker into his curled fingers. Blows a good
+
+	bye kiss.
+
+82      STEED'S POV	82
+
+	The sun.  Clouds roll by.  The camel peers down at him.
+
+		FADE TO BLACK.
+
+	Sound of CLACKING ...
+
+	FADE IN:
+
+83      INT.  SECRET SERVICE HOSPITAL - DAY
+
+	A hospital ward.  Empty apart from one bed.  A nurse (Brenda in her red leather), her
+
+	spiked heels clacking on the floor, brings over a cup of tea to
+
+	Steed in a hospital bed.  Who wakes, surprised to see Emma.  Peering over him.  Very
+
+	nonchalant.  Eating his grapes.
+
+					STEED
+
+			Ah, Brenda ...
+
+				(as she leaves)
+
+			Mrs. Peel?
+
+					EMMA
+
+			You should be dead.  How do you
+
+			feel?
+
+					STEED
+
+				(eyes her)
+
+			Strange.
+
+					EMMA
+
+			You were very lucky.  Four shots to 
+
+			the heart. I found you after I slipped 
+
+			away from Sir August. Mother brought 
+
+			you here. Not me you should thank.
+
+					STEED
+
+			I wasn't about to.
+
+					EMMA
+
+			I mean your man Trubshaw.  Your
+
+			bullet-proof waistcoat.  I thought 
+
+			you were just overdressed.
+
+					STEED
+
+			I might say the same.
+
+84      FROM GALLERY
+
+	Mother with Dr. Darling taking notes.  Emma looks up at them.  Drops to a whisper. 
+
+	But they both are wearing headphones.
+
+					EMMA
+
+			Mother and Dr. Darling have me 
+
+			under observation. They think I 
+
+			tried to kill you.
+
+					STEED
+
+			Why should they think that?
+
+					EMMA
+
+			You told them. You said I arrived 
+
+			on a camel, shot you four times. 
+
+			Left you for dead.
+
+					STEED
+
+			Frankly that's how I remember it.
+
+					EMMA
+
+			But that's absurd. I may not be 
+
+			over-fond of you, Steed, but it's 
+
+			not my style.
+
+					STEED
+
+			Perhaps your memory plays tricks,
+
+			Mrs. Peel.
+
+					EMMA
+
+				(conceding)
+
+			That's possible. Sir August was convinced 
+
+			he'd met me before. But I'd never met him.  
+
+			Another odd thing. When it rained, he said 
+
+			it was just as someone had promised.
+
+					STEED
+
+			Did he say who?
+
+					EMMA
+
+			No. But he must know. Incidentally, 
+
+			my double left you with this.
+
+	Emma shows Steed the toy snow scene.  A winter wonderland snow scene.  He looks
+
+	puzzlingly at it.  On its underneath. "The Wonderland Corporation," followed by --
+
+					STEED
+
+			An invitation. To a 'formal picnic'...?
+
+					EMMA
+
+			Did you say formal? I must dress.
+
+85      EXT.  LONDON STREET - NIGHT
+
+	The sporty Jag pulls up outside a tall, swanky building.  Steed gets out, opens her door.
+
+	Irritated, Emma steps out of the car, clad in her leather suit --
+
+86      CLOSEUP OF HER HEEL
+
+	hitting the street.   PAN UP TO Steed, admiring --
+
+					STEED
+
+			I must say, you look more your
+
+			old self --
+
+					EMMA
+
+			You mean my other self ...
+
+					STEED
+
+			Either way ... may I ask: why
+
+			you dress in that fashion?
+
+					EMMA
+
+			I should have thought that was
+
+			obvious ...
+
+				(off his smirk)
+
+			I'm in mourning.
+
+	She moves off.  Stay on his poker face.
+
+					STEED
+
+			I can't wait to see afternoon.
+
+	He joins her; they survey the building.
+
+					EMMA
+
+			Where's the picnic?
+
+	They look up to --
+
+87      INT.  CONFERENCE ROOM - NIGHT
+
+	A boardroom suite, overlooking London.  Lights twinkling --
+
+	Around a conference table.  Twelve TEDDY BEARS.  Each six feet tall.  Ridiculous
+
+	and sinister.  In pink, turquoise, brown, black, white, green.  Furry, giant paws and
+
+	ears, swivel eyes.  One teddy sports a familiar tartan ...
+
+	On the table, children's party food: jellies, hundreds and thousands, birthday cakes. 
+
+	And wrapped presents before each.
+
+	Each bear has a name-badge: Bobby, Bobo, Bruno, Bibi, Betty, Binky etc. pinned to
+
+	their fur.  A children's tune, "THE TEDDY BEAR'S PICNIC," plays.  Followed by -
+
+	a gavel rapping order.
+
+	A distinctively chilling voice, eerily familiar and seductive, which ECHOES through our
+
+	story --
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Ladies, gentlemen and bears ...
+
+	The teddy bears look round.  Can't hear who's talking.
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Today is history. The first day of the future. 
+
+			I welcome you to the first general meeting 
+
+			of the Wonderland Corporation, now allied 
+
+			with our colleagues from Brolly ...
+
+	Murmurs of congratulations amongst the bears ...
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			You have all given time, money and expertise 
+
+			to achieve our goal. But we are reaching a 
+
+			new phase of our operation. From today, 
+
+			many of you will no longer be needed. I have 
+
+			to warn you ...
+
+	Dismay from the teddy bears.  As a CUCKOO CLOCK RINGS OUT,
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			A cuckoo.  The first sign of spring, and ... 
+
+			A cuckoo in our nest. Our organization is 
+
+			no longer secret. Agents are investigating 
+
+			us. Their names are John Steed and Emma 
+
+			Peel. I believe we have a traitor among us 
+
+			... perhaps more than one ...
+
+	Uproar from the teddy bears.  Shouts of "Who?" (*PS: One of the Teddys is a giant
+
+	rabbit who seems especially alarmed).
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			That remains to be seen. When we find 
+
+			the traitors, they will be dealt with severely.
+
+					TEDDY BEAR #l
+
+			These agents.  Where are they?
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Here. In this building. By our estimate, they 
+
+			will enter this room in thirty-five point five 
+
+			seconds precisely ...
+
+	Panic.  The bears scramble to go, bumping into each other.
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			I am sorry the party is over.  But we 
+
+			shall meet again.
+
+			To each of you a gift. A token of
+
+			my appreciation.
+
+	In front of the teddy bears, each one receives a present wrapped up in paper with a pink
+
+	and silver bow.
+
+	The tartan teddy opens his up:  A snow scene.  Anxious moans.
+
+88      INT.  BUILDING - NIGHT
+
+	UP and inside fire staircase, Emma and Steed run up -- Open the door to the
+
+	conference room.  The CUCKOO RINGS on their entry.  To FIND an empty room.
+
+	Only the party detritus plus little teddy bears sitting where formerly the big ones sat; the
+
+	teddy bear picnic MUSIC PLAYING again OVER ...
+
+	One snow shaker left.  Steed picks it up:  Inside it:
+
+89      TINY EMMA PEEL
+
+	in black leather.
+
+					STEED (O.S.)
+
+			For you, Mrs. Peel.
+
+90      BACK TO SCENE
+
+	Emma stares at it.  Turns it over:  an address.
+
+					EMMA
+
+			Another invitation. 38 Marlborough
+
+			Terrace ...
+
+91      INT.  EMBASSY (BELGRAVIA) - NIGHT
+
+	Inside number 38, a deserted Eastern bloc embassy.  A dilapidated hammer and sickle
+
+	tapestry in tatters.  Old spy techno-junk lies discarded in elegant living rooms.
+
+	Steed and Emma open the door, rush inside.
+
+	They search for clues.  A cigar left in an ashtray.  Steed picks it up with distaste. 
+
+Then   moves over to the wine rack, picks up a vintage bottle of champagne --
+
+					STEED
+
+				(admiringly)
+
+			Hm ... A Veuve-Cliquot '56 ...
+
+				(then puzzled)
+
+			But he bites the end of his
+
+			Monte Cristos ... ?
+
+				(frowning)
+
+			Clearly, we're dealing with a
+
+			maniac.
+
+	Meanwhile, Emma goes into the --
+
+92      NEXT ROOM - EMMA'S POV
+
+	where she sees a blob of BUBBLING GUNK, like radioactive chewing gum.  A few
+
+	pieces of charred clothing tell us this was once a man in a teddy bear outfit.
+
+93      BACK TO SCENE
+
+	Steed enters behind her, examines the gunk.
+
+					STEED
+
+			Colonel Crabtree. International
+
+			Satellite Systems. Formerly of
+
+			the Ministry.
+
+					EMMA
+
+			How on earth can you tell?
+
+	Steed holds up the inside of a battered shoe:  the name.
+
+					STEED
+
+			Elementary, Mrs. Peel. Trubshaw
+
+			isn't the only shoemaker still
+
+			practicing his trade ...
+
+					EMMA
+
+			Very good, Steed ...
+
+	A MEWLING SOUND.
+
+					EMMA
+
+			What's that?
+
+	Leaving Steed to ponder the remains, Emma goes into
+
+94      ANOTHER ROOM
+
+	Dark.  Switches on the light.  And gasps.
+
+95      STEED
+
+	looks up as Emma emerges with - 
+
+	A Leopard cub.  Steed raises his brolly.
+
+					STEED
+
+			What on earth?
+
+					EMMA
+
+			Any ideas?
+
+					STEED
+
+			Well, he was a fellow of the Royal
+
+			Zoological Society ...
+
+					EMMA
+
+			Is that written in his shoe?
+
+					STEED
+
+				(smug)
+
+			Common knowledge, Mrs. Peel ...
+
+					EMMA
+
+				(shrugs)
+
+			She had this in her mouth. There,
+
+			there...
+
+	Cooing to the cub, Emma tosses to Steed -- another snowshaker.  Inside -- another
+
+	address:  84 Cadogan Place.
+
+					STEED
+
+			Not again.  There's got to be
+
+			another. way to go about this.
+
+96      EXT.  CADOGAN PLACE APARTMENT BUILDING (KNIGHTSBRIDGE) -
+
+	NIGHT
+
+	Down a sheer wall Emma Peel abseils with rope and crampons.  Before gliding through
+
+	an open French window --
+
+97      INT.  KNIGHTSBRIDGE FLAT - NIGHT
+
+	Emma investigates.  Nobody there.  She looks 'round.  Military memorabilia.  Busts of
+
+	Napoleon and Charlemagne.  Looks inside drawers.  Desks.  Meanwhile --
+
+98      INT.  STEED'S JAG - NIGHT
+
+	Steed feeds a carton of milk to the leopard, who is a handful ... licking, pawing him ...
+
+					STEED
+
+			Now, now ...
+
+				(sings)
+
+			'I can't give you anything but
+
+			love, baby...'
+
+99      INT.  KNIGHTSBRIDGE FLAT - NIGHT	
+
+	Emma searching ...
+
+100     OUTSIDE FLAT DOOR	100
+
+		a key in lock.  Door opens.  Silence.
+
+101     INSIDE - EMMA
+
+	finds a snowshaker.  About to look underneath.  Hears a NOISE.  Looks up, in front of
+
+	her in the mirror, sees -A giant teddy behind her.  Ready to strike --
+
+	Emma swivels 'round,  a fluid balletic motion, and --
+
+	Bam!  A kick to the teddy's stomach.  Then off balance, Emma hurls him over her
+
+	shoulder, darts in to pin the teddy to the ground as --
+
+	The teddy grabs Emma's legs, flings her off balance.  She falls.  Teddy grabs a military
+
+	sabre from the wall, and Woosh!  Slices through air at Emma's head.  She ducks.  The
+
+	sabre skims her hair.  Emma grabs another sabre; the fight is on!
+
+	Emma counterattacks.  Slashes with the sabre and the teddy's head goes flying off! 
+
+	Jesus.  The torso stands unsteadily.
+
+	Emma's eyes widen as:
+
+	A man's head emerges from the teddy torso.
+
+	Emma's so surprised, he can slug her ...
+
+	Emma's out.
+
+102     INT.  STEED'S JAG - NIGHT
+
+	so is Steed and the Leopard -- both asleep.  A little milk dribbles down Steed's chin ...
+
+103     INT.  KNIGHTSBRIDGE FLAT - NIGHT
+
+	The man goes to the other room.  Starts to take off the rest of his teddy costume. 
+
+	Throws clothes into a suitcase.
+
+	The PHONE.  Terrified, the Man picks it up ... The voice ...
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Naughty teddy ...
+
+					MAN
+
+			No! You can't ...
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Ask not for whom the telephone
+
+			rings, it rings for thee ...
+
+					MAN
+
+			But I've got rid of her.  She's ...
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Go to the window ... To the window.
+
+	Teddy moves to the open window.  Sudden PAIN.  LIGHTNING.
+
+	Teddy looks up in terror as a purple cloud releases another BOLT.  Direct hit.  The
+
+	teddy slumps to the ground.  Soggy, waterlogged, very dead.  Kinda like the
+
+	other guy ...
+
+104     IN OTHER ROOM
+
+	Meanwhile Emma wakes up. Turns the corner.  Towards the other room, sees dead
+
+	Teddy.  Reads the label on his suitcase ...
+
+					EMMA
+
+			Major D'Arcy ... ?
+
+105     OVER HER SHOULDER
+
+	from the window behind her like a spider on glass appears another "Emma" --
+
+	-- let's call her Bad Emma -- coming straight for Emma.  She makes a NOISE.  Emma
+
+	turns just in time to see.
+
+					EMMA
+
+			Well, well. If it isn't me ...
+
+	Emma starts towards her double, who hesitates, then turns, leaping out the window ...
+
+	she wears the same black catsuit.
+
+	The real Emma rushes, follows her "double"
+
+	Clambers outside to rappel up the line to
+
+106     EXT. ROOFTOPS - NIGHT
+
+	Emma looks.  Beneath a starlit sky criss-crossed by wires, a rooftop maze of buildings,
+
+	flanked by giant gargoyles -- goblins, lions, griffins -- over twinkling lights ...
+
+	Emma searches the roof -- no sign, only shadows.  Then turns a corner to see --
+
+	Above the city, fairy lights on the rooftops of Harrods, lit by a million bulbs ... giant
+
+	neon signs ...
+
+	Several floors below, Emma sees the streets.  A twinge of vertigo.  Then she looks up,
+
+	hears a NOISE -- From:
+
+107     BEHIND GARGOYLE
+
+	she sees her "double" run.  Emma gives chase.
+
+	Hot pursuit.  Over rooftops.  'Round wires.  PAST neon signs high over the city ...
+
+	Emma follows.  Gains on the "double," who --
+
+	Pushes faster.  Gliding between rooftop buildings.  Dodging, weaving.  But Emma
+
+	gains more.  Sleek limbs, muscular, perfect body machine, until --
+
+108     EMMA'S POV
+
+	as she sees her "double" leap over a yawning chasm.  And stumble on the other side for
+
+	a footing.
+
+109     BACK TO SCENE
+
+	as Emma's adrenaline surges.  She cannot stop, she --
+
+	Jumps!  Hangs in the air.  Limbs pushing out for the edge.  And only just, she lands
+
+	perfectly, gaining, closing, until --
+
+110     ON NEXT ROOFTOP
+
+	Emma gains up close.  A final burst of acceleration.  Then without warning, her
+
+	"double" --
+
+	Turns, Emma catches up, and --
+
+	Wham!  Wham!  A kick -- a chop to Emma's body - double scissorkick -- Emma reacts
+
+	swiftly, surges into overdrive --
+
+	In a lightning-fast kung fu duel -- CRACK OF BONE -- CRUNCH OF BLOWS -- a
+
+	flurry of kicks as Emma --
+
+	Lands on her back.  The "double" attacks.  Emma retaliates --
+
+	Kicks up her leg -- flings the "double" over her head she lands awkwardly -- a
+
+	METALLIC CRUNCH in a blow to her head -- but picks herself up without pausing
+
+	And vanishes into the rooftop maze.
+
+111     AGAINST SKYLINE
+
+	Emma stands.  Looks.   She's lost her "double."  She stands alone, silhouetted against
+
+	the night sky.
+
+	Caught in the moonlight.  Above sparks of neon.  Daunting, muscular, poised for
+
+	action, as --
+
+	Ears listening to distant noises.  SWOOSHING TRAFFIC.  FLUTTER of BIRD
+
+	WING.  HUM of WIND through wires.  Then an AUDIBLE SNAP --
+
+112     EMMA'S POV - HIGH ANGLE
+
+	above her a SPAM as a STEEL CABLE WIRE of an aerial is snapped.  Slowly wound 
+
+	tightly 'round, bent back, coiled, ready to spring --
+
+113     BACK TO SCENE - EMMA
+
+	looks 'round.  Sees nothing, hears the sound of the WHIPLASH coming seconds 
+
+	before --
+
+	Through the air --
+
+114     EMMA'S POV
+
+	a flashing line like a bolt of lightning, but cannot move quickly enough as --
+
+115     BACK TO SCENE
+
+	as a cable wire whips across, coils 'round Emma, lashing her tight, crushing air from
+
+	her, as the wire --
+
+	Sweeps Emma off her feet, whiplashes her back like a spring, hoists her and dangles her
+
+	over the city.  She looks down.
+
+	A long way.
+
+	Emma grabs hold of the wire, which pulls her back.  She drops down to the rooftop ...
+
+	Slithers down the roof.  Slips --
+
+116     OVER LEDGE
+
+	Emma hangs on with fingertips.
+
+	Overlooking city with 100-foot neon sign above her:
+
+117     ADVERTISEMENT
+
+	for "Wonderland Weather" with: a repeated loop of a 100-foot high bikini-clad
+
+	"Emma" throwing head back in holiday fun -- Sign: "COMING SOON -- THE
+
+	NATURAL BEAUTY OF WONDERLAND WEATHER."
+
+118     BACK TO SCENE
+
+	Emma hangs on, looks up, stares at "herself."  The surreal repetition of the loop. 
+
+	Overlooking the whole city.
+
+	Dizzy, Emma threatens to pass out.  Just when from --
+
+119     ABOVE HER
+
+	an unseen hand from Bad Emma winds down --
+
+	Another CABLE for her to hold.  It uncoils down past the windows, telltale SPARKS
+
+	flare up as it hits metal --
+
+	Emma tries to grab for it.  Misses, then grabs hold, and -- a LIVE CABLE -- a
+
+	thousand VOLTS surge through her body --
+
+	-- A shock, Emma plummets DOWN TO --
+
+120     STRIPED AWNING
+
+	on a lower ledge.  She hangs precariously.  Catching her breath.  About to redouble her
+
+	efforts.  When beside her from a --
+
+121     BALCONY WINDOW
+
+	an umbrella extended.  Steed reaches out, reels Emma in.  They are back in Teddy's 
+
+	flat ... Emma collapses in Steed's arms.  He helps her up -- hands her a phone.
+
+					STEED
+
+			For you, Mrs. Peel.
+
+					EMMA
+
+			Thanks ...
+
+				(dry)
+
+			I see what you mean about letting
+
+			me do the risking ... Hello?
+
+	It's Sir August.
+
+					SIR AUGUST (V.O.)
+
+				(filtered)
+
+			Mrs. Peel ... Come quickly.
+
+			Brolly's been betrayed! I'll tell
+
+			you everything ... The weather's
+
+			getting worse and worse ... they're
+
+			after me ... coming for me ... come
+
+			quickly!
+
+	CLICK.
+
+					EMMA
+
+			Sir August...?
+
+				(to Steed)
+
+			What now?
+
+					STEED
+
+			Ask Mother.
+
+	Sound OVER:  RING-RING.
+
+122     INT.  MANOR HOUSE (SCOTLAND) - DAY
+
+	Sir August gripped with terror, stares at the PHONE.  The scotty DOG BARKS.
+
+	Finally, Sir August answers.
+
+					SIR AUGUST
+
+			Mrs. Peel -- ?
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Ask not for whom the telephone
+
+			rings ...
+
+					SIR AUGUST
+
+			No, please! I beg you ...
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Walk over to the window ...
+
+					SIR AUGUST
+
+			Let it be rain, please let it be --
+
+					VOICE (V.O.)
+
+				(filtered)
+
+			Stay by the window. By the window.
+
+	Mesmerized, Sir August goes to the window. Looks -- Lady June arrives, too late.
+
+123     OUTSIDE
+
+	a purple cloud of cyclone-force rages towards him.  A luminous glow.  Then a
+
+	LIGHTNING STRIKE. And --
+
+	BOOM!  An EXPLOSION BLASTS the WINDOWS.  A WIND rushes
+
+	in ...
+
+					FATHER (V.O.)
+
+			Emergency alert ...
+
+124     EXT.  WHITEHALL STREETS - DAY
+
+	PAST obscure imperial statues a tiny micro Messerschmidt bubble car tootles down
+
+	deserted streets.
+
+					FATHER (V.O.)
+
+			A cyclone hit Banffshire last night.
+
+			Completely unpredicted ...
+
+125     INSIDE CAR
+
+					EMMA
+
+			Where's Mother?
+
+					FATHER
+
+			Mobile HQ. In a blue funk.  Can't 
+
+			take chances. I'm looking after 
+
+			things while he's hiding out ...
+
+	Father drives like a maniac.  She senses their unease.
+
+					FATHER
+
+			You're probably wondering how I 
+
+			can drive 'blind.' Simple. A new 
+
+			prototype from the boys in X division.  
+
+			Micro-sensors in the system read 
+
+			signals and road information. Converts 
+
+			the info into miles per hour. 
+
+			Ultra-sensitive.  Ultra-smart.
+
+	Father jumps a red light.  CARS SCREECH together in a huge pile-up.  Not that smart. 
+
+	Steed holds onto his hat.
+
+					STEED
+
+			We know one thing. That suspect
+
+			was not Mrs. Peel.
+
+					FATHER
+
+			So you say ... 
+
+					EMMA
+
+			You don't believe him?
+
+					FATHER
+
+			It's Mother you have to convince.
+
+			He's very agitated.  Wait here.
+
+	Father SCREECHES to a halt on Holland Park Avenue
+
+	Steed and Emma get out.  Father takes off ...
+
+					EMMA
+
+			But
+
+					STEED
+
+			Don't bother.  Here's a bus ...
+
+	A red London number 22 bus drives up.  As it arrives, in a conductor's cap is -- the
+
+	bodyguard, Brenda.
+
+					BRENDA
+
+			Fares, please,
+
+126     INT.  BUS - DAY
+
+	Steed and Emma board the bus.  Destination:  Not In Service.  They pay Brenda, the
+
+	conductor.  Go upstairs.
+
+127     UPSTAIRS
+
+	is Mother's temporary mobile HQ.  He squats in a corner.  Metal hooks on electronic
+
+	panels.  Now paranoid.  Suspicious.  All the upper windows have been blacked out.
+
+					MOTHER
+
+			Welcome to mobile H.Q. Weather's 
+
+			turning quite nasty. Sir August was 
+
+			blown to smithereens. Along with 
+
+			half of Banffshire.  The Ministry's 
+
+			worried.
+
+					EMMA
+
+			He tried to warn us ...
+
+					STEED
+
+			We had a lead to Wonderland
+
+			Weather but we got there too late.
+
+			Someone tipped them off ...
+
+					MOTHER
+
+			Too late anyway. Today's escapade 
+
+			was only for starters. This is no 
+
+			ordinary weather. It's manmade. A 
+
+			kind of weather bomb.
+
+					STEED
+
+			Impossible.
+
+					EMMA
+
+			Not quite. This is my field.
+
+					STEED
+
+			Is there anything that isn't?
+
+					EMMA
+
+				(ignores)
+
+			The Prospero Project was started by 
+
+			my husband. It was an early attempt 
+
+			to solve the problems of global warming.  
+
+			In theory, climate engineering is entirely 
+
+			feasible. We thought of injecting a 
+
+			chemical cocktail into the atmosphere 
+
+			by laser and satellite. A 'quick fix'...
+
+					STEED
+
+			Filling in mother nature's blind
+
+			spots ... ?
+
+					EMMA
+
+			Exactly. There'd been earlier attempts 
+
+			to pump carbon dioxide into deep sea.  
+
+			Propane gas mostly. In small quantities 
+
+			it captures chlorine. Protects the ozone 
+
+			layer. But it proved impractical. 
+
+			Too bulky ...
+
+					STEED
+
+			But if someone miniaturized the
+
+			process...
+
+					EMMA
+
+			That's what we were working on.
+
+					STEED
+
+			Sounds as if someone's hijacked
+
+			your research.
+
+					MOTHER
+
+			Would it be possible to use it for
+
+			military purposes?
+
+					EMMA
+
+			Directed by laser. Bounced by
+
+			satellite. Quite possible.
+
+					STEED
+
+			Where would they aim for?
+
+	Mother thinks, gets out of his wheelchair; takes a turn about the bus, sits down again. 
+
+	No one pays any attention.
+
+					MOTHER
+
+			London. The World Council of Ministers 
+
+			meets soon on global defence. If you can 
+
+			control the weather, you control the world.
+
+					EMMA
+
+			After the cold war ...
+
+					STEED
+
+			The hot and cold war ...
+
+	Sign "Grand Opening Soon."  WIDEN to reveal ...
+
+128     EXT.  WONDERLAND WEATHER OFFICES - DAY
+
+	Steed looks around, picks the lock ... hi-tech style ...
+
+129     INT.  WONDERLAND WEATHER OFFICES - DAY
+
+	A kind of space-age travel agency.  Steed enters.
+
+	At the reception desk, the receptionist has her back turned.  Steed sneaks in, moves
+
+	behind a screen, overhears --
+
+	A man -- Bailey -- giving orders to the receptionist
+
+					BAILEY
+
+			New orders. The penultimate phase. 
+
+			Now fully operational ...
+
+	Steed moves away from them, pushes a set of double doors open, arrives inside --
+
+130     INT.  WONDERLAND OFFICE - DISPLAY - DAY
+
+	A long corridor surrounded by a presentation of --
+
+	Virtual reality weather:  clouds, sunny vistas, lush meadows, desert.  And slogans: 
+
+	"Be natural.  Act natural.  Think natural.  The natural beauty of Wonderland Weather."
+
+	Steed reacts; the model is the same as Emma on the big neon sign near Harrods ...
+
+	Steed finds a desk.  Inspects papers.  Sees a postcard of a large stately home.  He
+
+	pockets it.  Then looks 'round to see --
+
+	Bailey before him.  We recognize him as the young dandy trailing Steed.  Neither gives
+
+	away the other.
+
+					BAILEY
+
+			We're not yet open for business,
+
+			I'm afraid.
+
+					STEED
+
+			Shame. I was recommended. By a
+
+			friend.
+
+					BAILEY
+
+			Really?
+
+					STEED
+
+			Sir August Merryweather? I was
+
+			looking for something relaxing.
+
+			Say, a Tuscan hillside in June?
+
+					BAILEY
+
+			Normally, we'd be eager to
+
+			oblige --
+
+					STEED
+
+			Seriously?  
+
+					BAILEY
+
+			Of course. Natural weather delivered
+
+			to your door on demand. Down your
+
+			phoneline. For limited periods.
+
+					STEED
+
+			You don't say. How real does it feel?
+
+					BAILEY
+
+			As real as you wish. Hot or cold.
+
+			Humid or dry. Anything you like.
+
+			Within reason.
+
+					STEED
+
+			There are limits?
+
+					BAILEY
+
+			The technology is brand new. Soon 
+
+			it will be more powerful. We 
+
+			anticipate a huge demand. Leave us 
+
+			your number. We'll be in touch.
+
+					STEED
+
+			No need. I'll call again.
+
+	Steed raises his bowler.  Bailey watches him go.
+
+131     EXT.  WONDERLAND OFFICES - STREET - DAY
+
+	Steed emerges, stares at his postcard -- the stately home and:  
+
+	"Headquarters, Wonderland Weather, Ltd." as --
+
+					EMMA (V.O.)
+
+			My car. I'll drive.
+
+132     EXT.  COUNTRY ROADS - DAY
+
+	Emma's LOTUS ELAN WHIZZES BY...
+
+					STEED (V.O.)
+
+			A day in the country ...
+
+133     INT.  LOTUS - DAY
+
+					EMMA
+
+			Three agents killed by bad weather...
+
+					STEED
+
+			... And by you, Mrs. Peel ...
+
+					EMMA
+
+				(ignores)
+
+			Then a mad millionaire. Head of a secret 
+
+			defense establishment. A group of 
+
+			eccentrics obsessed by weather ...
+
+					STEED
+
+			... And by you, Mrs. Peel. Everything 
+
+			points to you.  No sisters?  No 
+
+			undiscovered twin?
+
+					EMMA
+
+			Not that I know of.  Explanation?
+
+					STEED
+
+			According to Dr. Darling, you're a 
+
+			psychopathic personality with 
+
+			schizophrenic delusions, suffering from 
+
+			recurring amnesia based on traumatic 
+
+			repression, leading to outbursts of 
+
+			anti-social and violent behavior.  Q.E.D.
+
+	Steed lets it sink in.  Emma looks a little hurt.
+
+					EMMA
+
+			Is that what you think?
+
+					STEED
+
+			Oh, well ...
+
+				(beat)
+
+			Just my type, Mrs. Peel.
+
+134     EXT.  COUNTRY LANES - SEVERAL ANGLES - DAY
+
+	The Lotus races 'round blind corners.  Hairpin bends.  Across a train at a level crossing,
+
+	which just misses them --
+
+135     INT. LOTUS - DAY
+
+	Emma sees Steed hold on for dear life. She smirks --
+
+					STEED
+
+			Do you always drive this fast?
+
+					EMMA
+
+			Have I trespassed on a male
+
+			prerogative?
+
+				(before his reply)
+
+			We're being followed. I saw him
+
+			at Trubshaw's ...
+
+	Steed looks into the mirror, sees a car behind them.  Pulling up, trying to catch up.
+
+	Emma glances in the mirror, and --
+
+					EMMA
+
+			Hold on ...
+
+	Puts foot down.  ZOOM.  Extra ACCELERATION.  Steed's head pinned back to his
+
+	seat.  Emma's hair tossed in the wind.
+
+136     EXT.  COUNTRY LANES - DAY
+
+	The Lotus twisting and turning.  The car behind always catches up.  Emma tries to
+
+	shake it.  Gears up.  Mach force.  Over crossroads.  Shaking 'round corners, as ...
+
+137     BEND
+
+	before Emma pushes foot down.  Further ACCELERATION.  The car behind struggles
+
+	to keep up.  Emma coasts ahead, turns a corner --
+
+	And suddenly sees in front of her --
+
+138     HUGE TRUCK
+
+	crossing directly in their path!
+
+					STEED
+
+			Turn!
+
+139     EMMA
+
+	swerves, plunging the car into a haystack, where it is completely hidden as --
+
+140     TRUCK
+
+	clears in time for the following car, which keeps going.
+
+141     ON HAYSTACK
+
+	as Steed emerges, brushing off straw.  An old lady on a bicycle with a basket appears ...
+
+					OLD LADY
+
+			Are you alright, young man?
+
+					STEED
+
+			I think so, thank you so much ...
+
+	A SQUEAL of TIRES as -
+
+	The following car swerves back, stops and Bailey emerges, gun drawn as Steed and the
+
+	Old Lady react ...
+
+					BAILEY
+
+				(relishing)
+
+			Reach for the sky, pardner.
+
+	Steed raises his hands.
+
+					OLD LADY
+
+			Oh, dear --
+
+	To Steed's surprise, she pulls an Uzi from her basket and
+
+	BANGBANGBANGBANG -- !  SPRAYS BULLETS into Bailey, who crumples, gun
+
+	spinning along the tarmac.  Cute and sweetlooking, the Old Lady is unfazed.
+
+					OLD LADY
+
+			Cocky little bastard. I hope he
+
+			was a baddy.
+
+					STEED
+
+			I feel sure of it.
+
+					OLD LADY
+
+			I'm Alice. Mother said you'd be
+
+			on your way. Mrs. Peel with you?
+
+					STEED
+
+				(looks around)
+
+			She was ...
+
+	They start pulling away hay from the haystack ...
+
+					OLD LADY
+
+			You with Mother or Father?
+
+					STEED
+
+			Both, actually.
+
+					OLD LADY
+
+			Good. Glad to see they're together at last.  
+
+			They don't get along. Promotion. Top job.  
+
+			Most unfair. Quite a fuss at the Ministry.
+
+					STEED
+
+				(not paying attention)
+
+			You don't say.
+
+				(mumbles)
+
+			Like looking for a needle in a ...
+
+142     INSIDE HAYSTACK
+
+	Coughing.  Then Emma, sputtering straw as Steed's face appears.  He tries to conceal
+
+	his relief at seeing her.
+
+					STEED
+
+			What, Lady Disdain? Are you yet
+
+			breathing?
+
+					EMMA
+
+			Barely.
+
+					STEED
+
+			You will let me know if you find
+
+			that queen who's in need of
+
+			protection, won't you?
+
+	He pulls her out.  She's annoyed.
+
+143     OUTSIDE HAYSTACK
+
+	Emma brushes herself off; pulls off a piece of straw.
+
+					EMMA
+
+				(holding it ruefully)
+
+			This must be the last straw.
+
+					STEED
+
+				(takes one off
+
+				her back)
+
+			Here's the one that broke the
+
+			camel's back.
+
+					EMMA
+
+			Someone didn't want us to get to
+
+			the party.
+
+					STEED
+
+			I expect we'll have to gatecrash.
+
+					OLD LADY
+
+			I may be able to help you.
+
+144     EXT.  STATELY HOME FROM POSTCARD - DAY
+
+	comes to life.  Steed, Emma and the Old Lady survey ...
+
+					STEED
+
+				(checks postcard)
+
+			Wonderland Weather Ltd.
+
+					OLD LADY
+
+			This way ...
+
+145     EXT.  HALLUCINOGEN HALL - GROTTO AND MAZE - DAY
+
+	On a lawn, a peacock flares its thousand eye tail.  A MECHANICAL CLICK, its eyes
+
+	conceal hidden cameras, recording Emma, Steed and the Old Lady, who've landed
+
+	inside the walled grounds.  They move stealthily forward, unaware ...
+
+					OLD LADY
+
+			Over here ...
+
+	The Old Lady waves them on.  They enter a tunnel into
+
+146     MAZE
+
+	Tall hedges surround Steed and Emma and the Old Lady on all sides.  They follow the
+
+	path, slopes , round, curves, turns into hairpin bends and U-turns.  At first intrigued ...
+
+	Then perplexed.  Emma leads the way, Steed following.  The Old Lady slips OUT OF
+
+	VIEW.  Steed stops to pick a rose, puts it in his lapel.  Emma rushes ahead.
+
+					EMMA
+
+			Aha ... Yes ... It's clear now. A
+
+			trapezoid shape, dictated by twin
+
+			diagonal paths and a single
+
+			curving path. A late Seventeenth
+
+			Century design, originally for
+
+			King William of Orange, copied...
+
+			Ah ...
+
+	Steed sees Emma slip 'round a corner.  He pursues her.  Glimpses her.  Then loses her.
+
+	Another glimpse.  Sees her thru hedges, then seemingly --
+
+	Thru the other side of the hedge.  In two places at once.
+
+					STEED
+
+			... Mrs. Peel? I think I'm seeing
+
+			double again.
+
+	Out of sight, Emma rushes on.  Around her, the hedges grow taller.  She seems to
+
+	grow smaller.  Emma begins to realize things are not what they seem.  As she pushes
+
+	her way thru --
+
+147     FROM ABOVE
+
+	the maze as a formal patter-n. Three tiny figures dart round.
+
+	DISSOLVE THRU TO:
+
+148     INT.  HALLUCINOGEN HALL - CONTROL ROOM - DAY
+
+	A pattern on a screen.  The lines of the maze reformulated as abstract lines.  Steed,
+
+	Emma and the Old Lady as three flashing dots.  Someone, somewhere is watching
+
+	them.  Laughter, then a familiar voice --
+
+					VOICE (O.S.)
+
+			Now this is more like it ...
+
+149     EXT.  MAZE - DAY
+
+	Steed searches for an exit.
+
+150     ANOTHER PART OF MAZE
+
+	Emma sees a statue of a Butler.  Which springs to life.  Summons Emma.  She follows
+
+	down a path strewn with leaves.
+
+	As Emma steps on the leaves, she --
+
+	Falls down -- a giant rabbit hole.
+
+151     INT.  RABBIT HOLE
+
+	Emma spins through darkness, like Alice in Wonderland ...
+
+					EMMA
+
+			Steed ... !
+
+					STEED (V.O.)
+
+			Mrs. Peel ... ?
+
+152     EXT.  MAZE - DAY
+
+	The identical face of Emma on a marble statue, as --
+
+	Steed studies the classical statue ...
+
+					STEED
+
+			Mrs. Peel ... ?
+
+	Steed hears a noise, turns to see --
+
+	Emma walking towards him.  She picks the rose from his lapel, slowly coils an arm
+
+	around his neck.  Pulls Steed towards her, closes her eyes -- kisses him full an the
+
+	mouth.
+
+					STEED
+
+			Mrs. Peel ... !
+
+				(more kiss)
+
+			Mrs. Peel ...
+
+	The kiss ends.  Steed recovers his composure, lips coated with her lipstick.  His tongue
+
+	traces his lips; smarts ...
+
+					STEED
+
+			Your lipstick ...
+
+	Poison.  He goes dizzy.  Steed collapses to the ground.
+
+153     INT.  HALLUCINOGEN HALL - DAY
+
+	Inside the house, a grand hall.  Deserted.  A cobweb hangs from ceiling.  A velvet
+
+	curtain tattered and torn.
+
+	Emma.
+
+	A CUCKOO CLOCK RINGS the hour.  Ahead, the real Emma sees --
+
+	A giant staircase.  There on the stairs -- a glass eye.
+
+	She picks it up.  Puts it in a pocket.  Emma goes --
+
+154     UPSTAIRS
+
+	Sees a series of family portraits an the staircase.  One of herself in ornate aristocratic
+
+	regalia.
+
+155     LONG CORRIDOR UPSTAIRS
+
+	Rooms on either side.  Emma goes down the hall, pushes doors.
+
+156     INSIDE ROOMS
+
+	A mad child's collections of ... toys... rocking horses ... train sets ... ventriloquists'
+
+	dummies... and ...
+
+	Butterflies ... scarabs ... beetles ... glass eyes, staring at her from the blackness ...
+
+	Then Emma turns into a whole room of ...
+
+	Snow shakers ... A wall of them in glass cabinets like insect specimens or fossils. 
+
+	Emma picks up one snow scene.
+
+	She shakes it.
+
+157     EXT.  HOUSE
+
+	as if in response, a storm gathers.  Shadowy clouds roll in.
+
+158     IN MAZE
+
+	A drop of rain starts to fall.  Steed's eyes flicker open.
+
+					STEED
+
+				(re: rain)
+
+			Not again.
+
+	He rises, looks down, reacts --
+
+	Alice, the Old Lady, lies near him in the maze, her neck snapped... Steed kneels, next to
+
+	her in the rain
+
+					OLD LADY
+
+			It's a trap. Tell Mother, beware.
+
+			Tell Father.
+
+	She dies in his arms.
+
+	Wind picks up, too.
+
+	Steed looks about, frowning with discouragement --
+
+159     INT.  HALLUCINOGEN HALL   PLAYROOM - DAY
+
+	THUNDER and lightning outside.  Inside the room of snow shakers, a CHILDHOOD
+
+	TUNE PLAYS.  Emma shakes the snow scene.  The weather seems to grow darker.
+
+160     FROM BEHIND
+
+	Emma hears the unmistakable chilling voice:
+
+					VOICE (V.O.)
+
+			I wouldn't shake that too hard.
+
+			The weather might turn nasty.
+
+	From the shadows ... a man.  A silhouette.  Behind a distorting lens.  His shape and
+
+	face unclear.  Emma puts down the shaker.
+
+					EMMA
+
+			Quite a collection.
+
+					VOICE (V.O.)
+
+			If nature gives a man a collector's mind, 
+
+			it doesn't matter what he collects.  
+
+			Butterflies. Old China. Penny farthings. 
+
+			A true collector grows more obsessive 
+
+			as the years pass.
+
+	Outside the big window the weather is turning nasty ...
+
+					EMMA
+
+			Your voice -- it's so familiar ...
+
+					VOICE (V.O.)
+
+			We have met ...
+
+	From the shadows, a man moves out, revealing:
+
+	Peter Peel, Emma's husband!  THUNDER.
+
+					EMMA
+
+			Peter ... ?
+
+	Instinctively Emma moves towards him.  A long pause.
+
+					EMMA
+
+			I must be dreaming ...
+
+	Emma pulls back.  Before she can turn, Peter takes her hand, places it over his heart. 
+
+	BA-BOOM, BA-BOOM, BA-BOOM ...
+
+					PETER
+
+			Listen... Very much alive.
+
+	Peter touches her hand.  Emma looks into his eyes.  Intrigued but alarmed, disbelief. 
+
+	Peter raises her hand to his lips.
+
+					PETER
+
+			Darling, it's me...
+
+	Emma shudders, battles with herself.
+
+					EMMA
+
+			Peter ...
+
+	Emma is tempted, yet filled with terror.
+
+161     CLOSEUP - EMMA'S EYES
+
+	Inside her pupil --
+
+		FLASH CUTS TO:
+
+162     MEMORY FLASHES
+
+	His face as he kissed her -- his ring on her finger -the visor cracking -- the glass
+
+	obscuring his face.
+
+163     BACK TO SCENE
+
+					EMMA
+
+			Impossible ... how?
+
+	Peter smiles disarmingly.  As if the answer was obvious.
+
+					PETER
+
+			For you ... all for you ...
+
+	Peter comes over, folds her in his arms.  Takes her head between his hands.  Emma
+
+	leans over to him, about to kiss him, both closing their eyes, until --
+
+	Lips parted.  Before they kiss, Emma pulls back --
+
+					PETER
+
+			Don't be afraid, darling.
+
+	She turns, runs to the door.  Like a trapped bird.  She tries the door -- locked.  Another
+
+	door -- locked.  A window -- locked.
+
+					PETER
+
+			Don't run away. I forgive you, 
+
+			Emma. I know you left me. But 
+
+			I still love you. Do you still have 
+
+			my ring? I need it.
+
+	Peter grabs hold of Emma.  She pulls away.  Emma sees his face before her, pleading
+
+	with her.  Seductive yet nightmarish.
+
+	As if hallucinating, Emma runs away, towards --
+
+	The big window overlooking the gardens.  She runs, leaps, and in SLOW MOTION --
+
+	Crashes thru the GLASS, shards and splinters SHATTERING all 'round her, as she --
+
+164     EXT.  HALLUCINOGEN HALL - WINDOW - DAY
+
+	somersaults through the window down to the ground.  Lands with a THUD on the wet
+
+	ground.  Looks up to see --
+
+	Steed above her, the STORM RAGING.
+
+					EMMA
+
+			Steed!
+
+	She struggles to her feet, comes towards him, upset.
+
+					STEED
+
+			Oh, no. First time, shame on
+
+			you. Third time, shame on me.
+
+	He slugs her and the SCREEN GOES BLACK.
+
+					DR. DARLING (V.O.) 
+
+			Diagnosis confirmed.  Mrs. Peel is 
+
+			suffering from delusions and 
+
+			hallucinations. An extreme personality 
+
+			disorder. She imagines her husband 
+
+			Peter Peel has come back to her ...
+
+	CLOSE ON Emma's face.
+
+					DR. DARLING (V.O.) 
+
+			A classic syndrome, to overcome her 
+
+			subconscious guilt at her other crimes.  
+
+			We've attached her to the dreamscape 
+
+			machine. We'll soon see what her 
+
+			unconscious looks like...
+
+	Emma's eyes flicker...
+
+	Steed comes INTO FOCUS, sitting by Emma's bed.  This time he's eating her grapes ...
+
+	Emma looks around ... Everything blurs.  A STEADY PULSE DRONE.  Tugs at
+
+	leather straps.  No use.  WIDEN to reveal Emma strapped to a special couch --
+
+	Her head surrounded by a plastic dome, terminals and wires leading out into a
+
+	Dreamscape machine.  Drowsy, disoriented.
+
+					EMMA
+
+			Where am I?
+
+					STEED
+
+			The Winslow Home for Retired
+
+			Lepidoptorists. I'm so sorry
+
+			I struck you, Mrs. Peel. Please
+
+			forgive me. I thought you were
+
+			someone else ...
+
+					EMMA
+
+			Was I?
+
+					STEED
+
+				(no smile)
+
+			I expect that's for you to know
+
+			and me to find out ...
+
+					EMMA
+
+			It was Peter -- I saw him ...
+
+	Drugged, Emma's eyes drop.  FOCUS CHANGES TO --
+
+165     ABOVE HER
+
+	A giant spiral HYPNODISC WHIRRS, creating trippy black and white zig zag op-art
+
+	effects a la Bridget Riley.
+
+	She blinks.
+
+		DISSOLVE TO:
+
+166     SAME SCENE - LATER
+
+	Steed is gone.  Dr. Darling leans over her.  Emma stares at the hypnodisc.  Closes her
+
+	eyes.
+
+167     EXTREME CLOSEUP ON HER EYES
+
+	Thousand REMs per sec -- a tiny chip next to her eyes, transmitting out via wires to --
+
+168     UP ON WALL
+
+	A "Dreamscape" apparatus like a liquid TV screen flicks thru random images from
+
+	Emma's unconscious.  Peter Peel -- Teddy Bears -- post card views -- childhood 
+
+	snaps --
+
+169     BESIDE "BED"
+
+	Dr. Darling furls his hand over Emma's, his fingers resting upon her ring.  During the
+
+	interrogation, he soothingly strokes her hand -- tries to remove the ring without
+
+	arousing her suspicion.  Pulls gently on it.
+
+170     UP IN GALLERY
+
+	In his wheelchair, Mother sits beside Steed.
+
+					MOTHER
+
+			This man -- did you see him?
+
+					STEED
+
+			No. Her husband, she says. Alice
+
+			tried to warn us. A trap. Tell
+
+			Mother beware. Tell Father
+
+			That's all.
+
+171     BY COUCH
+
+	Dr. Darling leans forward to interrogate Emma.
+
+172     FROM HER POV
+
+	He looks and sounds sinister.  From a corner of her eye, she sees -- a clip of keys
+
+	hanging from his pocket.
+
+173     BACK TO SCENE
+
+					DR. DARLING
+
+			I want you to say the first thing
+
+			that comes into your head when I
+
+			say these words. Do you
+
+			understand ... ?
+
+				(as she nods)
+
+			Blue ...
+
+					EMMA
+
+			... bottle ...
+
+					DR. DARLING
+
+			Red ...
+
+					EMMA
+
+			... head ...
+
+					DR.  DARLING
+
+			White ...
+
+					EMMA
+
+			Knight ...
+
+					DR. DARLING
+
+			Black...
+
+					EMMA
+
+			... death ...
+
+					DR. DARLING
+
+			Love...
+
+					EMMA
+
+			... death ...
+
+	Steed watching, listening ...
+
+					DR. DARLING
+
+			Flower ...
+
+					EMMA
+
+			... power ...
+
+	The exchange speeds up.  Unknown to Dr. Darling, Emma picks his keys; unlocks her
+
+	straps.
+
+					DR. DARLING
+
+			Nature ...
+
+					EMMA
+
+			... preserve...
+
+					DR. DARLING
+
+			Secret ...
+
+					EMMA
+
+			... love...
+
+					DR. DARLING
+
+			Hope...
+
+					EMMA
+
+			... love ...
+
+					DR. DARLING
+
+			Fear ...
+
+					EMMA
+
+			... love ...
+
+					DR. DARLING
+
+			Peter ...
+
+	As Emma talks, the "Dreamscape" plucks images from her unconscious in trippy
+
+	psychedelic rush:  faces -- colors -- patterns flash past.
+
+					EMMA
+
+			... Piper picked a peck of pickled 
+
+			peppers how many pecks of pickled 
+
+			peppers did Peter Peel -- ?
+
+174     CLOSEUP - EMMA
+
+	Quietly unclicks a lock.  She stops in mid-gabble.
+
+					EMMA
+
+			How long have I been here?
+
+					DR. DARLING
+
+			Three days.
+
+	Emma unlocks her straps.  Sits Up.  Woozy.
+
+					EMMA
+
+			Do you get paid by the hour?
+
+	Dr. Darling is shocked, indignant.  Emma rips wires from her body.  The "Dreamscape"
+
+	machine winds down.  Up in the gallery --
+
+	BAM -- !  Mother bashes his metal cane on the railings
+
+					MOTHER
+
+				(filtered)
+
+			You are here under observation, 
+
+			Mrs. Peel. You must answer Dr. 
+
+			Darling's questions
+
+	Pushes Dr. Darling aside.
+
+					EMMA
+
+			I resign.
+
+					MOTHER
+
+				(filtered)
+
+			You need treatment, Mrs. Peel.  You
+
+			can't resign.
+
+					EMMA
+
+			Watch me.
+
+	Emma staggers.  Mother looks at Steed.  Who snaps himself out of staring at the
+
+	hypnodisc.
+
+	Emma heads for the airlock door marked:
+
+	"ANTI-GRAVITY CHAMBER -- NO ADMITTANCE"
+
+					MOTHER
+
+			Don't open that, Mrs. Peel!
+
+	Fat chance ... she goes in ...
+
+175     INT.  ANTI-GRAVITY CHAMBER
+
+	Emma floats in the air, as Mother, Dr. Darling and Steed all follow.  And float
+
+	helplessly, turning around madly.  Trying to gain on Emma.  Mother's wheelchair,
+
+	Steed's umbrella and bowler, all tumble thru the air as Steed tries to reach the "OFF"
+
+	switch
+
+					EMMA
+
+				(echoing)
+
+			What are you trying to do to me?
+
+					MOTHER
+
+				(flailing)
+
+			We want to help...!
+
+					EMMA
+
+			I thought I was a widow. My
+
+			husband ... the only man I ever
+
+			loved ... is dead. For the rest
+
+			of my life I have to live with
+
+			that.
+
+					MOTHER
+
+			The death of Peter Peel was a
+
+			great loss. To us all ...
+
+					EMMA
+
+			To you ... ?
+
+	Mother looks at Emma.  He's let the cat out the bag.  Steed finds the "OFF" switch.
+
+	They all tumble to the floor, Mother landing perfectly in his wheelchair,
+
+	Steed effortlessly catching his hat and umbrella.  He moves to Mother --
+
+					STEED
+
+			I think you owe Mrs. Peel an
+
+			explanation ...
+
+	Steed stares Mother out.  Who delivers his revelations.
+
+					MOTHER
+
+			Peter Peel was a first class agent.
+
+			A senior operative.
+
+			'X' department Special operations.  
+
+			He was engaged in top secret research.  
+
+			Top priority.  Government approved.
+
+					EMMA
+
+			The Institute ... the funding ...
+
+					MOTHER
+
+			A cover ... for us.
+
+				(beat)
+
+			I'm sorry...
+
+	A turning moment for Emma.  A life lived on a lie.
+
+					EMMA
+
+			So all that time. Our work, our research 
+
+			was for you ... for this? And the 
+
+			accident --
+
+					DARLING
+
+			It was no accident.
+
+					EMMA
+
+			The official investigation ...
+
+					MOTHER
+
+			... was written by me.
+
+				(beat)
+
+			It was sabotage, Mrs. Peel.
+
+	Deadly serious, Emma walks over to him.
+
+					EMMA
+
+			Who?
+
+					MOTHER
+
+			Quite frankly ... it could have
+
+			been you.
+
+	Silence.  Emma looks away, shocked.  Steed intervenes
+
+					STEED
+
+			You're accusing Mrs. Peel of
+
+			killing her own husband?
+
+					MOTHER
+
+			Her husband suspected someone very 
+
+			close to the operation. On the day he 
+
+			died, he was setting a test.
+
+			To prove to himself -- to us that his 
+
+			wife was beyond suspicion. He had to 
+
+			be certain. He said he was going to 
+
+			give Mrs. Peel something ...
+
+	Emma keeps staring at Mother, fingers her diamond ring.
+
+					MOTHER
+
+			... I want you to remember. Did
+
+			Peter give you anything on-that 
+
+			day?
+
+176     CLOSEUP - EMMA
+
+	touches her ring.
+
+177     BACK TO SCENE
+
+	Emma looks up at Mother.  A barefaced lie.
+
+					EMMA
+
+			No.
+
+	Steed notices Emma touch her ring nervously.
+
+					DR. DARLING
+
+			He said if it vanished, he'd know
+
+			it was ... you who betrayed him.
+
+			He took a huge risk. The ultimate
+
+			test.
+
+					EMMA
+
+			So I'm still ...
+
+					MOTHER
+
+			Under suspicion. Everyone died in 
+
+			the explosion, Mrs. Peel. You were 
+
+			the only survivor ...
+
+	Mother waits.  Emma turns round.  Looks fiercely at him.  Mother shifts uneasily as
+
+	Emma walks past him to the airlock.
+
+					MOTHER
+
+			This is an official matter, Mrs.
+
+			Peel. No need to take it
+
+			personally. Where are you going?
+
+					EMMA
+
+			To find out who killed my husband.
+
+					MOTHER
+
+			The doors and walls are monitored, 
+
+			Mrs. Peel. This is a very secure 
+
+			establishment.
+
+					EMMA
+
+			So am I.
+
+	Emma pushes open the doors.  Walks out.  Down a corridor.  Dr. Darling grabs
+
+	Mother, as he exits with Steed --
+
+					DR. DARLING
+
+			She must remain here. She's
+
+			highly dangerous.
+
+178     IN HALL - CONTINUOUS ACTION
+
+	Mother exits with Steed; they watch Emma going ...
+
+					MOTHER
+
+			Pity. I was growing fond of Mrs.
+
+			Peel. Unfortunately --
+
+					STEED
+
+			Guilty until proven innocent?
+
+					MOTHER
+
+			Mother and Father know best.
+
+	Mother wheels himself off.  Then stops; over his shoulder:
+
+					MOTHER
+
+			Something quick. Nothing too ...
+
+			messy.
+
+	ON Steed.  CAR ROAR over as --
+
+179     EXT.  COUNTRYSIDE CLINIC - DAY
+
+	Emma drives a hot-wired Morris Minor out the open gates of the manor house, past a
+
+	sign which reads:
+
+	"WINSLOW HOME FOR RETIRED LEPIDOPTORISTS" (Butterfly logo)
+
+	In the b.g., a couple of old-timers race around with butterfly nets as Steed's jag pulls
+
+	past them in hot pursuit.
+
+180     EXT.  COUNTRYSIDE - DAY
+
+	Emma speeds down lanes ...
+
+	Followed at a safe distance by Steed in his SS100.
+
+181     INT.  STEED'S JAG - DAY
+
+	Steed looks: a bleep on his radar screen tracks the --
+
+182     CLOSEUP - CONCEALED MICRO-BUG - INTERCUT
+
+	on Emma's shoulder as she drives ...
+
+183     EXT.  LANES - DAY
+
+	The cars whiz past ...
+
+184     INT.  STEED'S JAG - DAY
+
+	Keeping an eye on his radar and the road, Steed switches on the radio.  The weather
+
+	forecast:
+
+					RADIO ANNOUNCER (V.O.)
+
+				(filtered)
+
+			'... Sunny intervals leading to
+
+			sudden storms and gale warnings
+
+			for all areas.
+
+				(as he frowns)
+
+			... Outbursts of rain, scattered
+
+			hailstorms and freezing fog
+
+			greeted the World Council of
+
+			Ministers as they arrived in
+
+			London for their conference ...'
+
+	Emma drives into a churchyard.  Steed follows her ...
+
+185     INT.  COUNTRY CHURCH - DAY	
+
+	A medieval country church.  Sunlight streams through stained glass, illumining Emma
+
+	as Steed watches her lay --
+
+	A red rose by an altar tomb:  an ornate mausoleum two hands clasped in a pose of
+
+	eternal sleep:  Peter Peel.
+
+	Emma pauses, as in the b.g., choirboys sing hymn practice.  Steed watches Emma move
+
+	away, toward the door.  He drops a hymn book.  Emma swivels round -- sees Steed.
+
+					EMMA
+
+			You followed me.
+
+					STEED
+
+			Orders.
+
+					EMMA
+
+			To kill me?
+
+					STEED
+
+				(fractional pause)
+
+			Nothing personal.
+
+	Emma smiles. Then turns, and --
+
+	Runs!  Steed follows Emma through a door to --
+
+186     INT.  CHURCH BELL TOWER - DAY
+
+	Steed enters, glimpses --
+
+	Emma above.  He follows her.  Hears her footsteps.  Trip- trapping up the spiral
+
+	staircase.  Steed listens, follows.
+
+187     UP BELLTOWER
+
+	From below, Steed hears a BELL RING.  A FLUTTER of BIRDS.  As debris falls
+
+	down -- Steed runs up stairs, reaches --
+
+188     EXT.  BELLTOWER TOP - DAY
+
+	BELL still RINGING.  At the top, a sheer drop.  Steed edges closer to the ledge. 
+
+	Looks.  A long way down.
+
+	From behind --
+
+					EMMA
+
+			A long way down.
+
+	Steed swivels.  Sees Emma blocking his path.  Cool menace.  Steed steps away from
+
+	the edge, Emma circles him.
+
+					STEED
+
+			Careful. You might fall.
+
+	Emma steps to the edge.  Steed freezes.  Emma locks down.  Feet resting on the ledge. 
+
+	Rocking to and fro ...
+
+					EMMA
+
+			I could save you the trouble.
+
+					STEED
+
+			No trouble.
+
+					EMMA
+
+			Because you always obey orders ...
+
+					STEED
+
+			Always.
+
+				(pause)
+
+			Except ...
+
+	Steed nears her.  Emma pushes herself right to the edge.
+
+					EMMA
+
+			Yes ... ?
+
+					STEED
+
+			... when I don't. It comes down to one 
+
+			thing, Mrs. Peel. Trust.
+
+	Steed reaches out for her.  Holds out his hand.
+
+					EMMA
+
+			And do you trust me?
+
+					STEED
+
+			I could be convinced, if ... I knew who 
+
+			poisoned me in the maze. That kiss ...
+
+					EMMA
+
+			It wasn't me; you have my word.
+
+	Steed snatches her from the edge, holds her in his arms.
+
+					STEED
+
+			I need proof.
+
+	Emma thinks.  Looks at him.  Deadly serious.  Their eyes lock.  She hesitates, then
+
+	pecks him on the cheek.
+
+					STEED
+
+			It was longer. On the lips.
+
+	Emma hesitates.  Then a kiss on the lips.  Longer.  But not much.  Steed grabs her
+
+	hand, pulls her back.
+
+					STEED
+
+			Much longer.  Approximately ...
+
+			fifteen seconds.
+
+	Emma harumphs, exasperated.  Moves closer to him.
+
+					EMMA
+
+			... Ready?
+
+	Steed nods.  Emma leans forward.  A full kiss.  At first reticent ... Emma looks at her
+
+	watch.  Counts seconds ...
+
+					EMMA
+
+			... Four ... seven ... ni-...
+
+	Then ... forgets.  Warmer, more relenting.  Edging towards passionate.  They stay
+
+	embracing for fifteen seconds ...
+
+					EMMA
+
+				(aroused)
+
+			Mmm ... what are you doing?
+
+					STEED
+
+			Keeping a stiff upper lip?
+
+					EMMA
+
+			Is that all?
+
+	The kiss continues couple of seconds longer.  Before Emma withdraws.  With an effort,
+
+	she regains her composure.  A long silence.
+
+					EMMA
+
+			So I'm in the clear?
+
+	Steed savors the kiss.  No reply.  His smile says it all.
+
+					EMMA
+
+			But you did suspect me.
+
+					STEED
+
+			Not for a moment.
+
+					EMMA
+
+			You're playing games.
+
+					STEED
+
+			Aren't we all, Mrs. Peel?
+
+					EMMA
+
+			I thought you played by the rules.
+
+					STEED
+
+			I thought you didn't.
+
+					EMMA
+
+			I'm playing to win.
+
+					STEED
+
+			Winning isn't everything.
+
+					EMMA
+
+			Please don't tell me it's how you
+
+			play the game.
+
+					STEED
+
+				(smiles; stands
+
+				aside)
+
+			After you -- Mrs. Peel ...
+
+	Steed motions down the stairs.  It's close to the edge.
+
+					EMMA
+
+			No, after you.
+
+					STEED
+
+				(back to square
+
+				one)
+
+			You don't trust me?
+
+					EMMA
+
+			As far as you trust me.
+
+	Emma motions.  Steed goes down, passes close to the edge, and swivels round
+
+	nervously.  Emma reads his thoughts.
+
+					EMMA
+
+			When it happens, Steed, you'll be
+
+			the first to know ...
+
+	With this comforting thought, Steed descends first.
+
+189     EXT.  CHURCH TOWER - DAY
+
+	As Steed and Emma exit from the tower, they see --
+
+	A tranquil village scene.  Choirboys walk out from the church.  Nearby in the deserted
+
+	village street.  A red PHONE BOX.  Which ...
+
+	RING-RING ... Starts to RING.
+
+					EMMA
+
+			Who could that be?
+
+	A ROLL of THUNDER.  Steed looks up: a clear sky.  He's puzzled.  Suddenly
+
+	suspicious.  As Emma moves to the phone.
+
+					STEED
+
+			No -- don't answer it ...
+
+	He pulls her back.  Emma looks at him.
+
+					STEED
+
+			That's it. The phones trigger
+
+			the explosions --
+
+	RING-RING ... Another ROLL of THUNDER.  Steed connects the two as -- an
+
+	angelic CHOIRBOY walks towards the phone ...
+
+	RING-RING ... A LOUDER ROLL of THUNDER.  As the Choirboy nears the
+
+	PHONE, Steed shouts --
+
+					STEED
+
+		Don't -- don't answer it -- !
+
+190     CLOSEUP - PHONE
+
+	RING-RING -- the PHONE in the f.g. as the choirboy closes in, opens the door --
+
+191     INSIDE PHONE BOX
+
+	The door shuts.  Noise muffled.  The Choirboy can't hear Steed and Emma's shouted
+
+	warnings, as he lifts his hand up, and --
+
+192     OUTSIDE
+
+	Steed sees him reach out, warns the vicar and choirboys.
+
+					STEED
+
+			Get down -- get down -- it's
+
+			going to explode -- !
+
+	Steed and Emma, all the choirboys hit the dirt, as
+
+193     INSIDE PHONE BOX
+
+	The Choirboy grabs the phone, and lifts it up, and
+
+	Silence.
+
+	No explosion.  A few seconds pass.  Steed and everyone
+
+	are down on the ground.  As they see --
+
+194     FROM PHONE BOX	
+
+	-- the Choirboy leaves the phone hanging.  He gets out, scans the crowd.  Then walks
+
+	calmly over to Steed, who's still prone.
+
+					CHOIRBOY
+
+			It's your mother.
+
+	The vicar and choirboys look on sympathetically, as --
+
+	Steed dusts himself off.  Emma and everyone gets up.  Steed goes to the phone box,
+
+	takes the call.
+
+					STEED
+
+			Mother? How did you find me?
+
+	His expression changes as he listens.  Emma goes to the phone box as Steed rings off.
+
+	He emerges from the box.
+
+					STEED
+
+			I told Mother I took care of you.
+
+					EMMA
+
+			You lied.
+
+					STEED
+
+			I equivocated. But you're not
+
+			their big worry at present. It's
+
+			Dr. Darling:  he's disappeared ...
+
+	OFF Emma's reaction to this news --
+
+195     INT.  HALLUCINOGEN HALL - DAY
+
+	Inside the upper room, in front of a mirror --
+
+	With his back turned to us.  Dr. Darling holds something in his hand, and waits as --
+
+196     DOWN LONG HALL
+
+	Bad "Emma" walks over.  She stands in front of him.
+
+	Blank expression.  Dr. Darling hardly even looks up.  With her hair up, we recognize
+
+	on her neck a tattoo:  Z424.
+
+					DR. DARLING
+
+			We are in the final phase. I shall require 
+
+			you to be especially obedient. There 
+
+			must be no failures.
+
+197     CLOSEUP - IN HIS HANDS - SNOWSHAKER
+
+	which he grips tightly. As --
+
+198     IN MIRROR
+
+	a metamorphosis.  His features melt and bubble, a mask of plastic surgery and it's
+
+	slipping around like Michael Jackson's face under kleig lights.  He adjusts it, then ...
+
+	Shakes the snowshaker ...
+
+199     EXT.  COUNTRYSIDE - DAY
+
+	THUNDER as the sky darkens -- PAN DOWN to reveal:
+
+	Steed's Jag, zooming through country lanes.  Rain starts.
+
+200     INT.  JAG - DAY
+
+	Steed driving, winces with the drizzle.
+
+					STEED
+
+			Drat. Someone wants to implicate
+
+			you in this affair, Mrs. Peel.
+
+			Any idea who?
+
+					EMMA
+
+			No idea who. No idea why ...
+
+					STEED
+
+				(thinks)
+
+			Teddy bears, cuckoo clocks, toys
+
+			All children's things ...
+
+					EMMA
+
+			... Or grown-ups, who still like
+
+			to be children.
+
+					STEED
+
+			Quite. Any childhood friends?
+
+			Enemies?
+
+					EMMA
+
+			Not to speak of. Peter and I
+
+			were both loners. There was
+
+			nobody.
+
+	Steed thinks; sighs.
+
+					STEED
+
+			Very well. I have a friend who
+
+			might be of assistance. He's at
+
+			the Ministry. We'd better be
+
+			careful.
+
+					EMMA
+
+			I'm a wanted woman, I know ...
+
+201     INT.  MINISTRY CORRIDORS - DAY
+
+	Through a door marked "Information & Counter Espionage" --
+
+	-- walks Steed with another man in identical clothes:  dapper Savile Row suit, umbrella
+
+	and bowler.  Which is
+
+	Emma Peel, in disguise.  Steed furtively checks passers-by.
+
+					STEED
+
+			His name's Jones. 'Invisible' Jones.
+
+					EMMA
+
+			Why's he called 'Invisible'?
+
+					STEED
+
+			You'll find out.
+
+	At a door marked "Information -- Col. I. Jones." Steed knocks, opens the door for her.
+
+					EMMA
+
+			Aren't you coming?
+
+					STEED
+
+			I'll catch you up. Don't worry;
+
+			he's expecting you.
+
+	Emma goes in as Steed walks down the corridor.
+
+202     INT.  MINISTRY OFFICE - DAY
+
+	A room full of archives and files.  Emma walks through tall corridors, stacks of cabinets
+
+	full of old paper.
+
+	Dusty, musty and mildewing.  Long forgotten.  Nobody there.  Suddenly Emma 
+
+	hears --
+
+	FOOTSTEPS.
+
+	She follows them.  Round stacks, round corners.  The FOOTSTEPS get LOUDER. 
+
+	She's closing in.  The FOOTSTEPS get LOUDER, until up ahead of her --
+
+	A filing cabinet drawer opens up.  On its own.
+
+	Emma watches as a file pops up, floats through air.  The drawer slams shut.  Still
+
+	nobody there.  Emma follows the file to a --
+
+	Desk.  Emma watches as -- the chair swivels round.  The file pages open up.  Then the
+
+	phone lifts up by itself, a voice:
+
+					INVISIBLE JONES (V.O.)
+
+			Tell Miss Proudfoot, no calls.
+
+				(beat)
+
+			Colonel Jones at your service,
+
+			Mrs. Peel. Just a moment --
+
+	Emma looks ahead of her.  To the chair. As --
+
+	A desk drawer opens up, a pipe is whisked through the air, a match is struck.  The pipe
+
+	lights; smoke belches forth.
+
+					INVISIBLE JONES (V.O.)
+
+			Talk to the pipe, Mrs. Peel.
+
+			That usually helps. Don't worry
+
+			about me being invisible. Other
+
+			than that I'm perfectly normal.
+
+					EMMA
+
+			I see.
+
+					INVISIBLE JONES (V.O.)
+
+			Or rather, you don't. Learnt the
+
+			tricks in camouflage. Till this
+
+			accident made a prang of things.
+
+			How can I help you, Mrs. Peel?
+
+203     INT.  MINISTRY - ANOTHER OFFICE
+
+	Steed on the phone.
+
+					STEED
+
+			I say, Trubshaw, Steed here ...
+
+			Barometer's falling fast. Mrs.
+
+			Peel and I find ourselves in
+
+			need of foul weather gear.
+
+				(beat)
+
+			Yes, I'd say gentlemen's snuff
+
+			for starters. And then --
+
+204     INT.  INVISIBLE JONES' OFFICE
+
+	File pages flip through the air as Jones goes through them.
+
+					INVISIBLE JONES (V.O.)
+
+			Ah, here we are. Steed asked me
+
+			to play a hunch:  Valentine Peel.
+
+					EMMA
+
+			Peter's brother?  But --
+
+					INVISIBLE JONES (V.O.)
+
+			Half-brother to be precise.
+
+	Emma is surprised.
+
+					INVISIBLE JONES (V.O.)
+
+			Now let's see ... Eton, Cambridge ... 
+
+			research into robotics and plastics.  
+
+			Overtaken by Peter's work on the 
+
+			physics of climate change ...
+
+					EMMA
+
+			I know all this.
+
+					INVISIBLE JONES (V.O.) 
+
+			Do you also know that during your 
+
+			final experiment, your halfbrother-
+
+			in-law was under surveillance?
+
+					EMMA
+
+			Surveillance? By whom?
+
+					INVISIBLE JONES (V.O.)
+
+			Father. She gave him an 'all clear' 
+
+			after a security test by Dr. Darling.
+
+					EMMA
+
+			Who's now vanished.
+
+					INVISIBLE JONES (V.O.)
+
+			Makes two of us.
+
+					EMMA
+
+			Are you suggesting that Dr. Darling 
+
+			and Valentine were somehow in this 
+
+			together? But that's absurd.
+
+	Steed enters behind them on the run --
+
+					STEED
+
+			We must hurry, Mrs. Peel ...
+
+					EMMA
+
+			Hurry?  What for?  I'm just
+
+			now --
+
+					STEED
+
+			You didn't tell her?
+
+					INVISIBLE JONES (V.O.)
+
+				(testy)
+
+			I was getting to it.
+
+					EMMA
+
+			Getting to what?
+
+					INVISIBLE JONES (V.O.)
+
+			The World Council of Ministers meets 
+
+			tomorrow to convene the new global 
+
+			defense initiative --
+
+					EMMA
+
+			I fail to see --
+
+					STEED
+
+			There's a reception this evening. Colonel 
+
+			Jones thinks it advisable we attend.
+
+					EMMA
+
+			Have we been invited?
+
+					INVISIBLE JONES (V.O.)
+
+				(poker-voiced)
+
+			Under the circumstances Mother didn't 
+
+			see fit, but I think I can get you in ...
+
+					EMMA
+
+				(surveys her male
+
+				outfit)
+
+			Well, I can't possibly go like this.
+
+					STEED
+
+			I had a feeling. That's why we're 
+
+			in a hurry ...
+
+	Steed proffers an arm to Emma.
+
+					STEED
+
+			May I have the honor, Mrs. Peel?
+
+	She decides, takes his arm.
+
+					EMMA
+
+			You may, Mr. Steed.
+
+	The A-team is born.  Steed and Emma tip their hats to Jones.
+
+205     EXT.  LONDON STREETS - SEVERAL ANGLES - NIGHT
+
+	Troops rushing in to take up defense positions.  Searchlights pierce the cloudy sky.  A
+
+	protective ring of hardware surrounds the hall.
+
+206     INT.  MOTHER'S 22 BUS (AKA INSIDE MOBILE HQ) - NIGHT
+
+	At the controls, Brenda looks on.  She hands a bag of jelly babies to Mother.  Who
+
+	picks out his favorites, as he gives a briefing to Father and others, sitting in
+
+	passenger seats --
+
+	ORDERS BARKED OUTSIDE as --
+
+					MOTHER
+
+			Inside that hall are some of the
+
+			Most powerful figures in the
+
+			world. Tight security. Our
+
+			only option.
+
+					FATHER
+
+			I'll see to it personally.
+
+	Brenda glances over at Father's imperturbable face. As --
+
+207     EXT.  PALACE (WESTMINSTER) - NIGHT
+
+	Wind picking up.  Outside the grand palace hall for the reception of the World Council
+
+	of Ministers, guards stand on duty.  Barriers, flashing lights.  Nobody gets past, 
+
+	except --
+
+208     INT.  PALACE (WESTMINSTER) - NIGHT
+
+	Up in the gallery, Steed and Emma enter through a secret passage behind a painting. 
+
+	He with bowler and umbrella.  She in black leather and boots.  They find themselves in
+
+	a niche and freeze, very close to one another.  Steed sniff s ...
+
+					STEED
+
+			What's that you're wearing?
+
+					EMMA
+
+			It's called Black Leather.
+
+					STEED
+
+			Intoxicating. Here, have one of
+
+			these.
+
+	He fumbles with a bulging jacket pocket
+
+					EMMA
+
+			What is it?
+
+					STEED
+
+			Limpet bomb. Small, very
+
+			compact. From Trubshaw's.
+
+					EMMA
+
+				(hocks it on
+
+				belt)
+
+			When all this is over, we simply
+
+			must get you out of that suit.
+
+					STEED
+
+			You first.
+
+					EMMA
+
+			Shall we?
+
+	She leads the way through marble halls, arched galleries, red velvet carpets, glittering
+
+	chandeliers.  From the hall, a SPEECH ECHOES:
+
+					MINISTER (V.O.)
+
+			... In the uncertain climate that threatens 
+
+			this global initiative, no magic umbrella 
+
+			can shield us.
+
+	Steed checks out his own.
+
+					MINISTER (V.O.)
+
+			Only our own vigilance. Security and 
+
+			stability are our watchwords.
+
+	APPLAUSE.
+
+	Steed pauses, offers Emma a small silver box.  Inside...
+
+					EMMA
+
+			Trubshaw again? What now?
+
+					STEED
+
+			Snuff.
+
+				(off Emma's lock)
+
+			I must insist you try some.
+
+	Steed takes some; Emma follows his example.  Weird.  Does it make you high?  They
+
+	walk on, open doors to --
+
+209     INT.  PALACE HALLWAY - NIGHT
+
+	An empty gallery.  Steed and Emma peer down at a --
+
+210     MARBLE HALLWAY
+
+	A black and white floor.  Butlers move across like surreal chess pieces.  Otherwise,
+
+	empty.  A chamber ensemble plays "The Merry Widow" waltz, which floats through
+
+	empty halls.
+
+					STEED
+
+			They're playing your song, Mrs.
+
+			Peel.
+
+					EMMA
+
+				(annoyed)
+
+			'The Merry Widow?' I might have
+
+			known. Where's the reception?
+
+	They move cautiously forward as
+
+211     EXT.  LONDON STREETS - NIGHT
+
+	Outside, snow begins to fall.  Trees and buildings shimmer under a light layer of white. 
+
+	A Christmassy glow --
+
+	Even troops play with snowflakes, until --
+
+212     SEVERAL ANGLES
+
+	The wind rises.  The snow falls harder.
+
+213     INT.  PALACE - NIGHT
+
+	Down in the hallway, Steed and Emma search for the Ministers.  They head down a 
+
+	corridor, then hear a NOISE.  They hide behind pillers. As --
+
+	Butlers walk past in military file, carrying elaborate displays of lobster and meats. 
+
+	Steed steals --
+
+	A chicken leg.  Nibbles on it.  Suddenly another door opens -- Emma hides.  Steed
+
+	looks up to see -- Father "staring" at him.
+
+					STEED
+
+			Oh, hello ...
+
+					FATHER
+
+			We want Mrs. Peel.
+
+					STEED
+
+			Dead, I'm afraid.
+
+	Emma in hiding, listens as --
+
+					FATHER (O.S.)
+
+			You disobeyed an order, Steed.  
+
+			Mrs. Peel is dangerous; she cannot 
+
+			be trusted.
+
+	Emma looks out the window behind her; eyes widen ... back to --
+
+					STEED (O.S.)
+
+			I think she can.
+
+				(beat)
+
+			Can you?
+
+	Emma is deeply affected by Steed's choice.
+
+	Father's face, meantime, has turned to stone.
+
+					FATHER
+
+			I shall summon security.
+
+	She turns, almost walks into the door as she slips away.
+
+	Emma returns as the ALARM is raised --
+
+					STEED
+
+			Bad news. Father's looking for you.  
+
+			Where are those bloody ministers?
+
+					EMMA
+
+			Have a look at this.
+
+	She leads him to the window:  sure enough -- heavy snow.
+
+	Steed reacts, eyes wide.
+
+					STEED
+
+			It's almost May, for heaven sake.
+
+214     EXT.  LONDON STREETS - NIGHT
+
+	The blizzard rages through streets --
+
+	Now impassable.  Snow drifts block roads.  White mountains of snow start to climb up
+
+	shop fronts.  And amid the sky --
+
+	Filled with snowflakes, up round the roofs, a purple cloud descends on unsuspecting
+
+	troops --
+
+215     INT.  PALACE - NIGHT
+
+	Steed returns, rushes across the marble halls --
+
+	To Emma. But up ahead, sees --
+
+216     STEED'S POV - FROM WINDOWS
+
+	A purple fog seeping into the hallway, billowing through the corridors as --
+
+217     INT.  PALACE ANTEROOM - NIGHT
+
+	Inside an anteroom, like a Roman arena -- marble pillars, red carpet, golden walls,
+
+	ceiling murals --
+
+	The World Council ministers assemble:  slick pin-striped suits or African robes, Chinese
+
+	Mao-suits, Indian Nehru-jackets, all distinguished men and women, surrounded by --
+
+	Fussing officials, minor dignitaries, and butlers, bowing and weaving a web of
+
+	diplomatic protocol, interrupted by --
+
+218     CENTER OF HALL
+
+	The sight of Emma Peel in black leather.
+
+	She strides into the room.  Picks a glass of champagne from a passing butler.  All stare,
+
+	Emma raises her glass --
+
+					EMMA
+
+			Gentlemen, ladies. Forgive the breach 
+
+			of protocol. An emergency --
+
+	From the hallway -- BOOM -- !  The door bursts open, Emma is blown over by the
+
+	blast as the purple cloud races inside.
+
+219     SEVERAL ANGLES
+
+	as the smoke furls around the ministers, they choke, fall.
+
+	From the doors -- Steed leaps in, gives Emma another snort of snuff --
+
+					STEED
+
+			Quick --it'll protect you --
+
+	Emma inhales.  Now immune to the gas, Steed and Emma hear -- CRASH -- !  They
+
+	see -- through thick cloud -a mysterious man in a white lab coat, wearing a gas mask,
+
+	leading a group of butlers, all in gas masks -- heads like black flies -- in formation
+
+	round the ministers, helpless on the floor.  A kidnapping --
+
+	The man and butlers haul away several ministers, and --
+
+	Escape from the rear doors.  The butlers form a guard to protect the man.
+
+	Steed and Emma run after them.  More butlers pursue.
+
+220     EXT.  PALACE - NIGHT
+
+	As troops roll helplessly in the snow-covered purple haze, the butlers load the ministers
+
+	onto waiting choppers as --
+
+221     INT.  MOTHER'S HQ - CONTINUOUS ACTION	
+
+	Mother, Brenda, et al choke on purple smoke in the bus ...
+
+222     INT.  PALACE HALLWAY - NIGHT
+
+	Behind pillars, Steed and Emma hide as --
+
+	Butlers in gas masks patrol the halls.  A butler passes them without noticing.  They try
+
+	to emerge.  But another patrols --
+
+	Steed trips the butler with his umbrella, then chops him down on the ground.  He rises
+
+	but Emma kicks him into as --
+
+	Behind them Steed sees the lab-coated man escape up the stairs, protected by a posse
+
+	of butlers.  He shouts --
+
+					STEED
+
+			After him, Mrs. Peel!
+
+	A whole posse of butlers then advances.  Steed faces them.
+
+					STEED
+
+			Go -- !
+
+	Emma hesitates.  Then turns, heads for an ornate dual shaft elevator.  She bangs the
+
+	button, gets inside, doors shut, as the BULLETS from MACHINE-GUNNING gas
+
+	masked butlers strike the brass door as --
+
+	Steed whips his rapier from his umbrella and duels with the butlers.  To give Emma
+
+	time, he uses every trick and prop at his disposal, plus, brute force to --
+
+	Kick, chop, punch, and impale them into submission, as --
+
+223     EXT.  ELEVATOR (UPPER FLOORS) - CONTINUOUS ACTION
+
+	The posse of butlers fan out on to keep pace with Emma.  They head upstairs, pressing
+
+	elevator "CALL" buttons on every floor, as --
+
+224     INSIDE ELEVATOR	
+
+	Emma waits inside.  Until she reaches --
+
+225     EXT.  ELEVATOR (2ND FLOOR) - CONTINUOUS ACTION
+
+	Doors open.  A HAIL of BULLETS hit the lift as Emma hides to one side until the
+
+	doors close.
+
+226     INT.  ELEVATOR - CONTINUOUS ACTION
+
+	Emma sighs with relief.  COOL HUM as the ELEVATOR rises.
+
+227     ON STAIRS - MEANWHILE
+
+	Steed gaining on the butlers, heading for the stairs, as --
+
+228     INT. ELEVATOR - CONTINUOUS ACTION
+
+	At the next floor, the doors open --
+
+	Two butlers rush inside.  BLAM -- !  Emma cuts one in the throat with an elbow
+
+	punch,  then --
+
+	Punches -- kicks -- stabs the other butler, a more brutish type, who recovers enough to
+
+	grab Emma by the throat.
+
+	She chokes, breaks his stranglehold, swerves him round, gains a nelson hold on his
+
+	arms and throat --
+
+	And a knee in his back in time for --
+
+	PING!  The BELL RINGS at --
+
+	3rd floor where --
+
+	Emma spins her captive butler round, in time to face --
+
+	Whooomph!  a blast of fire from --
+
+	A flamethrower launched in the hall.
+
+	Aaargh -- !  The butler gets fried, but --
+
+229     EXT.  ELEVATOR (3RD FLOOR) - CONTINUOUS ACTION
+
+	Shields Emma from the worst of the blast. She  hurls him clear of the doors, which --
+
+230     INT.  ELEVATORS - CONTINUOS ACTION
+
+	Slam shut.  COOL HUM ...
+
+231     EXT.  PALACE MAIN FLOOR - CONTINUOUS ACTION
+
+	Steed continues his one-sided duel with the other butlers, skewering madly, trying to
+
+	get upstairs to help Emma...
+
+232     INT.  ELEVATOR - CONTINUOUS ACTION
+
+	Up Emma goes.  Looks for an escape route.  Bangs on the walls.  No trap doors.  No
+
+	secret panels.  The "floor" light flickers between floors.
+
+	Waiting, until ...
+
+233     EXT.  ELEVATOR (4TH FLOOR) - CONTINUOUS ACTION
+
+	The doors open.  A grenade is hurled inside the doors, it rolls to one corner, Emma
+
+	dives to the other side, then --
+
+	Scrambles for the grenade.  Picks it up.  It slips out of her hands.  Scrambles more.  It
+
+	slips out ...
+
+	Just beyond the elevator doors.  Which start to shut.  Emma leans out a foot, kicks the
+
+	grenade towards the butlers, and --
+
+	As her elevator doors close --
+
+	BOOM -- !  It EXPLODES among the butlers, one of whom --
+
+	Rushes to --
+
+234     ELEVATOR (5TH FLOOR) - CONTINUOUS ACTION
+
+	Where he waits for the elevator.  Removes pin.  Grenade ready.  The light PINGS.
+
+	Doors open.  About to throw it inside, when --
+
+235     BUTLER'S POV
+
+	No Emma.
+
+236     BACK TO SCENE
+
+	The butler hesitates.  Looks inside.  Still no Emma?  He wonders what to do, and --
+
+	The doors shut; he jams his foot.  The doors open again.  He moves in --
+
+237     INT.  ELEVATOR - CONTINUOUS ACTION
+
+	-- and looks round.  Nobody there.  Until, as we --
+
+	PULL BACK UP to reveal -- FROM ABOVE, spread-eagled like an X on the elevator
+
+	roof, limbs flexed against the walls is --
+
+	Emma, who -- drops down and --
+
+	Scissors the butler's head between her legs.
+
+	The grenade rolls free ...
+
+	Emma twists around, grabs his ears, and --
+
+	Sits on his face.  Buries his head in her crotch.  A muffled sound from the guy, until --
+
+	Emma scissor kicks, breaking his neck.  She drags --
+
+238     EXT.  ELEVATOR (67H FLOOR) - CONTINUOUS ACTION
+
+	His head out.  Leaving his neck between the doors.  So as she leaps out, heads up for
+
+	the stairs, the elevators doors.
+
+	SLAM! And -- BOOM!  His GRENADE rocks the elevator, which
+
+239     INT.  ELEVATOR SHAFT - ABOVE AND BELOW - CONTINUOUS ACTION
+
+	Breaks from its ropes, and --
+
+	Plummets down the elevator shaft, shaking the building as it crashes --
+
+240     INT.  PALACE STAIRS - CONTINUOUS ACTION
+
+	Everything shakes with the impact of the elevator as Steed battles his way up, step by
+
+	step, throwing gas-masked butlers over his shoulder as he struggles...
+
+241     INT.  PALACE ATTIC - NIGHT
+
+	Up the winding staircase, at the top, a skylight, which --
+
+	Flips open.  The man leaps out, throwing back inside a smoke grenade, and locks the
+
+	skylight.  As the grenade --
+
+242     INT.  NARROW STAIRCASE
+
+	BOOM!  explodes in the narrow staircase, fills it with purple smoke.  Emma rushes
+
+	thru smoke, choking.  She gets to the skylight, tries to open it -- locked.
+
+	A moment's panic.  Then Emma -- punches a hole in the glass, flicks the switch, flips
+
+	the skylight up, and --
+
+	Emerges into the night air.  Snowflakes tumble around her.
+
+243     EXT.  ROOFTOP - HELIPAD - NIGHT
+
+	Blades whirling.  Amid the blizzard, the man ready to escape in a super-fab streamlined
+
+	whirly chopper ...
+
+	Another assassin attacks Emma, pins her on her back, overlooking the city.  Stands up
+
+	before her --
+
+	Emma held back over gargoyle, over now snow white city ...  Knees assassin in balls.
+
+	Flicks him backwards ...
+
+	As his body hurtles down into the snow-covered streets, Emma rushes forward.  
+
+	But too late:  sees --
+
+	The chopper -- about to take off.
+
+244     FROM INSIDE CHOPPER
+
+	The gas-masked MAN in the white lab coat:
+
+					MAN
+
+			Goodbye, Mrs. Peel!
+
+245     EXT.  ROOFTOP
+
+	The chopper rises slowly.
+
+	Emma looks.  A fifteen foot leap ... Impossible.
+
+246     FROM INSIDE CHOPPER
+
+	A farewell wave from the gas-masked man.
+
+247     CLOSEUP - EMMA
+
+	contemplating the jump, beneath falling snowflakes, as the distance grows.
+
+248     EMMA'S POV
+
+	The rope/chain ladder coils into the chopper's belly.
+
+249     INT.  CHOPPER - NIGHT
+
+	Above London rooftops, after dark --
+
+	The man (still wears gas mask) the Pilot, CO-PILOT and a Butler (ditto).  From the
+
+	chopper, a giddy look down thru a glass command module.  A fairy tale, snow white
+
+	city.
+
+	OVER the RADIO, interference.  A changing of stations.  Then a CRACKLY
+
+	broadcast of "The Merry Widow."
+
+	As the WALTZ serenades them high above the city  -- 
+
+	a KNOCKING from outside on the door --
+
+	Surprised reactions.  The Butler opens the door, sees --
+
+	Emma hanging onto the helicopter struts.  The Butler is too dumbstruck to say
+
+	anything.
+
+					EMMA
+
+				(shouts, re:  the
+
+				gas mask)
+
+			Anyone ever tell you you look
+
+			like a housefly?
+
+	Emma grabs his epauletted shoulder, yanks him up, flicks him out --
+
+	The Butler is jerked out -- flies into the open air.  Emma watches him fall ...
+
+					EMMA
+
+			Anyone else need a lift?
+
+	The white-coated Man moves forward, but Emma is out, slamming the door, still
+
+	clinging ...
+
+					MAN
+
+				(to Pilot; intercom)
+
+			Can't you throw her off?
+
+	The Pilot nods, works controls, the chopper dips as --
+
+	Blam -- !  a kinky leather boot crashes --
+
+	Into the Pilot's face as Emma kicks in the GLASS from the front of the chopper,
+
+	SMASHES so the Pilots can't see -- a sudden rush of cold air --
+
+	The INSTRUMENT PANELS WHIRR round as the Pilots struggle for control --
+
+					VOICE (V.O.)
+
+				(intercom)
+
+			Where'd she go?
+
+250     EXT.  CHOPPER TOP - CONTINUOUS ACTION - NIGHT
+
+	with the blades whirling directly over her head, Emma crawls over the top of the
+
+	chopper and lets herself down the other side as London's lights twinkle beneath ...
+
+	As the Co-Pilot pokes his head out of the cockpit --
+
+	Emma grabs him with one hand, hoists him up into the air --
+
+	The Co-Pilot dangles over the city.  Grabs Emma.  Slithers back onto the cockpit.
+
+	Pistol whips her.  Emma crunches back onto the metal.  Blades whirring close!  
+
+	The co-Pilot peers into her eyes from inside the gas mask --
+
+					CO-PILOT
+
+			Happy landings, Mrs. Peel.
+
+	He raises his hand, ready to hit her again, Emma yanks him up, where his head get
+
+	sliced off by the blades -- body and head fall away separately ...
+
+	As Emma reacts, her legs are grabbed from below and the white-coated Man pulls her
+
+	down the side of the chopper --
+
+	Emma falls, but manages a flying handhold, hangs onto the chain wire below the
+
+	chopper.  As --
+
+251     EXT.  WIDE ANGLE - NIGHT
+
+	The Pilot and his passenger zoom at low level over buildings.  Trying to dislodge
+
+	Emma ...
+
+252     THEIR POV
+
+	Thru the blizzard, zooming down streets, landmark buildings looming up topped in
+
+	snow, feet up ... shinnying up the chain wire ...
+
+	"THE MERRY WIDOW WALTZ," no longer heard as old record or ensemble
+
+	arrangement but enormous, for FULL ORCHESTRA ...
+
+253     CLOSEUP - EMMA
+
+	grimly hoists herself up along the struts again, hand over hand, coming up to the
+
+	cockpit from behind --
+
+254     BACK TO SCENE
+
+	With a sudden movement, she yanks the Pilot out from behind and he goes flying
+
+	towards eternity on his own.
+
+	The chopper out of control as the white-coated Man is left to fly it himself ...
+
+255     IN NIGHT AIR
+
+	"THE MERRY WIDOW" BOOMS, the chopper lurches, spinning round -- up and
+
+	down, over spiraling corkscrews, an insane waltz ...
+
+256     INT.  CHOPPER - CONTINUOUS ACTION - NIGHT
+
+	The white-coated Man gets control ...
+
+257     EXT.  CHOPPER - CONTINUOUS ACTION - NIGHT
+
+	Zig-zags down a narrow street, trying to smash Emma into sides of windows.
+
+258     SEVERAL ANGLES
+
+	as Emma bounces of buildings, holding on for dear life ...
+
+259     EXT.  WIDE ANGLE OVER THAMES - CONTINUOUS ACTION - NIGHT
+
+	The chopper dips down, dragging Emma through icy water ...
+
+	Up ahead ... Tower Bridge ... twin peaks ... a firework display going on ... rockets and
+
+	lights in the sky thru snowflakes ...
+
+	Emma sees the bridge coming, reaches down and --
+
+260     CLOSEUP SHOT
+
+	Detaches her pocket limpet bomb and lobs it into the chopper cockpit.
+
+261     HER POV
+
+	The bridge looms up, chopper rising to cross it as Emma leaps onto the bridge!
+
+262     INT.  CHOPPER - CONTINUOUS ACTION - NIGHT
+
+	The Man sees the bomb ...
+
+	Also flings himself onto the bridge as --
+
+	Against b.g. of the fireworks display --
+
+263     WIDE ANGLE - TOWER BRIDGE - CONTINUOUS ACTION - NIGHT
+
+	BOOM! -- the CHOPPER EXPLODES.  Ball of flames.  The crowd roars in
+
+	appreciation ... great fireworks!
+
+264     EXT.  TOP OF TOWER BRIDGE WALKWAY - CONTINUOUS ACTION - NIGHT
+
+	Emma picks herself up, sees the Man in the white lab coat and runs for him.
+
+	He runs too -- towards --
+
+265     ANOTHER CHOPPER
+
+	which unloads a rope ladder as Emma puts on every ounce of steam ... 
+
+	The Man reaches for the dangling ladder --
+
+	but --
+
+266     CLOSEUP - ON HIS FOOT
+
+	stuck, wedged between narrow battlements.
+
+267     BACK TO SCENE
+
+	The Man looks at his shoe, at Emma charging towards him, at the rope ladder.  He
+
+	pulls his foot out of his shoe and grabs the ladder, sailing off in the second chopper,
+
+	leaving Emma panting behind.  She's soaked, frozen, gasping for breath, bending over,
+
+	when she sees --
+
+268     CLOSEUP - SHOE
+
+	Emma pulls it from its wedge, looks at the inside:  --  "Trubshaw's of Jermyn Street."
+
+					STEED (V.O.)
+
+			I thought it was Cinderella
+
+			who lost her slipper ...
+
+269     INT.  TRUBSHAW'S - DAWN
+
+	On Jermyn Street, snow lies waist high.  BLARING SIRENS.  Searchlights.  PA
+
+	announcements urge citizens to stay indoors ... PULL BACK to reveal a fire glows, a
+
+	CLOCK TICKS calmly.  Emma sits with her shoe, surrounded by a pile of shoes. 
+
+	Steed & Trubshaw beside her.
+
+					EMMA
+
+			This time the shoe's on the other
+
+			foot. You said a hand-made shoe
+
+			was as good as a photo-fit or
+
+			D.N.A.? Well, all we have to do is
+
+			find the shoe that fits ...
+
+					TRUBSHAW
+
+			It should be easy. A Trubshaw
+
+			client has his shoes delivered
+
+			personally. The Ministry should
+
+			be able to confirm our delivery.
+
+					STEED
+
+			I'll be back ...
+
+					EMMA
+
+			Where are you going?
+
+					STEED
+
+			Laying in supplies, Mrs. Peel weather 
+
+			may get very nasty and I've no umbrella ...
+
+					EMMA
+
+			You needn't bother. I can't drag you 
+
+			further into this. After all, I am still 
+
+			the chief suspect.
+
+					STEED
+
+			No bother. Mother and Father think
+
+			I've joined you. I might as well.
+
+					EMMA
+
+			But --
+
+					STEED
+
+				(comes back)
+
+			Oh, and by the way, I think it's about 
+
+			time you got rid of that chip on your 
+
+			shoulder.
+
+					EMMA
+
+			If you'd been through what I have,
+
+			you wouldn't --
+
+	Steed reaches and pulls off the micro-bug from her shoulder.
+
+					STEED
+
+			A microtag. One of Mother's little
+
+			toys. There you are. Free at last.
+
+	He tips his bowler off her surprised reaction.
+
+270     INT.  TRUBSHAW'S BASEMENT - CONTINUOUS ACTION
+
+	An armory.  Steed stands before racks of umbrellas, displayed like ceremonial swords --
+
+	ivory handles, duck handles, you name it ...
+
+	Steed hefts a few, as picky as a Samurai ...
+
+271     UPSTAIRS - HOURS LATER
+
+	Emma surrounded by a mountain of shoes.  Triumphantly, she holds up a pair of shoe
+
+	lasts.
+
+					EMMA
+
+			Prince Charming, I presume.
+
+			Your name is ...
+
+272     CLOSE ON WORN PAPER LABEL
+
+	with the name:  DARLING.
+
+					EMMA
+
+			Oh my God ...
+
+273     INT.  TRUBSHAW'S - DOWNSTAIRS - CONTINUOUS ACTION
+
+	Steed selects his umbrella and we FOLLOW UP TO:
+
+274     INT.  TRUBSHAW'S - UPSTAIRS - DAY
+
+	He sees only Trubshaw.
+
+					STEED
+
+			Where's Mrs. Peel?
+
+					TRUBSHAW
+
+			She just left, sir. In a hurry.
+
+					STEED
+
+			What?
+
+					TRUBSHAW
+
+			She said you'd understand.
+
+275     ON STEED
+
+	Worried.
+
+					VOICE (V.O.)
+
+			Ah, here we are ...
+
+276     CLOSEUP - PIP PUFFING IN MID-AIR
+
+	WIDEN to reveal:
+
+277     INT.  MINISTRY ARCHIVES - DAY
+
+	Inside the archives, among leather volumes.  A file goes through the air, passed to
+
+	Emma ... As she reads.  A map is opened across a desk from her.
+
+					INVISIBLE JONES (V.O.)
+
+			'X' marks the spot. The shoes were 
+
+			delivered to ... an island in Hyde Park.
+
+			Surrounded by the Serpentine. On the 
+
+			site of a former Ministry installation...
+
+					EMMA
+
+			... and now?
+
+					INVISIBLE JONES (V.O.)
+
+			Privately owned by ...
+
+					EMMA
+
+			Let me guess:  Wonderland Weather.
+
+					INVISIBLE JONES (V.O.)
+
+			Very good, Mrs. Peel ...
+
+					EMMA
+
+			I shall need a small plane.
+
+					INVISIBLE JONES (V.O.)
+
+			You're not venturing alone, surely.
+
+					EMMA
+
+			I'm going to find out who killed
+
+			my husband. Will you take these
+
+			documents to Steed?
+
+					INVISIBLE JONES (V.O.)
+
+			Of course.
+
+278     ON EMMA
+
+					EMMA
+
+			Tell him I said ... goodbye.
+
+279     INT.  SECRET SERVICE HQ - DAY
+
+	below the Thames as at the beginning.
+
+	In darkest paranoia, Mother lies at the heart of his Labyrinth.  Controls around him
+
+	flash emergency.  Panic.  Cakes piled up beside him, uneaten.  Beside him, Father.
+
+	Brenda hands a phone.
+
+					BRENDA
+
+			Steed for you.
+
+	Mother grabs the phone, furious.
+
+					MOTHER
+
+			Where's Mrs. Peel?
+
+	He signals frantically for Father to trace the call, but being blind, Father just sits
+
+there.
+
+					STEED (V.O.)
+
+				(filtered)
+
+			I was hoping you could tell me.
+
+					MOTHER
+
+			You're getting yourself into terrible 
+
+			trouble, my son. Weather's turning 
+
+			very nasty -- and so am I.
+
+					STEED (V.O.)
+
+				(filtered)
+
+			I'm going to follow up on a hunch of 
+
+			my own. If I'm right, Mrs. Peel is 
+
+			innocent and you have a mole.
+
+					MOTHER
+
+				(grabs mirror;
+
+				searches his face)
+
+			Where?
+
+					STEED (V.O.)
+
+				(filtered)
+
+			In your operation.
+
+					MOTHER
+
+			I'm warning you for the last time, 
+
+			Steed: whoever's behind all this, 
+
+			looks like Mrs. Peel, walks like 
+
+			Mrs. Peel and kills like Mrs. Peel.
+
+	CLICK.  The line goes dead.
+
+280     CLOSE ON MOTHER
+
+	Furious.
+
+					MOTHER
+
+			Steed??
+
+				(to Father)
+
+			Find Mrs. Peel.
+
+	Brenda smiles at the thought.  Father rises, grim.
+
+281     EXT.  SKY - DAY
+
+	Through mist, an ultralight plane zooms down -- From the plane, Emma leaps in
+
+	parachute ...  Down, down, down through the mist ...
+
+	Over parkland, the parachute floats down ... To an island in the middle of the
+
+	Serpentine river.
+
+282     EXT.  ISLAND (HYDE PARK) - DAY
+
+	Emma lands, buries her parachute.  Walks towards a thick jungle, then a stream.  Emma
+
+	hops across on water lilies until she reaches land again.  Where a peacock fans its tail of
+
+	a thousand eyes.  A CLICK of CAMERAS.
+
+	In the midst of the jungle, Emma sees --
+
+283     HER POV
+
+	A red phone box.  Emma frowns in recognition; goes inside.  Picks up the phone.
+
+	Presses "Button B", and --
+
+	The floor goes down.  Emma goes down with it, into --
+
+284     INT.  HYDE PARK UNDERGROUND HQ
+
+	Formerly a Ministry installation.  The "elevator" stops.  Remembering, as from a dream,
+
+	Emma steps out into --
+
+285     LONG DARK CORRIDOR
+
+	A GUARD patrols.  Emma pushes herself against a wall.  The wall gives way to flip
+
+	round, and Emma swivels into --
+
+286     INT.  TOTALLY DARK CHAMBER
+
+	The door locks behind.  Alone, Emma stands warily.
+
+	From nowhere, a chilling, disembodied voice.  Intimate.  Seductive.
+
+					VOICE (V.O.)
+
+			Congratulations, Mrs. Peel. You have 
+
+			been a worthy opponent. You have 
+
+			tracked us down. You are within an 
+
+			ace of winning.
+
+					EMMA
+
+			This isn't a game.
+
+					VOICE (V.O.)
+
+			Quite right, but we still make the rules.
+
+					EMMA
+
+			Rules are made to be broken.
+
+					VOICE (V.O.)
+
+			People, too.
+
+					EMMA
+
+			Then who wins?
+
+					VOICE
+
+			You and I. Together. But first you 
+
+			must confront your greatest enemy.
+
+			Who could that be, Mrs. Peel?  
+
+			The answer is obvious ...
+
+	Suddenly lights!
+
+	Emma is in a hall of mirrors.
+
+					VOICE (V.O.)
+
+			Yourself.
+
+	In every direction Emma turns, a thousand reflections of herself stare back at her,
+
+	splintered into fragments as Emma spins, freaked and confused by the multiple images.
+
+	Emma turns into herself -- only herself drapes arms around her and kisses her on the
+
+	lips.
+
+	Bad Emma -- whose eyes stare into Emma's startled ones as Emma pulls her mouth
+
+	away, staggers back; realizes too late.  The hallucinogenic lip poison.  Emma crumples
+
+	to her knees as --
+
+287     EMMA'S POV
+
+	Sees "herself" above her, before she -- falls unconscious.
+
+288     EXT.  COUNTRY ROADS - DAY
+
+	Steed's Jag races, skids in bad weather.
+
+289     INT.  CAR
+
+	Behind the wheel Steed, his face grim, concentrates on the slippery road.  On the seat
+
+	next to him the snow shaker with little Emma inside --
+
+		DISSOLVE TO:
+
+290     INT.  UNDERGROUND H.Q.
+
+	As if in a dream, Emma awakes captive inside a bizarre cage:  A life size snow shaker.
+
+	Emma "swims" in viscous air,	suspended like a mermaid.  Thru glass she sees --
+
+	A face peering in:  Father.
+
+					FATHER
+
+				(filtered)
+
+			Emma in Wonderland. Welcome,
+
+			Mrs. Peel.
+
+				(filtered)
+
+			We've been expecting you. We hope 
+
+			you'll enjoy your stay with us. 
+
+			Decontamination is almost complete.
+
+					EMMA
+
+			Decontamination -- ?
+
+					FATHER
+
+			And you've a new wardrobe. He
+
+			does want you to look attractive.
+
+				(beat )
+
+			He tells me you're very beautiful.
+
+	Emma pounds the glass in frustration.
+
+					FATHER
+
+			Relax, Mrs. Peel. We're hundreds
+
+			of feet below ground. The Ministry
+
+			made it impregnable. No one can
+
+			save you.
+
+291     EXT.  SPIRES OF ETON COLLEGE - EVENING
+
+	as Steed drives towards it ...
+
+292     INT.  UNDERGROUND HQ - DINING ROOM
+
+	Bathed in candlelight.  A romantic supper for two ...
+
+	A door opens, admitting -- Emma. Dressed, coiffed, super-glamorous.  She locks
+
+	around, sees another door.  In search of escape she hastens to open it, only to reveal --
+
+	A giant rabbit -- the one we saw at the Teddy Bear meeting.
+
+	Emma gasps in surprise, moves back into the room as he advances, removing the 
+
+	head -- it's Dr. Darling!!!
+
+					DR. DARLING
+
+			Emma, my dear. How lovely you
+
+			look.
+
+	He steps out of the rest of his costume ...
+
+					EMMA
+
+			Would that I could say the Same.
+
+					DR. DARLING
+
+			Ah, but you haven't see the real
+
+			me. Watch closely ...
+
+	He pulls at his face, which bubbles and collapses as he walks towards her --
+
+	Emma's horrified expression, eyes widening as --
+
+	Dr. Darling turns into ... Peter!
+
+					EMMA
+
+			Peter ...
+
+					PETER
+
+			Darling Emma --
+
+					EMMA
+
+			It was you ... all the time?
+
+					PETER
+
+			Not really. Not quite. I'm
+
+			afraid you still don't see ...
+
+	Again he claws at his face, pulling, twisting ...
+
+	Emma winces at the sight, her eyes popping out of her head.
+
+	It's Valentine!
+
+					TEACHER (V.O.)
+
+			Valentine Peel ...
+
+293     EXT.  ETON COLLEGE - EVENING
+
+	beneath Gothic turrets pupils in top hats and tails.
+
+					OLD TEACHER (V.O.)
+
+			Yes, I remember him quite well ...
+
+	PULL BACK THROUGH windows to reveal:  Steed and an OLD TEACHER in the
+
+	beautiful library.
+
+					OLD TEACHER
+
+			This is where he used to spend his
+
+			days. We have an old photograph
+
+			somewhere ...
+
+	He's flipping through yearbooks, then shows Steed --
+
+294     CLOSEUP - PHOTO
+
+	of Valentine Peel on stage, in wizard's garb.  Made up as an old man ...
+
+295     BACK TO SCENE
+
+					TEACHER
+
+			Absolute wizard with makeup. His
+
+			favorite roll from Shakespeare.
+
+			Prospero ...
+
+					STEED
+
+			'The Prospero Project...'
+
+					TEACHER
+
+			... From The Tempest. A banished
+
+			duke, ousted by his brother,
+
+			marooned on a magic island. Who
+
+			controlled the weather.
+
+296     CLOSEUP - STEED
+
+	grim.
+
+					STEED
+
+			'O Brave New World that hath
+
+			such people in it.'
+
+297     BACK TO DINNER TABLE
+
+	Emma frozen, sinks into a chair, staring ...
+
+					EMMA
+
+			You.
+
+					VALENTINE
+
+			Darling Emma -- yes, we:  the true 
+
+			genius behind the Prospero Project ...
+
+	He walks around the dinner table as he talks ...
+
+					EMMA
+
+			But you died -- in the explosion ...
+
+298     FLASHBACK - CLOSE ON HAND IN WHITE GLOVE
+
+	Twisting the dial.  PAN UP the arm to reveal Valentine.
+
+					VALENTINE (V.O.)
+
+			Oh, no. I arranged the explosion.
+
+299     BACK TO PRESENT
+
+					VALENTINE
+
+			A slight miscalculation -- my face 
+
+			was burned beyond recognition.
+
+			Fortunately my research into plastics 
+
+			came in handy ...
+
+					EMMA
+
+				(stunned)
+
+			Dr. Darling, Peter ... all you ...
+
+					VALENTINE
+
+			An unholy trinity ...
+
+					EMMA
+
+				(stands)
+
+			You killed my husband.
+
+					VALENTINE
+
+			For starters. Of course I had to kill 
+
+			the Teddy Bears, as well ...
+
+					EMMA
+
+			Too many cooks --
+
+					VALENTINE
+
+			Spoil the majority shareholders. In 
+
+			Wonderland Weather. I planned 
+
+			everything, even the Ministry 
+
+			recruiting you ...
+
+					EMMA
+
+			But I found you. All the clues
+
+			led me here ...
+
+					VALENTINE
+
+			Of course. I planned that, too.
+
+					EMMA
+
+			But -- why?
+
+					VALENTINE
+
+			You disappoint me, Emma.  Can't
+
+			you guess?
+
+				(moves toward her)
+
+			For you. It was all for you ...
+
+					EMMA
+
+				(cold)
+
+			'Our revels now are ended.'
+
+					VALENTINE
+
+			Oh, no, Emma. They've only
+
+			just begun ...
+
+300     INT.  INVISIBLE JONES' OFFICE - NIGHT
+
+	The phone hangs in the air -- with the smoking pipe.
+
+					INVISIBLE JONES (V.O.)
+
+			The shoes were delivered to an island 
+
+			in the Serpentine - former Ministry 
+
+			installation ... she said to tell you 
+
+goodbye. What?
+
+301     CLOSEUP - STEED IN RED PHONEBOX (SOMEWHERE) - NIGHT
+
+					STEED
+
+			I said it's not goodbye yet.
+
+			Listen, I'm going to need some
+
+			help. In a hurry ...
+
+302     INT.  HYDE PARK UNDERGROUND - DINING ROOM
+
+					VALENTINE
+
+				(indicates supper)
+
+			Think of this as your second
+
+			wedding feast ...
+
+					EMMA
+
+			I'm already married ...
+
+					VALENTINE
+
+			Come, come, you're a widow -- a
+
+			most attractive widow. Now I think 
+
+			of it, we'll need a bridesmaid. Here.
+
+	He pushes a button.  Bad Emma enters.  Tattooed Z424.  Unmistakably hostile.
+
+					VALENTINE
+
+			My latest model. A compound of 
+
+			plastics and sensor chips. A big 
+
+			improvement on the old X404s.
+
+			The poor thing is quite fond of me. 
+
+			Emma, say hello to Emma.
+
+	BAD EMMA HISSES, a strange mix of STATIC and FEEDBACK.
+
+					VALENTINE 
+
+			You know, I believe she's actually 
+
+			jealous.
+
+					EMMA
+
+			Valentine, listen to me ...
+
+					VALENTINE
+
+			Right, bridesmaid. Now what
+
+			have I left out? Oh, yes, I know:
+
+			the ring.
+
+					EMMA
+
+				(covers her hand)
+
+			Ring?
+
+	He stands very near her -- she's terrified -- then:
+
+					VALENTINE
+
+			How silly of me -- let me make
+
+			you comfortable first ...
+
+	As he advances, ZOOM IN EXTREME CLOSEUP Emma's eye
+
+		DISSOLVE TO:
+
+303     INT.  ISLAND (HYDE PARK) - NIGHT
+
+	Another ball, WIDEN to reveal, from the lake, an odd eight foot high plastic ball
+
+	emerges -- The ball lands on the shore.  From the inside, a zip peels away the plastic
+
+	layer to reveal --
+
+	Steed, like an urban dandy in suit and bowler.  A rose in his lapel.  He steps out, and,
+
+	poking with his umbrella --
+
+	Deflates the inflatable plastic submarine.  Steed heads off -- CAMERA EYES the
+
+	peacock swivel towards him, as he heads into the jungle where he sees the --
+
+304     RED PHONEBOX
+
+	Steed picks up the phone.  Presses all the buttons until he hits "Button B."  As the floor
+
+	lowers, his eyes widen in surprise ...
+
+305     SARCOPHAGUS
+
+	carved in Emma's likeness.  Lowered from the ceiling hydraulically into --
+
+306     INT.  VALENTINE'S HIGH-TECH TORTURE CHAMBER - CONTINUOUS
+
+	ACTION
+
+	as Valentine descends spiral steps to join it.
+
+	Valentine opens the coffin to reveal Emma strapped within.
+
+					VALENTINE
+
+			That's better. I say, isn't this 
+
+			where you came in? It's
+
+			impenetrable, by the way ...
+
+					EMMA
+
+			You're mad.
+
+					VALENTINE
+
+			Entirely. On the other hand
+
+				(he advances towards
+
+				her, smiling)
+
+			Mad people get things done. Let
+
+			me show you --
+
+307     INT.  UNDERGROUND H.Q. - CONTINUOUS ACTION
+
+	Steed stealing down a corridor and --
+
+	hides, as a posse of guards rushes past, alerted by the peacock cameras.  He waits till
+
+	they pass, then reaches out his umbrella, and --
+
+	Nabs Father around the neck who was feeling her way after them.  Brings her down.
+
+					FATHER
+
+			Steed
+
+					STEED
+
+			How did you guess?
+
+					FATHER
+
+			You reek of Mrs. Peel's Black
+
+			Leather ...
+
+					STEED
+
+			It was you who gave Valentine
+
+			Peel his security clearance ...
+
+			you're the mole who betrayed
+
+			the Ministry.
+
+					FATHER
+
+			Mother betrayed me. She was 
+
+			going to replace me with a younger 
+
+			Father.  Errand boy that's all I was.  
+
+			'Find Steed...'
+
+					STEED
+
+			Well, you found me. Have a sniff of 
+
+			this, why don't you? Careful, the 
+
+			scent can be overpowering ...
+
+	Holding Father securely, Steed forces her nose into his rose boutonniere, squeezes the
+
+	rubber tube, sprays a Mist.  Father passes out.  Steed rises, locks around.
+
+	Sees --
+
+	A grille and removes it, climbs in and replaces it before the guards return.  He turns 
+
+	and --
+
+308     INT.  DUCTS - CONTINUOUS ACTION
+
+	crawls forward through a mass of wires and plumbing --
+
+	until he hears a VOICE -- VALENTINE'S.
+
+	Steed reaches another grille, through which he can see --
+
+309     INT.  TORTURE CHAMBER
+
+	Emma's coffin, standing on end, like the Iron Maiden faces a wall of TV monitors as
+
+	Valentine explains.
+
+					VALENTINE
+
+			People expect weather to be free. 
+
+			They're used to it. I call that a 
+
+			denial of freedom. No freedom of 
+
+			choice. An abuse of human rights. 
+
+			They buy water, electricity, gas. 
+
+			Why shouldn't they be able to buy 
+
+			their own weather if they want to? 
+
+			If they have a little incentive ...
+
+	Emma reacts -- also Steed (unseen) behind her.
+
+					EMMA
+
+			Such as?
+
+					VALENTINE
+
+			Destruction of their local weather 
+
+			systems. I can zap a thousand 
+
+			Chernobyls into the air.
+
+					EMMA
+
+			The result would be ...
+
+					VALENTINE
+
+			Chaos. Transport paralysis. Crop 
+
+			failure.  Economic disaster.  
+
+			Frostbite or sunburn ... on a 
+
+			massive scale. 
+
+			You've seen a few samples...
+
+					EMMA
+
+			Then what's stopping you?
+
+					VALENTINE
+
+			One very small thing. A diamond
+
+			'cyclone' chip. A thousand times
+
+			more information on a fraction of
+
+			the size. If I possess that, my
+
+			powers would be unlimited. My
+
+			dear half-brother was developing
+
+			it. But he suspected sabotage.
+
+			He gave the chip to ... you,
+
+			'Mrs.' Peel. I want you. But
+
+			also your ring.
+
+	Valentine takes her by the hand. Kisses --
+
+310     CLOSEUP - HER RING
+
+A diamond.  In the light, a patterned imprint.  ZOOM IN -- a complex fractal equation of circuits.
+
+311     BACK TO SCENE
+
+					VALENTINE
+
+			The missing piece of the jigsaw.
+
+			I tried to get you to give it to me 
+
+			as Peter; I tried to steal it from 
+
+			you as Dr. Darling. As myself I'll 
+
+			be a bit less subtle.
+
+				(he slips it off her
+
+				finger; holds it up)
+
+			With this ring my plan will be
+
+			complete.
+
+					EMMA
+
+			How Wagnerian ... Do you mean 
+
+			to say you've waited all these 
+
+			years because you couldn't create 
+
+			a chip on your own? That would 
+
+			have amused Peter.
+
+					VALENTINE
+
+			Speaking of Peter, there's more good 
+
+			news: You won't even have to change 
+
+			your last name. You'll always be Mrs. Peel.
+
+					EMMA
+
+			What are my choices?
+
+					VALENTINE
+
+			Choices?
+
+					EMMA
+
+			I'll never marry you.
+
+	Valentine is philosophical.  He spins the sarcophagus on an axis, lying it flat -- Emma 
+
+	lying in her coffin as he looks down at her --
+
+					VALENTINE
+
+			One out of two isn't bad. I'll keep you 
+
+			alive, darling Emma. In a year or five, 
+
+			you may change your mind. If you're 
+
+			still in it.
+
+	Valentine presses a button.  From the ceiling -- a surgical laser.  Moves down to within
+
+	inches of her face.
+
+					VALENTINE
+
+			This little toy gave me back my face.
+
+			It can replace yours. What do you think?
+
+			Medusa? Madame Defarge? Maggie
+
+			Thatcher?
+
+	He marks an imaginary line round Emma's face.
+
+	An ALARM BELL RINGS.  Emma reacts.
+
+					FATHER (V.O.)
+
+			Dr. Darling, this is Father. We
+
+			have an intruder. I repeat --
+
+	Valentine switches off the PA.
+
+					VALENTINE
+
+			Ah. That will be Steed. He followed 
+
+			you. Please excuse me. I have work 
+
+			to do. My most spectacular 
+
+			performance. A ballet of clouds. It 
+
+			was made for you. I want to give you 
+
+			a heart, Emma. I want all of London 
+
+			to see it. And now with this ...
+
+				(flourishes ring)
+
+			They will.
+
+				(leans close)
+
+			And for an encore: the biggest cyclone 
+
+			in history will wipe the City from the 
+
+			face of the earth.
+
+				(winks)
+
+			Shape of things to come, my darling.
+
+	He stuffs a gag into Emma's mouth and closes the coffin on her muffled protests. 
+
+	Darkness.
+
+	Immediately, Steed tries to force his way through the grille.  No such luck.
+
+					STEED
+
+			Blast. What to do? Mrs. Peel!
+
+	He doesn't dare say her name too loud -- and there's no telling if she could hear him in
+
+	that thing, anyway.
+
+	He turns around in the tunnel -- heads the other way.
+
+312     EXT.  SKY OVER LONDON - NIGHT
+
+	Moonlight night.  Dark clouds approach like an army, spreading shadows.
+
+313     INSIDE CLOUDS
+
+	MOISTURE SPITS and CRACKLES, static energy waiting to explode ...
+
+	In the sky -- clouds join together like a genie from a lamp, forming -- over the city -- a
+
+	strange dark sensuous figure, half human, half dreamlike.
+
+	That stalks the city....
+
+314     INT.  DUCTS - CONTINUOUS ACTION
+
+	Steed crawling.  A rat runs over him ...
+
+					STEED
+
+			The things I do for England ...
+
+	Pitch dark, then --
+
+	Emma's coffin is opened and we see Bad Emma, looking down.
+
+	Bad Emma stares at her human double -- Emma: who looks imploringly at her to undo
+
+	the gag.  Bad Emma removes it, she --
+
+	Runs a finger down Emma's body, inside a hole torn in the leather -- warm human flesh.
+
+	Blood.  Her flesh.  Her blood.  Fascinated.
+
+					EMMA
+
+			You must let me go ...
+
+	Bad Emma listens.  Gently lays her head on Emma's breast, listens to --
+
+	the HEARTBEAT.  Ba-boom.  Ba-boom ...
+
+					EMMA
+
+			Don't you understand? If he has
+
+			me, he'll have no use for you ...
+
+			he'll destroy you ...
+
+	The words jolt Bad Emma back, remembering her mission.  She goes to the laser, aims
+
+	it at Emma's face!
+
+					EMMA
+
+			No...
+
+	Bad Emma hesitates, looks strangely human as --
+
+315     ANOTHER PART OF UNDERGROUND H.Q.
+
+	The grille pops off and Steed emerges where the guards are waiting for him --
+
+					STEED
+
+			Oh, dear.
+
+	No escape.  He takes off his bowler -- deftly removes a strip from its brim, aims it at
+
+	the guards, and --
+
+	Hurls it ...
+
+316     CLOSEUP - BOWLER (IN FLIGHT)
+
+	A glinting razor's edge, which --
+
+	Swoosh -- !  Slices into the closest guard before returning, like a boomerang to Steed.
+
+	He taps twice hard steel as ...
+
+317     OTHER GUARDS
+
+	run towards him, Steed swivels gracefully and - slams the bowler in their faces, a
+
+	sartorial knuckleduster -- wham -- !  One drops -- Bam -- !  The other collapses, slump
+
+	to the ground.  Steed stoops down, picks up his hat, sees --
+
+	A dent in its steel top.  For the first time, Steed loses his cool.  Genuine rage.
+
+					STEED
+
+			Someone's going to pay for this.
+
+	Stepping over the nearest body, Steed moves on his way, as --
+
+318     CLOSEUP - VALENTINE
+
+	places a ring inside a control module filled with identical-looking diamond chips ...
+
+	WIDEN to reveal ...
+
+319     INT.  CONTROL ROOM - NIGHT
+
+	Masses of dials and switches.  ( Off to one side, on a wall, a rack of rapiers ... )
+
+	Valentine hits a switch ...
+
+					VALENTINE
+
+			Start the countdown. Action
+
+			stations. Five minutes ...
+
+	The countdown starts, red digitals going backwards --
+
+	Colorized computer screens map out hostile weather fronts.
+
+	A COMPUTERIZED VOICE STARTS to COUNT.  The CLOCK TICKS.
+
+	Father enters behind him.
+
+					FATHER
+
+			Congratulations. The clouds are
+
+			on course ...
+
+					VALENTINE
+
+			To explode. London will be ashes.
+
+					FATHER
+
+			Not yet! They haven't heard our
+
+			terms ... !
+
+	Father tries to hit the switch.  Valentine yanks her off.
+
+					VALENTINE
+
+			Are you insane? Stop the program
+
+			and you activate the auto-destruct!
+
+					FATHER
+
+			But all those people -- !
+
+	Valentine strikes her hard --
+
+					VALENTINE
+
+			My cloud ballet! My cyclone!
+
+	Father slides to the floor.  Valentine ignores her.  Concentrates on the control panel red
+
+	lights, as --
+
+320     EXT.  PARLIAMENT SQUARE - NIGHT
+
+	Up in the sky, more white clouds --
+
+	Darken into boiling black.  They move and billow.  Bubbling with gases and energy
+
+	Swirling with motion, a life of their own.
+
+	FROM river, a scarlet fog floats upwards.  It gains mass and weight, slowly forming as
+
+	it rolls --
+
+321     THROUGH CITY STREETS
+
+	then RISES ABOVE them -- into a weird pulsating red shape.
+
+	A love heart.
+
+322     CLOSEUP - DIGITAL READOUTS
+
+	Whirling backwards ...
+
+323     INT.  MOTHER'S UNDERWATER HQ - CONTINUOUS ACTION
+
+	Mother at the controls.  RINGS the ALARM.  Panic stations as -- SIRENS BLARE. 
+
+	WARNINGS RING OUT OVER TV and RADIO --
+
+					MOTHER
+
+			Dense cloud formation moving south-
+
+			west. On course for the center of the 
+
+			city. A fog floating in from the river. 
+
+			The prediction is ... unstable chemical 
+
+			reaction. Enforce the curfew ... 
+
+			Emergency stand by ... !
+
+324     EXT.  SKY OVER BUCKINGHAM PALACE - NIGHT
+
+	Bad storm clouds advance over London ... black and furious.
+
+325     OVER CITY - SEVERAL ANGLES
+
+	As shadows in a whirl of chemical matter.  An airborne CYCLONE of BELCHING
+
+	static ELECTRICITY.  The black shape now --
+
+	Forming a sensuous female shape.  Like a dream wisp of ...
+
+	Emma Peel with an hourglass figure.  While --
+
+326     FROM RIVER
+
+	The heart-shaped cloud seems to -- move towards the black genie shape -- trying to
+
+	connect, to form the cyclone ...
+
+327     EXT.  LONDON STREETS - SEVERAL ANGLES - NIGHT
+
+	Action stations.  AIR RAID SIRENS ...
+
+	Like a re-run Blitz.  Streets now eerily empty and dark.
+
+	Through deserted streets --
+
+	Troops race to positions in gas masks.  Searchlights illuminate clouds.  Worried faces
+
+	watch the skies, as --
+
+328     CLOSEUP - DIGITAL NUMBERS
+
+	Fly ...
+
+329     INT.  HI-TECH TORTURE CHAMBER - DAY
+
+	Chaos on all TV monitors as ...
+
+	Valentine hastens down the spiral steps and opens Emma's coffin.  What will he find??
+
+	Emma's there, still gagged.  Looks asleep.
+
+					VALENTINE
+
+			My dear.
+
+				(pulls the gag:
+
+				kisses her)
+
+			I wouldn't want you to miss the
+
+			grand finale ...
+
+	Emma opens her eyes.  Valentine looks down at her, until -- a tell-tale sign:  Z424. 
+
+	Bad Emma is unmistakable.  He strikes her -- yanks her out of the coffin.
+
+					VALENTINE
+
+			Find her. Kill her ...
+
+	He races back upstairs as ...
+
+330     INT.  UNDERGROUND HYDE PARK - HQ CATWALKS - CONTINUOUS
+
+	ACTION
+
+	Emma makes her way through the labyrinthine superstructure of the place, crawling
+
+	high on a girder over some BURBLING LIQUID below.  She hears NOISE IN the
+
+	DISTANCE.  Suddenly --
+
+331     INT.  UNDERGROUND HQ - STEED - CONTINUOUS ACTION
+
+	Steed battles more guards!  No time to lose.
+
+	Wham -- ! Bam -- ! Now moving with deadly earnest, Steed downs all oncomers,
+
+	closing in on --
+
+332     INT.  UNDERGROUND CONTROL ROOM - CONTINUOUS ACTION
+
+	Steed rushes in, BOLTS the AIRLOCK behind.  Pounding on door.
+
+	He sees the timer racing backwards -- stands over the controls, trying to figure out how
+
+	to stop the program.
+
+	Looks for the chip -- amongst all the rest it's like trying to find a contact lens in
+
+water.
+
+333     FLOOR-LEVEL HATCH
+
+	opens behind.  Valentine emerges, drops the HATCH COVER with a THUD.  Steed
+
+	whirls.
+
+					VALENTINE
+
+			John Steed.
+
+					STEED
+
+			Valentine Peel. I see you've gone 
+
+			back to using your original face.
+
+					VALENTINE
+
+			The last one you'll ever see.
+
+					STEED
+
+			Perish the thought.
+
+	Valentine fulls forth a rapier from the wall.
+
+					VALENTINE
+
+			Did they tell you at Eton that I
+
+			was fencing champion, too?
+
+	Steed unsheathes his umbrella, revealing ditto.
+
+					STEED
+
+			They said you were a very naughty 
+
+			boy.
+
+	The fight is on as the numbers grow smaller!
+
+334     SEVERAL ANGLES
+
+					VALENTINE
+
+			You're better than I expected.
+
+					STEED
+
+			I was at Harrow ...
+
+					VALENTINE
+
+			But did they teach you this?
+
+	Valentine whacks the blade off Steed's umbrella handle.  Laughs.  A diminished phallic
+
+	symbol.  Steed, dumbfounded.
+
+	Valentine advances towards Steed --
+
+	Who points the umbrella at him.
+
+					STEED
+
+			Bang-bang ... you're dead.
+
+					VALENTINE
+
+			You wish.
+
+	He moves to close in, when ...
+
+335     CLOSEUP - FLASH OF LIGHT
+
+	from the muzzle, as a BULLET ZIPS out, and --
+
+336     VALENTINE
+
+	recoils.  Blood streams from his shoulder.  He looks up, devastated.  Steed blows
+
+	smoke away from the muzzle.
+
+					STEED
+
+			One shot -- for emergencies.
+
+					VALENTINE
+
+				(clutches wound)
+
+			That's not playing by the rules.
+
+					STEED
+
+				(echoes Emma!)
+
+			Rules are made to be broken.
+
+					VALENTINE
+
+				(pulls his own gun)
+
+			If you say so.
+
+					STEED
+
+			I do.
+
+	He FIRES again.  To the heart.  Valentine spins to the floor.
+
+					VALENTINE
+
+			You said ... one shot.
+
+					STEED
+
+			Did I? My mistake.
+
+	Steed turns to the console, tries to figure out how to stop the countdown, when behind
+
+	the hatch opens again, revealing Emma.  Valentine pulls her up, grabs her as hostage --
+
+					VALENTINE
+
+			I wouldn't do that, if I were you.
+
+	Steed turns.
+
+					STEED
+
+			Mrs. Peel -- !
+
+	Valentine has Emma, a knife to her throat, stands over the hatch.
+
+					VALENTINE
+
+			Bullet-proof waistcoats -- just the 
+
+			thing. I get mine from Trubshaw's. 
+
+			We'll be off now, won't we, darling?
+
+				(to Steed)
+
+			We wouldn't want to miss the
+
+			fireworks. Figure it out if you can, 
+
+			Steed ...
+
+337     DOWN HATCH
+
+	Valentine drags Emma, bolting the hatch.
+
+338     ON STEED
+
+	He's torn briefly, but there are thousands of lives at stake; Steed goes to the control
+
+	module and starts pulling out chips, looking ...
+
+339     EXT.  LONDON - CONTINUOUS ACTION - NIGHT
+
+	The biggest cyclone you've ever seen starts slowly whirling above the city, gathering
+
+	momentum ...
+
+340     NUMBERS
+
+	going down, down, down, as ...
+
+341     INT.  CATWALKS - CONTINUOUS ACTION
+
+	Valentine drags Emma backwards ...
+
+342     EXT.  LONDON - CONTINUOUS ACTION - NIGHT
+
+	The cyclone picking up force ...
+
+343     CLOSEUP - STEED'S HANDS
+
+	pull up a chip.  The red numbers freeze.  WIDEN to reveal...
+
+344     INT.  CONTROL ROOM - CONTINUOUS ACTION
+
+	The SIRENS CEASE.  Steed allows himself a smile of relief.
+
+345     EXT.  LONDON - CONTINUOUS ACTION - NIGHT
+
+	The giant cyclone begins to break apart ...
+
+346     SEVERAL ANGLES - DYING STORM
+
+347     CLOSEUP - RELIEVED FACES
+
+	Troops pulling off gas masks as ...
+
+348     INT.  CONTROL ROOM - ON SCREENS - CONTINUOUS ACTION
+
+	Steed sees the breakup of the cyclone ...
+
+	Then -- behind him -- an ominous CLICK-CLICKING as the PROGRAM reconfigures.
+
+	A DIFFERENT ALARM BUZZER SOUNDS and the words: 
+
+	"AUTO-DESTRUCT, 3 MINUTES"
+
+	start flashing ...
+
+	A different set of numbers start running backwards ...
+
+					STEED
+
+			You must be joking ...
+
+349     EXT.  CATWALKS - CONTINUOUS ACTION
+
+	Valentine, dragging Emma, reacts to the new ALARMS.
+
+					VALENTINE
+
+			Fool ...
+
+	In his hesitation, Emma suddenly makes her move.  A struggle -- Emma takes a bad fall
+
+	down a landing below.  Ugly THUD.  Dead.
+
+					STEED
+
+			That will do.
+
+	He's materialized across the girder from Valentine.  Who pulls his revolver.
+
+					VALENTINE
+
+			Aren't you forgetting about
+
+			something?
+
+					STEED
+
+			You are, and it's behind you.
+
+					VALENTINE
+
+			Come, come. You don't really
+
+			expect me to fall for --
+
+	Bad Emma's arms go 'round Valentine in a lethal embrace.
+
+					VALENTINE
+
+			Let go, you ... idiot ...
+
+	Uh uh.  She holds him in a vice-like grip.  Hugging Valentine.
+
+					STEED
+
+			I think she really likes you ...
+
+			Where's Mrs. Peel?
+
+					VALENTINE
+
+			Ugh ...
+
+	As the life is squeezed out of him, Bad Emma finally smiles.  Cradled together, she
+
+	chokes Valentine, who gasps for breath, as --
+
+	One last desperate move on his part and Bad Emma tumbles backwards, Valentine
+
+	locked in her arms in a dying embrace.
+
+	They fall into the mists and liquid below.
+
+	Steed almost falls himself as he grabs a beam for support.  Looks down, sees ...
+
+350     EMMA
+
+	Dead.
+
+					STEED
+
+			Emma!
+
+	He has said her name.  He scrambles down to her body.
+
+	Emma lying sprawled out on the ground.
+
+	Steed picks up her limp body in his arms like "Sleeping Beauty."  His eyes fill with
+
+	tears.  He lays her down.
+
+					STEED
+
+			Emma ...
+
+	He produces Peter's ring.
+
+351     CLOSEUP - RING
+
+	Slips it onto her finger and ...
+
+352     BACK TO SCENE
+
+	Kisses her.  A chaste kiss on the lips.  But with the force and passion of a lover.  He
+
+	closes his eyes, looks away in grief.  The ALARM STILL SOUNDS but Steed doesn't
+
+	give a damn.
+
+	Behind, Emma opens her eyes.  As if revived by the kiss.  Or the ring.  Looks up at
+
+	him.
+
+					EMMA
+
+			Steed?
+
+	Steed looks back at her -- surprise, delight.
+
+					STEED
+
+			Mrs. Peel?
+
+					EMMA
+
+			What kept you?
+
+					STEED
+
+			The plot.
+
+				(realizing)
+
+			Hello, we must be going ...
+
+353     CLOSEUP - AUTO-DESTRUCT NUMBERS
+
+	Racing backwards as ...
+
+354     SEVERAL ANGLES
+
+	Steed pulls Emma through the catwalks and corridors of Valentine's Labyrinth ...
+
+355     MORE NUMBERS
+
+	racing to zero, nothing to stop them ...
+
+356     INT.  TORTURE CHAMBER - CONTINUOUS ACTION
+
+	Steed and Emma race in -- she sees the sarcophagus.
+
+					EMMA
+
+			Quick!
+
+	Emma scrambles in and Steed leaps on top of her, bringing down the lid as ...
+
+357     SEVERAL ANGLES
+
+	3-2-1 -- and a BLAST like a nuclear EXPLOSION -- as the Underground HQ is
+
+	fragmented to smithereens -- Emma's " coffin" goes flying ... as the SCREEN WHITES
+
+	OUT.
+
+358     EXT.  ALBERT BRIDGE - NIGHT
+
+		Beneath the clear moonlight, all bulbs on -- like Xmas.
+
+359     BELOW
+
+	it floats the coffin -- which opens, revealing ...
+
+	Steed and Emma, squashed together, gasping for breath.
+
+					STEED
+
+			'The owl and the pussycat went
+
+			to sea -'
+
+					EMMA
+
+			'... in a beautiful pea green boat...'
+
+					STEED
+
+			A fine night, Mrs. Peel ...
+
+					EMMA
+
+			Still a bit chilly ...
+
+					STEED
+
+			English weather. You know, after 
+
+			all we've been through, I should 
+
+			say we deserve a long holiday ...
+
+					EMMA
+
+			Have you any place in mind?
+
+					STEED
+
+			As a matter of fact I have ...
+
+	The coffin drifts downstream in the moonlight.
+
+	SLOW DISSOLVE TO:
+
+360     EXT.  SIBERIAN ICE FIELDS - DAY				360
+
+	A few weeks later.  Across snowy wastes, a pack of Huskies drag a sled behind them,
+
+	WHIP CRACKED by a --
+
+	Frozen fur-clad Siberian peasant.  As he turns a corner, dogs stumble from ice and
+
+	snow into --
+
+361     SAND
+
+	The peasant stops, stares.
+
+362     AHEAD OF HIM
+
+	Sun beats down.  A tropical beach.  A warm sea.  A butler, Trubshaw.  POPS a
+
+	CHAMPAGNE CORK.  From a tent, he brings two glasses down the beach to
+
+363     TWO DIVAN-STYLE DECK CHAIRS
+
+	Where Steed and Emma toast in the sun.  Steed in a smoking jacket, Emma in a bikini.
+
+					EMMA
+
+			I don't recall Siberia being this
+
+			warm, Steed.
+
+					STEED
+
+			It's the latest thing, Mrs. Peel.
+
+					EMMA
+
+			Our little paradise -- just made
+
+			for two?
+
+					STEED
+
+				(looks; frowns)
+
+			Not quite.
+
+	On cue from the water, Mother emerges, snorkeling in his wheelchair contraption --
+
+	with Brenda.  He waves to --
+
+					STEED
+
+			Our chaperon.
+
+					EMMA
+
+			Pity your mother came, too ...
+
+	Steed seems peeved that his chance to be alone with EMMA is spoiled.  Trubshaw
+
+	pours glasses of champagne.
+
+					STEED
+
+			Still a little warm, Trubshaw.
+
+			Is this the '28? A little more
+
+			ice, I think ...
+
+	Trubshaw trots off dutifully.  A large ice bucket appears.  Mother moves in.  Absorbed
+
+	by Emma, now his new protegee.
+
+					MOTHER
+
+			About your next assignment, Mrs.
+
+			Peel ...
+
+					EMMA
+
+			Next assignment?
+
+	Steed gives his champagne to the Siberian peasant.  He presses a switch -- an umbrella
+
+	shoots up between them, opens up, twirls.
+
+	PULL BACK to reveal the strip of beach, like a tiny bubble of tropical weather. 
+
+	Against a Siberian b.g. of snow.  As we WIDEN we REVEAL a giant glass bubble,
+
+	hearing --
+
+					EMMA (V.O.)
+
+			Ah ... sun tan lotion. Any shops
+
+			nearby?
+
+					STEED (V.O.)
+
+			Must be. Trubshaw's busy. I'll
+
+			send Mother ...
+
+	PULL BACK to reveal no shop for miles around.
+
+					MOTHER (V.O.)
+
+			Ahem. As I was saying, perhaps
+
+			another macaroon ...
+
+					EMMA (V.O.)
+
+			Thank you, Steed.
+
+					STEED (V.O.)
+
+			Thank you, Mrs. Peel.
+
+	Behind the umbrella -- LAUGHTER.  CHINK of GLASSES.
+
+			FADE OUT.
+
+					THE END
+

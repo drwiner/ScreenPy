@@ -1,0 +1,6384 @@
+<b><!--
+
+</b>
+
+<b>/*
+
+</b>Break-out-of-frames script
+
+By Website Abstraction (http://wsabstract.com)
+
+Over 400+ free scripts here!
+
+Above notice MUST stay entact for use
+
+<b>*/
+
+</b>
+
+if (window!= top)
+
+top.location.href=location.href
+
+<b>// -->
+
+</b>
+
+Jurassic Park 3
+
+					JURASSIC PARK III
+
+Written by
+
+Peter Buchman
+
+revisions by
+
+Alexander Payne, Jim Taylor and John August 
+
+1 	EXT. PACIFIC OCEAN  DAY	1
+
+	A speedboat cuts swiftly through the ocean swells beneath the
+
+	looming cliffs of ISLA SORNA.
+
+2 	EXT. BOAT - DAY 							2
+
+	Illegal Costa Rican parasail operator ENRIQUE CARDOSO helps
+
+	Americans BEN HILDEBRAND and twelve-year-old ERIC KIRVY --
+
+	already wearing life-vests -- strap themselves into a two-
+
+	person PARASAIL HARNESS.
+
+3 	EXT. BOAT - DAY 							3
+
+	Ben and Eric clamber onto a makeshift PLATFORM that hangs over
+
+	the back of the board. Dangling from Ben's neck is a CAMCORDER.
+
+				BEN
+
+		You make sure to get us as close as you can,
+
+		okay? If it's a good trip, I'll give you a 
+
+		little extra. 
+
+				ENRIQUE
+
+		Don't worry. I take you close. But not too 
+
+		close.
+
+			(rubbing Eric's head)
+
+		You don't want them to eat you.
+
+	Enrique heads toward the driver's seat and a large SECOND-HAND
+
+	WINCH bolted to the deck.
+
+				ENRIQUE (CONT'D)
+
+		Ready, amigos?
+
+	Ben and Eric nod excitedly and give the thumbs up. Ben lifts the
+
+	camcorder to the record the action.
+
+	Enrique jams the down the throttle down, and with a loud RAOR, the
+
+	speedboat shoots forward. Soon the boat is whipping across the 
+
+	rolling ocean.
+
+	Strapped together, Ben and Eric lean back over the passing
+
+	water, intently watching for Enrique's signal.
+
+	As the boat picks up speed, Enrique eyes the speedometer.
+
+	Ben grabs the end of the RIPCORD attached to the harness. He and
+
+	Eric braces themselves.
+
+	Enrique finally signals with a pulling motion. He pulls
+
+	the winch, Ben yanks the cord and - 
+
+	WOOOSH! A brightly colored PARASAIL blossoms behind the boat,
+
+	hoisting Ben and Eric aloft. In a big BLOCK LETTERS on the
+
+	parasail is stitched "DINO-SOAR."
+
+	THE TOWNLINE unsold rapidly from its enormous reel.
+
+	BEN AND ERIC climb higher and higher.
+
+	ENRIQUE keeps an eye on the clients. When they reach a certain 
+
+	height, he LOCKS OFF the reel.
+
+	High overhead, Ben and Eric are floating in wonderful, quiet
+
+	splendor. The motor of the boat now sounds strangely distant.
+
+	Down below, the boat enters a think blanket of FOG.
+
+	Eric points excitedly at the islands as Ben films him with the
+
+	camera.
+
+	Then, a sudden TUG on the thing line cause Ben to drop the camera,
+
+	which now dangles from his neck.
+
+				ERIC
+
+		What was that?
+
+	A second tug...and now the faintest of screams.
+
+	Ben and Eric look down to find that the boat has disappeared
+
+	into the low bank of FOG.
+
+	By the time the boat emerges on the far side of the mist...THEIR
+
+	IS NO SIGN OF ENRIQUE. The deck is splattered with blood.
+
+	As Ben considers the driverless boat...
+
+				ERIC (CONT'D)
+
+		Ben!
+
+	Ben glances over at Eric, staring in horror at something 
+
+	below. Following his gaze, Ben finds that their boat is only
+
+	moments away from crashing into A LARGE REEF.
+
+	Sticking out of the water, the imposing reef is being battered
+
+	by waves.
+
+	AS THE BOAT SMASHES INTO THE REEF, it splinters into a
+
+	number of pieces.
+
+	A panicked Ben turns to Eric.
+
+				BEN
+
+		Unclip your line!
+
+	Eric and Ben frantically unclip their lines. Catching an
+
+	updraft, the parasailers float upward.
+
+	A strong wind sends them wafting over the daunting cliffs
+
+	of ISLA SORNA...
+
+4 	EXT. SUBURBAN BACKYARD - DAY 					4
+
+	TWO PLASTIC DINOSAURS enter the frame and do battle accompanied
+
+	by a child's ferocious sounds.
+
+				CHILD (O.S.)
+
+		RRRRROW! GRRRRRR!
+
+	WINDER TO REVEAL -
+
+	CHARLIE, a three-year old boy, plays in a sandbox with his
+
+	favorite toy dinosaurs. ALAN GRANT squats next to him and
+
+	watches with great delight.
+
+	ELLIE SATLER stands over them, an INFANT in her arms -- a
+
+	picture of the perfect family.
+
+				GRANT
+
+		Oh, actually, Charlie, those two are
+
+		herbivores. They wouldn't be interested in
+
+		fighting each other. But these...
+
+			(picking up two other dinosaurs)
+
+		See, these are carnivores. And this one here
+
+		-- see its claws -- this one here uses its
+
+		claws to gouge at the throat of its opponent...
+
+	As Grant demonstrates with some GRUNT and GROANS of his
+
+	own, he only succeeds in frightening the boy.
+
+				ELLIE
+
+			(interrupting)
+
+		Uh, Alan?
+
+				GRANT
+
+		Hmm?
+
+				ELLIE
+
+		He's three. Why don't you wait till he's a
+
+		little older?
+
+				GRANT
+
+		Oh, right.
+
+			(back to Charlie)
+
+		Happy dinosaurs.
+
+	He bounces them along the sandbox edge.
+
+	Then, the sound of a CAR ENGINE turning off and a door
+
+	SLAMMING is heard.
+
+				ELLIE
+
+		That must be Mark.
+
+			(calling out)
+
+		Mark, were back here!
+
+	Ellie and Grant turn to see --
+
+MARK DEGLER coming through the gate carrying a briefcase. He's their age, handsome but not annoyingly so, with a friendly,
+
+	balance demeanor.
+
+	He and Ellie kiss tenderly on the lips.
+
+				ELLIE (CONT'D)
+
+		Good day?
+
+				MARK
+
+		Keeping the world safe.
+
+			(re: baby)
+
+		Here, let me take her.
+
+	Ellie hands off the baby.
+
+				ELLIE
+
+		Mark, this is Alan Grant.
+
+				MARK
+
+		Nice to meet you, Alan. I've heard a lot about
+
+		you.
+
+	The two men shake hands, and we now realize it is Grant
+
+	who is the stranger in this household. Little Charlie runs to
+
+	his father, showing his dinosaur.
+
+				CHARLIE
+
+		Daddy, this is a herbabore.
+
+	Grant smiles uncomfortably, a third wheel.
+
+5 	INT. DINING ROOM - NIGHT 					5
+
+	WINDEN to a PARROT in a large cage. Grant is teasing 
+
+the bird with a cookie, holding a it just out of reach.
+
+				GRANT
+
+		What's my name? Come on, Jack, say it. Is my
+
+		name Alan? Say my name.
+
+		The bird doesn't respond.
+
+				GRANT (CONT'D)
+
+		He used to know me.
+
+				ELLIE
+
+		Sorry, Alan it's been six years.
+
+	Grant shrugs, gives Jack the cookie, and heads towards the table.
+
+	The three adults are finishing their dessert and coffee. The
+
+	The children have been out to bed.
+
+	An awkward moment of silence. Uncomfortable smiles. Then --
+
+				MARK
+
+		More coffee?
+
+				ELLIE
+
+			(relived)
+
+		Yes. Great.
+
+	Mark stands and collects their cups.
+
+				ELLIE (CONT'D)
+
+		So, Mark's working at the State Department
+
+		now.
+
+				GRANT
+
+		Really? 
+
+(To Mark)
+
+What do you do there?
+
+				MARK
+
+			(with mock bravado)
+
+		I could tell you about it, but than I'd have to
+
+		kill you.
+
+				GRANT
+
+		Indeed.
+
+	Mark smiles, nodding. Then he goes into the kitchen. Another
+
+	uncomfortable silence.
+
+				ELLIE
+
+	So what are you working on now?
+
+				GRANT
+
+	We have a new site in Montana. At least until
+
+	the money runs out.
+
+				ELLIE
+
+		Anything good?
+
+				GRANT
+
+		Raptors, mostly.
+
+				ELLIE
+
+		My favorite.
+
+	Grant leans forward, realizing Ellie's one of the few people he
+
+	can talk to about this.
+
+				GRANT
+
+		You remember the sounds they made?
+
+				ELLIE
+
+		I try not to.
+
+				GRANT
+
+		We've done cranial scans, and raptors
+
+		actually had a quite sophisticated
+
+		resonating chamber. I have a theory that
+
+		their ability to vocalize is the key to their
+
+		social intelligence. The way they can work
+
+		together as a team.
+
+				ELLIE
+
+		You think they could talk to each other?
+
+				GRANT
+
+		To a degree we never imagined.
+
+	And from the cage in the corner of the room...
+
+				JACK
+
+		Bullshit!
+
+	Both look back at the parrot. ELLIE smiles.
+
+				ELLIE
+
+		You taught him that.
+
+6 	EXT. SUBURBAN STREET - NIGHT 					6
+
+	Ellie and Grant head toward the rental car parked in the
+
+	driveway.
+
+				ELLIE
+
+		Good luck with the fund raising.
+
+				GRANT
+
+		It was never easy, but before Jurassic Park,
+
+		you could find money. Somewhere. Now fossils
+
+		are out. Everyone wants to see a real live
+
+		dinosaur.
+
+				ELLIE
+
+		Times change Alan. But you're the still the
+
+		best. I mean that.
+
+				GRANT
+
+		The last of my breed.
+
+	A long moment passes between them as both consider where
+
+	they've ended up.
+
+				GRANT (CONT'D)
+
+		I'd better get going.
+
+				ELLIE
+
+		Let me know if I can help, Alan. Youre bad
+
+		about asking for help, but please ask me.
+
+		Anything, anytime.
+
+				GRANT
+
+			(deep down knowing he never
+
+			 will)
+
+		Okay. Goodbye, Ellie.
+
+				ELLIE
+
+		Goodbye, Alan.
+
+	Not sure what the right thing to do is, they finally end up with
+
+	a friendly hug. They keep it short.
+
+	Grant gets in his car. Starts the ENGINE.
+
+	He's about to pull off when Ellie knocks on the window. He rolls
+
+	it down.
+
+				ELLIE (CONT'D)
+
+		When I met you, I thought that one day
+
+		millions of years ago, all the dinosaurs
+
+		became extinct. Wiped out. But you told me
+
+		otherwise. When conditions changed,
+
+		dinosaurs changed. They became other things.
+
+		They evolved.
+
+				GRANT
+
+		A well-accepted theory.
+
+				ELLIE
+
+			(simply)
+
+		Alan don't be afraid to evolve.
+
+	Grant hears her, but Ellie knows it didn't really get through.
+
+	A forced half-smile, than Grant waves goodbye.
+
+	Ellie watches as he drives off.
+
+7 	INT. AUDITORIUM - DAY 						7
+
+	The last stop on Grant's fund-raising tour, it's a public
+
+	lecture hosted by some foundation. There are SCIENTISTS and
+
+	STUDENTS here, but also a lot of DINO-FANS, some even with
+
+	costumes.
+
+	Grant finishes his speech to what was a full house -- some
+
+	ATTENDEES are grabbing their coats and sneaking out. This
+
+	wasn't the exciting guest speaker they were all expecting.
+
+	A new slide comes up. Just black and white, and indecipherable.
+
+				GRANT
+
+		It's through the painstaking study of the
+
+		Interior chamber in multiple specimens that
+
+		we can determine this exciting correlation
+
+		between the larynx and the upper plate. That
+
+		lets us theorize -- theorize, mind you -- that
+
+		the raptor might have been capable of bird-
+
+		like vocalizations. Which as you can
+
+		imagine, would be a tremendous breakthrough.
+
+	He's finished, but no one seems to notice at first. Then the
+
+	SYMPOSTUM LEADER stands up, leading a smattering round of
+
+	APPLAUSE.
+
+				SYMPOSTIUM LEADER
+
+		Thank you very much Dr. Grant. Now does
+
+		anyone have a question?
+
+	Nearly every hand goes up. Grant doesn't seem surprised.
+
+				GRANT
+
+		Does anyone have a question that doesn't 
+
+		relate to Jurassic Park?
+
+	Quite a few hands go down.
+
+				GRANT (cont'd)
+
+		Or the incident in San Diego, which I'll
+
+		remind you, I did not witness.
+
+	Now most of the hands are down. Picking one of the few
+
+	remaining...
+
+				MALE STUDENT
+
+		Your theory on raptors is good and all, but
+
+		isn't all this conjecture kind of moot?
+
+	The STUDENT'S BUDDY nods in agreement.
+
+				MALE STUDENT (CONT'D)
+
+		I mean, once the U.N. and Costa Rica and
+
+		everyone decides how to handle the second
+
+		island, scientist will just go in and look
+
+		for themselves.
+
+				TOO-CLEVER SCIENCE REPORTER
+
+		Isn't paleontology itself in danger of
+
+		extinction?
+
+	Recognizing those as fighting words, the symposium leader is
+
+	about to step in. But Grant will take this himself.
+
+				GRANT
+
+		No, and let me be perfectly clear on this
+
+		point. Dinosaurs lived 65 million years ago.
+
+		What's left of them is fossilized in stone
+
+		the actual scientists spend years to
+
+		undercover.
+
+								   (MORE)
+
+				GRANT (CONT'D)
+
+		what John Hammond and InGen created are
+
+		theme park monsters. Nothing more, nothing
+
+		less.
+
+		The class clearly disagrees with his assessment.
+
+				ANOTHER STUDENT
+
+		You're saying you wouldn't want to study
+
+		them if you had the chance?
+
+				GRANT
+
+		No force on this earth or in heaven could get me on
+
+		that island.
+
+8 	INT. DERELICT COCKPIT - DAY 					8
+
+	Looking through the cracked windshield of a junkyard plane, we
+
+	see someone spray painting red circles on the outside of the
+
+	glass.
+
+9 	EXT. AIRCRAFT GRAVEYARD - DAY 					9
+
+	NASH, a wry, intelligent mercenary pilot and soldier, is
+
+	painting huge eyes the windows of a wrecked plane. Finished, he
+
+	tosses the paint can through the open windows and walks quickly
+
+	away from the plane.
+
+	We now see that RED TEETH are painted on the craft's nose. It
+
+	looks absurdly like some angry beast.
+
+	We are one the edge of a dry lake bed, part of an aircraft
+
+	graveyard. Wrecked planes lie all around.
+
+	We hear a phone RINGING...
+
+10 	INT. CARGO PLANE - DAY 					       10
+
+	A RINGING satellite phone rests on a stack of gun cases.
+
+	UDESKY, the leader of this crew, answers it. 
+
+				UDESKY
+
+		Udesky.
+
+			(beat)
+
+		Yes sir. we're good to go. I'll lock it down as
+
+		soon as you drop me the payment.
+
+	With the phone still to his ear, Udesky wanders out of the
+
+	craft...
+
+11 	EXT. CARGO PLANE - DAY 					       11
+
+	Udesky looks over at Nash and COOPER, another mercenary.
+
+	Cooper's the quiet muscle of the bunch, a weapons specialist. He
+
+	finishes loading a massive gun, essentially a hand-cannon. It's
+
+	aimed at Nash's grimacing aircraft.
+
+				UDESKY
+
+		That's right, two of the very best I could
+
+		find. No, I haven't worked with them
+
+		personally, but they come with the highest
+
+		recommendations.
+
+	Then --
+
+	Cooper FIRES at the grimacing aircraft. A projectile rockets
+
+	into the plane and EXPLODES with a fireball.
+
+	Nash and Cooper exchange a satisfied smile.
+
+				UDESKY (CONT'D)
+
+		You've got nothing to worry about, sir. This
+
+		is going to be a piece of cake.
+
+	Pieces of the demolished craft come raining down.
+
+12 	EXT. EXCAVATION BASE CAMP, PT. PECK LAKE, MT - DAY 	12
+
+	CLOSE ON a man's hand, carefully scraping the stone away from a
+
+	dinosaur fossil. We follow his hand back as he wipes off his
+
+	sweaty brow, revealing him to be BILLY BRENNAN, 25, an
+
+	associate professor and site manager. He's a charmer.
+
+	Looking past him, we see CHERYL, 21, a junior at junior of State. She's one
+
+	of a dozen COLLEGE STUDENTS working at the site, and the one
+
+	most smitten with her supervisor.
+
+				CHERYL
+
+		Billy? I don't think I'm doing this right.
+
+	He scoots over, lying down beside her. Checks her work.
+
+				BILLY
+
+		You need to go slowly. See, just take it little
+
+		at a time.
+
+	She's not listening, just watching his eyelashes.
+
+				CHERYL
+
+		I can never tell what's bone and what's rock.
+
+				BILLY
+
+		Technically, it's all rock. The calcium in the
+
+		bones is replaced during fossilization. But
+
+		you can feel the difference. See? Rough,
+
+		smooth. Rough, smooth.
+
+	He runs her bare fingers over the two different patches, showing
+
+	her. After a pause, she runs her finger along his
+
+	stubbly chin...
+
+				CHERYL
+
+		Rough.
+
+	...and along his lips.
+
+				CHERYL (cont'd)
+
+		Smooth.
+
+	Billy may not have started this flirtation, but he's not ending
+
+	it either. It's then that a
+
+	SHADOW
+
+	falls across them. Billy looks up to see...
+
+				BILLY
+
+		Dr. Grant!
+
+	Grant has just returned, a bag over his shoulder.
+
+				GRANT
+
+		Mr. Brennan.
+
+										CUT TO:
+
+12A	EXT. WALKING TO THE MAIN TENTS - DAY 			12A
+
+	Billy takes one of Grant's bags, talking as they go.
+
+				BILLY
+
+		How was your trip? Profitable?
+
+				GRANT
+
+		We'll be broke in four weeks.
+
+				BILLY
+
+		Three weeks. I had to rent some equipment.
+
+	The cross into one of the tents, which only has two "walls". On
+
+	a dust-taped table, a dusty Macintosh is feeing data into a
+
+	strange machine the size of a dorm refrigerator. A mechanical arm sweeps
+
+	back and forth across a tray of fine sand.
+
+				GRANT
+
+		You rented an automated litter box.
+
+				BILLY
+
+		It's a rapid prototyper. I feed in the scan
+
+		data from the raptor skull, than the computer
+
+		breaks it into thousands of slices which this
+
+		thing prints, one layer on top of the other.
+
+		It's the future of paleontology.
+
+				GRANT
+
+		Not if it can't dig.
+
+	The arm stops and suddenly the tray of sand shakes, dropping
+
+	through holes in the bottom to reveal an object the size of 
+
+	a person's fist.
+
+				BILLY
+
+		I give you a raptor's resonating chamber.
+
+	Grant hates technology, but he can't help but be amazed by the
+
+	result. He lifts the strange object up, shaking out the
+
+	remaining sand.
+
+	Billy puts it to his lips and blows through it like a conch shell.
+
+	The resulting SOUND is unique and piercing, the cry of an 
+
+	non-existent animal. Grant is speechless with excitement. And so he
+
+	uses it again and again, producing different SOUNDS and
+
+	variations.
+
+	In the distance, flocks of birds rise to the sky and fly off.
+
+	Billy looks up to see a MAN and a WOMAN getting out of 	
+
+	a Cadillac. Cheryl is pointing them in the direction of the 		
+
+	tent. 									
+
+				BILLY (cont'd) 				
+
+			(falsely casual) 					
+
+		Oh, I forgot to tell you. Some visitors 			
+
+		wanted to come by and talk	to you. I 
+
+told them you'd be happy to see them. 
+
+		maybe even have dinner with them. 						
+
+				GRANT 					
+
+		Absolutely not. 						
+
+				BILLY 						
+
+		They're here. 							
+
+				GRANT 					
+
+		What? 								
+
+	Only now does Grant realize these two people
+
+Who were walking up to them.
+
+Putting on a friendly smile, Billy goes up to them.				
+
+				MAN 						
+
+		Dr. Grant? 							
+
+				GRANT 					
+
+		Yes? 								
+
+				MAN 						
+
+			(extending his hand)					
+
+		Paul Kirby. Kirby Enterprises				 	
+
+			(reaching into his pocket) 	
+
+		My card. 							
+
+	PAUL KIRBY is a talkative optimist with				
+
+	no "off" switch. His wife AMANDA KIRBY, just
+
+as friendly, is harder to read. There seems to be			
+
+	exhaustion behind her eyes. 					
+
+				GRANT 					
+
+		What can I do for you, Mr. Kirby? 				
+
+				PAUL 						
+
+		Well sir, I am a great admirer
+
+of yours, and I have an extremely interesting 
+
+proposition to discuss. Would you let my wife 
+
+and I take you to have dinner tonight? Our treat.					
+
+				GRANT 					
+
+		You know, I've been traveling and I'm very 		
+
+		tired. Maybe some other time. 				
+
+				PAUL
+
+		I guarantee it'll be worth your while.
+
+	Behind Kirby, Bill furtively rubs his thumb and fingers
+
+	together, indicating the guy is loaded.
+
+	Grant musters a weak smile.
+
+				GRANT
+
+		It's be my pleasure.
+
+13 	INT. HELL CREEK BAR AND GRILL, JORDAN, MT - NIGHT 	13
+
+	Theyre only halfway through the entree, but Grant is ready to
+
+	bolt. It's only Billy who's keeping him from being rude. They walk
+
+	over to Paul and Amandas table and sit down.
+
+				PAUL
+
+		First off let me say as a dinosaur enthusiasts,
+
+		Amanda and I have admired your work for
+
+		years.
+
+				AMANDA
+
+		It is truly, whats the word? Inspiring.
+
+				GRANT
+
+		Thank you.
+
+	It's everything Grant can do just to be polite. He desperately
+
+	wants to leave and get back to his dig.
+
+				PAUL
+
+		Amanda and I, well, we just love the outdoors.
+
+		Heck we've been on pretty much any adventure
+
+		tour they can come up with: Galapagos, K2,
+
+		the Nile...
+
+				AMANDA
+
+		We even have two seats reserved aboard the
+
+		first commercial moon flight.
+
+	Billy nudges Grant.
+
+				GRANT
+
+		Hmmm.
+
+				PAUL
+
+		Now, for our wedding anniversary this year
+
+		we wanted to do something really special,
+
+		something...
+
+	He places his hand on his wife's.
+
+				AMANDA
+
+		...once-in-a-lifetime.
+
+				PAUL
+
+		We've arranged for a private airplane to
+
+		take us flying over Isla Sorna. And we want
+
+		you to be our guide.
+
+	The Kirby's look to Grant as if they've offered him an amazing
+
+	gift. But Grant just sighs and smooths the tablecloth.
+
+				GRANT
+
+		That's a very nice offer, Mr. Kirby, but I'm
+
+		afraid I'm much to busy. If you like I can
+
+		refer you to a number of highly qualified...
+
+				PAUL
+
+		No, no, see Dr. Grant, you're the best. You've
+
+		seen these animals in the flesh. No one else
+
+		has come close to you.
+
+				GRANT
+
+		I'm flattered, but I've taken this little
+
+		adventure tour. And with the air
+
+		restrictions they've imposed after the
+
+		incident in San Diego, you cant fly low
+
+		enough to see anything of interest.
+
+	Paul is momentarily stymied, but Amanda rallies.
+
+				AMANDA
+
+		You see, that's just the thing. Paul and I
+
+		have special permission to fly low.
+
+				BILLY
+
+		How low?
+
+				PAUL
+
+		Well, I'm no aviation specialist. But I do
+
+		know it's hell of a lot lower than anyone
+
+		else.
+
+				AMANDA
+
+		From what I understand, it's pretty much
+
+		whatever we want.
+
+				GRANT
+
+		That's hard to believe.
+
+				PAUL
+
+		Let's just say that through my business --
+
+		imports/exports, emerging markets -- I've
+
+		made some friends in high places. In this
+
+		case, the Costa Rican government.
+
+				AMANDA
+
+		Dr. Grant, you don't know how important it is
+
+		for us to have you come along. It would make
+
+		all the difference.
+
+	Grant is trying to find another way to say no, when Paul pulls
+
+	out his checkbook.
+
+				PUAL
+
+		And of course, we're prepared to make a
+
+		sizeable contribution to your research here.
+
+	Billy looks at Grant. Don't say no.
+
+				PAUL (cont'd)
+
+		I can write all kinds of numbers on this
+
+		check. Just tell me what exactly it would
+
+		take.
+
+	We HOLD ON a conflicted Dr. Alan Grant.
+
+		  		  CUT TO:
+
+14 	EXT. SKY - DAY 							14
+
+	NNNNNRRRRRRNNNNNRRRRR...
+
+	A SMALL AIRPLANE - a Beechcraft Kingair 200 Turboprop, to be
+
+	exact - cruises through clear blue skies.
+
+15 	INT. PLANE - DAY 							15
+
+	Grant re-settles, trying to get comfortable. Billy is across
+
+	from him, finishing cleaning his camera lenses before putting
+
+	them back in the ragged case.
+
+				GRANT
+
+		Even with what I pay you, you could get a
+
+		better bag.
+
+				BILLY
+
+		No way. This is lucky. Couple years ago
+
+		some buddies and I went hang gliding off
+
+		these cliffs in New Zealand. Updraft sent me
+
+		right into the side. BOOM!
+
+				GRANT
+
+		That does sound lucky.
+
+				BILLY
+
+		It was this strap alone that saved my life.
+
+		Got caught on a rock as I was falling.
+
+				GRANT
+
+		Reverse-Darwinism. Survival of the most
+
+		idiotic.
+
+	Because he hasn't really said it...
+
+				BILLY
+
+		Listen Alan, I really appreciate you
+
+		bringing me along.
+
+				GRANT
+
+		The bones will be there when we get back.
+
+		That's the nice thing about them. They never
+
+		run away.
+
+			(beat)
+
+		And besides, you got me into this. I don't
+
+		intend to be alone with these people.
+
+	ON PAUL AND AMANDA
+
+	sitting near the front of the plane. Paul draws a long, nervous
+
+	breath and looks at Amanda. She seems just as tense.
+
+	Finally finding a comfortable position, Grant puts his hat over
+
+	his eyes, ready to take a nap.
+
+	Done with his camera, Billy turns to someone just off screen.
+
+				BILLY
+
+		So how do you know the Kirby's?
+
+	and we reveal...
+
+	Mercenary Cooper, the weapons specialist we met earlier. He's
+
+	wearing sunglasses so dark you can't tell whether he's staring
+
+	at you or fast asleep.
+
+	He doesn't answer. Did he even hear? And then --
+
+				COOPER
+
+		Through our church.
+
+				BILLY
+
+		What Religion?
+
+				COOPER
+
+		Uh...the one that worships God and believes in being
+
+		Good. 
+
+16 	EXT. SKY - DAY 							16
+
+	The plane continues onward.
+
+17 	INT. PLANE - DAY / HOURS LATER 					17
+
+	Grant slowly wakes in his chair, groggy. All the other
+
+	passengers are fast asleep. Then Grant turns to his right.
+
+	A RAPTOR
+
+	sits besides him. The dinosaur eyes him curiously, then opens
+
+	his mouth...
+
+				RAPTOR
+
+		Alan.
+
+	And than it STRIKES.
+
+18 	INT. PLANE - DAY 					       		18
+
+	Grant wakes up with a start, disoriented. Billy is leaning over
+
+	him.
+
+				BILLY
+
+	Alan. We're almost there.
+
+	The adrenaline still surging through him, Grant turns and looks
+
+	THROUGH THE WINDOW.
+
+	Clouds obscure the view, than parts reveal
+
+	ISLA SORNA
+
+	rising majestically out of the water.
+
+19 	EXT. SKY - COUNTINUOUS DAY 					19
+
+	We watch the plane descend sharply to the island.
+
+20 	INT. PLANE - COUNTINUOUS DAY 					20
+
+	In various combinations, Grant and Billy, Paul and Amanda look
+
+	out the windows at the amazingly green island.
+
+	Cooper looks out through a window of his own.
+
+21 	INT. COCKPIT - COUNTINUOUS DAY 				21
+
+	Here we find the rest of the crew from the junkyard. Nash is
+
+	piloting.
+
+	A VOICE comes over their radio headsets.
+
+				RADIO VOICE
+
+			(Spanish accent)
+
+		Unidentified aircraft approaching Isla
+
+		Sorna, this is San Juan approach. You are
+
+		flying in restricted airspace. Immediately
+
+		turn to the coordinates two-zero-zero. I repeat
+
+		redirect to...
+
+	A look from Nash then Udesky switches off the radio.
+
+22 	EXT. PLANE - COUNTINUOUS DAY 				       22
+
+	The plane now descends to a mere hundred feet above the
+
+	treetops.
+
+23 	INT. PLANE - CONTINUOUS DAY 				       23
+
+	Paul puts his hand atop Amanda's as they stare intently out the
+
+	window.
+
+	Billy looks to Grant.
+
+				BILLY
+
+		Admit it. You're excited.
+
+	Grant will admit nothing.
+
+	Calling back from the cockpit...
+
+				UDESKY
+
+		Cooper! Yell up if you see anything!
+
+				COOPER
+
+			(yelling back)
+
+		No, I thought I'd keep it to myself.
+
+	Suddenly Grant spots...
+
+				GRANT
+
+		There. There! An Apatosaur. Look at the
+
+		coloration.
+
+EXT. ISLA SORNA  GRASSY FIELD  CONTINUOUS DAY
+
+	An Apatosaur is grazing on the grass.
+
+INT.  PLANE  CONTINUOUS DAY
+
+				BILLY
+
+			(amazed)
+
+		I'm so use to seeing bones. It's weird to see
+
+		skin.
+
+				GRANT
+
+		Mr. and Mrs. Kirby! If you look out the right
+
+		you can see...
+
+	But Paul just waves him away with a hand, staring intently out
+
+	his window. We HOLD ON Grant a moment, thinking that odd.
+
+24 	INT. COCKPIT - CONTINUOUS DAY 				       24
+
+	Udesky puts down his binoculars.
+
+				UDESKY
+
+		South shore is clear. The rest is rock.
+
+				NASH
+
+		Are we on?
+
+				UDESKY
+
+		We're on.
+
+25 	INT. MAIN CABIN - CONTINUOUS DAY  			       25
+
+	Looking out the window, Grant notices they're flying awfully
+
+	low. Just then, he hears a MECHANICAL HUM and a LOW RUSH from
+
+	outside. Now wanting to believe --
+
+				GRANT
+
+		That's not the landing gear?
+
+	Paul, Amanda and Cooper don't respond.
+
+				GRANT (CONT'D)
+
+		What you're...
+
+			(realizing)
+
+		You can't land.
+
+	Paul turns back to him.
+
+				PAUL
+
+		Dr. Grant if you'd just sit tight, we'll
+
+		explain this all in a jiffy.
+
+				GRANT
+
+		This plane can not land!
+
+				AMANDA
+
+		It's going to be all right. Just...
+
+	Grant is out of his seat, heading for the cockpit. He'll wrestle
+
+	the controls if he has to.
+
+	Cooper grabs him, pulling him back. Grant starts to struggle,
+
+	but he's certainly no match. A well-practiced fist hits him
+
+	dead on.
+
+	CUT TO BLACK.
+
+26 	OVER THE DARKNESS 						26
+
+	we hear Amanda's voice, strangely distant but amplified.
+
+				AMANDA
+
+		Eric! Eric! Are you there honey? Ben!
+
+		Erriccc!
+
+	Her calls continue as we FADE UP to...
+
+27 	INT. PLANE - DAY 							27
+
+	GRANT'S P.O.V. -- blurry and disorientated. He finds himself lying
+
+	on the floor of the plane.
+
+	Seeing him come to, Billy helps him slowly get up. Grant's head
+
+	is pounding.
+
+				GRANT
+
+		Tell me we didn't land.
+
+	By his expression, we see Billy would have to lie.
+
+				BILLY
+
+		I think they're looking for someone.
+
+28 	EXT. LANDING STRIP, ISLA SORNA - DAY 			       28
+
+	The jungle has almost reclaimed this patchy vine-covered
+
+	runway. The airplane is parked at one end.
+
+	Nash, Udesky, and Cooper are checking their weapons.
+
+	Amanda is at the edge of the tarmac calling into the jungle on a
+
+	BULLHORN.
+
+	Billy and a groggy Grant emerge from the airplane. Paul trots
+
+	over.
+
+				PAUL
+
+		Dr. Grant, are you alright? I'm sorry we
+
+		had to be so...
+
+	The three mercenaries are now walking into the jungle with
+
+	their guns.
+
+				GRANT
+
+		What the hell is going on? What are they
+
+		doing?
+
+				PAUL
+
+		Establishing a perimeter. Making it safe.
+
+		These guys are really good. One of them was a
+
+		Green...
+
+				GRANT
+
+		Mr. Kirby, trust me, on this island, there is
+
+		no such thing as safe. We have to get back in
+
+		this plane...
+
+	Grant looks to Amanda, who shouts through a bull horn.
+
+				AMANDA
+
+			(on-bullhorn)
+
+		ERRR-IIIC!
+
+				GRANT
+
+		And tell your wife to stop making so
+
+		much noise! We're food to these damn 
+
+animals.
+
+				PAUL
+
+			(yelling)
+
+		Amanda, Honey! Dr. Grant says it's a bad
+
+		idea!
+
+				AMANDA
+
+			(on the bullhorn)
+
+		What?
+
+				PAUL
+
+			(pointing broadly at Alan)
+
+		He says it's a bad idea!
+
+				AMANDA
+
+			(on the bullhorn)
+
+		What's a bad idea?
+
+	As in on cue, there is a DEAFENING ROAR from the jungle.
+
+	Everyone turns toward the sound and freezes.
+
+				PAUL
+
+			(to Alan)
+
+		What was that?
+
+	Grant doesn't answer, still listening to the reverberations. 
+
+Then a couple shots are heard.
+
+				BILLY
+
+			(low)
+
+		Is it a rex?
+
+				GRANT
+
+		I don't think so.
+
+	Billy and Paul breathe a small sign of relief.
+
+				GRANT (CONT'D)
+
+		Sounds bigger.
+
+	Nash and Udesky come RUNNING out of the jungle, headed for
+
+	the plane.
+
+				UDESKY
+
+		We gotta go, now!
+
+				PAUL
+
+		What's the problem? Can't you guys...?
+
+	As Udesky and Nash sprint past Paul in interrupted by a
+
+	second, closer, DEAFENING ROAR. He pales.
+
+29 	INT. PLANE - CONTINUOUS - DAY 				       29
+
+	Udesky waits by the door, hustling everyone inside. Nash
+
+	hurries into the cockpit. Everyone scrambles to a seat. Amanda
+
+	climbs next to Paul.
+
+				AMANDA
+
+		We can't just...
+
+				PAUL
+
+		Don't worry, honey. We'll circle around and
+
+		come back.
+
+	Udesky closes the door.
+
+				BILLY
+
+		What about the other guy?
+
+				UDESKY
+
+		Coop's a professional. He can handle himself.
+
+	A blood-curdling SCREAM echoes through the jungle followed by
+
+	MACHINE GUN FIRE.
+
+				NASH
+
+			(yelling back)
+
+		We're going!
+
+	Udesky climbs into the copilot's seat, and Nash revs the engine.
+
+30	EXT. RUNAWAY - DAY						30
+
+	The plane starts down the runway.
+
+31	INT. PLANE - DAY							31
+
+	The passengers bounce in their seats as the plane picks up
+
+	speed down the overgrown strip.
+
+32	EXT. RUNWAY - DAY							32
+
+	Suddenly, two hundred yards ahead of the plane,
+
+	COOPER
+
+	emerges from the jungle. He stands in the middle of the runway.
+
+	waving one arm wildly. His second, badly injured arm hangs
+
+	limp by his side.
+
+				COOPER
+
+		Come on, Nash. Slow down, buddy.
+
+33	INT. THE COCKPIT - DAY					       33
+
+	Nash spots Cooper, shoots a glance at the airspeed indicator.
+
+				NASH
+
+		Coop, you know I can't do it pal.
+
+	He slams down full throttle in an attempt to reach flying speed.
+
+	Seeing that Nash has no intention of stopping, Paul shouts from
+
+	the cabin.
+
+				PAUL
+
+		What are you doing? That's Mr. Cooper!
+
+34	EXT. RUNWAY - CONTINUOUS - DAY				34
+
+	We are looking down on Cooper from behind. As the plane
+
+	approaches,
+
+	A SHADOW
+
+	falls over the injured mercenary. Then with brutal speed, an
+
+	ENORMOUS BEAST seizes him in its massive jaws and lifts him
+
+	into the air.
+
+	From this angle we get only a glimpse of a long crocodilian
+
+	snout, powerful clawed forearms and spiny sail rising from the
+
+	creature's back.
+
+35	INT. THE COCKPIT - CONTINUOUS - DAY			       35
+
+	All eyes are on the creature as it devours Cooper. Amanda turns
+
+	away in horror.
+
+				AMANDA
+
+		Oh, my God! Paul, my God!
+
+36	INT. THE COCKPIT - CONTINUOUS - DAY			       36
+
+	Looking through the windshield, we see the creature is directly
+
+	in the path of the plane.
+
+	Nash pulls back on the stick. The plane rises.
+
+	The left propeller clips the flank of the enormous
+
+	dinosaur, SNAPPING the blade.
+
+	Blood sprays the windshield and side windows.
+
+37	EXT. RUNWAY - CONTINUOUS - DAY 				37
+
+	The turboprop banks into the jungle, out of control.
+
+38	INT. PLANE - CONTINUOUS - DAY 					38
+
+	The passengers are thrown about as the craft CRASHES through
+
+	trees, tearing off a wing and pieces of the tail.
+
+	Finally coming to rest in the jungle canopy, the plane settles
+
+	in the trees.
+
+	SILENCE.
+
+	The passengers slowly recover and have a look around. Foliage
+
+	blocks most windows, making it impossible to see out.
+
+				BILLY
+
+		Is anyone hurt?
+
+	Checking themselves, everyone seems pretty much intact.
+
+	Still thinking of himself as in charge...
+
+				UDESKY
+
+		Quiet! We're okay. Let's everybody just stay
+
+		put.
+
+	He attempts to turn on the cockpit radio, but it's dead.
+
+				NASH
+
+		Who's got the sat-phone?
+
+				PAUL
+
+		Right here!
+
+	Paul hands the bulky phone up to Nash, who dials out.
+
+	Grant unstraps himself, climbs to the back to the side door and shoves.
+
+	The door opens a few inches before hitting a branch.
+
+	He looks out the and lets out a quiet gasp as the ground reels
+
+	THIRTY FEET BELOW.
+
+	He quickly shuts and latches the door.
+
+	CLOSE ON the sat-phone. pressed against Nash's ear.
+
+				RECORDED VOICE
+
+		We're sorry. All circuits are busy. Please
+
+		try your call again later...
+
+				NASH
+
+		Shit!
+
+				PAUL
+
+		What is it? What's the matter?
+
+	Amanda SCREAMS.
+
+	A huge reptilian face appears in the cockpit window. Everyone
+
+	else SCREAMS now.
+
+	The plane LURCHES - and we hear a deep GROWL.
+
+	The passengers hold tight, paralyzed. Nash buckles himself into
+
+	his seat.
+
+	Suddenly, the plane is YANKED from the side to side. Battered this
+
+	way and that, the terrified passengers tightly grip their 
+
+	seats.
+
+	Finally, the horrible sounds of WRENCHING METAL as the nose of
+
+	the plane is RIPPED RIGHT OFF.
+
+	Nash and Udesky are suddenly sitting in open air. The nose of
+
+	the plane is tilting downwards, the jungle floor far below.
+
+	The passengers hang almost vertically in their seats,
+
+	Debris tumbles out the open end of the plane, some of it
+
+	striking Nash in the head.
+
+	Udesky unbuckles his seat belt and climbs back up into the
+
+	cabin. Nash follows.
+
+	Suddenly, a long snout with dagger-like teeth pushes past the
+
+	cockpit seats, opens wide, and
+
+	CLAMPS DOWN
+
+	on Nash's legs.
+
+	The pilot CRIES OUT in agony. The others passengers grab onto
+
+	his arms, trying to pull him back. But it's no use. The dinosaur
+
+	rips Nash out of their grasp and down the aisle.
+
+	Nash desperately grabs on to the seat cushion, then watches in
+
+	horror as the fabric RIPS AWAY. He's pulled out of the plane and 
+
+	dropped to the ground. A giant foot steps in the way as the snout
+
+	of the creature reaches down and quickly devourers the screaming
+
+pilot.
+
+	It's horrifying sight, but no one can turn away.
+
+	Pleased with the appetizer, the creature comes back for the
+
+	main course.
+
+	Grant tries to force open the jammed rear door. Billy tries to
+
+	help, but the door won't budge.
+
+	The dinosaur JAMS its snout into the fuselage and lunges for
+
+	Amanda in the first row. She yanks her legs back as the jaws
+
+	SNAP SHUT.
+
+	Behind Amanda, Billy reaches forward, UNSNAPS her seat belt
+
+	and pulls her into the next row back.
+
+	The others unstrap their belts and crowd into the rear of the
+
+	passenger compartment.
+
+	The shift in weight sends the fuselage tipping backwards.
+
+39	EXT. JUNGLE - CONTINUOUS - DAY				       39
+
+ 	The plane breaks free of the tree limbs and DROPS tail-first to
+
+	the jungle floor.
+
+	It SLAMS hard, then flips over onto its roof.
+
+40	INT. PLANE - CONTINUOUS - DAY				       40
+
+	The passengers are prowled on the ceiling of the plane, dazed
+
+	by the impact. Everyone is cut and bruised.
+
+	Out of the open cockpit, they see two approaching dino feet.
+
+	A window near Amanda fogs over with condensation. when it
+
+	clears, she finds herself looking right into enormous eyes.
+
+	Then all hell breaks loose as the plane is SLAMMED across the
+
+	jungle clearing.
+
+	The passengers are hammered against the walls of the plane,
+
+	tumbling like socks in a dryer. Debris, seats and luggage fly
+
+	everywhere.
+
+41	EXT. JUNGLE FLOOR - CONTINUOUS - DAY			41
+
+	The plane comes to an abrupt halt as it SMASHES into a tree.
+
+	A gargantuan FOOT steps on the fuselage and FLATTENS it like a 
+
+	paper tube.
+
+42	INT. PLANE - CONTINUOUS - DAY					42
+
+	Inside, windows EXPLODE, raining glass over the passengers. As
+
+	the walls compress, Udesky becomes trapped in the rear of the 
+
+	plane, the others in front.
+
+				BILLY
+
+		Over here!
+
+	Udesky dives into the narrowing gap, and Billy pulls him the
+
+	rest of the way through.
+
+	Billy is as terrified as the rest of them, but he thrives under
+
+	this rush of adrenaline.
+
+	Then a huge CLAW digs into the skin of the fuselage and begins
+
+	to slowly PEEL the plane open. Grant looks up in dread at the
+
+	widening tear.
+
+				GRANT
+
+		This way!
+
+	Grant leads the group out the open end of the cockpit. They
+
+	make a mad dash for the jungle.
+
+	A tremendous ROAR causes Billy to look behind him. He can't
+
+	help but steal a glimpse of this terrifying, but utterly
+
+	fascinating, animal.
+
+	Grant yanks him forward.
+
+43	EXT. JUNGLE - DAY						       43
+
+	With Grant in the lead, and Udesky taking up the rear, the group
+
+	tears through the jungle.
+
+	Concealed by the dense undergrowth, the unseen dinosaur bears
+
+	down on them -- mowing down the young trees which TOPPLE all
+
+	around them.
+
+	Grant spots a grove of
+
+	HEAVIER TREES
+
+	and leads the group into it.
+
+	The dinosaur cannot fit between the trunks. It ROARS at
+
+	the fleeing humans, searching desperately for a route after
+
+	them.
+
+	The group continues their relentless pace, putting as much 
+
+	distance as they can between themselves and the beast. Paul
+
+	Kirby looks like he's about to have a heart attack. Even Billy
+
+	is gasping for air.
+
+	They stop, thinking they've outrun it.
+
+	Grant directs the group through some underbrush and into --
+
+44	EXT. CLEARING - CONTINUOUS - DAY				44
+
+	Our friends stop dead in their tracks. Amanda stifles a cry.
+
+	Before them lies an immense unmoving SAUROPOD.
+
+				GRANT
+
+		Don't worry. It's dead.
+
+	Then a full-grown bull
+
+	TYRANNOSAURUS
+
+	rises up behind the carcass. It was feeding, its mouth mottled
+
+	with blood and carrion.
+
+	Grant FREEZES.
+
+				GRANT (CONT'D)
+
+		Nobody move a muscle.
+
+	Remember: the T-Rex tracks motion.
+
+	Obeying, the group FREEZES for a few long beats. Then Udesky
+
+	takes off running.
+
+	And T-Rex ROARS.
+
+	Everyone runs. T-Rex is right behind them.
+
+45	EXT. JUNGLE - DAY							45
+
+	Dashing back the way they came, the group suddenly comes face
+
+	to face with --
+
+	THE FIRST MONSTER.
+
+	We now get our first full unobstructed view of the gigantic
+
+	creature, SPINOSAURUS AEGYPTICUS. Over forty feet long and
+
+	twenty-five feet high, the dinosaur has a bony sail along its
+
+	back. Its head is crocodilian with rows of long, curving teeth.
+
+	Sinewy six foot arms terminate in three fingers hands with
+
+	fourteen inch claws.
+
+	Nowhere else to run, the group scatters into the brush as the
+
+	two behemoth predators rush forward, their ROARS thunderous.
+
+	Paul and Amanda scramble into one direction, Billy and Udesky in
+
+	the other. But Grant can't go anywhere - his foot is stuck 
+
+	between two branches.
+
+	He manages to free himself as the two dinosaurs approach.
+
+	They'll have to deal with each other before eating the humans.
+
+	Grant dives down between two fallen trees as the Spinosaurus and T-
+
+	Rex circle one another like gladiators, each searching for the
+
+	other's weakness.
+
+	Laying flat on his back, Grant lets out a terrified GASP as the
+
+	giant foot of Spinosaurus lands across the two trunks mere
+
+	inches from his face.
+
+	Spinosaurus lunges forward, powerful jaw open wide.
+
+	T-Rex sidesteps the assault, its tail knocking down small
+
+	trees as it spins out of the way.
+
+	In the tress, Paul and Amanda scurry again for cover.
+
+	Between the fallen trunks, Grant attempts to get away on his
+
+	hands and knees.
+
+	T-Rex presses the attack, slamming its tail into the flank of
+
+	its adversary. Spinosaurus is knocked back, and Grant is again
+
+	forced to duck for cover.
+
+	As Spinosaurus struggles to regain its balance, T-Rex dives
+
+	forward. Spinosaurus is driven backwards as T-Rex tries to
+
+	grip its throat.
+
+	Amanda yanks Paul out of their path. They Scramble over to
+
+	Billy.
+
+	Now on its side, Spinosaurus fights back ferociously. It slashes
+
+	at T-Rex with its long arms and razor sharp claws, then finally
+
+	kicks the animal with one mammoth foot.
+
+	Tyrannosaurus staggers back, wounded.
+
+	Down below, Grant is splashed by the blood pouring from the
+
+	dinosaur, as he slowly makes his way towards his fellow humans.
+
+	Spinosaurus lunges for the T-rex with gaping jaws and manages to
+
+	topple T-Rex off its feet and sends the falling dinosaur to the
+
+	ground.
+
+	With an earth-shuttering CRASH, the dinosaur lands between
+
+	Grant and the rest of the group.
+
+	The companions scurry out of the way, but as they do so, the
+
+	head of the T-Rex now lands almost directly on top of them.
+
+	Plastered against an immense tree, the group watches in horror
+
+	as T-Rex starts to rise but is thrown back down as Spinosaurus
+
+	latches onto its throat.
+
+	Spinosaurus crushes the life out of its adversary, and T-Rex
+
+	opens and closes its jaw a mere inches from our terrified 
+
+	friends.
+
+	Finally, Grant reaches the others.
+
+				GRANT
+
+		Come on!
+
+	Spinosaurus lets out a victorious HOWL, and the blood-drenched
+
+	professor leads the group through the undergrowth.
+
+46	EXT. JUNGLE - DAY							46
+
+	Winded from running, Paul is caught off-guard as a furious
+
+	Grant slams his back against a tree. Only one thing he wants to
+
+	know --
+
+				GRANT
+
+		Why did you bring us here?
+
+	Paul is too startled to speak. Udesky tires to step in, but
+
+	Grant gives him back a look.
+
+				AMANDA
+
+		Our son is on this island. We need your help
+
+		to find him.
+
+	Still crunched against the tree, Paul pulls out a photo from his
+
+	shirt pocket.
+
+				PAUL
+
+		This is him. Eric. Hes thirteen now. He's
+
+		just about the greatest kid in the world.
+
+	Letting go of Paul, Grant takes the photo, a Sears-style
+
+	portrait of the boy we saw Parasailing at the beginning. He
+
+	shakes his head, disbelieving. He hands the photo to Billy.
+
+	The group splits into two sides -- Paul and Amanda, Grant and
+
+	Billy -- with Udesky stuck between. Dialogue overlaps in
+
+	places.
+
+				AMANDA
+
+		He's with a man named Ben Hildebrand.
+
+				BILLY
+
+		Who's that?
+
+				PAUL
+
+		Her new boyfriend.
+
+				AMANDA
+
+		A friend. We were vacationing. Eric wanted
+
+		to see the island and the dinosaurs, so Ben
+
+		found a guy who would take them parasailing.
+
+		They never came back.
+
+				PAUL
+
+		We called everyone, did everything we could.
+
+		Because of all the controversy over this
+
+		island, no one will step in. Costa Rica says
+
+		it's a no-fly zone, it's their own damn fault.
+
+		Guys at the U.S Embassy -- our U.S. Embassy --
+
+		said we should "accept the inevitable." You
+
+		believe that?
+
+				GRANT
+
+		So you hired these mercenaries.
+
+				UDESKY
+
+		We prefer "recovery specialists." We do
+
+		overseas custody issues and...
+
+				GRANT
+
+			(interrupting)
+
+		Then you duped us into coming here.
+
+				PAUL
+
+		We needed somebody who knew the lay of the
+
+		land. Somebody who'd been to this island before.
+
+				GRANT
+
+			(disbelieving)
+
+		I have never been on this island!
+
+				PAUL
+
+		Sure you have. You wrote that book...
+
+				BILLY
+
+		That was Isla Nublar. This is Isla Sorna.
+
+		The second island.
+
+				PAUL
+
+			(low, to Udesky)
+
+		I didn't know, there were two islands.
+
+				AMANDA
+
+		Still, you have survived the dinosaurs before. You
+
+		saved those kids.
+
+				GRANT
+
+		A few of us survived. A lot more died. And we
+
+		were better prepared and better armed.
+
+			(finally)
+
+		How many days have they been missing?
+
+	A look between Amanda and Paul.
+
+				PAUL
+
+		Eight weeks.
+
+	Grand and Billy are speechless. It might as well be eight years.
+
+				GRANT
+
+		After what you've seen today, you really
+
+		think your son could be alive?
+
+				AMANDA
+
+		He's smart, Dr. Grant. And he knows so much
+
+		about dinosaurs.
+
+	Before anyone else can talk, Grant puts his hand out. He wants
+
+	everyone to shut up while he plans their next move.
+
+				GRANT
+
+		No, I'm sorry, but no. We'll savage what we
+
+		can from the plane. Then we head for the
+
+		coast. There may be a boat left, something to
+
+		get us off this island.
+
+				PAUL
+
+		Dr. Grant, we're not leaving without our son.
+
+				GRANT
+
+		You can stick with us, or you can go and look for
+
+		him. Either way you're probably not getting
+
+		out of here alive.
+
+	With that he leaves, A beat later, Billy follows. He has
+
+	genuine sympathy for the Kirby's, but he's logical enough to
+
+	know Grant is right.
+
+	BACK WITH PAUL AND AMANDA
+
+	They look to Udesky.
+
+				PAUL
+
+		What do we do?
+
+	Udesky is clearly at a loss, but for everyone's reassurance he
+
+	tries to mutter some brio.
+
+				UDESKY
+
+		Well, I think we should start searching for your
+
+son. In the direction they're going.
+
+				PAUL
+
+		Excellent.
+
+	They follow after Grant and Billy.
+
+47	EXT. PLANE CRASH SITE						47
+
+	The five survivors search through the wreckage, trying to find
+
+	anything useful. The task is grim. Mindful of Grant's 
+
+	warnings, they move quickly and quietly.
+
+	Udesky picks up a gun out of the swampy water. The barrel is bent
+
+	almost 90 degrees, unless.
+
+	Billy finds his camera, intact.
+
+	Digging a change of clothes out of his suitcase, Paul steps
+
+	around the side of the plane to change. He's in his underwear
+
+	before he notices Amanda is also there changing.
+
+				PAUL
+
+		Sorry.
+
+				AMANDA
+
+		Nothing you haven't seen before.
+
+	A beat. Amanda looks over as they get dressed.
+
+				AMANDA (CONT'D)
+
+		How much weight have you lost?
+
+				PAUL
+
+		Twenty, twenty-fire pounds. I've been
+
+		swimming at the Y.
+
+				AMANDA
+
+		You hate to swim.
+
+				PAUL
+
+		People change.
+
+	A nod to mean, that's the truth.
+
+				PAUL (CONT'D)
+
+		You look good.
+
+				AMANDA
+
+		So do you.
+
+	They make brief eye contact, which Amanda breaks.
+
+	Around the side, Billy is taking photos of a giant footprint the
+
+	dinosaur left in the mud during its attack on the plane. Grant
+
+	looks over.
+
+				GRANT
+
+		How would you classify it?
+
+				BILLY
+
+		Obviously a superpredator.
+
+			(best guess)
+
+		Suchimimus. that snout.
+
+				GRANT
+
+		They never got that big.
+
+				BILLY
+
+		Baryonyx?
+
+				GRANT
+
+		Not with that sail.
+
+			(Billy gives up)
+
+		Spinosaurus Aegypticus.
+
+				BILLY
+
+		I don't remember that on InGen's list.
+
+				GRANT
+
+		That's because it wasn't on their list. Who
+
+		knows what else they were up to?
+
+	Billy looks past Grant to see Paul approaching. He's struggling
+
+	with the straps on his backpack. turning in circles.
+
+	Billy regards him with suspicion.
+
+				BILLY
+
+		So Mr. Kirby, tell me, when you climbed K2,
+
+		did you base camp at 25- or 30,000 feet?
+
+				PAUL
+
+		Thirty-thousand, I think. Closer to the top.
+
+				BILLY
+
+		About a thousand feet above it, actually.
+
+			(closer)
+
+		Most mountain-climbers remember how tall
+
+		that mountains were.
+
+	Paul knows he's caught.
+
+				GRANT
+
+		There is no Kirby Enterprises, is there?
+
+				PAUL
+
+		There is. I own a place called Kirby Paint
+
+		and Title Plus. We're out in the Westgate
+
+		Shopping Center in Enid, Oklahoma. The
+
+		"plus" is for bathroom fixtures, fireplaces
+
+		accessories, patio furniture. Stuff like 
+
+		that.
+
+				BILLY
+
+		I don't suppose that check you wrote us is
+
+		any good.
+
+				UDESKY
+
+		He paid us half up front. Cash.
+
+				PAUL
+
+		Mortgaged everything we had to do it. Even
+
+		the store. and if we make it off this island
+
+		with my son, I swear, I'll make good on the
+
+		money I owe you. I don't care if it takes me
+
+		the rest of my life.
+
+	Grant and Udesky exchange a dubious glance.
+
+				UDESKY
+
+		However long that is.
+
+48	EXT. JUNGLE PATH - DAY						48
+
+	Amanda, Paul, Billy, Udesky and Grant walk through the jungle.
+
+				AMANDA
+
+		Eric!
+
+				GRANT
+
+		Quiet!
+
+				PAUL
+
+			(loud whisper to Amanda)
+
+		Stop that. Dr. Grant says this is dangerous
+
+		territory.
+
+				AMANDA
+
+		Well we should split up or something. We can
+
+		cover twice the area.
+
+				PAUL
+
+		No, Dr. Grant says...
+
+				AMANDA
+
+		Dr. Grant says this, Dr. Grant says that...
+
+				PAUL
+
+		Well what's the use of hiring an expert if
+
+		your not going to listen to him?
+
+				AMANDA
+
+		Because "Dr. Grant" isn't looking for Eric.
+
+		Dr. Grant is looking for the coast.
+
+				PAUL
+
+		Fine...and when the Tricyclatops comes after
+
+		you, don't come crying to me.
+
+				AMANDA
+
+		Oh, don't worry about that.
+
+				PAUL
+
+		What?
+
+				AMANDA
+
+		Nothing.
+
+				PAUL
+
+		What did you say?
+
+				AMANDA
+
+		Nothing.
+
+				PAUL
+
+		What did you say!
+
+				AMANDA
+
+		Just drop it Paul!
+
+	The Kirby's conversation trails off into the jungle. Udesky
+
+	moves up next to Grant and Billy.
+
+				UDESKY
+
+		If they split up, I'm going with you.
+
+	And as they continue forward, Billy spots something in the
+
+	trees ahead.
+
+49	EXT. JUNGLE CLEARING - DAY					49
+
+	A parasail chute is caught in the branches of a tree. A yellow
+
+	life vest hangs limply from a branch.
+
+	Paul rushes over, unsnags it, and examines the label.
+
+				PAUL
+
+		Young adult.
+
+				AMANDA
+
+		Eric...
+
+				UDESKY (O.S)
+
+		Hey. Got something here.
+
+	All turn to see Udesky holding up a camcorder encased in a
+
+	waterproof shell.
+
+				AMANDA
+
+		That's Ben's!
+
+	She grabs it from Udesky and pops open the housing. She tries
+
+	the power switch on the camcorder, but the battery's dead.
+
+	Udesky pull out a flashlight from his pack and looks to Amanda.
+
+				UDESKY
+
+		Here, give that to me.
+
+	And as Udesky fiddles with the flashlight, Grant and Billy
+
+	consider the parasail.
+
+				BILLY
+
+		It looks intact.
+
+				GRANT
+
+		We should take it with us to signal any planes.
+
+				UDESKY (O.S)
+
+		I think I've got it.
+
+	Udesky has rigged the wires on the flashlight so that the
+
+	batteries can be used to power the camcorder.
+
+	He brings a live wire to back of the camcorder. A red power
+
+	light comes on.
+
+				AMANDA
+
+		It works!
+
+				UDESKY
+
+		I don't know for how long.
+
+	Udesky swings the tiny screen out and pushes play. The others
+
+	crowd around.
+
+	ON THE SCREEEN
+
+	Eric and Ben play frisbee on the beach.
+
+				PAUL (O.S.)
+
+			(excited)
+
+		That's him. Thats Eric!
+
+				AMANDA (O.S.)
+
+		I filmed this the morning they left.
+
+	Ben catches the frisbee, checks his watch and motions to Eric.
+
+	Eric runs over, and Ben puts his arm around him as they run to
+
+	the camera.
+
+	Paul reacts to this image but holds his tongue.
+
+	THE VIDEO SCREEN -
+
+	The image now CUTS to a shot from aboard Enrique's boat
+
+	speeding towards ISLA SORNA -- the start of the movie. Eric
+
+	points excitedly at the island and smiles at the camera.
+
+	We replay the opening moments of the movie from Ben and Eric's
+
+	perspective, soaring high until...
+
+				ERIC
+
+		Ben!
+
+				BEN
+
+		Unclip the line!
+
+	THE JUNGLE -
+
+	A PAN from face to face of all watching this tape with a
+
+	mixture of hope and nausea.
+
+	ON SCREEN -
+
+	Angle again with Ben's legs in the foreground. Falling fast.
+
+				BEN (CONT'D)
+
+		Hand on! Hang on buddy!
+
+	Now the camera penetrates the jungle canopy and the picture
+
+	and sound become complete chaos: SCREAMS from the both,
+
+	branches BREAKING, flashes of Ben and Eric's frightened faces
+
+	as the camera is buffeted in all directions.
+
+	With a lurch the terrifying descent in finally over, and the
+
+	jungle floor is just ten feet away, swaying back and forth
+
+	beneath Ben and Eric's feet.
+
+				BEN (CONT'D)
+
+		Are you ok, buddy?
+
+	There's GURGLING to his voice. Ben may be more hurt than he's
+
+	letting on.
+
+				ERIC
+
+			(through his sobs)
+
+		I don't know. I think so.
+
+				BEN
+
+		We're okay. It's going to be okay. Here, get
+
+		ready. I'm going to unhook you.
+
+	The sound of PUMPLING is followed by the sight of Eric DROPPING		
+
+	into the frame, landing on the ground rolling. He stands and
+
+	looks back up at Ben.
+
+				ERIC
+
+		I'm all right
+
+				BEN (O.S)
+
+			(weaker)
+
+		We're going to get out of this, pal.
+
+	And on that, the power and picture fade away.
+
+	BACK ON PAUL AND AMANDA - overjoyed.
+
+				PAUL
+
+		See? He's okay. He's alive! Everything's
+
+		going to be all right now.
+
+	Amanda brings a hand to her mouth, silently nodding her head.
+
+	Grant and Billy exchange a dubious look, than begin pulling the
+
+	parasail out of the tree. As they do so, the sail gets caught on
+
+	a branch.
+
+	They pull harder. The branch bends, but the sail won't come
+
+	loose. One last tug and than, SNAP. The branch breaks, the chute
+
+	falls away to reveal...
+
+	A SKELETON.
+
+	It swings down directly at Amanda. She SCREAMS.
+
+	Finally, the others are able to pull her away. As they untangle
+
+	the lines, the men are able to get the first view of the remains
+
+	of Ben Hillenbrand, still caught in his harness.
+
+	Amanda's knees buckle. Regaining her balance, she runs off into
+
+	the jungle.
+
+	Paul quickly follows.
+
+				PAUL (CONT'D)
+
+		Amanda!
+
+50	EXT. THICKNESS - DAY						50
+
+	Reeling, Amanda comes to a stop in an area with thick
+
+	undergrowth. It's danger here, very still and quiet.
+
+	She tries to calm herself, but each effort to suppress just
+
+	makes her more emotional. She's surprised as Paul wraps an arm
+
+	around her to comfort her. But she doesn't fight it.
+
+				PAUL
+
+		I'm sorry Amanda. I am. And I'm sorry for
+
+		the things I said about him.
+
+				AMANDA
+
+		No, it's...
+
+				PAUL
+
+		I know you liked Ben. I had no right to...
+
+				AMANDA
+
+			(frustrated)
+
+		Its not about him. It's Eric. He's alone out
+
+		here somewhere. Our baby is all alone.
+
+	Saying it aloud, the reality sinks in for both of them
+
+				AMANDA (CONT'D)
+
+		I guess I was hoping that with Ben around,
+
+		there'd be someone to keep him safe.
+
+	Checking in on clients, Udesky stops at the edge of the
+
+	thicket. Something raises the hairs on the back of his neck.
+
+				UDESKY
+
+		Dr. Grant!
+
+	He nods for the others to take a look at this. They head over,
+
+	Grant at the rear.
+
+	As he approaches, Billy is packing up the rest of the chute in a
+
+	backpack. He stops short from what he sees.
+
+	Looking down, we CIRCLE across the jungle floor. Here we find a
+
+	strange, hollowed-out construction made of sod and branches.
+
+	Maybe six feet around.
+
+	Just now noticing the others' stare, Paul looks down into one
+
+	of the bowls at his feet, a half-buried nest. It's filled with
+
+	football-sized eggs, laid in a spiral.
+
+	And this isn't the only nest. Amanda counts twelve in all, laid
+
+	out in an oddly symmetrical pattern.
+
+	The last to arrive, Grant identifies the species in a horrified
+
+	instant.
+
+				GRANT
+
+		Raptors.
+
+And as he says the words, off in the distance, we hear
+
+	the cry of some herbivores, around by the chorus of
+
+	snarls.
+
+							SMASH CUT TO:
+
+51	EXT. FUTHER IN THE FOREST - DAY				51
+
+	The party blasts through the forest, trying to keep up with
+
+	Grant. They haven't even had time to ask --
+
+				AMANDA
+
+			(to Paul)
+
+		Whats a raptor?
+
+	Paul has no idea.
+
+				UDESKY
+
+		They don't look that big. I mean,
+
+		comparatively.
+
+				GRANT
+
+		If we came across one, we might live.
+
+				PAUL
+
+		Well that's good.
+
+				GRANT
+
+		But you never came across just one.
+
+	From the back --
+
+				AMANDA
+
+		Wait! Where's Billy?
+
+	They all stop. The only one not there is --
+
+				Grant
+
+		Billy! Billy!
+
+				AMANDA
+
+			(almost sotto)
+
+		I thought we weren't suppose to yell.
+
+				BILLY (O.S)
+
+		Here!
+
+	He comes in from the left. Excited, he explains to Grant --
+
+				BILLY (CONT'D)
+
+		I got some great pictures of the nest. You
+
+		know this proves raptors raised their young
+
+		in colonies.
+
+	Furious with his student. Grant just keeps moving. There's no
+
+	time to stand around and argue.
+
+				BILLY (CONT'D)
+
+		This speaks to a larger social structure, the
+
+		possibility of Darwinian altruism. It
+
+		changes everything.
+
+	A beat. Trying not to sound presumptuous --
+
+				BILLY (CONT'D)
+
+		We could co-write a paper.
+
+				GRANT
+
+		Ah yes, the first rule of academics. Publish
+
+		or perish.
+
+52	SCENE PREVIOUSLY OMITTED					52
+
+53	EXT. RIDGE - DAY (HOURS LATER)					53
+
+	Much fatigued, the five now mach upward towards a crest.
+
+	Panting and flushed, they reach the top of the ridge and gaze
+
+	into the distance.
+
+	A jungle valley stretches before them. Not far off in A VAST
+
+	COMPOUND - comprised of several buildings. One building alone
+
+	seems to cover several acres.
+
+	The weary group breathes a sigh of relief.
+
+				PAUL
+
+		I bet there's a very good chance Eric's in
+
+		there. I'd bet my bottom dollar.
+
+	Udesky and Grant share dubious looks and continue down into
+
+	the valley.
+
+54	EXT. INGEN COMPOUND - DAY					54
+
+	The group emerges from the jungles and enters the compound.
+
+	They walk through an overgrown parking lot, littered with
+
+	abandoned vehicles. Some are lying on their side. Others are
+
+	overturned completely.
+
+	They're not going to be driving anywhere.
+
+	A troubled Grant peers through a windshield, partially caved
+
+	in, like some giant head butted the glass. (Think back to Lost 
+
+World)
+
+	And the group finally approaches the front doors of an
+
+	enormous building. As they head up the front steps, we see
+
+	something in the distance behind them:
+
+	CAT-LIKE MOVEMENTS
+
+	on the high ridge. To fast to see what it was. But too ominous
+
+	to dismiss.
+
+55	INT. BUILDING LOBBY - DAY					55
+
+	Our friends now find themselves in a sparse, one quietly
+
+	opulent corporate lobby now in the process of being reclaimed
+
+	by the jungle/ Roots and ivy poke through the floor and walls.
+
+	In the waiting area, the cushions of a sofas and chairs have been
+
+	gnawed at and pulled apart. Dusty coffee mugs and filled
+
+	ashtrays lie on the table. The water has turned brackish in a
+
+	near by cooler.
+
+	Sudden FLAPPING. We look up and see BIRDS nesting in the
+
+	rafters. It is an eerie, haunted place.
+
+				PAUL
+
+			(calling out)
+
+		Eric! Are you here?
+
+				AMANDA
+
+		Eric!
+
+	All listen for a response. Nothing. Paul and Amanda exchange a
+
+	despondent look.
+
+	Sitting on the reception counter is an official-looking
+
+	telephone. Everyone has the same thought, but no one dares.
+
+	Finally -
+
+				AMANDA (CONT'D)
+
+		What the hell.
+
+	Amanda puts the receiver to her ear. Nada.
+
+	With Grant in the lead, they head deeper into the building.
+
+	Unseen by the group, a fleeting SHADOW flits across the lobby's
+
+	dirty windows with terrifying speed.
+
+56	INT. CORRIDOR - DAY						56
+
+	A couple vending machines stand at the one end of this long
+
+	hallway covered with vines.
+
+	Paul notices them and pulls change from his pocket.
+
+				PAUL
+
+		Let's see. I've got about a dollar seventy-
+
+		five. How about you guys?
+
+	Billy SMASHES IN the window of one machine with his boot.
+
+	Picking through the glass, he pulls out some candy bars and
+
+	chips. He checks the expiration date. 	
+
+	CONTINUED:								56
+
+				BILLY
+
+		Thank God for preservatives.
+
+	He tosses the food to the others.
+
+	Paul now turns to his own vending machine and SMASHES it with
+
+	his heal. The glass refuses to break.
+
+57	INT. HATCHING LABORATORY					57
+
+	Grant and Billy push through a set of doors to see
+
+	A CAVERNOUS HATCHING FACILITY
+
+	filled with much of the same equipment we recognized from the
+
+	first island, although the sheer size of this place dwarfs any
+
+	of the facilities seen previously.
+
+	As the group walks down the ramp and onto the floor, they begin to
+
+	absorb the incredible array of technology: enormous cryonic
+
+	freezer, their plug pulled years ago; empty incubators; tanks
+
+	of formaldehyde with dinosaur fetuses and body parts.
+
+	Machines with intricate tubing and wing arms stand beside
+
+	conveyer belts cris crossing the room at different levels.
+
+				AMANDA
+
+		This is how you make dinosaurs?
+
+				GRANT
+
+		This is how you play God.
+
+	Billy looks around the lab. He can't help but be impressed.
+
+				BILLY
+
+		Okay if I take pictures?
+
+	Grant nods.
+
+	Billy sets his lucky camera back down on the worktable. Two years
+
+	from now, astute observers of the DVD will not that Billy
+
+	doesn't actually take his camera from the bag; he was carrying
+
+	it because there wasn't any room inside.
+
+	Billy pulls a new roll of film from the bag and zips it shut.
+
+	ACROSS THE LAB
+
+	Amanda is passing a large cylindrical tanks with half-formed
+
+	embryos floating in formaldehyde -- genetic experiments gone
+
+	awry. Finally she reaches
+
+	A GIGANTIC MANIFIED RAPTOR HEAD
+
+	floating in the one tank.
+
+	Something about this specimen catches Amandas attention. She
+
+	bends forward, getting very close to the glass. She peers right
+
+	into the eyes of the nightmarish creature. Then --
+
+	AN ACTUAL RAPTOR
+
+	lunges at her form behind the tank. She SCREAMS.
+
+	Fortunately the raptor can't get between the closely spaced
+
+	tanks. Amanda runs.
+
+				PAUL
+
+		Amanda!
+
+				GRANT
+
+		Back out! Move!
+
+	And as the group races through the lab the Raptors find a
+
+	larger gap between the tanks.
+
+58	INT. HALLWAY - CONTINUOUS - DAY				58
+
+	Paul leads the way, checking the door for possible escape
+
+	routes or hiding places. Twenty feet behind,
+
+	THE RAPTOR
+
+	rounds a corner, bolting after them. Paul ducks in the closest
+
+	door.
+
+				PAUL
+
+		In here!
+
+59	INT. DINO KENNEL - CONTINUOUS - DAY				59
+
+	The group slams the door behind them and quickly takes in the
+
+	room.
+
+	There are several rows of oversized steel cages, apparently
+
+	used for containing young dinosaurs. Many of the cage doors are
+
+	standing open.
+
+	The group races down a lone aisle. Close behind, the raptor
+
+	BURSTS into the room, ROARS.
+
+	As the Raptor gains ground, Udesky and Billy run into one of the
+
+	open cages, SLAMMING the door behind them.
+
+	Grant, Paul and Amanda duck into another. Before they can
+
+	swing the cage door shut behind them, however, the raptor SLAMS
+
+	into it, driving the door into the cage.
+
+	They are forced back against a chain-like wall, trapped in a
+
+	small triangle space by the advancing door. The angry
+
+	Raptor is now inches away through the cage door.
+
+	Then, suddenly, the raptor looks up. We follow its gaze. The top
+
+	of their triangular enclose is wide open.
+
+	The eager raptor climbs up the chain-like door. Catching the
+
+	tail of an idea, Amanda grabs the door and nods to the others.
+
+				AMANDA
+
+		Push!
+
+	They push hard on the cage door, swinging it and the raptor
+
+	right through the opening of the cage.
+
+	Now the raptor is trapped in a small triangular space, the door
+
+	going right to the ceiling.
+
+	Amanda slides the door's bolt through the chain like wall,
+
+	temporarily trapping the dinosaur.
+
+	The raptor struggles desperately, GRAWLING AND SNARLING, but
+
+	the cage door seems to be holding.
+
+	As everyone rushes back to the door.
+
+	The raptor begins to make a LOW, HAUNTING MOAN.
+
+	As the others head for the door, Grant lingers a step, listening
+
+	to the beast's simple melodic cry. It has the same tones as
+
+	came from the model resonating chamber.
+
+				GRANT
+
+		She's calling for help.
+
+60	EXT. COMPOUND - DAY						60
+
+	The group exits the rear of the lab building and finds itself in
+
+	a large equipment yard. The CALL of the raptor is still audible
+
+	as they head for the tree line.
+
+	Now they moan is ANSWERED from distant jungle quarters.
+
+	The responses quickly MULTIPLY. To the group's dismay, they
+
+	soon find themselves virtually SURROUNDED by raptor CRIES both
+
+	distant and near.
+
+	Grant looks around with amazement. It's vindication of his
+
+	theory on raptor communication, but it couldn't come at a worse
+
+	time.
+
+	Responding to the growls, a herd of grazing HADROSAURS suddenly
+
+	flees across the open space. Then, in the distance behind the
+
+	herd
+
+	A PACK OF RAPTORS
+
+	emerges from the jungles, coming their way.
+
+				GRANT
+
+		Head for the trees!
+
+	From the lab building, the raptor we left imprisoned now BURSTS
+
+	out one of the doors and HOWLS to the pack -- the same cry we
+
+	heard in the lab.
+
+	The raptor pack moves into the hunting formation. One ALPHA-MALE
+
+	RAPTOR. slightly larger than the others, leads the charge up the
+
+	middle.
+
+	Grant risks a looks back. But doesn't stop running.
+
+				GRANT (cont'd)
+
+		THIS WAY!
+
+	In an effort to escape the oncoming raptors, Grant leads the
+
+	group right into the stampeding heard of hadrosaurs.
+
+	Suddenly, all is chaos. Hadrosaurs race past, splitting up the
+
+	group.
+
+	Letting the others get ahead of him, Grant looks back. Much to
+
+	his dismay, the raptors are ignoring the hadrosaurs.
+
+	Indeed, the pack weaves its way through the herd -- the raptors
+
+	only want them.
+
+	In the chaos of the stampede, everyone loses sight of each other.
+
+	Up ahead, Billy trips and falls. As he rolls the strap on his
+
+	camera bag breaks. He doesn't notice it's missing until he's
+
+	already back on his feet and running.
+
+	Amanda and Paul keep close to each other. Further back, Grant
+
+	spots Billy's fallen camera back. He grabs it as he runs past.
+
+	Looking back, Billy sees that Grant now has his back...
+
+				BILLY
+
+		ALAN!
+
+				GRANT
+
+		KEEP GOING!
+
+	They lose sight of each other in the rush.
+
+61-19	OMIT									61-69
+
+69A	EXT. EDGE OF THE JUNGLE - DAY					69A
+
+	As the hadrosaurs WHIP PAST, Paul and Amanda climb up into a
+
+	tree. A raptor leaps at Paul, barely missing his leg.
+
+	Trying to pull Paul up, Amanda nearly loses her balance. This
+
+	time, Paul catchers her.
+
+	Billy climbs up a nearby tree of his own in sight of Paul and Amanda.
+
+	Udesky has nearly reached a tree of his own when he finds
+
+	himself
+
+	HEADED OFF
+
+	by a raptor. He turns to the other way, but finds
+
+	THERE ARE MORE RAPTORS.
+
+	He picks up a fallen branch as these dinosaurs cautiously
+
+	approach. Not more than a few feet away, the leader of the trio
+
+	stops, peering at him.
+
+	Udesky swings hard, but the dinosaurs feints. From behind him,
+
+	another raptor slashes at the back of his legs, severing his
+
+	muscles. Udesky CRIES OUT and drops to the ground.
+
+	IN THE TREETOPS
+
+	Paul, Amanda and Billy can hear him.
+
+				PAUL
+
+		Udesky.
+
+				AMANDA
+
+			(Listening)
+
+		He's this way.
+
+	From here, the thick branches overlap, forming a kind of
+
+	"second floor" above the ground. It's not easy, but you can move
+
+	from branch to branch, tree to tree.
+
+	ON THE FLOOR
+
+	Unable to walk, Udesky attempts to crawl away from the animals.
+
+	The effort clearly causes him great pain. Strangely, the
+
+	raptors suddenly don't seem interested in him anymore.
+
+	Rather, they're "talking" among themselves. Udesky is amazed to
+
+	find him self still alive.
+
+	Suddenly, one of the raptors SLASHES at him again. But it's
+
+	delicately not a mortal blow, just a very painful one. Udesky
+
+	CRIES OUT, louder this time.
+
+	IN THE TREES
+
+	Hearing the new cry, Paul, Amanda and Billy move faster, now
+
+	finally seeing Udesky on the ground. He's face-down, barely
+
+	moving but still MOANING.
+
+	The raptors are gone.
+
+	In the lead, Amanda starts to climb down. But Paul grabs her,
+
+	holds her back.
+
+				PAUL
+
+		It's not safe.
+
+				AMANDA
+
+		We have to help him.
+
+				BILLY
+
+		He's right. A predator wouldn't leave a kill
+
+		wounded.
+
+				AMANDA
+
+		He's not a kill, he's still alive.
+
+	She breaks from Paul's grip and drops to the ground. She's only
+
+	a foot away from the tree when
+
+	ALL FOUR RAPTORS
+
+	lead out from their hiding places. They almost catch her as
+
+	Billy and Paul pull her back up on the limb
+
+	The raptors stare up at them, angry their plan didn't work.
+
+				PAUL
+
+		They couldnt climb up, so they were trying
+
+		to get us to come down.
+
+				BILLY
+
+		They set a trap
+
+			(amazed)
+
+		They actually set a trap.
+
+	Bored with waiting, the raptors go back to finish off Udesky,
+
+	making a meal out of it. Up in the branches, the survivors are
+
+	horrified and sickened.
+
+	Then, from the deep in the forest, a new RAPTOR CRY. The feasting
+
+	raptors look up, listening, then suddenly run off into the dark
+
+	jungle.
+
+				PAUL
+
+		Where's Grant?
+
+69B	EXT. ELSEWHERE IN THE JUNGLE - DAY				69B
+
+	Climbing higher in a tree, Grant is just feet above a growing
+
+	pack of raptors. He scales one branch, the next, finally
+
+	reaching a perch that the dinosaurs can't jump to.
+
+	LOOKING DOWN
+
+	The entire pack is now standing still, watching him. In the
+
+	center, the Alpha Male lets out a sort of BARK. Responding to the
+
+	cry, the other raptors CALL BACK.
+
+	As terrified as he is, he can't help but be fascinated by their
+
+	communication. Like a hellish bird song, there's a rhythm to it,
+
+	a structure. They're clearly talking about something.
+
+	Under his breath, Grant is able to mimic its patterns.
+
+				GRANT
+
+		What does that mean? What are you saying?
+
+	Of course they can't answer. They just keep using the same
+
+	"phrase."
+
+	Ready to ditch Billy's camera bag in order to climb higher --
+
+	he's had to hold it by the strap -- Grant finds his hand covered
+
+	with a runny slime. He looks down at the camera bag, and that's
+
+	the source. It's oozing out the bottom.
+
+	He unzips the bag to find
+
+	A BROKEN RAPTOR EGG
+
+	inside, the white and green yolk still dripping from the pieces
+
+	of the shell. There's another intact egg beside it.
+
+	This is what the raptors where chasing.
+
+				GRANT (CONT'D)
+
+		God damn you, Billy.
+
+	Ever the scientist, Dr. Grant tests a theory even in the face of
+
+	danger: he holds up the intact egg so that the raptors can see it.
+
+	They suddenly go crazy, howling the same phrase but LOUDER.
+
+				GRANT (CONT'D)
+
+		It means, "Give us the egg," doesn't it? "We
+
+		want the egg."
+
+	He gently drops the bag to the ground. Although the raptors are
+
+	interested, pulling out the unbroken egg, they're still by no means
+
+	placated. The song may have changed, but they still want Grant
+
+	dead.
+
+	They begin to jump at him, eventually, hopping up on each
+
+	others backs. It's only a matter of time till they reach him.
+
+	Grant moves to climb higher, but sees no branches he can reach.
+
+	And than he hears the low CREAKING. A CRACK. The branch he's
+
+	on is starting to give in.
+
+	He looks down at the face of his enemies, knowing he'll be
+
+	their next meal. And then,
+
+	A SMALL CANISTER
+
+	lands at the base of the trees, immediately SPRAYING out a thick
+
+	cloud of oily fog. It's the first of
+
+	FIVE CANISTERS
+
+	that land in the area, creating a thick cloud. It's not just
+
+	smoke though something far more caustic.
+
+	As it hits the raptors they immediately recoil, those closest
+
+	to the canisters SHRIEKING in pain. Tumbling in the dirt.
+
+	There may be a pheremonal element to the mist as well -- they
+
+	seem panicked, disoriented.
+
+	Pack mentality takes over, and after the first ten raptors take
+
+	off running, so do the rest, some tripping over their feet
+
+	blindly.
+
+	This may be dino-tear gas, but it's not good for humans either.
+
+	Up in the tree, Grant's eyes immediately burn from the vapor
+
+	He squints to see through the fog, where he spots
+
+	A HUMAN SHAPE
+
+	at the edge of the smoke
+
+				VOICE
+
+		Come on! They'll be back!
+
+	Grant half-climbs, half-falls out of the tree, rushing to get
+
+	through the heaviest of the smoke.
+
+	A SMALL DIRTY HAND
+
+	grabs his, pulling him along.
+
+69C	EXT. JUNGLE - LATE DAY						69C
+
+	Eyes swollen from the gas. Grant stumbles, barely able to see as
+
+	the other person pulls him along. It's only now we can identify
+
+	his rescuer as
+
+	ERIC KIRBY,
+
+	the boy he was brought to rescue. A lot has changed in the last
+
+	eight weeks. It's not just dirt and muck -- he's the filthiest
+
+	child you've ever seen -- something primal has come out in him.
+
+	Something wild.
+
+69D	EXT. INGEN COMPOUND - TWILIGHT				69D
+
+	On the far side of the tipped over vehicle, Eric pulls open a
+
+	hatch -- his hiding place. The door opens part way.
+
+	Eric motions for Grant to follow.
+
+69E	INT. INSIDE THE BUNKER - TWILIGHT				69E
+
+	Squeezing in sideways -- it's very tight fit -- Grant finds
+
+	himself in a space no bigger than the inside of a Datsun. lit by
+
+	a small battery-powered lantern. This is where Eric has been
+
+	hiding.
+
+	The minute Grant's inside, Eric goes back to work re-sealing
+
+	the door. This 13-year old boy has become astonishingly
+
+	efficient at staying alive.
+
+				GRANT
+
+		Eric...
+
+	The boy holds up a hand. He listens for a moment. He doesn't
+
+	hear anything outside.
+
+				GRANT (CONT'D)
+
+		Eric, your parents are both here.
+
+				ERIC
+
+		In Costa Rica?
+
+				GRANT
+
+		On the island.
+
+	Eric truly can't believe it. He hoped to be rescued but...
+
+				ERIC
+
+		They'll never make it. I mean, they can't
+
+		manage when the cable goes out.
+
+				GRANT
+
+		You'd be surprised what people can do when
+
+		they have too.
+
+	Eric studies his guest, finally certain he recognizes him.
+
+				ERIC
+
+		You're Alan Grant, aren't you?
+
+			(off surprised reaction)
+
+		I read both of your books.
+
+				GRANT
+
+		Which one do you prefer?
+
+				ERIC
+
+		The first one. Before you where on the island.
+
+		You liked dinosaurs back then.
+
+				GRANT
+
+		Back then, they hadn't tried to eat me.
+
+	Grant takes a better look around Eric's tiny hideaway,
+
+	impressed with what he's been able to scavenge. Among the many
+
+	items we see another smoke canister, some battery-powered
+
+	lanterns and lots of candy wrappers. This kid's been living on
+
+	chocolate for weeks.
+
+				ERIC
+
+		When InGen cleared out, they left a lot of
+
+		stuff behind.
+
+				GRANT
+
+		Any weapons, radios?
+
+	Eric pulls up a long cattle prod to show Grant.
+
+				ERIC
+
+		Found this, but the battery's dead.
+
+				GRANT
+
+		It's a wonder you aren't. I'm amazed, Eric. I 
+
+		barely lasted 30 hours. You lasted eight
+
+		weeks.
+
+	The line catches Eric strangely. It's the first moment of true
+
+	emotion we've seen him in.
+
+				ERIC
+
+		Is that all it's been? I thought it was longer.
+
+				GRANT
+
+			(trying to be positive)
+
+		The important thing is we both made it.
+
+		That's something we have in common.
+
+	Eric rips into a candy bar. After a moment, he realizes he
+
+	should offer one to his guest as well.
+
+	Grant takes it. A lone beat. Than, Grant just has to know...
+
+				GRANT (CONT'D)
+
+		Did you read Malcolm's book?
+
+				ERIC
+
+		Yeah.
+
+				GRANT
+
+		What did you think?
+
+				ERIC
+
+		I dunno. I mean, it was kind of preachy.
+
+		Chaos-this, chaos-that. And like, to me, the
+
+		guy seemed kind of high on himself.
+
+	Grant smiles.
+
+				GRANT
+
+		That's two things we have in common.
+
+69F	EXT. TREETOPS - NIGHT						69F
+
+	The trio is where we left them, perched up in the branches.
+
+	They're far from safe, but nothing's after them for a
+
+	while.
+
+	In Billy's eyes, we can see a storm of guilt raging. But he
+
+	hasn't said anything. Won't say anything.
+
+				AMANDA
+
+		We can't just stop looking. Eric and Dr.
+
+		Grant are out there somewhere.
+
+				PAUL
+
+		I want to find them too, but we can't do a bit
+
+		of good right now. For every scary thing we
+
+		saw in the daylight, I'll bet there ten times
+
+		more of 'em at night.
+
+			(to Billy)
+
+		Am I right?
+
+				BILLY
+
+		I dont know.
+
+				PAUL
+
+		I thought you were an expert.
+
+				BILLY
+
+		Dr. Grant was.
+
+				AMANDA
+
+		Well Dr. Grant isn't here, so we're going to
+
+		have to figure out what to do ourselves.
+
+	Amanda is impressed by her own determinations. A long beat.
+
+				AMANDA (cont'd)
+
+		So what do we do?
+
+	No one has the faintest clue.
+
+69G	EXT. DEEP IN THE FOREST - NIGHT					69G
+
+	VARIOUS SHOTS; The creatures of Isla Sorna walk past in the
+
+	shadows, some looking up at the light in the trees.
+
+	Suddenly, one of the creatures is attacked by another. We hear
+
+	ROLLING, SNARLING, HISSING, just seeing the outline of the
+
+	fight. Just as fast as it began, the fight is over, the winner
+
+	snakes on the loser.
+
+69H	EXT. TREETOPS - NIGHT (LATER)					69H
+
+	Everyone's moved to different branches, trying to settle in for
+
+	the night. Paul keeps looking over to the tearful Amanda, about
+
+	to say something. He finally does.
+
+				PAUL
+
+		I just want you know, Amanda. It's not
+
+		your fault what happened.
+
+	Amanda looks over, not sure what his absolution.
+
+				PAUL (cont'd)
+
+		Eric has always been headstrong, and you
+
+		throw Ben Hildebrand into the mix and well...
+
+				AMANDA
+
+		Well what?
+
+				PAUL
+
+		Well damn it. I don't speak ill of the dead.
+
+		What I'm trying to say is, its was just a crazy
+
+		accident. The exact same thing could have
+
+		happened if he was with me. You can't go
+
+		beating yourself up about it.
+
+	Realizing he's trying his best, Amanda cant stay angry with
+
+	him.
+
+				AMANDA
+
+		This wouldn't happen if he was with
+
+		you. I mean, you drive five miles below the
+
+		speed limit. I totaled three cars in fives
+
+		years.
+
+				PAUL
+
+		That one time was just the bumper.
+
+				AMANDA
+
+		He would have been, safe. Completely,
+
+		entirely, suffocatingly safe.
+
+			(beat)
+
+		I would have him to see more of the world than
+
+		Enid, Oklahoma. I wanted to see more of the
+
+		world than Enid, Oklahoma. And so yes, it's
+
+		my fault that this happened. I'm sorry that
+
+		you have to be here.
+
+	Really looking at her...
+
+				PAUL
+
+		I'm not sorry at all.
+
+69I	EXT. INGEN COMPOUND - DAY					69I
+
+	Morning on Isla Sorna. A low mist hangs tight to the forest
+
+	floor as Eric seals up his hideaway for hopefully the last time.
+
+	They start walking. Eric pulls something out of his pocket,
+
+	shows it off to Grant.
+
+				ERIC
+
+		Know what this is?
+
+				GRANT
+
+			(takes it)
+
+		A raptor claw. I use to have one. A fossil.
+
+				ERIC
+
+		Mine's new.
+
+	Grant hands it back.
+
+	Eric is becoming more and more a normal thirteen-year old boy.
+
+	There's an innocence to him that's coming back.
+
+				GRANT
+
+		How much of this island have you explored?
+
+				ERIC
+
+		I stayed pretty close to the compound,
+
+		Figured if anyone came to look for me, that's
+
+		where they'd start.
+
+				GRANT
+
+		We need to head for the coast.
+
+				ERIC
+
+		Are you sure?
+
+				GRANT
+
+		Why?
+
+				ERIC
+
+		Closer you get to the water, the bigger
+
+		things get.
+
+69J	EXT. JUNGLE - DAY							69J
+
+	Billy and Amanda wait for Paul as he comes out of the bushes,
+
+	hiking up his shorts.
+
+	Trying to take charge...
+
+				BILLY
+
+		We need to stick to the plan. Head for the
+
+		coast.
+
+				AMANDA
+
+		What about Eric and Dr. Grant?
+
+				BILLY
+
+		Going to the coast was Alan's idea. If he's
+
+		alive, thats where he's headed.
+
+				AMANDA
+
+		What about Eric?
+
+	Billy represses his instinct to say Eric's dead.
+
+				PAUL
+
+			(rationalizing)
+
+		He's probably has a better chance by the coast
+
+		as it is. Figures that all the big dinosaurs
+
+		would live in the center of the island.
+
+			(to Billy)
+
+		Right?
+
+				BILLY
+
+		Sure.
+
+69K	EXT. JUNGLE - DAY							69K
+
+	As Grant and Eric walk, both stop, hearing a strange sound. But
+
+	for a change, it's not an ominous one.
+
+	It's a human one.
+
+	A phone is RINGING, very faintly. Without a word to each other,
+
+	Grant and Eric decide its coming from the right.
+
+69L	EXT. JUNGLE - CONTUNUOUS DAY					69L
+
+	Paul is picking the briars out of his socks as they hike,
+
+	risking tripping on every step. Then Amanda stops short. She's
+
+	the first to hear it:
+
+	THE SAME RINGING.
+
+	After a beat, everyone else can hear it too. And recongnition
+
+	finally lights on Paul's face...
+
+				PAUL
+
+		My phone.
+
+	Suddenly, Paul frantically searches his pockets as the others
+
+	anxiously watch.
+
+				AMANDA
+
+		You had the phone the whole time?
+
+				BILLY
+
+		Where is it?
+
+				PAUL
+
+		I don't know. I don't have it with me.
+
+				AMANDA
+
+		When did you have it last?
+
+				PAUL
+
+		I don't remember
+
+				AMANDA
+
+		Think.
+
+	And Paul wracks his memory...
+
+				PAUL
+
+		The plane. I got a call on the plane, put it in
+
+		my coat pocket, and...
+
+	Bust suddenly, he stops, his face is lighting with an awful
+
+	realization. Amanda couldnt bear the wait...
+
+				AMANDA
+
+		What?...WHAT!?
+
+				PAUL
+
+		I loaned it to Nash. He must have had it on
+
+		him when he...
+
+	The hideous implication of his words slowly sink in.
+
+69M	EXT. JUNGLE - DAY							69M
+
+	Still following the faint RINGING, Grant and Eric turn to find
+
+	A SAIL
+
+	moving through the low trees. We recognize it as the back of a
+
+	spinosaurus. We might think it's any random spinosaurus,
+
+	except for the RINGING coming from somewhere inside it.
+
+	Grant and Eric press back against a tree, keep perfectly
+
+	still as they hear the THOOOOMB, THOOOOMB, THOOOMB of the
+
+	creature's footsteps reverberating. It's tail RUSTKES against
+
+	the brush.
+
+	It's moving behind them, and it's close.
+
+	We hear the RINGING move from left to right as it passes. So
+
+	far, its has no idea they're there.
+
+	Looking across the clearing, Eric is startled to see
+
+	PAUL AND AMANDA
+
+	are no more than 20 yards away, also hiding. An involuntary
+
+	reflex, Eric calls out...
+
+				ERIC
+
+		Mon! Dad!
+
+	Grant immediately covers the boys mouth. But it's to late.
+
+	The dinosaur has stopped. We still can't see it. We don't know how
+
+	close it is.
+
+	Paul and Amanda spot Eric with Grant. They're a thousand
+
+	emotions at once: relieved, disbelieving, terrified, overjoyed.
+
+	They want to run to him, to yell out to him, but the monster is
+
+	close.
+
+	Grant takes his hand off Eric's mouth. They both stay
+
+	completely silent.
+
+	All this time, the sat-phone is RINGING.
+
+	Than it stops.
+
+	And after an agonizing beat, the beast moves. At first we're
+
+	not sure which direction it's headed, but finally we can tell
+
+	its moving away.
+
+	Once the sail is finally out of sight, Eric breaks from Grant's
+
+	hold and dashes to his parents' arms. They coop him up. Hug
+
+	him, kiss him, their affection unquenchable. He's crying.
+
+				AMANDA
+
+			(reassuring him)
+
+		Sweetheart, you're okay.
+
+			(reassuring herself)
+
+		You're okay.
+
+			(disbelieving)
+
+		You're okay.
+
+				PAUL
+
+		Never had a doubt. Never did. Us Kirby men,
+
+		we stick around, huh?
+
+				ERIC
+
+		We do.
+
+	Looking at her grubby son, Amanda licks her shirttail, trying
+
+	to rub his face clean.
+
+				PAUL
+
+		Honey, there's not enough spit in the world
+
+		for that.
+
+	She LAUGHS. It's the first times she's laughed in two months.
+
+	Billy crosses the distance to Grant.
+
+				GRANT
+
+		We need to keep moving.
+
+				BILLY
+
+		Alan, I want to tell you that I'm so sorry
+
+		about the...
+
+				GRANT
+
+		Billy, I can't talk to you now.
+
+	He walks off. Billy follows him.
+
+				BILLY
+
+		Please, okay? Just yell at me. Call me an
+
+		idiot. An asshole. Stupid. Tell me I screwed
+
+		up because I know I did.
+
+	Grant doesn't respond.
+
+				BILLY (CONT'D)
+
+		I thought if we could get a raptor back
+
+		to the mainland, we could get serious money
+
+		for it. Enough to fund the digging for 10
+
+		years. More. Whatever it took.
+
+	Grant shakes his head, disgusted, But doesn't stop.
+
+				BILLY (CONT'D)
+
+		You have to believe me. I did it with the
+
+		best intentions.
+
+				GRANT
+
+			(finally turning on him)
+
+		Some of the worst things imaginable have
+
+		been done with the best intentions. You
+
+		rushed in with no thought to the
+
+		consequences, to yourself or anyone else.
+
+			(finally)
+
+		You're no better than the people who built
+
+		this place.
+
+	Grant keeps walking, leaving Billy with his guilt.
+
+70	INT. CANYON BUILDING - DAY					70
+
+	The group enters a structure with giant windows designed to
+
+	look into the canyon beyond -- only there's nothing to see but a
+
+	thick fog.
+
+	Toward the center of the room, a spiral staircase that leads to
+
+	a lower level.
+
+	With Billy lagging, Grant approaches the stairs and peers down
+
+	the circular opening in the floor. There is not much to see, just
+
+	fog, a glint of sunlight.
+
+71	EXT. RIVER CANYON - DAY						71
+
+	Step by step, Grant leads the group down a rusty spiral
+
+	staircase below the observation room. The stairs end in a lower
+
+	level. Although we're technically outside, this whole place feel
+
+	strangely enclosed.
+
+	There's a thick fog at this level -- clouds, really -- but far
+
+	below we can see the river. And at its banks, a barge.
+
+				GRANT
+
+		We climb down to the barge and follow the
+
+		river out to the ocean. With any luck, the
+
+		Costa Rican coast guard will pick us up.
+
+				ERIC
+
+		Then we go home?
+
+				AMANDA
+
+		Then we go home.
+
+	Grant leads everyone down a RAMP to --
+
+72	EXT. LANDING - DAY							72
+
+	A catwalk branches off, a SET OF STAIRS continuing down the
+
+	along the canyon wall.
+
+	Grant starts down the stairs. He's only taken a few steps down
+
+	the rusty staircase suddenly
+
+	BREAKS BENEATH HIS FEET.
+
+	Paul grabs him in the nick of time. The staircase vanish into
+
+	the fog. CLANFING AGAINST the canyon wall. After a few more
+
+	seconds of silence, they hear the CRASH far below.
+
+				AMANDA
+
+		You okay?
+
+	Grant nods and looks in the other direction.
+
+				GRANT
+
+		How about if we try this way?
+
+	Their only other option is a precarious catwalk that
+
+	disappears into the mist.
+
+				AMANDA
+
+		Do you think it goes all the way across?
+
+				GRANT
+
+		One way to find out.
+
+	The only way to get his-near-fall is to push ahead. But his
+
+	stomach turns at being so high.
+
+	Amanda follows. The catwalk creaks and groans, listing
+
+	slightly. She freezes mid-stride.
+
+				GRANT (CONT'D)
+
+			(glancing back)
+
+		We'd better do this one at a time.
+
+	Amanda steps of and Grant carefully pushes forward,
+
+	disappearing into the thick fog.
+
+	The others listen to the CREAKING of the catwalk until it STOPS
+
+	ABRIPTLY.
+
+	SILENCE.
+
+				PAUL
+
+		Dr. Grant?
+
+	More silence. Then, out of the fog, a distant voice call out --
+
+				GRANT (O.S.)
+
+		Come on over. One at a time.
+
+	Amanda steps tentatively forwards. Eric is clinging to her.
+
+				AMANDA
+
+		Eric, its okay. You'll be right behind me.
+
+				PAUL
+
+		We're not going anywhere, I promise.
+
+	As Paul holds Eric, and Amanda shares a look.
+
+				Amanda
+
+		We're all together now, Eric.
+
+	Eric reluctantly releases her mother. Amanda starts to cross.
+
+73	EXT. REVER CANYON - FAR WALL - DAY				73
+
+	Grant has stopped at a lateral support across the
+
+	catwalk, trying to get the sense of where they are and what
+
+	purpose this place may have served.
+
+	Seeing that the support beams are brace high arched walls of steal
+
+	mesh, it becomes obvious that we are inside this vast
+
+	construction.
+
+	Amanda emerges from the mist and turns back to the catwalk.
+
+				AMANDA
+
+			(calling out)
+
+		Okay! Come on, Eric!
+
+74	EXT. LANDING - DAY							74
+
+	Eric is next to go across. He's still tentative.
+
+				PAUL
+
+		How 'bout if I...
+
+				ERIC
+
+		No, I can do it.
+
+	Billy and Paul look on as Eric disappears into the vapor.
+
+				PAUL
+
+			(muttering to himself)
+
+		That's it Eric. Nice and easy...
+
+75	EXT. CATWALK - DAY							75
+
+	Eric slowly gropes his way forward. He feels a GUST OF WIND and
+
+	a HEAVY THUD ahead on the catwalk which now sways beneath
+
+	him.
+
+	Regaining his balance, Eric peers forward, but the fog prevents
+
+	him from seeing more than fifteen feet ahead. There is an EERIE
+
+	SILENCE. Eric calls out timidly.
+
+				ERIC
+
+		Mom?
+
+75A	EXT. RIVER CANYON - FAR WALL - DAY				75A
+
+	Across the canyon, Grant moves across the later support. With
+
+	his hand on the railing, he sends a white, hardened substance
+
+	dropping into the mist.
+
+	Looking up, Grant notices a large strut, covered with the same
+
+	substance. Realizing what it could be.
+
+				GRANT
+
+		Oh, my God.
+
+				AMANDA
+
+		What is it?
+
+				GRANT
+
+		A bird cage.
+
+	Then, the sound of Eric SCREAMING.
+
+75B	EXT. CATWALK - DAY							75B
+
+	Eric watches as A LOOMING SHAPE emerges from the fog -- a
+
+	nightmarish vision stalking purposefully forward.
+
+	A FULL GROWN PTERANODON,
+
+	standing over seven feet high, walks upright on clawed feet, his
+
+	thirty foot wings folded bat-like at his side.
+
+	The creature sees Eric and fixes him with a demonic glare.
+
+	Eric CRIES OUT and dashes back down the teetering catwalk.
+
+	The Pteranodon ruses to its feet, spreads its thirty-foot wings
+
+	and flies directly at him.
+
+	AT THE OTHER END OF THE CATWALK
+
+	Hearing Eric's SCREAMS, Paul charges onto the catwalk,
+
+	searching in the fog.
+
+				PAUL
+
+		Eric!
+
+				BILLY
+
+		It won't hold!
+
+	Suddenly,
+
+	ERIC
+
+	emerges from the fog, racing toward his father. And then
+
+	THE PTERANODON
+
+	swoops out of the fog, opens its giant rear claws, and snatches
+
+	the terrified boy from the catwalk.
+
+	Paul Kirby watches in stunned, abject horror as the Pteranodon
+
+	carries Eric directly overhead --
+
+				PAUL
+
+		ERIC!
+
+	The flying reptile struggles with the boy's weight. Paul
+
+	watches helplessly as Eric is carried high across the canyon.
+
+	Paul runs back alone the catwalk in a desperate attempt to keep
+
+	Eric in sight.
+
+	Billy stays behind, moving back up the platform to try to
+
+	keep the dinosaur in view. With a new idea, he races back up the
+
+	stairs to the observation room. He has a way to save Eric.
+
+	When he reaches the canyon wall, Paul turns a corner and runs
+
+	along another enclosed catwalk leading deeper into the canyon.
+
+	Grant and Amanda now come pounding down the catwalk trying to
+
+	catch up with Paul.
+
+				AMANDA
+
+			(shouting)
+
+		Paul! Where is he? Can you see him?
+
+				PAUL
+
+			(shouting back)
+
+		I'm trying! That thing took him down this
+
+		way!
+
+				GRANT
+
+		Split up!
+
+	THE PTERANODON
+
+	carries Eric deeper into the canyon. The creature's wings beat
+
+	steadily overhead, and the WIND is fierce. Eric looks down and
+
+	sees the river far below.
+
+	The Pteranodon swoops over an isolated outcropping of rocks at
+
+	the end of the canyon and drops Eric into --
+
+75C	EXT. PTERANODON NEST - DAY					75C
+
+	A large bowl of mud and branches the size of a satellite dish.
+
+	Eric lands right on top of a pile of dinosaur bones picked
+
+	clean. Mixed among is one human skull.
+
+	Before Eric has time to cry out, he looks up to find
+
+	SIX PTERANODON HATCHLINGS
+
+	closing in on him with sharp-edged beaks.
+
+	He picks up the human skull and whips it to the hatchlings.
+
+	They easily duck it and keep coming.
+
+76	EXT. OBSERVATION ROOM - CONTINUOUS DAY			76
+
+	Grant looks up to see Billy leaning out over the edge of the
+
+	observation platform. He suddenly realizes what Billy is about
+
+	to do.
+
+				GRANT
+
+		BILLY! WAIT!
+
+	Billy SHOUTS BACK, an excited-terrified grin on his face.
+
+				BILLY
+
+		I CAN GET HIM!
+
+				GRANT
+
+		NO!
+
+				BILLY
+
+		I KNOW THE CONSEQUENCES!
+
+	Billy jumps off the railing and
+
+	DROPS TOWARDS THE CANYON BELOW.
+
+	Grant, Paul and Amanda watch as Billy FALLS past them like a
+
+	stone, plummeting towards certain death. But then --
+
+	THE PARASAIL CHUTE
+
+	blossoms above him.
+
+	Not only does it slows Billy's descent, but he even manages to
+
+	catch an updraft and begin to rise.
+
+	He struggles to control the parasail, swooping dangerously
+
+	close to the canyon wall, barely avoiding it.
+
+	Up ahead he catches sight of Eric and steers towards him.
+
+77-80	OMIT									77-80
+
+81	EXT. PTERANODON NEST - DAY					81
+
+	Eric struggles to keep away from the hatchlings. But there's
+
+	no way out of this nest.
+
+	Billy SWOOPS overhead, but he's too high to reach Eric.
+
+				BILLY
+
+		ERIC! HOLD ON!
+
+	He circles around to make another attempt.
+
+82	EXT. ENCLOSED CATWAY - DAY					82
+
+	Paul rounds the corner and finally catches sight of Eric in the
+
+	nest, some fifty feet below, fighting off the hatchlings.
+
+				PAUL
+
+		Hang on, Eric!
+
+	Paul sees an outcropping he could jump onto from here. It's a
+
+	big leap, though, he might not make it. He steels himself up for
+
+	the jump, then chickens out.
+
+	Grant and Amanda come up behind him. Suddenly,
+
+	A SECOND PTERANODON
+
+	CRASH LANDS on the catwalk enclosure about them -- right next
+
+	to a gaping hole in the mesh. The catwalk GROANS with the
+
+	extra weight.
+
+	The pteranodon JAMS its head through the hole, SNAPPING at
+
+	them.
+
+83	EXT. CANYON - IN THE AIR - DAY					83
+
+	Billy circles, making his approach.
+
+	In the nest, Eric kicks at the hatchlings, but they're
+
+	undeterred. Billy and Eric will only have one chance.
+
+	As Billy swoops past, Eric jumps and grabs onto his boot. He is
+
+	yanked up and out of the nest. But than, MOTHER PTERANODON
+
+	shoots past, tearing out a piece of the parasail in its beak.
+
+84-85	OMIT									84-85
+
+86	EXT. OVER THE RIVER - DAY					86
+
+	The pteranodon who landed on the top of the catwalk continues to
+
+	SNAP through the hole in the enclosure.
+
+	Finally the reptile's massive weight proves to much, and the
+
+	entire section of the catwalk BREAKS FREE of the canyon wall
+
+	and FLIPS OVER LATERALLY.
+
+	Amanda, Grant and Paul are able to hang on, but so is the
+
+	pteranodon, who now climbs their way.
+
+87	OMIT									87
+
+88	EXT. OVER THE RIVER - DAY					88
+
+	His parasail badly damaged, Billy tries to keep aloft. Heading
+
+	as low as he dares, he yells to Eric --
+
+				BILLY
+
+		Let go!
+
+	Terrified, Eric falls into the river safely. He surfaces,
+
+	immediately swimming to shore.
+
+	Trying to gain altitude, Billy bends hard to the right. But the
+
+	rigging is too badly damaged. He flies right into the canyon
+
+	wall, hitting hard.
+
+	Instead of tumbling down to the river, he finds himself
+
+	swinging from his harness - the parasail snagged on a rock
+
+	spire above him.
+
+89	EXT. BROKEN CATWALK - DAY					89
+
+	Paul, Grant and Amanda struggle to stay away from the
+
+	pteranodon as it moves towards them.
+
+	Suddenly. the far end of this inverted section of catwalk
+
+	detaches from the canyon wall and
+
+	SWINGS DOWNWARD.
+
+	The force of the action sends the three tumbling directly
+
+	towards the pteranodon.
+
+	Miraculously, they manage to avoid its open beak. But they
+
+	are all sent plummeting toward the river below.
+
+90	EXT. RIVER - DAY							90
+
+	They hit the water hard, resurfacing moments later. The
+
+	current is carrying them downstream.
+
+91	EXT. CANYON WALL - DAY						91
+
+	The two pteranodons who were pursuing Billy now land on nearby
+
+	ledges and consider how best to dispatch their prey.
+
+	Billy frantically tries to unhook his harness, but the tension
+
+	is so tight from his own weight that he can't loosen the
+
+	buckles.
+
+92-93	OMIT							  92-93
+
+94	EXT. RIVER BANK - DAY					      94
+
+	Paul and Amanda emerge from the water by the canyon wall and
+
+	find their son hiding behind a rock, searching the skies for
+
+	Billy.
+
+	Amanda takes Eric tightly in her arms, and Paul urges them to
+
+	keep moving. Up ahead, the mesh of the aviary meets the river.
+
+	Wading the shore, Grant now scans the canyon, searching for
+
+	Billy. It doesn't take long to spot him.
+
+95	EXT. CANYON WALLL - DAY						95
+
+	Billy continues to struggle with the harness but to no avail.
+
+	The doomed young man is suspended high up on the canyon wall
+
+	like a modern Prometheus, an entire FLOCK of pteranodons
+
+	gathering around him preparing to peck away his liver. And
+
+	everything else.
+
+	A MAMMOTH PTERANADON has landed beside him and looks him
+
+	straight in the eye.
+
+	The gigantic creature lunges at him. Billy dodges away as best
+
+	he can. The pteranodon's frustrated bite severs a crucial
+
+	juncture on Billy's harness, and Billy is able to wriggle free.
+
+96	EXT. RIVER BANK - DAY						96
+
+	Eric, Amanda, Paul and Grant watch in amazement as Billy is the
+
+	last to PLUNGE DOWN into the river.
+
+				GRANT
+
+		He made it!
+
+	Billy bobs to the surface and spots the group downstream. He
+
+	waves and begins to swim towards them. Soon he nears the shore
+
+	and gets to his feet, wading as he comes.
+
+	Grant, Paul, Amanda and Eric hurry to meet him.
+
+	Grant is overjoyed to see him alive. But his smile quickly
+
+	fades as he sees
+
+	THE ENTIRE FLOCK OF PTERANODONS
+
+	diving down from above in angry pursuit of their lost prey.
+
+				GRANT (CONT'D)
+
+		Billy, look out!
+
+	Billy glances behind him. He races forward, motioning fro his
+
+	companions to turn around.
+
+				BILLY
+
+		Get back! Get back!
+
+	Just then Billy is knocked down by the lead pteranodon. It
+
+	strikes from behind with a brutal, calculated beak to the head.
+
+	Billy stumbles and falls to the ground.
+
+	Grant rushes forward with Paul right after him. Amanda takes
+
+	Eric to safety down river.
+
+	Billy SCREAMS as the ENTIRE FLOCK of pteranodons now swarms
+
+	around him, picking him apart with their beaks and claws.
+
+				GRANT
+
+		Billy!
+
+				PAUL
+
+		It's no use, Dr. Grant. No use.
+
+	Grant can't take his eyes off Billy, whose BLOOD stains the
+
+	water rushing by.
+
+	And now several pteranodons are heading their way. Difficult
+
+	as it is to leave Billy behind, Grant and Paul make a run for it.
+
+	Just as the pteranodons are about to swoop in for the kill, Alan
+
+	and Paul dive back into the river...
+
+97	EXT. THE RIVER - CONTINUOUS DAY				97
+
+	...and resurfaces on the far side of the mesh aviary wall, GASPING
+
+	for air. Just behind them, the mammoth
+
+	PTERANODON
+
+	CRASHES into the mesh. It tears at the steel, actually ripping
+
+	it in one place.
+
+	At the dock up ahead, Amanda and Eric have found a rusty,
+
+	waterlogged barge that's somehow still floating. Carrying a
+
+	tarp-covered cage, the boat was meant for transporting dinos
+
+	up and down the river.
+
+	Amanda pushes them away from the dock as Alan and Paul climb
+
+	on board.
+
+98	EXT. ON THE BARGE - CONTINUOUS DAY				98
+
+	The current takes the craft downstream, letting us get our
+
+	first good look at the incredible
+
+	AVIARY.
+
+	It's a vast, domed mesh structure that spans the entire canyon.
+
+	In all, a feat of remarkable engineering and unmistakable
+
+	hubris.
+
+	Catching their breath, our four survivors look at the cage they
+
+	were caught in.
+
+99	EXT. DOWN RIVER - DAY / LATER					99
+
+	Yanking the starter rope one final time, Paul finally gets the
+
+	engine to turn over, PUTTERING along. Amanda is beside him,
+
+	bailing water.
+
+				PAUL
+
+		My own kid was right in front of me and I
+
+		didn't do a damn thing.
+
+				AMANDA
+
+		You couldn't have made that jump.
+
+				PAUL
+
+		I should have tried. It should have been me
+
+		on that beach back there, not Billy.
+
+				AMANDA
+
+		How would you have helped Eric?
+
+			(he can't answer)
+
+		He needs you, Paul. He needs us.
+
+				PAUL
+
+		He could have died.
+
+				AMANDA
+
+		But he didn't. And neither did you. And I'm
+
+		glad about that.
+
+99A	UP ON THE BOW							99A
+
+	Grant is beside Eric, keeping watch, but also feeling the weight
+
+	of Billy's death.
+
+				ERIC
+
+		Do you have any kids?
+
+				GRANT
+
+		No. Although I've studied them in the wild.
+
+	Eric looks over, not sure what that means.
+
+				GRANT (CON'T)
+
+		I have a theory that there's two kinds of
+
+		boys. Those who want to be astronomers and
+
+		those who want to be astronauts.
+
+				ERIC
+
+		I want to be an astronaut.
+
+				GRANT
+
+		See, I was the opposite. I never understood
+
+		why anyone would want to go into space. It's
+
+		so dangerous. You do one thing wrong and
+
+		you're dead. The astronomer -- or the
+
+		paleontologist -- get to study these amazing
+
+		things from a place of complete safety. And
+
+		truthfully, everything you really need to
+
+		learn, you can learn it from the ground.
+
+				ERIC
+
+		But then you never get to go in space.
+
+				GRANT
+
+		Exactly. The difference between imagining
+
+		how things might be and seeing how they
+
+		really are. To be able to touch them. That's
+
+		what Billy wanted to do.
+
+	The barge starts to round a bend. On the bow, Grant and Eric
+
+	are the fist to see something remarkable. Eric GASPS,
+
+	unprepared. We don't know yet what they see.
+
+				GRANT (cont'd)
+
+		I can blame the people who made this island.
+
+		But I can't blame the people who want to see
+
+		it. To study it.
+
+	At the rear of the barge, Paul just now sees what's ahead. Awe-
+
+	struck, he slows the motor and motions for Amanda to take a
+
+	look. And so do we.
+
+	UP AHEAD
+
+	The setting sun illuminates an incredible valley filled with
+
+	dinosaurs. We see armored ANKYLOSAURS with clubbed
+
+	tails. Duck-billed CORYTHOSAURS. We float under the gigantic,
+
+	arching necks of eighty-foot BRACHIOSAURS.
+
+	With the mist from the river and the play of light, we're
+
+	witnessing a kind of primal Eden.
+
+				GRANT (cont'd)
+
+		How's a boy suppose to resist this?
+
+100	EXT. FURTHER DOWNSTREAM - NIGHT				100
+
+	A FULL MOON passes behind clouds. THUNDER quietly rumbles, and
+
+	LIGHTNING flickers in the distance.
+
+	Paul is still at the wheel. The river is narrower here, and
+
+	cautions must be taken to avoid the banks.
+
+	As the barge begins to round another bend. a FAMILIAR HIGH-
+
+	PITCHED SOUND pierces the darkness. Muffled but unmistakable,
+
+	it is the RINGING SAT-PHONE.
+
+	All exchange looks of sheer PANIC, expecting Spinosaurus to
+
+	leap out at any moment. Grant scans the river banks.
+
+				GRANT
+
+		Keep quiet.
+
+	Paul cuts the motor, and time seems to stop as the four stand
+
+	posed for action.
+
+	The barge finishes rounding the curve, and the ringing grows
+
+	LOUDER. The suspense is excruciating until finally...
+
+	Their eyes widen at some horrifying sight, more horrifying
+
+	than anything they've yet seen.
+
+	SEVEN MOUNDS OF DINOSAUR DUNG sit on the patch off treeless flat
+
+	ground just beyond the river bank.
+
+	As our friends consider the sight, an idea comes to them all of them
+
+	almost simultaneously.
+
+	With Eric still in the boat, Amanda, Paul, and Alan jump into
+
+	the river and rush to the bank.
+
+101	EXT. RIVER BANK - CONTINUOUS - NIGHT				101
+
+	The three companions sprint towards the source of the RINGING.
+
+				GRANT
+
+		Find it before it stops ringing!
+
+	And bracing themselves and hocking their breath, they PLUNGE
+
+	their arms into their respective dung-heaps. After a few
+
+	moments of this disgusting search...
+
+				PAUL
+
+		I've got something. I think I've got
+
+		something!
+
+	All turn to Paul. Clearing away the clinging defecation, he
+
+	holds up to a beeper. And still the phone RINGS.
+
+	Returning to their bleak task, they shovel the excrement with
+
+	their arms. Finally:
+
+				AMANDA
+
+		I've got it! I've got it!
+
+	Grant snatches the RINGING SAT-PHONE from Amanda's hands,
+
+	presses a button, and puts it to his ear.
+
+				RECORDED VOICE (ON PHONE)
+
+		You too can own a time share in beautiful
+
+		Guadalajara. Enjoy a meal in one of our four
+
+		star restaurants, explore our coral reefs, or
+
+		just walk on the beach...
+
+	The Kirbys hear the recorded voice and let out a collective,
+
+	heavy sigh. Grant shuts off the phone.
+
+	In all the excitement, none of them notice a fierce horned
+
+	CARNOTAUR right behind them. The giant creature ROARS, ready
+
+	to eat them.
+
+	But as it gets in close, it smells them. Even a dinosaur won't
+
+	eat something that is covered in shit. After a beat, the
+
+	Carnotaur turns and walks away, back into the jungle.
+
+				PAUL
+
+		Can't help but be a little offended.
+
+102	EXT. BACK ON THE BARGE - NIGHT					102
+
+	CLOSE ON the cleaned satellite phone's display. The battery
+
+	level indicator is FLASHING.
+
+				PAUL
+
+		Whatever you do, don't call the U.S. Embassy.
+
+		They won't do a God Damn thing.
+
+				GRANT
+
+		Well, we don't exactly have a Costa Rican
+
+		phone book here, so it will have to be
+
+		somebody we know in the states. Someone we
+
+		can absolutely count on to send help.
+
+				PAUL
+
+			(to Amanda)
+
+		Stan.
+
+				AMANDA
+
+		I wouldn't trust Stan with a snowball in a
+
+		blizzard.
+
+	Paul glares at her. Now Eric notices something odd in the
+
+	river.
+
+				ERIC
+
+		What's that?
+
+	The others look down in the murky water. Just below the
+
+	surface,
+
+	A SHIMMERING WAVE OF SILVER
+
+	passes beneath the boat.
+
+	Then a SINGLE FISH jumps from the water. And another. And
+
+	another.
+
+				GRANT
+
+		Bonitas.
+
+				ERIC
+
+		Something must've scared them.
+
+	Another roll of THUNDER, this time much closer.
+
+				GRANT
+
+		Get the motor going.
+
+	Paul moves the motor and pulls the start cord. The engine
+
+	sputters but won't come to life.
+
+	And now the phone BEEPS. The battery is getting even weaker.
+
+	Grant makes a quick decision and DIALS.
+
+				AMANDA
+
+		Who are you calling?
+
+	But Grant ignores the question. RING. RING.
+
+				GRANT
+
+		Pick up! Pick up!
+
+103	INT. ELLIE'S LIVING ROOM - NIGHT				103
+
+	Wearing his jammies, three-year old Charlie awkwardly picks up
+
+	the phone with both hands. He has the mouthpiece next to his
+
+	lips, but the earpiece is hanging out in space.
+
+				CHARLIE
+
+		Hewwo?
+
+	INTERCUT
+
+	Recognizing who it must be...
+
+				GRANT
+
+		Charlie? Charlie. Get your mother. Right
+
+		away!
+
+	A long silence. Charlie bites his lip, looks around.
+
+				GRANT (CONT'D)
+
+		Charlie? Are you there?
+
+				CHARLIE
+
+		Hewwo?
+
+	The sat-phone BEEPS again, this time much LOUDER.
+
+	Amanda and Eric watch Grant, realizing their fate may hang on
+
+	this single call. Paul struggles without success to start the
+
+	motor.
+
+	Then, unseen by the group, a
+
+	GIGANTIC FIN
+
+	rises from the water just fifty yards from the barge. It's
+
+	headed right to them and closing fast.
+
+				GRANT
+
+			(desperate)
+
+		Charlie! It's the dinosaur man! Go get
+
+		mommy, okay?
+
+				CHARLIE
+
+		Okay.
+
+	Not sure what to do with the phone, Charlie makes a logical
+
+	choice and hangs it back up.
+
+	He walks away to his mom.
+
+104	EXT. BARGE - NIGHT [END INTERCUTTING]			104
+
+	Grant realizes he's been cut off. He's about to redial when
+
+	WHAM!
+
+	The barge is RAMMED, sending everyone tumbling. Grant manages
+
+	to stay on top of the wheelhouse, but he loses grip on the
+
+	phone, which falls on deck.
+
+	SPINOSAURUS
+
+	rises from the water, towering over the barge. As lightning
+
+	FLASHES and thunder CRACKS, the dinosaur lets out an ear-
+
+	splitting ROAR.
+
+	It lunges at Grant with gaping jaws. Grant leaps out of
+
+	the way just in time as the dinosaur
+
+	RIPS OFF
+
+	the entire wheelhouse.
+
+							            CUT TO:
+
+105	INT. ELLIE'S LIVING ROOM - NIGHT				105
+
+	Charlie leads Ellie into the room. Hands her the phone. Of
+
+	course, it's just a DIAL TONE.
+
+				ELLIE
+
+		Was somebody on the phone?
+
+				CHARLIE
+
+		Dinosaur man.
+
+	Ellie looks at him with confusion, then quickly checks the
+
+	Caller ID box besides the phone. It's international, and not a
+
+	number she recognizes.
+
+							          BACK TO:
+
+106	EXT. THE BARGE - NIGHT						106
+
+	Grant stays one step ahead of the Spinosaurus as the beast rips
+
+	apart the quickly-sinking boat.
+
+	It spits out the wheelhouse and bites down on the stern of the
+
+	boat, ripping off a chunk.
+
+	Grant is heading up to the other three when he hears the sat-
+
+	phone RING.  He spots it, just about to fall into the water.
+
+	Dives for it, answering...
+
+				GRANT
+
+		ELLIE!
+
+106A	INT. ELLIES LIVING ROOM - NIGHT					106A
+
+				ELLIE
+
+		Alan?
+
+	She can hear the Spinosaurus ROAR.
+
+				ELLIE (CONT'D)
+
+		Alan? Alan!
+
+	But he's cut off by a SECOND ROAR, the sound of someone
+
+	SCREAMING.
+
+	And then the line goes dead.
+
+	Ellie pales. Charlie looks at her with a smile.
+
+				CHARLIE
+
+			(imitating)
+
+		Raaaar!
+
+106B	EXT. BACK ON THE BARGE - NIGHT					106B
+
+	Dropping the dead phone, Grant scrambles towards the front of
+
+	the boat and joins Paul, Amanda and Eric, who have taken refuge
+
+	in the dinosaur cage.
+
+	The fearsome beast now lifts the stern of the boat clear out of
+
+	the water.
+
+	The cage SCRAPES across the deck and SLAMS into the gunwale,
+
+	toppling off the barge and
+
+	INTO THE RIVER.
+
+	Grant and the Kirbys are still inside.
+
+107	EXT. THE RIVER - UNDERWATER - NIGHT				107
+
+	The cage sinks. The closest to the door, Paul manages to get out.
+
+	The other three aren't as lucky. The cage rotates as it descends
+
+	and lands on the river bottom with the door side down, trapping
+
+	them inside.
+
+	In the cold murky depths, they pull frantically on the bars.
+
+	Debris and equipment float around them.
+
+	Paul surfaces out of the breath and disoriented. Spinosaurus
+
+	pushes past the boat. If anyone is going to save his family, it
+
+	has to be him.
+
+	And so he dives.
+
+	Pushing with all his might, he manages to tip the heavy
+
+	structure, just enough so Amanda, Eric and Grant can get out.
+
+	Paul himself isn't so lucky.
+
+	Spinosaurus grabs the cage and Paul, throwing both straight up
+
+	out of the water. Paul flies twenty feet away, further from the
+
+	shore.
+
+				AMANDA
+
+		PAUL!
+
+				ERIC
+
+		DAD!
+
+	Spinosaurus is going after the heroic Mr. Kirby, who dives,
+
+	swimming underwater. He's trying to lead it away from his
+
+	family.
+
+				GRANT
+
+			(looking around)
+
+		Up! Up!
+
+	He points to a heavy crane assembly, designed for lifting cages
+
+	off the large boats. Now well accustomed to fleeing on
+
+	command, Amanda sends Eric up first, climbing the scaffolding
+
+	like a jungle gym.
+
+	All the while, they're trying to spot Paul.
+
+	Grant is the last to climb, reaching the first section as
+
+	Spinosaurus returns from the water, SLAMMING into the base of
+
+	the crane. The whole assembly SHUDDERS, threatening to rip into
+
+	the water.
+
+				ERIC
+
+		Where's Dad?
+
+				AMANDA
+
+		Just hold on.
+
+	Try as it might, the beast can't climb the crane. So instead it
+
+	RAMS it, SHAKES it, trying to knock them off. Eric slips, but
+
+	Amanda catches him.
+
+	About to shed his bag to climb higher, Grant finds one last
+
+	hope. It's the resonation chamber model. A beat before he
+
+	decides: It may not be the best choice, but it's the only choice.
+
+	He blows through it, the same EERIE PITCH we heard before. On
+
+	the third try, he's able to approximate the "egg" cry he heard
+
+	the raptors give. He keeps it up, repeating over and over.
+
+	Spinosaurus stops for a beat, confused How this sound could be
+
+	coming from a non-raptor. But then keeps SMASHING.
+
+	We can hear the mounting bolts STRAIN. Soon the whole crane
+
+	will tip.
+
+	But not before a MATCHING CRY is heard in the jungle. Grant
+
+	stops, not certain he heard it. But there it is AGAIN.
+
+	He keeps blowing.
+
+	The crane is close to tipping when a single RAPTOR appears
+
+	from the darkness, CHIRP-BARKING at the Spinosaur, who simply
+
+	bats away.
+
+	But then MORE RAPTORS come. And even MORE. Soon there are
+
+	dozens gathering, circling.
+
+	Grant stops signaling. All three survivors watch with
+
+	horrified fascination, knowing their fate is perilous no matter
+
+	which side wins.
+
+	Looking at his adversaries, Spinosaurus ROARS. And suddenly
+
+	the raptors attack.
+
+	Spinosaurus easily handles the first few, but like ants they
+
+	just keep coming. They climb up his back, slicing, into him with
+
+	their razor-sharp claws.
+
+				GRANT
+
+		Jump! Swim for the far shore!
+
+	All three drop from the crane arm into the water.
+
+	Meanwhile, the fight continues. Spinosaurus rallies, shaking
+
+	off many of the raptors, but they just keep coming. Their
+
+	hooked claws dig in, scraping the meat to the bone.
+
+	Spinosaurus puts up a brave fight to the end, but finally
+
+	collapses, dead. The raptors continue to shred it to ribbons.
+
+	Then one of the raptors looks over to see the survivors
+
+	swimming away.
+
+	But a bird in the hand is worth two in the bush. It goes back to
+
+	its meal.
+
+107A	EXT. FAR SHORE - NIGHT						107A
+
+	Grant is trying to move them along. still headed downstream.
+
+	But Eric won't budge another foot.
+
+				ERIC
+
+		We have to keep looking for Dad. We have to.
+
+				AMANDA
+
+		I know. I know. I want to look for him too.
+
+				ERIC
+
+		then we should...
+
+	She kneels down, facing him. She's just as upset as he is, but
+
+	motherhood carries the burden of remaining calm.
+
+				AMANDA
+
+		Let me tell you a few things about you Dad,
+
+		okay? He's very very very clever, very very brave,
+
+		and he loves you ever very much.
+
+				ERIC
+
+		He loves you too.
+
+				AMANDA
+
+		Okay. He loves us very very much. And I know
+
+		that right now more than anything, your Dad
+
+		would want to know that we're safe. Okay?
+
+	Eric nods.
+
+				AMANDA (CONT'D)
+
+		We're going to get out of this, and
+
+		everything's going to be all right, I promise.
+
+				A VOICE
+
+		Listen to your mother.
+
+	Out of the darkness steps Paul Kirby. Amanda is knocked over
+
+	with surprise. Eric runs to him, nearly tackling him.
+
+				PAUL
+
+		Good thing I've been swimming, huh?
+
+	Amanda hugs him and Eric so tightly they can't breath.
+
+									CROSSFADE TO:
+
+108-109	OMIT								108-109
+
+110	EXT. BEACH - DAY							110
+
+	The foursome sit back on the wide beach, one facing
+
+	each direction, keeping watch. A light rain is falling, but they
+
+	don't seem to notice.
+
+	Trying to keep his boy's spirit up...
+
+				PAUL
+
+		You remember when we went fishing last
+
+		summer? And I was trying to put the boat in
+
+		and the trailer sank? And then the tow truck
+
+		came and tried to pull it out, but it got
+
+		dragged in? And the truck driver threatened
+
+		to knock your Dad's lights out? So I said I
+
+		was the governor and he believed me?
+
+	Eric really smiles, remembering the day.
+
+				ERIC
+
+		Yeah.
+
+	Amanda is smiling too. She had completely forgotten the
+
+	incident.
+
+				PAUL
+
+		That was a fun day.
+
+	To Paul, after some consideration....
+
+				AMANDA
+
+		We should try fishing again.
+
+				PAUL
+
+		You mean it?
+
+				AMANDA
+
+		I do. It's worth another shot. And who knows?
+
+		Things might turn out differently.
+
+	Her hand takes his, gently brushing off the wet sand, fingertips
+
+	touching. It's a small thing, but it's a start.
+
+	Sensing his cue to leave, Grant gets up and starts walking down
+
+	the beach. Eric hurries to follow him. He speaks
+
+	conspiratorially, not wanting to alarm his parents.
+
+				ERIC
+
+		The lady you called, how do you know she can
+
+		help us?
+
+				GRANT
+
+		She's the one person I could always count on.
+
+		And she's saved me more times than she
+
+		realizes. I owe her everything.
+
+	A long beat as they walk.
+
+				GRANT (CONT'D)
+
+		It's strikes me now I never told her that.
+
+				ERIC
+
+		You should.
+
+				GRANT
+
+		You're right.
+
+	As they keep walking, Grant notices something rammed against
+
+	the rocks ahead. It's a speedboat, its hull ripped open from the
+
+	impact.
+
+	And it's not just any boat either -- it's the same Dino-Soar
+
+	boat that was pulling the parasail. Eric hasnt seen it yet, so
+
+	Grant stops him.
+
+				GRANT (CONT'D)
+
+		Eric, do you know what happened to the boat?
+
+		that brought you here? Why did it crash?
+
+				ERIC
+
+		No. I couldn't see.
+
+				GRANT
+
+		Do me a favor. Go back to your parents for a
+
+		minute, would you?
+
+			(pre-empting objections)
+
+		They look worried.
+
+	Eric nods and heads back to Paul and Amanda. Grant forges on,
+
+	approaching the speedboat wreckage. He doesn't know what he'll
+
+	find, but he needs to look.
+
+	Almost reaching his parents, Eric stops. Looks out over the
+
+	ocean, where he sees
+
+	TWO LIGHTS.
+
+	He doesn't say anything for a moment, trying to make sure
+
+	they're real. They are. And they're coming closer.
+
+				ERIC
+
+			(excited)
+
+		Mom! Dad!
+
+	They look up to see the distant lights, just now making out
+
+	full forms...
+
+				PAUL
+
+		Helicopters. Helicopters!
+
+	He SHOUTS with joy. Paul, Amanda and Eric wave their arms,
+
+	making as much motion as possible. The helicopters -- big
+
+	military choppers -- change direction, heading straight for
+
+	them.
+
+	Paul and Amanda embrace, then kiss, the moment getting the best
+
+	of them
+
+	AT THE SPEEDBOAT
+
+	Grant looks in, prepared to see anything in the wreckage. But
+
+	the cabin is surprisingly intact, just a little blood. There are
+
+	three gashes on the driver's seat back. Grant measures their
+
+	spacing with his fingers.
+
+				ERIC
+
+			(yelling over)
+
+		Dr. Grant! Helicopters are coming!
+
+	Grant looks down to the wet sand around him, finding a trail of
+
+	three-toed tracks.
+
+				ERIC (CONT'D)
+
+		We're safe!
+
+				GRANT
+
+			(to himself)
+
+		No we're not.
+
+	THE FIRST CHOPPER.
+
+	flies right overhead. Paul and Amanda are confused, until the
+
+	second helicopter starts to land -- the first on is there to 
+
+	cover them.
+
+	Grant YELLS at the first chopper, trying to wave it away. But
+
+	the noise of the blades is DEAFENDING.
+
+				GRANT (CONT'D)
+
+		NO! STAY BACK! THEY'RE IN THE TREES!
+
+	At the treeline, the upper branches are shaking. At first, it
+
+	looks like it's just the wind off the chopper, but
+
+	something more is happening.
+
+	A PTERANODON
+
+	flies up out of the trees, the first of twenty. It's a gorgeous
+
+	and terrifying sight.
+
+110A	INT. FIRST CHOPPER - DAWN					110A
+
+	Terrified, the Costa Rican CHOPPER PILOT veers away, but the
+
+	pteranodons are already on him. They SMASH at the windows,
+
+	grabbing on the skids, The chopper rolls wildly.
+
+	One over-eager pteranodon sticks his head up to high, getting
+
+	decapitated by the blade.
+
+110B	EXT. BEACH - DAWN							110B
+
+	As the second chopper touches down on the beach, Eric, Amanda
+
+	and Paul load in. Grant is running their way.
+
+110C	EXT. BY THE TREES - DAWN						110C
+
+	Meanwhile, the first copper is losing the battle even as it
+
+	climbs higher. The helicopter suddenly tips, falling, SMASHING
+
+	into the trees with a massive fireball.
+
+110D	INT. SECOND CHOPPER - DAWN					110D
+
+	Seeing the explosion, the SECOND CHOPPER PILOT takes off. Eric,
+
+	Amanda and Paul are on board, but Grant is still running up.
+
+	The helicopter passes right over him.
+
+				AMANDA
+
+			(to the pilot)
+
+		You have to go back! We can't leave him!
+
+	Seeing a ladder release by the door, Paul throws the lever. A cord-
+
+	and-steel-ladder unfurls, dragging across the sand.
+
+110E	EXT. THE BEACH - DAWN					   110E
+
+	Grant chases after us, catching a rung just as it goes over the
+
+	water. Behind him, pteranodons are circling the wreckage of
+
+	the first chopper and starting to go after the second.
+
+	Buffeted by the wind, Grant climbs the ladder up towards the
+
+	chopper. A pteranodon flies up right behind him, trying to
+
+	bite. It catches Grant's shoulder.
+
+	Grant spins to the far side of the ladder. The pteranodon goes
+
+	to bite him again, but finds it head caught between the rungs.
+
+	As it tries to free itself, it just gets more entangled.
+
+	The entire ladder starts to lift, caught by the updraft from the
+
+	creatures wings.
+
+110F	INT. SECOND CHOPPER - DAWN					110F
+
+	Up with the pilot, Amanda sees the other pteranodons are headed
+
+	back to the island, unable to keep up.
+
+				AMANDA
+
+		They're not following.
+
+	In back, Paul and Eric get the ladder mechanism to begin to
+
+	retract. It reels Grant in faster. It also reels in the
+
+	pteranodon, which may be caught, but is still plenty dangerous.
+
+	As Grant reaches the cabin, they shut off the ladder engine.
+
+	The pteranodon is still working its way free, pulling itself closer
+
+	and closer.
+
+				GRANT
+
+			(shouting over the noise)
+
+		We have to cut it! Find something sharp!
+
+	Everyone checking the cabin for a knife, anything sharp.
+
+	Finally, Eric hands Grant the raptor claw.
+
+	Grant uses it to rip the line. The fibers break and fray, but
+
+	the pteranodon keeps coming closer.
+
+	Paul throws a wrench at the pteranodon, WHACKING it straight
+
+	in the head. It felt good, and damn if it didn't slow it down a
+
+	little.
+
+	Grant has cut through the cord. He started on the second when
+
+	the pteranodon SNAPS at him, going for his hand. There's
+
+	nowhere for Grant to cut without the pteranodon getting him.
+
+	And idea, Grant very deliberately places in his hand on the line,
+
+	pulling away at the last moment. The pteranodon itself bites
+
+	through the line.
+
+110G	EXT. OCEAN - DAWN							110G
+
+	The pteranodon falls away from the helicopter, catching wind
+
+	just before it hits the water.
+
+	It circles and flies back to Isla Sorna.
+
+	As horrifying as the creature was a moment ago, it's suddenly
+
+	beautiful again. Each motion of its giant wings is a small
+
+	symphony.
+
+110H	INT. COPPER / FLYING - DAWN					110H
+
+	Sitting between his parents, Eric looks back at the island in
+
+	the distance.
+
+				ERIC
+
+		What do you think is going to happen with the
+
+		dinosaurs?
+
+				GRANT
+
+		The population will Stabilize eventually.
+
+		They'll adapt to fit different roles.
+
+	ON PAUL AND AMANDA
+
+				PAUL
+
+		Either that, or the government will firebomb
+
+		it back to the Stone Age.
+
+				AMANDA
+
+		I would completely support that.
+
+	ON ERIC AND GRANT
+
+	looking back at the island.
+
+				ERIC
+
+		I hope they don't. I want to come back
+
+		someday.
+
+	And Dr. Grant realizes...
+
+				GRANT
+
+		So do I.
+
+EXT. OCEAN  DAWN
+
+The helicopter flies away across the ocean, leaving the island behind.
+
+				   THE END
+
