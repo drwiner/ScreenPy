@@ -194,7 +194,7 @@ def seg_to_json(seg, i):
 
 if __name__ == '__main__':
 
-	RELOAD = 0
+	RELOAD = 1
 	screenplay = 'indianajonesandtheraidersofthelostark.txt'
 	if RELOAD:
 		heads = []
