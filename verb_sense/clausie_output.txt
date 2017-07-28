@@ -1,0 +1,73 @@
+# CLAUSE DETECTION
+#   Dict. copular        : 25 (be, prove, sound, ...)
+#   Dict. ext-copular    : 31 (love, be, prove, ...)
+#   Dict. not ext.-cop.  : 2 (die, walk)
+#   Dict. complex trans. : 15 (set, lay, bring, ...)
+#   Dict. ignored adverb : 6 (as, thus, even, ...)
+#   Dict. included adverb: 5 (seldom, barely, scarcely, ...)
+#   Dict. conj adverbs   : 0
+#   Conservative SVA     : false
+#   Conservative SVOA    : true
+#   Process all verb CCs : true
+#   Process non-verb CCs : false
+#   Process appositions  : true
+#   Process possessives  : true
+#   Process partmods     : true
+# 
+# REPRESENTATION
+#   n-ary propositions  : false
+#   Min. opt. args      : 0
+#   Max. opt. args      : 1
+#   Lemmatize           : true
+#   Appositions verb    : "is"
+#   Possessive verb     : "has"
+# Line 1: He lowers the torch to the floor of the landing.
+# Semantic graph: [lowers/VBZ
+#                  nsubj:He/PRP
+#                  dobj:[torch/NN det:the/DT]
+#                  prep:[to/TO
+#                        pobj:[floor/NN det:the/DT prep:[of/IN pobj:[landing/NN det:the/DT]]]]]
+#   Detected 1 clause(s).
+#   - SVOA (V: lowers@2, S: He@1, O: torch@4, A!: to@5)
+He lowers the torch to the floor of the landing.
+1	"he"	"lower"	"the torch to the floor of the landing"	-61.04556655883789
+# Line 2: The landing is carpeted with human skeletons, one on top of another, all squashed flat as cardboard.
+# Semantic graph: [carpeted/VBN
+#                  nsubj:[landing/NN det:The/DT]
+#                  aux:is/VBZ
+#                  prep:[with/IN pobj:[skeletons/NNS amod:human/JJ]]
+#                  dep:[one/CD prep:[on/IN pobj:[top/NN prep:[of/IN pobj:another/DT]]]]
+#                  dep:[flat/JJ dep:all/DT amod:squashed/JJ prep:[as/IN pobj:cardboard/NN]]]
+#   Detected 1 clause(s).
+#   - SV (V: carpeted@4, S: landing@2, A?: with@5)
+The landing is carpeted with human skeletons, one on top of another, all squashed flat as cardboard.
+2	"the landing"	"be carpet"	"with human skeleton"	-147.8984832763672
+2	"the landing"	"be carpet"	-147.8984832763672
+# Line 3: Satipo gasps.
+# Semantic graph: [gasps/VBZ nsubj:Satipo/NNP]
+#   Detected 1 clause(s).
+#   - SV (V: gasps@2, S: Satipo@1)
+Satipo gasps.
+3	"Satipo"	"gasp"	-30.85050392150879
+# Line 4: Indy looks up at the ceiling of the landing, then steps onto skeletons, which make a cracking noise under his feet.
+# Semantic graph: [looks/VBZ
+#                  advmod:Indy/RB
+#                  prt:up/RP
+#                  prep:[at/IN
+#                        pobj:[ceiling/NN det:the/DT prep:[of/IN pobj:[landing/NN det:the/DT]]]
+#                        advmod:then/RB]
+#                  nsubj:[steps/NNS
+#                         prep:[onto/IN pobj:skeletons/NNS]
+#                         rcmod:[make/VBP
+#                                nsubj:which/WDT
+#                                dobj:[noise/NN det:a/DT amod:cracking/JJ]
+#                                prep:[under/IN pobj:[feet/NNS poss:his/PRP$]]]]]
+#   Detected 3 clause(s).
+#   - SVA (V: looks@2, S: steps@12, A?: Indy@1, A!: at@4)
+#   - SVOA (V: make@17, S: steps@12, O: noise@20, A!: under@21)
+#   - SVO (S: his@22, V: "has", O: feet@23)
+Indy looks up at the ceiling of the landing, then steps onto skeletons, which make a cracking noise under his feet.
+4	"step onto skeleton"	"look up"	"at the ceiling of the landing then indy"	-169.88446044921875
+4	"step onto skeleton"	"look up"	"at the ceiling of the landing then"	-169.88446044921875
+4	"step onto skeleton"	"make"	"a cracking noise under he foot"	-169.88446044921875
+4	"he"	"has"	"foot"	-169.88446044921875
