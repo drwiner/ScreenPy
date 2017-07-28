@@ -187,5 +187,5 @@ if __name__ == '__main__':
 	with open('verb_sense_output.txt', 'w') as vso:
 		for act_sense in action_senses:
 			vso.write(str(act_sense))
-			vso.write('\n')
+			vso.write('\n\n')
 	print(action_senses)
