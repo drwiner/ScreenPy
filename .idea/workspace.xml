@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b273f41-4b72-4e91-90f0-689e5266b959" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" afterPath="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parsing_stats.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="screenpile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/screenpile.py">
+      <file leaf-file-name="screenpy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screenpy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="228" column="85" lean-forward="true" selection-start-line="228" selection-start-column="85" selection-end-line="228" selection-end-column="85" />
+            <state relative-caret-position="128">
+              <caret line="144" column="28" lean-forward="false" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -33,18 +34,8 @@
       <file leaf-file-name="segment_instance_extraction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/segment_instance_extraction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="indianajonesandtheraidersofthelostark.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            <state relative-caret-position="839">
+              <caret line="58" column="55" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="58" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -62,17 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clockdeco.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clockdeco.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="verb_sense_output.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="verb_sense_output.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/verb_sense/verb_sense_output.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -82,48 +63,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dep_conll_api.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/verb_sense/dep_conll_api.py">
+      <file leaf-file-name="indianajonesandtheraidersofthelostark.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="semafor_api.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/verb_sense/semafor_api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-65">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wordnet.py" pinned="false" current-in-tab="false">
-        <entry file="file://D:/Python/Lib/site-packages/nltk/corpus/reader/wordnet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="1245" column="0" lean-forward="false" selection-start-line="1245" selection-start-column="0" selection-end-line="1245" selection-end-column="0" />
+            <state relative-caret-position="-836">
+              <caret line="7068" column="19" lean-forward="false" selection-start-line="7068" selection-start-column="15" selection-end-line="7068" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clausie_api.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/verb_sense/clausie_api.py">
+      <file leaf-file-name="indianajonesandtheraidersofthelostark.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1793">
-              <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+            <state relative-caret-position="-3869">
+              <caret line="328" column="634" lean-forward="true" selection-start-line="328" selection-start-column="634" selection-end-line="328" selection-end-column="634" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moviescript_crawler.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moviescript_crawler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="screenpy_vars.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/screenpy_vars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parsing_stats.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/parsing_stats.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1102">
+              <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
               <folding>
-                <element signature="e#0#34#0" expanded="true" />
+                <element signature="e#106#128#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="genre_stats.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/genre_stats.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -139,14 +136,11 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>in_lines</find>
-      <find>spaces</find>
       <find>-</find>
       <find>title</find>
       <find>as_json</find>
       <find>direction</find>
       <find>.__dict__</find>
-      <find>transition</find>
       <find>raw_text</find>
       <find>sub</find>
       <find>extract_headings</find>
@@ -161,14 +155,17 @@
       <find>shot</find>
       <find>subject</find>
       <find>subj</find>
-      <find>heading</find>
-      <find>INT</find>
-      <find>INT.</find>
       <find>&quot;subj</find>
       <find>&quot;sub</find>
       <find>Tanis Digs</find>
       <find>corenlp</find>
       <find>corefs</find>
+      <find>INT</find>
+      <find>check_hardcode</find>
+      <find>INT.</find>
+      <find>transition</find>
+      <find>heading</find>
+      <find>tramsotopm</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,6 +184,7 @@
         <option value="$PROJECT_DIR$/screenpile.py" />
         <option value="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" />
         <option value="$PROJECT_DIR$/verb_sense/verb_sense_output.txt" />
+        <option value="$PROJECT_DIR$/parsing_stats.py" />
       </list>
     </option>
   </component>
@@ -244,20 +242,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScreenPy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ScreenPy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="verb_sense" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -287,24 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.verb-sense-disambig">
-    <configuration default="false" name="screenpy" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ScreenPy" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/screenpy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.parsing_stats">
     <configuration default="false" name="screenpile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,6 +336,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ScreenPy" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="parsing_stats" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ScreenPy" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parsing_stats.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -508,19 +492,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.screenpy" />
-      <item index="1" class="java.lang.String" itemvalue="Python.screenpile" />
-      <item index="2" class="java.lang.String" itemvalue="Python.moviescript_crawler" />
-      <item index="3" class="java.lang.String" itemvalue="Python.segment_instance_extraction" />
-      <item index="4" class="java.lang.String" itemvalue="Python.verb-sense-disambig" />
+      <item index="0" class="java.lang.String" itemvalue="Python.screenpile" />
+      <item index="1" class="java.lang.String" itemvalue="Python.moviescript_crawler" />
+      <item index="2" class="java.lang.String" itemvalue="Python.segment_instance_extraction" />
+      <item index="3" class="java.lang.String" itemvalue="Python.verb-sense-disambig" />
+      <item index="4" class="java.lang.String" itemvalue="Python.parsing_stats" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.verb-sense-disambig" />
-        <item index="1" class="java.lang.String" itemvalue="Python.screenpile" />
-        <item index="2" class="java.lang.String" itemvalue="Python.segment_instance_extraction" />
-        <item index="3" class="java.lang.String" itemvalue="Python.moviescript_crawler" />
-        <item index="4" class="java.lang.String" itemvalue="Python.screenpy" />
+        <item index="0" class="java.lang.String" itemvalue="Python.parsing_stats" />
+        <item index="1" class="java.lang.String" itemvalue="Python.verb-sense-disambig" />
+        <item index="2" class="java.lang.String" itemvalue="Python.screenpile" />
+        <item index="3" class="java.lang.String" itemvalue="Python.segment_instance_extraction" />
+        <item index="4" class="java.lang.String" itemvalue="Python.moviescript_crawler" />
       </list>
     </recent_temporary>
   </component>
@@ -541,7 +525,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.49118683" order="0" side_tool="false" content_ui="combo" />
@@ -549,7 +533,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265625" sideWeight="0.113081165" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33783785" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41698545" sideWeight="0.88691884" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3488906" sideWeight="0.88691884" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11938534" sideWeight="0.50881314" order="2" side_tool="true" content_ui="tabs" />
@@ -641,13 +625,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="167" />
+      <option name="time" value="168" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IJ_in_lines.txt" />
-    <entry file="file://$PROJECT_DIR$/IJ_speakers.txt" />
     <entry file="file://D:/Python/Lib/site-packages/colorama/ansitowin32.py" />
     <entry file="file://D:/Python/Lib/site-packages/IPython/core/interactiveshell.py" />
     <entry file="file://D:/Python/Lib/codecs.py" />
@@ -737,13 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12291">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moviescript_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -866,50 +841,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3128">
-          <caret line="4766" column="45" lean-forward="false" selection-start-line="4766" selection-start-column="34" selection-end-line="4766" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenpy_vars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="848">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4558">
-          <caret line="199" column="81" lean-forward="false" selection-start-line="199" selection-start-column="81" selection-end-line="199" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#46#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/segment_instance_extraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/screenpile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1075">
           <caret line="228" column="85" lean-forward="true" selection-start-line="228" selection-start-column="85" selection-end-line="228" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -927,7 +862,7 @@
         <state relative-caret-position="-1793">
           <caret line="32" column="43" lean-forward="true" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -937,7 +872,7 @@
         <state relative-caret-position="432">
           <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -947,7 +882,7 @@
         <state relative-caret-position="-65">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -975,6 +910,72 @@
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="7068" column="19" lean-forward="false" selection-start-line="7068" selection-start-column="15" selection-end-line="7068" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenpy_vars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moviescript_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="97" column="29" lean-forward="false" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/segment_instance_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="58" column="55" lean-forward="false" selection-start-line="53" selection-start-column="4" selection-end-line="58" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3869">
+          <caret line="328" column="634" lean-forward="true" selection-start-line="328" selection-start-column="634" selection-end-line="328" selection-end-column="634" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="144" column="28" lean-forward="false" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genre_stats.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parsing_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="62" column="43" lean-forward="true" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <element signature="e#106#128#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
