@@ -1,6 +1,14 @@
 # ScreenPy
 Parse and annotate screenplays with markup language
 
+| File     | info |
+|--- | ---|
+|Screenpile | Main algorithms for compiling screenplay structure|
+|Screenpy | Parses shot headings with recursive descent |
+|moviescript_crawler | crawls through imsdb_raw_nov_2015 folder |
+|parsing_stats | outputs table (below) |
+
+
 Dependencies:
 ---
 
@@ -9,6 +17,14 @@ PyParsing  (http://pyparsing.wikispaces.com/) (for parsing shot heading grammar)
 
 
 sense2vec (spaCy) (https://github.com/explosion/sense2vec) (for temporal expression classification)
+
+
+Screenplay Structure
+---
+
+See the attached paper for more details (![Paper](https://www.github.com/drwiner/screenpy/INT17_screenplays.pdf)
+
+![Segmentation](https://www.github.com/drwiner/screenpy/scene_segs.png)
 
 
 IMSDb screenplay parsing
