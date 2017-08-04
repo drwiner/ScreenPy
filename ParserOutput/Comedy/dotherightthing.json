@@ -1,0 +1,765 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "FADE IN", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "EXT", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The CAMERA, FROM HIGH ABOVE, CRANES DOWN ON The Block.  T sidewalk is deserted, broken glass is everywhere, and it looks exactly as how one expects it to look, the morning after an uprising. The CAMERA NOW MOVES IN ON the WE LOVE storefront where Mister Senor Love Daddy is in his familiar place behind t mike."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISTER SENOR LOVE DADDY"
+            }, 
+            "text": "My people.  My people.  What can I say?  Say what I can.  I saw it but I didn't believe it.  I didn't believe it what I saw.  Are we gonna live together?  Together are we gonna live?  This is ya Mister Senor Love Daddy here on WE LOVE RADIO, 108 FM on your dial, and that's the truth, Ruth."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "CLOSE"
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "88."
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISTER SENOR LOVE DADDY"
+            }, 
+            "text": "Today's weather. (he yells) HOT!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "CLOSE"
+            }, 
+            "text": "He screams:"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISTER SENOR LOVE DADDY"
+            }, 
+            "text": "WAKE UP!"
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "INT", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie jumps out of her bed; Tina sleeps by his side and their son Hector is between them."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISTER SENOR LOVE DADDY (VO)"
+            }, 
+            "text": "WAKE UP!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Fuck!  My money!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "TINA"
+            }, 
+            "text": "Where are you going?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "To get my money."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "TINA"
+            }, 
+            "text": "Mookie, you must think I'm stupid or something.  You're gonna run outta here and I won't see your black ass for another week."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Tina, it's not like that."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie is putting on his clothes."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "TINA"
+            }, 
+            "text": "You don't care about me and you definately don't care 'bout your son."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Tina, I'll be right back."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "TINA"
+            }, 
+            "text": "Be a man."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "I am a man."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "89."
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "TINA"
+            }, 
+            "text": "Act like one then.  Be a man."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Later."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "TINA"
+            }, 
+            "text": "You're to the curb.  You better step off.  Get a life."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie leaves."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MOTHER SISTER'S BEDROOM--DAY", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Da Mayor wakes up in Mother Sister's big brass bed (she w born in it).  At first he has no idea where he's at, then sees Mother Sister sitting down across the room smiling a him."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOTHER SISTER"
+            }, 
+            "text": "Good morning."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DA MAYOR"
+            }, 
+            "text": "Is it a good morning?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOTHER SISTER"
+            }, 
+            "text": "Yes indeed.  You almost got yourself killed last night."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DA MAYOR"
+            }, 
+            "text": "I've done that before."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Da Mayor gets up out of her big brass bed."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DA MAYOR"
+            }, 
+            "text": "Where did you sleep?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOTHER SISTER"
+            }, 
+            "text": "I didn't."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DA MAYOR"
+            }, 
+            "text": "I hope the block is still standing."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOTHER SISTER"
+            }, 
+            "text": "We're still standing."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Da Mayor and Mother Sister both look out the parlor windo to see THE BLOCK and Mookie."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "EXT", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie walks up to Sal's Famous Pizzeria as it still smoulders in the morning light.  Sal emerges from the wreckage; he looks like he might have slept there."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "90."
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Whatdafuck do you want?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "I wants my money.  I wants to get paid."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Sal looks at Mookie in disbelief."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Mookie, I always liked you.  Not the smartest kid, but you're honest. Don't make me dislike you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Sal, I want my money."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Don't even ask about your money. Your money wouldn't even pay for that window you smashed."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Motherfuck a window, Radio Raheem is dead."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "You're right, a kid is dead, but Mook, this isn't the time."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Fuck dat.  The time is fuckin' now. Y'know I'm sorry 'bout Sal's Famous Pizzeria, but I gotta live, too. I gotta get paid."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "We both do."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "We all know you're gonna get over with the insurance money anyway! Ya know da deal."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Do we now?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Quit bullshitting."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "You don't know shit about shit."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "91."
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "I know I wants to get my money."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Sal has had it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "How much?  How much do I owe you?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "My salary.  Two-fifty."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Sal pulls out a wad and quickly peels off hundred dollar bills."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "One, two, three, four, five."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Sal throws the \"C\" notes at Mookie, they hit him in the chest and fall to the sidewalk."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Are you happy now?  That's five fucking hundred dollars.  You just got paid.  Mookie, you are a rich man, now ya life is set, you'll never have another worry, a care in the world.  Mookie, ya wealthy, a fuckin' Rockefeller."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie is stunned by Sal's outburst.  He picks up the bil"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Ya just got paid, so leave me the fuck alone."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "You only pay me two-fifty a week. (he throws two \"C\" notes back at him) I owe you fifty bucks."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Keep it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "You keep it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Christmas came early."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Both look at the two hundred-dollar bills on the sidewalk and refuse to pick them up.  It's a stalemate."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "92."
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "This is the hottest Christmas I've known."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie counts his money."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "It's supposed to be even hotter today."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "You gonna open up another Sal's Famous Pizzeria?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "No.  What are you gonna do?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Make dat money.  Get paid."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Yeah!...I'm goin' to the beach for the first day in fifteen years. Gonna take the day off and go to the beach."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "I can dig it.  It's gonna be HOT as a motherfucker."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Mookie?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "Gotta go."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "C'mere, Doctor."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie turns around and goes back."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Doctor, this is Sal talkin'."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "OK.  OK."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "Doctor, always try to do the right thing."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "That's it?"
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "93."
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SAL"
+            }, 
+            "text": "That's it."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mookie thinks about it, looks at the two \"C\" notes still smiling up at him.  He quickly scoops them up."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MOOKIE"
+            }, 
+            "text": "I got it."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "EXT", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "HIGH ANGLE"
+            }, 
+            "text": "As Mookie turns and walks away, Sal goes back into Sal's Famous Pizzeria to salvage what is salvageable, and The Block begins to awake from its slumber, ready to deal onc again with the heat of the hottest day of the year."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "FADE OUT."
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "ROLL CREDITS.", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "<!--Ad Banner function popupPage() { var windowopts = \"location=no,scrollbars=no,menubars=no,t popup77344 = open('/prohost/banner.html',\"MenuPopup\",wind popup77344.focus(); <b>} </b> popupPage(); //  Ad Banner-->"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }
+    ]
+]

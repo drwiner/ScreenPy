@@ -1,0 +1,57 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "STREET OUTSIDE HOUSE."
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "COLIN emerges onto the street... Closes the door behind him... We move in on his brave/sad face as he gazes up at the old, bluey, London sky, and says to Liz's spirit..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "COLIN"
+            }, 
+            "text": "(Humbled. Accepting.       Very quiet) Be lucky, Liz."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Slowly he begins to walk the wet street... Away from us.. Towards his new life..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "THE END", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }
+    ]
+]

@@ -1,0 +1,151 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "FADE IN", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "WATERFRONT WHARVES", 
+                "location": null, 
+                "terior": null, 
+                "ToD": "MORNING", 
+                "shot type": null
+            }, 
+            "text": "The Assistants sit on a big packing crate, brushing soot their suits, shaking dust out of their hair, fiddling wit the rips in their jackets and trousers."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }, 
+            "text": "We could go back to the office. Explain ourselves to the Chief Clerk."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }, 
+            "text": "They'd drive us away.  That Kafka's made things very hot for us."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }, 
+            "text": "I understand he was wounded in the lung."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }, 
+            "text": "(sulky) It doesn't matter.  It's too late for all of us."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }, 
+            "text": "(looks at O.) What's to become of us now?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Oskar has a long think."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }, 
+            "text": "(looks at L.) Amerika.  That's the place to go."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Ludwig jumps off the box and gapes at Oskar, tremendously impressed by this brainstorm."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }, 
+            "text": "Everyone in Amerika has a toaster in their building!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Oskar jumps down from the box."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }, 
+            "text": "Then that's the place for us!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }, 
+            "text": "Amerika for us!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }, 
+            "text": "Amerika!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "And, linking arms, they do a strange dance along the quay"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }
+    ]
+]

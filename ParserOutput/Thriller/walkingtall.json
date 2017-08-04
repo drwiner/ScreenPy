@@ -1,0 +1,5142 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "TOWN"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "He walks through a town, passing various stores and the g bustle of the people there. He notices a baby in a pram l out on the sidewalk, then sees the mother is in an alleyw what looks like a drug deal."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "LUMBER YARD"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris reads a closure notice on the door. A police car ro up."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "How ya doin'?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Ok. When'd the mill close?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Ahh 3 years this August. If ya lookin  for work you might wanna try Aberdeen,  that's the closest mill work you're  gonna find around here."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "That's too bad."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Nah just simple economics. Y'know we  have a really nice casino here, the  wild cherry. You wanna make some money  maybe you wanna go on down there and  try your luck at the blackjack tables."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Nah I don't think so. Thanks."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris turns around and the sheriff notices his name on a"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "You're Chris Vaughn?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The sheriff chuckles and steps out of the car."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Well hell, I know all about you Chris.  I know your folks, I'm sheriff Stan  Watkins."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They shake hands."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "How ya doin."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Ralston get outta the car, you're lookin  at a real soldier here pay some respect."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RALSTON"
+            }, 
+            "text": "Welcome home soldier."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Thanks."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Here Chris, (opens the back door) We'll  give ya a ride up to your folks."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Nah I'm fine thank you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "I insist."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'll walk."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Hey it's my pleasure."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "It's ok."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "I won't take no for an answer (jokingly  reaches for his gun). HEY! Get in the  car."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris raises his hands and the sheriff chuckles."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Did I scare ya with that one?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Lil bit."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Ya. Let's go."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE CAR"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "You were gone a while huh?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "8 years. Harstad was sheriff back then."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Harstad, yeah. Sad story. About 5 months  back he fell asleep at the wheel and  uhhh... hit a tree. Good man, good man  and a good sheriff."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "THE FAMILY HOME"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Thanks for the ride."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "No problem, and uh Chris (hands him  a piece of paper). It's election month...  I'm your man."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris takes the paper and smiles. He walks up the lane to the house, a simple white building clad in wood. A lady d in a police uniform comes out."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Can I help you?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris laughs."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Lil' brother.. You come over here and  gimme a hug."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They laugh together."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "You look great."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "What is this?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Hey, I couldn't let you be the only  one looking good in uniform. Hey ma!  Chris is here!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "What's with the tent? (points to a tent  set up on the lawn)."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Oh, that's for Pete."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "Look at you!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "How ya doin!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris hugs his mother, Connie. A man slowly emerges from front door."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "How long do we have ya for?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "For good. I'm home."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "Really? You're not kiddin."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "No."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They hug again."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Hey dad."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Welcome back."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "KITCHEN"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The family are eating takeaway."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "I wish you would have told me you were  coming I would've cooked."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "This is great."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "So what are you gonna do now that you're  home?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Well I was planning on working at the  mill, your letters never mentioned that  it was closed. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "We didn't wanna bother you with our  problems when your father got laid off."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "I got my business, you saw the furniture  outside."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "I substitute at the elementary school,  Michelle pitches in. We try to keep  things simple."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A kid walks in."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Pete! This is your Uncle Chris."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Hey Pete."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Sit down, say hello. Last time he saw  you you were barely walking."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "And now I'm camping."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "I said you could sleep on the couch.  It was Chris' room first."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Your tent's gonna take on water. I could  show ya how to rig it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Doesn't look like it's gonna rain to  me Colonel."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Pete, cmon sit down, have somethin to  eat."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "First of all I was a sergeant. I worked  for a living."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Did you ever smoke anybody?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "Pete!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Pete!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Y'know, Papa's still got your gun locked  up in the garage. Think you could teach  me how to shoot?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I figured that'd be scrap metal by now  dad."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "No, I'm still hoping that you'll melt  that thing down on your own."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Sorry Pete."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Whatever. I'm outta here Mom."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Okay, be back by ten."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Ten thirty (as he walks out)"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Ten!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Remind you of anyone?"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "BEDROOM"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "We can see from the window that it's raining heavily outs Chris sets about unpacking his things. Pete comes in look wet."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Ok it rained. Happy?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "No. Why dontcha crash on the floor?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Pete looks at him."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Ok, I'll crash on the floor, you crash  on the bed."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "uh uh. (starts walking out)"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Pete. (hands him a towel). Keep ya dry."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Did you really kill people?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris looks at him."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "OUTSIDE THE HOUSE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A crappy camper van rolls up. A man steps out."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Ray Ray! Ahaaa."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Hello puddin'."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They hug."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "How ya doin?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "I'm alright."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "What is that? (points to the van)"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "That's the lovemachine. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Girls actually get in there?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Ray shrugs."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "How ya been?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Good. Clean livin. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Wanna beer?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "No. Believe it or not I quit drinkin.  I'll take a soda though. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Here."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Thanks man."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Whoah. (spots a tattoo of a guitar on  Ray's arm)."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Ya like that? When you left town it  gave me the idea that I should do something  with my life too so uhh I went down  to Seattle, got a guitar and became  all about music. And then pretty soon  I was about music and drugs, n pretty  soon I was basically just about drugs.  Ended up doin 2 years for B+E."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'm sorry."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Nahh, look at me now though right? I  been clean and sober for 14 months,  doing construction and renewing those  supportive and healthy friendships from  my past. Matter of fact I talked to  the bastards, told em you were back  and they asked me to politely remind  you that kick off's in twenty minutes."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FOOTBALL FIELD"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A group of guys are there waiting, one of them holding a They salute as Chris walks up. They all laugh. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Playin ball?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "ALL"
+            }, 
+            "text": "Let's play ball!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "Ray go deep go deep! (as Ray runs off  he throws the ball into Ray's back)."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "(Spotting a sign that reads 'HAMILTON  FIELD') When did that happen?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "His parents hadn't left him the mill  more than 2 minutes before he shut it  down."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Why?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "a voice shouts 'HEADS UP' Chris catches a fast ball throw behind. Jay steps out of his vehicle."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Cause I opened my Casino."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Still got a gut huh Jay?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Still got your reflexes. What, you get  tired of being all that you can be?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'm still all I can be."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Really? I'll just have to see about  that. What brings you home?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I just wanna relax, catch my breath."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "You? Relax?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Another truck with a few guys on it pulls up"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Not today."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A football game ensues, there are two teams. Jay's guys v guys. On the sidelines Pete pulls up on a small motorcycl notices Pete hanging around with kids smoking. It comes d to the last play, the teams are huddled into two groups t"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "If we score here we win right?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Alright boys, last play. We need to  put this to rest."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Just give me the ball."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You got it. On the first hut!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Ok Vaughn, last chance."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris gets the ball and throws it. An opponent comes in h and tackles him low. He collapses. Ray runs for the ball gets clotheslined by Jay."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "That's game!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OPPONENT"
+            }, 
+            "text": "(to Chris) Sorry about that."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "That's cool man."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris Helps Ray onto his feet."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Welcome home."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Good to be back."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "See ya round. Hey, if you're not doing  anythin later on you could come by the  casino. I'll introduce ya to some nice  girls, drinks are on me. Whaddya say?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "See ya tonight."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Cool."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay speeds off in his car. Pete rolls up on his bike."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "Hey Sarge, good game. Maybe next time."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Hold up. Maybe next time I won't see  you with the bleachers smoking weed."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Welcome home buddy."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "OUTSIDE THE WILD CHERRY CASINO"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Don't you have to be native american  to own a casino?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "Oh Hamilton's one sixteenth black man  now. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 2"
+            }, 
+            "text": "Just so you guys know, I'm gonna triple  my money tonight."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 3"
+            }, 
+            "text": "Yea, like last time. Wound up selling  your body for bus fare. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 4"
+            }, 
+            "text": "He had to walk! "
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They all laugh."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Nobody's gonna have any problems finding  this place."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "It's the subtle attention to aesthetics  that I find most impressive, blends  in with the mountains SO nicely."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "WILD CHERRY CASINO"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The place is packed with gambling tables and attractive w"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND"
+            }, 
+            "text": "Not bad huh?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Not bad."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Isn't it wonderful? All your gambling  needs under one great big roof. You  got your ATM machine, tellers to cash  your paycheck, and when you're here  you don't gotta worry about those lil  things like child support, rent, the  laws of mathematical probability."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WORKER"
+            }, 
+            "text": "Gentlemen, Mr Hamilton would like to  invite you to the VIP lounge."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Oh, 'Mister' Hamilton."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "VIP LOUNGE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Heyyy, the dream team!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Nice place."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Yeah well. Welcome to my world. Look  tonight, all the drinks are on the house.  If you need a line of credit, say how  much. And if you need a lil female companionship...  done. Alright? Have a good time."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Where you goin?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Don't you worry about me, I've got a  few things to do. Enjoy."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Just remember, nothin in here's free.  C'mon, this place is nothin but fake  boobs and real assholes if ya ask me.  Just water for me."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIENDS"
+            }, 
+            "text": "Here's to you Chris."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They all down some drinks. They lead Chris down a corrido"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND"
+            }, 
+            "text": "Don't say we never did nothin' for ya!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 2"
+            }, 
+            "text": "Don't worry, everybody's a lil scared  the first time. Get in there, sit back  and enjoy."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris' friends have led him to a stripping booth, his fri inserts the money."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 2"
+            }, 
+            "text": "If you're not back by morning we'll  send a search party for you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Bye! No drinking."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "His friends leave, closing the door behind them. A screen goes up and a striptease begins. The lady is dre in the style of a firewoman and has a pole in the center stage. She dances around the pole and removes clothes."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "STRIPPER"
+            }, 
+            "text": "So you from here or just visiting."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Lil of both, I grew up here."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "STRIPPER"
+            }, 
+            "text": "So you've seen all the old faces."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Could say that."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "STRIPPER"
+            }, 
+            "text": "Your voice sounds very familiar."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The lights come on."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "STRIPPER"
+            }, 
+            "text": "Chris..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Deni.."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The screen goes down again, Chris leaves the booth."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CASINO"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 1"
+            }, 
+            "text": "Look who's back."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 2"
+            }, 
+            "text": "So, good surprise?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 1"
+            }, 
+            "text": "Told you it was better than gambling.  You met Candy? (A girl is dancing on  their table)"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Hey Candy. (to the guys) Let's go."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CRAPS TABLE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "6! Easy 6 for a win! "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "(To some girls) We can do a 6."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "(To Chris) We're gettin killed out here.  I need you to put 200 down for the bet."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "No, hell no."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FRIEND 3"
+            }, 
+            "text": "Look at them (Nods to girls)."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Ok."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "Five hundred on 6?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "Yes, I'm in. Boom! Gimme some dice."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris notices something odd, he looks concerned."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "Lookin' for a 6."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Jimmy. Don't roll. Gimme the dice. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "Lookin' for a 6. Ohhhhh."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The dice have landed and it's a 7. Jimmy hangs his head."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "(To the croupier) You're good, but I  saw it. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "Saw what?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I saw the switch."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "Hey this is a clean game asshole."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Yea?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "Yea."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Let's see about that."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris puts a load of money on the table."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Bet you I'll roll a seven."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "It's not your roll sir. SIR! It's not  your roll. Call security."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris has taken the dice. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Put your bets down on the pass line.  These dice are comin up seven."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "Chris, why don't we just let it go?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "No, we gonna let it ride Jimmy. The  dice are comin up seven."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "It's not your roll sir."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris rolls the dice and sure enough it's a seven."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "COMMISSIONER"
+            }, 
+            "text": "No folks, no payout. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "(To croupier) Why don't you just take  care of that bet and we're even."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CROUPIER"
+            }, 
+            "text": "Well I would but it wasn't a legitimate  bet, you're not the shooter. It's not  your (Chris shoves him) ROLL sir."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SECURITY GUY"
+            }, 
+            "text": "Is there a problem?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Yea, the problem is your dice are loaded.  Does your boss know about this? Just  gimme my money."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The security guy grabs Chris around the neck. Chris elbow and throws him onto the table. The croupier takes a fight stance. Jimmy taps Chris on the shoulder."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JIMMY"
+            }, 
+            "text": "Come on, let's go! let's go!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "More security men appear, one of them knocks Jimmy out. A fight breaks out, Ray gets knocked out. Chris beats off s security men before taking an electric shock to the neck a baton to the face. Chris wakes up on a table under a li"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BAD GUY 1"
+            }, 
+            "text": "(Sees the tag around Chris' neck) Special  forces? I'll take that."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris grabs him by the neck but they beat him down again."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BAD GUY 2"
+            }, 
+            "text": "What are you doin?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BAD GUY 1"
+            }, 
+            "text": "(Has a scalpel in his hand) Special  forces... special treatment."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "He rips open Chris' shirt."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BAD GUY 2"
+            }, 
+            "text": "This guy knows Hamilton!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A struggle ensues and Chris' chest is cut up."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "A BRIDGE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "We see Chris is crawling, badly hurt. A truck stops direc in front of him. Chris passes out again."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "HOSPITAL"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DOCHRIS"
+            }, 
+            "text": "(To Chris' family) Folks, he's pretty  banged up, inside and out. Whoever did  this left him for dead. A lesser man  wouldn't have survived."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "I'm gonna need a statement from him  Doctor."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DOCHRIS"
+            }, 
+            "text": "He's in no condition to give you one."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "I'll also need a copy of your write-up  along with toxicoloy, blood alcohol  level and so on."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "What are you talkin about Stan?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "I'm just tryin to get some facts here."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Oh come on you need to be out arresting  whoever tried to kill my brother not  testing his BLOOD. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "I'm just doing my job Michelle. Ok?  I understand how you feel. But we still  don't know yet who started all of this."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "Well it wasn't Chris."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Just find out who did this to him Stan."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "I'll do my best Mr Vaughn. I really  will. In the meantime I have to file  a full report. You lemme know when I  can talk to him."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The doctor nods."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Thank you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DOCHRIS"
+            }, 
+            "text": "He's gonna be fine Michelle."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Thanks."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "HOSPITAL WARD"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Ray goes into a room and takes a big bunch of flowers fro"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "NURSE"
+            }, 
+            "text": "BEAUTIFUL flowers!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Thank you, they're for my best friend."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CHRIS HOSPITAL BED"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Hey sarge, so much for our VIP... status.  Don't they teach you any fighting skills  in the army."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "How did you do?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Not good. But I tell you, that guy was  feelin me this morning."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris begins to laugh but is in pain."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "You okay?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Some homecoming hey."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "I don't know if you've noticed but this  aint exactly home any more."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris has returned home. He's still in bad shape and his help him out of the car. He insists on taking the steps b"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "There's some old crutches in the garage."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris laughs."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "LOUNGE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A montage ensues with Chris on the couch, sometimes with other times with Pete. Chris is recovering, and is exerci by the end of it."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "GARAGE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris pulls the cover off an old truck. He smiles and get He starts the engine."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Changed the plugs a while back."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Appreciate that Dad."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "I might've had serious issues with your  career choice but just didn't seem fair  to take it out on an innocent truck.  Where you headin?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I was goin into town to get some supplies.  Wanna come?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Let's go."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CAR"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Ya whole life, all you wanted to do  was get outta here. What made you come  back."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You gonna think I'm crazy. I been thinking  about the mill. When I was a kid goin  to visit you at work, the smell of that  fresh-cut cedar. You remember that smell."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Mmm I remember a lotta nice things before  the mill closed."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "When did they go outta business? (Nods  to a closed supply store)."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Closed about six months ago. There's  a home depot about fifteen minutes up  the road."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "And that? (Nods to an adult XXX shop)"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Don't ask."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They laugh."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "OUTSIDE THE HOUSE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay pulls up in his car."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Hey. First of all I wanna say thanks. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "For what?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "He's been fired, and his gaming permit's  been pulled. I don't know how my security  cameras didn't catch that."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay starts to help Chris taking wood off the truck but Ch throws it back on."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "They miss a lot at your place don't  they Jay."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Look Chris I hate seein ya like this."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Your boys did it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Wait wait... so they got a little rough,  they were a bit edgy. Understandably.  You don't know what kind of assholes  they have to put up with on a daily  basis. Look, they've been reprimanded.  They say you went nuts man. I'm sorry.  I know the proper term vets use is post  traumatic stress."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "What the fuck are you talking about?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Whatever it was, you tore my place apart  and it wasn't easy for me to get my  guys agree not to press charges. Look  Chris, if you had a problem... shouldn't  you have come to me? Look, I wanna bring  you inside. Chris I wanna make you head  of security. Whaddya say?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "No."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Ah well. I guess you probably need time  to think about it. This is for you.  It's a little something to help you  get... Y'know.."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "He puts down an envelope with money in it. Chris gives it to him."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Come on man, don't be like that. I came  all the way out here to your house just  to see you get back on your feet."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'm goin to the sheriff."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "I'm sorry you feel that way. I'll see  ya round Chris."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Excuse me."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "An officer is on the phone ignoring him."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Excuse me."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The sheriff comes out."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Well hey Chris. Good to see you up and  about, you're lookin spiffy. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'm here to press charges. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Well this isn't about that incident  at the casino a while back is it?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Yea, it is."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Cause that matter's closed."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Did you look into it?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "They did an internal investigation.  That's good enough for me."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "An internal investigation."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Chris, I know you're familiar with the  term 'no fly zone'. Hmm? Cause that's  what the casino is. Since the mill closed  down that casino is the main source  of revenue in this town. So, case closed  basically. I'll see ya."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'm not gonna let this stand."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "Excuse me? What did you say to me?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I said I'm not gonna let this stand."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "You're lucky to be alive right now,  that's all you need to be concentrating  on. This is my town ok, I'm the sheriff  here. I'll tell you what will stand,  not the other way around. Now please  get out of my building."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Deni is at the door."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Hey."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Hey."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "This belongs to you."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "She hands him a leather jacket."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I appreciate that, I thought this was  history."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Coulda left it in the trash but I..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "Deni? Nice to see you dear."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Hi Mrs Vaughn."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Can I talk to you outside for a second.  Mom I'll be right back."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "OUTSIDE THE HOUSE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "How you been?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Been better."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Talked to the sheriff yet?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Well I went down to the police station  and I talked to somebody with a badge.  Sure as hell didn't seem like much of  a sheriff."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "He's up for re-election you know. Maybe  you could take his job. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Somebody ought to. How about you?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Sunshine and pine trees. Been readin  these books, teach you how to cultivate  happiness. Books on the future, go with  the flow, that sorta thing."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Is it workin?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "I have my moments."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "So the casino huh?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Yep. Been there almost a year."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Treatin you good?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Lot better than it treated you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I like that. Jay Hamilton's done well  for himself hasn't he."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Yea, he's a real go-getter that one."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Must be. I heard he got you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Lasted about 8 minutes, a long long  time ago."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You still work for him though."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Rent's gotta be paid Chris."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Suppose so."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Hope to see you around."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Do you?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "She begins to drive off."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Thanks for the jacket."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "She toots the horn as she goes."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Connie is on the phone. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "And where is he?"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "OUTSIDE SOME GARAGE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Vaughn's truck pulls up at speed. They enter a garage is on a stretcher."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "It's ok mom he's stabilised. (To Chris)  It was close. Crystal Meth."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "I'm sorry. I never did it before."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "KID"
+            }, 
+            "text": "It's true. We mighta kinda pushed him  into it. "
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris approaches the kid."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Where'd you get the drugs?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "KID"
+            }, 
+            "text": "I'm not really sure..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Stop. Where?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "KID"
+            }, 
+            "text": "From the security guys workin at the  casino."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris gets into his truck."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CONNIE"
+            }, 
+            "text": "Chris, wait. Call the police."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "No, that won't do any good."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris speeds off. He pulls up at their home and enters th"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Is Pete ok?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "He'll be fine."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris is searching about and forces open a cupboard."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "What are you doin?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris pulls out a shotgun and loads it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Aw Chris not like this. Chris listen  to me. If you go outta here with that  gun, they're gonna.. ne... Chris!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris drives to the casino, he cocks the shotgun but deci to leave it in the truck. Instead he takes a piece of woo the back of his truck. He enters the casino with it. He s a fruit machine. A guard comes up and Chris beats him. A scene breaks out with Chris beating the guards and genera trashing the place. He takes back his special forces dogt the guard who stole it. Chris hurls his piece of wood at VIP lounge window, smashing it to pieces. Jay emerges fro it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Guess that changes our relationship  a bit huh?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris leaves. As he drives off in his truck, police cars with sirens going. He pulls over."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SHERIFF WATKINS"
+            }, 
+            "text": "You should NOT have come looking for  trouble. Keep your hands up, get out  of the vehicle now Chris! NOW!"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION ROOM"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LAWYER"
+            }, 
+            "text": "I advise you to give this offer more  than a little serious thought. If you  go to trial you stand to do 18 years.  This is a sweet plea, normally they  wouldn't even put it on the table but  your military record can't be ignored.  Three months home arrest, some community  service. Pretty generous offer Chris."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "But I'd have to plead guilty."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LAWYER"
+            }, 
+            "text": "Look at it from the other side. There's  over a dozen witnesses, none of em are  gonna paint a very flattering picture."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "We see a montage of casino workers badmouthing Chris."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WORKER"
+            }, 
+            "text": "He started bustin up the machines..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GIRL"
+            }, 
+            "text": "There was a gunshot.."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WORKER"
+            }, 
+            "text": "Went crazy..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GIRL"
+            }, 
+            "text": "Complete psychopath."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "They're only offering me this deal just  to keep me quiet. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "LAWYER"
+            }, 
+            "text": "Well I still say you should take it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I wasn't wrong. And I won't say I was."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "COURTROOM"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CASINO GUARD"
+            }, 
+            "text": "Our job is to keep order. But there  was no chance of that. Me and my men  we were just tryin to control him. He  was highly trained, violent, very dangerous  person. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PROSECUTOR"
+            }, 
+            "text": "So dangerous, so violent, so highly  trained that he despatched six of the  casino staff single handedly. His weapon  of choice a simple piece of cedar. Which  in his hand became a devastating force  with one aim, to hurt people, destroy  property."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WORKER"
+            }, 
+            "text": "He went directly for everything. He  just came in and took over the place."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PROSECUTOR"
+            }, 
+            "text": "You said he broke your arm."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WORKER"
+            }, 
+            "text": "Yea that's correct, my right forearm.  Both bones with a single shot. It was  crazy."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CASINO GUARD 2"
+            }, 
+            "text": "You know, toss out a coupla drunks now  and then. Guys try to grope the girls,  but ah nothing with this sort of violence."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PROSECUTOR"
+            }, 
+            "text": "Did he give you any kind of advanced  warning? A chance to defend yourself."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CASINO GUARD 2"
+            }, 
+            "text": "We tussled, but he's a big guy. He was  on a mission. Besides, he seemed to  be too busy enjoying himself from what  I could see. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PROSECUTOR"
+            }, 
+            "text": "So from what you saw, it seemed like  he had some kinda purpose?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CASINO GUARD 2"
+            }, 
+            "text": "I think he had a point to prove yeah."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WORKER"
+            }, 
+            "text": "I was emptyin machines when Mr Vaugh  came in and started swingin."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GIRL"
+            }, 
+            "text": "I was tryin to get outta there."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Mr Crow, you may present your client's  case."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "(To his lawyer) You're fired."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Your honor, I'd like to plead my own  case. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Order, order. Mr Vaughn, if you choose  to represent yourself and not be represented  by legal counsel you realise that you  can't then claim a mistrial on that  basis."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Yes I do."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Very well Mr Vaughn."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I don't deny anything that was said  here today."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Does that mean you're changing your  plea to guilty?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'm not guilty of anything. Except standing  up for myself when the law wouldn't."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OPPOSITION"
+            }, 
+            "text": "Objection. He's trying to introduce  prior events your honor."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Sustained. Mr Vaughn stay on point."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I grew up in this town. People used  to walk tall in this town, they wouldn't  have traded the mill for a crooked casino."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Mr Vaughn we're not here to listen to  civic speeches."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "And they wouldn't have stood around  while drugs were being sold to kids. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "OPPOSITION"
+            }, 
+            "text": "Objection."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Sustained. Mr Vaughn you're close to  being held in contempt. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I was justified in what I did, and if  you acquit me of these charges I'm gonna  run for sheriff. And if elected, I'm  gonna fix this town. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Order, order. Mr Vaughn you are now  charged with contempt."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "And I will make sure that THIS (He opens  his shirt revealing huge scarring) never  happens to anyone again without punishing  those who did it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "I order the jury to ignore what they  have just seen. Mr Vaughn take your  seat. Order! Order!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Mr Forman, has the jury reached a verdict?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FORMAN"
+            }, 
+            "text": "We have your honor. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JUDGE"
+            }, 
+            "text": "Will the defendant please rise. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "FORMAN"
+            }, 
+            "text": "We find the defendant Chris Vaughn not  guilty."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The crowd breaks into cheer. Chris takes a tag from his p of cedar wood which is laying on the evidence table."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "This is mine."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The crowds fade away with chants of 'Sheriff Vaughn'."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris pulls up to the station in his police truck, it's c he's now the sheriff."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WATKINS"
+            }, 
+            "text": "Sheriff."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Watkins."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WATKINS"
+            }, 
+            "text": "Well you won the election, congratulations.  We do have a tradition of professional  courtesy up here, and I can personally  vouch for each and every one of these  men. They're good deputies."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You're all fired."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris takes a look around."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "A COUNTRY ROAD"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay is speeding along in a sportscar. He is pulled over b police truck."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Hey Chris."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "License and registration please."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "You're joking right?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "License and registration."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay hands it over."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "What's the problem sheriff?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You. And the drugs you're pedalling  out of your casino."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Oh. Only thing that's going on in my  casino right now is reconstruction.  You took care of that. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Yea that's right and I plan on taking  care of everything else too."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "If you can, try to think this through.  A casino is a license to print money.  Why would I jeopardise that by selling  drugs?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Cause you owned the town Jay. It's changed  now."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Really? See the only thing that I think  has changed around here is that every  morning you get to wake up and put on  that nifty lil badge. But underneath  that badge is the same guy that couldn't  make it playing college football, apparently  couldn't make it in the army and not  gonna make it as a cop."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Is that right?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Yea, and if you push too hard you're  gonna be a man who doesn't live to see  40. License please."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris hands it over."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Thanks sheriff."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Sir get your tail lights fixed, it's  your last warning."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "What's wrong with my tail lights?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris smashes up the back end of Jay's car with his trust of cedar wood."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "They're broken."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "EXT. RAY'S PLACE", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Mornin sheriff."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Mornin deputy."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris tosses Ray a badge."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "No, nope, no. Come on man you know I  hate cops. You been sheriff 2 minutes  and I'm already startin to hate you.  I'm a convicted felon."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I got a lil pull around here."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Oh now you're a CROOKED cop doing favours  for friends. That's how it starts. See  next thing you know you'll be taking  bribes, setting up roadblocks, frisking  dudes crotches. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Are you done? Ray I need your help."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Oh don't do that."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I need you to take me to drugs school."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "I get to wear a uniform?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A montage ensues, with Chris and Ray busting various drug"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "DEALER'S HOUSE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You're SURE you're not carrying anything."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "I don't have shit."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Officer."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Yeah."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Search him."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Oh. Spread your legs, arms down. Been  workin out? Nothin there. Ohhhh somebody  needs a BATH!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "Now you read me my rights and take me  in. And I call my lawyer."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "K. I have a hunch there may be somethin  else in here (Pats the dealer's truck)."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Could be."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Music plays while the two chop up the dealer's car into p while laughing."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "He's clean. Guess we gotta move to plan  B."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "Screw you, I do have a bit of information  for you. It's not just me actually,  there's a whole lotta people in on this  one. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Spit it out."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "You're gonna get hurt."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris is in the room with a shotgun."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "Why does it always have to be your fight?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You might need this."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "No. I put my guns down a long time ago."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You're just being stubborn."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "You and me both boy. Chris, listen.  You be careful."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I will."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Booth is locked up, Ray is taunting him through a loudspe"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Please step away from the vehicle. Now  Mr Booth are you still upset over that  body cavity search? WOOOOOOOO! I forgot,  you got no vehicle. Please disperse,  there is nothing to s..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris has walked in."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Can I talk to you?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Yeah."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Over here?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Sure."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I'm gonna stay with him tonight. I need  you to take care of my parent's place."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "You think they're gonna take it that  far?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris hands him the shotgun."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "I'm with you man, I'll check in later."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Kay."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "NIGHT TIME", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Deni comes into the police station."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Don't shoot."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Hey"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Hi. How's the food around here? Brought  you special treats. Salmon, Fried Chicken,  Potato Salad. You got cups?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Don't you have to work tonight?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Hmm I quit. I figured you know, you  were making some changes around here,  I could make a few myself."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris grabs her and they kiss. "
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Ray is on the couch and has just woken to a noise."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Who's that?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PETE"
+            }, 
+            "text": "It's Pete. Want something to eat?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "No I'm good man."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "I gotta get a bigger bed."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "No, no you don't."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "WILD CHERRY CASINO"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay calls a number on his celphone."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Do it."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "I'm hungry."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Got leftovers..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DENI"
+            }, 
+            "text": "Mm mmm, I want pancakes, and eggs, and  bacon."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A loud explosion happens, it's Chris' police truck outsid"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "WOOOOOOOOOOOO! I told you Vaughn! Uh  ohhhh. Who needs to step away from the  vehicle now Vaughn? Truck for truck  baby, that's right, truck for a truck."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris steps towards the front of the building but men out open fire, Chris ducks for cover. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "(To Deni) Get down!"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Pete, somethin's burnin."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Men with machine guns are still firing at the police stat Deni's screaming, Booth is cheering."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Take that and get in there."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris gives Deni a pistol."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Pete?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Ray steps into the kitchen but gunmen have infiltrated th A fight breaks out and Pete flees. Ray jumps onto the bac a gunman."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris shoots up the floor with a shotgun and breaks a hol it. "
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Ray stabs the gunman with a potato peeler and knocks him with a frying pan."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "(To Deni) Come here. "
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They get down into the hole in the floor."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "When I say 'now' start shooting, over  there. Stay low."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Booth is now under fire and is scared."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "Vaughn you gotta get me outta here!"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Two other gunmen in stocking masks are holding the family upstairs."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DAD"
+            }, 
+            "text": "I know who you are."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GUNMAN"
+            }, 
+            "text": "Oh yeah?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The gunman takes off his mask and hits him with a pistol."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GUNMAN"
+            }, 
+            "text": "(Calling downstairs) Burke?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GUNMAN 2"
+            }, 
+            "text": "Check it out."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "He goes downstairs to find Burke dead on the kitchen floo follows traces of blood across the floor."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris is making his way towards Booth under fire."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "C'mon! Get me outta here man!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "What's it worth to you? Where's the  lab?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "Screw you!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Gunshots hit near booth."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BOOTH"
+            }, 
+            "text": "Ok! Ok! Hamilton's operation is at the  mill ok! It's at the mill now get me  outta here."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The gunman enters a room, Ray is there pointing a shotgun him."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Drop it!"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Stay down!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Booth is standing and gets shot dead."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Ray shoots the gunman, who falls to the floor."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "UPSTAIRS", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MICHELLE"
+            }, 
+            "text": "Ray!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GUNMAN 2"
+            }, 
+            "text": "Stay down!"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Booth is dead so Chris leaves him there."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "(To gunman's body on the floor) Hey..  you okay?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "UPSTAIRS", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Gunman 2 looks away for a second and Michelle kicks him d the stairs. As he tumbles down Ray reloads his shotgun. T begin firing at each other, taking cover behind the furni"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "POLICE STATION"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WATKINS"
+            }, 
+            "text": "Tried to warn ya Chris. Didn't want  this to happen."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "One of the men outside has a canister. Watkins gives him nod and he begins walking towards the station. Chris is b the floor and shoots him in the legs. The two remaining m open fire again. Another gunman tries to approach but he' in the legs as well. Watkins enters the station and fires at the floor."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WATKINS"
+            }, 
+            "text": "Come get some! WOOOOOOOOO!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Deni! Now!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Deni fires off some shots. Watkins is distracted by the s Chris appears in the floor hole and blasts Watkins at clo with a shotgun."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Deni.... Deni. "
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris climbs out of the hole and they hug."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FAMILY HOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Shots are still being fired in the lounge. Ray and the gu begin to wrestle. Ray wins and punches the man repeatedly has come back to the house and tries to pull Ray off the Ray mistakenly hits Chris in the face."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "I'm sorry!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris helps Ray over to a chair, Ray has taken a shot to leg. The injured gunman from the kitchen appears brandishing a"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "GUNMAN"
+            }, 
+            "text": "You stabbed me... with a potato peeler??"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris and Ray hold up their hands. He aims at Ray but he' in the back of the head by Dad who is approaching down th"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You gonna be ok?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Dad nods."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "THE MILL"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris is in a police car driving at speed. He approaches mill and busts through the locked gates. "
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "THE MILL"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The mill is dark, Chris is finding his way around using a He finds Jay sitting."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Hey Chris."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Get up Jay."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Just a sec. Remember we used to play  hide n seek up here?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay hits a metal saw which resonates making a metallic so"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "That was my favourite sound. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Get up!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay stands up and holds up his hands."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "Look... Chris... just..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay hits a switch on the floor which opens a hatch. Chris into the hatch but hangs onto the saw which is swinging o it. Jay hits more switches, powering up the machinery."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "JAY"
+            }, 
+            "text": "You wanna know what my new favourite  sound's gonna be? The sound of you screaming  like a little bitch."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Jay hits Chris in the stomach with a pole a few times. Ch grabs the pole and they both fall. Chris has hurt his leg stumbles off into the woods. Jay grabs an axe and goes af him, he swings the axe but misses and they both fall down earthy embankment. At the bottom they come to their sense begin fighting again, Jay with his axe and Chris with a l ripped off a tree. Chris knocks Jay out by hitting him ha the legs."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "You're right Jay, this does change our  relationship. This is my town, you're  under arrest."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "WILD CHERRY CASINO"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Chris and Ray are packing everything, the place is boarde"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "That oughta do it. WHAT are you doin?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Gettin some souvenirs, I'm gonna miss  the place!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "That's how it starts. Next you'll be  accepting bribes, setting speed traps  all over town, cuttin up trucks. Not  to mention the cavity searches. "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Speakin of which, do you think Jay's  got a casino in the pen? "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Could be."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "Runnin the shower tower with the felons.  He's probably blowin on somebody's dice  right now."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They laugh as they drive off. The mill makes a horn noise"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "That's lunch."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHRIS"
+            }, 
+            "text": "Let's go pick my old man and grab somethin  to eat."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RAY"
+            }, 
+            "text": "I'm with ya buddy."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "FADE OUT", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }
+    ]
+]

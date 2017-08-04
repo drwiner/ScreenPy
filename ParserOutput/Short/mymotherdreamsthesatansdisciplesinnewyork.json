@@ -1,0 +1,3712 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "FADE IN", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "SOUTH DAKOTAN FARM"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "A lone farmhouse sits isolated against a prairie backdrop silhouetted by a marbled dawn sky."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FARMHOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "MARIAN PETERSON, a gray-haired woman in her late sixties, meticulously packs a suitcase.  She picks up a small, fra PHOTO from a chest-of-drawers and holds it up to her."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "PHOTO", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "INSERT"
+            }, 
+            "text": "It's a picture of a man about Marian's age.  He has a swe natured smile on his face.  Marian looks at it longingly, then packs it carefully in her suitcase between some swea and closes it up."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "FARMHOUSE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "A paint-chipped truck rounds the corner on a dirt road leading into the farm. Marian, waiting on the porch, ready to go, rises and wave"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "A FEW MOMENTS LATER -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian's son, STEVE, dressed in jeans and flannel shirt, loads his mother's single piece of luggage into the bed o the truck, climbs back into the cab, where his mother is sitting, and drives off."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "THE SKY"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "A JETLINER descending in the hot, cerulean sky."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "KENNEDY INTERNATIONAL"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "AFTERNOON", 
+                "shot type": null
+            }, 
+            "text": "Marian, looking a little forlorn and out of sorts, stands by the taxi area with her suitcase on a tote, looking aro for a cab, unsure what to do."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "CURBSIDE", 
+                "location": null, 
+                "terior": null, 
+                "ToD": "A FEW MINUTES LATER", 
+                "shot type": null
+            }, 
+            "text": "MISCHA, a somewhat dissolute-looking Russian cabbie in hi thirties, roughhouses Marian's single piece of luggage in the dirty, cluttered trunk of his cab."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "TAXI"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian is sitting in the back of the cab as Mischa opens driver's side door and slams it shut, rattling Marian's nerves."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "(brusquely) Where to?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Are you sure you got my bag in?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "What do you think?  I left it on the curb?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I'm sorry, I'm a little nervous.  It's my first time in New York.  Just a minute."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian fumbles with a piece of paper she's rooted out of purse.   Mischa, annoyed, slams the shift lever into Drive and lur off. Marian leans forward into the rectangular opening of the Plexiglas partition."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I want to go to 526 East 5TH.  That's in the East Village.  My daughter said it would cost thirty dollars."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "In the REAR-VIEW MIRROR we glimpse Mischa giving Marian a look."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "LOCATION"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "The TAXI passes on a turnpike, streaming with vehicles, headed toward Manhattan.  DRIVE-BY TRANSITION."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "TAXI"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Hurtling along.  Marian cranes her head through the parti and attempts to strike up a conversation with the surly cabbie."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I came to New York to visit my youngest daughter."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "And where is she?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "She would have come to the airport to meet me - she wanted to - but ... but, she just started a new job and, well, I guess no one drives here."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "So, you come here all by yourself?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Uh, yes.  My husband passed away recently ..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "... Oh ..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "... And the children thought I should take a trip."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Yeah."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I'm from South Dakota.  Where are you from?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Moscow."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Ohhh.  Do you know the East Village?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Oh, yeah ... yeah ... it's a hellhole."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(disconcerted) You mean it's dangerous?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Nah, not dangerous.  Not that dangerous. (beat) Not during the day."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mischa chuckles as Marian sits back in the cab."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "ANGLE"
+            }, 
+            "text": "looking out the window, her face clouded with consternati"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "BRIDGE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Cars pouring into Manhattan over one of the many bridges spanning the East River."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET AND 2ND AVENUE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "The cab brakes to a halt, bringing Marian INTO THE FRAME, face strickened with fear. Marian climbs out of the cab as Mischa, in the background opens the trunk to retrieve her bag.  Marian, taking in t foreign surroundings, seems confused about something."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Pardon me, Mischa.  Is this 526 East 5TH Street?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mischa closes the trunk and approaches Marian with her on piece of luggage on a tote."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "No, no.  Sorry, I can't drive you to door.  There's a roadblock on Avenue B ... (he gestures down the street) right there ..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "P.O.V."
+            }, 
+            "text": "At the far end of the block, we SEE a movable, blue NYPD roadblock."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "BACK -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The two of them, Marian looking puzzled."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "This is one-way street.  You go down the block to the middle."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(pointing uncertainly) This way?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Yeah.  Not far.  You will be fine. (beat) It's still day."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "He chuckles to himself, but Marian doesn't get the joke."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I see.  How much?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Forty-five all total."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Forty-five?  I thought it was only supposed to be thirty?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Thirty is base price.  Tolls, tax, tip ... it all adds up."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian unsnaps her wallet and grudgingly hands the disreputable cabbie two twenties and a five. Mischa takes the money and starts away.  Halfway back to cab, he turns around and calls out to Marian, who stands frozen on the dilapidated street."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "Hey, lady. (Marian turns) Hold purse like this."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mischa hugs an imaginary purse close to his side.  Marian apes his advice in all seriousness."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MISCHA"
+            }, 
+            "text": "(nodding approval) Good luck."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Mischa climbs back into his cab and peels off."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "NEW ANGLE"
+            }, 
+            "text": "HIGH DOWN WIDE of Marian standing forlornly at the end of street, a Dayton's shopping bag in one hand, her luggage strapped to the tote in the other."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "TITLE IS SUPERIMPOSED", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "MY MOTHER DREAMS THE SATAN'S DISCIPLES IN NEW YORK"
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian pulling her luggage apprehensively down the street She passes THE SQUATTERS, a motley group of homeless teenagers, pierced, tattooed, wild hairdos and even wilde attire."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SQUATTER #1"
+            }, 
+            "text": "Hey, lady, can you help us out with some change today?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian, shocked by their circumstances, rolls her luggage past them, smiling faintly."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SQUATTER #2"
+            }, 
+            "text": "Come on.  Every little bit helps.  A little food, you know?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Maybe some other time."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "SQUATTER #1"
+            }, 
+            "text": "Thanks a lot anyway."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian continues on.  She's distracted by ... A WOMAN in her thirties, who looks like she hasn't slept week, bent over the railing of a second-story fire escape balcony, in the throes of a veritable rage."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WOMAN IN A RAGE"
+            }, 
+            "text": "You forgot your fucking plant, you fucking asshole!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian stares up at her, even more disconcerted than ever The enraged woman continues her tirade at an unseen old boyfriend below."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WOMAN IN A RAGE"
+            }, 
+            "text": "And there's a lot of other shit in there you forgot.  Just wait there, I'm going to go fucking get it for you, all right?  No, just wait there! Do you want me to go get it for you?  Well, why don't I just do that, huh?  I'm going to do that right now!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian looks away and, intrepid Midwesterner that she is, pushes on. A MAN, dressed strangely, stands surreally in the middle the street, blowing huge clouds of cigarette smoke. A GAY COUPLE parade past, laughing hysterically."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "AT THE END OF THE STREET -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "NEW ANGLE"
+            }, 
+            "text": "A PACK of unmufflered, chrome-coruscating HARLEYS round t corner in a ear-shattering approach."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "stops dead in her tracks and stares in heartstopping terr"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "ACROSS THE STREET -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The BIKERS, wearing their club's colors embroidered on bl jeans, and leather, vests, back their motorcycles in a uniform row against the curb, kill their engines, park th at an angle on their kickstands, and dismount. They high-five a biker known as the DISCIPLE PROSPECT, a small, mean-looking man with a red bandana tied taut over head, and then disappear into the windowless clubhouse, passing through a large, forbidding, black door with the skeleton of Death riding a motorcycle painted on it. The Disciple Prospect tosses the butt of a cigarette into rusted steel drum and flames erupt."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "in horror, cannot pry her eyes away from them."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "NEW ANGLE"
+            }, 
+            "text": "An upstairs window on a six-story, red-brick co-op buildi PAULA, Marian's daughter, a pretty woman with short dark hair, is leaning out the window, waving."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Mom!  Hi!  I'll be right down."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "THE FRONT SECURITY DOOR"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "A FEW MOMENTS LATER", 
+                "shot type": null
+            }, 
+            "text": "Paula emerges to greet her mother.   Marian glances one last time across the street and exchan oblique looks with the Disciple Prospect, now parked on a stool next to the burning drum.  He seems to home in on h"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP", 
+                    "TWILIGHT"
+                ], 
+                "terior": "INT.", 
+                "ToD": "A FEW MOMENTS LATER", 
+                "shot type": null
+            }, 
+            "text": "A nice, one-bedroom co-op, tastefully furnished.  Paula i unpacking Marian's things.  Marian stands in the middle o the apartment, feeling relaxed, if still a bit shaken, fo the first time since she arrived."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "So, what do you think?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Well, once you're inside, it's nice."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "You don't like where I live?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian walks over to the window and peers out."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Well, when I walked up the block, I ... well, my word!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "That's New York.  It looks rundown, but it's safe during the day.  You'll get used to it."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian returns her gaze to the view out the window."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "STREET", 
+                    "TWILIGHT"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": "P.O.V."
+            }, 
+            "text": "Out the window.  Two BIKERS stand with their arms crisscrossed against their leather-vested chests, framing burning drum on the sidewalk, guarding the phalanx of Harleys."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula and Marian are sitting at the dining table.  They'r studying one of those plastic laminated maps of New York you can buy everywhere.  Paula is attempting to acquaint mother with Manhattan's complex public transportation sys"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "You take the M-15 bus all the way to ... 79TH Street.  And then you take the crosstown bus to 5TH Avenue, and the Metropolitan Museum of Art is right there.  You can't miss it."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian removes her glasses and fixes her gaze on her daughter."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I wanted to ask you something.  Those motorcycles across the street ...?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Uh-huh?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "... What are they all doing there?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "That's the Satan's Disciples' New York headquarters."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(alarmed) The motorcycle gang?  Don't they deal drugs and rape young girls?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "I've never had any problem with them.  People say it's the safest block in the East Village. (lays a reassuring hand on her mother's arm) I just hope their motorcycles don't keep you up at night."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "CRANE UP to Marian lying wide awake on a convertible sofa next to the street window.  We (Marian!) hear VOICES, MOTORCYCLES REVVING, POLICE SIRENS, followed by what soun like GUNFIRE, tires SCREECHING, a cacophony of sounds typ of summer nights in the East Village. We go UP and OVER Marian toward the window as imaginary voices flood in and become intelligible."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "RANDOM VOICES (O.S.)"
+            }, 
+            "text": "Did that shipment of heroin come in? That old lady see them?   We can kill her if we have to."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "RAUCOUS LAUGHTER erupts."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A Kenneth Anger Scorpio Rising-like MONTAGE: A black-booted foot kick-starts a Harley.   A gleaming chrome exhaust pipe vibrates and spits smoke. A black-gloved hand revs a handle-bar accelerator.   A helmet is pulled down over a Hun-like face.   Flames roar in the steel drum as though a signpost in Hel One of the DISCIPLES, bare-chested, long-haired, sweating swings a baseball bat and calls out to Marian in a singso voice:"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "BIKER"
+            }, 
+            "text": "Oh, Marian ..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Another half-naked BIKER, arms tattooed up and down, has Marian's suitcase open and is scattering her belongings o into the street.  He finds the framed photo of her deceas husband and tosses it to the pavement.  He raises his hea slowly with a sneer and looks up at ..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "standing in the window in her nightgown, a hand covering mouth, looking down in utter terror on the fire-lit table of her nightmare."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "THE BIKER ON THE STREET -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "starts stomping on the photo with the heel of his boot, shattering the glass.  Then he removes the photo from the frame and slowly drops it into the roaring conflagration the oil drum. The other dawdling Disciples guffaw loudly."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "SLAM CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Marian wakes with a start, consciousness giving way to a of relief."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "FADE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP BUILDING"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "ESTABLISHING SHOT of Paula's red-brick co-op, splashed wi sunlight and framed by a bright blue sky."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "It's quiet in the co-op.  Marian is dusting the bookshelv and humming to herself.   Behind a shelf of books she discovers a PHOTO ENVELOPE wi some snapshots in them.  Curious, she has a look-see."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "SNAPSHOTS -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "flipping through Marian's hands.  They chronicle Paula an BOYFRIEND on a recent vacation to a Caribbean island.  Ma is amused by them ... until she comes to one showing Paul with her bathing suit top off, arms raised giddily in the air."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "gasps, then blushes and quickly replaces the pictures."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian is at the window, peering through the furling curtains."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Looking down on the Satan's Disciples' clubhouse.  Two BI and their GIRLFRIENDS swagger out of the clubhouse, don t helmets, mount their bikes, kick-start them to life and r off down the street."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "draws away from the window.  She picks up her \"Streetwise Manhattan\" laminated map, puts her glasses on, looks at i debating whether to tackle the streets of New York or not"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "A FEW MINUTES LATER -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian, determined now to get out of the co-op, pulls her purse over her shoulder and grips it like the cabbie instructed.  Then she moves to the front door, opens it, steps warily out into the hallway.  She freezes when she HEARS THUNDERING FOOTSTEPS."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "HALLWAY"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian cowers against the half-open door as a young MAN, wearing faded jeans, black cowboy boots, and leather vest over a naked torso, comes charging down the stairs pulled a frothing, pent-up BULLDOG on a leash. As he passes, Marian retreats quickly back into her unit, closes the door, and locks the locks from inside."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Paula is hanging up her coat and setting down her briefca an incredulous expression on her face, looking at ... Marian, sitting in a chair by the window, leafing through magazine."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "(mildly rebuking) You didn't leave the house all day?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian shrugs."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "NEW YORK"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DUSK", 
+                "shot type": null
+            }, 
+            "text": "Manhattan skyscrapers framed against a twilit sky."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "RESTAURANT/BAR"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Marian and Paula are sitting at the bar.  They each have glass of white wine in front of them.  Paula is looking a some PHOTOS of the farm that Marian has brought along."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Would you look at those strawberries.  They made the best jam.   (passes Paula the photos) Here are some more pictures of the farm.  Crops were unbelievable this year."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula continues to browse through the snaps."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Plenty of rain.  Your dad would have been happy with that."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian removes a pill from a small vial she's rummaged ou her purse and slips it discreetly into her mouth."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I just can't seem to focus on anything these days."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "(turning to her mother) That's why it's good you came to visit me."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(washing her pill down with some wine) How are you doing sweetheart?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "I'm good."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Dating anyone?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "No, I'm working too much, I don't have time."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "What about the fellow in those pictures?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "What pictures?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "You know ... (raises both hands in the air) ... whoops!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "(blushing) Mother!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Well, they were right out in plain view."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Behind the books."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "But I was dusting."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "(reluctantly explaining) I was seeing Aaron and there were some ... complications."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "He seemed quite taken with you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "I don't want to talk about it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(hurt) You know, you never tell me anything."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "That's not true. (lays a placating hand on her mother's arm) Besides, I don't want you dusting.  I want you to see New York."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Marian and Paula, arm-in-arm, walk down the block back to building. A MOTORCYCLE rounds the corner, slows to a crawl, and one the Satan's Disciples stares over at the two of them as i casing them out.  Paula won't look at him, but Marian can avert her gaze."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Marian lying awake in bed, the ENGINES of the Disciples' Harleys deafening ..."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "SATAN'S DISCIPLES' CLUBHOUSE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "DOLLY ACROSS a line of idling Harleys, the bikers, one at time in succession, switching their single-beam headlight on.   PAN ACROSS the FACES of the Disciples, mounted on their cycles, dark helmets, faded blue jeans jackets embroidere with elaborate stitching of their club's insignia, cigare dangling from their hirsute mouths, baleful-looking countenances, revving their engines loudly, tauntingly."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "NEW ANGLE"
+            }, 
+            "text": "From across the street, Marian, appearing like an apparit in her nightgown, surreally walks toward them, a beseechi look on her face."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Excuse me.  Could you please turn your motorcycles off?  They're so loud, I can't sleep."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "GO TO SLOW MOTION as the BIKERS, some ten in number, slow approach the frail-looking Marian.  Gently, they pick her off the ground and raise her aloft.  Then, like some movi human bier, they carry her through the forbidding black d into their clubhouse."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CLUBHOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "We follow Marian down a dark corridor leading into the bo of the clubhouse."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "DREAM CORRIDOR"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "At the end of another corridor, a MAN stands, silhouetted against an explosion of blue light.  As we near the ghost figure, we REALIZE it's Marian's deceased husband. There's a GUN SHOT."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "SLAM CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Marian wakes with a start, clutching a hand to her breast"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "KITCHEN"
+                ], 
+                "terior": "INT.", 
+                "ToD": "A FEW MOMENTS LATER", 
+                "shot type": null
+            }, 
+            "text": "Marian shakes a Valium out of a vial, puts it into her mo swallows it with a drink of orange juice."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "FADE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "PAULA'S CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "THE NEXT DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian, not wanting to be a disappointment to her daughte damn her fears, gathers her purse up and starts out the d"
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "HALLWAY"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian is again prevented from an easy exit when a young, looking COUPLE come bounding down the stairs.  As she sta at her open door to let them pass, they completely ignore as if she didn't exist."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Seen from Marian's perspective across the street, the fro of the Satan's Disciples headquarters is quiet.  There ar only a couple Harleys parked out front. Marian, relieved that there are no bikers out, hurries of the direction of First Avenue, determined to see the sigh of the city."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "NEW YORK CITY"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A giddy, almost dreamlike, MONTAGE of Marian touring New York.  She's SUPERIMPOSED over famous landmarks, as if sh were standing stationery and the city were in a diorama rotating all around her.  The Empire State Building; Circ Cruise Line; eating a hot dog from a street vendor; shopp at Macy's.  Marian beams as she is magically whisked alon walking on air."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian comes INTO THE FRAME around the corner.  She has a spring in her step and a broad smile emblazoning her face But her sanguine mood is quickly shattered when she HEARS shouting.  She freezes in her tracks."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "ACROSS THE STREET", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Disciple Prospect and another Biker are roughing up a teenage KID, wrestling him into submission."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "You're just chilling, huh?  Not on this block, do you understand?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "at the security door of Paula's building.  She rummages anxiously through her purse, but she can't find her keys!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Oh, no."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian glances across the street, her face tensed with fe"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "ACROSS THE STREET -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Bikers continue to roughhouse the Kid.  The Disciple Prospect brandishes a plastic bag under his nose."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "What's this, huh?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "KID"
+            }, 
+            "text": "I ain't got shit on me."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "What is that?   You're chilling, man?  Well, then maybe we need to warm things up for you, man.  How many times do we got to tell you?  You don't listen and you don't learn and that's the problem.  That is the problem."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "turns away from the escalating violence across the street punches one of the buttons on the intercom.  A WOMAN'S VO crackles over it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WOMAN'S VOICE (O.S.)"
+            }, 
+            "text": "Hello?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "My daughter lives here and I'm her mother and I've lost my keys."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "There's no answer."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Hello?  Hello?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian returns her frightened gaze to the altercation acr the street. ACROSS THE STREET - MARIAN'S P.O.V. Two more DISCIPLES emerge from the clubhouse.  One of the squirts lighter fluid on the fire burning in the steel dr and the flames explode.  Then KID is dragged over toward fire.  The Disciple Prospect drags him dangerously close the flames."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE"
+            }, 
+            "text": "Roast him!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "KID"
+            }, 
+            "text": "(screaming) All right all right all right."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "petrified, as if she'd stepped into a re-enactment of a passage out of Revelations, walks briskly down to the mid of the block toward a pay phone. "
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "DISCIPLES CLUBHOUSE -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Disciples kick the drug-dealing Teenager a couple mor times, then set him free, laughing as he flees down the b in mortal fear."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "PAY PHONE -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian drops the appropriate coins in the coin slot and d a number from memory."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(quavery voice) Yes, is Paula there? ... Could you leave her a message, please?  Tell her it's urgent. (gathers herself) Her mother has lost her keys and is stranded on the street with the Satan's Disciples ... When she comes back, would you tell her to come home as quickly as she can? ... Thank you."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian hangs up the phone and turns, quails in terror."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "NEW ANGLE"
+            }, 
+            "text": "The Disciple Prospect is towering over her, staring down her with a scowl on his face."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Oh, please, don't hurt me."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "I just need to use the phone, lady."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Oh, let me get out of your way then."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "What happened?  Did you lose your keys?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(withdrawing anxiously) Have a nice day."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "WIDE SHOT"
+            }, 
+            "text": "Marian walks quickly ACROSS THE FRAME.  As she EXITS RIGH the Disciple Prospect ENTERS LEFT and trails after her."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "PAULA'S BUILDING"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian is at the front entrance, uncertain what to do.  S quailss when the Disciple Prospect approaches.  Without a word, he reaches his arm over her and presses a buzzer to of the units."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "WOMAN'S VOICE (O.S.)"
+            }, 
+            "text": "Hello."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "Washing machine repairman."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The DOOR BUZZES almost at once, and the Disciple Prospect pushes it in and holds it open until Marian is safely ins He looks at her a little annoyed.  Marian is absolutely nonplussed."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP HALLWAY"
+                ], 
+                "terior": "INT.", 
+                "ToD": "LATER THAT DAY", 
+                "shot type": null
+            }, 
+            "text": "Paula comes running up the stairs.  She stops when she SE"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "sitting on the floor, propped against the door to their u Paula shakes her head reprovingly at her mother who just shrugs, chagrined."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP", 
+                    "BATHROOM"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula is in the bathroom.  She has her mother's vial of Valium in her hand."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Maybe you should lay low tomorrow.  I'm going to see if I can get off early and maybe we can take the ferry cruise.  Okay?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "LIVING ROOM -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian is standing at the window looking down on the stre EXT. STREET - NIGHT - MARIAN'S P.O.V. The Disciples are backing their bikes against the curb, parking them, and filing into the clubhouse."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "BATHROOM -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula dispenses the remaining pills into the palm of her hand."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "(to herself) Three left."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "LIVING ROOM -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian looking apprehensively down at the Disciples' headquarters, stupefied. Paula emerges from the bathroom in the background.  Maria doesn't turn to acknowledge her.  She continues to stare transfixed at the bikes and the fire-burning oil drum."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "(softer) Okay?  Does that sound like a plan?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian doesn't answer.  Paula stands some distance from her distracted mother, a worried expression featured on her face."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "FADE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Looking through the security eyepiece, a FISH-EYE LENS SH of an attractive, but distraught woman in her twenties, puffing a cigarette, eyes red and swollen from crying."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Who is it?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "It's Marika.  Is Paula there?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "She's at work.  I'm her mother."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "Oh.  I thought today was Saturday."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian, seemingly reassured, opens the door for her.  She sees Marika, realizes she's upset about something, and fe immediately compassionate toward her."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "I'm sorry.  I had a wretched night."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Oh.  You need a cappuccino."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "And she lets Marika in."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They're sitting at the dining table, having coffee.  Mari is listening sympathetically to Marika's tale of woe."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "And there was this number on my phone bill that I didn't recognize.  Calls made at three and four in the morning.  So, I called the number ... and a woman answered.  And I ... I hung up. (leans forward) So, then I followed him.  Just like in the movies.  And I found out that he has a wife and a little girl living in Brooklyn.  We had been going together for almost a year."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(shaking her head in disgust) Men ... they're all the same.  (beat) Our pastor in Sioux Falls was caught with his wife's sister."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "(brightening) Really?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Oh, it was such a big scandal."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "What happened?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Poor man had to leave town. (Marika laughs) And I hear that other women came forward."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "This makes Marika laugh even harder.  Marian's story seem have assuaged her own grief in some parallel way."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "You know, you ought to come out to South Dakota some time and meet my son, Steve.  He's single."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "What does he do?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "He's an organic farmer."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "(chuckling) Oh.  Well, that would be a ... change. (smiles warmly) Thank you, Mrs. Peterson.  You have a very reassuring voice."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Disciple's MOTORCYCLES GROWL OFF SCREEN, interrupting their tete-a-tete.   Marian and Marika both rise simultaneously from the table amble over to the window together."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "I wish they wouldn't come and go in packs, then they wouldn't be so loud."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They reach the window. EXT. STREET - DAY - MARIAN'S AND MARIKA'S P.O.V. The Disciples dismounting from their bikes below, shuttin down their engines and removing their helmets."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "At the window, Marian and Marika standing side by side."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I wonder what they do in there?  Don't they frighten you?  They all look so ..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "... Manly?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian does a double-take and throws a backward glance at Marika."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIKA"
+            }, 
+            "text": "You know, probably none of them had a mother like you."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian and Marika smile at each other."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian's FOOT STEPS OFF THE CURB."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "WIDE"
+            }, 
+            "text": "Marian crosses the street headed in the direction of the Satan's Disciples headquarters. The Disciple Prospect is sitting alone, guarding the line parked Harleys.  He's wearing dark aviator shades and his trademark red bandana tied over his head.  Marian steps bravely right up to him."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Excuse me, sir. (the Disciple Prospect looks up, poker-faced) I just wanted to thank you for helping me get into my building yesterday."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "Yeah, sure, no problem, you're welcome."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "My daughter lives across the street from you people and she tells me that you keep this area safe.  Is that true?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "We like to think so, yeah."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "And you don't deal drugs?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Disciple Prospect removes his sunglasses and looks at mock reprovingly."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "Who told you we deal drugs?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I'm just concerned about my daughter."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "You don't have to worry.  She's going to be fine.  We're law-abiding citizens just like you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "What about yesterday?  Kicking that poor boy?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "(mildly annoyed) That poor boy's a crack dealer from Alphabet City.  We do not allow his kind on this block."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian seems to accept the explanation.  She glances up."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "THE CLUBHOUSE DOOR -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The black, forbidding door leading into the clubhouse wit its painting of Death on a stylized Harley, gripping lightning bolts for handlebars."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "DISCIPLE PROSPECT -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "looking at Marian looking up at the door."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "Is there something else I can do for you?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Well, I'd love to see inside your club."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "(taken aback) You want to come inside?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Well, if you're not holding a meeting or anything."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CLUBHOUSE ENTRANCE"
+                ], 
+                "terior": "EXT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Disciple Prospect emerges from the club with the HEAD DISCIPLE, a gentle giant of a man with a long, flowing wi beard and an old man's paunch.  They're muttering about something."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "Her daughter lives across the street and she was wondering ..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "What?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "She's curious ..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Head Disciple glances over at Marian standing curbsid expectantly awaiting approval.  He sees that she's ingenu"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "What the hell ... (calling out to Marian) Come on in."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian, smiling, comes forward."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "(pointing to the steps leading up to the door) You watch your step here."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "And the three disappear inside."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "SATAN'S DISCIPLES' CLUBHOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "The hallway leading into the clubhouse is dark and gloomy ROCK MUSIC assails them as they make their passage into t main room."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "CLUBHOUSE MAIN ROOM -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They reach the main room where about ten or so DISCIPLES lounging about.  One has his nose in a book, The Road Les Traveled.  Another reads the Wall Street Journal.  Two ot are seated at a card table, playing a game of poker.  Sti another is sprawled on a couch, smoking a cigarette.  The walls are festooned with biker posters.  The place is a b of a mess, but innocuous. The Head Disciple stands in the center of the room and addresses his clan."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "Hey, guys.  This here is, uh ..."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "He turns to Marian, realizing he doesn't know her name."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(meekly) Marian."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "(booming voice) Marian!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "A CHORUS OF VOICES"
+            }, 
+            "text": "Hi, Marian. Hey, Marian. Yo, Marian."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian blushes at their warm response to her unexpected appearance."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "(explaining her visit) Marian's daughter lives across the street and she was a little worried about her."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE #1"
+            }, 
+            "text": "Swear to God, lady, she's not here."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Laughter erupts.  Marian smiles."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE #2"
+            }, 
+            "text": "Hey, is she cute?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE #3"
+            }, 
+            "text": "Does she like motorcycles?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE #4"
+            }, 
+            "text": "Can she cook?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Amiable laughter fills the room.  Marian laughs with them She glances all around her, fascinated by this dungeon sh had dreamed and fantasized about since she first arrived New York."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "You know, this isn't so bad.  It looks like our kids' rooms when they were growing up."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "INSERT SHOT"
+            }, 
+            "text": "of overflowing ashtrays, crushed beer cans, fast food wrappers balled up and strewn on tables."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "BACK -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "to Marian, her brow knitted thoughtfully in a schoolmarmi expression."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Could use some cleaning."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "INSERT SHOT"
+            }, 
+            "text": "of several of the Disciples' FACES, turning to her in SLO MOTION with mock baleful looks of disapprobation. THERE'S A BEAT, then ..."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CLUBHOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "A MONTAGE, with abbreviated SCENES DISSOLVING one into another of Marian supervising a thorough, top-to-bottom cleaning of the clubhouse: One Disciple sprays Easy-Off in a blackened oven. Another empties ashtrays. Yet Another vacuums. Still others pick up wrappers from under the couch, while Marian wags a reproving finger at them. One Disciple tosses the contents of an ashtray under the couch while Marian isn't looking."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CLUBHOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian in the kitchen, wearing the cut-off blue jeans insignia jacket of the Satan's Disciples, their colors emblazoned on the back.  She pops the top on a can of bee and pours some of it into a huge pot of chili she's stirr over a stove, while the Disciples sit patiently in the background at a bar awaiting the food.   Marian tries a sip of the beer and some of the Disciples smile approvingly."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "A FEW MOMENTS LATER -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian ladles chili into all of their bowls in a series o JUMP CUTS."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "DISSOLVE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CLUBHOUSE"
+                ], 
+                "terior": "INT.", 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "All the Disciples are huddled around Marian in the middle the clubhouse, as if she were the mother hen, arms folded across their chests, smiles creasing their faces, sated."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Well, I'd better be going.  It was nice meeting all of you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE #1"
+            }, 
+            "text": "Thanks, Marian."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CHORUS OF OTHER DISCIPLES"
+            }, 
+            "text": "Thanks, Marian."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE #2"
+            }, 
+            "text": "The food was outstanding."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian starts off."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "You know, if we can do anything for you, Marian, you just let us know."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(turns, considers for a moment) Well, there is one thing. (beat, mildly scolding) At night, your motorcycles are so darn loud, I'm not getting much sleep.  Now, I'm going home in a few days, so ... could I ask you to keep them quiet?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Some of the Disciples exchange petulant looks, rolling th eyes at the request."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "HEAD DISCIPLE"
+            }, 
+            "text": "(mollifying) Well, we'll, uh, see what we can do, Marian."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "All the Disciples break into laughter."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Thank you."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "BUILDING"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "A narrow, stand-alone ten-story isosceles-shaped office building, on an island of land in downtown Manhattan.  ESTABLISHING SHOT."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "OFFICE"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Paula, with her mother in tow, knocks on an open office d"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Hello."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": "NEW ANGLE"
+            }, 
+            "text": "DON PALMER, an avuncular-looking man in his mid-forties r from his desk."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MR. PALMER"
+            }, 
+            "text": "Come in."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula and Marian enter the office and halt mid-room acros from his desk."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Don, this is my mother. (turns to Marian) Mom, this is my boss, Don Palmer."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(enthusiastically) Oh, it's so nice to meet you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MR. PALMER"
+            }, 
+            "text": "We're very glad to have your daughter working for us."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(blurting out) I met the Satan's Disciples today."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MR. PALMER"
+            }, 
+            "text": "(chuckling nervously) Really?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Mother, I ..."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(waving her daughter off) My daughter lives right across the street from the Satan's Disciples' clubhouse, and I was so worried about her ... so, I went over and introduced myself.  And they were the nicest people."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula and Mr. Palmer exchange disquieting glances."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MR. PALMER"
+            }, 
+            "text": "(playing along) Well, that's a very unusual New York experience."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I had a wonderful time."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula is in a mild state of shock hearing her mother's fantastical anecdote."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Paula is sitting at the dining table with a plate piled w roast chicken, potatoes, and broccoli in front of her.  S has a worried look etched on her face. Marian is in the kitchen in the background, feeling light happy, a singsong quality to her voice.  She brings a pla of food for herself to the table."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "And they were so friendly those young men.  Though I do think they should shave their beards and ... and get some nicer clothes."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian sits down at the table and takes a sip of her wine picks up her utensils and gets ready to dig in.  She turn Paula who isn't touching her food, her head in her hands. Marian, seemingly oblivious of her daughter's feelings, prattles on."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "What do you say ... we take a subway uptown and see a play tonight?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian finally notices that Paula isn't listening."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "What's wrong?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Mom ... I mean, it's amusing to imagine such a thing, but ... how many of those pills have you been taking?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(stung, taken aback) Oh, that has nothing to do with it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "No, no, it's my fault.  I've been pushing you too hard to do things on your own."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian retreats into herself, sips her wine - as if she, herself, now wonders if she's lost her mind - and her buo mood deflates almost at once."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "The, um, other night, I got up to get a glass of water and you were standing by the window talking to daddy.  I called out to you, but you didn't answer.  You remember?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian doesn't remember, and her daughter's words pierce She's afraid to object."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "New York is a ... it's a strange place in the summertime.  The noise, the warm air, it's ... easy to imagine things."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula lays a reassuring hand on Marian's arm, talks to he condescendingly, as if she were a child."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Now, you know you didn't go into the clubhouse, did you?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian doesn't bother to argue, fearing anything she migh say would compromise her."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA (CONT'D)"
+            }, 
+            "text": "It's okay.  Dad's dying put a lot of stress on you.  But you're going to be all right.  We're all going to be all right.  Where did you get this vivid imagination, huh?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula grips Marian's arm a little tighter and shakes it gently as if snapping her back to reality.  Marian return her a tight-lipped smile."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "FADE OUT."
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "Marian, lying supine on the convertible sofa bed by the o window, snoring peacefully."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "On the sidewalk, the Disciple Prospect sits next to the f breathing oil drum, standing sentry over the Harleys. One of the Disciples comes out of the clubhouse and they five.  The Disciple mounts his Harley and is about to kic start it to life, when the Disciple Prospect rises from h stool."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "Yo, man!"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Disciple about to start his bike, turns.   The Disciple Prospect raises two fingers to his lips in a kind of warning, then gestures up to Paula's co-op where Marian is sleeping. The Disciple, remembering the new rule, nods assent with slightly annoyed expression. Then, he puts his Harley into neutral, dismounts, and sta slowly walking it down the quiet, ill-lit street."
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "NIGHT", 
+                "shot type": null
+            }, 
+            "text": "The room is cast in soft ambient light from the street.  Paula comes into the living room and lies down next to he mother on the sofa bed and rouses her awake.  Marian swim leadenly back to consciousness.  "
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Mom, I need to talk to you."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(still drowsy) If it's about the bikers, dear, I don't want to talk about it."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "No, I had a dream about daddy.  Do you think I'll ever meet anyone like him?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Oh, I hope so, dear."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "You know that guy in the pictures you saw?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Aaron?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Yeah ... turned out to be a real jerk."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I'm sorry."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian pats her daughter on the arm.  Paula pricks up her ears for a minute."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "It's unusually quiet tonight, isn't it?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Mm hmm."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "FADE TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CENTRAL PARK"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "A lovely, sun-drenched day.  Shadows dapple a promenade a one of the park's many ponds.  Paula and Marian walk arm- arm."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "I think you should consider coming out and staying with me longer."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Oh, I don't want to be in the way.  You've got your career and everything."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "You wouldn't be in the way.  I like having you around."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Dear, I was thinking.  Why don't we go to Paris next year?  I've never been.  Your father, God bless him, wasn't much for traveling."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "I'd love to."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "They walk off into the golden light."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "CO-OP"
+                ], 
+                "terior": "INT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian is finishing up her packing.  Paula comes from the kitchen, bearing a gift for her mother to take home with"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Here you go. (Marian accepts the gift) I think you should talk to Dr. Byrne when you get back about how much Valium he's prescribing.  Okay?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "At my age, I'm going to take any pill that makes me feel better."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "Mother!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "I can make my own decisions."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula extends her arms and embraces her mother."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "I love you, Mom. (turns to leave) I have to run.  You remembered to call the limousine service, right?"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "Mm hmm."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "PAULA"
+            }, 
+            "text": "(pulling on her backpack) Well, bye.  And have a safe trip ... and ... Paris in the spring!"
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "MARIAN"
+            }, 
+            "text": "(pensive) Goodbye, sweetheart."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Paula blows her mother a kiss and Marian throws her daugh a little wave."
+        }, 
+        {
+            "head_type": "transition", 
+            "head_text": {
+                "transition": "CUT TO:"
+            }, 
+            "text": ""
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": [
+                    "EAST 5TH STREET"
+                ], 
+                "terior": "EXT.", 
+                "ToD": "DAY", 
+                "shot type": null
+            }, 
+            "text": "Marian steps down the stairs of her daughter's building. smile breaks out on her face when she SEES:"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "A MOTORCADE -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "of idling Harleys in the middle of the street, waiting fo her."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "MARIAN -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "turns to the Head Disciple, materializing behind her, carrying her luggage.  He gestures with his head toward t motorcycles."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "THE MIDDLE OF THE STREET -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "The Disciple Prospect takes Marian's luggage from the Hea Disciple and hauls it over to one of the waiting Harleys straps it on to the carrying rack. Then, he helps Marian onto the back of the Harley she's g to be riding to the airport.  Gently, he places a helmet festooned with decals of fire-breathing reptiles - over h head and affixes the chin-strap."
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "DISCIPLE PROSPECT"
+            }, 
+            "text": "All right?"
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": "Marian nods and beams at the same time. The other Harleys form a circle around Marian's motorcycl The Disciple Prospect gives them a signal and they start one by one, forming a V-shaped procession. Marian, completely comfortable on her motorcycle, her arm around her Disciple escort, her fever dream now manifest. CRANE UP as the procession heads down East 5TH."
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": "WHITE OUT -", 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "head_text": {
+                "speaker/title": "CREDITS"
+            }, 
+            "text": ""
+        }, 
+        {
+            "head_type": "heading", 
+            "head_text": {
+                "subj": null, 
+                "location": null, 
+                "terior": null, 
+                "ToD": null, 
+                "shot type": null
+            }, 
+            "text": ""
+        }
+    ]
+]
