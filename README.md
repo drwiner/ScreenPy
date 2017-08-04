@@ -11,6 +11,9 @@ PyParsing (for parsing shot heading grammar)
 sense2vec (spaCy) (for temporal expression classification)
 
 
+IMSDb screenplay parsing
+---
+
 
 ScreenPy parses raw screenplays. The following table are the stats for a corpus of screenplays extracted from IMSDb (www.imsdb.com). Some screenplays are tagged as multiple genres.
 
