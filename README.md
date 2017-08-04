@@ -63,3 +63,9 @@ Screenplay genre: number of films, avg number of master headings (msegs), avg nu
 | *** | *** | *** | *** | *** | *** | *** | *** | *** |
 |	sum	|	2564	|	2651.29	|	27569.26	|	13344.96	|	12891.72	|	608.97	|	4329.98	|	1713.95	|
 |	avg	|	116.55	|	120.51	|	1253.15	|	606.59	|	585.99	|	27.68	|	196.82	|	77.91	|
+
+
+
+Development
+---
+Working on verb sense disambiguation to classify clauses in stage direction with FrameNet frames using off-the-shelf frame-semantic parser [Semafor] (https://github.com/Noahs-ARK/semafor). 
