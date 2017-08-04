@@ -280,12 +280,12 @@ def annotate(screenplay):
 
 if __name__ == '__main__':
 
-	with open('imsdb_raw_nov_2015//Sci-Fi/abyssthe.txt') as fn:
-		play = fn.read()
-
-	# screenplay = 'indianajonesandtheraidersofthelostark.txt'
-	# with open(screenplay, 'r') as fn:
+	# with open('imsdb_raw_nov_2015//Sci-Fi/abyssthe.txt') as fn:
 	# 	play = fn.read()
+
+	screenplay = 'indianajonesandtheraidersofthelostark.txt'
+	with open(screenplay, 'r') as fn:
+		play = fn.read()
 
 	play = play.replace('??!', '\t\t\t')
 	play = play.replace('\t', '        ')
@@ -299,7 +299,7 @@ if __name__ == '__main__':
 
 	# pickle.dump(masta, open('ij.pkl', 'wb'))
 
-	# with open('indianajonesandtheraidersofthelostark.json', 'w') as fp:
-	# 	json.dump(masta, fp, indent=4)
+	with open('indianajonesandtheraidersofthelostark.json', 'w') as fp:
+		json.dump(masta, fp, indent=4)
 
 
