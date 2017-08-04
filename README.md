@@ -5,10 +5,10 @@ Dependencies:
 ---
 
 
-PyParsing (for parsing shot heading grammar)
+PyParsing  (http://pyparsing.wikispaces.com/) (for parsing shot heading grammar)
 
 
-sense2vec (spaCy) (for temporal expression classification)
+sense2vec (spaCy) (https://github.com/explosion/sense2vec) (for temporal expression classification)
 
 
 IMSDb screenplay parsing
