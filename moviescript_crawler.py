@@ -8,43 +8,6 @@ from os.path import isfile, join, exists
 from screenpile import *
 
 
-def extract_headings(play):
-	heads = []
-	for result, s, t in HEADINGS.scanString(play):
-		indent = result[0]['indent']
-
-		# if indent is a weird screenplay number at random spacing... (
-			# add consequence here
-		if indent < 8:
-			heading_type = 'in_line'
-		elif indent > 50:
-			heading_type = 'transition'
-		elif indent < 18:
-			heading_type = 'heading'
-		else:
-			heading_type = 'speaker'
-
-		heads.append(Heading(heading_type, result[0], s, t, indent))
-	return heads
-
-
-def extract_json(play, headings, output_name):
-	# all headings in one list
-	segments = screenpile_algorithm(headings, play)
-	if segments is None:
-		return
-
-	# nested list, composite are segments, primitive are headings
-	hsegs = separate_into_segs(segments)
-
-	# convert segments into json objects, combine into list
-	json_list = [seg_to_json(seg, i) for i, seg in enumerate(hsegs)]
-
-	# dump json file
-	with open(output_name, 'w') as mf_json:
-		json.dump(json_list, mf_json, indent=4)
-
-
 if __name__ == '__main__':
 
 	# get this path from arguments in command line
@@ -63,7 +26,7 @@ if __name__ == '__main__':
 		movie_files = [f for f in listdir(mp) if isfile(join(mp, f))]
 
 		# make folder in current directory if not exists
-		directory = mp.split('\\')[-1]
+		directory = 'ParserOutput//' + mp.split('\\')[-1]
 		if not exists(directory):
 			makedirs(directory)
 
@@ -80,15 +43,14 @@ if __name__ == '__main__':
 				just_mf = mf[:-4]
 				with open(screenplay, 'r') as screenplay_file:
 					play = screenplay_file.read()
-					play = play.replace('\t', '        ')
 
 				pkl_file_name = directory + "//" +  just_mf + '.pkl'
 				if exists(pkl_file_name) and not DUMP_HEADINGS:
 					play = open(screenplay, 'r').read()
 					headings = pickle.load(open(pkl_file_name, 'rb'))
 				else:
-					headings = extract_headings(play)
-					headings.sort(key=lambda y: y.start, reverse=False)
+					# annotate the play...
+					headings = annotate(play)
 
 					# dump for easy reload later
 					pickle.dump(headings, open(pkl_file_name, 'wb'))
@@ -97,7 +59,8 @@ if __name__ == '__main__':
 
 				json_output_name = directory + "//" + just_mf + '.json'
 				if not exists(json_output_name):
-					extract_json(play, headings, json_output_name)
+					with open(json_output_name, 'w') as mf_json:
+						json.dump(headings, mf_json, indent=4)
 
 			except OverflowError:
 				continue

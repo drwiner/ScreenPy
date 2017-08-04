@@ -111,7 +111,7 @@ if DO_TEST:
 	assert(ToD.parseString('3 AM')[0] == '3 AM')
 	assert(ToD.parseString('3 AM Ambphibean')[0] == '3 AM')
 	assert(ToD.parseString('HELLO CHRISTMAS EVE')[0] == 'HELLO CHRISTMAS EVE')
-	assert(ToD.parseString('HELLO CHRISTMAS EVE.')[0] == 'HELLO CHRISTMAS EVE')
+	assert(ToD.parseString('HELLO CHRISTMAS EVE.')[0] == 'HELLO CHRISTMAS EVE.')
 	assert(ToD.parseString('CHRISTMAS EVE (1942)')[0] == 'CHRISTMAS EVE, (1942)')
 	try:
 		ToD.parseString('WIFE')
@@ -188,8 +188,13 @@ def is_single_cap(s):
 
 # Subj
 X = pp.Combine(pp.OneOrMore(~HYPHEN + pp.Word(ALPHANUMS) + (WH | ~pp.Word(lower)), stopOn=pp.FollowedBy(HYPHEN) | pp.FollowedBy(OHYPHEN) | one_word_title), joinString=' ', adjacent=False)
-SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False).addCondition(lambda token: not is_time(' '.join(token))).addCondition(lambda token: not is_single_cap(' '.join(token)))
-SUBJ.setResultsName('subj')
+X = X.setResultsName('subj')
+SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False)
+# SUBJ = SUBJ.addCondition(lambda token: not is_time(' '.join(token)))
+
+# SUBJ = pp.Combine(X + OPT_M, joinString=', ', adjacent=False).addCondition(lambda token: not is_time(' '.join(token))).setResultsName('subj')
+# SUBJ.setResultsName('subj')
+# SUBJ = X.addCondition(lambda token: not is_time(' '.join(token))).addCondition(lambda token: not is_single_cap(' '.join(token))).setResultsName('subj')
 
 if DO_TEST:
 	# should just get first until HYPHEN
@@ -228,6 +233,14 @@ if DO_TEST:
 
 	t9 = """THE URUBAMBA RIVER\n\n   A amphibian plane sits in the water beneath a green cliff."""
 	assert(SUBJ.parseString(t9)[0] == 'THE URUBAMBA RIVER')
+	try:
+		SUBJ.parseString('U.S. ATTORNEYS')
+	except pp.ParseException:
+		print('bad')
+	try:
+		SUBJ.parseString('GRIZZLY VOICE (O.S.T.)')
+	except pp.ParseException:
+		print('bad')
 
 # SUB
 SUB = (SUBJ + OPT_ToD) | ToD

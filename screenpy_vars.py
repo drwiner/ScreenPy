@@ -6,7 +6,7 @@ EOL = pp.Or(pp.LineEnd().suppress(), pp.Literal('\n'))
 caps = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lower = caps.lower()
 digits = "0123456789"
-ALPHANUMS = caps + digits + '\'' + '\\' + '/' + '\"' + '_' + ',' + '-'
+ALPHANUMS = caps + digits + '\'' + '\\' + '/' + '\"' + '\'' + '_' + ',' + '-' + '.'
 ALL_CHARS = ALPHANUMS + lower
 WH = pp.White().suppress()
 HYPHEN = WH + pp.Literal('-').suppress() + WH
@@ -88,7 +88,7 @@ continuous_action = pp.Or(pp.Literal('CONTINUOUS ACTION'), pp.Literal('continuou
 
 enumerated_time_word = pp.oneOf(['sunrise', 'sunset', 'present', 'later', 'before', 'breakfast', 'lunch', 'dinner', 'past', 'spring', 'summer', 'fall', 'winter', 'easter', 'christmas', 'passover', 'eve', 'dusk', 'ramadan', 'birthday', 'purim', 'holi', 'equinox', 'kwanzaa', 'recent', 'annual', 'sundown', 'sun-down', 'sun-up', 'tonight', 'dawn']) + ~(~WH + pp.Word(pp.alphanums))
 
-stop_words = ~pp.oneOf(['is', 'this', 'that', 'there', 'are', 'were', 'be', 'for', 'with', 'was', 'won\'t', 'aren\'t', 'ain\'t', 'isn\'t', 'not', 'on', 'above', 'into', 'around', 'over', 'in', 'number', 'another', 'third', 'fourth', 'anything', 'hear', 'wife', 'run', 'me', 'case', 'everyone', 'friends'])
+stop_words = ~pp.oneOf(['is', 'home', 'this', 'that', 'there', 'are', 'were', 'be', 'for', 'with', 'was', 'won\'t', 'aren\'t', 'ain\'t', 'isn\'t', 'not', 'on', 'above', 'into', 'around', 'over', 'in', 'number', 'another', 'third', 'fourth', 'anything', 'hear', 'wife', 'run', 'me', 'case', 'everyone', 'friends'])
 
 
 def num_spaces(tokens):
