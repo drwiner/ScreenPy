@@ -12,6 +12,8 @@ sense2vec (spaCy) (for temporal expression classification)
 
 
 
+ScreenPy parses raw screenplays. The following table are the stats for a corpus of screenplays extracted from IMSDb (www.imsdb.com). Some screenplays are tagged as multiple genres.
+
 Screenplay genre: number of films, avg number of master headings (msegs), avg number of segments (segs), avg subset of segments which have shot heading (headings), avg subset of segments which are speaker (speakers), avg number of headings which have a shot type (has shot), avg number of headings which have subject (has subj), and avg number of headings which have a time of day (has tod).
 
 |	GENRE	|	FILMS	|	msegs	|	segs	|	headings	|	speakers	|	has shot	|	has subj	|	has tod	|
