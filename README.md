@@ -25,7 +25,7 @@ Screenplay Structure
 See the attached paper for more details (![Paper](https://github.com/drwiner/ScreenPy/blob/master/INT17_screenplays.pdf))
 
 
-![Segmentation](https://www.github.com/drwiner/screenpy/scene_segs.png)
+![Segmentation](https://www.github.com/drwiner/screenpy/blob/master/scene_segs.png)
 
 
 IMSDb screenplay parsing
@@ -68,4 +68,4 @@ Screenplay genre: number of films, avg number of master headings (msegs), avg nu
 
 Development
 ---
-Working on verb sense disambiguation to classify clauses in stage direction with FrameNet frames using off-the-shelf frame-semantic parser [Semafor] (https://github.com/Noahs-ARK/semafor). 
+Working on verb sense disambiguation to classify clauses in stage direction with FrameNet frames using off-the-shelf frame-semantic parser [Semafor] (https://github.com/Noahs-ARK/semafor).
