@@ -37,22 +37,36 @@ def append_seg_to_stats(stat, seg):
 
 
 def score_genre(screenplay_files):
-	stats = []
+	stats = [0, 0, 0, 0, 0, 0, 0]
+	num_files = 0
 	for file in screenplay_files:
 		with open(file) as json_file:
 			data = json.load(json_file)
 
-		dlg_seg = [0,1,0,0,0,0]
-		segments = []
-		for (heading_item, dialogue_item) in data:
-			seg = get_heading(heading_item['result'])
-			segments.append(seg)
-			segments.extend([dlg_seg for i in range(len(dialogue_item))])
-		stat = [0,0,0,0,0,0,0]
-		for seg in segments:
-			append_seg_to_stats(stat, seg)
-		stats.append(stat)
-	return stats
+		if len(data) == 0:
+			continue
+		num_files += 1
+
+		num_mastas = len(data)
+		num_segs = sum(len(ms) for ms in data)
+		num_headings = sum(1 for ms in data for seg in ms if seg['head_type'] == 'heading')
+		num_speakers = sum(1 for ms in data for seg in ms if seg['head_type'] == 'speaker/title')
+
+		# num_has_lo = sum(1 for ms in data for seg in ms if seg['head_text']['shot type'] is not None)
+		num_has_shot = sum(1 for ms in data for seg in ms if seg['head_type'] == 'heading' and seg['head_text']['shot type'] is not None)
+		num_has_subj = sum(1 for ms in data for seg in ms if seg['head_type'] == 'heading' and seg['head_text']['subj'] is not None)
+		num_has_tod = sum(1 for ms in data for seg in ms if seg['head_type'] == 'heading' and seg['head_text']['ToD'] is not None)
+
+		stats[0] += num_mastas
+		stats[1] += num_segs
+		stats[2] += num_headings
+		stats[3] += num_speakers
+		stats[4] += num_has_shot
+		stats[5] += num_has_subj
+		stats[6] += num_has_tod
+
+	return ([x / num_files if x > 0 else x for x in stats], num_files)
+	# return stats
 
 
 
@@ -62,16 +76,16 @@ if __name__ == '__main__':
 	genre_stats = {}
 	for genre, genre_path in genre_folders:
 		screenplay_files = [join(genre_path, f) for f in listdir(genre_path) if isfile(join(genre_path, f)) and f[-5:] == '.json']
-		genre_stat = score_genre(screenplay_files)
+		genre_stats[genre] = score_genre(screenplay_files)
 
-		sums = [sum(stat[i] for stat in genre_stat) for i in range(7)]
-		avgs = [s/len(genre_stat) for s in sums]
-		genre_stats[genre] = (len(genre_stat), avgs)
+		# sums = [sum(stat[i] for stat in genre_stat) for i in range(7)]
+		# avgs = [s/len(genre_stat) for s in sums]
+		# genre_stats[genre] = (genre_stat, num_fi9les)
 
-	with open('genre_stats.txt', 'w') as genre_file:
-		for genre, (num_screenplays, avgs) in genre_stats.items():
+	with open('genre_stats_new.txt', 'w') as genre_file:
+		for genre, (stat_list, num_screenplays) in genre_stats.items():
 			genre_file.write(str(genre) + '\t')
 			genre_file.write(str(num_screenplays) + '\t')
-			for item in avgs:
+			for item in stat_list:
 				genre_file.write(str(item) + '\t')
 			genre_file.write('\n')

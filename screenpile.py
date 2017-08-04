@@ -137,8 +137,8 @@ def master_segmentize(segs):
 		# here we'll use pyparsing to extract
 		fleshy_text = ' '.join(text_list)
 
-		if head_type is 'heading':
-			if head_text is not '':
+		if head_type == 'heading':
+			if head_text != '':
 				try:
 					parsed_heading = alpha.parseString(head_text)
 					head_dict = heading_wrapper(parsed_heading)
@@ -227,7 +227,7 @@ def assemble_lines(text_lines):
 							pass
 				relevant_text = relevant_text.replace(' -- ', ' - ')
 
-				if len(relevant_text) > 0 and relevant_text[0] is '(' and relevant_text[-1] is ')':
+				if len(relevant_text) > 0 and relevant_text[0] == '(' and relevant_text[-1] == ')':
 					# this is character direction and belongs as dialogue
 					indent_tuples.append(('dialogue', leading_indent, relevant_text))
 					continue

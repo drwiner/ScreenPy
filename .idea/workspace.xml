@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b273f41-4b72-4e91-90f0-689e5266b959" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parsing_stats.py" afterPath="$PROJECT_DIR$/parsing_stats.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenpile.py" afterPath="$PROJECT_DIR$/screenpile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/verb_to_frames.py" afterPath="$PROJECT_DIR$/verb_sense/verb_to_frames.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,23 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="screenpy_formulation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/screenpy_formulation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="e#413#435#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="screenpile.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="screenpile.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/screenpile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="292" column="42" lean-forward="true" selection-start-line="292" selection-start-column="42" selection-end-line="292" selection-end-column="42" />
+            <state relative-caret-position="336">
+              <caret line="289" column="40" lean-forward="true" selection-start-line="289" selection-start-column="40" selection-end-line="289" selection-end-column="40" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -54,36 +45,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="privatelifeofsherlockholmesthe.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParserOutput/Drama/privatelifeofsherlockholmesthe.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-39583">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scarface.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ParserOutput/Drama/scarface.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scarface.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Drama/scarface.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5287">
-              <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,21 +55,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="independenceday.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Action/independenceday.txt">
+      <file leaf-file-name="parsing_stats.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/parsing_stats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="2144" column="21" lean-forward="false" selection-start-line="2144" selection-start-column="21" selection-end-line="2144" selection-end-column="21" />
+            <state relative-caret-position="469">
+              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="judgedredd.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Action/judgedredd.txt">
+      <file leaf-file-name="genre_stats_new.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/genre_stats_new.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3058">
-              <caret line="1634" column="10" lean-forward="false" selection-start-line="1634" selection-start-column="10" selection-end-line="1634" selection-end-column="14" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="128" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anastasia.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParserOutput/Family/anastasia.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,7 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>V.O.)</find>
       <find>GRIZ</find>
       <find>&amp;</find>
       <find>\n</find>
@@ -163,8 +133,9 @@
       <find>DARK CLOUDS</find>
       <find>(HITLER</find>
       <find>:NT.</find>
-      <find>could not</find>
       <find>(HE KNEELS</find>
+      <find>could not</find>
+      <find>score_genre</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -179,7 +150,6 @@
         <option value="$PROJECT_DIR$/segment_instance_extraction.py" />
         <option value="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" />
         <option value="$PROJECT_DIR$/verb_sense/verb_sense_output.txt" />
-        <option value="$PROJECT_DIR$/parsing_stats.py" />
         <option value="$PROJECT_DIR$/test.json" />
         <option value="$PROJECT_DIR$/moviescript_crawler.py" />
         <option value="$PROJECT_DIR$/screenpy_vars.py" />
@@ -187,6 +157,8 @@
         <option value="$PROJECT_DIR$/screenpy_formulation.py" />
         <option value="$PROJECT_DIR$/screenpy.py" />
         <option value="$PROJECT_DIR$/screenpile.py" />
+        <option value="$PROJECT_DIR$/genre_stats_new.txt" />
+        <option value="$PROJECT_DIR$/parsing_stats.py" />
       </list>
     </option>
   </component>
@@ -242,6 +214,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScreenPy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScreenPy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="verb_sense" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScreenPy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ScreenPy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ParserOutput" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -254,11 +254,12 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Documents/Python/ScreenPy/screenpy.py" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Documents\Python\ScreenPy\ParserOutput" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Documents\Python\ScreenPy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\Python\ScreenPy\verb_sense" />
+      <recent name="D:\Documents\Python\ScreenPy\ParserOutput" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.moviescript_crawler">
+  <component name="RunManager" selected="Python.parsing_stats">
     <configuration default="false" name="screenpile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -502,10 +503,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.moviescript_crawler" />
-        <item index="1" class="java.lang.String" itemvalue="Python.screenpile" />
-        <item index="2" class="java.lang.String" itemvalue="Python.screenpy" />
-        <item index="3" class="java.lang.String" itemvalue="Python.parsing_stats" />
+        <item index="0" class="java.lang.String" itemvalue="Python.parsing_stats" />
+        <item index="1" class="java.lang.String" itemvalue="Python.moviescript_crawler" />
+        <item index="2" class="java.lang.String" itemvalue="Python.screenpile" />
+        <item index="3" class="java.lang.String" itemvalue="Python.screenpy" />
         <item index="4" class="java.lang.String" itemvalue="Python.verb-sense-disambig" />
       </list>
     </recent_temporary>
@@ -601,6 +602,11 @@
           <line>18</line>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/parsing_stats.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -612,45 +618,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="193" />
+      <option name="time" value="195" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Sci-Fi/arcade.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Sci-Fi/bookofelithe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5746">
-          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/verb_to_frames.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sentence_parser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Thriller/abyssthe.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -744,16 +716,6 @@
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parsing_stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="e#106#128#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1025,13 +987,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ParserOutput/Family/big.pkl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParserOutput/Family/big.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParserOutput/Family/anastasia.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/screenpile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="292" column="42" lean-forward="true" selection-start-line="292" selection-start-column="42" selection-end-line="292" selection-end-column="42" />
+        <state relative-caret-position="336">
+          <caret line="289" column="40" lean-forward="true" selection-start-line="289" selection-start-column="40" selection-end-line="289" selection-end-column="40" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parsing_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/genre_stats_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="128" />
+          <folding />
         </state>
       </provider>
     </entry>
