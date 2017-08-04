@@ -84,8 +84,8 @@ if __name__ == '__main__':
 
 	with open('genre_stats_new.txt', 'w') as genre_file:
 		for genre, (stat_list, num_screenplays) in genre_stats.items():
-			genre_file.write(str(genre) + '\t')
-			genre_file.write(str(num_screenplays) + '\t')
+			genre_file.write('|' + str(genre) + '\t|\t')
+			genre_file.write(str(num_screenplays) + '\t|\t')
 			for item in stat_list:
-				genre_file.write(str(item) + '\t')
+				genre_file.write(str(item) + '\t|\t')
 			genre_file.write('\n')

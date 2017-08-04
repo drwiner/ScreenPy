@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b273f41-4b72-4e91-90f0-689e5266b959" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scene_segs.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/genre_stats_new.txt" afterPath="$PROJECT_DIR$/genre_stats_new.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parsing_stats.py" afterPath="$PROJECT_DIR$/parsing_stats.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/screenpile.py" afterPath="$PROJECT_DIR$/screenpile.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/verb_to_frames.py" afterPath="$PROJECT_DIR$/verb_sense/verb_to_frames.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,18 +59,28 @@
       <file leaf-file-name="parsing_stats.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parsing_stats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="544">
+              <caret line="86" column="35" lean-forward="false" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="genre_stats_new.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="genre_stats_new.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/genre_stats_new.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="128" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="156" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="30" column="105" lean-forward="true" selection-start-line="30" selection-start-column="105" selection-end-line="30" selection-end-column="105" />
               <folding />
             </state>
           </provider>
@@ -159,6 +170,7 @@
         <option value="$PROJECT_DIR$/screenpile.py" />
         <option value="$PROJECT_DIR$/genre_stats_new.txt" />
         <option value="$PROJECT_DIR$/parsing_stats.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -623,14 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Thriller/abyssthe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Thriller/alienresurrection.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1023,8 +1027,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parsing_stats.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state relative-caret-position="544">
+          <caret line="86" column="35" lean-forward="false" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -1032,7 +1036,15 @@
     <entry file="file://$PROJECT_DIR$/genre_stats_new.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="128" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="156" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="30" column="105" lean-forward="true" selection-start-line="30" selection-start-column="105" selection-end-line="30" selection-end-column="105" />
           <folding />
         </state>
       </provider>
