@@ -22,7 +22,7 @@ sense2vec (spaCy) (https://github.com/explosion/sense2vec) (for temporal express
 Screenplay Structure
 ---
 
-See the attached paper for more details (![Paper](https://www.github.com/drwiner/screenpy/INT17_screenplays.pdf))
+See the attached paper for more details (![Paper](https://raw.githubusercontent.com/drwiner/screenpy/INT17_screenplays.pdf))
 
 
 ![Segmentation](https://www.github.com/drwiner/screenpy/scene_segs.png)
