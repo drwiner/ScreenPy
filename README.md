@@ -3,8 +3,10 @@ Parse and annotate screenplays with markup language
 
 | File     | info |
 |--- | ---|
-|Screenpile | Main algorithms for compiling screenplay structure|
-|Screenpy | Parses shot headings with recursive descent |
+|screenpile | Main algorithms for compiling screenplay structure|
+|screenpy | Parses shot headings with recursive descent |
+|screenpy_vars | Defines valid shot heading element patterns |
+|screenpy_tests | Extra tests in addition to screenpy |
 |moviescript_crawler | crawls through imsdb_raw_nov_2015 folder |
 |parsing_stats | outputs table (below) |
 
