@@ -1,4 +1,4 @@
-# this script crawls through my local moviescript library to assemble a single file.
+# this script crawls through my local moviescript library to assemble the corpus.
 
 
 # import os
