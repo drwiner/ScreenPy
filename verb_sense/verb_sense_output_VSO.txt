@@ -1,0 +1,80 @@
+verb:	lower
+frame:	['Cause_change_of_position_on_a_scale', 96]
+args:
+	['the torch', 'Item']
+	['He', 'Agent']
+synsets:
+	Synset('lower.v.04')
+	Synset('lower.v.02')
+	Synset('lower.v.01')
+
+
+verb:	look
+frame:	['Scrutiny', 31]
+args:
+	['Indy', 'Cognizer']
+synsets:
+	Synset('look.v.07')
+	Synset('search.v.02')
+	Synset('look.v.09')
+	Synset('look.v.01')
+	Synset('look.v.02')
+	Synset('look.v.03')
+
+
+verb:	step
+frame:	['Intentionally_act', 198]
+args:
+	['onto skeletons , which make a cracking noise under his feet', 'Act']
+	['he', 'Agent']
+synsets:
+	Synset('step.v.01')
+	Synset('step.v.03')
+	Synset('step.v.02')
+	Synset('step.v.05')
+	Synset('step.v.10')
+	Synset('step.v.07')
+	Synset('step.v.08')
+	Synset('step.v.06')
+
+
+verb:	make
+frame:	['Causation', 5]
+args:
+	['which', 'Cause']
+	['a cracking noise', 'Effect']
+synsets:
+	Synset('make.v.19')
+	Synset('make.v.49')
+	Synset('make.v.48')
+	Synset('make.v.45')
+	Synset('make.v.47')
+	Synset('make.v.46')
+	Synset('make.v.27')
+	Synset('make.v.43')
+	Synset('make.v.42')
+	Synset('make.v.01')
+	Synset('make.v.03')
+	Synset('make.v.02')
+	Synset('make.v.41')
+	Synset('cause.v.01')
+	Synset('make.v.24')
+	Synset('make.v.44')
+	Synset('make.v.25')
+	Synset('make.v.16')
+	Synset('make.v.34')
+	Synset('make.v.35')
+	Synset('make.v.36')
+	Synset('make.v.37')
+	Synset('make.v.30')
+	Synset('make.v.31')
+	Synset('make.v.14')
+	Synset('make.v.33')
+	Synset('make.v.18')
+	Synset('make.v.15')
+	Synset('make.v.38')
+	Synset('make.v.08')
+	Synset('make.v.32')
+	Synset('induce.v.02')
+
+

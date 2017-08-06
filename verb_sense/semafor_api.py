@@ -15,7 +15,7 @@ from collections import namedtuple
 framedText = namedtuple('framedText', ['text', 'frame'])
 targetFrame = namedtuple('targetFrame', ['target_frame', 'descendants'])
 
-@clock
+# @clock
 def semafor(sock, text, reconnect=None):
 
 	if reconnect is not None:
@@ -33,7 +33,10 @@ def semafor(sock, text, reconnect=None):
 		chunk = sock.recv(8192)
 		if not chunk:
 			break
-		response.append(eval(chunk.decode('utf-8')))
+		try:
+			response.append(eval(chunk.decode('utf-8')))
+		except SyntaxError:
+			return None
 	return response
 
 
@@ -53,12 +56,14 @@ def semafor_util(semafor_output):
 	for item in semafor_output:
 		# for each sentences top_level frames
 		sent_frames = {}
+
 		for annotation_set in item['frames']:
 
 			# figure out target and text
 			target = annotation_set['target']
 			target_frame = target['name']
 			target_text = span_to_text(target['spans'])
+			# target_id = target['ID']
 			# top_frame = framedText(target_text, target_frame)
 			# target_index = (target['spans'][0]['start'], target['spans'][0]['start'])
 
@@ -74,12 +79,13 @@ def semafor_util(semafor_output):
 					descendants.append(framedText(arg_text, arg_frame))
 
 			sent_frames.update({wordnet_lemmatizer.lemmatize(target_text): targetFrame(target_frame, descendants)})
+
 		sents.append(sent_frames)
 	return sents
 
 
 if __name__ == '__main__':
-	from dep_conll_api import setup_parser as corenlp
+	from verb_sense.dep_conll_api import setup_parser as corenlp
 
 	# setup parser to listen to 8080
 	# base_path = 'D:/Documents/python/NLP/semafor-master/semafor-master/'

@@ -83,15 +83,6 @@ def match_triples_to_clause(clause_dict, triples):
 	trips = [trip for trip in triples for arg in trip if verb_lemma in arg]
 
 	cdict = {key: lemmatize(val.split('_')[0].lower()) for key, val in clause_dict.items()}
-	# arg_map = {}
-	# for trip in trips:
-	# 	for arg in trip:
-	# 		if arg[-1] == '\n':
-	# 			continue
-	# 		for key, val in cdict.items():
-	# 			if val in arg[1:-1].split():
-	# 				arg_map[key] = (val, arg)
-	# 				break
 
 	arg_list = []
 	for key, val in cdict.items():
@@ -172,7 +163,7 @@ def sense_profile(raw_text):
 	return action_senses
 
 
-	# for each sentence,
+	# for each sentence,Indy looks up at the ceiling of the landing, then steps onto skeletons, which make a cracking noise under his feet.
 	# print('play from here')
 
 
