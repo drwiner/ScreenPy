@@ -51,7 +51,8 @@ def semafor_util(semafor_output):
 	:return: dict, intuitive breakdown for ease of use
 	"""
 	sents = []
-
+	if semafor_output is None:
+		return sents
 	# a list where for each sentence, we have keys: [frames, tokens]
 	for item in semafor_output:
 		# for each sentences top_level frames

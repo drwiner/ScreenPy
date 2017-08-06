@@ -204,7 +204,7 @@ def compile_profile(fld, svd):
 	return action_senses
 
 
-@clock
+# @clock
 def sense_profile(raw_text):
 	# no longer reducing with clausie
 	# verb_to_synsets_dict = clausIE(raw_text)

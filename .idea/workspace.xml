@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b273f41-4b72-4e91-90f0-689e5266b959" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VSD_crawler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/verb_sense/VSD.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VSD_crawler.py" afterPath="$PROJECT_DIR$/VSD_crawler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verb_sense/VSD_withSpacy.py" afterPath="$PROJECT_DIR$/verb_sense/VSD_withSpacy.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verb_sense/semafor_api.py" afterPath="$PROJECT_DIR$/verb_sense/semafor_api.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" afterPath="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verb_sense/verb_sense_output.txt" afterPath="$PROJECT_DIR$/verb_sense/verb_sense_output.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verb_sense/verb_to_frames.py" afterPath="$PROJECT_DIR$/verb_sense/verb_to_frames.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,26 +26,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="screenpile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/screenpile.py">
+      <file leaf-file-name="VSD_crawler.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VSD_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="433">
+              <caret line="93" column="82" lean-forward="false" selection-start-line="93" selection-start-column="82" selection-end-line="93" selection-end-column="82" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#341#373#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VSD_crawler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VSD_crawler.py">
+      <file leaf-file-name="wonderboys.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParserOutput_VSD/Comedy/wonderboys.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="61" column="56" lean-forward="true" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
-              <folding>
-                <element signature="e#341#373#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-14076">
+              <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wonderboys.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ParserOutput/Comedy/wonderboys.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/ParserOutput_VSD/Action/batman2.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1406413">
-              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -68,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Action/badboys.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
-              <caret line="559" column="0" lean-forward="true" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
+              <caret line="559" column="0" lean-forward="false" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -77,8 +81,8 @@
       <file leaf-file-name="badboys.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ParserOutput/Action/badboys.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="543" column="38" lean-forward="true" selection-start-line="543" selection-start-column="38" selection-end-line="543" selection-end-column="38" />
+            <state relative-caret-position="306">
+              <caret line="543" column="38" lean-forward="false" selection-start-line="543" selection-start-column="38" selection-end-line="543" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -88,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/moviescript_crawler.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="738">
-              <caret line="48" column="55" lean-forward="true" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+              <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
               <folding>
                 <element signature="e#96#128#0" expanded="true" />
               </folding>
@@ -99,8 +103,8 @@
       <file leaf-file-name="VSD_withSpacy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/verb_sense/VSD_withSpacy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="216" column="34" lean-forward="false" selection-start-line="216" selection-start-column="22" selection-end-line="216" selection-end-column="34" />
+            <state relative-caret-position="264">
+              <caret line="216" column="46" lean-forward="false" selection-start-line="216" selection-start-column="46" selection-end-line="216" selection-end-column="46" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -108,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="semafor_api.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="semafor_api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/verb_sense/semafor_api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="52" column="14" lean-forward="false" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+            <state relative-caret-position="264">
+              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -123,16 +127,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-20400">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="verb_sense_output_VSD.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/verb_sense/verb_sense_output_VSD.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -206,17 +200,17 @@
         <option value="$PROJECT_DIR$/verb_sense/verb-sense-disambig.py" />
         <option value="$PROJECT_DIR$/verb_sense/verb_sense_output_VSD.txt" />
         <option value="$PROJECT_DIR$/verb_sense/VSD.py" />
-        <option value="$PROJECT_DIR$/VSD_crawler.py" />
-        <option value="$PROJECT_DIR$/verb_sense/VSD_withSpacy.py" />
         <option value="$PROJECT_DIR$/verb_sense/semafor_api.py" />
+        <option value="$PROJECT_DIR$/verb_sense/VSD_withSpacy.py" />
+        <option value="$PROJECT_DIR$/VSD_crawler.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1416" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="2558" />
+    <option name="height" value="1398" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -291,10 +285,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ParserOutput_VSD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Action" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -597,20 +587,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
+    <frame x="1" y="1" width="2558" height="1398" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.49118683" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18095988" sideWeight="0.49118683" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3488906" sideWeight="0.14023438" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3537626" sideWeight="0.14555468" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976282" sideWeight="0.4984375" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33741394" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3488906" sideWeight="0.85976565" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3537626" sideWeight="0.85444534" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11938534" sideWeight="0.50881314" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35960215" sideWeight="0.815625" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35960215" sideWeight="0.8109375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -694,6 +684,11 @@
           <line>47</line>
           <option name="timeStamp" value="224" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/VSD_crawler.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -705,25 +700,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="237" />
+      <option name="time" value="241" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Comedy/evencowgirlsgettheblues.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="1840" column="31" lean-forward="false" selection-start-line="1840" selection-start-column="30" selection-end-line="1840" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Sci-Fi/abyssthe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="828" column="17" lean-forward="false" selection-start-line="828" selection-start-column="14" selection-end-line="828" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Comedy/almostfamous.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1836">
@@ -1054,8 +1035,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ParserOutput/Action/badboys.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="543" column="38" lean-forward="true" selection-start-line="543" selection-start-column="38" selection-end-line="543" selection-end-column="38" />
+        <state relative-caret-position="306">
+          <caret line="543" column="38" lean-forward="false" selection-start-line="543" selection-start-column="38" selection-end-line="543" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -1071,7 +1052,7 @@
     <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Action/badboys.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="559" column="0" lean-forward="true" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
+          <caret line="559" column="0" lean-forward="false" selection-start-line="559" selection-start-column="0" selection-end-line="559" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1079,7 +1060,7 @@
     <entry file="file://$PROJECT_DIR$/moviescript_crawler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
-          <caret line="48" column="55" lean-forward="true" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+          <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
           <folding>
             <element signature="e#96#128#0" expanded="true" />
           </folding>
@@ -1089,7 +1070,7 @@
     <entry file="file://$PROJECT_DIR$/ParserOutput_VSD/Action/batman2.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1406413">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -1102,20 +1083,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VSD_crawler.py">
+    <entry file="file://$PROJECT_DIR$/ParserOutput/Comedy/wonderboys.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="61" column="56" lean-forward="true" selection-start-line="61" selection-start-column="56" selection-end-line="61" selection-end-column="56" />
-          <folding>
-            <element signature="e#341#373#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="391">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParserOutput_VSD/Comedy/wonderboys.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14076">
+          <caret line="23" column="47" lean-forward="false" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/verb_sense/VSD_withSpacy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="216" column="34" lean-forward="false" selection-start-line="216" selection-start-column="22" selection-end-line="216" selection-end-column="34" />
+        <state relative-caret-position="264">
+          <caret line="216" column="46" lean-forward="false" selection-start-line="216" selection-start-column="46" selection-end-line="216" selection-end-column="46" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
@@ -1124,9 +1111,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/verb_sense/semafor_api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="52" column="14" lean-forward="false" selection-start-line="52" selection-start-column="14" selection-end-line="52" selection-end-column="14" />
+        <state relative-caret-position="264">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="93" column="82" lean-forward="false" selection-start-line="93" selection-start-column="82" selection-end-line="93" selection-end-column="82" />
+          <folding>
+            <element signature="e#341#373#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
