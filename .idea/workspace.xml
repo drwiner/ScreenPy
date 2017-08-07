@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b273f41-4b72-4e91-90f0-689e5266b959" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VSD_stats.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VSD_stats.py" afterPath="$PROJECT_DIR$/VSD_stats.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,35 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="VSD_crawler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VSD_crawler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-84">
-              <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-              <folding>
-                <element signature="e#341#373#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="moviescript_crawler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moviescript_crawler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
-              <folding>
-                <element signature="e#96#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VSD_stats.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="VSD_stats.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/VSD_stats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <state relative-caret-position="700">
+              <caret line="145" column="58" lean-forward="true" selection-start-line="145" selection-start-column="58" selection-end-line="145" selection-end-column="58" />
               <folding>
                 <element signature="e#303#335#0" expanded="true" />
               </folding>
@@ -61,17 +36,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VSD_frame_dict_by_genre_Action.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VSD_frame_dict_by_genre_Action.txt">
+      <file leaf-file-name="VSD_frame_dict_by_genre_Western.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Western.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="561">
+              <caret line="25" column="133" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="339" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="genre_stats_new.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="VSD_frame_dict_by_genre_Family.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Family.txt">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VSD_frame_dict_by_genre_Horror.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Horror.txt">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VSD_frame_dict_by_genre_Short.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Short.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="386" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VSD_frame_dict_by_genre_Action.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Action.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="515" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="516" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="genre_stats_new.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/genre_stats_new.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -81,54 +90,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VSD_frame_dict_by_genre" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VSD_frame_dict_by_genre">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="VSD_genre_stats.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/VSD_genre_stats.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="68" lean-forward="true" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parser_errors.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parser_errors.txt">
+        <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_genre_stats.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parsing_stats.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parsing_stats.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="84" column="4" lean-forward="false" selection-start-line="84" selection-start-column="4" selection-end-line="90" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VSD_withSpacy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/verb_sense/VSD_withSpacy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="200" column="12" lean-forward="false" selection-start-line="200" selection-start-column="12" selection-end-line="200" selection-end-column="92" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +111,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>INT. FUNERAL HOME - DAY</find>
       <find>??!</find>
       <find>???</find>
       <find>(</find>
@@ -174,6 +140,7 @@
       <find>get_lemma_frames</find>
       <find>ehre</find>
       <find>@clock</find>
+      <find>output_genre_stats</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -209,10 +176,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2552" />
-    <option name="y" value="352" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -272,13 +239,14 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Documents/Python/ScreenPy/screenpy.py" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Documents\Python\ScreenPy\verb_sense" />
-      <recent name="D:\Documents\Python\ScreenPy\ParserOutput" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Documents\Python\ScreenPy\verb_sense" />
       <recent name="D:\Documents\Python\ScreenPy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\Python\ScreenPy\VSD_genre" />
+      <recent name="D:\Documents\Python\ScreenPy\verb_sense" />
+      <recent name="D:\Documents\Python\ScreenPy\ParserOutput" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -547,15 +515,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2552" y="352" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24114583" sideWeight="0.49118683" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18085937" sideWeight="0.49118683" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4680851" sideWeight="0.15625" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35348126" sideWeight="0.15507813" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33741394" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4680851" sideWeight="0.84375" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35348126" sideWeight="0.8449219" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983872" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11938534" sideWeight="0.50881314" order="2" side_tool="true" content_ui="tabs" />
@@ -651,7 +619,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/VSD_stats.py</url>
-          <line>59</line>
+          <line>55</line>
           <option name="timeStamp" value="241" />
         </line-breakpoint>
       </breakpoints>
@@ -670,62 +638,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ParserOutput/Drama/privatelifeofsherlockholmesthe.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39583">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParserOutput/Drama/scarface.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Drama/scarface.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5287">
-          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenpy_formulation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParserOutput/Family/big.pkl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ParserOutput/Family/anastasia.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indianajonesandtheraidersofthelostark.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="672" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8248" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="3875" column="16" lean-forward="false" selection-start-line="3875" selection-start-column="16" selection-end-line="3875" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/imsdb_raw_nov_2015/Drama/heist.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
@@ -988,7 +900,7 @@
         <state relative-caret-position="816">
           <caret line="48" column="55" lean-forward="false" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
           <folding>
-            <element signature="e#96#128#0" expanded="true" />
+            <element signature="e#96#128#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1021,18 +933,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VSD_frame_dict_by_genre_Action.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/VSD_frame_dict_by_genre">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1045,21 +949,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VSD_genre_stats.txt">
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_genre_stats.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="68" lean-forward="true" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/VSD_stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding>
-            <element signature="e#303#335#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1068,6 +962,79 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="156" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Musical.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Action.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="515" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="516" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Family.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Horror.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_History.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Short.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="386" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_genre_stats_westerns.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Romance.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_genre/VSD_frame_dict_by_genre_Western.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="25" column="133" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="339" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VSD_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="145" column="58" lean-forward="true" selection-start-line="145" selection-start-column="58" selection-end-line="145" selection-end-column="58" />
+          <folding>
+            <element signature="e#303#335#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
