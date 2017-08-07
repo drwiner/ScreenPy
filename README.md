@@ -68,7 +68,10 @@ Screenplay genre: number of films, avg number of master headings (msegs), avg nu
 
 
 ### Verb sense disambiguation
+
+
 genre	|	num	|	avg SD frames / screenplay	|	avg frames / mseg	|	avg frames / seg	|	avg msegs / screenplay	|	avg segs / screenplay	|	avg headings/screenplay	|	avg speaking-turns/ screenplay	|	avg has-shot		|	avg has-shot	|	has-subj	|
+|	---------	|	---------	|	---------	|	---------	|	---------	|	---------	|	---------	|	---------	|	---------	| ---------	|	---------	|	---------	|
 Western	|	10	|	1442.10	|	9.90	|	1.05	|	145.7	|	1367.1	|	706	|	602.1	|	76.1		|	223.5	|	103.3	|
 Film-Noir	|	4	|	1353.00	|	27.33	|	0.88	|	49.5	|	1535	|	721.75	|	786.5	|	139.25		|	201.5	|	13	|
 Sport	|	2	|	1170.00	|	5.11	|	0.85	|	229	|	1380	|	881	|	499	|	3		|	647	|	71	|
