@@ -1,0 +1,192 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "text": "COLIN emerges onto the street... Closes the door behind him... We move in on his brave/sad face as he gazes up at the old, bluey, London sky, and says to Liz's spirit...", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": "EXT.", 
+                "location": [
+                    "STREET OUTSIDE HOUSE."
+                ], 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "move", 
+                    [
+                        "Motion", 
+                        7
+                    ], 
+                    [
+                        "Synset('travel.v.01')", 
+                        "Synset('move.v.02')", 
+                        "Synset('move.v.03')", 
+                        "Synset('move.v.04')", 
+                        "Synset('go.v.02')", 
+                        "Synset('be_active.v.01')", 
+                        "Synset('move.v.07')", 
+                        "Synset('act.v.01')", 
+                        "Synset('affect.v.05')", 
+                        "Synset('motivate.v.01')", 
+                        "Synset('move.v.11')", 
+                        "Synset('move.v.12')", 
+                        "Synset('move.v.13')", 
+                        "Synset('move.v.14')", 
+                        "Synset('move.v.15')", 
+                        "Synset('move.v.16')"
+                    ], 
+                    [
+                        [
+                            "We", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "gaze", 
+                    [
+                        "Perception_active", 
+                        66
+                    ], 
+                    [
+                        "Synset('gaze.v.01')"
+                    ], 
+                    [
+                        [
+                            "he", 
+                            "Perceiver_agentive"
+                        ]
+                    ]
+                ], 
+                [
+                    "say", 
+                    [
+                        "Statement", 
+                        43
+                    ], 
+                    [
+                        "Synset('state.v.01')", 
+                        "Synset('allege.v.01')", 
+                        "Synset('suppose.v.01')", 
+                        "Synset('read.v.02')", 
+                        "Synset('order.v.01')", 
+                        "Synset('pronounce.v.01')", 
+                        "Synset('say.v.07')", 
+                        "Synset('say.v.08')", 
+                        "Synset('say.v.09')", 
+                        "Synset('say.v.10')", 
+                        "Synset('say.v.11')"
+                    ], 
+                    [
+                        [
+                            "to Liz 's spirit", 
+                            "Message"
+                        ], 
+                        [
+                            "We", 
+                            "Speaker"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "(Humbled. Accepting.       Very quiet) Be lucky, Liz.", 
+            "head_text": {
+                "speaker/title": "COLIN"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Slowly he begins to walk the wet street... Away from us.. Towards his new life...", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "begin", 
+                    [
+                        "Activity_start", 
+                        146
+                    ], 
+                    [
+                        "Synset('get_down.v.07')", 
+                        "Synset('begin.v.02')", 
+                        "Synset('begin.v.03')", 
+                        "Synset('begin.v.04')", 
+                        "Synset('begin.v.05')", 
+                        "Synset('begin.v.06')", 
+                        "Synset('begin.v.07')", 
+                        "Synset('begin.v.08')", 
+                        "Synset('begin.v.09')", 
+                        "Synset('begin.v.10')"
+                    ], 
+                    [
+                        [
+                            "to walk the wet street", 
+                            "Activity"
+                        ], 
+                        [
+                            "he", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "walk", 
+                    [
+                        "Self_motion", 
+                        64
+                    ], 
+                    [
+                        "Synset('walk.v.01')", 
+                        "Synset('walk.v.02')", 
+                        "Synset('walk.v.03')", 
+                        "Synset('walk.v.04')", 
+                        "Synset('walk.v.05')", 
+                        "Synset('walk.v.06')", 
+                        "Synset('walk.v.07')", 
+                        "Synset('walk.v.08')", 
+                        "Synset('walk.v.09')", 
+                        "Synset('walk.v.10')"
+                    ], 
+                    [
+                        [
+                            "he", 
+                            "Self_mover"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": "THE END"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }
+        }
+    ]
+]

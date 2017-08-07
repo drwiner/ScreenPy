@@ -1,0 +1,4018 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "text": "", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": "FADE IN"
+            }
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "text": "ALBERT, a middle-aged man, feeds MELVIN, a two-year-old.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": "INT.", 
+                "location": [
+                    "LIVING ROOM", 
+                    "NIGHT."
+                ], 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "feed", 
+                    [
+                        "Ingestion", 
+                        263
+                    ], 
+                    [
+                        "Synset('feed.v.01')", 
+                        "Synset('feed.v.02')", 
+                        "Synset('feed.v.03')", 
+                        "Synset('feed.v.04')", 
+                        "Synset('feed.v.05')", 
+                        "Synset('feed.v.06')", 
+                        "Synset('feed.v.07')", 
+                        "Synset('run.v.06')", 
+                        "Synset('prey.v.01')", 
+                        "Synset('feed.v.10')", 
+                        "Synset('fertilize.v.01')"
+                    ], 
+                    []
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "I loved my father and he taught me many useful things. But he didn't teach me anything at all about women. There was a time when I resented that. And then, one day, it occurred to me that perhaps he didn't know all that much about the fairer sex. On the other side of the room, CORINNE, a vulgar, morbidly obese woman, sits on the couch and devours a large packet of potato chips.", 
+            "head_text": {
+                "speaker/title": "ADULT MELVIN (V.O.)"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "One look at my mother and I had conclusive proof. She burps loudly and gives a smile of satisfaction. EXT.   EAST PERTH STREETS    -    PRESENT DAY. MELVIN, now thirty-two, walks along with MIKE, three. Both are bespectacled.", 
+            "head_text": {
+                "speaker/title": "ADULT MELVIN (V.O.)"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Here's what I'm going to do, son. I'll give it to you straight. I'm not going to fill your head with stories about fictitious characters like Santa Claus or the Easter Bunny or God. There's only one thing you need to worry about in this life and that's women. And I'm going to teach you everything I know about the art of meeting, courting and seducing 'em. Don't worry about anything else, there's nothing more important. Reading, writing, toilet training you can learn later in life.", 
+            "head_text": {
+                "speaker/title": "MELVIN"
+            }
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "", 
+            "head_text": {
+                "transition": "2."
+            }
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "text": "Mike, wearing cute denim overalls with a teddy bear embroidered on the front, stands on a footstool in front of Melvin and a TAILOR.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": "INT.", 
+                "location": [
+                    "DEPARTMENT STORE", 
+                    "DAY."
+                ], 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "stand", 
+                    [
+                        "Being_located", 
+                        960
+                    ], 
+                    [
+                        "Synset('stand.v.01')", 
+                        "Synset('stand.v.02')", 
+                        "Synset('stand.v.03')", 
+                        "Synset('stand.v.04')", 
+                        "Synset('digest.v.03')", 
+                        "Synset('stand.v.06')", 
+                        "Synset('stand.v.07')", 
+                        "Synset('stand.v.08')", 
+                        "Synset('stand.v.09')", 
+                        "Synset('stand.v.10')", 
+                        "Synset('resist.v.04')", 
+                        "Synset('stand.v.12')"
+                    ], 
+                    [
+                        [
+                            "with a teddy bear embroidered on the front", 
+                            "Theme"
+                        ], 
+                        [
+                            "on a footstool in front of Melvin and a TAILOR.", 
+                            "Location"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Clothes maketh or unmaketh the man. What were you thinking when you put that on this morning? That you were going to spend the day in the sandpit? Mike responds with a look of innocence and confusion.", 
+            "head_text": {
+                "speaker/title": "MELVIN"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "(to tailor)", 
+            "head_text": {
+                "speaker/title": "MELVIN"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "We'll take the best you've got. (to Mike)", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "take", 
+                    [
+                        "Have_as_requirement", 
+                        1491
+                    ], 
+                    [
+                        "Synset('take.v.01')", 
+                        "Synset('take.v.02')", 
+                        "Synset('lead.v.01')", 
+                        "Synset('take.v.04')", 
+                        "Synset('assume.v.03')", 
+                        "Synset('take.v.06')", 
+                        "Synset('bring.v.01')", 
+                        "Synset('take.v.08')", 
+                        "Synset('take.v.09')", 
+                        "Synset('choose.v.01')", 
+                        "Synset('accept.v.02')", 
+                        "Synset('fill.v.04')", 
+                        "Synset('consider.v.03')", 
+                        "Synset('necessitate.v.01')", 
+                        "Synset('take.v.15')", 
+                        "Synset('film.v.01')", 
+                        "Synset('remove.v.01')", 
+                        "Synset('consume.v.02')", 
+                        "Synset('take.v.19')", 
+                        "Synset('take.v.20')", 
+                        "Synset('take.v.21')", 
+                        "Synset('assume.v.05')", 
+                        "Synset('accept.v.05')", 
+                        "Synset('take.v.24')", 
+                        "Synset('learn.v.04')", 
+                        "Synset('claim.v.05')", 
+                        "Synset('take.v.27')", 
+                        "Synset('aim.v.01')", 
+                        "Synset('take.v.29')", 
+                        "Synset('carry.v.02')", 
+                        "Synset('lease.v.04')", 
+                        "Synset('subscribe.v.05')", 
+                        "Synset('take.v.33')", 
+                        "Synset('take.v.34')", 
+                        "Synset('take.v.35')", 
+                        "Synset('claim.v.04')", 
+                        "Synset('accept.v.08')", 
+                        "Synset('contain.v.05')", 
+                        "Synset('take.v.39')", 
+                        "Synset('drive.v.16')", 
+                        "Synset('take.v.41')", 
+                        "Synset('contract.v.04')"
+                    ], 
+                    [
+                        [
+                            "We", 
+                            "Dependent"
+                        ], 
+                        [
+                            "the best", 
+                            "Requirement"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "The finer the threads, the more inclined the ladies will be to tear them off. I know, don't try to make sense of their logic. They have none. EXT.   CAFE   -   DAY. Melvin at a table with Mike, who is now dressed in smart casual attire and looks more like his father. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "tear", 
+                    [
+                        "Removing", 
+                        63
+                    ], 
+                    [
+                        "Synset('tear.v.01')", 
+                        "Synset('tear.v.02')", 
+                        "Synset('tear.v.03')", 
+                        "Synset('pluck.v.05')", 
+                        "Synset('tear.v.05')"
+                    ], 
+                    [
+                        [
+                            "the ladies", 
+                            "Agent"
+                        ], 
+                        [
+                            "them", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "know", 
+                    [
+                        "Awareness", 
+                        19
+                    ], 
+                    [
+                        "Synset('know.v.01')", 
+                        "Synset('know.v.02')", 
+                        "Synset('know.v.03')", 
+                        "Synset('know.v.04')", 
+                        "Synset('know.v.05')", 
+                        "Synset('acknowledge.v.06')", 
+                        "Synset('know.v.07')", 
+                        "Synset('sleep_together.v.01')", 
+                        "Synset('know.v.09')", 
+                        "Synset('know.v.10')", 
+                        "Synset('know.v.11')"
+                    ], 
+                    [
+                        [
+                            "to make sense of their logic", 
+                            "Content"
+                        ], 
+                        [
+                            "I", 
+                            "Cognizer"
+                        ]
+                    ]
+                ], 
+                [
+                    "do", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('perform.v.01')", 
+                        "Synset('do.v.03')", 
+                        "Synset('do.v.04')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('practice.v.01')", 
+                        "Synset('suffice.v.01')", 
+                        "Synset('do.v.08')", 
+                        "Synset('act.v.02')", 
+                        "Synset('serve.v.09')", 
+                        "Synset('do.v.11')", 
+                        "Synset('dress.v.16')", 
+                        "Synset('do.v.13')"
+                    ], 
+                    [
+                        [
+                            "I", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "try", 
+                    [
+                        "Attempt", 
+                        116
+                    ], 
+                    [
+                        "Synset('try.v.01')", 
+                        "Synset('test.v.01')", 
+                        "Synset('judge.v.05')", 
+                        "Synset('sample.v.01')", 
+                        "Synset('hear.v.03')", 
+                        "Synset('try.v.06')", 
+                        "Synset('try.v.07')", 
+                        "Synset('try.v.08')", 
+                        "Synset('try_on.v.01')"
+                    ], 
+                    [
+                        [
+                            "to make sense of their logic", 
+                            "Goal"
+                        ], 
+                        [
+                            "I", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "make", 
+                    [
+                        "Causation", 
+                        5
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('make.v.02')", 
+                        "Synset('make.v.03')", 
+                        "Synset('induce.v.02')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('produce.v.02')", 
+                        "Synset('draw.v.04')", 
+                        "Synset('make.v.08')", 
+                        "Synset('create.v.05')", 
+                        "Synset('gain.v.08')", 
+                        "Synset('do.v.08')", 
+                        "Synset('form.v.02')", 
+                        "Synset('reach.v.07')", 
+                        "Synset('make.v.14')", 
+                        "Synset('make.v.15')", 
+                        "Synset('make.v.16')", 
+                        "Synset('construct.v.01')", 
+                        "Synset('make.v.18')", 
+                        "Synset('make.v.19')", 
+                        "Synset('name.v.03')", 
+                        "Synset('have.v.17')", 
+                        "Synset('reach.v.01')", 
+                        "Synset('lay_down.v.01')", 
+                        "Synset('make.v.24')", 
+                        "Synset('make.v.25')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('make.v.27')", 
+                        "Synset('take.v.27')", 
+                        "Synset('stool.v.04')", 
+                        "Synset('make.v.30')", 
+                        "Synset('make.v.31')", 
+                        "Synset('make.v.32')", 
+                        "Synset('make.v.33')", 
+                        "Synset('make.v.34')", 
+                        "Synset('make.v.35')", 
+                        "Synset('make.v.36')", 
+                        "Synset('make.v.37')", 
+                        "Synset('make.v.38')", 
+                        "Synset('cook.v.02')", 
+                        "Synset('seduce.v.01')", 
+                        "Synset('make.v.41')", 
+                        "Synset('make.v.42')", 
+                        "Synset('make.v.43')", 
+                        "Synset('make.v.44')", 
+                        "Synset('make.v.45')", 
+                        "Synset('make.v.46')", 
+                        "Synset('make.v.47')", 
+                        "Synset('make.v.48')", 
+                        "Synset('make.v.49')"
+                    ], 
+                    [
+                        [
+                            "sense of their logic", 
+                            "Effect"
+                        ]
+                    ]
+                ], 
+                [
+                    "have", 
+                    [
+                        "Being_obligated", 
+                        392
+                    ], 
+                    [], 
+                    [
+                        [
+                            "They", 
+                            "Responsible_party"
+                        ]
+                    ]
+                ], 
+                [
+                    "look", 
+                    [
+                        "Scrutiny", 
+                        31
+                    ], 
+                    [
+                        "Synset('look.v.01')", 
+                        "Synset('look.v.02')", 
+                        "Synset('look.v.03')", 
+                        "Synset('search.v.02')", 
+                        "Synset('front.v.01')", 
+                        "Synset('attend.v.02')", 
+                        "Synset('look.v.07')", 
+                        "Synset('expect.v.03')", 
+                        "Synset('look.v.09')", 
+                        "Synset('count.v.08')"
+                    ], 
+                    []
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Of course, it's not all about clothes. It's the way you carry yourself too. You've gotta make a conscious effort to be relaxed but in control in all situations. And a little playful. Go for an expression where you're suppressing mild amusement. But don't overdo it. You want to look dignified at all times. Melvin glances over to Mike, who is picking his nose. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "carry", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('impart.v.03')", 
+                        "Synset('behave.v.02')"
+                    ], 
+                    [
+                        [
+                            "yourself", 
+                            "Act"
+                        ], 
+                        [
+                            "you", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "make", 
+                    [
+                        "Causation", 
+                        5
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('make.v.02')", 
+                        "Synset('make.v.03')", 
+                        "Synset('induce.v.02')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('produce.v.02')", 
+                        "Synset('draw.v.04')", 
+                        "Synset('make.v.08')", 
+                        "Synset('create.v.05')", 
+                        "Synset('gain.v.08')", 
+                        "Synset('do.v.08')", 
+                        "Synset('form.v.02')", 
+                        "Synset('reach.v.07')", 
+                        "Synset('make.v.14')", 
+                        "Synset('make.v.15')", 
+                        "Synset('make.v.16')", 
+                        "Synset('construct.v.01')", 
+                        "Synset('make.v.18')", 
+                        "Synset('make.v.19')", 
+                        "Synset('name.v.03')", 
+                        "Synset('have.v.17')", 
+                        "Synset('reach.v.01')", 
+                        "Synset('lay_down.v.01')", 
+                        "Synset('make.v.24')", 
+                        "Synset('make.v.25')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('make.v.27')", 
+                        "Synset('take.v.27')", 
+                        "Synset('stool.v.04')", 
+                        "Synset('make.v.30')", 
+                        "Synset('make.v.31')", 
+                        "Synset('make.v.32')", 
+                        "Synset('make.v.33')", 
+                        "Synset('make.v.34')", 
+                        "Synset('make.v.35')", 
+                        "Synset('make.v.36')", 
+                        "Synset('make.v.37')", 
+                        "Synset('make.v.38')", 
+                        "Synset('cook.v.02')", 
+                        "Synset('seduce.v.01')", 
+                        "Synset('make.v.41')", 
+                        "Synset('make.v.42')", 
+                        "Synset('make.v.43')", 
+                        "Synset('make.v.44')", 
+                        "Synset('make.v.45')", 
+                        "Synset('make.v.46')", 
+                        "Synset('make.v.47')", 
+                        "Synset('make.v.48')", 
+                        "Synset('make.v.49')"
+                    ], 
+                    [
+                        [
+                            "a conscious effort to be relaxed", 
+                            "Effect"
+                        ]
+                    ]
+                ], 
+                [
+                    "do", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('perform.v.01')", 
+                        "Synset('do.v.03')", 
+                        "Synset('do.v.04')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('practice.v.01')", 
+                        "Synset('suffice.v.01')", 
+                        "Synset('do.v.08')", 
+                        "Synset('act.v.02')", 
+                        "Synset('serve.v.09')", 
+                        "Synset('do.v.11')", 
+                        "Synset('dress.v.16')", 
+                        "Synset('do.v.13')"
+                    ], 
+                    [
+                        [
+                            "it", 
+                            "Act"
+                        ]
+                    ]
+                ], 
+                [
+                    "want", 
+                    [
+                        "Desiring", 
+                        366
+                    ], 
+                    [
+                        "Synset('desire.v.01')", 
+                        "Synset('want.v.02')", 
+                        "Synset('want.v.03')", 
+                        "Synset('want.v.04')", 
+                        "Synset('want.v.05')"
+                    ], 
+                    [
+                        [
+                            "You", 
+                            "Experiencer"
+                        ], 
+                        [
+                            "to look dignified at all times", 
+                            "Event"
+                        ]
+                    ]
+                ], 
+                [
+                    "look", 
+                    [
+                        "Scrutiny", 
+                        31
+                    ], 
+                    [
+                        "Synset('look.v.01')", 
+                        "Synset('look.v.02')", 
+                        "Synset('look.v.03')", 
+                        "Synset('search.v.02')", 
+                        "Synset('front.v.01')", 
+                        "Synset('attend.v.02')", 
+                        "Synset('look.v.07')", 
+                        "Synset('expect.v.03')", 
+                        "Synset('look.v.09')", 
+                        "Synset('count.v.08')"
+                    ], 
+                    [
+                        [
+                            "You", 
+                            "Cognizer"
+                        ], 
+                        [
+                            "dignified", 
+                            "Ground"
+                        ]
+                    ]
+                ], 
+                [
+                    "glance", 
+                    [
+                        "Perception_active", 
+                        66
+                    ], 
+                    [
+                        "Synset('glance.v.01')", 
+                        "Synset('glance.v.02')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Perceiver_agentive"
+                        ], 
+                        [
+                            "over to Mike , who is picking his nose", 
+                            "Phenomenon"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Damnit, son! Are you not listening to a word I say? Mike freezes, unsure what to do, his finger still planted in his nostril. Melvin yanks it out.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "say", 
+                    [
+                        "Statement", 
+                        43
+                    ], 
+                    [
+                        "Synset('state.v.01')", 
+                        "Synset('allege.v.01')", 
+                        "Synset('suppose.v.01')", 
+                        "Synset('read.v.02')", 
+                        "Synset('order.v.01')", 
+                        "Synset('pronounce.v.01')", 
+                        "Synset('say.v.07')", 
+                        "Synset('say.v.08')", 
+                        "Synset('say.v.09')", 
+                        "Synset('say.v.10')", 
+                        "Synset('say.v.11')"
+                    ], 
+                    [
+                        [
+                            "Are you not listening to a word", 
+                            "Message"
+                        ], 
+                        [
+                            "I", 
+                            "Speaker"
+                        ]
+                    ]
+                ], 
+                [
+                    "freeze", 
+                    [
+                        "Activity_pause", 
+                        167
+                    ], 
+                    [
+                        "Synset('freeze.v.01')", 
+                        "Synset('freeze.v.02')", 
+                        "Synset('freeze.v.03')", 
+                        "Synset('freeze.v.04')", 
+                        "Synset('freeze.v.05')", 
+                        "Synset('freeze.v.06')", 
+                        "Synset('freeze.v.07')", 
+                        "Synset('freeze.v.08')", 
+                        "Synset('freeze.v.09')", 
+                        "Synset('freeze.v.10')"
+                    ], 
+                    [
+                        [
+                            "unsure what to do", 
+                            "Activity"
+                        ], 
+                        [
+                            "Mike", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "do", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('perform.v.01')", 
+                        "Synset('do.v.03')", 
+                        "Synset('do.v.04')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('practice.v.01')", 
+                        "Synset('suffice.v.01')", 
+                        "Synset('do.v.08')", 
+                        "Synset('act.v.02')", 
+                        "Synset('serve.v.09')", 
+                        "Synset('do.v.11')", 
+                        "Synset('dress.v.16')", 
+                        "Synset('do.v.13')"
+                    ], 
+                    [
+                        [
+                            "what", 
+                            "Act"
+                        ], 
+                        [
+                            "his finger", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "yank", 
+                    [
+                        "Cause_motion", 
+                        55
+                    ], 
+                    [
+                        "Synset('yank.v.01')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Agent"
+                        ], 
+                        [
+                            "it", 
+                            "Theme"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "", 
+            "head_text": {
+                "transition": "3."
+            }
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "text": "Melvin and Mike approach the entrance. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": "EXT.", 
+                "location": [
+                    "PRESCHOOL", 
+                    "DAY."
+                ], 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "approach", 
+                    [
+                        "Means", 
+                        1790
+                    ], 
+                    [
+                        "Synset('approach.v.01')", 
+                        "Synset('border_on.v.01')", 
+                        "Synset('set_about.v.01')", 
+                        "Synset('approach.v.04')", 
+                        "Synset('approach.v.05')"
+                    ], 
+                    []
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Now meeting the right person is really all about spending enough time in the right places. So we're going to a new preschool today. One in a higher socioeconomic suburb. EXT.   PLAYGROUND       -    DAY. Melvin and Mike sit on a bench and watch children at play", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "sit", 
+                    [
+                        "Being_located", 
+                        960
+                    ], 
+                    [
+                        "Synset('sit.v.01')", 
+                        "Synset('sit.v.02')", 
+                        "Synset('sit_down.v.01')", 
+                        "Synset('sit.v.04')", 
+                        "Synset('model.v.03')", 
+                        "Synset('ride.v.01')", 
+                        "Synset('sit.v.07')", 
+                        "Synset('baby-sit.v.02')", 
+                        "Synset('seat.v.01')", 
+                        "Synset('sit.v.10')"
+                    ], 
+                    [
+                        [
+                            "EXT. PLAYGROUND - DAY. Melvin and Mike", 
+                            "Theme"
+                        ], 
+                        [
+                            "on a bench", 
+                            "Location"
+                        ]
+                    ]
+                ], 
+                [
+                    "watch", 
+                    [
+                        "Perception_active", 
+                        66
+                    ], 
+                    [
+                        "Synset('watch.v.01')", 
+                        "Synset('watch.v.02')", 
+                        "Synset('watch.v.03')", 
+                        "Synset('watch.v.04')", 
+                        "Synset('watch.v.05')", 
+                        "Synset('watch.v.06')", 
+                        "Synset('determine.v.08')"
+                    ], 
+                    [
+                        [
+                            "children", 
+                            "Phenomenon"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Well? Mike looks around then points. MELVIN", 
+            "head_text": {
+                "speaker/title": "MELVIN"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "You like the girl over there? Mike nods. She's MOLLY, three. A shy, bespectacled girl, she sits on her own and reads a book. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "read", 
+                    [
+                        "Reading_perception", 
+                        279
+                    ], 
+                    [
+                        "Synset('read.v.01')", 
+                        "Synset('read.v.02')", 
+                        "Synset('read.v.03')", 
+                        "Synset('read.v.04')", 
+                        "Synset('read.v.05')", 
+                        "Synset('take.v.06')", 
+                        "Synset('learn.v.04')", 
+                        "Synset('read.v.08')", 
+                        "Synset('read.v.09')", 
+                        "Synset('read.v.10')", 
+                        "Synset('understand.v.03')"
+                    ], 
+                    [
+                        [
+                            "a book", 
+                            "Text"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Uh ... yeah. I think there's enough geek genes in our family. It's time to diversify. Elsewhere, BRITTANY, four, is taunting another child. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "think", 
+                    [
+                        "Opinion", 
+                        1412
+                    ], 
+                    [
+                        "Synset('think.v.01')", 
+                        "Synset('think.v.02')", 
+                        "Synset('think.v.03')", 
+                        "Synset('remember.v.01')", 
+                        "Synset('think.v.05')", 
+                        "Synset('think.v.06')", 
+                        "Synset('intend.v.01')", 
+                        "Synset('think.v.08')", 
+                        "Synset('think.v.09')", 
+                        "Synset('think.v.10')", 
+                        "Synset('think.v.11')", 
+                        "Synset('think.v.12')", 
+                        "Synset('think.v.13')"
+                    ], 
+                    [
+                        [
+                            "I", 
+                            "Cognizer"
+                        ], 
+                        [
+                            "there 's enough geek genes in our family", 
+                            "Opinion"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "And avoid that bitchy girl. She may be pretty but believe me, it's not worth the trouble. You definitely don't want to get involved with someone like your mother. Melvin keeps looking. He points out AMELIE, three, well-dressed and eating a baguette. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "avoid", 
+                    [
+                        "Preventing_or_letting", 
+                        516
+                    ], 
+                    [
+                        "Synset('avoid.v.01')", 
+                        "Synset('debar.v.02')", 
+                        "Synset('avoid.v.03')", 
+                        "Synset('keep_off.v.01')", 
+                        "Synset('invalidate.v.01')"
+                    ], 
+                    [
+                        [
+                            "that bitchy girl", 
+                            "Event"
+                        ]
+                    ]
+                ], 
+                [
+                    "believe", 
+                    [
+                        "Certainty", 
+                        141
+                    ], 
+                    [
+                        "Synset('believe.v.01')", 
+                        "Synset('think.v.01')", 
+                        "Synset('believe.v.03')", 
+                        "Synset('believe.v.04')", 
+                        "Synset('believe.v.05')"
+                    ], 
+                    [
+                        [
+                            "me", 
+                            "Content"
+                        ]
+                    ]
+                ], 
+                [
+                    "do", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('perform.v.01')", 
+                        "Synset('do.v.03')", 
+                        "Synset('do.v.04')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('practice.v.01')", 
+                        "Synset('suffice.v.01')", 
+                        "Synset('do.v.08')", 
+                        "Synset('act.v.02')", 
+                        "Synset('serve.v.09')", 
+                        "Synset('do.v.11')", 
+                        "Synset('dress.v.16')", 
+                        "Synset('do.v.13')"
+                    ], 
+                    [
+                        [
+                            "definitely", 
+                            "Act"
+                        ], 
+                        [
+                            "You", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "want", 
+                    [
+                        "Desiring", 
+                        366
+                    ], 
+                    [
+                        "Synset('desire.v.01')", 
+                        "Synset('want.v.02')", 
+                        "Synset('want.v.03')", 
+                        "Synset('want.v.04')", 
+                        "Synset('want.v.05')"
+                    ], 
+                    [
+                        [
+                            "You", 
+                            "Experiencer"
+                        ], 
+                        [
+                            "to get involved with someone like your mother", 
+                            "Event"
+                        ]
+                    ]
+                ], 
+                [
+                    "get", 
+                    [
+                        "Arriving", 
+                        54
+                    ], 
+                    [
+                        "Synset('get.v.01')", 
+                        "Synset('become.v.01')", 
+                        "Synset('get.v.03')", 
+                        "Synset('receive.v.02')", 
+                        "Synset('arrive.v.01')", 
+                        "Synset('bring.v.04')", 
+                        "Synset('experience.v.03')", 
+                        "Synset('pay_back.v.02')", 
+                        "Synset('have.v.17')", 
+                        "Synset('induce.v.02')", 
+                        "Synset('get.v.11')", 
+                        "Synset('grow.v.08')", 
+                        "Synset('contract.v.04')", 
+                        "Synset('get.v.14')", 
+                        "Synset('make.v.02')", 
+                        "Synset('drive.v.11')", 
+                        "Synset('catch.v.18')", 
+                        "Synset('catch.v.07')", 
+                        "Synset('get.v.19')", 
+                        "Synset('get.v.20')", 
+                        "Synset('get.v.21')", 
+                        "Synset('get.v.22')", 
+                        "Synset('catch.v.21')", 
+                        "Synset('catch.v.22')", 
+                        "Synset('get.v.25')", 
+                        "Synset('scram.v.01')", 
+                        "Synset('get.v.27')", 
+                        "Synset('get.v.28')", 
+                        "Synset('get.v.29')", 
+                        "Synset('catch.v.24')", 
+                        "Synset('draw.v.15')", 
+                        "Synset('get.v.32')", 
+                        "Synset('perplex.v.01')", 
+                        "Synset('get_down.v.07')", 
+                        "Synset('suffer.v.02')", 
+                        "Synset('beget.v.01')"
+                    ], 
+                    [
+                        [
+                            "You", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "keep", 
+                    [
+                        "Activity_ongoing", 
+                        164
+                    ], 
+                    [
+                        "Synset('keep.v.01')", 
+                        "Synset('continue.v.01')", 
+                        "Synset('keep.v.03')", 
+                        "Synset('prevent.v.02')", 
+                        "Synset('observe.v.09')", 
+                        "Synset('observe.v.08')", 
+                        "Synset('keep.v.07')", 
+                        "Synset('keep.v.08')", 
+                        "Synset('keep.v.09')", 
+                        "Synset('retain.v.02')", 
+                        "Synset('sustain.v.04')", 
+                        "Synset('keep.v.12')", 
+                        "Synset('observe.v.06')", 
+                        "Synset('restrain.v.01')", 
+                        "Synset('keep.v.15')", 
+                        "Synset('keep.v.16')", 
+                        "Synset('keep_open.v.01')", 
+                        "Synset('keep.v.18')", 
+                        "Synset('keep.v.19')", 
+                        "Synset('keep.v.20')", 
+                        "Synset('keep.v.21')", 
+                        "Synset('preserve.v.04')"
+                    ], 
+                    [
+                        [
+                            "looking", 
+                            "Activity"
+                        ]
+                    ]
+                ], 
+                [
+                    "point", 
+                    [
+                        "Adducing", 
+                        1601
+                    ], 
+                    [
+                        "Synset('indicate.v.02')", 
+                        "Synset('orient.v.01')", 
+                        "Synset('charge.v.17')", 
+                        "Synset('steer.v.01')", 
+                        "Synset('bespeak.v.01')", 
+                        "Synset('luff.v.01')", 
+                        "Synset('point.v.07')", 
+                        "Synset('point.v.08')", 
+                        "Synset('point.v.09')", 
+                        "Synset('point.v.10')", 
+                        "Synset('target.v.01')", 
+                        "Synset('point.v.12')", 
+                        "Synset('sharpen.v.07')", 
+                        "Synset('point.v.14')"
+                    ], 
+                    [
+                        [
+                            "AMELIE , three", 
+                            "Specified_entity"
+                        ], 
+                        [
+                            "He", 
+                            "Speaker"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Stay away from the French girl too. French women have no morals.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "have", 
+                    [
+                        "Being_obligated", 
+                        392
+                    ], 
+                    [], 
+                    [
+                        [
+                            "French women", 
+                            "Responsible_party"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "MELVIN", 
+            "head_text": {
+                "transition": "4."
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "It might be great for a bit of slap and tickle after midnight when the only meat your buddies are getting is at a kebab shop. But there's no word in French for \"fidelity\" and what we're looking for is a serious relationship. I mean, what you're looking for. (awkwardly unconvincing) I'm fine. SARAH, three, blonde and dressed in pink, sits at a table nearby. She talks excitedly with a group of girls. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "mean", 
+                    [
+                        "Causation", 
+                        5
+                    ], 
+                    [
+                        "Synset('mean.v.01')", 
+                        "Synset('entail.v.01')", 
+                        "Synset('mean.v.03')", 
+                        "Synset('intend.v.01')", 
+                        "Synset('mean.v.05')", 
+                        "Synset('think_of.v.04')", 
+                        "Synset('mean.v.07')"
+                    ], 
+                    [
+                        [
+                            "I", 
+                            "Cause"
+                        ], 
+                        [
+                            "what", 
+                            "Effect"
+                        ]
+                    ]
+                ], 
+                [
+                    "talk", 
+                    [
+                        "Statement", 
+                        43
+                    ], 
+                    [
+                        "Synset('talk.v.01')", 
+                        "Synset('talk.v.02')", 
+                        "Synset('speak.v.03')", 
+                        "Synset('spill.v.05')", 
+                        "Synset('spill_the_beans.v.01')", 
+                        "Synset('lecture.v.01')"
+                    ], 
+                    [
+                        [
+                            "She", 
+                            "Speaker"
+                        ], 
+                        [
+                            "excitedly", 
+                            "Degree"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "She's popular, good-looking. She seems friendly enough. I think Barbie there might be worth a try. Mike doesn't look so sure. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "think", 
+                    [
+                        "Opinion", 
+                        1412
+                    ], 
+                    [
+                        "Synset('think.v.01')", 
+                        "Synset('think.v.02')", 
+                        "Synset('think.v.03')", 
+                        "Synset('remember.v.01')", 
+                        "Synset('think.v.05')", 
+                        "Synset('think.v.06')", 
+                        "Synset('intend.v.01')", 
+                        "Synset('think.v.08')", 
+                        "Synset('think.v.09')", 
+                        "Synset('think.v.10')", 
+                        "Synset('think.v.11')", 
+                        "Synset('think.v.12')", 
+                        "Synset('think.v.13')"
+                    ], 
+                    [
+                        [
+                            "I", 
+                            "Cognizer"
+                        ], 
+                        [
+                            "Barbie there might be worth a try", 
+                            "Opinion"
+                        ]
+                    ]
+                ], 
+                [
+                    "look", 
+                    [
+                        "Scrutiny", 
+                        31
+                    ], 
+                    [
+                        "Synset('look.v.01')", 
+                        "Synset('look.v.02')", 
+                        "Synset('look.v.03')", 
+                        "Synset('search.v.02')", 
+                        "Synset('front.v.01')", 
+                        "Synset('attend.v.02')", 
+                        "Synset('look.v.07')", 
+                        "Synset('expect.v.03')", 
+                        "Synset('look.v.09')", 
+                        "Synset('count.v.08')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Cognizer"
+                        ], 
+                        [
+                            "so sure", 
+                            "Ground"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Go and talk to her. Intimidated, Mike shakes his head, his eyes pleading. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "talk", 
+                    [
+                        "Discussion", 
+                        34
+                    ], 
+                    [
+                        "Synset('talk.v.01')", 
+                        "Synset('talk.v.02')", 
+                        "Synset('speak.v.03')", 
+                        "Synset('spill.v.05')", 
+                        "Synset('spill_the_beans.v.01')", 
+                        "Synset('lecture.v.01')"
+                    ], 
+                    [
+                        [
+                            "to her", 
+                            "Interlocutor_2"
+                        ]
+                    ]
+                ], 
+                [
+                    "shake", 
+                    [
+                        "Experiencer_obj", 
+                        47
+                    ], 
+                    [
+                        "Synset('shake.v.01')", 
+                        "Synset('shake.v.02')", 
+                        "Synset('judder.v.01')", 
+                        "Synset('rock.v.01')", 
+                        "Synset('shake.v.05')", 
+                        "Synset('stimulate.v.03')", 
+                        "Synset('shake.v.07')", 
+                        "Synset('shake.v.08')", 
+                        "Synset('shake.v.09')"
+                    ], 
+                    [
+                        [
+                            "his head", 
+                            "Experiencer"
+                        ], 
+                        [
+                            "Mike", 
+                            "Stimulus"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "C'mon! It's better to get shot down than wonder \"What if?\" Melvin gives him a push in Sarah's direction. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "get", 
+                    [
+                        "Arriving", 
+                        54
+                    ], 
+                    [
+                        "Synset('get.v.01')", 
+                        "Synset('become.v.01')", 
+                        "Synset('get.v.03')", 
+                        "Synset('receive.v.02')", 
+                        "Synset('arrive.v.01')", 
+                        "Synset('bring.v.04')", 
+                        "Synset('experience.v.03')", 
+                        "Synset('pay_back.v.02')", 
+                        "Synset('have.v.17')", 
+                        "Synset('induce.v.02')", 
+                        "Synset('get.v.11')", 
+                        "Synset('grow.v.08')", 
+                        "Synset('contract.v.04')", 
+                        "Synset('get.v.14')", 
+                        "Synset('make.v.02')", 
+                        "Synset('drive.v.11')", 
+                        "Synset('catch.v.18')", 
+                        "Synset('catch.v.07')", 
+                        "Synset('get.v.19')", 
+                        "Synset('get.v.20')", 
+                        "Synset('get.v.21')", 
+                        "Synset('get.v.22')", 
+                        "Synset('catch.v.21')", 
+                        "Synset('catch.v.22')", 
+                        "Synset('get.v.25')", 
+                        "Synset('scram.v.01')", 
+                        "Synset('get.v.27')", 
+                        "Synset('get.v.28')", 
+                        "Synset('get.v.29')", 
+                        "Synset('catch.v.24')", 
+                        "Synset('draw.v.15')", 
+                        "Synset('get.v.32')", 
+                        "Synset('perplex.v.01')", 
+                        "Synset('get_down.v.07')", 
+                        "Synset('suffer.v.02')", 
+                        "Synset('beget.v.01')"
+                    ], 
+                    [
+                        [
+                            "shot down than wonder", 
+                            "Goal"
+                        ]
+                    ]
+                ], 
+                [
+                    "give", 
+                    [
+                        "Giving", 
+                        139
+                    ], 
+                    [
+                        "Synset('give.v.01')", 
+                        "Synset('yield.v.01')", 
+                        "Synset('give.v.03')", 
+                        "Synset('give.v.04')", 
+                        "Synset('give.v.05')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('give.v.07')", 
+                        "Synset('give.v.08')", 
+                        "Synset('give.v.09')", 
+                        "Synset('give.v.10')", 
+                        "Synset('render.v.04')", 
+                        "Synset('impart.v.01')", 
+                        "Synset('establish.v.05')", 
+                        "Synset('give.v.14')", 
+                        "Synset('give.v.15')", 
+                        "Synset('sacrifice.v.01')", 
+                        "Synset('pass.v.05')", 
+                        "Synset('give.v.18')", 
+                        "Synset('give.v.19')", 
+                        "Synset('give.v.20')", 
+                        "Synset('give.v.21')", 
+                        "Synset('grant.v.05')", 
+                        "Synset('move_over.v.01')", 
+                        "Synset('feed.v.02')", 
+                        "Synset('contribute.v.02')", 
+                        "Synset('collapse.v.01')", 
+                        "Synset('give.v.27')", 
+                        "Synset('give.v.28')", 
+                        "Synset('give.v.29')", 
+                        "Synset('afford.v.04')", 
+                        "Synset('give.v.31')", 
+                        "Synset('give.v.32')", 
+                        "Synset('give.v.33')", 
+                        "Synset('give.v.34')", 
+                        "Synset('give.v.35')", 
+                        "Synset('give.v.36')", 
+                        "Synset('give.v.37')", 
+                        "Synset('give.v.38')", 
+                        "Synset('give.v.39')", 
+                        "Synset('give.v.40')", 
+                        "Synset('give.v.41')", 
+                        "Synset('give.v.42')", 
+                        "Synset('give.v.43')", 
+                        "Synset('give.v.44')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Donor"
+                        ], 
+                        [
+                            "a push in Sarah 's direction", 
+                            "Theme"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Just show an interest in the things that interest her and you'll have plenty to talk about. Mike, looking completely out of place in his flashy clothes, apprehensively approaches the girls. They stop talking and watch him. He picks up Sarah's handbag and admires it, putting it over his shoulder. Then he tries on her sun hat and slips into her discarded pink shoes. The girls laugh at him and run away. Melvin covers his face in disbelief.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "show", 
+                    [
+                        "Reasoning", 
+                        308
+                    ], 
+                    [
+                        "Synset('show.v.01')", 
+                        "Synset('prove.v.02')", 
+                        "Synset('testify.v.02')", 
+                        "Synset('show.v.04')", 
+                        "Synset('picture.v.02')", 
+                        "Synset('express.v.01')", 
+                        "Synset('indicate.v.02')", 
+                        "Synset('show.v.08')", 
+                        "Synset('read.v.08')", 
+                        "Synset('show.v.10')", 
+                        "Synset('usher.v.01')", 
+                        "Synset('show.v.12')"
+                    ], 
+                    [
+                        [
+                            "an interest in the things that interest her", 
+                            "Content"
+                        ]
+                    ]
+                ], 
+                [
+                    "interest", 
+                    [
+                        "Experiencer_obj", 
+                        47
+                    ], 
+                    [
+                        "Synset('interest.v.01')", 
+                        "Synset('concern.v.02')", 
+                        "Synset('matter_to.v.01')"
+                    ], 
+                    [
+                        [
+                            "her", 
+                            "Experiencer"
+                        ], 
+                        [
+                            "that", 
+                            "Stimulus"
+                        ]
+                    ]
+                ], 
+                [
+                    "have", 
+                    [
+                        "Being_obligated", 
+                        392
+                    ], 
+                    [], 
+                    [
+                        [
+                            "you", 
+                            "Responsible_party"
+                        ]
+                    ]
+                ], 
+                [
+                    "talk", 
+                    [
+                        "Statement", 
+                        43
+                    ], 
+                    [
+                        "Synset('talk.v.01')", 
+                        "Synset('talk.v.02')", 
+                        "Synset('speak.v.03')", 
+                        "Synset('spill.v.05')", 
+                        "Synset('spill_the_beans.v.01')", 
+                        "Synset('lecture.v.01')"
+                    ], 
+                    [
+                        [
+                            "you", 
+                            "Speaker"
+                        ], 
+                        [
+                            "about", 
+                            "Topic"
+                        ]
+                    ]
+                ], 
+                [
+                    "approach", 
+                    [
+                        "Arriving", 
+                        54
+                    ], 
+                    [
+                        "Synset('approach.v.01')", 
+                        "Synset('border_on.v.01')", 
+                        "Synset('set_about.v.01')", 
+                        "Synset('approach.v.04')", 
+                        "Synset('approach.v.05')"
+                    ], 
+                    [
+                        [
+                            "the girls", 
+                            "Goal"
+                        ], 
+                        [
+                            "looking completely out of place in his flashy clothes", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "stop", 
+                    [
+                        "Preventing_or_letting", 
+                        516
+                    ], 
+                    [
+                        "Synset('stop.v.01')", 
+                        "Synset('discontinue.v.01')", 
+                        "Synset('stop.v.03')", 
+                        "Synset('stop.v.04')", 
+                        "Synset('stop.v.05')", 
+                        "Synset('break.v.10')", 
+                        "Synset('check.v.18')", 
+                        "Synset('intercept.v.01')", 
+                        "Synset('end.v.01')", 
+                        "Synset('barricade.v.01')", 
+                        "Synset('hold_on.v.02')"
+                    ], 
+                    [
+                        [
+                            "They", 
+                            "Event"
+                        ]
+                    ]
+                ], 
+                [
+                    "watch", 
+                    [
+                        "Perception_active", 
+                        66
+                    ], 
+                    [
+                        "Synset('watch.v.01')", 
+                        "Synset('watch.v.02')", 
+                        "Synset('watch.v.03')", 
+                        "Synset('watch.v.04')", 
+                        "Synset('watch.v.05')", 
+                        "Synset('watch.v.06')", 
+                        "Synset('determine.v.08')"
+                    ], 
+                    [
+                        [
+                            "They", 
+                            "Perceiver_agentive"
+                        ]
+                    ]
+                ], 
+                [
+                    "pick", 
+                    [
+                        "Choosing", 
+                        352
+                    ], 
+                    [
+                        "Synset('pick.v.01')", 
+                        "Synset('pick.v.02')", 
+                        "Synset('blame.v.02')", 
+                        "Synset('pick.v.04')", 
+                        "Synset('pick.v.05')", 
+                        "Synset('clean.v.02')", 
+                        "Synset('pick.v.07')", 
+                        "Synset('foot.v.01')", 
+                        "Synset('pluck.v.04')", 
+                        "Synset('pick.v.10')", 
+                        "Synset('peck.v.01')", 
+                        "Synset('nibble.v.03')"
+                    ], 
+                    [
+                        [
+                            "He", 
+                            "Cognizer"
+                        ], 
+                        [
+                            "Sarah 's handbag", 
+                            "Chosen"
+                        ]
+                    ]
+                ], 
+                [
+                    "try", 
+                    [
+                        "Attempt", 
+                        116
+                    ], 
+                    [
+                        "Synset('try.v.01')", 
+                        "Synset('test.v.01')", 
+                        "Synset('judge.v.05')", 
+                        "Synset('sample.v.01')", 
+                        "Synset('hear.v.03')", 
+                        "Synset('try.v.06')", 
+                        "Synset('try.v.07')", 
+                        "Synset('try.v.08')", 
+                        "Synset('try_on.v.01')"
+                    ], 
+                    [
+                        [
+                            "on her sun hat", 
+                            "Goal"
+                        ], 
+                        [
+                            "he", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "slip", 
+                    [
+                        "Self_motion", 
+                        64
+                    ], 
+                    [
+                        "Synset('steal.v.02')", 
+                        "Synset('slip.v.02')", 
+                        "Synset('skid.v.04')", 
+                        "Synset('slip.v.04')", 
+                        "Synset('slip.v.05')", 
+                        "Synset('err.v.01')", 
+                        "Synset('slip.v.07')", 
+                        "Synset('slip.v.08')", 
+                        "Synset('slip.v.09')", 
+                        "Synset('slip.v.10')", 
+                        "Synset('dislocate.v.01')"
+                    ], 
+                    [
+                        [
+                            "into her discarded pink shoes", 
+                            "Goal"
+                        ], 
+                        [
+                            "he", 
+                            "Self_mover"
+                        ]
+                    ]
+                ], 
+                [
+                    "laugh", 
+                    [
+                        "Make_noise", 
+                        69
+                    ], 
+                    [
+                        "Synset('laugh.v.01')"
+                    ], 
+                    [
+                        [
+                            "The girls", 
+                            "Sound_source"
+                        ]
+                    ]
+                ], 
+                [
+                    "run", 
+                    [
+                        "Leadership", 
+                        73
+                    ], 
+                    [
+                        "Synset('run.v.01')", 
+                        "Synset('scat.v.01')", 
+                        "Synset('run.v.03')", 
+                        "Synset('operate.v.01')", 
+                        "Synset('run.v.05')", 
+                        "Synset('run.v.06')", 
+                        "Synset('function.v.01')", 
+                        "Synset('range.v.01')", 
+                        "Synset('campaign.v.01')", 
+                        "Synset('play.v.18')", 
+                        "Synset('run.v.11')", 
+                        "Synset('tend.v.01')", 
+                        "Synset('run.v.13')", 
+                        "Synset('run.v.14')", 
+                        "Synset('run.v.15')", 
+                        "Synset('run.v.16')", 
+                        "Synset('prevail.v.03')", 
+                        "Synset('run.v.18')", 
+                        "Synset('run.v.19')", 
+                        "Synset('carry.v.15')", 
+                        "Synset('run.v.21')", 
+                        "Synset('guide.v.05')", 
+                        "Synset('run.v.23')", 
+                        "Synset('run.v.24')", 
+                        "Synset('run.v.25')", 
+                        "Synset('run.v.26')", 
+                        "Synset('run.v.27')", 
+                        "Synset('run.v.28')", 
+                        "Synset('run.v.29')", 
+                        "Synset('run.v.30')", 
+                        "Synset('run.v.31')", 
+                        "Synset('run.v.32')", 
+                        "Synset('run.v.33')", 
+                        "Synset('run.v.34')", 
+                        "Synset('ply.v.03')", 
+                        "Synset('hunt.v.01')", 
+                        "Synset('race.v.02')", 
+                        "Synset('move.v.13')", 
+                        "Synset('melt.v.01')", 
+                        "Synset('ladder.v.01')", 
+                        "Synset('run.v.41')"
+                    ], 
+                    [
+                        [
+                            "away", 
+                            "Leader"
+                        ]
+                    ]
+                ], 
+                [
+                    "cover", 
+                    [
+                        "Topic", 
+                        373
+                    ], 
+                    [
+                        "Synset('cover.v.01')", 
+                        "Synset('cover.v.02')", 
+                        "Synset('cover.v.03')", 
+                        "Synset('cover.v.04')", 
+                        "Synset('cover.v.05')", 
+                        "Synset('embrace.v.01')", 
+                        "Synset('traverse.v.01')", 
+                        "Synset('report.v.05')", 
+                        "Synset('cover.v.09')", 
+                        "Synset('cover.v.10')", 
+                        "Synset('cover.v.11')", 
+                        "Synset('cover.v.12')", 
+                        "Synset('cover.v.13')", 
+                        "Synset('cover.v.14')", 
+                        "Synset('cover.v.15')", 
+                        "Synset('cover.v.16')", 
+                        "Synset('cover.v.17')", 
+                        "Synset('cover.v.18')", 
+                        "Synset('cover.v.19')", 
+                        "Synset('shroud.v.01')", 
+                        "Synset('breed.v.02')", 
+                        "Synset('overlay.v.01')", 
+                        "Synset('cover.v.23')", 
+                        "Synset('cover.v.24')", 
+                        "Synset('brood.v.05')", 
+                        "Synset('cover.v.26')"
+                    ], 
+                    []
+                ]
+            ]
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "", 
+            "head_text": {
+                "transition": "5."
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Back on the bench, Melvin scolds Mike. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": "A MOMENT LATER."
+            }, 
+            "sense_profile": [
+                [
+                    "scold", 
+                    [
+                        "Judgment_direct_address", 
+                        711
+                    ], 
+                    [
+                        "Synset('call_on_the_carpet.v.01')", 
+                        "Synset('grouch.v.01')"
+                    ], 
+                    []
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Would you like to go to the toyshop later on? You can pick out a nice fairy costume. What are you doing to me, boy?! Mike shrugs defensively. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "like", 
+                    [
+                        "Experiencer_focus", 
+                        48
+                    ], 
+                    [
+                        "Synset('wish.v.02')", 
+                        "Synset('like.v.02')", 
+                        "Synset('like.v.03')", 
+                        "Synset('like.v.04')", 
+                        "Synset('like.v.05')"
+                    ], 
+                    [
+                        [
+                            "to go to the toyshop later on", 
+                            "Content"
+                        ], 
+                        [
+                            "you", 
+                            "Experiencer"
+                        ]
+                    ]
+                ], 
+                [
+                    "go", 
+                    [
+                        "Becoming", 
+                        2971
+                    ], 
+                    [
+                        "Synset('become.v.01')"
+                    ], 
+                    [
+                        [
+                            "to the toyshop", 
+                            "Final_state"
+                        ], 
+                        [
+                            "you", 
+                            "Entity"
+                        ]
+                    ]
+                ], 
+                [
+                    "pick", 
+                    [
+                        "Choosing", 
+                        352
+                    ], 
+                    [
+                        "Synset('pick.v.01')", 
+                        "Synset('pick.v.02')", 
+                        "Synset('blame.v.02')", 
+                        "Synset('pick.v.04')", 
+                        "Synset('pick.v.05')", 
+                        "Synset('clean.v.02')", 
+                        "Synset('pick.v.07')", 
+                        "Synset('foot.v.01')", 
+                        "Synset('pluck.v.04')", 
+                        "Synset('pick.v.10')", 
+                        "Synset('peck.v.01')", 
+                        "Synset('nibble.v.03')"
+                    ], 
+                    [
+                        [
+                            "You", 
+                            "Cognizer"
+                        ], 
+                        [
+                            "a nice fairy costume", 
+                            "Chosen"
+                        ]
+                    ]
+                ], 
+                [
+                    "shrug", 
+                    [
+                        "Body_movement", 
+                        16
+                    ], 
+                    [
+                        "Synset('shrug.v.01')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Agent"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "We need to toughen up your image now. Most girls are attracted to bad boys. See if you can start some sort of altercation with her. Understand? Mike thinks, then nods his head. A MOMENT LATER. Mike grabs a handful of sand from the sandpit, marches up to Sarah and throws it forcefully into her face. Sarah starts to cry, drawing the attention of everyone in the playground. Mike smiles and looks to his father for approval. Melvin is horrified. INT.   FLORIST    -   DAY. Mike struggles with a large arrangement of flowers. Melvin pays the FLORIST. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "need", 
+                    [
+                        "Required_event", 
+                        1381
+                    ], 
+                    [
+                        "Synset('necessitate.v.01')", 
+                        "Synset('want.v.02')", 
+                        "Synset('need.v.03')"
+                    ], 
+                    [
+                        [
+                            "We", 
+                            "Required_situation"
+                        ]
+                    ]
+                ], 
+                [
+                    "start", 
+                    [
+                        "Temporal_subregion", 
+                        1470
+                    ], 
+                    [
+                        "Synset('get_down.v.07')", 
+                        "Synset('begin.v.03')", 
+                        "Synset('depart.v.03')", 
+                        "Synset('begin.v.02')", 
+                        "Synset('originate.v.02')", 
+                        "Synset('start.v.06')", 
+                        "Synset('startle.v.02')", 
+                        "Synset('start.v.08')", 
+                        "Synset('start.v.09')", 
+                        "Synset('start.v.10')", 
+                        "Synset('start.v.11')", 
+                        "Synset('begin.v.07')", 
+                        "Synset('begin.v.08')", 
+                        "Synset('start.v.14')"
+                    ], 
+                    [
+                        [
+                            "you", 
+                            "Sub_part"
+                        ], 
+                        [
+                            "some sort of altercation", 
+                            "Time_period"
+                        ]
+                    ]
+                ], 
+                [
+                    "think", 
+                    [
+                        "Opinion", 
+                        1412
+                    ], 
+                    [
+                        "Synset('think.v.01')", 
+                        "Synset('think.v.02')", 
+                        "Synset('think.v.03')", 
+                        "Synset('remember.v.01')", 
+                        "Synset('think.v.05')", 
+                        "Synset('think.v.06')", 
+                        "Synset('intend.v.01')", 
+                        "Synset('think.v.08')", 
+                        "Synset('think.v.09')", 
+                        "Synset('think.v.10')", 
+                        "Synset('think.v.11')", 
+                        "Synset('think.v.12')", 
+                        "Synset('think.v.13')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Cognizer"
+                        ]
+                    ]
+                ], 
+                [
+                    "nod", 
+                    [
+                        "Body_movement", 
+                        16
+                    ], 
+                    [
+                        "Synset('nod.v.01')", 
+                        "Synset('nod.v.02')", 
+                        "Synset('nod.v.03')", 
+                        "Synset('nod.v.04')", 
+                        "Synset('nod.v.05')"
+                    ], 
+                    [
+                        [
+                            "his head", 
+                            "Message"
+                        ], 
+                        [
+                            "Mike", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "grab", 
+                    [
+                        "Manipulation", 
+                        17
+                    ], 
+                    [
+                        "Synset('catch.v.04')", 
+                        "Synset('snap_up.v.01')", 
+                        "Synset('grab.v.03')", 
+                        "Synset('grab.v.04')", 
+                        "Synset('grab.v.05')", 
+                        "Synset('grab.v.06')"
+                    ], 
+                    [
+                        [
+                            "A MOMENT LATER. Mike", 
+                            "Agent"
+                        ], 
+                        [
+                            "a handful of sand from the sandpit", 
+                            "Entity"
+                        ]
+                    ]
+                ], 
+                [
+                    "march", 
+                    [
+                        "Calendric_unit", 
+                        229
+                    ], 
+                    [], 
+                    [
+                        [
+                            "marches", 
+                            "Unit"
+                        ]
+                    ]
+                ], 
+                [
+                    "throw", 
+                    [
+                        "Cause_motion", 
+                        55
+                    ], 
+                    [
+                        "Synset('throw.v.01')", 
+                        "Synset('throw.v.02')", 
+                        "Synset('shed.v.01')", 
+                        "Synset('throw.v.04')", 
+                        "Synset('give.v.07')", 
+                        "Synset('throw.v.06')", 
+                        "Synset('project.v.10')", 
+                        "Synset('throw.v.08')", 
+                        "Synset('bewilder.v.02')", 
+                        "Synset('hurl.v.03')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('throw.v.12')", 
+                        "Synset('throw.v.13')", 
+                        "Synset('throw.v.14')", 
+                        "Synset('confuse.v.02')"
+                    ], 
+                    [
+                        [
+                            "into her face", 
+                            "Goal"
+                        ], 
+                        [
+                            "it", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "start", 
+                    [
+                        "Process_start", 
+                        133
+                    ], 
+                    [
+                        "Synset('get_down.v.07')", 
+                        "Synset('begin.v.03')", 
+                        "Synset('depart.v.03')", 
+                        "Synset('begin.v.02')", 
+                        "Synset('originate.v.02')", 
+                        "Synset('start.v.06')", 
+                        "Synset('startle.v.02')", 
+                        "Synset('start.v.08')", 
+                        "Synset('start.v.09')", 
+                        "Synset('start.v.10')", 
+                        "Synset('start.v.11')", 
+                        "Synset('begin.v.07')", 
+                        "Synset('begin.v.08')", 
+                        "Synset('start.v.14')"
+                    ], 
+                    [
+                        [
+                            "Sarah", 
+                            "Event"
+                        ]
+                    ]
+                ], 
+                [
+                    "cry", 
+                    [
+                        "Communication_noise", 
+                        39
+                    ], 
+                    [
+                        "Synset('shout.v.02')", 
+                        "Synset('cry.v.02')", 
+                        "Synset('exclaim.v.01')", 
+                        "Synset('cry.v.04')", 
+                        "Synset('cry.v.05')", 
+                        "Synset('cry.v.06')", 
+                        "Synset('cry.v.07')"
+                    ], 
+                    [
+                        [
+                            "Sarah", 
+                            "Speaker"
+                        ]
+                    ]
+                ], 
+                [
+                    "smile", 
+                    [
+                        "Making_faces", 
+                        794
+                    ], 
+                    [
+                        "Synset('smile.v.01')", 
+                        "Synset('smile.v.02')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "look", 
+                    [
+                        "Scrutiny", 
+                        31
+                    ], 
+                    [
+                        "Synset('look.v.01')", 
+                        "Synset('look.v.02')", 
+                        "Synset('look.v.03')", 
+                        "Synset('search.v.02')", 
+                        "Synset('front.v.01')", 
+                        "Synset('attend.v.02')", 
+                        "Synset('look.v.07')", 
+                        "Synset('expect.v.03')", 
+                        "Synset('look.v.09')", 
+                        "Synset('count.v.08')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Cognizer"
+                        ]
+                    ]
+                ], 
+                [
+                    "struggle", 
+                    [
+                        "Hostile_encounter", 
+                        93
+                    ], 
+                    [
+                        "Synset('fight.v.03')", 
+                        "Synset('struggle.v.02')", 
+                        "Synset('clamber.v.01')", 
+                        "Synset('contend.v.06')"
+                    ], 
+                    []
+                ], 
+                [
+                    "pay", 
+                    [
+                        "Commerce_pay", 
+                        180
+                    ], 
+                    [
+                        "Synset('pay.v.01')", 
+                        "Synset('give.v.05')", 
+                        "Synset('pay_up.v.01')", 
+                        "Synset('yield.v.10')", 
+                        "Synset('pay.v.05')", 
+                        "Synset('give.v.10')", 
+                        "Synset('pay.v.07')", 
+                        "Synset('pay.v.08')", 
+                        "Synset('pay.v.09')", 
+                        "Synset('pay.v.10')", 
+                        "Synset('pay.v.11')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Buyer"
+                        ], 
+                        [
+                            "the FLORIST. MELVIN", 
+                            "Goods"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Well that was over the top but at least you got her attention. And it's better to be known as a jerk rather than a fruitcake. The good news is you now have the opportunity to apologise. If you can feign sincerity and a desperation for forgiveness, you should be able to endear yourself to her. (to florist)", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "have", 
+                    [
+                        "Being_obligated", 
+                        392
+                    ], 
+                    [], 
+                    [
+                        [
+                            "you", 
+                            "Responsible_party"
+                        ]
+                    ]
+                ], 
+                [
+                    "feign", 
+                    [
+                        "Feigning", 
+                        12
+                    ], 
+                    [
+                        "Synset('feign.v.01')", 
+                        "Synset('simulate.v.03')"
+                    ], 
+                    [
+                        [
+                            "you", 
+                            "Agent"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Leave the price tag on. We want her to know how much we paid.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "want", 
+                    [
+                        "Desiring", 
+                        366
+                    ], 
+                    [
+                        "Synset('desire.v.01')", 
+                        "Synset('want.v.02')", 
+                        "Synset('want.v.03')", 
+                        "Synset('want.v.04')", 
+                        "Synset('want.v.05')"
+                    ], 
+                    [
+                        [
+                            "We", 
+                            "Experiencer"
+                        ], 
+                        [
+                            "her to know how much we paid", 
+                            "Event"
+                        ]
+                    ]
+                ], 
+                [
+                    "know", 
+                    [
+                        "Awareness", 
+                        19
+                    ], 
+                    [
+                        "Synset('know.v.01')", 
+                        "Synset('know.v.02')", 
+                        "Synset('know.v.03')", 
+                        "Synset('know.v.04')", 
+                        "Synset('know.v.05')", 
+                        "Synset('acknowledge.v.06')", 
+                        "Synset('know.v.07')", 
+                        "Synset('sleep_together.v.01')", 
+                        "Synset('know.v.09')", 
+                        "Synset('know.v.10')", 
+                        "Synset('know.v.11')"
+                    ], 
+                    [
+                        [
+                            "how much we paid", 
+                            "Content"
+                        ], 
+                        [
+                            "her", 
+                            "Cognizer"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "", 
+            "head_text": {
+                "transition": "6."
+            }
+        }
+    ], 
+    [
+        {
+            "head_type": "heading", 
+            "text": "Melvin watches from the other side of the high fence. Mike carries the flowers across the playground. He sees Sarah being comforted by her friends.         The sees Molly, who is still reading her book. Melvin gestures for Mike to give the flowers to Sarah. Mike thinks, then gives them to Molly instead. Melvin groans and throws his hands up in frustration. EXT.   CARPARK   -   DAY. Melvin points his finger in Mike's face. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": "EXT.", 
+                "location": [
+                    "PLAYGROUND", 
+                    "DAY."
+                ], 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "watch", 
+                    [
+                        "Perception_active", 
+                        66
+                    ], 
+                    [
+                        "Synset('watch.v.01')", 
+                        "Synset('watch.v.02')", 
+                        "Synset('watch.v.03')", 
+                        "Synset('watch.v.04')", 
+                        "Synset('watch.v.05')", 
+                        "Synset('watch.v.06')", 
+                        "Synset('determine.v.08')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Perceiver_agentive"
+                        ], 
+                        [
+                            "from the other side of the high fence", 
+                            "Phenomenon"
+                        ]
+                    ]
+                ], 
+                [
+                    "carry", 
+                    [
+                        "Bringing", 
+                        240
+                    ], 
+                    [
+                        "Synset('transport.v.02')", 
+                        "Synset('carry.v.02')", 
+                        "Synset('impart.v.03')", 
+                        "Synset('carry.v.04')", 
+                        "Synset('carry.v.05')", 
+                        "Synset('hold.v.14')", 
+                        "Synset('hold.v.11')", 
+                        "Synset('carry.v.08')", 
+                        "Synset('carry.v.09')", 
+                        "Synset('carry.v.10')", 
+                        "Synset('carry.v.11')", 
+                        "Synset('carry.v.12')", 
+                        "Synset('behave.v.02')", 
+                        "Synset('stock.v.01')", 
+                        "Synset('carry.v.15')", 
+                        "Synset('dribble.v.03')", 
+                        "Synset('carry.v.17')", 
+                        "Synset('carry.v.18')", 
+                        "Synset('carry.v.19')", 
+                        "Synset('carry.v.20')", 
+                        "Synset('carry.v.21')", 
+                        "Synset('carry.v.22')", 
+                        "Synset('carry.v.23')", 
+                        "Synset('carry.v.24')", 
+                        "Synset('carry.v.25')", 
+                        "Synset('carry.v.26')", 
+                        "Synset('carry.v.27')", 
+                        "Synset('post.v.07')", 
+                        "Synset('carry.v.29')", 
+                        "Synset('carry.v.30')", 
+                        "Synset('carry.v.31')", 
+                        "Synset('carry.v.32')", 
+                        "Synset('carry.v.33')", 
+                        "Synset('carry.v.34')", 
+                        "Synset('carry.v.35')", 
+                        "Synset('carry.v.36')", 
+                        "Synset('carry.v.37')", 
+                        "Synset('carry.v.38')", 
+                        "Synset('carry.v.39')", 
+                        "Synset('have_a_bun_in_the_oven.v.01')"
+                    ], 
+                    [
+                        [
+                            "the flowers across the playground", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "see", 
+                    [
+                        "Perception_experience", 
+                        70
+                    ], 
+                    [
+                        "Synset('see.v.01')", 
+                        "Synset('understand.v.02')", 
+                        "Synset('witness.v.02')", 
+                        "Synset('visualize.v.01')", 
+                        "Synset('see.v.05')", 
+                        "Synset('learn.v.02')", 
+                        "Synset('watch.v.03')", 
+                        "Synset('meet.v.01')", 
+                        "Synset('determine.v.08')", 
+                        "Synset('see.v.10')", 
+                        "Synset('see.v.11')", 
+                        "Synset('see.v.12')", 
+                        "Synset('visit.v.01')", 
+                        "Synset('attend.v.02')", 
+                        "Synset('see.v.15')", 
+                        "Synset('go_steady.v.01')", 
+                        "Synset('see.v.17')", 
+                        "Synset('see.v.18')", 
+                        "Synset('see.v.19')", 
+                        "Synset('examine.v.02')", 
+                        "Synset('experience.v.01')", 
+                        "Synset('see.v.22')", 
+                        "Synset('see.v.23')", 
+                        "Synset('interpret.v.01')"
+                    ], 
+                    [
+                        [
+                            "Sarah being comforted by her friends", 
+                            "Phenomenon"
+                        ]
+                    ]
+                ], 
+                [
+                    "give", 
+                    [
+                        "Giving", 
+                        139
+                    ], 
+                    [
+                        "Synset('give.v.01')", 
+                        "Synset('yield.v.01')", 
+                        "Synset('give.v.03')", 
+                        "Synset('give.v.04')", 
+                        "Synset('give.v.05')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('give.v.07')", 
+                        "Synset('give.v.08')", 
+                        "Synset('give.v.09')", 
+                        "Synset('give.v.10')", 
+                        "Synset('render.v.04')", 
+                        "Synset('impart.v.01')", 
+                        "Synset('establish.v.05')", 
+                        "Synset('give.v.14')", 
+                        "Synset('give.v.15')", 
+                        "Synset('sacrifice.v.01')", 
+                        "Synset('pass.v.05')", 
+                        "Synset('give.v.18')", 
+                        "Synset('give.v.19')", 
+                        "Synset('give.v.20')", 
+                        "Synset('give.v.21')", 
+                        "Synset('grant.v.05')", 
+                        "Synset('move_over.v.01')", 
+                        "Synset('feed.v.02')", 
+                        "Synset('contribute.v.02')", 
+                        "Synset('collapse.v.01')", 
+                        "Synset('give.v.27')", 
+                        "Synset('give.v.28')", 
+                        "Synset('give.v.29')", 
+                        "Synset('afford.v.04')", 
+                        "Synset('give.v.31')", 
+                        "Synset('give.v.32')", 
+                        "Synset('give.v.33')", 
+                        "Synset('give.v.34')", 
+                        "Synset('give.v.35')", 
+                        "Synset('give.v.36')", 
+                        "Synset('give.v.37')", 
+                        "Synset('give.v.38')", 
+                        "Synset('give.v.39')", 
+                        "Synset('give.v.40')", 
+                        "Synset('give.v.41')", 
+                        "Synset('give.v.42')", 
+                        "Synset('give.v.43')", 
+                        "Synset('give.v.44')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Donor"
+                        ], 
+                        [
+                            "the flowers", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "think", 
+                    [
+                        "Opinion", 
+                        1412
+                    ], 
+                    [
+                        "Synset('think.v.01')", 
+                        "Synset('think.v.02')", 
+                        "Synset('think.v.03')", 
+                        "Synset('remember.v.01')", 
+                        "Synset('think.v.05')", 
+                        "Synset('think.v.06')", 
+                        "Synset('intend.v.01')", 
+                        "Synset('think.v.08')", 
+                        "Synset('think.v.09')", 
+                        "Synset('think.v.10')", 
+                        "Synset('think.v.11')", 
+                        "Synset('think.v.12')", 
+                        "Synset('think.v.13')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Cognizer"
+                        ], 
+                        [
+                            "gives them to Molly instead", 
+                            "Opinion"
+                        ]
+                    ]
+                ], 
+                [
+                    "give", 
+                    [
+                        "Giving", 
+                        139
+                    ], 
+                    [
+                        "Synset('give.v.01')", 
+                        "Synset('yield.v.01')", 
+                        "Synset('give.v.03')", 
+                        "Synset('give.v.04')", 
+                        "Synset('give.v.05')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('give.v.07')", 
+                        "Synset('give.v.08')", 
+                        "Synset('give.v.09')", 
+                        "Synset('give.v.10')", 
+                        "Synset('render.v.04')", 
+                        "Synset('impart.v.01')", 
+                        "Synset('establish.v.05')", 
+                        "Synset('give.v.14')", 
+                        "Synset('give.v.15')", 
+                        "Synset('sacrifice.v.01')", 
+                        "Synset('pass.v.05')", 
+                        "Synset('give.v.18')", 
+                        "Synset('give.v.19')", 
+                        "Synset('give.v.20')", 
+                        "Synset('give.v.21')", 
+                        "Synset('grant.v.05')", 
+                        "Synset('move_over.v.01')", 
+                        "Synset('feed.v.02')", 
+                        "Synset('contribute.v.02')", 
+                        "Synset('collapse.v.01')", 
+                        "Synset('give.v.27')", 
+                        "Synset('give.v.28')", 
+                        "Synset('give.v.29')", 
+                        "Synset('afford.v.04')", 
+                        "Synset('give.v.31')", 
+                        "Synset('give.v.32')", 
+                        "Synset('give.v.33')", 
+                        "Synset('give.v.34')", 
+                        "Synset('give.v.35')", 
+                        "Synset('give.v.36')", 
+                        "Synset('give.v.37')", 
+                        "Synset('give.v.38')", 
+                        "Synset('give.v.39')", 
+                        "Synset('give.v.40')", 
+                        "Synset('give.v.41')", 
+                        "Synset('give.v.42')", 
+                        "Synset('give.v.43')", 
+                        "Synset('give.v.44')"
+                    ], 
+                    [
+                        [
+                            "to Molly", 
+                            "Recipient"
+                        ], 
+                        [
+                            "Mike", 
+                            "Donor"
+                        ], 
+                        [
+                            "them", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "throw", 
+                    [
+                        "Cause_motion", 
+                        55
+                    ], 
+                    [
+                        "Synset('throw.v.01')", 
+                        "Synset('throw.v.02')", 
+                        "Synset('shed.v.01')", 
+                        "Synset('throw.v.04')", 
+                        "Synset('give.v.07')", 
+                        "Synset('throw.v.06')", 
+                        "Synset('project.v.10')", 
+                        "Synset('throw.v.08')", 
+                        "Synset('bewilder.v.02')", 
+                        "Synset('hurl.v.03')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('throw.v.12')", 
+                        "Synset('throw.v.13')", 
+                        "Synset('throw.v.14')", 
+                        "Synset('confuse.v.02')"
+                    ], 
+                    [
+                        [
+                            "in frustration", 
+                            "Goal"
+                        ], 
+                        [
+                            "his hands", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "point", 
+                    [
+                        "Adducing", 
+                        1601
+                    ], 
+                    [
+                        "Synset('indicate.v.02')", 
+                        "Synset('orient.v.01')", 
+                        "Synset('charge.v.17')", 
+                        "Synset('steer.v.01')", 
+                        "Synset('bespeak.v.01')", 
+                        "Synset('luff.v.01')", 
+                        "Synset('point.v.07')", 
+                        "Synset('point.v.08')", 
+                        "Synset('point.v.09')", 
+                        "Synset('point.v.10')", 
+                        "Synset('target.v.01')", 
+                        "Synset('point.v.12')", 
+                        "Synset('sharpen.v.07')", 
+                        "Synset('point.v.14')"
+                    ], 
+                    [
+                        [
+                            "CARPARK - DAY.", 
+                            "Specified_entity"
+                        ], 
+                        [
+                            "Melvin", 
+                            "Speaker"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "I'm trying to do the right thing by you and you mess everything up! You're as incompetent as ... the government film funding bodies! MARY, early thirties and attractive, approaches with Molly, who carries the flowers. MARY", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "do", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('perform.v.01')", 
+                        "Synset('do.v.03')", 
+                        "Synset('do.v.04')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('practice.v.01')", 
+                        "Synset('suffice.v.01')", 
+                        "Synset('do.v.08')", 
+                        "Synset('act.v.02')", 
+                        "Synset('serve.v.09')", 
+                        "Synset('do.v.11')", 
+                        "Synset('dress.v.16')", 
+                        "Synset('do.v.13')"
+                    ], 
+                    [
+                        [
+                            "the right thing", 
+                            "Act"
+                        ], 
+                        [
+                            "I", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "carry", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('impart.v.03')", 
+                        "Synset('behave.v.02')"
+                    ], 
+                    [
+                        [
+                            "the flowers", 
+                            "Act"
+                        ], 
+                        [
+                            "who", 
+                            "Agent"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Molly loves her flowers.      Thank you. Melvin's attitude changes immediately. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "love", 
+                    [
+                        "Experiencer_focus", 
+                        48
+                    ], 
+                    [
+                        "Synset('love.v.01')", 
+                        "Synset('love.v.02')", 
+                        "Synset('love.v.03')", 
+                        "Synset('sleep_together.v.01')"
+                    ], 
+                    [
+                        [
+                            "her flowers", 
+                            "Content"
+                        ], 
+                        [
+                            "Molly", 
+                            "Experiencer"
+                        ]
+                    ]
+                ], 
+                [
+                    "change", 
+                    [
+                        "Undergo_change", 
+                        1172
+                    ], 
+                    [
+                        "Synset('change.v.01')", 
+                        "Synset('change.v.02')", 
+                        "Synset('change.v.03')", 
+                        "Synset('switch.v.03')", 
+                        "Synset('change.v.05')", 
+                        "Synset('change.v.06')", 
+                        "Synset('exchange.v.01')", 
+                        "Synset('transfer.v.06')", 
+                        "Synset('deepen.v.04')", 
+                        "Synset('change.v.10')"
+                    ], 
+                    [
+                        [
+                            "Melvin 's attitude", 
+                            "Entity"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Oh.   No problem. They were my idea. MARY", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": []
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Well it was a very nice gesture. She continues walking, then stops. MARY", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "stop", 
+                    [
+                        "Halt", 
+                        1024
+                    ], 
+                    [
+                        "Synset('stop.v.01')", 
+                        "Synset('discontinue.v.01')", 
+                        "Synset('stop.v.03')", 
+                        "Synset('stop.v.04')", 
+                        "Synset('stop.v.05')", 
+                        "Synset('break.v.10')", 
+                        "Synset('check.v.18')", 
+                        "Synset('intercept.v.01')", 
+                        "Synset('end.v.01')", 
+                        "Synset('barricade.v.01')", 
+                        "Synset('hold_on.v.02')"
+                    ], 
+                    [
+                        [
+                            "then", 
+                            "Manner"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "We're going to lunch at the cafe on the corner. Would you and Mike like to join us?", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "like", 
+                    [
+                        "Experiencer_focus", 
+                        48
+                    ], 
+                    [
+                        "Synset('wish.v.02')", 
+                        "Synset('like.v.02')", 
+                        "Synset('like.v.03')", 
+                        "Synset('like.v.04')", 
+                        "Synset('like.v.05')"
+                    ], 
+                    [
+                        [
+                            "to join us", 
+                            "Content"
+                        ], 
+                        [
+                            "you and", 
+                            "Experiencer"
+                        ]
+                    ]
+                ], 
+                [
+                    "join", 
+                    [
+                        "Becoming_a_member", 
+                        1733
+                    ], 
+                    [
+                        "Synset('join.v.01')", 
+                        "Synset('join.v.02')", 
+                        "Synset('join.v.03')", 
+                        "Synset('join.v.04')", 
+                        "Synset('connect.v.03')"
+                    ], 
+                    [
+                        [
+                            "us", 
+                            "Group"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Absolutely.      We'll see you there. Mary and Molly leave.       Melvin turns back to Mike.", 
+            "head_text": {
+                "speaker/title": "MELVIN"
+            }
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "MELVIN", 
+            "head_text": {
+                "transition": "7."
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Great work my friend! Looks like we're in for a double date. He claps a high five with his son. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "clap", 
+                    [
+                        "Body_movement", 
+                        16
+                    ], 
+                    [
+                        "Synset('clap.v.01')", 
+                        "Synset('clap.v.02')", 
+                        "Synset('applaud.v.01')", 
+                        "Synset('clap.v.04')", 
+                        "Synset('clap.v.05')", 
+                        "Synset('clap.v.06')", 
+                        "Synset('clap.v.07')"
+                    ], 
+                    [
+                        [
+                            "He", 
+                            "Agent"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "And the perfect chance for you to learn from a master at work. INT.   CAFE ON THE CORNER      -   DAY. Melvin, Mike, Mary and Molly sit around a table. Before eating, Mary and Molly bow their heads in prayer. Mike watches them and does the same. Unseen by the others, Melvin decides to give thanks too. And not for the food in front of him. EXT.   PARK   -   DAY. Melvin and Mary sit and watch their children laugh as they chase each other about. MARY", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "learn", 
+                    [
+                        "Education_teaching", 
+                        111
+                    ], 
+                    [
+                        "Synset('learn.v.01')", 
+                        "Synset('learn.v.02')", 
+                        "Synset('memorize.v.01')", 
+                        "Synset('learn.v.04')", 
+                        "Synset('teach.v.01')", 
+                        "Synset('determine.v.08')"
+                    ], 
+                    [
+                        [
+                            "you", 
+                            "Student"
+                        ]
+                    ]
+                ], 
+                [
+                    "sit", 
+                    [
+                        "Being_located", 
+                        960
+                    ], 
+                    [
+                        "Synset('sit.v.01')", 
+                        "Synset('sit.v.02')", 
+                        "Synset('sit_down.v.01')", 
+                        "Synset('sit.v.04')", 
+                        "Synset('model.v.03')", 
+                        "Synset('ride.v.01')", 
+                        "Synset('sit.v.07')", 
+                        "Synset('baby-sit.v.02')", 
+                        "Synset('seat.v.01')", 
+                        "Synset('sit.v.10')"
+                    ], 
+                    [
+                        [
+                            "THE CORNER - DAY. Melvin , Mike , Mary and Molly", 
+                            "Theme"
+                        ], 
+                        [
+                            "around a table", 
+                            "Location"
+                        ]
+                    ]
+                ], 
+                [
+                    "bow", 
+                    [
+                        "Weapon", 
+                        426
+                    ], 
+                    [
+                        "Synset('bow.v.01')", 
+                        "Synset('submit.v.06')", 
+                        "Synset('bow.v.03')", 
+                        "Synset('crouch.v.01')", 
+                        "Synset('bow.v.05')"
+                    ], 
+                    []
+                ], 
+                [
+                    "watch", 
+                    [
+                        "Perception_active", 
+                        66
+                    ], 
+                    [
+                        "Synset('watch.v.01')", 
+                        "Synset('watch.v.02')", 
+                        "Synset('watch.v.03')", 
+                        "Synset('watch.v.04')", 
+                        "Synset('watch.v.05')", 
+                        "Synset('watch.v.06')", 
+                        "Synset('determine.v.08')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Perceiver_agentive"
+                        ], 
+                        [
+                            "them", 
+                            "Phenomenon"
+                        ]
+                    ]
+                ], 
+                [
+                    "give", 
+                    [
+                        "Giving", 
+                        139
+                    ], 
+                    [
+                        "Synset('give.v.01')", 
+                        "Synset('yield.v.01')", 
+                        "Synset('give.v.03')", 
+                        "Synset('give.v.04')", 
+                        "Synset('give.v.05')", 
+                        "Synset('hold.v.03')", 
+                        "Synset('give.v.07')", 
+                        "Synset('give.v.08')", 
+                        "Synset('give.v.09')", 
+                        "Synset('give.v.10')", 
+                        "Synset('render.v.04')", 
+                        "Synset('impart.v.01')", 
+                        "Synset('establish.v.05')", 
+                        "Synset('give.v.14')", 
+                        "Synset('give.v.15')", 
+                        "Synset('sacrifice.v.01')", 
+                        "Synset('pass.v.05')", 
+                        "Synset('give.v.18')", 
+                        "Synset('give.v.19')", 
+                        "Synset('give.v.20')", 
+                        "Synset('give.v.21')", 
+                        "Synset('grant.v.05')", 
+                        "Synset('move_over.v.01')", 
+                        "Synset('feed.v.02')", 
+                        "Synset('contribute.v.02')", 
+                        "Synset('collapse.v.01')", 
+                        "Synset('give.v.27')", 
+                        "Synset('give.v.28')", 
+                        "Synset('give.v.29')", 
+                        "Synset('afford.v.04')", 
+                        "Synset('give.v.31')", 
+                        "Synset('give.v.32')", 
+                        "Synset('give.v.33')", 
+                        "Synset('give.v.34')", 
+                        "Synset('give.v.35')", 
+                        "Synset('give.v.36')", 
+                        "Synset('give.v.37')", 
+                        "Synset('give.v.38')", 
+                        "Synset('give.v.39')", 
+                        "Synset('give.v.40')", 
+                        "Synset('give.v.41')", 
+                        "Synset('give.v.42')", 
+                        "Synset('give.v.43')", 
+                        "Synset('give.v.44')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Donor"
+                        ], 
+                        [
+                            "thanks", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "sit", 
+                    [
+                        "Being_located", 
+                        960
+                    ], 
+                    [
+                        "Synset('sit.v.01')", 
+                        "Synset('sit.v.02')", 
+                        "Synset('sit_down.v.01')", 
+                        "Synset('sit.v.04')", 
+                        "Synset('model.v.03')", 
+                        "Synset('ride.v.01')", 
+                        "Synset('sit.v.07')", 
+                        "Synset('baby-sit.v.02')", 
+                        "Synset('seat.v.01')", 
+                        "Synset('sit.v.10')"
+                    ], 
+                    [
+                        [
+                            "Melvin and Mary", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "watch", 
+                    [
+                        "Perception_active", 
+                        66
+                    ], 
+                    [
+                        "Synset('watch.v.01')", 
+                        "Synset('watch.v.02')", 
+                        "Synset('watch.v.03')", 
+                        "Synset('watch.v.04')", 
+                        "Synset('watch.v.05')", 
+                        "Synset('watch.v.06')", 
+                        "Synset('determine.v.08')"
+                    ], 
+                    []
+                ], 
+                [
+                    "laugh", 
+                    [
+                        "Make_noise", 
+                        69
+                    ], 
+                    [
+                        "Synset('laugh.v.01')"
+                    ], 
+                    []
+                ], 
+                [
+                    "chase", 
+                    [
+                        "Cotheme", 
+                        56
+                    ], 
+                    [
+                        "Synset('chase.v.01')", 
+                        "Synset('chase.v.02')", 
+                        "Synset('chase.v.03')", 
+                        "Synset('furrow.v.03')"
+                    ], 
+                    [
+                        [
+                            "they", 
+                            "Theme"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "They seem to like each other. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "like", 
+                    [
+                        "Experiencer_focus", 
+                        48
+                    ], 
+                    [
+                        "Synset('wish.v.02')", 
+                        "Synset('like.v.02')", 
+                        "Synset('like.v.03')", 
+                        "Synset('like.v.04')", 
+                        "Synset('like.v.05')"
+                    ], 
+                    [
+                        [
+                            "They", 
+                            "Experiencer"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "They certainly do. MARY", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "do", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('perform.v.01')", 
+                        "Synset('do.v.03')", 
+                        "Synset('do.v.04')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('practice.v.01')", 
+                        "Synset('suffice.v.01')", 
+                        "Synset('do.v.08')", 
+                        "Synset('act.v.02')", 
+                        "Synset('serve.v.09')", 
+                        "Synset('do.v.11')", 
+                        "Synset('dress.v.16')", 
+                        "Synset('do.v.13')"
+                    ], 
+                    [
+                        [
+                            "certainly", 
+                            "Act"
+                        ], 
+                        [
+                            "They", 
+                            "Agent"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Molly has a birthday party coming up. Would you like to come?", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "like", 
+                    [
+                        "Experiencer_focus", 
+                        48
+                    ], 
+                    [
+                        "Synset('wish.v.02')", 
+                        "Synset('like.v.02')", 
+                        "Synset('like.v.03')", 
+                        "Synset('like.v.04')", 
+                        "Synset('like.v.05')"
+                    ], 
+                    [
+                        [
+                            "to come", 
+                            "Content"
+                        ], 
+                        [
+                            "you", 
+                            "Experiencer"
+                        ]
+                    ]
+                ], 
+                [
+                    "come", 
+                    [
+                        "Arriving", 
+                        54
+                    ], 
+                    [
+                        "Synset('come.v.01')", 
+                        "Synset('arrive.v.01')", 
+                        "Synset('come.v.03')", 
+                        "Synset('come.v.04')", 
+                        "Synset('come.v.05')", 
+                        "Synset('come.v.06')", 
+                        "Synset('issue_forth.v.01')", 
+                        "Synset('hail.v.02')", 
+                        "Synset('come.v.09')", 
+                        "Synset('come.v.10')", 
+                        "Synset('come.v.11')", 
+                        "Synset('fall.v.04')", 
+                        "Synset('come.v.13')", 
+                        "Synset('total.v.01')", 
+                        "Synset('come.v.15')", 
+                        "Synset('come.v.16')", 
+                        "Synset('occur.v.02')", 
+                        "Synset('derive.v.05')", 
+                        "Synset('do.v.04')", 
+                        "Synset('come.v.20')", 
+                        "Synset('come.v.21')"
+                    ], 
+                    [
+                        [
+                            "?", 
+                            "Goal"
+                        ], 
+                        [
+                            "you", 
+                            "Theme"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Absolutely. MARY", 
+            "head_text": {
+                "speaker/title": "MELVIN"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "I'm thinking about a sleepover? Or is it too soon? She smiles at him.       Melvin raises an eyebrow seducti MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "smile", 
+                    [
+                        "Making_faces", 
+                        794
+                    ], 
+                    [
+                        "Synset('smile.v.01')", 
+                        "Synset('smile.v.02')"
+                    ], 
+                    [
+                        [
+                            "She", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "raise", 
+                    [
+                        "Causation", 
+                        5
+                    ], 
+                    [
+                        "Synset('raise.v.01')", 
+                        "Synset('raise.v.02')", 
+                        "Synset('raise.v.03')", 
+                        "Synset('raise.v.04')", 
+                        "Synset('grow.v.07')", 
+                        "Synset('rear.v.02')", 
+                        "Synset('raise.v.07')", 
+                        "Synset('lift.v.03')", 
+                        "Synset('raise.v.09')", 
+                        "Synset('arouse.v.01')", 
+                        "Synset('raise.v.11')", 
+                        "Synset('lift.v.10')", 
+                        "Synset('enhance.v.01')", 
+                        "Synset('promote.v.02')", 
+                        "Synset('raise.v.15')", 
+                        "Synset('raise.v.16')", 
+                        "Synset('raise.v.17')", 
+                        "Synset('recruit.v.03')", 
+                        "Synset('raise.v.19')", 
+                        "Synset('raise.v.20')", 
+                        "Synset('raise.v.21')", 
+                        "Synset('raise.v.22')", 
+                        "Synset('raise.v.23')", 
+                        "Synset('raise.v.24')", 
+                        "Synset('raise.v.25')", 
+                        "Synset('lift.v.20')", 
+                        "Synset('resurrect.v.01')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Cause"
+                        ], 
+                        [
+                            "an eyebrow seducti MELVIN", 
+                            "Effect"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "A \"sleepover\" would be great. No such thing as \"too soon\" when you're with the right person.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": []
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "He moves closer to Mary. He puts one hand on her leg and uses the other to play with her hair. She pulls away violently and stands. MARY", 
+            "head_text": {
+                "transition": "8."
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "What are you doing?! MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": []
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Getting to know you. Before the \"sleepover\". MARY", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "know", 
+                    [
+                        "Awareness", 
+                        19
+                    ], 
+                    [
+                        "Synset('know.v.01')", 
+                        "Synset('know.v.02')", 
+                        "Synset('know.v.03')", 
+                        "Synset('know.v.04')", 
+                        "Synset('know.v.05')", 
+                        "Synset('acknowledge.v.06')", 
+                        "Synset('know.v.07')", 
+                        "Synset('sleep_together.v.01')", 
+                        "Synset('know.v.09')", 
+                        "Synset('know.v.10')", 
+                        "Synset('know.v.11')"
+                    ], 
+                    [
+                        [
+                            "you", 
+                            "Content"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "I meant Mike coming over to spend the night. Not his Dad.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "spend", 
+                    [
+                        "Used_up", 
+                        1532
+                    ], 
+                    [], 
+                    []
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Oh. Unimpressed, she walks over to Molly, lifts her into her arms and they leave. Mike stares coldly at his father, his hands on his hips. EXT.   BUS STOP   -   DAY. Mike picks flowers from a nearby garden. Melvin sits alone, dejected. Mike approaches and whispers in his ear. MELVIN", 
+            "head_text": {
+                "speaker/title": "MELVIN"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "It's better to get shot down than wonder \"What if?\"? Mike whispers more. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "get", 
+                    [
+                        "Arriving", 
+                        54
+                    ], 
+                    [
+                        "Synset('get.v.01')", 
+                        "Synset('become.v.01')", 
+                        "Synset('get.v.03')", 
+                        "Synset('receive.v.02')", 
+                        "Synset('arrive.v.01')", 
+                        "Synset('bring.v.04')", 
+                        "Synset('experience.v.03')", 
+                        "Synset('pay_back.v.02')", 
+                        "Synset('have.v.17')", 
+                        "Synset('induce.v.02')", 
+                        "Synset('get.v.11')", 
+                        "Synset('grow.v.08')", 
+                        "Synset('contract.v.04')", 
+                        "Synset('get.v.14')", 
+                        "Synset('make.v.02')", 
+                        "Synset('drive.v.11')", 
+                        "Synset('catch.v.18')", 
+                        "Synset('catch.v.07')", 
+                        "Synset('get.v.19')", 
+                        "Synset('get.v.20')", 
+                        "Synset('get.v.21')", 
+                        "Synset('get.v.22')", 
+                        "Synset('catch.v.21')", 
+                        "Synset('catch.v.22')", 
+                        "Synset('get.v.25')", 
+                        "Synset('scram.v.01')", 
+                        "Synset('get.v.27')", 
+                        "Synset('get.v.28')", 
+                        "Synset('get.v.29')", 
+                        "Synset('catch.v.24')", 
+                        "Synset('draw.v.15')", 
+                        "Synset('get.v.32')", 
+                        "Synset('perplex.v.01')", 
+                        "Synset('get_down.v.07')", 
+                        "Synset('suffer.v.02')", 
+                        "Synset('beget.v.01')"
+                    ], 
+                    [
+                        [
+                            "shot down than wonder", 
+                            "Goal"
+                        ]
+                    ]
+                ], 
+                [
+                    "whisper", 
+                    [
+                        "Make_noise", 
+                        69
+                    ], 
+                    [
+                        "Synset('whisper.v.01')"
+                    ], 
+                    []
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "I now have the opportunity to apologise and endear myself to her? Mike presents his father with a small arrangement of hand-picked flowers. Melvin thinks. MELVIN", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "have", 
+                    [
+                        "Being_obligated", 
+                        392
+                    ], 
+                    [], 
+                    [
+                        [
+                            "I", 
+                            "Responsible_party"
+                        ]
+                    ]
+                ], 
+                [
+                    "present", 
+                    [
+                        "Presence", 
+                        1922
+                    ], 
+                    [
+                        "Synset('show.v.01')", 
+                        "Synset('present.v.02')", 
+                        "Synset('stage.v.01')", 
+                        "Synset('present.v.04')", 
+                        "Synset('present.v.05')", 
+                        "Synset('award.v.01')", 
+                        "Synset('give.v.08')", 
+                        "Synset('deliver.v.01')", 
+                        "Synset('introduce.v.01')", 
+                        "Synset('portray.v.04')", 
+                        "Synset('confront.v.03')", 
+                        "Synset('present.v.12')", 
+                        "Synset('salute.v.06')"
+                    ], 
+                    [
+                        [
+                            "Mike", 
+                            "Entity"
+                        ]
+                    ]
+                ], 
+                [
+                    "think", 
+                    [
+                        "Opinion", 
+                        1412
+                    ], 
+                    [
+                        "Synset('think.v.01')", 
+                        "Synset('think.v.02')", 
+                        "Synset('think.v.03')", 
+                        "Synset('remember.v.01')", 
+                        "Synset('think.v.05')", 
+                        "Synset('think.v.06')", 
+                        "Synset('intend.v.01')", 
+                        "Synset('think.v.08')", 
+                        "Synset('think.v.09')", 
+                        "Synset('think.v.10')", 
+                        "Synset('think.v.11')", 
+                        "Synset('think.v.12')", 
+                        "Synset('think.v.13')"
+                    ], 
+                    [
+                        [
+                            "Melvin", 
+                            "Opinion"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Yeah! Yeah, you're right.   I've taught you well! He takes the flowers, leans over and kisses his boy fondly on the head.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "take", 
+                    [
+                        "Removing", 
+                        63
+                    ], 
+                    [
+                        "Synset('take.v.01')", 
+                        "Synset('take.v.02')", 
+                        "Synset('lead.v.01')", 
+                        "Synset('take.v.04')", 
+                        "Synset('assume.v.03')", 
+                        "Synset('take.v.06')", 
+                        "Synset('bring.v.01')", 
+                        "Synset('take.v.08')", 
+                        "Synset('take.v.09')", 
+                        "Synset('choose.v.01')", 
+                        "Synset('accept.v.02')", 
+                        "Synset('fill.v.04')", 
+                        "Synset('consider.v.03')", 
+                        "Synset('necessitate.v.01')", 
+                        "Synset('take.v.15')", 
+                        "Synset('film.v.01')", 
+                        "Synset('remove.v.01')", 
+                        "Synset('consume.v.02')", 
+                        "Synset('take.v.19')", 
+                        "Synset('take.v.20')", 
+                        "Synset('take.v.21')", 
+                        "Synset('assume.v.05')", 
+                        "Synset('accept.v.05')", 
+                        "Synset('take.v.24')", 
+                        "Synset('learn.v.04')", 
+                        "Synset('claim.v.05')", 
+                        "Synset('take.v.27')", 
+                        "Synset('aim.v.01')", 
+                        "Synset('take.v.29')", 
+                        "Synset('carry.v.02')", 
+                        "Synset('lease.v.04')", 
+                        "Synset('subscribe.v.05')", 
+                        "Synset('take.v.33')", 
+                        "Synset('take.v.34')", 
+                        "Synset('take.v.35')", 
+                        "Synset('claim.v.04')", 
+                        "Synset('accept.v.08')", 
+                        "Synset('contain.v.05')", 
+                        "Synset('take.v.39')", 
+                        "Synset('drive.v.16')", 
+                        "Synset('take.v.41')", 
+                        "Synset('contract.v.04')"
+                    ], 
+                    [
+                        [
+                            "He", 
+                            "Agent"
+                        ], 
+                        [
+                            "the flowers", 
+                            "Theme"
+                        ]
+                    ]
+                ], 
+                [
+                    "lean", 
+                    [
+                        "Placing", 
+                        62
+                    ], 
+                    [
+                        "Synset('lean.v.01')", 
+                        "Synset('lean.v.02')", 
+                        "Synset('tend.v.01')", 
+                        "Synset('lean.v.04')", 
+                        "Synset('list.v.03')"
+                    ], 
+                    [
+                        [
+                            "He", 
+                            "Agent"
+                        ]
+                    ]
+                ], 
+                [
+                    "kiss", 
+                    [
+                        "Manipulation", 
+                        17
+                    ], 
+                    [
+                        "Synset('snog.v.01')", 
+                        "Synset('kiss.v.02')"
+                    ], 
+                    [
+                        [
+                            "He", 
+                            "Agent"
+                        ], 
+                        [
+                            "his boy", 
+                            "Entity"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "transition", 
+            "text": "", 
+            "head_text": {
+                "transition": "FADE OUT."
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }
+        }
+    ]
+]

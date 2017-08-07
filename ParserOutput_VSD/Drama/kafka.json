@@ -1,0 +1,281 @@
+[
+    [
+        {
+            "head_type": "heading", 
+            "text": "", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": "FADE IN"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "The Assistants sit on a big packing crate, brushing soot their suits, shaking dust out of their hair, fiddling wit the rips in their jackets and trousers.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": "MORNING", 
+                "terior": null, 
+                "location": null, 
+                "subj": "WATERFRONT WHARVES"
+            }, 
+            "sense_profile": [
+                [
+                    "sit", 
+                    [
+                        "Being_located", 
+                        960
+                    ], 
+                    [
+                        "Synset('sit.v.01')", 
+                        "Synset('sit.v.02')", 
+                        "Synset('sit_down.v.01')", 
+                        "Synset('sit.v.04')", 
+                        "Synset('model.v.03')", 
+                        "Synset('ride.v.01')", 
+                        "Synset('sit.v.07')", 
+                        "Synset('baby-sit.v.02')", 
+                        "Synset('seat.v.01')", 
+                        "Synset('sit.v.10')"
+                    ], 
+                    [
+                        [
+                            "The Assistants", 
+                            "Theme"
+                        ], 
+                        [
+                            "on a big packing crate", 
+                            "Location"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "We could go back to the office. Explain ourselves to the Chief Clerk.", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "They'd drive us away.  That Kafka's made things very hot for us.", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "I understand he was wounded in the lung.", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "(sulky) It doesn't matter.  It's too late for all of us.", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "(looks at O.) What's to become of us now?", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Oskar has a long think.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": []
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "(looks at L.) Amerika.  That's the place to go.", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Ludwig jumps off the box and gapes at Oskar, tremendously impressed by this brainstorm.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "jump", 
+                    [
+                        "Change_position_on_a_scale", 
+                        91
+                    ], 
+                    [
+                        "Synset('jump.v.01')", 
+                        "Synset('startle.v.02')", 
+                        "Synset('jump.v.03')", 
+                        "Synset('jump.v.04')", 
+                        "Synset('leap_out.v.01')", 
+                        "Synset('jump.v.06')", 
+                        "Synset('rise.v.11')", 
+                        "Synset('jump.v.08')", 
+                        "Synset('derail.v.02')", 
+                        "Synset('chute.v.01')", 
+                        "Synset('jump.v.11')", 
+                        "Synset('jumpstart.v.01')", 
+                        "Synset('jump.v.13')", 
+                        "Synset('leap.v.02')", 
+                        "Synset('alternate.v.01')"
+                    ], 
+                    [
+                        [
+                            "off the box", 
+                            "Place"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Everyone in Amerika has a toaster in their building!", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "Oskar jumps down from the box.", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "jump", 
+                    [
+                        "Change_position_on_a_scale", 
+                        91
+                    ], 
+                    [
+                        "Synset('jump.v.01')", 
+                        "Synset('startle.v.02')", 
+                        "Synset('jump.v.03')", 
+                        "Synset('jump.v.04')", 
+                        "Synset('leap_out.v.01')", 
+                        "Synset('jump.v.06')", 
+                        "Synset('rise.v.11')", 
+                        "Synset('jump.v.08')", 
+                        "Synset('derail.v.02')", 
+                        "Synset('chute.v.01')", 
+                        "Synset('jump.v.11')", 
+                        "Synset('jumpstart.v.01')", 
+                        "Synset('jump.v.13')", 
+                        "Synset('leap.v.02')", 
+                        "Synset('alternate.v.01')"
+                    ], 
+                    [
+                        [
+                            "Oskar", 
+                            "Item"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Then that's the place for us!", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Amerika for us!", 
+            "head_text": {
+                "speaker/title": "LUDWIG"
+            }
+        }, 
+        {
+            "head_type": "speaker/title", 
+            "text": "Amerika!", 
+            "head_text": {
+                "speaker/title": "OSKAR"
+            }
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "And, linking arms, they do a strange dance along the quay", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }, 
+            "sense_profile": [
+                [
+                    "do", 
+                    [
+                        "Intentionally_act", 
+                        198
+                    ], 
+                    [
+                        "Synset('make.v.01')", 
+                        "Synset('perform.v.01')", 
+                        "Synset('do.v.03')", 
+                        "Synset('do.v.04')", 
+                        "Synset('cause.v.01')", 
+                        "Synset('practice.v.01')", 
+                        "Synset('suffice.v.01')", 
+                        "Synset('do.v.08')", 
+                        "Synset('act.v.02')", 
+                        "Synset('serve.v.09')", 
+                        "Synset('do.v.11')", 
+                        "Synset('dress.v.16')", 
+                        "Synset('do.v.13')"
+                    ], 
+                    [
+                        [
+                            "a strange dance along the quay", 
+                            "Act"
+                        ], 
+                        [
+                            "they", 
+                            "Agent"
+                        ]
+                    ]
+                ]
+            ]
+        }, 
+        {
+            "head_type": "heading", 
+            "text": "", 
+            "head_text": {
+                "shot type": null, 
+                "ToD": null, 
+                "terior": null, 
+                "location": null, 
+                "subj": null
+            }
+        }
+    ]
+]
