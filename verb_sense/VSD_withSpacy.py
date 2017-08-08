@@ -230,7 +230,7 @@ def simple_test():
 	       "Indy looks up at the ceiling of the landing, then steps onto skeletons, which make a cracking noise under his feet. "
 
 	action_senses = sense_profile(text)
-	with open('verb_sense_output_VSD.txt', 'w') as vso:
+	with open('VSD_simple_test.txt', 'w') as vso:
 		for verb, frame, synsets, args in action_senses:
 			vso.write('verb:\t' + str(verb) + '\n')
 			vso.write('frame:\t' + str(frame) + '\n')
@@ -241,9 +241,9 @@ def simple_test():
 	print(action_senses)
 
 
-if __name__ == '__main__':
+def full_json_test(json_name):
 	import json
-	with open('../ParserOutput//Action//badboys.json') as play:
+	with open(json_name) as play:
 		text = json.load(play)
 
 	for mseg in text:
@@ -257,3 +257,7 @@ if __name__ == '__main__':
 			action_senses = sense_profile(text)
 
 	print(action_senses)
+
+if __name__ == '__main__':
+	simple_test()
+	full_json_test('../ParserOutput//Action//badboys.json')

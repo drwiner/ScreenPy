@@ -298,7 +298,8 @@ if __name__ == '__main__':
 	# with open('imsdb_raw_nov_2015//Sci-Fi/abyssthe.txt') as fn:
 	# 	play = fn.read()
 
-	screenplay = 'indianajonesandtheraidersofthelostark.txt'
+	# screenplay = 'indianajonesandtheraidersofthelostark.txt'
+	screenplay = 'imsdb_raw_nov_2015/Western/truegrit.txt'
 	with open(screenplay, 'r') as fn:
 		play = fn.read()
 
@@ -314,7 +315,8 @@ if __name__ == '__main__':
 
 	# pickle.dump(masta, open('ij.pkl', 'wb'))
 
-	with open('indianajonesandtheraidersofthelostark.json', 'w') as fp:
+	# with open('indianajonesandtheraidersofthelostark.json', 'w') as fp:
+	with open('truegrit.json', 'w') as fp:
 		json.dump(masta, fp, indent=4)
 
 
