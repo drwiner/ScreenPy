@@ -1,0 +1,449 @@
+{
+  "title": "THE MATRIX",
+  "segments": [
+    {
+      "id": 0,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "THE MATRIX",
+        "time_of_day": null,
+        "raw_text": "THE MATRIX",
+        "start_pos": 1,
+        "end_pos": 1,
+        "is_master": false
+      },
+      "content": "",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": null,
+      "child_segment_ids": [],
+      "start_pos": 1,
+      "end_pos": 1
+    },
+    {
+      "id": 1,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "FADE IN:",
+        "time_of_day": null,
+        "raw_text": "FADE IN:",
+        "start_pos": 3,
+        "end_pos": 3,
+        "is_master": false
+      },
+      "content": "",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": null,
+      "child_segment_ids": [],
+      "start_pos": 3,
+      "end_pos": 3
+    },
+    {
+      "id": 2,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "INT.",
+        "locations": [
+          "HEART O' THE CITY HOTEL"
+        ],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": null,
+        "time_of_day": "NIGHT",
+        "raw_text": "INT. HEART O' THE CITY HOTEL - NIGHT",
+        "start_pos": 5,
+        "end_pos": 5,
+        "is_master": true
+      },
+      "content": "The hotel was abandoned after a fire licked its way\nacross the polyester carpeting, destroying several\nrooms as it spooled soot up the walls and ceiling.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": null,
+      "child_segment_ids": [
+        3,
+        4,
+        5
+      ],
+      "start_pos": 5,
+      "end_pos": 10
+    },
+    {
+      "id": 3,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "TRINITY",
+        "time_of_day": null,
+        "raw_text": "TRINITY",
+        "start_pos": 11,
+        "end_pos": 11,
+        "is_master": false
+      },
+      "content": "",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 2,
+      "child_segment_ids": [],
+      "start_pos": 11,
+      "end_pos": 11
+    },
+    {
+      "id": 4,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "(V.O.)",
+        "time_of_day": null,
+        "raw_text": "(V.O.)",
+        "start_pos": 12,
+        "end_pos": 12,
+        "is_master": false
+      },
+      "content": "I know why you're here, Neo.\n\nWe MOVE CLOSER, closing in as the monitor seems to\nrush at us, DIVING INTO the computer screen.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [
+        "MOVE",
+        "CLOSER",
+        "DIVING",
+        "INTO"
+      ],
+      "parent_segment_id": 2,
+      "child_segment_ids": [],
+      "start_pos": 12,
+      "end_pos": 17
+    },
+    {
+      "id": 5,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": "CLOSE",
+        "shot_modifier": null,
+        "subject": "T TO:",
+        "time_of_day": null,
+        "raw_text": "CUT TO:",
+        "start_pos": 18,
+        "end_pos": 18,
+        "is_master": false
+      },
+      "content": "",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 2,
+      "child_segment_ids": [],
+      "start_pos": 18,
+      "end_pos": 18
+    },
+    {
+      "id": 6,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "INT.",
+        "locations": [
+          "ROOM 303"
+        ],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": null,
+        "time_of_day": "NIGHT",
+        "raw_text": "INT. ROOM 303 - NIGHT",
+        "start_pos": 20,
+        "end_pos": 20,
+        "is_master": true
+      },
+      "content": "TRINITY is a beautiful woman in black leather.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [
+        "TRINITY"
+      ],
+      "parent_segment_id": null,
+      "child_segment_ids": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "start_pos": 20,
+      "end_pos": 23
+    },
+    {
+      "id": 7,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "TRINITY",
+        "time_of_day": null,
+        "raw_text": "TRINITY",
+        "start_pos": 24,
+        "end_pos": 24,
+        "is_master": false
+      },
+      "content": "I know what you've been doing.\nI know why you hardly sleep,\nwhy you live alone and why,\nnight after night, you sit\nat your computer.\n\nShe walks to the window.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 24,
+      "end_pos": 32
+    },
+    {
+      "id": 8,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "TRINITY (CONT'D)",
+        "time_of_day": null,
+        "raw_text": "TRINITY (CONT'D)",
+        "start_pos": 33,
+        "end_pos": 33,
+        "is_master": false
+      },
+      "content": "You're looking for him.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 33,
+      "end_pos": 35
+    },
+    {
+      "id": 9,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": "ANGLE",
+        "shot_modifier": null,
+        "subject": "NEO",
+        "time_of_day": null,
+        "raw_text": "ANGLE ON NEO",
+        "start_pos": 36,
+        "end_pos": 36,
+        "is_master": false
+      },
+      "content": "NEO, a man in his early thirties, watches her intently.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [
+        "NEO"
+      ],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 36,
+      "end_pos": 39
+    },
+    {
+      "id": 10,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "NEO",
+        "time_of_day": null,
+        "raw_text": "NEO",
+        "start_pos": 40,
+        "end_pos": 40,
+        "is_master": false
+      },
+      "content": "Who?",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 40,
+      "end_pos": 42
+    },
+    {
+      "id": 11,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "TRINITY",
+        "time_of_day": null,
+        "raw_text": "TRINITY",
+        "start_pos": 43,
+        "end_pos": 43,
+        "is_master": false
+      },
+      "content": "You know who I'm talking about.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 43,
+      "end_pos": 45
+    },
+    {
+      "id": 12,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "NEO",
+        "time_of_day": null,
+        "raw_text": "NEO",
+        "start_pos": 46,
+        "end_pos": 46,
+        "is_master": false
+      },
+      "content": "Morpheus.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 46,
+      "end_pos": 48
+    },
+    {
+      "id": 13,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "TRINITY",
+        "time_of_day": null,
+        "raw_text": "TRINITY",
+        "start_pos": 49,
+        "end_pos": 49,
+        "is_master": false
+      },
+      "content": "(smiling)\nYes. I know you think you're\nlooking for him, but he's\nlooking for you.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 49,
+      "end_pos": 54
+    },
+    {
+      "id": 14,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": "CLOSE",
+        "shot_modifier": null,
+        "subject": "NEO'S FACE",
+        "time_of_day": null,
+        "raw_text": "CLOSE ON NEO'S FACE",
+        "start_pos": 55,
+        "end_pos": 55,
+        "is_master": false
+      },
+      "content": "Confusion and hope battle in his expression.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 6,
+      "child_segment_ids": [],
+      "start_pos": 55,
+      "end_pos": 58
+    },
+    {
+      "id": 15,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "EXT.",
+        "locations": [
+          "CITY STREET"
+        ],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": null,
+        "time_of_day": "CONTINUOUS",
+        "raw_text": "EXT. CITY STREET - CONTINUOUS",
+        "start_pos": 59,
+        "end_pos": 59,
+        "is_master": true
+      },
+      "content": "The city sprawls endlessly under a starless sky.",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": null,
+      "child_segment_ids": [
+        16
+      ],
+      "start_pos": 59,
+      "end_pos": 62
+    },
+    {
+      "id": 16,
+      "type": "shot_heading",
+      "heading": {
+        "location_type": "",
+        "locations": [],
+        "shot_type": null,
+        "shot_modifier": null,
+        "subject": "FADE OUT.",
+        "time_of_day": null,
+        "raw_text": "FADE OUT.",
+        "start_pos": 63,
+        "end_pos": 63,
+        "is_master": false
+      },
+      "content": "",
+      "dialogue": null,
+      "transition": null,
+      "capitalized_words": [],
+      "parent_segment_id": 15,
+      "child_segment_ids": [],
+      "start_pos": 63,
+      "end_pos": 63
+    }
+  ],
+  "transitions": [],
+  "characters": {},
+  "metadata": {
+    "parse_date": "2025-09-22T12:54:01.640421",
+    "parser_version": "2.0.0"
+  }
+}
